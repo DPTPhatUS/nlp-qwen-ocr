@@ -68,7 +68,12 @@ def parse_args() -> argparse.Namespace:
         help="Hugging Face model repository to load",
     )
     parser.add_argument("--max-new-tokens", type=int, default=1024, help="Max tokens to generate per page")
-    parser.add_argument("--temperature", type=float, default=0.0, help="Sampling temperature for generation")
+    parser.add_argument(
+        "--temperature",
+        type=float,
+        default=0.0,
+        help="Temperature > 0 enables sampling; 0 switches to greedy decoding",
+    )
     parser.add_argument(
         "--dtype",
         choices=["auto", "float16", "bfloat16", "float32"],
@@ -120,7 +125,8 @@ class QwenOcrClient:
             trust_remote_code=True,
         )
         self.max_new_tokens = max_new_tokens
-        self.temperature = temperature
+        self.temperature = max(0.0, float(temperature))
+        self.do_sample = self.temperature > 0
 
     def _resolve_dtype(self, name: str):
         if name == "auto":
@@ -157,10 +163,15 @@ class QwenOcrClient:
             images=vision_inputs,
             return_tensors="pt",
         ).to(self.model.device)
+        gen_kwargs = {
+            "max_new_tokens": self.max_new_tokens,
+            "do_sample": self.do_sample,
+        }
+        if self.do_sample:
+            gen_kwargs["temperature"] = self.temperature
         generated = self.model.generate(
             **model_inputs,
-            max_new_tokens=self.max_new_tokens,
-            temperature=self.temperature,
+            **gen_kwargs,
         )
         output = self.processor.batch_decode(generated, skip_special_tokens=True)[0]
         return self._parse_response(output)
