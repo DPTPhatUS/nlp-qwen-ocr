@@ -19,7 +19,7 @@ from docx import Document
 from docx.shared import Inches
 from qwen_vl_utils import process_vision_info
 from tqdm.auto import tqdm
-from transformers import AutoModelForCausalLM, AutoProcessor
+from transformers import Qwen3VLForConditionalGeneration, AutoProcessor
 
 LOGGER = logging.getLogger("qwen_ocr")
 
@@ -113,7 +113,7 @@ class QwenOcrClient:
             max_pixels=max_pixels,
         )
         LOGGER.info("Loading model %s", model_id)
-        self.model = AutoModelForCausalLM.from_pretrained(
+        self.model = Qwen3VLForConditionalGeneration.from_pretrained(
             model_id,
             torch_dtype=dtype,
             device_map=device_map,
@@ -223,7 +223,7 @@ class BookOcrPipeline:
         self.ocr = QwenOcrClient(
             model_id=args.model_id,
             device_map=args.device_map,
-            torch_dtype=args.dtype,
+            dtype=args.dtype,
             min_pixels=args.min_pixels,
             max_pixels=args.max_pixels,
             max_new_tokens=args.max_new_tokens,
