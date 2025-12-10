@@ -16,6 +16,13 @@ pip install -e .
 
 Make sure the machine has enough VRAM (24 GB+ works well for FP16) or enable CPU inference with smaller batches.
 
+Key runtime dependencies bundled in `pyproject.toml`:
+
+- `accelerate` enables `device_map="auto"` placement across GPUs/CPUs.
+- `safetensors` ensures faster, secure checkpoint loading from Hugging Face.
+- `sentencepiece` and `huggingface-hub` cover tokenizer + model download needs for Qwen3-VL.
+- `torchvision` and `wrapt` are needed because `qwen-vl-utils` taps torchvision transforms inside Kaggle/colab runners.
+
 ## Running OCR
 
 ```bash
