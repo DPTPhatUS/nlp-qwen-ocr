@@ -22,6 +22,7 @@ Key runtime dependencies bundled in `pyproject.toml`:
 - `safetensors` ensures faster, secure checkpoint loading from Hugging Face.
 - `sentencepiece` and `huggingface-hub` cover tokenizer + model download needs for Qwen3-VL.
 - `torchvision` and `wrapt` are needed because `qwen-vl-utils` taps torchvision transforms inside Kaggle/colab runners.
+- `bitsandbytes` is optional; install it if you plan to pass `--load-in-8bit` for tighter VRAM budgets.
 
 ## Running OCR
 
@@ -43,6 +44,7 @@ python main.py \
 - `--max-pages 5` is handy for smoke tests without burning GPU quota.
 - `--device-map cuda:0 --dtype float16` pins inference to a known GPU / precision, while `--temperature` tunes creativity.
 - `--model-id Qwen/Qwen3-VL-8B-Instruct` can be swapped for another compatible checkpoint (quantized or fine-tuned) without touching the code.
+- Kaggle's dual T4s run smoothly with the defaults: `--attn-impl flash_attention_2 --gpu-mem-limit 14 --load-in-8bit` if you need extra headroom; the script auto-distributes weights across both GPUs via `device_map="auto"` and `max_memory` guards.
 
 ## Output Structure
 

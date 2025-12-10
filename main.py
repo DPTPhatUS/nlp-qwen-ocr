@@ -84,6 +84,29 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--min-pixels", type=int, default=512 * 512, help="Min pixels per side for processor")
     parser.add_argument("--max-pixels", type=int, default=2048 * 2048, help="Max pixels per side for processor")
     parser.add_argument("--max-pages", type=int, default=None, help="Limit number of pages per book (debug)")
+    parser.add_argument(
+        "--attn-impl",
+        choices=["flash_attention_2", "sdpa", "eager", "auto"],
+        default="auto",
+        help="Attention backend for Qwen (flash_attention_2 recommended on T4 when available)",
+    )
+    parser.add_argument(
+        "--load-in-8bit",
+        action="store_true",
+        help="Load the model with bitsandbytes 8-bit weights to fit smaller GPUs",
+    )
+    parser.add_argument(
+        "--gpu-mem-limit",
+        type=float,
+        default=14.0,
+        help="Per-GPU memory budget (GiB) for auto device_map when multiple GPUs exist",
+    )
+    parser.add_argument(
+        "--cpu-mem-limit",
+        type=float,
+        default=48.0,
+        help="CPU memory budget (GiB) for auto device_map spillover",
+    )
     parser.add_argument("--log-level", default="INFO", help="Logging level")
     return parser.parse_args()
 
@@ -108,8 +131,14 @@ class QwenOcrClient:
         max_pixels: int,
         max_new_tokens: int,
         temperature: float,
+        attn_impl: str,
+        load_in_8bit: bool,
+        gpu_mem_limit: float,
+        cpu_mem_limit: float,
     ) -> None:
         dtype = self._resolve_dtype(torch_dtype)
+        if dtype == "auto":
+            dtype = self._default_dtype()
         LOGGER.info("Loading processor %s", model_id)
         self.processor = AutoProcessor.from_pretrained(
             model_id,
@@ -118,12 +147,32 @@ class QwenOcrClient:
             max_pixels=max_pixels,
         )
         LOGGER.info("Loading model %s", model_id)
+        model_kwargs: Dict[str, object] = {
+            "trust_remote_code": True,
+        }
+        if attn_impl and attn_impl != "auto":
+            model_kwargs["attn_implementation"] = attn_impl
+        if load_in_8bit:
+            try:
+                from transformers import BitsAndBytesConfig  # type: ignore
+            except ImportError as exc:  # noqa: F401
+                raise RuntimeError(
+                    "bitsandbytes is required for --load-in-8bit; install it via pip install bitsandbytes",
+                ) from exc
+            model_kwargs["quantization_config"] = BitsAndBytesConfig(load_in_8bit=True)
+        else:
+            model_kwargs["torch_dtype"] = dtype
+        device_map_value = device_map or "auto"
+        model_kwargs["device_map"] = device_map_value
+        if device_map_value == "auto":
+            max_memory = self._build_max_memory_dict(gpu_mem_limit, cpu_mem_limit)
+            if max_memory:
+                model_kwargs["max_memory"] = max_memory
         self.model = Qwen3VLForConditionalGeneration.from_pretrained(
             model_id,
-            dtype=dtype,
-            device_map=device_map,
-            trust_remote_code=True,
+            **model_kwargs,
         )
+        self.model.eval()
         self.max_new_tokens = max_new_tokens
         self.temperature = max(0.0, float(temperature))
         self.do_sample = self.temperature > 0
@@ -137,6 +186,24 @@ class QwenOcrClient:
             "float32": torch.float32,
         }
         return mapping[name]
+
+    def _default_dtype(self):
+        if torch.cuda.is_available():
+            return torch.float16
+        return torch.float32
+
+    def _build_max_memory_dict(self, gpu_limit: float, cpu_limit: float) -> Optional[Dict[object, str]]:
+        if not torch.cuda.is_available():
+            return None
+        limits: Dict[object, str] = {}
+        num_devices = torch.cuda.device_count()
+        for idx in range(num_devices):
+            total_gb = torch.cuda.get_device_properties(idx).total_memory / (1024**3)
+            cap = min(max(total_gb - 1, 2.0), gpu_limit) if gpu_limit else total_gb - 1
+            limits[idx] = f"{cap:.2f}GiB"
+        if cpu_limit:
+            limits["cpu"] = f"{cpu_limit:.0f}GiB"
+        return limits
 
     def ocr_page(self, page_num: int, image_path: Path) -> Dict[str, object]:
         messages = [
@@ -239,6 +306,10 @@ class BookOcrPipeline:
             max_pixels=args.max_pixels,
             max_new_tokens=args.max_new_tokens,
             temperature=args.temperature,
+            attn_impl=args.attn_impl,
+            load_in_8bit=args.load_in_8bit,
+            gpu_mem_limit=args.gpu_mem_limit,
+            cpu_mem_limit=args.cpu_mem_limit,
         )
         self.books = self._discover_books(args.books)
         self.docx_exporter = MarkdownDocxExporter()
