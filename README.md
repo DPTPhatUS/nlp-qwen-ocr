@@ -20,15 +20,22 @@ Make sure the machine has enough VRAM (24 GB+ works well for FP16) or enable CPU
 
 ```bash
 python main.py \
-	--source docs \
-	--output outputs \
-	--books book1 \
-	--model-id Qwen/Qwen3-VL-8B-Instruct
+  --source docs \
+  --output outputs \
+  --books book1 \
+  --model-id Qwen/Qwen3-VL-8B-Instruct
 ```
 
 - Omit `--books` to process every book folder inside `docs/`.
 - Use `--min-pixels` / `--max-pixels` to trade off speed vs fidelity, mirroring the guidance from the Qwen docs.
-- Per-page Markdown lands in `outputs/<book>/markdown`. The merged Markdown and Docx live beside them so you can keep Kaggle submissions aligned with the original pipeline layout.
+- Every page gets its own Markdown file as well as a stitched `book.md` and DOCX so you can keep Kaggle submissions aligned with the original pipeline layout.
+
+### Helpful CLI flags
+
+- `--books book3 book1` lets you run a single title (or a short list) during Kaggle submissions.
+- `--max-pages 5` is handy for smoke tests without burning GPU quota.
+- `--device-map cuda:0 --dtype float16` pins inference to a known GPU / precision, while `--temperature` tunes creativity.
+- `--model-id Qwen/Qwen3-VL-8B-Instruct` can be swapped for another compatible checkpoint (quantized or fine-tuned) without touching the code.
 
 ## Output Structure
 
@@ -38,14 +45,24 @@ outputs/
 		markdown/
 			page_001.md
 			book1.md
+		assets/
+			page_001/
+				asset_fig-1.png
 		docx/
 			book1.docx
 ```
 
-Each page level file preserves the block layout (`## Page n` + `### Block k`) while the aggregated Markdown is used to render the final Docx via `python-docx`.
+Each page-level Markdown preserves the block layout (`## Page n` + `### Block k`). When the model tags a figure/chart/formula using `{{ASSET:...}}`, the pipeline crops the bounding box from the scanned page, saves it under `assets/`, and rewrites the placeholder as a Markdown image pointing at the cropped PNG. The aggregated Markdown is then rendered to DOCX via `python-docx`, which now embeds those figures directly.
+
+## Figures, charts, formulas
+
+- Qwen3-VL-8B is prompted to return JSON with a `markdown` string plus an `assets` array describing each figure/chart/formula along with absolute pixel bounding boxes.
+- Bounding boxes are clamped to the page size and cropped with Pillow; filenames are slugged per asset id to keep per-page folders clean.
+- Placeholders such as `{{ASSET:fig-1}}` are automatically replaced by `![caption](../assets/page/asset_fig-1.png)` so the Markdown for that page links the correct figure inline.
+- The DOCX converter scans those Markdown image links and inserts the underlying PNG into the Word output, so figures travel with the text end-to-end.
 
 ## Tips
 
 - For Kaggle you can gate the runtime by asking for a single book per run (`--books book3`).
-- The prompt in `PAGE_PROMPT` is localized to Vietnamese; adjust it if you need bilingual output or extra JSON metadata.
+- The prompt in `PAGE_PROMPT` is localized to Vietnamese; adjust it if you need bilingual output or to request additional metadata from Qwen (e.g., extra JSON fields per block).
 - If you need faster inference, quantized checkpoints from the same Hugging Face repo also satisfy the API contract (update `--model-id`).
