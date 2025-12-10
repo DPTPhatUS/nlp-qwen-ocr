@@ -1,0 +1,58 @@
+{
+  "page_num": 169,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0169_001_text.png",
+      "bbox": [
+        [
+          230,
+          1
+        ],
+        [
+          753,
+          1
+        ],
+        [
+          753,
+          96
+        ],
+        [
+          230,
+          96
+        ]
+      ],
+      "score": 0.5948593616485596,
+      "y_pos": 1,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9646797269582749
+    },
+    {
+      "type": "number",
+      "img_path": "p0169_000_number.png",
+      "bbox": [
+        [
+          1536,
+          2225
+        ],
+        [
+          1612,
+          2225
+        ],
+        [
+          1612,
+          2267
+        ],
+        [
+          1536,
+          2267
+        ]
+      ],
+      "score": 0.8912360668182373,
+      "y_pos": 2225,
+      "text": "\n    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0169.png"
+}

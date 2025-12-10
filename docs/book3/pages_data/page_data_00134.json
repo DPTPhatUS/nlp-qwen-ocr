@@ -1,0 +1,396 @@
+{
+  "page_num": 134,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0134_001_text.png",
+      "bbox": [
+        [
+          164,
+          307
+        ],
+        [
+          1510,
+          307
+        ],
+        [
+          1510,
+          427
+        ],
+        [
+          164,
+          427
+        ]
+      ],
+      "score": 0.9601185917854309,
+      "y_pos": 307,
+      "text": "3. Mạch cửu đạo (9 mạch thuộc đạo): kết, tán, tế, sác,\nđộng, hư, súc, đợi, cách.",
+      "confidence": 0.8358691447074451
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_013_text.png",
+      "bbox": [
+        [
+          313,
+          468
+        ],
+        [
+          1365,
+          468
+        ],
+        [
+          1365,
+          519
+        ],
+        [
+          313,
+          519
+        ]
+      ],
+      "score": 0.8441210985183716,
+      "y_pos": 468,
+      "text": "4. Tam mạch (3 mạch khác): trường, đoản, đại.",
+      "confidence": 0.7434212603467576
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_000_text.png",
+      "bbox": [
+        [
+          163,
+          557
+        ],
+        [
+          1510,
+          557
+        ],
+        [
+          1510,
+          815
+        ],
+        [
+          163,
+          815
+        ]
+      ],
+      "score": 0.9769558310508728,
+      "y_pos": 557,
+      "text": "5. Mạch Thất Quái (7 mạch kỳ quái hay còn gọi là\nthất tử mạch. Những mạch này biểu hiện những chứng bệnh\nkhông thể chữa được): ngư tường, ốc lậu, hà du, đạn thạch,\ntước trác, giải sách, phù phí.",
+      "confidence": 0.9569370250717589
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0134_012_paragraph_title.png",
+      "bbox": [
+        [
+          277,
+          929
+        ],
+        [
+          1401,
+          929
+        ],
+        [
+          1401,
+          992
+        ],
+        [
+          277,
+          992
+        ]
+      ],
+      "score": 0.8750960826873779,
+      "y_pos": 929,
+      "text": "THẤT BIỂU BÁT LÝ CỦU ĐAO MẠCH DANH",
+      "confidence": 0.9867650038666196
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_014_text.png",
+      "bbox": [
+        [
+          518,
+          1032
+        ],
+        [
+          1166,
+          1032
+        ],
+        [
+          1166,
+          1084
+        ],
+        [
+          518,
+          1084
+        ]
+      ],
+      "score": 0.8290367722511292,
+      "y_pos": 1032,
+      "text": "(Trích trong y học nhập môn)",
+      "confidence": 0.9767124116420746
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_011_text.png",
+      "bbox": [
+        [
+          315,
+          1116
+        ],
+        [
+          1155,
+          1116
+        ],
+        [
+          1155,
+          1173
+        ],
+        [
+          315,
+          1173
+        ]
+      ],
+      "score": 0.877013087272644,
+      "y_pos": 1116,
+      "text": "Phù khổng hoạt thực huyền khẩn hồng",
+      "confidence": 0.9992561823612934
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_008_text.png",
+      "bbox": [
+        [
+          315,
+          1208
+        ],
+        [
+          1096,
+          1208
+        ],
+        [
+          1096,
+          1262
+        ],
+        [
+          315,
+          1262
+        ]
+      ],
+      "score": 0.8887050747871399,
+      "y_pos": 1208,
+      "text": "Danh vi thất biểu thuộc dương cung",
+      "confidence": 0.9981263726949692
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_006_text.png",
+      "bbox": [
+        [
+          315,
+          1296
+        ],
+        [
+          968,
+          1296
+        ],
+        [
+          968,
+          1349
+        ],
+        [
+          315,
+          1349
+        ]
+      ],
+      "score": 0.8912695646286011,
+      "y_pos": 1296,
+      "text": "Vi trầm hoãn sắc trì tinh phục",
+      "confidence": 0.9972627107053995
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_004_text.png",
+      "bbox": [
+        [
+          314,
+          1386
+        ],
+        [
+          953,
+          1386
+        ],
+        [
+          953,
+          1438
+        ],
+        [
+          314,
+          1438
+        ]
+      ],
+      "score": 0.9000111818313599,
+      "y_pos": 1386,
+      "text": "Nhu nhược vi âm bát lý đồng",
+      "confidence": 0.9973450344184349
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_005_text.png",
+      "bbox": [
+        [
+          314,
+          1474
+        ],
+        [
+          991,
+          1474
+        ],
+        [
+          991,
+          1529
+        ],
+        [
+          314,
+          1529
+        ]
+      ],
+      "score": 0.8932552933692932,
+      "y_pos": 1474,
+      "text": "Tế sác đồng quy cửu đạo trung",
+      "confidence": 0.9997398910983917
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_007_text.png",
+      "bbox": [
+        [
+          316,
+          1566
+        ],
+        [
+          1088,
+          1566
+        ],
+        [
+          1088,
+          1617
+        ],
+        [
+          316,
+          1617
+        ]
+      ],
+      "score": 0.8894365429878235,
+      "y_pos": 1566,
+      "text": "Hựu hữu trường đoản đại tam mạch",
+      "confidence": 0.9935999530203202
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_009_text.png",
+      "bbox": [
+        [
+          317,
+          1653
+        ],
+        [
+          1031,
+          1653
+        ],
+        [
+          1031,
+          1705
+        ],
+        [
+          317,
+          1705
+        ]
+      ],
+      "score": 0.87946617603302,
+      "y_pos": 1653,
+      "text": "Kinh thơ sở tải diệc dương thông",
+      "confidence": 0.9996771602069631
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0134_003_paragraph_title.png",
+      "bbox": [
+        [
+          163,
+          1733
+        ],
+        [
+          1508,
+          1733
+        ],
+        [
+          1508,
+          1863
+        ],
+        [
+          163,
+          1863
+        ]
+      ],
+      "score": 0.9123125672340393,
+      "y_pos": 1733,
+      "text": "VI. Ý NGHĨA CÁC HÌNH THỂ VÀ TRẠNG THÁI CỦA\nTỪNG LOAI MACH",
+      "confidence": 0.8469229396432638
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_002_text.png",
+      "bbox": [
+        [
+          164,
+          1903
+        ],
+        [
+          1513,
+          1903
+        ],
+        [
+          1513,
+          2163
+        ],
+        [
+          164,
+          2163
+        ]
+      ],
+      "score": 0.95579993724823,
+      "y_pos": 1903,
+      "text": "1. Ý nghĩa: Mạch là một trạng thái mà khi khảo sát,\nchúng ta chỉ sử dụng được bằng súc giác và đòi hỏi phải rất tinh\nvi, nhạy bén. Mạch không thể nhìn thấy và không thể cân, đong,\nđo, đếm một cách thông thường. Tuy vậy, khi diễn tả mạch tượng,",
+      "confidence": 0.9508978165741899
+    },
+    {
+      "type": "number",
+      "img_path": "p0134_010_number.png",
+      "bbox": [
+        [
+          177,
+          2224
+        ],
+        [
+          257,
+          2224
+        ],
+        [
+          257,
+          2267
+        ],
+        [
+          177,
+          2267
+        ]
+      ],
+      "score": 0.8784031867980957,
+      "y_pos": 2224,
+      "text": "\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0134.png"
+}

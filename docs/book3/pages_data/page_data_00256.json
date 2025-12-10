@@ -1,0 +1,136 @@
+{
+  "page_num": 256,
+  "content": [
+    {
+      "type": "figure_title",
+      "img_path": "p0256_004_figure_title.png",
+      "bbox": [
+        [
+          622,
+          297
+        ],
+        [
+          1063,
+          297
+        ],
+        [
+          1063,
+          354
+        ],
+        [
+          622,
+          354
+        ]
+      ],
+      "score": 0.5208916664123535,
+      "y_pos": 297,
+      "text": "TÂM BỘ DƯỢC HỘI",
+      "confidence": 0.9911890240276561
+    },
+    {
+      "type": "table",
+      "img_path": "p0256_001_table.png",
+      "bbox": [
+        [
+          167,
+          423
+        ],
+        [
+          1420,
+          423
+        ],
+        [
+          1420,
+          1922
+        ],
+        [
+          167,
+          1922
+        ]
+      ],
+      "score": 0.6381491422653198,
+      "y_pos": 423,
+      "text": "Bổ mãnh tướng    Bổ thứ tướng\nĐan sâm    6 - 12gr    Viễn trí    4 -12gr\nNhân sâm    2 - 4gr    Phục thần    6 - 12gr\nLong nhãn    8-16gr    Đương qui    8 - 16gr\nNgũ vị tử    0,5 - 3gr    Hắc táo nhân    4 - 8gr\nMật Ong    10 - 20gr    Bá tử nhân    4 - 8gr\nBạch truật    6 - 16gr    Huyền sâm    12 - 20gr\nLiên nhục    15 - 30gr    Mạch môn    6 - 16gr\nÔn mãnh tướng    Ôn thứ tướng\nĐại hồi    4 - 8gr    Bách hợp    4 -12gr\nQuế chi    4 -12gr    Bách thảo xương    1-4gr\nCan khương    4 - 8gr    Sinh khương    4 - 8gr\nXương bồ    6 - 12gr\nTả mãnh tướng    Tả thứ tướng\nTê giác    2 - 4gr    Liên tâm    2 - 6gr\nChu sa    0,2 - 0,5gr    Sài đất    8 - 20gr\nHoàng liên    4 - 8gr    Liên kiểu    4 - 8gr\nMộc thông    15 - 20gr    Thủy xương bồ    6 - 12gr\nNgân hoa    4 - 12gr    Xa tiền tử    4 - 10gr\nMan kinh    4 - 8gr    Đăng tâm    2 - 4gr\nLương mãnh tướng    Lương thứ tướng\nHoàng liên    4 – 8 gr    Hòe hoa    6 – 12gr\nTrúc diệp    8 – 20gr    Sinh địa    15 – 30g\nHoàng đằng 8 – 12g    Chi tử    8 – 16g\nLá cối xay    <math>8 - 20g</math>    Rau má    <math>8 - 20g</math>",
+      "confidence": 0.9545468400999609
+    },
+    {
+      "type": "text",
+      "img_path": "p0256_003_text.png",
+      "bbox": [
+        [
+          627,
+          2065
+        ],
+        [
+          1098,
+          2065
+        ],
+        [
+          1098,
+          2184
+        ],
+        [
+          627,
+          2184
+        ]
+      ],
+      "score": 0.5278444290161133,
+      "y_pos": 2065,
+      "text": "CAN BỘ DƯỢC HỘI\nBổ thứ tướng",
+      "confidence": 0.9795072262778002
+    },
+    {
+      "type": "footer",
+      "img_path": "p0256_002_footer.png",
+      "bbox": [
+        [
+          171,
+          2131
+        ],
+        [
+          487,
+          2131
+        ],
+        [
+          487,
+          2184
+        ],
+        [
+          171,
+          2184
+        ]
+      ],
+      "score": 0.6118496656417847,
+      "y_pos": 2131,
+      "text": "Bổ mãnh tướng",
+      "confidence": 0.9888667543729146
+    },
+    {
+      "type": "number",
+      "img_path": "p0256_000_number.png",
+      "bbox": [
+        [
+          174,
+          2225
+        ],
+        [
+          258,
+          2225
+        ],
+        [
+          258,
+          2268
+        ],
+        [
+          174,
+          2268
+        ]
+      ],
+      "score": 0.8231610059738159,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0256.png"
+}

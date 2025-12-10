@@ -1,0 +1,396 @@
+{
+  "page_num": 115,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0115_014_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          751,
+          0
+        ],
+        [
+          751,
+          96
+        ],
+        [
+          227,
+          96
+        ]
+      ],
+      "score": 0.5698930621147156,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.96442627457472
+    },
+    {
+      "type": "text",
+      "img_path": "p0115_004_text.png",
+      "bbox": [
+        [
+          225,
+          303
+        ],
+        [
+          1570,
+          303
+        ],
+        [
+          1570,
+          424
+        ],
+        [
+          225,
+          424
+        ]
+      ],
+      "score": 0.9647496342658997,
+      "y_pos": 303,
+      "text": "Âm hư thường bị ra mồ hôi trộm (tự hãn), sau khi mồ hôi\nra thì có cảm giác uể oải, mệt nhọc.",
+      "confidence": 0.9963028872745079
+    },
+    {
+      "type": "text",
+      "img_path": "p0115_006_text.png",
+      "bbox": [
+        [
+          225,
+          463
+        ],
+        [
+          1571,
+          463
+        ],
+        [
+          1571,
+          580
+        ],
+        [
+          225,
+          580
+        ]
+      ],
+      "score": 0.962726891040802,
+      "y_pos": 463,
+      "text": "Dương hư cũng bị ra mồ hôi trộm (tự hãn), nhưng sau\nkhi mồ hôi ra thì có cảm giác giá lạnh.",
+      "confidence": 0.98794433571916
+    },
+    {
+      "type": "text",
+      "img_path": "p0115_001_text.png",
+      "bbox": [
+        [
+          224,
+          617
+        ],
+        [
+          1570,
+          617
+        ],
+        [
+          1570,
+          808
+        ],
+        [
+          224,
+          808
+        ]
+      ],
+      "score": 0.9753554463386536,
+      "y_pos": 617,
+      "text": "Bệnh đang sốt nếu ra mồ hôi sau đó giảm sốt là bệnh\nđang giảm. Nếu sau khi ra mồ hôi mà lai sốt tăng là tà khí\nđang nhập lý.",
+      "confidence": 0.9969815020603704
+    },
+    {
+      "type": "text",
+      "img_path": "p0115_003_text.png",
+      "bbox": [
+        [
+          225,
+          844
+        ],
+        [
+          1572,
+          844
+        ],
+        [
+          1572,
+          966
+        ],
+        [
+          225,
+          966
+        ]
+      ],
+      "score": 0.9649507999420166,
+      "y_pos": 844,
+      "text": "Nếu mồ hôi ra không ngừng, thân nhiệt giảm dần tới mức\nớn lạnh thì đó là vong dương (đây là chứng nguy kịch).",
+      "confidence": 0.9989370772881168
+    },
+    {
+      "type": "text",
+      "img_path": "p0115_000_text.png",
+      "bbox": [
+        [
+          223,
+          998
+        ],
+        [
+          1569,
+          998
+        ],
+        [
+          1569,
+          1260
+        ],
+        [
+          223,
+          1260
+        ]
+      ],
+      "score": 0.981533944606781,
+      "y_pos": 998,
+      "text": "Nếu chân tay quyết lãnh mà vẫn ra mồ hôi, nước mồ hôi\nnhờn nhờn, dính dính đọng lại như hạt châu mà khó rơi xuống\nhoặc khó lăn ra chỗ khác thì đó là một chứng tuyệt trong tạng\nphủ (rất khó cứu và thường là không cứu được).",
+      "confidence": 0.9941051003139234
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0115_013_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1294
+        ],
+        [
+          759,
+          1294
+        ],
+        [
+          759,
+          1346
+        ],
+        [
+          344,
+          1346
+        ]
+      ],
+      "score": 0.8847106695175171,
+      "y_pos": 1294,
+      "text": "Hỏi về sự ăn uống",
+      "confidence": 0.992812592732279
+    },
+    {
+      "type": "text",
+      "img_path": "p0115_005_text.png",
+      "bbox": [
+        [
+          225,
+          1382
+        ],
+        [
+          1564,
+          1382
+        ],
+        [
+          1564,
+          1502
+        ],
+        [
+          225,
+          1502
+        ]
+      ],
+      "score": 0.9646021723747253,
+      "y_pos": 1382,
+      "text": "- Miệng khô không muốn ăn uống là tỳ hư thấp tà\ndang thinh.",
+      "confidence": 0.9229882978943865
+    },
+    {
+      "type": "text",
+      "img_path": "p0115_009_text.png",
+      "bbox": [
+        [
+          345,
+          1539
+        ],
+        [
+          1493,
+          1539
+        ],
+        [
+          1493,
+          1592
+        ],
+        [
+          345,
+          1592
+        ]
+      ],
+      "score": 0.917619526386261,
+      "y_pos": 1539,
+      "text": "- Miệng nhạt, nhiều nước miếng, kém ăn là tỳ vị hư hàn.",
+      "confidence": 0.9992788810479013
+    },
+    {
+      "type": "text",
+      "img_path": "p0115_008_text.png",
+      "bbox": [
+        [
+          345,
+          1627
+        ],
+        [
+          1425,
+          1627
+        ],
+        [
+          1425,
+          1681
+        ],
+        [
+          345,
+          1681
+        ]
+      ],
+      "score": 0.9182554483413696,
+      "y_pos": 1627,
+      "text": "- Miệng đắng không muốn ăn là can đởm hỏa kết.",
+      "confidence": 0.9995963796973228
+    },
+    {
+      "type": "text",
+      "img_path": "p0115_011_text.png",
+      "bbox": [
+        [
+          345,
+          1717
+        ],
+        [
+          1141,
+          1717
+        ],
+        [
+          1141,
+          1771
+        ],
+        [
+          345,
+          1771
+        ]
+      ],
+      "score": 0.912835419178009,
+      "y_pos": 1717,
+      "text": "- Ån vào nôn ra ngay là nhiệt chứng.",
+      "confidence": 0.9655432418773049
+    },
+    {
+      "type": "text",
+      "img_path": "p0115_007_text.png",
+      "bbox": [
+        [
+          345,
+          1809
+        ],
+        [
+          1091,
+          1809
+        ],
+        [
+          1091,
+          1859
+        ],
+        [
+          345,
+          1859
+        ]
+      ],
+      "score": 0.9200665354728699,
+      "y_pos": 1809,
+      "text": "- Sáng ăn, tối nôn ói là hàn chứng.",
+      "confidence": 0.9954811527922347
+    },
+    {
+      "type": "text",
+      "img_path": "p0115_010_text.png",
+      "bbox": [
+        [
+          345,
+          1895
+        ],
+        [
+          1477,
+          1895
+        ],
+        [
+          1477,
+          1949
+        ],
+        [
+          345,
+          1949
+        ]
+      ],
+      "score": 0.9164889454841614,
+      "y_pos": 1895,
+      "text": "- Ăn uống thích đồ lạnh là vị nhiệt, thích nóng là vị hàn",
+      "confidence": 0.9891771583233849
+    },
+    {
+      "type": "text",
+      "img_path": "p0115_002_text.png",
+      "bbox": [
+        [
+          225,
+          1985
+        ],
+        [
+          1576,
+          1985
+        ],
+        [
+          1576,
+          2105
+        ],
+        [
+          225,
+          2105
+        ]
+      ],
+      "score": 0.9662289023399353,
+      "y_pos": 1985,
+      "text": "- Không muốn ăn, bụng lình bình hay ợ ngược là tỳ vị hư\nkhí nghịch.",
+      "confidence": 0.9928202198343239
+    },
+    {
+      "type": "number",
+      "img_path": "p0115_012_number.png",
+      "bbox": [
+        [
+          1534,
+          2225
+        ],
+        [
+          1611,
+          2225
+        ],
+        [
+          1611,
+          2267
+        ],
+        [
+          1534,
+          2267
+        ]
+      ],
+      "score": 0.892662525177002,
+      "y_pos": 2225,
+      "text": "    \n\n\n    \n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0115.png"
+}

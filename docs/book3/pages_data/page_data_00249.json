@@ -1,0 +1,136 @@
+{
+  "page_num": 249,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0249_004_header.png",
+      "bbox": [
+        [
+          228,
+          0
+        ],
+        [
+          751,
+          0
+        ],
+        [
+          751,
+          96
+        ],
+        [
+          228,
+          96
+        ]
+      ],
+      "score": 0.5617104768753052,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9634841664020832
+    },
+    {
+      "type": "table",
+      "img_path": "p0249_002_table.png",
+      "bbox": [
+        [
+          252,
+          284
+        ],
+        [
+          1533,
+          284
+        ],
+        [
+          1533,
+          1079
+        ],
+        [
+          252,
+          1079
+        ]
+      ],
+      "score": 0.8852883577346802,
+      "y_pos": 284,
+      "text": "Tâm,    Sắc    Vi    Phế,\nTiểu trường    THố    Đại trường\nN\nCan, Đởm    Tế    QUA    Tế    Tỳ, vị\nN\nThận,    Trầm    Trầm vô lực\nBàng Quang    XÍCH    Mệnh môn,\nTam tiêu\nΤả",
+      "confidence": 0.8278621291684946
+    },
+    {
+      "type": "text",
+      "img_path": "p0249_001_text.png",
+      "bbox": [
+        [
+          223,
+          1120
+        ],
+        [
+          1572,
+          1120
+        ],
+        [
+          1572,
+          1314
+        ],
+        [
+          223,
+          1314
+        ]
+      ],
+      "score": 0.9248386025428772,
+      "y_pos": 1120,
+      "text": "Với bộ mạch như trên, có thể nhận ra ngay chứng bệnh\ntổng quan. Bệnh nhân này khí huyết suy kiệt bởi mạch Tâm -\nSắc, mạch Can, Tỳ - Tế.",
+      "confidence": 0.9428710838306097
+    },
+    {
+      "type": "text",
+      "img_path": "p0249_000_text.png",
+      "bbox": [
+        [
+          222,
+          1348
+        ],
+        [
+          1572,
+          1348
+        ],
+        [
+          1572,
+          2157
+        ],
+        [
+          222,
+          2157
+        ]
+      ],
+      "score": 0.985066294670105,
+      "y_pos": 1348,
+      "text": "- Chứng khí huyết suy kiệt này là do viêm đại tràng\nmãn tính, làm cho hiệu suất chuyển hóa và hấp thụ dinh\ndưỡng rất kém. Đồng thời bệnh nhân này thường đầy bụng,\nđau bụng bởi mạch tỳ vị đi Tế - chứng tỏ Tỳ khí suy không đủ\nkhả năng vận hóa thủy cốc. Ăn uống khó tiêu, không thấy\ncảm giác đói bụng. Ngoài ra do mạch Hữu xích vô lực biểu\nhiện Mệnh môn hỏa (còn gọi là Thận dương suy) không đủ\nnhiệt lượng chuyển hóa trao đổi) nên khi đi đại tiện, phân\nthường sống, khi ăn nhiều chất mỡ, chất tanh thì cơ thể đi đại\ntiện ra nguyên đồ ăn (chẳng hạn ăn ốc là đại tiện còn nguyên\nkhông tiêu hóa) và với chứng này bệnh nhân thường ghê rét,\nsợ lạnh, bàn chân lạnh ngắt, ớn lạnh cột sống vì hỏa suy...",
+      "confidence": 0.9981518710820722
+    },
+    {
+      "type": "number",
+      "img_path": "p0249_003_number.png",
+      "bbox": [
+        [
+          1530,
+          2224
+        ],
+        [
+          1611,
+          2224
+        ],
+        [
+          1611,
+          2267
+        ],
+        [
+          1530,
+          2267
+        ]
+      ],
+      "score": 0.8800083994865417,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0249.png"
+}

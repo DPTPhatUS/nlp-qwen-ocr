@@ -1,0 +1,162 @@
+{
+  "page_num": 252,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0252_001_text.png",
+      "bbox": [
+        [
+          164,
+          304
+        ],
+        [
+          1512,
+          304
+        ],
+        [
+          1512,
+          625
+        ],
+        [
+          164,
+          625
+        ]
+      ],
+      "score": 0.9704523086547852,
+      "y_pos": 304,
+      "text": "Một là tòng chứng lập phương. Thầy thuốc phải am\ntường tính chất hàng trăm loại dược liệu rồi kết hợp với các\nyếu tố thông qua tứ chẩn vọng, văn, vấn, thiết đồng thời kết\nhợp với kinh nghiệm, kinh trị của mình mà thiết lập phương\nthuốc.",
+      "confidence": 0.9985384229716434
+    },
+    {
+      "type": "text",
+      "img_path": "p0252_000_text.png",
+      "bbox": [
+        [
+          164,
+          661
+        ],
+        [
+          1514,
+          661
+        ],
+        [
+          1514,
+          1471
+        ],
+        [
+          164,
+          1471
+        ]
+      ],
+      "score": 0.9763551354408264,
+      "y_pos": 661,
+      "text": "Hai là sử dụng cổ phương để điều trị. Thầy thuốc phải\nthuộc nhiều bài cổ phương và tính chất của nhiều loại dược\nliệu, rồi kết hợp với các yếu tố thông qua tứ chẩn vọng, văn,\nvấn, thiết đồng thời kết hợp với kinh nghiệm, kinh trị của mình\nmà chọn lấy phương thuốc điều trị. Cách này dễ hơn và thường\nnhững thầy thuốc mới vào nghề hay sử dụng. Tuy nhiên có\nđiểm hạn chế là áp dụng gò bó không thoáng đạt và ít có bao\ngiờ phương thuốc cổ phương lại hoàn toàn phù hợp với người\nbệnh. Từ thế kỷ XII, Đại y sư Trương Nguyên Tố đã khẳng\nđịnh: \"...Bệnh thời xưa khác với bệnh thời nay! Bài thuốc thời\nxưa không hợp với người thời nay!\". Vì thế khi dùng cổ phương\nthường phải gia giảm thêm bớt cho phù hợp thực tế.",
+      "confidence": 0.9996188917809526
+    },
+    {
+      "type": "text",
+      "img_path": "p0252_002_text.png",
+      "bbox": [
+        [
+          166,
+          1504
+        ],
+        [
+          1513,
+          1504
+        ],
+        [
+          1513,
+          1627
+        ],
+        [
+          166,
+          1627
+        ]
+      ],
+      "score": 0.9041905403137207,
+      "y_pos": 1504,
+      "text": "Nói tóm lại \"Tạng phủ được hội\" sẽ là phương tiện\nthuận lợi và hữu ích cho việc thiết lập một bài thuốc điều trị.",
+      "confidence": 0.9989441279821986
+    },
+    {
+      "type": "text",
+      "img_path": "p0252_004_text.png",
+      "bbox": [
+        [
+          284,
+          1662
+        ],
+        [
+          1449,
+          1662
+        ],
+        [
+          1449,
+          1718
+        ],
+        [
+          284,
+          1718
+        ]
+      ],
+      "score": 0.8634799122810364,
+      "y_pos": 1662,
+      "text": "Chúng ta thử áp dụng chữa bệnh cho tạng tâm khi suy yếu",
+      "confidence": 0.9983971213039599
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0252_005_paragraph_title.png",
+      "bbox": [
+        [
+          287,
+          1928
+        ],
+        [
+          1426,
+          1928
+        ],
+        [
+          1426,
+          1990
+        ],
+        [
+          287,
+          1990
+        ]
+      ],
+      "score": 0.8472123742103577,
+      "y_pos": 1928,
+      "text": "1. Áp dụng các thứ nhất (Tòng chứng lập phương)",
+      "confidence": 0.9980790980008184
+    },
+    {
+      "type": "number",
+      "img_path": "p0252_003_number.png",
+      "bbox": [
+        [
+          173,
+          2224
+        ],
+        [
+          256,
+          2224
+        ],
+        [
+          256,
+          2267
+        ],
+        [
+          173,
+          2267
+        ]
+      ],
+      "score": 0.8726181387901306,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0252.png"
+}

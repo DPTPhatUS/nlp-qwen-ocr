@@ -1,0 +1,84 @@
+{
+  "page_num": 250,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0250_001_text.png",
+      "bbox": [
+        [
+          167,
+          303
+        ],
+        [
+          1508,
+          303
+        ],
+        [
+          1508,
+          427
+        ],
+        [
+          167,
+          427
+        ]
+      ],
+      "score": 0.9514346122741699,
+      "y_pos": 303,
+      "text": "Muốn biết đúng hay sai hỏi ngay bệnh nhân về những\ntriệu chứng như trên là biết.",
+      "confidence": 0.9984895306692526
+    },
+    {
+      "type": "text",
+      "img_path": "p0250_000_text.png",
+      "bbox": [
+        [
+          164,
+          462
+        ],
+        [
+          1509,
+          462
+        ],
+        [
+          1509,
+          721
+        ],
+        [
+          164,
+          721
+        ]
+      ],
+      "score": 0.9652544856071472,
+      "y_pos": 462,
+      "text": "- Cũng dựa vào bảng ghi mạch của 6 bộ vị như trên, và\ncăn cứ vào mạch bệnh ta có thể tổng hợp lại để biết chi tiết\nhơn nữa và luân chính xác hơn nữa rồi căn cứ vào đó mà lập\nphương điều trị.",
+      "confidence": 0.9907995556026902
+    },
+    {
+      "type": "number",
+      "img_path": "p0250_002_number.png",
+      "bbox": [
+        [
+          172,
+          2223
+        ],
+        [
+          257,
+          2223
+        ],
+        [
+          257,
+          2268
+        ],
+        [
+          172,
+          2268
+        ]
+      ],
+      "score": 0.834428071975708,
+      "y_pos": 2223,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0250.png"
+}

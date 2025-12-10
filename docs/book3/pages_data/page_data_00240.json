@@ -1,0 +1,448 @@
+{
+  "page_num": 240,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0240_014_text.png",
+      "bbox": [
+        [
+          316,
+          303
+        ],
+        [
+          1083,
+          303
+        ],
+        [
+          1083,
+          358
+        ],
+        [
+          316,
+          358
+        ]
+      ],
+      "score": 0.8868896961212158,
+      "y_pos": 303,
+      "text": "Hồng: đau bụng do có lải (giun)",
+      "confidence": 0.9945491299484716
+    },
+    {
+      "type": "text",
+      "img_path": "p0240_012_text.png",
+      "bbox": [
+        [
+          316,
+          380
+        ],
+        [
+          1172,
+          380
+        ],
+        [
+          1172,
+          433
+        ],
+        [
+          316,
+          433
+        ]
+      ],
+      "score": 0.8929463028907776,
+      "y_pos": 380,
+      "text": "Trì: trong tim, trong bụng đầy trướng",
+      "confidence": 0.9928868810335795
+    },
+    {
+      "type": "text",
+      "img_path": "p0240_015_text.png",
+      "bbox": [
+        [
+          317,
+          452
+        ],
+        [
+          690,
+          452
+        ],
+        [
+          690,
+          496
+        ],
+        [
+          317,
+          496
+        ]
+      ],
+      "score": 0.882987380027771,
+      "y_pos": 452,
+      "text": "Xúc: Kinh Sài",
+      "confidence": 0.9085912545522054
+    },
+    {
+      "type": "text",
+      "img_path": "p0240_013_text.png",
+      "bbox": [
+        [
+          317,
+          523
+        ],
+        [
+          754,
+          523
+        ],
+        [
+          754,
+          569
+        ],
+        [
+          317,
+          569
+        ]
+      ],
+      "score": 0.8885255455970764,
+      "y_pos": 523,
+      "text": "Γrầm Trì: hư hàn",
+      "confidence": 0.8532215027432692
+    },
+    {
+      "type": "text",
+      "img_path": "p0240_007_text.png",
+      "bbox": [
+        [
+          316,
+          594
+        ],
+        [
+          1085,
+          594
+        ],
+        [
+          1085,
+          647
+        ],
+        [
+          316,
+          647
+        ]
+      ],
+      "score": 0.9008640050888062,
+      "y_pos": 594,
+      "text": "Trầm Hoãn: đầy bụng, đau bụng",
+      "confidence": 0.9879388751522187
+    },
+    {
+      "type": "text",
+      "img_path": "p0240_010_text.png",
+      "bbox": [
+        [
+          316,
+          667
+        ],
+        [
+          1273,
+          667
+        ],
+        [
+          1273,
+          722
+        ],
+        [
+          316,
+          722
+        ]
+      ],
+      "score": 0.8964832425117493,
+      "y_pos": 667,
+      "text": "Trầm Sắc: khí lạnh ngưng tích trong bụng",
+      "confidence": 0.9984087163493747
+    },
+    {
+      "type": "text",
+      "img_path": "p0240_008_text.png",
+      "bbox": [
+        [
+          317,
+          738
+        ],
+        [
+          801,
+          738
+        ],
+        [
+          801,
+          791
+        ],
+        [
+          317,
+          791
+        ]
+      ],
+      "score": 0.9007540345191956,
+      "y_pos": 738,
+      "text": "Trầm Tế: đau bụng",
+      "confidence": 0.9716913009944715
+    },
+    {
+      "type": "text",
+      "img_path": "p0240_009_text.png",
+      "bbox": [
+        [
+          315,
+          809
+        ],
+        [
+          1169,
+          809
+        ],
+        [
+          1169,
+          862
+        ],
+        [
+          315,
+          862
+        ]
+      ],
+      "score": 0.8990355730056763,
+      "y_pos": 809,
+      "text": "Tế: cam tích khiến hao mòn gầy ốm.",
+      "confidence": 0.9950364198949602
+    },
+    {
+      "type": "text",
+      "img_path": "p0240_006_text.png",
+      "bbox": [
+        [
+          316,
+          884
+        ],
+        [
+          1135,
+          884
+        ],
+        [
+          1135,
+          937
+        ],
+        [
+          316,
+          937
+        ]
+      ],
+      "score": 0.902549684047699,
+      "y_pos": 884,
+      "text": "Huyền Xác: kinh giản thuộc phong",
+      "confidence": 0.9387277469915503
+    },
+    {
+      "type": "text",
+      "img_path": "p0240_011_text.png",
+      "bbox": [
+        [
+          316,
+          959
+        ],
+        [
+          1114,
+          959
+        ],
+        [
+          1114,
+          1010
+        ],
+        [
+          316,
+          1010
+        ]
+      ],
+      "score": 0.8951994776725769,
+      "y_pos": 959,
+      "text": "Xác: kinh phong, chân tay co giật.",
+      "confidence": 0.9835730757978227
+    },
+    {
+      "type": "text",
+      "img_path": "p0240_005_text.png",
+      "bbox": [
+        [
+          317,
+          1029
+        ],
+        [
+          896,
+          1029
+        ],
+        [
+          896,
+          1081
+        ],
+        [
+          317,
+          1081
+        ]
+      ],
+      "score": 0.908805251121521,
+      "y_pos": 1029,
+      "text": "Huyền Thực: đại tiện bí",
+      "confidence": 0.9840556073188782
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0240_004_paragraph_title.png",
+      "bbox": [
+        [
+          166,
+          1199
+        ],
+        [
+          837,
+          1199
+        ],
+        [
+          837,
+          1257
+        ],
+        [
+          166,
+          1257
+        ]
+      ],
+      "score": 0.9227046370506287,
+      "y_pos": 1199,
+      "text": "IV. BIÊN CHƯNG Ở EM BÈ",
+      "confidence": 0.8570393770933151
+    },
+    {
+      "type": "text",
+      "img_path": "p0240_000_text.png",
+      "bbox": [
+        [
+          164,
+          1292
+        ],
+        [
+          1510,
+          1292
+        ],
+        [
+          1510,
+          1691
+        ],
+        [
+          164,
+          1691
+        ]
+      ],
+      "score": 0.985870361328125,
+      "y_pos": 1292,
+      "text": "Ở em bé từ sơ sinh đến 18 tháng tuổi có những hiện\ntượng đổi thay triệu chứng giống như bị bệnh mà không phải\nbệnh. Những hiện tượng đó có chu kỳ là 32 ngày và 64 ngày\ncụ thể là 32 ngày là 1 lần biến, 64 ngày là 1 lần chưng phải\nqua đủ 16 lần biến 8 lần chưng em bé được 512 ngày tức là 17\ntháng.",
+      "confidence": 0.9960042563249031
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0240_003_paragraph_title.png",
+      "bbox": [
+        [
+          318,
+          1729
+        ],
+        [
+          1325,
+          1729
+        ],
+        [
+          1325,
+          1782
+        ],
+        [
+          318,
+          1782
+        ]
+      ],
+      "score": 0.9285419583320618,
+      "y_pos": 1729,
+      "text": "1. Lịch biến chưng và ý nghĩa về biến chưng",
+      "confidence": 0.9825414935747783
+    },
+    {
+      "type": "text",
+      "img_path": "p0240_002_text.png",
+      "bbox": [
+        [
+          165,
+          1815
+        ],
+        [
+          1509,
+          1815
+        ],
+        [
+          1509,
+          1936
+        ],
+        [
+          165,
+          1936
+        ]
+      ],
+      "score": 0.9617347121238708,
+      "y_pos": 1815,
+      "text": "- Từ sơ sinh đến 32 ngày \"Nhất biến \" sinh Quý Thủy\nkiện toàn túc thiếu âm Thận, chủ về sinh tinh.",
+      "confidence": 0.9992469886212416
+    },
+    {
+      "type": "text",
+      "img_path": "p0240_001_text.png",
+      "bbox": [
+        [
+          163,
+          1972
+        ],
+        [
+          1508,
+          1972
+        ],
+        [
+          1508,
+          2160
+        ],
+        [
+          163,
+          2160
+        ]
+      ],
+      "score": 0.974253237247467,
+      "y_pos": 1972,
+      "text": "- Đến 64 ngày \"Nhị biến, nhất chưng\" sinh nhâm Thủy\nthuộc túc Thái dương Bàng quang hiện tượng vùng tai, mông\nlanh mát.",
+      "confidence": 0.9898430135848478
+    },
+    {
+      "type": "number",
+      "img_path": "p0240_016_number.png",
+      "bbox": [
+        [
+          172,
+          2224
+        ],
+        [
+          258,
+          2224
+        ],
+        [
+          258,
+          2267
+        ],
+        [
+          172,
+          2267
+        ]
+      ],
+      "score": 0.8678349256515503,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0240.png"
+}

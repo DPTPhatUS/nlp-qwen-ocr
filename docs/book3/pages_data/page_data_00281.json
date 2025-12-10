@@ -1,0 +1,500 @@
+{
+  "page_num": 281,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0281_018_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          752,
+          0
+        ],
+        [
+          752,
+          96
+        ],
+        [
+          227,
+          96
+        ]
+      ],
+      "score": 0.6294088959693909,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9632050711833514
+    },
+    {
+      "type": "text",
+      "img_path": "p0281_000_text.png",
+      "bbox": [
+        [
+          224,
+          306
+        ],
+        [
+          1572,
+          306
+        ],
+        [
+          1572,
+          424
+        ],
+        [
+          224,
+          424
+        ]
+      ],
+      "score": 0.9617380499839783,
+      "y_pos": 306,
+      "text": "- Hàn tà vừa xâm nhập ngoài biểu cũng dùng Hãn pháp\nđẩy ra.",
+      "confidence": 0.9954189522586279
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0281_005_paragraph_title.png",
+      "bbox": [
+        [
+          403,
+          460
+        ],
+        [
+          689,
+          460
+        ],
+        [
+          689,
+          517
+        ],
+        [
+          403,
+          517
+        ]
+      ],
+      "score": 0.9154649972915649,
+      "y_pos": 460,
+      "text": "2. Thổ pháp",
+      "confidence": 0.9294128326269296
+    },
+    {
+      "type": "text",
+      "img_path": "p0281_012_text.png",
+      "bbox": [
+        [
+          343,
+          551
+        ],
+        [
+          1330,
+          551
+        ],
+        [
+          1330,
+          603
+        ],
+        [
+          343,
+          603
+        ]
+      ],
+      "score": 0.8850729465484619,
+      "y_pos": 551,
+      "text": "Mục đích là khử đàm, tán uất, tẩy độc, trục ứ.",
+      "confidence": 0.9996946329871813
+    },
+    {
+      "type": "text",
+      "img_path": "p0281_011_text.png",
+      "bbox": [
+        [
+          344,
+          637
+        ],
+        [
+          1419,
+          637
+        ],
+        [
+          1419,
+          695
+        ],
+        [
+          344,
+          695
+        ]
+      ],
+      "score": 0.8895341753959656,
+      "y_pos": 637,
+      "text": "- Đàm kết ở phổi, ở họng dùng Thổ pháp để ói ra.",
+      "confidence": 0.9990738117694855
+    },
+    {
+      "type": "text",
+      "img_path": "p0281_016_text.png",
+      "bbox": [
+        [
+          344,
+          727
+        ],
+        [
+          1486,
+          727
+        ],
+        [
+          1486,
+          782
+        ],
+        [
+          344,
+          782
+        ]
+      ],
+      "score": 0.8776668310165405,
+      "y_pos": 727,
+      "text": "- Tà khí uất kết ở thượng tiêu dùng Thổ pháp để tán uất.",
+      "confidence": 0.9991637714977922
+    },
+    {
+      "type": "text",
+      "img_path": "p0281_015_text.png",
+      "bbox": [
+        [
+          344,
+          816
+        ],
+        [
+          1447,
+          816
+        ],
+        [
+          1447,
+          873
+        ],
+        [
+          344,
+          873
+        ]
+      ],
+      "score": 0.8782826662063599,
+      "y_pos": 816,
+      "text": "- Ăn uống phải chất độc dùng Thổ pháp để nôn ra.",
+      "confidence": 0.9970757222175598
+    },
+    {
+      "type": "text",
+      "img_path": "p0281_017_text.png",
+      "bbox": [
+        [
+          344,
+          906
+        ],
+        [
+          1509,
+          906
+        ],
+        [
+          1509,
+          963
+        ],
+        [
+          344,
+          963
+        ]
+      ],
+      "score": 0.857809841632843,
+      "y_pos": 906,
+      "text": "- Ăn uống no quá tiêu không kịp dùng Thổ pháp ói ra.",
+      "confidence": 0.9969354227737144
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0281_008_paragraph_title.png",
+      "bbox": [
+        [
+          402,
+          1002
+        ],
+        [
+          668,
+          1002
+        ],
+        [
+          668,
+          1054
+        ],
+        [
+          402,
+          1054
+        ]
+      ],
+      "score": 0.9009968638420105,
+      "y_pos": 1002,
+      "text": "3. Hạ pháp",
+      "confidence": 0.9528533269961675
+    },
+    {
+      "type": "text",
+      "img_path": "p0281_014_text.png",
+      "bbox": [
+        [
+          345,
+          1090
+        ],
+        [
+          1492,
+          1090
+        ],
+        [
+          1492,
+          1140
+        ],
+        [
+          345,
+          1140
+        ]
+      ],
+      "score": 0.883198618888855,
+      "y_pos": 1090,
+      "text": "- Mục đích là nhuận táo, trục thủy, phá tích, bài đờm.",
+      "confidence": 0.9958935305476189
+    },
+    {
+      "type": "text",
+      "img_path": "p0281_013_text.png",
+      "bbox": [
+        [
+          346,
+          1176
+        ],
+        [
+          1481,
+          1176
+        ],
+        [
+          1481,
+          1228
+        ],
+        [
+          346,
+          1228
+        ]
+      ],
+      "score": 0.8837013244628906,
+      "y_pos": 1176,
+      "text": "- Táo bón, đại tiện bí dùng Hạ pháp để thông nhuận.",
+      "confidence": 0.9952261267967943
+    },
+    {
+      "type": "text",
+      "img_path": "p0281_002_text.png",
+      "bbox": [
+        [
+          225,
+          1264
+        ],
+        [
+          1570,
+          1264
+        ],
+        [
+          1570,
+          1386
+        ],
+        [
+          225,
+          1386
+        ]
+      ],
+      "score": 0.9567028880119324,
+      "y_pos": 1264,
+      "text": "- Phù thũng dạng thực chứng dùng Hạ pháp xổ thủy\nthũng chữa phù.",
+      "confidence": 0.9966148416084402
+    },
+    {
+      "type": "text",
+      "img_path": "p0281_009_text.png",
+      "bbox": [
+        [
+          345,
+          1423
+        ],
+        [
+          1385,
+          1423
+        ],
+        [
+          1385,
+          1476
+        ],
+        [
+          345,
+          1476
+        ]
+      ],
+      "score": 0.8975147604942322,
+      "y_pos": 1423,
+      "text": "- Tà khí kết tích nội tạng dùng Hạ pháp phá kết.",
+      "confidence": 0.9982263195514679
+    },
+    {
+      "type": "text",
+      "img_path": "p0281_007_text.png",
+      "bbox": [
+        [
+          345,
+          1510
+        ],
+        [
+          1248,
+          1510
+        ],
+        [
+          1248,
+          1565
+        ],
+        [
+          345,
+          1565
+        ]
+      ],
+      "score": 0.9042562246322632,
+      "y_pos": 1510,
+      "text": "- Đàm kết hạ tiêu dùng Hạ pháp để xổ ra.",
+      "confidence": 0.9942195330347333
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0281_006_paragraph_title.png",
+      "bbox": [
+        [
+          403,
+          1605
+        ],
+        [
+          694,
+          1605
+        ],
+        [
+          694,
+          1655
+        ],
+        [
+          403,
+          1655
+        ]
+      ],
+      "score": 0.9050652384757996,
+      "y_pos": 1605,
+      "text": "4. Hòa pháp",
+      "confidence": 0.9605251871622525
+    },
+    {
+      "type": "text",
+      "img_path": "p0281_004_text.png",
+      "bbox": [
+        [
+          223,
+          1690
+        ],
+        [
+          1572,
+          1690
+        ],
+        [
+          1572,
+          1806
+        ],
+        [
+          223,
+          1806
+        ]
+      ],
+      "score": 0.9541872143745422,
+      "y_pos": 1690,
+      "text": "Với mục đích trị cảm mạo, trị sốt rét, trị phụ khoa,\nchữa bất hòa.",
+      "confidence": 0.9938752213010081
+    },
+    {
+      "type": "text",
+      "img_path": "p0281_001_text.png",
+      "bbox": [
+        [
+          225,
+          1848
+        ],
+        [
+          1574,
+          1848
+        ],
+        [
+          1574,
+          1970
+        ],
+        [
+          225,
+          1970
+        ]
+      ],
+      "score": 0.958297848701477,
+      "y_pos": 1848,
+      "text": "- Cảm mạo nhập kinh thiếu dương gây hàn nhiệt vãng\nlai phải dùng Hòa pháp để giải.",
+      "confidence": 0.9959588663561361
+    },
+    {
+      "type": "text",
+      "img_path": "p0281_003_text.png",
+      "bbox": [
+        [
+          225,
+          2004
+        ],
+        [
+          1575,
+          2004
+        ],
+        [
+          1575,
+          2124
+        ],
+        [
+          225,
+          2124
+        ]
+      ],
+      "score": 0.9558786153793335,
+      "y_pos": 2004,
+      "text": "- Chứng sốt rét do Can thận bất hòa dùng hòa pháp để\nđiều hòa Can thận.",
+      "confidence": 0.9906817649801571
+    },
+    {
+      "type": "number",
+      "img_path": "p0281_010_number.png",
+      "bbox": [
+        [
+          1530,
+          2224
+        ],
+        [
+          1606,
+          2224
+        ],
+        [
+          1606,
+          2267
+        ],
+        [
+          1530,
+          2267
+        ]
+      ],
+      "score": 0.8941178321838379,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0281.png"
+}

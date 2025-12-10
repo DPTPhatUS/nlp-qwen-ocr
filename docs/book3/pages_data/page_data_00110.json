@@ -1,0 +1,240 @@
+{
+  "page_num": 110,
+  "content": [
+    {
+      "type": "paragraph_title",
+      "img_path": "p0110_006_paragraph_title.png",
+      "bbox": [
+        [
+          174,
+          535
+        ],
+        [
+          1000,
+          535
+        ],
+        [
+          1000,
+          636
+        ],
+        [
+          174,
+          636
+        ]
+      ],
+      "score": 0.7228018641471863,
+      "y_pos": 535,
+      "text": "10. Vấn CHẨN ĐẠI CƯƠNG",
+      "confidence": 0.8770264883836111
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0110_005_paragraph_title.png",
+      "bbox": [
+        [
+          168,
+          764
+        ],
+        [
+          1433,
+          764
+        ],
+        [
+          1433,
+          828
+        ],
+        [
+          168,
+          828
+        ]
+      ],
+      "score": 0.8570358157157898,
+      "y_pos": 764,
+      "text": "I. VAN CHAN LA GI? Y NGHIA CUA \"VAN CHAN\"",
+      "confidence": 0.9405912590581317
+    },
+    {
+      "type": "text",
+      "img_path": "p0110_002_text.png",
+      "bbox": [
+        [
+          166,
+          864
+        ],
+        [
+          1512,
+          864
+        ],
+        [
+          1512,
+          990
+        ],
+        [
+          166,
+          990
+        ]
+      ],
+      "score": 0.9515935182571411,
+      "y_pos": 864,
+      "text": "\"Vấn chẩn\" là một mối liên lạc bằng vấn đáp để dung\nhòa thuận lợi và khó khăn giữa thầy thuốc với bệnh nhân.",
+      "confidence": 0.998665774632524
+    },
+    {
+      "type": "text",
+      "img_path": "p0110_003_text.png",
+      "bbox": [
+        [
+          317,
+          1025
+        ],
+        [
+          774,
+          1025
+        ],
+        [
+          774,
+          1076
+        ],
+        [
+          317,
+          1076
+        ]
+      ],
+      "score": 0.894939661026001,
+      "y_pos": 1025,
+      "text": "Phương ngôn có câu:",
+      "confidence": 0.9992079053606305
+    },
+    {
+      "type": "text",
+      "img_path": "p0110_007_text.png",
+      "bbox": [
+        [
+          461,
+          1112
+        ],
+        [
+          1224,
+          1112
+        ],
+        [
+          1224,
+          1163
+        ],
+        [
+          461,
+          1163
+        ]
+      ],
+      "score": 0.5903359651565552,
+      "y_pos": 1112,
+      "text": "\"Bệnh nhân khổ vì không biết thuốc",
+      "confidence": 0.778402813606792
+    },
+    {
+      "type": "text",
+      "img_path": "p0110_008_text.png",
+      "bbox": [
+        [
+          459,
+          1198
+        ],
+        [
+          1225,
+          1198
+        ],
+        [
+          1225,
+          1252
+        ],
+        [
+          459,
+          1252
+        ]
+      ],
+      "score": 0.5253610610961914,
+      "y_pos": 1198,
+      "text": "Thầy thuốc khổ vì không biết bệnh\"",
+      "confidence": 0.9952155633105172
+    },
+    {
+      "type": "text",
+      "img_path": "p0110_001_text.png",
+      "bbox": [
+        [
+          164,
+          1288
+        ],
+        [
+          1509,
+          1288
+        ],
+        [
+          1509,
+          1613
+        ],
+        [
+          164,
+          1613
+        ]
+      ],
+      "score": 0.9813466668128967,
+      "y_pos": 1288,
+      "text": "- Chính người bệnh hiểu về nỗi đau yếu bệnh nạn của\nmình hơn ai hết, chỉ vì không có kiến thức y học mà họ không\ntổng hợp được những biến cố và không luận được nhân quả\ntrong bệnh tật của mình. Và dẫu có biết được chút nào thì đâu\ncó biết thuốc mà hay cách trị.",
+      "confidence": 0.998519593581489
+    },
+    {
+      "type": "text",
+      "img_path": "p0110_000_text.png",
+      "bbox": [
+        [
+          164,
+          1648
+        ],
+        [
+          1511,
+          1648
+        ],
+        [
+          1511,
+          2181
+        ],
+        [
+          164,
+          2181
+        ]
+      ],
+      "score": 0.9841294288635254,
+      "y_pos": 1648,
+      "text": "Thầy thuốc là người có kiến thức y học, là lương tướng\ndụng thuốc làm quân, dụng y lý làm binh pháp. Ngoài việc\ncầm quân dụng pháp thuần túy, muốn thắng được “đối\nphương\" thì phải hiểu rõ bản chất và sức mạnh của nó, đồng\nthời phải hiểu được đặc điểm nơi nó cư trú đó là thân thể người\nbệnh. Đối với vị tướng cầm quân dẹp loạn nơi trận mạc thì đối\nphương là kẻ trực tiếp đối mặt và tấn công họ. Còn với thầy\nthuốc tuy là tướng nhưng đối phương đâu có bên mình mà nó có",
+      "confidence": 0.9996465652401121
+    },
+    {
+      "type": "number",
+      "img_path": "p0110_004_number.png",
+      "bbox": [
+        [
+          178,
+          2225
+        ],
+        [
+          258,
+          2225
+        ],
+        [
+          258,
+          2267
+        ],
+        [
+          178,
+          2267
+        ]
+      ],
+      "score": 0.8729560971260071,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0110.png"
+}

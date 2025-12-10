@@ -1,0 +1,162 @@
+{
+  "page_num": 222,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0222_001_text.png",
+      "bbox": [
+        [
+          435,
+          304
+        ],
+        [
+          1253,
+          304
+        ],
+        [
+          1253,
+          579
+        ],
+        [
+          435,
+          579
+        ]
+      ],
+      "score": 0.9162745475769043,
+      "y_pos": 304,
+      "text": "Đến khi bệnh hoạn kêu Trời,\nNăng đầu nhức mỏi tiền thời có đâu.\nMồ hôi thánh thót như dầu,\nThiết tha tình ái ngõ hầu được chăng?",
+      "confidence": 0.9984034921210608
+    },
+    {
+      "type": "text",
+      "img_path": "p0222_000_text.png",
+      "bbox": [
+        [
+          380,
+          670
+        ],
+        [
+          1307,
+          670
+        ],
+        [
+          1307,
+          1226
+        ],
+        [
+          380,
+          1226
+        ]
+      ],
+      "score": 0.9350168108940125,
+      "y_pos": 670,
+      "text": "Mạch Nhu quan bộ biết đâu,\nTính không tranh đấu mặc dầu khen chê.\nĐông con nhiều cháu sướng ghê,\nÔng cha cơ nghiệp mọi nghề đều hay.\nSau cùng tình thế đổi thay,\nKhí suy bệnh hoạn không may hiểm nghèo\nMệnh trời thọ yểu ai chiều,\nGiàu mà không thọ có điều xót xa.",
+      "confidence": 0.998782272063453
+    },
+    {
+      "type": "text",
+      "img_path": "p0222_002_text.png",
+      "bbox": [
+        [
+          459,
+          1320
+        ],
+        [
+          1230,
+          1320
+        ],
+        [
+          1230,
+          1878
+        ],
+        [
+          459,
+          1878
+        ]
+      ],
+      "score": 0.9098332524299622,
+      "y_pos": 1320,
+      "text": "Mạch Nhu bộ xích thật là,\nĐa mưu túc kế thế mà khổ tâm\nTham lam tài sắc đa dâm,\nChỉ vì cái tội ngoại xâm khắc hình\nChẳng may bệnh hoạn thình lình,\nHư hàn tiết tả bệnh tình cheo leo.\nMạch Nhu tuổi trẻ hiểm nghèo,\nCó khi bệnh hoạn chết theo ông bà.",
+      "confidence": 0.9966790688073908
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0222_005_paragraph_title.png",
+      "bbox": [
+        [
+          170,
+          1915
+        ],
+        [
+          580,
+          1915
+        ],
+        [
+          580,
+          1965
+        ],
+        [
+          170,
+          1965
+        ]
+      ],
+      "score": 0.8352647423744202,
+      "y_pos": 1915,
+      "text": "1.15. Mạch Nhược",
+      "confidence": 0.972364733616511
+    },
+    {
+      "type": "text",
+      "img_path": "p0222_003_text.png",
+      "bbox": [
+        [
+          386,
+          1985
+        ],
+        [
+          1294,
+          1985
+        ],
+        [
+          1294,
+          2114
+        ],
+        [
+          386,
+          2114
+        ]
+      ],
+      "score": 0.8865535855293274,
+      "y_pos": 1985,
+      "text": "Thốn đi mạch <i>Nhược</i> lạ lùng,\nViệc làm chóng chán lung tung buồn cười.",
+      "confidence": 0.9914721286470807
+    },
+    {
+      "type": "number",
+      "img_path": "p0222_004_number.png",
+      "bbox": [
+        [
+          174,
+          2224
+        ],
+        [
+          257,
+          2224
+        ],
+        [
+          257,
+          2266
+        ],
+        [
+          174,
+          2266
+        ]
+      ],
+      "score": 0.8820555210113525,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0222.png"
+}

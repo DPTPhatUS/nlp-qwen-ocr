@@ -1,0 +1,266 @@
+{
+  "page_num": 233,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0233_006_text.png",
+      "bbox": [
+        [
+          224,
+          303
+        ],
+        [
+          900,
+          303
+        ],
+        [
+          900,
+          563
+        ],
+        [
+          224,
+          563
+        ]
+      ],
+      "score": 0.9382699131965637,
+      "y_pos": 303,
+      "text": "- Đốt ngón tay thứ nhất\n(giáp với bàn tay) gọi là phong\nQuan (cái cửa phát bệnh bởi\nphong).",
+      "confidence": 0.9934753855505458
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_007_text.png",
+      "bbox": [
+        [
+          225,
+          595
+        ],
+        [
+          902,
+          595
+        ],
+        [
+          902,
+          784
+        ],
+        [
+          225,
+          784
+        ]
+      ],
+      "score": 0.9200830459594727,
+      "y_pos": 595,
+      "text": "- Đốt kế tiếp (đốt giữa)\nlà khí Quan (cái cửa phát bênh\nbởi khí).",
+      "confidence": 0.9687412850046422
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_005_text.png",
+      "bbox": [
+        [
+          223,
+          822
+        ],
+        [
+          1574,
+          822
+        ],
+        [
+          1574,
+          945
+        ],
+        [
+          223,
+          945
+        ]
+      ],
+      "score": 0.9562683701515198,
+      "y_pos": 822,
+      "text": "- Đốt thứ 3 (đầu ngón tay là mệnh Quan, cái cửa phát\nbệnh có thể nguy đến tính mạng).",
+      "confidence": 0.9959277778474334
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_003_text.png",
+      "bbox": [
+        [
+          222,
+          979
+        ],
+        [
+          1573,
+          979
+        ],
+        [
+          1573,
+          1168
+        ],
+        [
+          222,
+          1168
+        ]
+      ],
+      "score": 0.9686630964279175,
+      "y_pos": 979,
+      "text": "+ Đường chỉ tay biểu hiện bệnh lý của em bé xuất phát\ntừ Hổ Khẩu lên Mệnh Quan (chỉ ở giai đoạn từ sơ sinh đến 3\ntuổi mới có chỉ tay biểu hiện bệnh lý).",
+      "confidence": 0.9932121830529607
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_004_text.png",
+      "bbox": [
+        [
+          224,
+          1203
+        ],
+        [
+          1573,
+          1203
+        ],
+        [
+          1573,
+          1326
+        ],
+        [
+          224,
+          1326
+        ]
+      ],
+      "score": 0.9563709497451782,
+      "y_pos": 1203,
+      "text": "Khi em bé bị bệnh thì mới có chỉ tay ấy nổi lên ở vùng Hổ\nKhẩu và Tam Quan (lúc bé mạnh khỏe thì không có).",
+      "confidence": 0.9983213255079769
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_001_text.png",
+      "bbox": [
+        [
+          222,
+          1360
+        ],
+        [
+          1569,
+          1360
+        ],
+        [
+          1569,
+          1554
+        ],
+        [
+          222,
+          1554
+        ]
+      ],
+      "score": 0.9710139632225037,
+      "y_pos": 1360,
+      "text": "- Chỉ tay bệnh lý ở cả hai bên Hổ Khẩu và Tam Quan\ncủa cả tay phải và tay trái. Tay phải biểu hiện bệnh lý ứng\nvới phế, Tỳ, Mệnh Môn, tay trái ứng với Tâm, Can, Thận.",
+      "confidence": 0.9931314214722846
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0233_008_paragraph_title.png",
+      "bbox": [
+        [
+          374,
+          1590
+        ],
+        [
+          1017,
+          1590
+        ],
+        [
+          1017,
+          1640
+        ],
+        [
+          374,
+          1640
+        ]
+      ],
+      "score": 0.9032853841781616,
+      "y_pos": 1590,
+      "text": "4. Cách xem chỉ tay bệnh lý",
+      "confidence": 0.9572440447478459
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_000_text.png",
+      "bbox": [
+        [
+          223,
+          1675
+        ],
+        [
+          1570,
+          1675
+        ],
+        [
+          1570,
+          1936
+        ],
+        [
+          223,
+          1936
+        ]
+      ],
+      "score": 0.9769282341003418,
+      "y_pos": 1675,
+      "text": "Một tay ta nắm cổ tay của em bé, tay kia vuốt vùng\nTam Quan Hổ khẩu thẳng ra để quan sát (khi tiếp xúc với em\nbé phải vui vẻ làm quen và nâng niu trìu mến để bé khỏi sơ\nvà khỏi la hét gây khó khăn cho việc chẩn đoán).",
+      "confidence": 0.9971159320267348
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_002_text.png",
+      "bbox": [
+        [
+          223,
+          1971
+        ],
+        [
+          1570,
+          1971
+        ],
+        [
+          1570,
+          2161
+        ],
+        [
+          223,
+          2161
+        ]
+      ],
+      "score": 0.9690677523612976,
+      "y_pos": 1971,
+      "text": "- Chỉ tay xuất hiện ở vị trí khác nhau, màu sắc và hình\ntương khác nhau. Mỗi màu sắc mỗi vi trí, mỗi hình tương biểu\nhiện một bệnh lý khác nhau.",
+      "confidence": 0.9959722452893582
+    },
+    {
+      "type": "number",
+      "img_path": "p0233_009_number.png",
+      "bbox": [
+        [
+          1530,
+          2223
+        ],
+        [
+          1610,
+          2223
+        ],
+        [
+          1610,
+          2267
+        ],
+        [
+          1530,
+          2267
+        ]
+      ],
+      "score": 0.8608601689338684,
+      "y_pos": 2223,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0233.png"
+}

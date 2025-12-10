@@ -1,0 +1,474 @@
+{
+  "page_num": 239,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0239_017_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          752,
+          0
+        ],
+        [
+          752,
+          95
+        ],
+        [
+          227,
+          95
+        ]
+      ],
+      "score": 0.5121208429336548,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9624362213336505
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0239_006_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          367
+        ],
+        [
+          938,
+          367
+        ],
+        [
+          938,
+          420
+        ],
+        [
+          227,
+          420
+        ]
+      ],
+      "score": 0.9209218621253967,
+      "y_pos": 367,
+      "text": "III. MACH BENH NHI KHOA",
+      "confidence": 0.8416126608848572
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0239_010_paragraph_title.png",
+      "bbox": [
+        [
+          378,
+          460
+        ],
+        [
+          1075,
+          460
+        ],
+        [
+          1075,
+          510
+        ],
+        [
+          378,
+          510
+        ]
+      ],
+      "score": 0.9149478673934937,
+      "y_pos": 460,
+      "text": "1. Đặc điểm về mạch nhi khoa",
+      "confidence": 0.9661421298980712
+    },
+    {
+      "type": "text",
+      "img_path": "p0239_000_text.png",
+      "bbox": [
+        [
+          223,
+          546
+        ],
+        [
+          1567,
+          546
+        ],
+        [
+          1567,
+          807
+        ],
+        [
+          223,
+          807
+        ]
+      ],
+      "score": 0.9821830987930298,
+      "y_pos": 546,
+      "text": "Bởi tay của em bé còn ngắn, nên bộ mạch Thốn khẩu\nkhoảng cách cũng rất ngắn. Khi xem phải áng chừng khoảng\nấy cho thích hợp. Mặt khác tốc độ mạch của em bé nhanh gần\ngấp đôi tốc độ mạch của người lớn.",
+      "confidence": 0.9991703829537689
+    },
+    {
+      "type": "text",
+      "img_path": "p0239_001_text.png",
+      "bbox": [
+        [
+          223,
+          842
+        ],
+        [
+          1569,
+          842
+        ],
+        [
+          1569,
+          960
+        ],
+        [
+          223,
+          960
+        ]
+      ],
+      "score": 0.9652891755104065,
+      "y_pos": 842,
+      "text": "- Hình mạch: nhất tức thường là 6 đến 8 chí (một hơi\nthở ra hít vào mạch lên 6 đến 8 lần).",
+      "confidence": 0.9975460477364368
+    },
+    {
+      "type": "text",
+      "img_path": "p0239_009_text.png",
+      "bbox": [
+        [
+          375,
+          1000
+        ],
+        [
+          1194,
+          1000
+        ],
+        [
+          1194,
+          1046
+        ],
+        [
+          375,
+          1046
+        ]
+      ],
+      "score": 0.9188377261161804,
+      "y_pos": 1000,
+      "text": "- Mach Xác: nhất tức 9 chí đến 11 chí",
+      "confidence": 0.996679541392204
+    },
+    {
+      "type": "text",
+      "img_path": "p0239_007_text.png",
+      "bbox": [
+        [
+          377,
+          1089
+        ],
+        [
+          1068,
+          1089
+        ],
+        [
+          1068,
+          1137
+        ],
+        [
+          377,
+          1137
+        ]
+      ],
+      "score": 0.9203696846961975,
+      "y_pos": 1089,
+      "text": "- Mach Trì: nhất tức 3 đến 5 chí",
+      "confidence": 0.9976962909978979
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0239_004_paragraph_title.png",
+      "bbox": [
+        [
+          374,
+          1268
+        ],
+        [
+          1107,
+          1268
+        ],
+        [
+          1107,
+          1321
+        ],
+        [
+          374,
+          1321
+        ]
+      ],
+      "score": 0.9217304587364197,
+      "y_pos": 1268,
+      "text": "2. Tốc độ biểu hiện bệnh chứng",
+      "confidence": 0.9570088107138872
+    },
+    {
+      "type": "text",
+      "img_path": "p0239_002_text.png",
+      "bbox": [
+        [
+          225,
+          1355
+        ],
+        [
+          1572,
+          1355
+        ],
+        [
+          1572,
+          1476
+        ],
+        [
+          225,
+          1476
+        ]
+      ],
+      "score": 0.9564645290374756,
+      "y_pos": 1355,
+      "text": "- Nhất tức Tam chí - biểu hiện hư hao thất thoát (mất\nnước, mất máu, âm thoát, dương thoát, cơ nhục thoát).",
+      "confidence": 0.9993609493429011
+    },
+    {
+      "type": "text",
+      "img_path": "p0239_011_text.png",
+      "bbox": [
+        [
+          375,
+          1515
+        ],
+        [
+          1207,
+          1515
+        ],
+        [
+          1207,
+          1564
+        ],
+        [
+          375,
+          1564
+        ]
+      ],
+      "score": 0.9116793870925903,
+      "y_pos": 1515,
+      "text": "- Nhất tức Tứ chí - khí huyết hư nhược",
+      "confidence": 0.997508941590786
+    },
+    {
+      "type": "text",
+      "img_path": "p0239_005_text.png",
+      "bbox": [
+        [
+          375,
+          1603
+        ],
+        [
+          1019,
+          1603
+        ],
+        [
+          1019,
+          1653
+        ],
+        [
+          375,
+          1653
+        ]
+      ],
+      "score": 0.9212397336959839,
+      "y_pos": 1603,
+      "text": "- Nhất tức Thất chí: bênh nhe",
+      "confidence": 0.9990882738944022
+    },
+    {
+      "type": "text",
+      "img_path": "p0239_003_text.png",
+      "bbox": [
+        [
+          375,
+          1695
+        ],
+        [
+          1058,
+          1695
+        ],
+        [
+          1058,
+          1745
+        ],
+        [
+          375,
+          1745
+        ]
+      ],
+      "score": 0.9237402677536011,
+      "y_pos": 1695,
+      "text": "- Nhất tức Thập chí: bệnh nặng",
+      "confidence": 0.9975486043840647
+    },
+    {
+      "type": "text",
+      "img_path": "p0239_008_text.png",
+      "bbox": [
+        [
+          375,
+          1781
+        ],
+        [
+          1249,
+          1781
+        ],
+        [
+          1249,
+          1832
+        ],
+        [
+          375,
+          1832
+        ]
+      ],
+      "score": 0.9196279644966125,
+      "y_pos": 1781,
+      "text": "- Nhất tức Thập nhị chí: bệnh nguy kịch.",
+      "confidence": 0.9993689031828017
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0239_016_paragraph_title.png",
+      "bbox": [
+        [
+          375,
+          1872
+        ],
+        [
+          1134,
+          1872
+        ],
+        [
+          1134,
+          1925
+        ],
+        [
+          375,
+          1925
+        ]
+      ],
+      "score": 0.6226593255996704,
+      "y_pos": 1872,
+      "text": "3. Mạch tượng biểu hiện Bệnh lý",
+      "confidence": 0.9985393610867587
+    },
+    {
+      "type": "text",
+      "img_path": "p0239_014_text.png",
+      "bbox": [
+        [
+          376,
+          1947
+        ],
+        [
+          1115,
+          1947
+        ],
+        [
+          1115,
+          1997
+        ],
+        [
+          376,
+          1997
+        ]
+      ],
+      "score": 0.8894112706184387,
+      "y_pos": 1947,
+      "text": "Phù Hoãn: bệnh Thương phong",
+      "confidence": 0.9801938451569656
+    },
+    {
+      "type": "text",
+      "img_path": "p0239_012_text.png",
+      "bbox": [
+        [
+          377,
+          2017
+        ],
+        [
+          1112,
+          2017
+        ],
+        [
+          1112,
+          2068
+        ],
+        [
+          377,
+          2068
+        ]
+      ],
+      "score": 0.8992464542388916,
+      "y_pos": 2017,
+      "text": "Phù Hồng: bệnh Nhiệt cư tại vị",
+      "confidence": 0.9933937527239323
+    },
+    {
+      "type": "text",
+      "img_path": "p0239_013_text.png",
+      "bbox": [
+        [
+          377,
+          2089
+        ],
+        [
+          946,
+          2089
+        ],
+        [
+          946,
+          2144
+        ],
+        [
+          377,
+          2144
+        ]
+      ],
+      "score": 0.8956685662269592,
+      "y_pos": 2089,
+      "text": "Hồng khẩn: thương hàn",
+      "confidence": 0.9995502985042074
+    },
+    {
+      "type": "number",
+      "img_path": "p0239_015_number.png",
+      "bbox": [
+        [
+          1529,
+          2224
+        ],
+        [
+          1611,
+          2224
+        ],
+        [
+          1611,
+          2267
+        ],
+        [
+          1529,
+          2267
+        ]
+      ],
+      "score": 0.8883935213088989,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0239.png"
+}

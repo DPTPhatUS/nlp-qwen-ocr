@@ -1,0 +1,266 @@
+{
+  "page_num": 59,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0059_009_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          752,
+          0
+        ],
+        [
+          752,
+          96
+        ],
+        [
+          227,
+          96
+        ]
+      ],
+      "score": 0.5073781609535217,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9632050711833514
+    },
+    {
+      "type": "text",
+      "img_path": "p0059_002_text.png",
+      "bbox": [
+        [
+          225,
+          303
+        ],
+        [
+          1572,
+          303
+        ],
+        [
+          1572,
+          423
+        ],
+        [
+          225,
+          423
+        ]
+      ],
+      "score": 0.908704936504364,
+      "y_pos": 303,
+      "text": "nhiệt mà bị hàn chứ không phải là chỉ có bị cảm hàn thì cơ thể\nmới bi hàn.",
+      "confidence": 0.9989091129257128
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0059_007_paragraph_title.png",
+      "bbox": [
+        [
+          346,
+          458
+        ],
+        [
+          668,
+          458
+        ],
+        [
+          668,
+          510
+        ],
+        [
+          346,
+          510
+        ]
+      ],
+      "score": 0.8553346991539001,
+      "y_pos": 458,
+      "text": "2. Nói về nhiệt",
+      "confidence": 0.9647808074951172
+    },
+    {
+      "type": "text",
+      "img_path": "p0059_001_text.png",
+      "bbox": [
+        [
+          223,
+          543
+        ],
+        [
+          1570,
+          543
+        ],
+        [
+          1570,
+          804
+        ],
+        [
+          223,
+          804
+        ]
+      ],
+      "score": 0.9122200012207031,
+      "y_pos": 543,
+      "text": "Nhiệt là sự phát nóng của cơ thể hoặc tạng phủ hơn mức\nbình thường. Cái nhiệt có khi toát ra ngoài mà sở tay hoặc cặp\nnhiệt kế cũng thấy nhưng cũng có khi ngấm ngầm nóng bên\ntrong mà bên ngoài sở tay thấy lanh.",
+      "confidence": 0.9991533649825073
+    },
+    {
+      "type": "text",
+      "img_path": "p0059_004_text.png",
+      "bbox": [
+        [
+          225,
+          834
+        ],
+        [
+          1574,
+          834
+        ],
+        [
+          1574,
+          956
+        ],
+        [
+          225,
+          956
+        ]
+      ],
+      "score": 0.8875433802604675,
+      "y_pos": 834,
+      "text": "2.1. Thực nhiệt: Khi tà khí xâm nhập, chính khí và vệ khí\nkháng cự, sự đối kháng càng kịch liệt thì phát nhiệt càng cao.",
+      "confidence": 0.8213766291500779
+    },
+    {
+      "type": "text",
+      "img_path": "p0059_003_text.png",
+      "bbox": [
+        [
+          225,
+          988
+        ],
+        [
+          1571,
+          988
+        ],
+        [
+          1571,
+          1111
+        ],
+        [
+          225,
+          1111
+        ]
+      ],
+      "score": 0.8952257633209229,
+      "y_pos": 988,
+      "text": "2.2. Hư nhiệt: Khi âm suy không chế ngự được hỏa thì hỏa\nphát tán làm nóng tạng phủ nào đó hoặc nóng ngoài bì phu.",
+      "confidence": 0.9486579755500769
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0059_008_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1137
+        ],
+        [
+          1095,
+          1137
+        ],
+        [
+          1095,
+          1229
+        ],
+        [
+          227,
+          1229
+        ]
+      ],
+      "score": 0.6929982304573059,
+      "y_pos": 1137,
+      "text": "Chương II. CHÂN ĐOÂN",
+      "confidence": 0.9893796660683372
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0059_005_paragraph_title.png",
+      "bbox": [
+        [
+          346,
+          1395
+        ],
+        [
+          1388,
+          1395
+        ],
+        [
+          1388,
+          1494
+        ],
+        [
+          346,
+          1494
+        ]
+      ],
+      "score": 0.8843721151351929,
+      "y_pos": 1395,
+      "text": ". VÀI NÉT SƠ BỘ VỀ CHẨN ĐOÁN HỌC",
+      "confidence": 0.9721404270214193
+    },
+    {
+      "type": "text",
+      "img_path": "p0059_000_text.png",
+      "bbox": [
+        [
+          223,
+          1635
+        ],
+        [
+          1573,
+          1635
+        ],
+        [
+          1573,
+          2168
+        ],
+        [
+          223,
+          2168
+        ]
+      ],
+      "score": 0.9842621088027954,
+      "y_pos": 1635,
+      "text": "Phương pháp chẩn đoán thông qua tứ chẩn (vọng, văn,\nvấn, thiết) mà đặc biệt là pháp chẩn (xem mạch) đã có từ\nngàn năm trước công nguyên. Nhưng do thời đó rất hạn chế\nvề mặt ghi chép và trải qua nhiều đời loạn lạc bị tổn thất\nnhiều. Tuy nhiên, đầu công nguyên 220 thời nhà Ngụy và nhà\nTấn Đại y sư Vương Thúc Hòa đã biên tập được thành bộ\ngiáo khoa đầu tiên. Vì vậy, phương pháp chẩn đoán bằng xem\nmạch mà chúng ta nghiên cứu thường gọi là mạch Vương",
+      "confidence": 0.9983555895715324
+    },
+    {
+      "type": "number",
+      "img_path": "p0059_006_number.png",
+      "bbox": [
+        [
+          1530,
+          2226
+        ],
+        [
+          1583,
+          2226
+        ],
+        [
+          1583,
+          2268
+        ],
+        [
+          1530,
+          2268
+        ]
+      ],
+      "score": 0.860561728477478,
+      "y_pos": 2226,
+      "text": "\n    \n    \n\n\n\n\n\n    \n\n\n\n\n\n\n\n    \n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0059.png"
+}

@@ -1,0 +1,136 @@
+{
+  "page_num": 18,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0018_001_text.png",
+      "bbox": [
+        [
+          166,
+          304
+        ],
+        [
+          1511,
+          304
+        ],
+        [
+          1511,
+          700
+        ],
+        [
+          166,
+          700
+        ]
+      ],
+      "score": 0.9814354181289673,
+      "y_pos": 304,
+      "text": "Đối với các loại sự vật còn lại có trong vũ trụ, ta có thể\nghép vào một trong 5 hành nếu đủ điều kiện hợp lý và để tiện\nviệc nghiên cứu và ứng dụng cổ nhân đã thực hiện việc qui\nnap hợp lý tới mức tối ưu mà trải qua hàng ngàn năm tới nay\nvẫn thấy sáng tỏ về phương diện hợp lý và chắc chắn sự phù\nhợp đó sẽ vĩnh cửu với thời gian.",
+      "confidence": 0.9992152525233662
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_002_text.png",
+      "bbox": [
+        [
+          166,
+          735
+        ],
+        [
+          1509,
+          735
+        ],
+        [
+          1509,
+          858
+        ],
+        [
+          166,
+          858
+        ]
+      ],
+      "score": 0.9445456266403198,
+      "y_pos": 735,
+      "text": "Việc qui nạp vật chất theo ngũ hành được thực hiện theo\nbảng dưới đây:",
+      "confidence": 0.9973624551243949
+    },
+    {
+      "type": "table",
+      "img_path": "p0018_000_table.png",
+      "bbox": [
+        [
+          171,
+          1110
+        ],
+        [
+          1519,
+          1110
+        ],
+        [
+          1519,
+          2012
+        ],
+        [
+          171,
+          2012
+        ]
+      ],
+      "score": 0.9857959747314453,
+      "y_pos": 1110,
+      "text": "HIÊN    NGŨ HÀNH\nTƯỢN    ΜÔ    HÔA    THỐ    <b>KIM</b>    THỦY\nG    C\nVật chất    Cây    Lửa    Đất    Kim loai    Nước\nMàu sắc    Xanh    Đỏ    Vàng    Trắng    Đen\nVį    Chua    Đắng    Ngot    Cay    Măn\nMùa    Xuân    Ha    Cuối ha    Thu    Đông\nPhương    Đông    Nam    Trung ương    Tây    Bắc\nTạng    Can    Tâm    Τỳ    Phế    Thân\nPhủ    Đởm    Tiểu trường    Vi    Đai    Bàng quang\ntrường\nNgũ thể    Cân    Mach    Thit    Da lông    Xương tủy\nNgũ    Mắt    Lưỡi    Miệng    Mũi    Tai\nquan\nTình chí    Giận    Mừng    Lo    Buồn    Sợ",
+      "confidence": 0.8686500827003832
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0018_004_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          2050
+        ],
+        [
+          1185,
+          2050
+        ],
+        [
+          1185,
+          2105
+        ],
+        [
+          285,
+          2105
+        ]
+      ],
+      "score": 0.6348888278007507,
+      "y_pos": 2050,
+      "text": "4. Các qui luật hoạt động của ngũ hành",
+      "confidence": 0.9516887873411178
+    },
+    {
+      "type": "number",
+      "img_path": "p0018_003_number.png",
+      "bbox": [
+        [
+          180,
+          2226
+        ],
+        [
+          228,
+          2226
+        ],
+        [
+          228,
+          2267
+        ],
+        [
+          180,
+          2267
+        ]
+      ],
+      "score": 0.867668092250824,
+      "y_pos": 2226,
+      "text": "    \n        \n    \n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0018.png"
+}

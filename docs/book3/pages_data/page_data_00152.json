@@ -1,0 +1,292 @@
+{
+  "page_num": 152,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0152_003_text.png",
+      "bbox": [
+        [
+          168,
+          305
+        ],
+        [
+          1512,
+          305
+        ],
+        [
+          1512,
+          427
+        ],
+        [
+          168,
+          427
+        ]
+      ],
+      "score": 0.9412360191345215,
+      "y_pos": 305,
+      "text": "Nếu khi đang bệnh nặng nếu thấy có mạch Trường kèm\ntheo mạch Hoãn là bệnh ấy dễ chữa.",
+      "confidence": 0.9992484873813442
+    },
+    {
+      "type": "text",
+      "img_path": "p0152_005_text.png",
+      "bbox": [
+        [
+          167,
+          461
+        ],
+        [
+          1515,
+          461
+        ],
+        [
+          1515,
+          584
+        ],
+        [
+          167,
+          584
+        ]
+      ],
+      "score": 0.9375720620155334,
+      "y_pos": 461,
+      "text": "Nếu bệnh mà thấy mạch Trường là thể hiện khí tà, nhiệt\nđộc đang lan truyền trong Tạng phủ.",
+      "confidence": 0.9978385015631734
+    },
+    {
+      "type": "text",
+      "img_path": "p0152_009_text.png",
+      "bbox": [
+        [
+          167,
+          619
+        ],
+        [
+          1513,
+          619
+        ],
+        [
+          1513,
+          741
+        ],
+        [
+          167,
+          741
+        ]
+      ],
+      "score": 0.9303008317947388,
+      "y_pos": 619,
+      "text": "14. Mạch Khổng: chủ về bệnh huyết. Sau khi mất máu\nthì thường có mạch Khổng.",
+      "confidence": 0.9117537092873853
+    },
+    {
+      "type": "text",
+      "img_path": "p0152_008_text.png",
+      "bbox": [
+        [
+          167,
+          778
+        ],
+        [
+          1517,
+          778
+        ],
+        [
+          1517,
+          896
+        ],
+        [
+          167,
+          896
+        ]
+      ],
+      "score": 0.9322189092636108,
+      "y_pos": 778,
+      "text": "15. Mạch Vi: chủ về bệnh hàn, khí huyết hư hàn kết\ndưới Ha tiêu.",
+      "confidence": 0.925887700342215
+    },
+    {
+      "type": "text",
+      "img_path": "p0152_004_text.png",
+      "bbox": [
+        [
+          168,
+          936
+        ],
+        [
+          1514,
+          936
+        ],
+        [
+          1514,
+          1055
+        ],
+        [
+          168,
+          1055
+        ]
+      ],
+      "score": 0.9410637021064758,
+      "y_pos": 936,
+      "text": "16. Mạch Tế: chủ về bệnh khí suy, nguyên khí, vinh khí\nsuy kém.",
+      "confidence": 0.9628928320748464
+    },
+    {
+      "type": "text",
+      "img_path": "p0152_001_text.png",
+      "bbox": [
+        [
+          167,
+          1094
+        ],
+        [
+          1516,
+          1094
+        ],
+        [
+          1516,
+          1278
+        ],
+        [
+          167,
+          1278
+        ]
+      ],
+      "score": 0.9581249356269836,
+      "y_pos": 1094,
+      "text": "17. Mach Nhu: chủ về chứng vệ khí. Dương khí suy kém,\nkhông đủ sức bảo vệ bì phu cho nên mồ hôi ra bất thường (tự\nhãn).",
+      "confidence": 0.970985573369035
+    },
+    {
+      "type": "text",
+      "img_path": "p0152_006_text.png",
+      "bbox": [
+        [
+          168,
+          1321
+        ],
+        [
+          1513,
+          1321
+        ],
+        [
+          1513,
+          1439
+        ],
+        [
+          168,
+          1439
+        ]
+      ],
+      "score": 0.936174750328064,
+      "y_pos": 1321,
+      "text": "18. Mạch Nhược: chủ về chứng tinh huyết hao mòn, suy\nkém, đau ê xương thit.",
+      "confidence": 0.9659132009579077
+    },
+    {
+      "type": "text",
+      "img_path": "p0152_007_text.png",
+      "bbox": [
+        [
+          167,
+          1476
+        ],
+        [
+          1511,
+          1476
+        ],
+        [
+          1511,
+          1598
+        ],
+        [
+          167,
+          1598
+        ]
+      ],
+      "score": 0.9346106052398682,
+      "y_pos": 1476,
+      "text": "19. Mạch Hư: chủ về bệnh khí huyết suy kiệt quá mức,\nkhông dưỡng được thần khí hay làm hốt hoảng, kinh sợ.",
+      "confidence": 0.8791134187569121
+    },
+    {
+      "type": "text",
+      "img_path": "p0152_000_text.png",
+      "bbox": [
+        [
+          166,
+          1636
+        ],
+        [
+          1514,
+          1636
+        ],
+        [
+          1514,
+          1824
+        ],
+        [
+          166,
+          1824
+        ]
+      ],
+      "score": 0.9585458040237427,
+      "y_pos": 1636,
+      "text": "20. Mạch Cách: chủ bệnh hao tổn tinh huyết, nam có\nmach Cách thì hay bi di tinh, nữ có mach Cách thì hay bi băng\nlậu, nếu lúc có thai mà mạch Cách thì sẽ bị hư thai.",
+      "confidence": 0.9462537755698204
+    },
+    {
+      "type": "text",
+      "img_path": "p0152_002_text.png",
+      "bbox": [
+        [
+          166,
+          1861
+        ],
+        [
+          1514,
+          1861
+        ],
+        [
+          1514,
+          2047
+        ],
+        [
+          166,
+          2047
+        ]
+      ],
+      "score": 0.9531827569007874,
+      "y_pos": 1861,
+      "text": "21. Mạch Động: chủ về bệnh huyết thoát (mất máu) như\nbệnh băng lâu, tả, li, ho ra máu hoặc bệnh quá lâu ngày làm\như lao.",
+      "confidence": 0.9031302142519624
+    },
+    {
+      "type": "number",
+      "img_path": "p0152_010_number.png",
+      "bbox": [
+        [
+          179,
+          2225
+        ],
+        [
+          256,
+          2225
+        ],
+        [
+          256,
+          2267
+        ],
+        [
+          179,
+          2267
+        ]
+      ],
+      "score": 0.8882336020469666,
+      "y_pos": 2225,
+      "text": "    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0152.png"
+}

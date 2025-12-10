@@ -1,0 +1,136 @@
+{
+  "page_num": 220,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0220_003_text.png",
+      "bbox": [
+        [
+          412,
+          382
+        ],
+        [
+          1267,
+          382
+        ],
+        [
+          1267,
+          940
+        ],
+        [
+          412,
+          940
+        ]
+      ],
+      "score": 0.8464952707290649,
+      "y_pos": 382,
+      "text": "Mạch Trì quan bộ bôn ba,\nLong đong bốc vác cửa nhà sạch không.\nMe cha chẳng được cậy trông,\nVợ con khốn khổ không mong mỏi gì.\nTăng Ni hoặc có thương vì,\nNhà buôn khó nói bàn chi được nào?\nBệnh tình phổi đã hư lao,\nLại thêm hàn khí nhập vào hại thân",
+      "confidence": 0.9956607504805802
+    },
+    {
+      "type": "text",
+      "img_path": "p0220_002_text.png",
+      "bbox": [
+        [
+          454,
+          1031
+        ],
+        [
+          1239,
+          1031
+        ],
+        [
+          1239,
+          1590
+        ],
+        [
+          454,
+          1590
+        ]
+      ],
+      "score": 0.8623543381690979,
+      "y_pos": 1031,
+      "text": "Xích Trì chạy chọt lao lung\nDi cư không định tứ tung ngũ hành\nTiêu hao ngày tháng lần quanh,\nCủa xưa để lại nay thành ra tro.\nNuôi con nhiều lúc phải lo,\nBệnh tình không biết rồi ra thế nào?\nBàng quang khí kết mãi vào,\nMỗi ngày hư lãnh tiêu hao sức dần.",
+      "confidence": 0.9957912569252845
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0220_004_paragraph_title.png",
+      "bbox": [
+        [
+          173,
+          1625
+        ],
+        [
+          553,
+          1625
+        ],
+        [
+          553,
+          1676
+        ],
+        [
+          173,
+          1676
+        ]
+      ],
+      "score": 0.7947989106178284,
+      "y_pos": 1625,
+      "text": "1.13. Mạch Phục",
+      "confidence": 0.950571645708645
+    },
+    {
+      "type": "text",
+      "img_path": "p0220_000_text.png",
+      "bbox": [
+        [
+          366,
+          1696
+        ],
+        [
+          1312,
+          1696
+        ],
+        [
+          1312,
+          2114
+        ],
+        [
+          366,
+          2114
+        ]
+      ],
+      "score": 0.8834810256958008,
+      "y_pos": 1696,
+      "text": "Thốn mà mạch phục sao đây,\nChính người đàm khí mạch hay thất thường,\nViệc làm không có chủ trương\nTính hay do dự thích đường phong quang.\nCửa nhà của cải giàu sang\nVào ra như thể tuyết tan không chừng.",
+      "confidence": 0.9984358726171504
+    },
+    {
+      "type": "number",
+      "img_path": "p0220_001_number.png",
+      "bbox": [
+        [
+          174,
+          2224
+        ],
+        [
+          258,
+          2224
+        ],
+        [
+          258,
+          2267
+        ],
+        [
+          174,
+          2267
+        ]
+      ],
+      "score": 0.8729814291000366,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0220.png"
+}

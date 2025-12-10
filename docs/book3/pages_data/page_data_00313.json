@@ -1,0 +1,110 @@
+{
+  "page_num": 313,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0313_003_text.png",
+      "bbox": [
+        [
+          230,
+          1
+        ],
+        [
+          753,
+          1
+        ],
+        [
+          753,
+          95
+        ],
+        [
+          230,
+          95
+        ]
+      ],
+      "score": 0.6150495409965515,
+      "y_pos": 1,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9660088127851486
+    },
+    {
+      "type": "text",
+      "img_path": "p0313_001_text.png",
+      "bbox": [
+        [
+          228,
+          1841
+        ],
+        [
+          680,
+          1841
+        ],
+        [
+          680,
+          2127
+        ],
+        [
+          228,
+          2127
+        ]
+      ],
+      "score": 0.6684691905975342,
+      "y_pos": 1841,
+      "text": "1. Bảo nguyên thang\nHoàng kỳ    15gr\nCam thảo    4gr\nĐảng sâm    12gr\nNhục quế    6gr",
+      "confidence": 0.9365483603780232
+    },
+    {
+      "type": "text",
+      "img_path": "p0313_002_text.png",
+      "bbox": [
+        [
+          965,
+          1841
+        ],
+        [
+          1524,
+          1841
+        ],
+        [
+          1524,
+          2126
+        ],
+        [
+          965,
+          2126
+        ]
+      ],
+      "score": 0.617192268371582,
+      "y_pos": 1841,
+      "text": "2. Tứ quân tử thang\nĐảng sâm    12gr\nBach linh    12gr\nBach truât    10gr\nCam thảo    4gr",
+      "confidence": 0.9334378916191446
+    },
+    {
+      "type": "number",
+      "img_path": "p0313_000_number.png",
+      "bbox": [
+        [
+          1530,
+          2224
+        ],
+        [
+          1611,
+          2224
+        ],
+        [
+          1611,
+          2267
+        ],
+        [
+          1530,
+          2267
+        ]
+      ],
+      "score": 0.8867347240447998,
+      "y_pos": 2224,
+      "text": "\n\n    \n    \n    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0313.png"
+}

@@ -1,0 +1,240 @@
+{
+  "page_num": 22,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0022_000_text.png",
+      "bbox": [
+        [
+          165,
+          302
+        ],
+        [
+          1510,
+          302
+        ],
+        [
+          1510,
+          493
+        ],
+        [
+          165,
+          493
+        ]
+      ],
+      "score": 0.9689310789108276,
+      "y_pos": 302,
+      "text": "Vi tà: Do phế hư ảnh hưởng đến nguồn tông khí trao đổi\ncho tâm huyết gây rối loạn cơ cấu huyết phần. Khi chữa phải\nbổ phế an thần.",
+      "confidence": 0.9929281904213699
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0022_003_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          530
+        ],
+        [
+          785,
+          530
+        ],
+        [
+          785,
+          580
+        ],
+        [
+          284,
+          580
+        ]
+      ],
+      "score": 0.8783072233200073,
+      "y_pos": 530,
+      "text": "5.2. Về chẩn đoán học",
+      "confidence": 0.9656035718710526
+    },
+    {
+      "type": "text",
+      "img_path": "p0022_004_text.png",
+      "bbox": [
+        [
+          284,
+          618
+        ],
+        [
+          1231,
+          618
+        ],
+        [
+          1231,
+          670
+        ],
+        [
+          284,
+          670
+        ]
+      ],
+      "score": 0.8677135705947876,
+      "y_pos": 618,
+      "text": "Căn cứ vào màu sắc, khí thái để đoán bênh.",
+      "confidence": 0.9996034191413359
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0022_007_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          707
+        ],
+        [
+          706,
+          707
+        ],
+        [
+          706,
+          758
+        ],
+        [
+          285,
+          758
+        ]
+      ],
+      "score": 0.8562185764312744,
+      "y_pos": 707,
+      "text": "5.3. Về điều trị học",
+      "confidence": 0.9749203757806257
+    },
+    {
+      "type": "text",
+      "img_path": "p0022_006_text.png",
+      "bbox": [
+        [
+          284,
+          793
+        ],
+        [
+          1448,
+          793
+        ],
+        [
+          1448,
+          850
+        ],
+        [
+          284,
+          850
+        ]
+      ],
+      "score": 0.8590537905693054,
+      "y_pos": 793,
+      "text": "Đề ra nguyên tắc chữa bệnh: Hư thì bổ mẹ, thực thì tả con.",
+      "confidence": 0.9872626374165218
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0022_002_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          1338
+        ],
+        [
+          694,
+          1338
+        ],
+        [
+          694,
+          1441
+        ],
+        [
+          286,
+          1441
+        ]
+      ],
+      "score": 0.8957967162132263,
+      "y_pos": 1338,
+      "text": "J. TANG PHU",
+      "confidence": 0.7388621752078717
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0022_008_paragraph_title.png",
+      "bbox": [
+        [
+          755,
+          1577
+        ],
+        [
+          1050,
+          1577
+        ],
+        [
+          1050,
+          1639
+        ],
+        [
+          755,
+          1639
+        ]
+      ],
+      "score": 0.8140689730644226,
+      "y_pos": 1577,
+      "text": "<b>NGU TANG</b>",
+      "confidence": 0.9239316085974375
+    },
+    {
+      "type": "text",
+      "img_path": "p0022_001_text.png",
+      "bbox": [
+        [
+          165,
+          1670
+        ],
+        [
+          1508,
+          1670
+        ],
+        [
+          1508,
+          1934
+        ],
+        [
+          165,
+          1934
+        ]
+      ],
+      "score": 0.9557609558105469,
+      "y_pos": 1670,
+      "text": "Đối với cơ cấu của con người cụ thể là tạng phủ, Đông y\nhọc nghiên cứu chủ yếu về chức năng, sự đổi thay biến hóa và\nsự liên quan lẫn nhau của các tạng phủ, không lưu ý đến vấn\nđề giải phẫu mô hình.",
+      "confidence": 0.9981778759800073
+    },
+    {
+      "type": "number",
+      "img_path": "p0022_005_number.png",
+      "bbox": [
+        [
+          174,
+          2225
+        ],
+        [
+          227,
+          2225
+        ],
+        [
+          227,
+          2266
+        ],
+        [
+          174,
+          2266
+        ]
+      ],
+      "score": 0.8650991916656494,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0022.png"
+}

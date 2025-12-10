@@ -1,0 +1,214 @@
+{
+  "page_num": 322,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0322_001_text.png",
+      "bbox": [
+        [
+          165,
+          306
+        ],
+        [
+          1514,
+          306
+        ],
+        [
+          1514,
+          564
+        ],
+        [
+          165,
+          564
+        ]
+      ],
+      "score": 0.9817677140235901,
+      "y_pos": 306,
+      "text": "Từ ngàn xưa không có dao kéo, không có hóa chất\nnhưng ông bà mình vẫn không bó tay trước bệnh mạch lươn.\nBệnh mạch lươn không được xếp vào các chứng nan y như tứ\nchứng (phong, lao, cổ, nại).",
+      "confidence": 0.9986427432769849
+    },
+    {
+      "type": "text",
+      "img_path": "p0322_003_text.png",
+      "bbox": [
+        [
+          164,
+          598
+        ],
+        [
+          1511,
+          598
+        ],
+        [
+          1511,
+          787
+        ],
+        [
+          164,
+          787
+        ]
+      ],
+      "score": 0.9751591682434082,
+      "y_pos": 598,
+      "text": "Nguyên tắc điều trị là \"tiêu viêm và bài nùng, sinh cơ\"\n(tức là diệt khuẩn trị viêm và nạo mủ, máu độc hoại tử ra\nngoài rồi sinh tế bào mới làm lấp vết thương).",
+      "confidence": 0.9983262772766865
+    },
+    {
+      "type": "text",
+      "img_path": "p0322_000_text.png",
+      "bbox": [
+        [
+          163,
+          823
+        ],
+        [
+          1511,
+          823
+        ],
+        [
+          1511,
+          1148
+        ],
+        [
+          163,
+          1148
+        ]
+      ],
+      "score": 0.9826394319534302,
+      "y_pos": 823,
+      "text": "Trên cơ sở khoa học về phương pháp luận trong được lý\ntrị liệu y học cổ truyền đã chứng tỏ có nhiều vị thuốc, bài\nthuốc có khả năng nao vét mủ, sát khuẩn và hoai tử từ tất cả\ncác vị trí sâu trong cơ thể ra ngoài theo đường tiêu hóa, đường\nbài tiết và qua các khiếu, các lỗ đầu hang.",
+      "confidence": 0.9963658732529517
+    },
+    {
+      "type": "text",
+      "img_path": "p0322_004_text.png",
+      "bbox": [
+        [
+          165,
+          1187
+        ],
+        [
+          1512,
+          1187
+        ],
+        [
+          1512,
+          1305
+        ],
+        [
+          165,
+          1305
+        ]
+      ],
+      "score": 0.96490877866745,
+      "y_pos": 1187,
+      "text": "- Với các mũi tên, hòn đạn lẫn trong xương thịt cũng có\nthuốc uống và đắp để kéo ra ngoài.",
+      "confidence": 0.9981444298523908
+    },
+    {
+      "type": "text",
+      "img_path": "p0322_002_text.png",
+      "bbox": [
+        [
+          164,
+          1340
+        ],
+        [
+          1510,
+          1340
+        ],
+        [
+          1510,
+          1666
+        ],
+        [
+          164,
+          1666
+        ]
+      ],
+      "score": 0.9805141091346741,
+      "y_pos": 1340,
+      "text": "Các vị thuốc này đã giải tỏa được cái khó trong điều trị\ntất cả các chứng \"mach lươn\". Bài thuốc cổ phương có khả\nnăng bài nùng sinh cơ cực manh chữa được \"mạch lươn\"\nmang tên \"Thiên phương hoạt mệnh\" (nghĩa là phương thuốc\ncủa trời để cứu mệnh).",
+      "confidence": 0.9965098232601793
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0322_007_paragraph_title.png",
+      "bbox": [
+        [
+          293,
+          1728
+        ],
+        [
+          1388,
+          1728
+        ],
+        [
+          1388,
+          1786
+        ],
+        [
+          293,
+          1786
+        ]
+      ],
+      "score": 0.6289056539535522,
+      "y_pos": 1728,
+      "text": "ĐƠN THUỐC THIÊN PHƯƠNG HOAT MÊNH",
+      "confidence": 0.9980136559290045
+    },
+    {
+      "type": "table",
+      "img_path": "p0322_005_table.png",
+      "bbox": [
+        [
+          193,
+          1806
+        ],
+        [
+          1419,
+          1806
+        ],
+        [
+          1419,
+          2152
+        ],
+        [
+          193,
+          2152
+        ]
+      ],
+      "score": 0.880881130695343,
+      "y_pos": 1806,
+      "text": "Tạo giác thích    10g    Ngân hoa    12g\nXuyên sơn giáp    12g    Trần bì    8g\nNgô công    8g    Thiên hoa phấn    12g\nĐương quy    15g    Phòng phong    12g\nCam thảo    6g    Nhũ hương    8g",
+      "confidence": 0.9212842013366469
+    },
+    {
+      "type": "number",
+      "img_path": "p0322_006_number.png",
+      "bbox": [
+        [
+          173,
+          2224
+        ],
+        [
+          257,
+          2224
+        ],
+        [
+          257,
+          2267
+        ],
+        [
+          173,
+          2267
+        ]
+      ],
+      "score": 0.8687412142753601,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0322.png"
+}

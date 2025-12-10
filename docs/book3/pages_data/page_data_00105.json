@@ -1,0 +1,318 @@
+{
+  "page_num": 105,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0105_009_header.png",
+      "bbox": [
+        [
+          229,
+          1
+        ],
+        [
+          751,
+          1
+        ],
+        [
+          751,
+          96
+        ],
+        [
+          229,
+          96
+        ]
+      ],
+      "score": 0.6690083742141724,
+      "y_pos": 1,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9683630426571919
+    },
+    {
+      "type": "table",
+      "img_path": "p0105_000_table.png",
+      "bbox": [
+        [
+          232,
+          291
+        ],
+        [
+          1565,
+          291
+        ],
+        [
+          1565,
+          709
+        ],
+        [
+          232,
+          709
+        ]
+      ],
+      "score": 0.9865368604660034,
+      "y_pos": 291,
+      "text": "Năm    Tháng Giêng (dần)\nGiáp, Kỷ<br>Ất, Canh    Bính Dần\nMậu Dần\nBính, Tân    Canh Dần\nĐinh, Nhâm    Nhâm Dần\nMậu, Quý    Giáp Dần",
+      "confidence": 0.9514783223596804
+    },
+    {
+      "type": "text",
+      "img_path": "p0105_007_text.png",
+      "bbox": [
+        [
+          225,
+          741
+        ],
+        [
+          1570,
+          741
+        ],
+        [
+          1570,
+          863
+        ],
+        [
+          225,
+          863
+        ]
+      ],
+      "score": 0.882763147354126,
+      "y_pos": 741,
+      "text": "Nghĩa là: Những năm mà có can là giáp và kỷ thì tháng\ngiêng của nó là Mậu dần.",
+      "confidence": 0.9984416535892686
+    },
+    {
+      "type": "text",
+      "img_path": "p0105_003_text.png",
+      "bbox": [
+        [
+          225,
+          900
+        ],
+        [
+          1568,
+          900
+        ],
+        [
+          1568,
+          1017
+        ],
+        [
+          225,
+          1017
+        ]
+      ],
+      "score": 0.9603385329246521,
+      "y_pos": 900,
+      "text": "Những năm mà có can là ất, là canh thì tháng giêng\ncủa nó là Mậu dần.",
+      "confidence": 0.9968868269370152
+    },
+    {
+      "type": "text",
+      "img_path": "p0105_002_text.png",
+      "bbox": [
+        [
+          225,
+          1057
+        ],
+        [
+          1566,
+          1057
+        ],
+        [
+          1566,
+          1171
+        ],
+        [
+          225,
+          1171
+        ]
+      ],
+      "score": 0.9617212414741516,
+      "y_pos": 1057,
+      "text": "Những năm có can là bính, là tân thì tháng giêng của\nnó là Canh dần.",
+      "confidence": 0.9922179275543341
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0105_011_paragraph_title.png",
+      "bbox": [
+        [
+          379,
+          1217
+        ],
+        [
+          798,
+          1217
+        ],
+        [
+          798,
+          1268
+        ],
+        [
+          379,
+          1268
+        ]
+      ],
+      "score": 0.6550368070602417,
+      "y_pos": 1217,
+      "text": "13.4. Ngũ thử Độn",
+      "confidence": 0.9634213667166861
+    },
+    {
+      "type": "table",
+      "img_path": "p0105_001_table.png",
+      "bbox": [
+        [
+          232,
+          1303
+        ],
+        [
+          1528,
+          1303
+        ],
+        [
+          1528,
+          1723
+        ],
+        [
+          232,
+          1723
+        ]
+      ],
+      "score": 0.9853929877281189,
+      "y_pos": 1303,
+      "text": "Ngày    Giờ Tý\nGiáp, Kỷ<br>Ất, Canh    Giáp Tý    Bính Tý\nBính, Tân    Mậu Tý\nĐinh, Nhâm    Canh Tý\nMậu, Quý    Nhâm Tý",
+      "confidence": 0.9050364054054229
+    },
+    {
+      "type": "text",
+      "img_path": "p0105_005_text.png",
+      "bbox": [
+        [
+          224,
+          1748
+        ],
+        [
+          1572,
+          1748
+        ],
+        [
+          1572,
+          1869
+        ],
+        [
+          224,
+          1869
+        ]
+      ],
+      "score": 0.941412627696991,
+      "y_pos": 1748,
+      "text": "Nghĩa là: Những ngày mà có can là giáp là kỷ thì giờ\ntý của nó là Giáp tý.",
+      "confidence": 0.9962833177736223
+    },
+    {
+      "type": "text",
+      "img_path": "p0105_010_text.png",
+      "bbox": [
+        [
+          375,
+          1897
+        ],
+        [
+          1555,
+          1897
+        ],
+        [
+          1555,
+          1951
+        ],
+        [
+          375,
+          1951
+        ]
+      ],
+      "score": 0.6573547720909119,
+      "y_pos": 1897,
+      "text": "Những ngày có can là ất, canh thì giờ tý của nó là Bính tý.",
+      "confidence": 0.9987728732531188
+    },
+    {
+      "type": "text",
+      "img_path": "p0105_008_text.png",
+      "bbox": [
+        [
+          376,
+          1977
+        ],
+        [
+          1568,
+          1977
+        ],
+        [
+          1568,
+          2031
+        ],
+        [
+          376,
+          2031
+        ]
+      ],
+      "score": 0.6701745390892029,
+      "y_pos": 1977,
+      "text": "Những ngày có can là bính, tân thì giờ tý của nó là Mậu tý.",
+      "confidence": 0.9989306350223354
+    },
+    {
+      "type": "text",
+      "img_path": "p0105_004_text.png",
+      "bbox": [
+        [
+          225,
+          2060
+        ],
+        [
+          1572,
+          2060
+        ],
+        [
+          1572,
+          2180
+        ],
+        [
+          225,
+          2180
+        ]
+      ],
+      "score": 0.9533851146697998,
+      "y_pos": 2060,
+      "text": "Lưu ý: Căn cứ vào vòng trường sinh, lục thập hoa giáp\nngũ hổ độn, ngũ thử độn và ngũ hành khắc người ta luận ngày",
+      "confidence": 0.9994230863145496
+    },
+    {
+      "type": "number",
+      "img_path": "p0105_006_number.png",
+      "bbox": [
+        [
+          1535,
+          2225
+        ],
+        [
+          1611,
+          2225
+        ],
+        [
+          1611,
+          2267
+        ],
+        [
+          1535,
+          2267
+        ]
+      ],
+      "score": 0.8893138766288757,
+      "y_pos": 2225,
+      "text": "    \n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0105.png"
+}

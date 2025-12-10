@@ -1,0 +1,110 @@
+{
+  "page_num": 300,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0300_000_text.png",
+      "bbox": [
+        [
+          168,
+          1469
+        ],
+        [
+          570,
+          1469
+        ],
+        [
+          570,
+          1937
+        ],
+        [
+          168,
+          1937
+        ]
+      ],
+      "score": 0.653441846370697,
+      "y_pos": 1469,
+      "text": "1. Tiểu sài hồ thang\nĐẳng sâm    12gr\nSài hồ    8gr\nBán hạ chế    4gr\nCam thảo    4gr\nSinh khương    12gr\nHoàng cầm    8gr\nĐại táo    4gr",
+      "confidence": 0.9409049564583781
+    },
+    {
+      "type": "text",
+      "img_path": "p0300_001_text.png",
+      "bbox": [
+        [
+          840,
+          1471
+        ],
+        [
+          1354,
+          1471
+        ],
+        [
+          1354,
+          1998
+        ],
+        [
+          840,
+          1998
+        ]
+      ],
+      "score": 0.6370434761047363,
+      "y_pos": 1471,
+      "text": "2. Tang cúc ẩm\nTang diệp    8gr\nCúc hoa    6gr\nLiên kiều    6gr\nCam thảo    4gr\nCát cánh    12gr\nBac hà    8gr\nHanh nhân    4gr\nLô căn    10gr",
+      "confidence": 0.9423226369353398
+    },
+    {
+      "type": "text",
+      "img_path": "p0300_003_text.png",
+      "bbox": [
+        [
+          854,
+          2134
+        ],
+        [
+          1162,
+          2134
+        ],
+        [
+          1162,
+          2182
+        ],
+        [
+          854,
+          2182
+        ]
+      ],
+      "score": 0.5225563645362854,
+      "y_pos": 2134,
+      "text": "4. Thanh tỳ ẩm",
+      "confidence": 0.9499737843871117
+    },
+    {
+      "type": "text",
+      "img_path": "p0300_002_text.png",
+      "bbox": [
+        [
+          169,
+          2136
+        ],
+        [
+          643,
+          2136
+        ],
+        [
+          643,
+          2269
+        ],
+        [
+          169,
+          2269
+        ]
+      ],
+      "score": 0.5350978970527649,
+      "y_pos": 2136,
+      "text": "3. Bát trân khương giới\n300",
+      "confidence": 0.9172729909420013
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0300.png"
+}

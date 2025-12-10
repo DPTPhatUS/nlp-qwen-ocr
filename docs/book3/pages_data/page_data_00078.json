@@ -1,0 +1,84 @@
+{
+  "page_num": 78,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0078_002_text.png",
+      "bbox": [
+        [
+          345,
+          1928
+        ],
+        [
+          1339,
+          1928
+        ],
+        [
+          1339,
+          1991
+        ],
+        [
+          345,
+          1991
+        ]
+      ],
+      "score": 0.7461803555488586,
+      "y_pos": 1928,
+      "text": "Khí sắc bệnh theo từng bộ vị trên mặt",
+      "confidence": 0.9979053598183852
+    },
+    {
+      "type": "text",
+      "img_path": "p0078_001_text.png",
+      "bbox": [
+        [
+          468,
+          2071
+        ],
+        [
+          1163,
+          2071
+        ],
+        [
+          1163,
+          2123
+        ],
+        [
+          468,
+          2123
+        ]
+      ],
+      "score": 0.7604502439498901,
+      "y_pos": 2071,
+      "text": "Nhân trung sắc trắng bệnh hành",
+      "confidence": 0.9937512557953596
+    },
+    {
+      "type": "number",
+      "img_path": "p0078_000_number.png",
+      "bbox": [
+        [
+          176,
+          2227
+        ],
+        [
+          228,
+          2227
+        ],
+        [
+          228,
+          2267
+        ],
+        [
+          176,
+          2267
+        ]
+      ],
+      "score": 0.8768821358680725,
+      "y_pos": 2227,
+      "text": "\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0078.png"
+}

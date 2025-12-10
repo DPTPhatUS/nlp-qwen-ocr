@@ -1,0 +1,238 @@
+{
+  "page_num": 76,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0076_005_text.png",
+      "bbox": [
+        [
+          167,
+          304
+        ],
+        [
+          1512,
+          304
+        ],
+        [
+          1512,
+          427
+        ],
+        [
+          167,
+          427
+        ]
+      ],
+      "score": 0.9588187336921692,
+      "y_pos": 304,
+      "text": "- Tại Pháp lệnh có màu vàng hồng thì thân thể cường\ntráng, không bệnh tật.",
+      "confidence": 0.9942827062365018
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_006_text.png",
+      "bbox": [
+        [
+          168,
+          462
+        ],
+        [
+          1515,
+          462
+        ],
+        [
+          1515,
+          580
+        ],
+        [
+          168,
+          580
+        ]
+      ],
+      "score": 0.9582309722900391,
+      "y_pos": 462,
+      "text": "- Tại Sơn căn có màu xích (đỏ xám) thì đối với phụ nữ khi\nsanh nở dứt khoát là khó khăn phải mổ mới lấy con ra được.",
+      "confidence": 0.9996305893790924
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_000_text.png",
+      "bbox": [
+        [
+          166,
+          618
+        ],
+        [
+          1514,
+          618
+        ],
+        [
+          1514,
+          810
+        ],
+        [
+          166,
+          810
+        ]
+      ],
+      "score": 0.9714833498001099,
+      "y_pos": 618,
+      "text": "- Tại Ty lương xuất hiện màu đỏ là bệnh thuộc huyết\nsắp bị tai biến về tuần hoàn nên phòng chữa hoặc nên gần\nnhà thương hoặc gần thầy thuốc để tiện việc cấp cứu.",
+      "confidence": 0.9984263373376208
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_003_text.png",
+      "bbox": [
+        [
+          167,
+          845
+        ],
+        [
+          1512,
+          845
+        ],
+        [
+          1512,
+          965
+        ],
+        [
+          167,
+          965
+        ]
+      ],
+      "score": 0.9627929329872131,
+      "y_pos": 845,
+      "text": "- Hai bên cánh mũi (vùng Ty lương) nếu ửng hồng thì\nvới phụ nữ là đang hành kinh.",
+      "confidence": 0.9992313114557771
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_008_text.png",
+      "bbox": [
+        [
+          286,
+          1000
+        ],
+        [
+          1379,
+          1000
+        ],
+        [
+          1379,
+          1052
+        ],
+        [
+          286,
+          1052
+        ]
+      ],
+      "score": 0.9095737934112549,
+      "y_pos": 1000,
+      "text": "- Tại Địa khố xuất hiện sắc đỏ là bệnh sung huyết.",
+      "confidence": 0.9960234211041377
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_004_text.png",
+      "bbox": [
+        [
+          165,
+          1090
+        ],
+        [
+          1511,
+          1090
+        ],
+        [
+          1511,
+          1212
+        ],
+        [
+          165,
+          1212
+        ]
+      ],
+      "score": 0.9616460800170898,
+      "y_pos": 1090,
+      "text": "- Nhân trung mà có nốt ruồi thì nếu là phụ nữ sẽ bị bệnh\nphụ khoa hoài, nhất là bệnh ở tử cung.",
+      "confidence": 0.9958112657583993
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_007_text.png",
+      "bbox": [
+        [
+          166,
+          1248
+        ],
+        [
+          1512,
+          1248
+        ],
+        [
+          1512,
+          1367
+        ],
+        [
+          166,
+          1367
+        ]
+      ],
+      "score": 0.9578040838241577,
+      "y_pos": 1248,
+      "text": "- Nốt ruồi mà ở môi, miệng thì khi có bệnh là rất khó\nchữa thường là mang tật sau khi bị bệnh.",
+      "confidence": 0.9993849937662934
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_002_text.png",
+      "bbox": [
+        [
+          166,
+          1402
+        ],
+        [
+          1511,
+          1402
+        ],
+        [
+          1511,
+          1595
+        ],
+        [
+          166,
+          1595
+        ]
+      ],
+      "score": 0.9682374596595764,
+      "y_pos": 1402,
+      "text": "- Nốt ruồi mà ở Chuẩn đầu thường khi sanh nở là bị tử\nvong nếu có cứu được thì cũng mang bệnh kinh niên chẳng\nthường tại đường tử cung.",
+      "confidence": 0.9980763180918234
+    },
+    {
+      "type": "image",
+      "img_path": "p0076_001_image.png",
+      "bbox": [
+        [
+          248,
+          1644
+        ],
+        [
+          1393,
+          1644
+        ],
+        [
+          1393,
+          2481
+        ],
+        [
+          248,
+          2481
+        ]
+      ],
+      "score": 0.9712122678756714,
+      "y_pos": 1644
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0076.png"
+}

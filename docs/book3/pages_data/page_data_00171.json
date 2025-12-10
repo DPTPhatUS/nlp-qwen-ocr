@@ -1,0 +1,58 @@
+{
+  "page_num": 171,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0171_001_text.png",
+      "bbox": [
+        [
+          1095,
+          500
+        ],
+        [
+          1426,
+          500
+        ],
+        [
+          1426,
+          755
+        ],
+        [
+          1095,
+          755
+        ]
+      ],
+      "score": 0.5641302466392517,
+      "y_pos": 500,
+      "text": "MA螩H BE腘H\n言 N KHA貼\n(H靚h 2)",
+      "confidence": 0.8020497251038599
+    },
+    {
+      "type": "number",
+      "img_path": "p0171_000_number.png",
+      "bbox": [
+        [
+          1536,
+          2226
+        ],
+        [
+          1606,
+          2226
+        ],
+        [
+          1606,
+          2266
+        ],
+        [
+          1536,
+          2266
+        ]
+      ],
+      "score": 0.9152083992958069,
+      "y_pos": 2226,
+      "text": "    \n\n\n    \n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0171.png"
+}

@@ -1,0 +1,292 @@
+{
+  "page_num": 113,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0113_010_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          751,
+          0
+        ],
+        [
+          751,
+          96
+        ],
+        [
+          227,
+          96
+        ]
+      ],
+      "score": 0.6400126218795776,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.96442627457472
+    },
+    {
+      "type": "text",
+      "img_path": "p0113_000_text.png",
+      "bbox": [
+        [
+          224,
+          302
+        ],
+        [
+          1570,
+          302
+        ],
+        [
+          1570,
+          630
+        ],
+        [
+          224,
+          630
+        ]
+      ],
+      "score": 0.9823381900787354,
+      "y_pos": 302,
+      "text": "Một là hỏi về hàn nhiệt (nóng lạnh), hai hỏi về mồ hôi.\nBa hỏi về sư ăn uống, bốn hỏi về đại tiểu tiện. Năm hỏi về\nđau đầu, đau mình, sáu hỏi về phần ngực, phần bụng. Bảy hỏi\nvề tai ù, tai điếc. Tám hỏi về bệnh tiêu khát. Chín hỏi về\nbệnh cũ, mười hỏi về nguyên nhân gây bệnh.",
+      "confidence": 0.9943679728378367
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0113_009_paragraph_title.png",
+      "bbox": [
+        [
+          281,
+          654
+        ],
+        [
+          1520,
+          654
+        ],
+        [
+          1520,
+          715
+        ],
+        [
+          281,
+          715
+        ]
+      ],
+      "score": 0.7041703462600708,
+      "y_pos": 654,
+      "text": "XÁC ĐINH BÊNH CHỨNG THÔNG QUA VẪN CHẨN",
+      "confidence": 0.927802923321724
+    },
+    {
+      "type": "text",
+      "img_path": "p0113_003_text.png",
+      "bbox": [
+        [
+          223,
+          755
+        ],
+        [
+          1571,
+          755
+        ],
+        [
+          1571,
+          948
+        ],
+        [
+          223,
+          948
+        ]
+      ],
+      "score": 0.9695805311203003,
+      "y_pos": 755,
+      "text": "Hỏi về hàn nhiệt: Hỏi xem bệnh nhân cảm thấy nóng\nhay lạnh rồi kết hợp cả bốn phép chẩn mà phân biệt cái nóng\nhay cái lạnh ấy là chân hay giả.",
+      "confidence": 0.99668480363751
+    },
+    {
+      "type": "text",
+      "img_path": "p0113_001_text.png",
+      "bbox": [
+        [
+          223,
+          980
+        ],
+        [
+          1571,
+          980
+        ],
+        [
+          1571,
+          1238
+        ],
+        [
+          223,
+          1238
+        ]
+      ],
+      "score": 0.9762051701545715,
+      "y_pos": 980,
+      "text": "Nếu qua tứ chẩn xác định là chứng hàn mà bệnh nhân lại\ncó cảm giác nóng thì đó là chân hàn giả nhiệt, ngược lại nếu qua\ntứ chẩn xác định là chứng nhiệt mà bệnh nhân lại có cảm giác\nlanh thì đó là chân nhiệt giả hàn.",
+      "confidence": 0.9984776340833388
+    },
+    {
+      "type": "text",
+      "img_path": "p0113_007_text.png",
+      "bbox": [
+        [
+          225,
+          1274
+        ],
+        [
+          1569,
+          1274
+        ],
+        [
+          1569,
+          1395
+        ],
+        [
+          225,
+          1395
+        ]
+      ],
+      "score": 0.9543425440788269,
+      "y_pos": 1274,
+      "text": "Cái chân giả hàn nhiệt là thể hiện âm cực sinh dương\n(hay hàn cực sinh nhiệt).",
+      "confidence": 0.9931880036989849
+    },
+    {
+      "type": "text",
+      "img_path": "p0113_005_text.png",
+      "bbox": [
+        [
+          225,
+          1431
+        ],
+        [
+          1570,
+          1431
+        ],
+        [
+          1570,
+          1552
+        ],
+        [
+          225,
+          1552
+        ]
+      ],
+      "score": 0.9577004909515381,
+      "y_pos": 1431,
+      "text": "Cái chân nhiệt giả hàn là thể hiện dương cực sinh âm\n(hay nhiệt cực sinh hàn).",
+      "confidence": 0.9947244574626287
+    },
+    {
+      "type": "text",
+      "img_path": "p0113_006_text.png",
+      "bbox": [
+        [
+          224,
+          1590
+        ],
+        [
+          1571,
+          1590
+        ],
+        [
+          1571,
+          1710
+        ],
+        [
+          224,
+          1710
+        ]
+      ],
+      "score": 0.9543628692626953,
+      "y_pos": 1590,
+      "text": "Đây là những chứng hàn, nhiệt đã tới mức quá (khó\nchữa, khi điều trị phải cân nhắc thận trọng).",
+      "confidence": 0.996012614377101
+    },
+    {
+      "type": "text",
+      "img_path": "p0113_002_text.png",
+      "bbox": [
+        [
+          224,
+          1744
+        ],
+        [
+          1574,
+          1744
+        ],
+        [
+          1574,
+          1935
+        ],
+        [
+          224,
+          1935
+        ]
+      ],
+      "score": 0.9715957641601562,
+      "y_pos": 1744,
+      "text": "Còn thực tế là hàn mà cảm giác thấy lạnh hoặc thực tế\nlà nhiệt mà cảm giác thấy nóng thì là lẽ thường (cảm giác\nthuận với bệnh lý - bệnh dễ chữa).",
+      "confidence": 0.998099230665673
+    },
+    {
+      "type": "text",
+      "img_path": "p0113_004_text.png",
+      "bbox": [
+        [
+          224,
+          1971
+        ],
+        [
+          1572,
+          1971
+        ],
+        [
+          1572,
+          2162
+        ],
+        [
+          224,
+          2162
+        ]
+      ],
+      "score": 0.9689128398895264,
+      "y_pos": 1971,
+      "text": "Dựa vào cảm giác nóng, lạnh của bệnh nhân, chúng ta\ncòn nhân biết được tính chất bệnh thuộc biểu hay lý, hoặc nếu\nnhư lúc thì nóng, lúc thì lạnh, đó là hàn, nhiệt vãng lai, thường",
+      "confidence": 0.9916846663278305
+    },
+    {
+      "type": "number",
+      "img_path": "p0113_008_number.png",
+      "bbox": [
+        [
+          1535,
+          2225
+        ],
+        [
+          1611,
+          2225
+        ],
+        [
+          1611,
+          2267
+        ],
+        [
+          1535,
+          2267
+        ]
+      ],
+      "score": 0.8829407095909119,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0113.png"
+}

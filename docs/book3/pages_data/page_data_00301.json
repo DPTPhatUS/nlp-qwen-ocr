@@ -1,0 +1,136 @@
+{
+  "page_num": 301,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0301_004_text.png",
+      "bbox": [
+        [
+          938,
+          305
+        ],
+        [
+          1412,
+          305
+        ],
+        [
+          1412,
+          772
+        ],
+        [
+          938,
+          772
+        ]
+      ],
+      "score": 0.6000456213951111,
+      "y_pos": 305,
+      "text": "Thanh bì    8gr\nBán hạ    8gr\nHoàng cầm    4gr\nThảo quả    4gr\nCam thảo    4gr\nSinh khương    6gr\nHậu phát    12gr\nPhuc linh    12gr",
+      "confidence": 0.9500799875537103
+    },
+    {
+      "type": "text",
+      "img_path": "p0301_003_text.png",
+      "bbox": [
+        [
+          227,
+          306
+        ],
+        [
+          620,
+          306
+        ],
+        [
+          620,
+          892
+        ],
+        [
+          227,
+          892
+        ]
+      ],
+      "score": 0.7190467119216919,
+      "y_pos": 306,
+      "text": "Xuyên khung    8gr\n<b>Dương</b> quy    6gr\nThục địa    6gr\nBach thược    4gr\nĐẳng sâm    12gr\nBach linh    12gr\nBach truật    12gr\nCam thảo    8gr\nSinh khương    4gr\nKinh giới    10gr",
+      "confidence": 0.9389097764917882
+    },
+    {
+      "type": "text",
+      "img_path": "p0301_001_text.png",
+      "bbox": [
+        [
+          226,
+          1336
+        ],
+        [
+          689,
+          1336
+        ],
+        [
+          689,
+          2163
+        ],
+        [
+          226,
+          2163
+        ]
+      ],
+      "score": 0.7635778188705444,
+      "y_pos": 1336,
+      "text": "5. Điều cơ chỉnh ngược\nSài hồ    8gr\nÝ dĩ sao    6gr\nMach môn    8gr\nThanh hao    4gr\nTri mẫu    8gr\nTử tô    10gr\nSa can    8gr\nHoàng đằng    12gr\nTrần bì    8gr\nBán hạ chế    4gr\nChỉ xác    10gr\nCam thảo    4gr\nHoàng cầm    6gr",
+      "confidence": 0.9557477975785524
+    },
+    {
+      "type": "text",
+      "img_path": "p0301_002_text.png",
+      "bbox": [
+        [
+          913,
+          1337
+        ],
+        [
+          1413,
+          1337
+        ],
+        [
+          1413,
+          2104
+        ],
+        [
+          913,
+          2104
+        ]
+      ],
+      "score": 0.7403303980827332,
+      "y_pos": 1337,
+      "text": "6. Thập toàn gia vị\n<b>Duong quy</b>    8gr\nXuyên khung    6gr\nThuc dia    6gr\nBach thược    4gr\nĐẳng sâm    12gr\nBach linh    12gr\nBach truật    12gr\nCam thảo    8gr\nHoàng kỳ    4gr\nThảo quả    10gr\nNhục quế    6gr\nThường sơn    8gr",
+      "confidence": 0.942235080659965
+    },
+    {
+      "type": "number",
+      "img_path": "p0301_000_number.png",
+      "bbox": [
+        [
+          1532,
+          2225
+        ],
+        [
+          1608,
+          2225
+        ],
+        [
+          1608,
+          2267
+        ],
+        [
+          1532,
+          2267
+        ]
+      ],
+      "score": 0.909853994846344,
+      "y_pos": 2225,
+      "text": "\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0301.png"
+}

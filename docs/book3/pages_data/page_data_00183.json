@@ -1,0 +1,396 @@
+{
+  "page_num": 183,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0183_014_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          751,
+          0
+        ],
+        [
+          751,
+          95
+        ],
+        [
+          227,
+          95
+        ]
+      ],
+      "score": 0.6246029138565063,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9635226765045752
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0183_008_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          304
+        ],
+        [
+          919,
+          304
+        ],
+        [
+          919,
+          357
+        ],
+        [
+          227,
+          357
+        ]
+      ],
+      "score": 0.9005303978919983,
+      "y_pos": 304,
+      "text": "VII. MACH BENH NGHI KY",
+      "confidence": 0.7495220676064491
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0183_013_paragraph_title.png",
+      "bbox": [
+        [
+          378,
+          400
+        ],
+        [
+          1015,
+          400
+        ],
+        [
+          1015,
+          451
+        ],
+        [
+          378,
+          451
+        ]
+      ],
+      "score": 0.8899375200271606,
+      "y_pos": 400,
+      "text": "1. Mạch bệnh nghi ky là gì?",
+      "confidence": 0.9620247174953592
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_005_text.png",
+      "bbox": [
+        [
+          376,
+          488
+        ],
+        [
+          1213,
+          488
+        ],
+        [
+          1213,
+          539
+        ],
+        [
+          376,
+          539
+        ]
+      ],
+      "score": 0.919028103351593,
+      "y_pos": 488,
+      "text": "- Nghi là thích nghi, phù hợp, là thuận.",
+      "confidence": 0.9849944242409298
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_006_text.png",
+      "bbox": [
+        [
+          376,
+          574
+        ],
+        [
+          1315,
+          574
+        ],
+        [
+          1315,
+          627
+        ],
+        [
+          376,
+          627
+        ]
+      ],
+      "score": 0.918792724609375,
+      "y_pos": 574,
+      "text": "- Ky là tương ky, là phản nghịch, bất thuận.",
+      "confidence": 0.9959333720414535
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_000_text.png",
+      "bbox": [
+        [
+          223,
+          664
+        ],
+        [
+          1569,
+          664
+        ],
+        [
+          1569,
+          990
+        ],
+        [
+          223,
+          990
+        ]
+      ],
+      "score": 0.9838727116584778,
+      "y_pos": 664,
+      "text": "Mạch bệnh nghi ky nói lên những bệnh nào khi gặp\nmach nào thì thuân (dễ điều trị) hoặc những bệnh nào khi gặp\nmach nào thì bất thuận (rất khó chữa và đôi khi chữa không\nđược) khi ấy bệnh sẽ mỗi ngày một nặng lên rồi đi đến mạch\nThất quái hoặc tử vong đột ngột.",
+      "confidence": 0.9969117105182104
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_010_text.png",
+      "bbox": [
+        [
+          375,
+          1026
+        ],
+        [
+          1451,
+          1026
+        ],
+        [
+          1451,
+          1079
+        ],
+        [
+          375,
+          1079
+        ]
+      ],
+      "score": 0.8941934704780579,
+      "y_pos": 1026,
+      "text": "Sau đây là mạch Nghi Ky với một số chứng bệnh:",
+      "confidence": 0.9997895682851473
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0183_007_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          1117
+        ],
+        [
+          848,
+          1117
+        ],
+        [
+          848,
+          1168
+        ],
+        [
+          345,
+          1168
+        ]
+      ],
+      "score": 0.9005638360977173,
+      "y_pos": 1117,
+      "text": "2. Mạch bệnh nghi kỵ",
+      "confidence": 0.9303003468296744
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_011_text.png",
+      "bbox": [
+        [
+          345,
+          1205
+        ],
+        [
+          1491,
+          1205
+        ],
+        [
+          1491,
+          1255
+        ],
+        [
+          345,
+          1255
+        ]
+      ],
+      "score": 0.8927041888237,
+      "y_pos": 1205,
+      "text": "- Bệnh thuộc nhiệt, nóng sốt - nếu gặp mạch Sác thì thuận.",
+      "confidence": 0.99493348300457
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_012_text.png",
+      "bbox": [
+        [
+          345,
+          1292
+        ],
+        [
+          1498,
+          1292
+        ],
+        [
+          1498,
+          1344
+        ],
+        [
+          345,
+          1344
+        ]
+      ],
+      "score": 0.890308141708374,
+      "y_pos": 1292,
+      "text": "- Bệnh thuộc Hàn chứng - nếu gặp mạch Trầm tiểu là thuận.",
+      "confidence": 0.9904822363691815
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_001_text.png",
+      "bbox": [
+        [
+          224,
+          1383
+        ],
+        [
+          1570,
+          1383
+        ],
+        [
+          1570,
+          1572
+        ],
+        [
+          224,
+          1572
+        ]
+      ],
+      "score": 0.9738040566444397,
+      "y_pos": 1383,
+      "text": "- Bênh khái thấu (ho có đàm) nếu gặp mạch phù, mạch\nNhu là thuận. Nếu gặp mạch Trầm mạch Trì, mạch đi nhỏ\n(mạch tiểu) là ky.",
+      "confidence": 0.996779883212877
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_004_text.png",
+      "bbox": [
+        [
+          225,
+          1607
+        ],
+        [
+          1572,
+          1607
+        ],
+        [
+          1572,
+          1727
+        ],
+        [
+          225,
+          1727
+        ]
+      ],
+      "score": 0.9589064121246338,
+      "y_pos": 1607,
+      "text": "- Bệnh cuồng ngôn: gặp mạch Thực, mạch Sác thì dễ\nchữa nếu gặp mạch Trầm, mạch Hư thì khó chữa.",
+      "confidence": 0.9969168396780876
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_003_text.png",
+      "bbox": [
+        [
+          224,
+          1766
+        ],
+        [
+          1571,
+          1766
+        ],
+        [
+          1571,
+          1887
+        ],
+        [
+          224,
+          1887
+        ]
+      ],
+      "score": 0.9602360725402832,
+      "y_pos": 1766,
+      "text": "- Bệnh tiêu khát: nếu gặp mạch đại, mạch Sác thì thuận,\nnếu gặp mạch hư, mạch đi nhỏ (mạch tiểu) thì ky.",
+      "confidence": 0.9977464461954016
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_002_text.png",
+      "bbox": [
+        [
+          225,
+          1922
+        ],
+        [
+          1570,
+          1922
+        ],
+        [
+          1570,
+          2045
+        ],
+        [
+          225,
+          2045
+        ]
+      ],
+      "score": 0.9609546065330505,
+      "y_pos": 1922,
+      "text": "- Ty nục: (mũi viêm, mũi ung) nếu gặp mạch Trầm,\nmạch Tế thì thuận, nếu gặp mạch đại thì ky.",
+      "confidence": 0.9958877972099516
+    },
+    {
+      "type": "number",
+      "img_path": "p0183_009_number.png",
+      "bbox": [
+        [
+          1535,
+          2225
+        ],
+        [
+          1610,
+          2225
+        ],
+        [
+          1610,
+          2266
+        ],
+        [
+          1535,
+          2266
+        ]
+      ],
+      "score": 0.8973403573036194,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0183.png"
+}

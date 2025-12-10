@@ -1,0 +1,474 @@
+{
+  "page_num": 117,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0117_017_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          752,
+          0
+        ],
+        [
+          752,
+          96
+        ],
+        [
+          227,
+          96
+        ]
+      ],
+      "score": 0.5761818289756775,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9632050711833514
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_001_text.png",
+      "bbox": [
+        [
+          225,
+          308
+        ],
+        [
+          1570,
+          308
+        ],
+        [
+          1570,
+          425
+        ],
+        [
+          225,
+          425
+        ]
+      ],
+      "score": 0.9660137295722961,
+      "y_pos": 308,
+      "text": "- Đại tiện đau bụng, mót rặn, phân ra ít mà có dính máu\nlà chứng kiết.",
+      "confidence": 0.9906090901543696
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_003_text.png",
+      "bbox": [
+        [
+          225,
+          463
+        ],
+        [
+          1570,
+          463
+        ],
+        [
+          1570,
+          581
+        ],
+        [
+          225,
+          581
+        ]
+      ],
+      "score": 0.9647922515869141,
+      "y_pos": 463,
+      "text": "- Đại tiện đau bụng, mót rặn, phân ra ít mà có dính nhầy\nnhầy như mũi là chứng lị.",
+      "confidence": 0.9959316022627502
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0117_016_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          619
+        ],
+        [
+          690,
+          619
+        ],
+        [
+          690,
+          666
+        ],
+        [
+          344,
+          666
+        ]
+      ],
+      "score": 0.8637882471084595,
+      "y_pos": 619,
+      "text": "Hỏi về đau đầu",
+      "confidence": 0.9931288175284863
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_002_text.png",
+      "bbox": [
+        [
+          225,
+          708
+        ],
+        [
+          1574,
+          708
+        ],
+        [
+          1574,
+          829
+        ],
+        [
+          225,
+          829
+        ]
+      ],
+      "score": 0.9650420546531677,
+      "y_pos": 708,
+      "text": "- Đau vùng cổ gáy là thuộc kinh thái dương tức thái\ndương bàng quang.",
+      "confidence": 0.9862436878290527
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_010_text.png",
+      "bbox": [
+        [
+          345,
+          865
+        ],
+        [
+          1350,
+          865
+        ],
+        [
+          1350,
+          914
+        ],
+        [
+          345,
+          914
+        ]
+      ],
+      "score": 0.9172982573509216,
+      "y_pos": 865,
+      "text": "- Đau 2 bên đầu là thuộc túc thiếu dương đởm.",
+      "confidence": 0.9862655870457913
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_014_text.png",
+      "bbox": [
+        [
+          346,
+          956
+        ],
+        [
+          1330,
+          956
+        ],
+        [
+          1330,
+          1006
+        ],
+        [
+          346,
+          1006
+        ]
+      ],
+      "score": 0.9013741612434387,
+      "y_pos": 956,
+      "text": "- Đau ở vùng trán là thuộc túc dương minh vị.",
+      "confidence": 0.99206620708425
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_006_text.png",
+      "bbox": [
+        [
+          225,
+          1042
+        ],
+        [
+          1572,
+          1042
+        ],
+        [
+          1572,
+          1162
+        ],
+        [
+          225,
+          1162
+        ]
+      ],
+      "score": 0.9559090733528137,
+      "y_pos": 1042,
+      "text": "- Đau ở giữa đầu, đau từng cơn dữ dội là thuộc túc quyết âm can,\nđau triền miên nặng như đá đè là thuộc túc thiếu âm thận.",
+      "confidence": 0.9993601745529301
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_000_text.png",
+      "bbox": [
+        [
+          225,
+          1201
+        ],
+        [
+          1572,
+          1201
+        ],
+        [
+          1572,
+          1319
+        ],
+        [
+          225,
+          1319
+        ]
+      ],
+      "score": 0.9689608216285706,
+      "y_pos": 1201,
+      "text": "- Đau liên miên hai bên thái dương, có phát sốt, sợ lạnh\nlà ngoai cảm.",
+      "confidence": 0.9857082902700052
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_011_text.png",
+      "bbox": [
+        [
+          345,
+          1358
+        ],
+        [
+          1505,
+          1358
+        ],
+        [
+          1505,
+          1410
+        ],
+        [
+          345,
+          1410
+        ]
+      ],
+      "score": 0.9155905842781067,
+      "y_pos": 1358,
+      "text": "- Đau đầu, chóng mặt từng cơn, không có sốt thuộc lý chứng.",
+      "confidence": 0.9926027987824112
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_004_text.png",
+      "bbox": [
+        [
+          225,
+          1447
+        ],
+        [
+          1573,
+          1447
+        ],
+        [
+          1573,
+          1564
+        ],
+        [
+          225,
+          1564
+        ]
+      ],
+      "score": 0.9644745588302612,
+      "y_pos": 1447,
+      "text": "- Đau một bên đầu là chứng bệnh thuộc huyết (huyết\nhỏa sinh phong).",
+      "confidence": 0.9788723220555191
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_009_text.png",
+      "bbox": [
+        [
+          345,
+          1604
+        ],
+        [
+          1122,
+          1604
+        ],
+        [
+          1122,
+          1655
+        ],
+        [
+          345,
+          1655
+        ]
+      ],
+      "score": 0.9176412224769592,
+      "y_pos": 1604,
+      "text": "- Đau đầu ban ngày là thuộc dương.",
+      "confidence": 0.9919464919302199
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_008_text.png",
+      "bbox": [
+        [
+          345,
+          1690
+        ],
+        [
+          1239,
+          1690
+        ],
+        [
+          1239,
+          1742
+        ],
+        [
+          345,
+          1742
+        ]
+      ],
+      "score": 0.9202244877815247,
+      "y_pos": 1690,
+      "text": "- Đau đầu lúc xế chiều là thuộc huyết hư.",
+      "confidence": 0.9979610886684683
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_007_text.png",
+      "bbox": [
+        [
+          345,
+          1782
+        ],
+        [
+          1085,
+          1782
+        ],
+        [
+          1085,
+          1828
+        ],
+        [
+          345,
+          1828
+        ]
+      ],
+      "score": 0.9204089641571045,
+      "y_pos": 1782,
+      "text": "- Đau đầu về đêm là thuộc âm hư.",
+      "confidence": 0.9969039664548986
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_005_text.png",
+      "bbox": [
+        [
+          225,
+          1870
+        ],
+        [
+          1572,
+          1870
+        ],
+        [
+          1572,
+          1990
+        ],
+        [
+          225,
+          1990
+        ]
+      ],
+      "score": 0.9614092111587524,
+      "y_pos": 1870,
+      "text": "- Đau đầu, chóng mặt, mắt đỏ, miệng đắng là do can\nđởm hỏa vương.",
+      "confidence": 0.9926159843229331
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_012_text.png",
+      "bbox": [
+        [
+          344,
+          2026
+        ],
+        [
+          1486,
+          2026
+        ],
+        [
+          1486,
+          2079
+        ],
+        [
+          344,
+          2079
+        ]
+      ],
+      "score": 0.9133827090263367,
+      "y_pos": 2026,
+      "text": "- Đau đầu, hồi hộp, đoản hơi là thuộc khí huyết suy yếu.",
+      "confidence": 0.998583243838672
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_013_text.png",
+      "bbox": [
+        [
+          345,
+          2115
+        ],
+        [
+          1486,
+          2115
+        ],
+        [
+          1486,
+          2170
+        ],
+        [
+          345,
+          2170
+        ]
+      ],
+      "score": 0.9110714197158813,
+      "y_pos": 2115,
+      "text": "- Đột xuất váng đầu quay cuồng là thuộc thực chứng.",
+      "confidence": 0.998423696688886
+    },
+    {
+      "type": "number",
+      "img_path": "p0117_015_number.png",
+      "bbox": [
+        [
+          1535,
+          2226
+        ],
+        [
+          1612,
+          2226
+        ],
+        [
+          1612,
+          2266
+        ],
+        [
+          1535,
+          2266
+        ]
+      ],
+      "score": 0.8950663805007935,
+      "y_pos": 2226,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0117.png"
+}

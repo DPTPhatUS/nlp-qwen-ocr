@@ -1,0 +1,58 @@
+{
+  "page_num": 303,
+  "content": [
+    {
+      "type": "table",
+      "img_path": "p0303_000_table.png",
+      "bbox": [
+        [
+          252,
+          297
+        ],
+        [
+          1564,
+          297
+        ],
+        [
+          1564,
+          1070
+        ],
+        [
+          252,
+          1070
+        ]
+      ],
+      "score": 0.8708903193473816,
+      "y_pos": 297,
+      "text": "Đảng sâm    12gr    Xuyên khung    8gr\nHoàng kỳ    10gr    Đương qui    12gr\nĐương qui    12gr    Thuc địa    20gr\nBạch truật    10gr    Bach thược    12gr\nThăng ma    8gr    Đảng sâm    12gr\nSài hồ    8gr    Bach linh    12gr\nTrần bì    8gr    Bach truật    10gr\nCam thảo    4gr    Cam thảo    4gr\nHắc khương    6gr    Hoàng kỳ    10gr\nPhá cố chỉ    12gr    Nhục quế    6gr\nHương phụ    8gr\nÍch mẫu    8gr\nNgải điệp    8gr",
+      "confidence": 0.9423078247241242
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0303_001_figure_title.png",
+      "bbox": [
+        [
+          618,
+          1100
+        ],
+        [
+          1175,
+          1100
+        ],
+        [
+          1175,
+          1161
+        ],
+        [
+          618,
+          1161
+        ]
+      ],
+      "score": 0.5212531685829163,
+      "y_pos": 1100,
+      "text": "THANH PHÁP TRẬN ĐỒ",
+      "confidence": 0.9863950937986374
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0303.png"
+}

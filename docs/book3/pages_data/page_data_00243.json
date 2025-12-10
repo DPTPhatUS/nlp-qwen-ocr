@@ -1,0 +1,448 @@
+{
+  "page_num": 243,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0243_016_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          751,
+          0
+        ],
+        [
+          751,
+          95
+        ],
+        [
+          227,
+          95
+        ]
+      ],
+      "score": 0.6978582143783569,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9635226765045752
+    },
+    {
+      "type": "text",
+      "img_path": "p0243_000_text.png",
+      "bbox": [
+        [
+          224,
+          302
+        ],
+        [
+          1569,
+          302
+        ],
+        [
+          1569,
+          491
+        ],
+        [
+          224,
+          491
+        ]
+      ],
+      "score": 0.9781458377838135,
+      "y_pos": 302,
+      "text": "Hễ thấy môi của em bé phồng lên trắng trắng mà có\ncái ngấn ngang giống như con tầm là trong người của bé đang\nBiến chưng.",
+      "confidence": 0.9940406995248456
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0243_011_paragraph_title.png",
+      "bbox": [
+        [
+          375,
+          533
+        ],
+        [
+          844,
+          533
+        ],
+        [
+          844,
+          585
+        ],
+        [
+          375,
+          585
+        ]
+      ],
+      "score": 0.9156924486160278,
+      "y_pos": 533,
+      "text": "3. Mạch Biến chưng",
+      "confidence": 0.9801165908575058
+    },
+    {
+      "type": "text",
+      "img_path": "p0243_014_text.png",
+      "bbox": [
+        [
+          344,
+          621
+        ],
+        [
+          1516,
+          621
+        ],
+        [
+          1516,
+          673
+        ],
+        [
+          344,
+          673
+        ]
+      ],
+      "score": 0.9097577929496765,
+      "y_pos": 621,
+      "text": "Mạch Biến chưng tùy theo ngày, tháng, năm mà thay đổi.",
+      "confidence": 0.9986057387931007
+    },
+    {
+      "type": "text",
+      "img_path": "p0243_010_text.png",
+      "bbox": [
+        [
+          374,
+          708
+        ],
+        [
+          1311,
+          708
+        ],
+        [
+          1311,
+          761
+        ],
+        [
+          374,
+          761
+        ]
+      ],
+      "score": 0.9163751602172852,
+      "y_pos": 708,
+      "text": "- Hồng hoạt: phần nhiều là lúc Biến chưng.",
+      "confidence": 0.9973692040551793
+    },
+    {
+      "type": "text",
+      "img_path": "p0243_008_text.png",
+      "bbox": [
+        [
+          375,
+          799
+        ],
+        [
+          1467,
+          799
+        ],
+        [
+          1467,
+          849
+        ],
+        [
+          375,
+          849
+        ]
+      ],
+      "score": 0.9228201508522034,
+      "y_pos": 799,
+      "text": "- Phục mà Trì: cảm lạnh, làm vạ mửa và có cơn nóng.",
+      "confidence": 0.9970528562113924
+    },
+    {
+      "type": "text",
+      "img_path": "p0243_006_text.png",
+      "bbox": [
+        [
+          374,
+          887
+        ],
+        [
+          1383,
+          887
+        ],
+        [
+          1383,
+          938
+        ],
+        [
+          374,
+          938
+        ]
+      ],
+      "score": 0.9234712719917297,
+      "y_pos": 887,
+      "text": "- Phục mà Kết: thức ăn hay Khí tích tụ ở bụng.",
+      "confidence": 0.9873600179950396
+    },
+    {
+      "type": "text",
+      "img_path": "p0243_007_text.png",
+      "bbox": [
+        [
+          374,
+          977
+        ],
+        [
+          1089,
+          977
+        ],
+        [
+          1089,
+          1025
+        ],
+        [
+          374,
+          1025
+        ]
+      ],
+      "score": 0.9232091307640076,
+      "y_pos": 977,
+      "text": "Mach trước lớn sau nhỏ là thuân.",
+      "confidence": 0.9983646764474756
+    },
+    {
+      "type": "text",
+      "img_path": "p0243_009_text.png",
+      "bbox": [
+        [
+          372,
+          1064
+        ],
+        [
+          1405,
+          1064
+        ],
+        [
+          1405,
+          1116
+        ],
+        [
+          372,
+          1116
+        ]
+      ],
+      "score": 0.9221175909042358,
+      "y_pos": 1064,
+      "text": "Mạch trước nhỏ sau lớn là nghẹn hơi ở cổ họng.",
+      "confidence": 0.9997323329250017
+    },
+    {
+      "type": "text",
+      "img_path": "p0243_012_text.png",
+      "bbox": [
+        [
+          372,
+          1152
+        ],
+        [
+          1466,
+          1152
+        ],
+        [
+          1466,
+          1203
+        ],
+        [
+          372,
+          1203
+        ]
+      ],
+      "score": 0.9155040383338928,
+      "y_pos": 1152,
+      "text": "Mach lớn nhỏ không quân bình là tinh thần bất ổn.",
+      "confidence": 0.9979251716651169
+    },
+    {
+      "type": "text",
+      "img_path": "p0243_002_text.png",
+      "bbox": [
+        [
+          224,
+          1242
+        ],
+        [
+          1570,
+          1242
+        ],
+        [
+          1570,
+          1365
+        ],
+        [
+          224,
+          1365
+        ]
+      ],
+      "score": 0.9668031930923462,
+      "y_pos": 1242,
+      "text": "Mạch Hồng mà nhất Tức mạch nhảy Tứ chí trong tim,\ntrong bụng buồn phiền đầy chướng.",
+      "confidence": 0.999268827702151
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0243_013_paragraph_title.png",
+      "bbox": [
+        [
+          374,
+          1403
+        ],
+        [
+          1088,
+          1403
+        ],
+        [
+          1088,
+          1453
+        ],
+        [
+          374,
+          1453
+        ]
+      ],
+      "score": 0.9107025861740112,
+      "y_pos": 1403,
+      "text": "4. Mạch thuận, nghịch ở em bé",
+      "confidence": 0.9865300674592296
+    },
+    {
+      "type": "text",
+      "img_path": "p0243_001_text.png",
+      "bbox": [
+        [
+          224,
+          1489
+        ],
+        [
+          1571,
+          1489
+        ],
+        [
+          1571,
+          1680
+        ],
+        [
+          224,
+          1680
+        ]
+      ],
+      "score": 0.9776856899261475,
+      "y_pos": 1489,
+      "text": "Chứng đái són, kinh sợ, phát giật, mạch qua Thốn khẩu\ntế, phù Xác mà mình ôn hòa là thuận, nếu Trầm Tế mà mìmh\nlạnh là nghịch.",
+      "confidence": 0.9935577281531547
+    },
+    {
+      "type": "text",
+      "img_path": "p0243_005_text.png",
+      "bbox": [
+        [
+          224,
+          1713
+        ],
+        [
+          1571,
+          1713
+        ],
+        [
+          1571,
+          1837
+        ],
+        [
+          224,
+          1837
+        ]
+      ],
+      "score": 0.9633536338806152,
+      "y_pos": 1713,
+      "text": "- Chứng dạ đề (khóc đêm) nếu mạch Vi Tiểu là thuận,\nnếu nóng mình và mạch Hồng Đại là nghịch.",
+      "confidence": 0.9957315975268088
+    },
+    {
+      "type": "text",
+      "img_path": "p0243_003_text.png",
+      "bbox": [
+        [
+          224,
+          1874
+        ],
+        [
+          1570,
+          1874
+        ],
+        [
+          1570,
+          1992
+        ],
+        [
+          224,
+          1992
+        ]
+      ],
+      "score": 0.9642565846443176,
+      "y_pos": 1874,
+      "text": "- Chứng ọc sữa nếu mạch Phù Đại, mình ôn hòa là\nthuận, nếu Trầm Tế mà mình lạnh là nghịch.",
+      "confidence": 0.9985290799352144
+    },
+    {
+      "type": "text",
+      "img_path": "p0243_004_text.png",
+      "bbox": [
+        [
+          225,
+          2030
+        ],
+        [
+          1568,
+          2030
+        ],
+        [
+          1568,
+          2153
+        ],
+        [
+          225,
+          2153
+        ]
+      ],
+      "score": 0.9642499089241028,
+      "y_pos": 2030,
+      "text": "- Bệnh Cam hao mòn, mạch Khẩn Xác, phân ỉa chặt là\nthuận, nếu Trầm Tế, phân la lỏng là nghịch.",
+      "confidence": 0.993930839218645
+    },
+    {
+      "type": "number",
+      "img_path": "p0243_015_number.png",
+      "bbox": [
+        [
+          1530,
+          2225
+        ],
+        [
+          1611,
+          2225
+        ],
+        [
+          1611,
+          2266
+        ],
+        [
+          1530,
+          2266
+        ]
+      ],
+      "score": 0.8971084356307983,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0243.png"
+}

@@ -1,0 +1,162 @@
+{
+  "page_num": 168,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0168_002_text.png",
+      "bbox": [
+        [
+          166,
+          305
+        ],
+        [
+          1511,
+          305
+        ],
+        [
+          1511,
+          494
+        ],
+        [
+          166,
+          494
+        ]
+      ],
+      "score": 0.9723564982414246,
+      "y_pos": 305,
+      "text": "Mạch bệnh kiêm kiến là mạch bệnh chính lai thấy có\nthêm một hoặc hai, ba mạch bệnh phụ khác hợp với nó về\nchứng bệnh và hình tượng.",
+      "confidence": 0.9973900853473657
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0168_004_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          534
+        ],
+        [
+          1075,
+          534
+        ],
+        [
+          1075,
+          583
+        ],
+        [
+          286,
+          583
+        ]
+      ],
+      "score": 0.9098300933837891,
+      "y_pos": 534,
+      "text": "2. Mach bênh kiêm kiến đơn khán",
+      "confidence": 0.9985140724615618
+    },
+    {
+      "type": "text",
+      "img_path": "p0168_000_text.png",
+      "bbox": [
+        [
+          166,
+          619
+        ],
+        [
+          1510,
+          619
+        ],
+        [
+          1510,
+          880
+        ],
+        [
+          166,
+          880
+        ]
+      ],
+      "score": 0.978174090385437,
+      "y_pos": 619,
+      "text": "Trong phần này, chúng ta chỉ đề cập đến tứ tông mạch:\nPhù, Trầm, Trì, Sác kiệm kiến với nhau còn các trường hợp\nkhác thì dựa vào tứ tông mạch và mạch bệnh của các mach\ntrong những trường hợp đó mà phán xét.",
+      "confidence": 0.9998093776372028
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0168_003_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          917
+        ],
+        [
+          1095,
+          917
+        ],
+        [
+          1095,
+          966
+        ],
+        [
+          285,
+          966
+        ]
+      ],
+      "score": 0.9103163480758667,
+      "y_pos": 917,
+      "text": "3. Mạch bệnh kiêm kiến tổng khán",
+      "confidence": 0.9980549970093895
+    },
+    {
+      "type": "text",
+      "img_path": "p0168_001_text.png",
+      "bbox": [
+        [
+          164,
+          1003
+        ],
+        [
+          1510,
+          1003
+        ],
+        [
+          1510,
+          1262
+        ],
+        [
+          164,
+          1262
+        ]
+      ],
+      "score": 0.9775949120521545,
+      "y_pos": 1003,
+      "text": "Trong phần này, chúng ta lấy tứ tông mạch phù, Trầm,\nTrì, Sác làm mach bênh chính còn các mach khác là mach\nphụ và cũng chỉ xét những trường hợp đơn giản là một mạch\nchính kèm theo (kiêm kiến) một mạch phụ thôi.",
+      "confidence": 0.9971937810697347
+    },
+    {
+      "type": "number",
+      "img_path": "p0168_005_number.png",
+      "bbox": [
+        [
+          179,
+          2225
+        ],
+        [
+          255,
+          2225
+        ],
+        [
+          255,
+          2267
+        ],
+        [
+          179,
+          2267
+        ]
+      ],
+      "score": 0.8798407912254333,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0168.png"
+}

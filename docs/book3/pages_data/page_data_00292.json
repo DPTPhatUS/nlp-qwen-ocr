@@ -1,0 +1,136 @@
+{
+  "page_num": 292,
+  "content": [
+    {
+      "type": "table",
+      "img_path": "p0292_001_table.png",
+      "bbox": [
+        [
+          239,
+          301
+        ],
+        [
+          1471,
+          301
+        ],
+        [
+          1471,
+          595
+        ],
+        [
+          239,
+          595
+        ]
+      ],
+      "score": 0.5335001945495605,
+      "y_pos": 301,
+      "text": "Tế tân    4gr    Độc hoạt    10gr\nBach chỉ    10gr    Quế chi    6gr\nPhòng phong    8gr    Ma hoàng    4gr\nCam thảo    4gr\nĐương qui    12gr",
+      "confidence": 0.9223279912707127
+    },
+    {
+      "type": "text",
+      "img_path": "p0292_002_text.png",
+      "bbox": [
+        [
+          873,
+          665
+        ],
+        [
+          1320,
+          665
+        ],
+        [
+          1320,
+          1322
+        ],
+        [
+          873,
+          1322
+        ]
+      ],
+      "score": 0.5257394313812256,
+      "y_pos": 665,
+      "text": "16. An tiến ẩm\nKinh giới    10gr\nLá lốt    10gr\nHuyết rồng    20gr\nPhòng kỷ    10gr\nÝ dĩ    15gr\nQuế chi    8gr\nGừng    6gr\nNghệ    6gr\nTử tô    10gr\nThổ phục    10gr",
+      "confidence": 0.9257834913485412
+    },
+    {
+      "type": "table",
+      "img_path": "p0292_003_table.png",
+      "bbox": [
+        [
+          172,
+          1447
+        ],
+        [
+          1474,
+          1447
+        ],
+        [
+          1474,
+          2155
+        ],
+        [
+          172,
+          2155
+        ]
+      ],
+      "score": 0.5128365159034729,
+      "y_pos": 1447,
+      "text": "17.Đại nghĩa ẩm    18. Phúc lâm thang\nHuyết đằng    20gr    Phụ tử chế    6gr\nXuyên khung    8gr    Bach chỉ    10gr\nThục địa    20gr    Bán hạ chế    6gr\nRau má    10gr    Phòng phong    8gr\nCỏ mần trầu    10gr    Mạch môn    10gr\nTỳ giải    10gr    Ngũ vị tử    3gr\nBạch truật    10gr    Nhục quế    8gr\nMã tiền chế    2gr    Ngưu tất    12gr\nHà thủ ô    10gr    Sinh khương    6gr\nNhục quế    8gr    Khương hoạt    8gr\nKinh giới    8gr",
+      "confidence": 0.9465926662388152
+    },
+    {
+      "type": "text",
+      "img_path": "p0292_004_text.png",
+      "bbox": [
+        [
+          901,
+          1451
+        ],
+        [
+          1469,
+          1451
+        ],
+        [
+          1469,
+          2100
+        ],
+        [
+          901,
+          2100
+        ]
+      ],
+      "score": 0.5094414353370667,
+      "y_pos": 1451,
+      "text": "18. Phúc lâm thang\nPhụ tử chế    6gr\nBạch chỉ    10gr\nBán hạ chế    6gr\nPhòng phong    8gr\nMach môn    10gr\nNgũ vị tử    3gr\nNhục quế    8gr\nNgưu tất    12gr\nSinh khương    6gr\nKhương hoạt    8gr",
+      "confidence": 0.9342694540715983
+    },
+    {
+      "type": "number",
+      "img_path": "p0292_000_number.png",
+      "bbox": [
+        [
+          174,
+          2224
+        ],
+        [
+          257,
+          2224
+        ],
+        [
+          257,
+          2267
+        ],
+        [
+          174,
+          2267
+        ]
+      ],
+      "score": 0.8830926418304443,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0292.png"
+}

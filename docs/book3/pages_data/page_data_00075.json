@@ -1,0 +1,344 @@
+{
+  "page_num": 75,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0075_012_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          752,
+          0
+        ],
+        [
+          752,
+          96
+        ],
+        [
+          227,
+          96
+        ]
+      ],
+      "score": 0.5633583664894104,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9632050711833514
+    },
+    {
+      "type": "text",
+      "img_path": "p0075_002_text.png",
+      "bbox": [
+        [
+          224,
+          300
+        ],
+        [
+          1570,
+          300
+        ],
+        [
+          1570,
+          494
+        ],
+        [
+          224,
+          494
+        ]
+      ],
+      "score": 0.9696872234344482,
+      "y_pos": 300,
+      "text": "+ Từ Ấn đường qua Sơn căn, Ty lương đến Chuẩn đầu\n(sống mũi) nếu có bệnh mà sống mũi sắc trắng thì bệnh rất\nkhó chữa (thường là không thể chữa được).",
+      "confidence": 0.9963111886906629
+    },
+    {
+      "type": "text",
+      "img_path": "p0075_006_text.png",
+      "bbox": [
+        [
+          224,
+          527
+        ],
+        [
+          1571,
+          527
+        ],
+        [
+          1571,
+          650
+        ],
+        [
+          224,
+          650
+        ]
+      ],
+      "score": 0.9567798972129822,
+      "y_pos": 527,
+      "text": "+ Ở Nhật giác xuất hiện màu xanh nhạt là đang có\nbệnh nếu xanh đậm là bệnh nặng lắm.",
+      "confidence": 0.9935150891703528
+    },
+    {
+      "type": "text",
+      "img_path": "p0075_010_text.png",
+      "bbox": [
+        [
+          372,
+          688
+        ],
+        [
+          1570,
+          688
+        ],
+        [
+          1570,
+          739
+        ],
+        [
+          372,
+          739
+        ]
+      ],
+      "score": 0.8812721371650696,
+      "y_pos": 688,
+      "text": "+ Tại Sơn căn mà có sắc xanh là có bệnh trường kỳ nan trị.",
+      "confidence": 0.9908349732557933
+    },
+    {
+      "type": "text",
+      "img_path": "p0075_008_text.png",
+      "bbox": [
+        [
+          224,
+          776
+        ],
+        [
+          1572,
+          776
+        ],
+        [
+          1572,
+          894
+        ],
+        [
+          224,
+          894
+        ]
+      ],
+      "score": 0.9524902105331421,
+      "y_pos": 776,
+      "text": "+ Đối với phụ nữ đang có mang mà tại Lệ đường bên\ntrái có màu xanh là sẽ sinh con trai.",
+      "confidence": 0.9962314684646342
+    },
+    {
+      "type": "text",
+      "img_path": "p0075_009_text.png",
+      "bbox": [
+        [
+          345,
+          934
+        ],
+        [
+          1488,
+          934
+        ],
+        [
+          1488,
+          986
+        ],
+        [
+          345,
+          986
+        ]
+      ],
+      "score": 0.8964990377426147,
+      "y_pos": 934,
+      "text": "- Tại Lệ đường bên phải có màu xanh là sẽ sinh con gái.",
+      "confidence": 0.9921927891279522
+    },
+    {
+      "type": "text",
+      "img_path": "p0075_005_text.png",
+      "bbox": [
+        [
+          225,
+          1022
+        ],
+        [
+          1574,
+          1022
+        ],
+        [
+          1574,
+          1142
+        ],
+        [
+          225,
+          1142
+        ]
+      ],
+      "score": 0.957809567451477,
+      "y_pos": 1022,
+      "text": "- Tại Nhân trung có màu xanh đó là biểu hiện bệnh do\nphòng dục hoặc là do ăn uống ẩu đả mà lâm bệnh.",
+      "confidence": 0.9927330036687743
+    },
+    {
+      "type": "text",
+      "img_path": "p0075_000_text.png",
+      "bbox": [
+        [
+          223,
+          1177
+        ],
+        [
+          1570,
+          1177
+        ],
+        [
+          1570,
+          1437
+        ],
+        [
+          223,
+          1437
+        ]
+      ],
+      "score": 0.9789994955062866,
+      "y_pos": 1177,
+      "text": "- Tại Dịch mã xuất hiện màu đen là bệnh nguy hiểm nan\ntrị (nếu Dịch mã bên trái đen thì bệnh thuộc Tạng phủ phía\nbên trái, nếu Dịch mã bên phải đen thì bệnh thuộc Tạng phủ\nphía bên phải).",
+      "confidence": 0.995421919384689
+    },
+    {
+      "type": "text",
+      "img_path": "p0075_007_text.png",
+      "bbox": [
+        [
+          224,
+          1472
+        ],
+        [
+          1572,
+          1472
+        ],
+        [
+          1572,
+          1590
+        ],
+        [
+          224,
+          1590
+        ]
+      ],
+      "score": 0.9564470648765564,
+      "y_pos": 1472,
+      "text": "- Tại Ty lương nếu có đốm đen là biểu hiện có bệnh\nkinh niên kéo dài cả cuộc đời khó chữa lắm.",
+      "confidence": 0.9992581181546563
+    },
+    {
+      "type": "text",
+      "img_path": "p0075_003_text.png",
+      "bbox": [
+        [
+          224,
+          1629
+        ],
+        [
+          1572,
+          1629
+        ],
+        [
+          1572,
+          1749
+        ],
+        [
+          224,
+          1749
+        ]
+      ],
+      "score": 0.9603498578071594,
+      "y_pos": 1629,
+      "text": "- Khi đang nằm bệnh mà Nhân trung xuất hiện màu đen\nlà không chữa được.",
+      "confidence": 0.9881324124893196
+    },
+    {
+      "type": "text",
+      "img_path": "p0075_004_text.png",
+      "bbox": [
+        [
+          225,
+          1785
+        ],
+        [
+          1576,
+          1785
+        ],
+        [
+          1576,
+          1908
+        ],
+        [
+          225,
+          1908
+        ]
+      ],
+      "score": 0.958437442779541,
+      "y_pos": 1785,
+      "text": "- Tại Sơn căn có màu vàng nhuận là biểu hiện thân thể\nkhỏe mạnh, khí huyết tân dịch sung mãn.",
+      "confidence": 0.9915842486590873
+    },
+    {
+      "type": "text",
+      "img_path": "p0075_001_text.png",
+      "bbox": [
+        [
+          223,
+          1944
+        ],
+        [
+          1573,
+          1944
+        ],
+        [
+          1573,
+          2133
+        ],
+        [
+          223,
+          2133
+        ]
+      ],
+      "score": 0.9725309014320374,
+      "y_pos": 1944,
+      "text": "- Tại Lệ đường có màu vàng hồng thì đối với phụ nữ đang\ncó mang rất yên lòng vì sinh để sẽ thuận hòa (mẹ tròn con\nvuông).",
+      "confidence": 0.9839231179518864
+    },
+    {
+      "type": "number",
+      "img_path": "p0075_011_number.png",
+      "bbox": [
+        [
+          1531,
+          2225
+        ],
+        [
+          1583,
+          2225
+        ],
+        [
+          1583,
+          2267
+        ],
+        [
+          1531,
+          2267
+        ]
+      ],
+      "score": 0.8760535717010498,
+      "y_pos": 2225,
+      "text": "    \n    \n    \n\n\n    .\n\n\n",
+      "confidence": 0.9489723999912922
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0075.png"
+}

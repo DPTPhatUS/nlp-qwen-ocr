@@ -1,0 +1,240 @@
+{
+  "page_num": 179,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0179_008_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          752,
+          0
+        ],
+        [
+          752,
+          96
+        ],
+        [
+          227,
+          96
+        ]
+      ],
+      "score": 0.5239970684051514,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9632050711833514
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_007_text.png",
+      "bbox": [
+        [
+          345,
+          304
+        ],
+        [
+          1428,
+          304
+        ],
+        [
+          1428,
+          359
+        ],
+        [
+          345,
+          359
+        ]
+      ],
+      "score": 0.8611508011817932,
+      "y_pos": 304,
+      "text": "Lưu ý và những trường hợp đặc biệt có thể xảy ra:",
+      "confidence": 0.9996684018303367
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_001_text.png",
+      "bbox": [
+        [
+          224,
+          393
+        ],
+        [
+          1569,
+          393
+        ],
+        [
+          1569,
+          583
+        ],
+        [
+          224,
+          583
+        ]
+      ],
+      "score": 0.970553994178772,
+      "y_pos": 393,
+      "text": "Ví du: tai Tả Quan, nếu mach đởm Trầm mà mach Can\nkhông Trầm thì hai mạch này có thể quyện vào nhau lẫn lẫn\nlộn lộn giữa phần của mạch Vị khí.",
+      "confidence": 0.9988444581111167
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_002_text.png",
+      "bbox": [
+        [
+          223,
+          617
+        ],
+        [
+          1570,
+          617
+        ],
+        [
+          1570,
+          809
+        ],
+        [
+          223,
+          809
+        ]
+      ],
+      "score": 0.9683670997619629,
+      "y_pos": 617,
+      "text": "- Mach phủ mà Trầm thì có thể lẫn xuống bằng hoặc sâu\nhơn phần mạch Vị khí nhưng không bao giờ lẫn dưới mạch\ncủa Tạng (tương ứng Biểu Lý).",
+      "confidence": 0.9960030089336024
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_004_text.png",
+      "bbox": [
+        [
+          224,
+          846
+        ],
+        [
+          1573,
+          846
+        ],
+        [
+          1573,
+          966
+        ],
+        [
+          224,
+          966
+        ]
+      ],
+      "score": 0.9547882080078125,
+      "y_pos": 846,
+      "text": "- Khi mạch của Tạng mà thuộc Phù thì không có trường\nhợp mạch của phủ (Tương quan biểu Lý) đi Trầm.",
+      "confidence": 0.9992056425522875
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_003_text.png",
+      "bbox": [
+        [
+          224,
+          1002
+        ],
+        [
+          1570,
+          1002
+        ],
+        [
+          1570,
+          1123
+        ],
+        [
+          224,
+          1123
+        ]
+      ],
+      "score": 0.955659031867981,
+      "y_pos": 1002,
+      "text": "- Trường hợp mạch Phủ đi Phù mà Tạng (tương quan\nBiểu Lý) đi Trầm là dễ phân biệt nhất.",
+      "confidence": 0.9987469871342183
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_000_text.png",
+      "bbox": [
+        [
+          222,
+          1157
+        ],
+        [
+          1570,
+          1157
+        ],
+        [
+          1570,
+          1485
+        ],
+        [
+          222,
+          1485
+        ]
+      ],
+      "score": 0.980541467666626,
+      "y_pos": 1157,
+      "text": "- Nếu mạch Phủ và mạch Tạng đều có mà nó lấp lửng\nquyện vào nhau rất khó phân định thì chúng ta được quyền\nchọn lấy mạch tượng xuất hiện thường xuyên nhất, xuất hiện\nlâu nhất mà làm Tổng mạch của Tạng chung với Phủ (có\nnghĩa là không xét đoán theo mạch đơn khán tại vị trí đó.",
+      "confidence": 0.9955609598896802
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_005_text.png",
+      "bbox": [
+        [
+          225,
+          1520
+        ],
+        [
+          1573,
+          1520
+        ],
+        [
+          1573,
+          1645
+        ],
+        [
+          225,
+          1645
+        ]
+      ],
+      "score": 0.9502294063568115,
+      "y_pos": 1520,
+      "text": "- Trường hợp mạch Tạng và mạch Phủ cùng chung một\nTượng mạch là chuyện thường tình và rất hay gặp.",
+      "confidence": 0.9993779810854033
+    },
+    {
+      "type": "number",
+      "img_path": "p0179_006_number.png",
+      "bbox": [
+        [
+          1535,
+          2225
+        ],
+        [
+          1611,
+          2225
+        ],
+        [
+          1611,
+          2267
+        ],
+        [
+          1535,
+          2267
+        ]
+      ],
+      "score": 0.8900462985038757,
+      "y_pos": 2225,
+      "text": "    \n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0179.png"
+}

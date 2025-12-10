@@ -1,0 +1,162 @@
+{
+  "page_num": 254,
+  "content": [
+    {
+      "type": "table",
+      "img_path": "p0254_005_table.png",
+      "bbox": [
+        [
+          165,
+          300
+        ],
+        [
+          1460,
+          300
+        ],
+        [
+          1460,
+          540
+        ],
+        [
+          165,
+          540
+        ]
+      ],
+      "score": 0.7286344170570374,
+      "y_pos": 300,
+      "text": "Viễn chí    10g    Cam thảo    5g\nHắc táo nhân    12g    Phuc thần    15g\nLong nhãn    12g    <b>D</b>uong quy    15g",
+      "confidence": 0.882346188255669
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_000_text.png",
+      "bbox": [
+        [
+          164,
+          571
+        ],
+        [
+          1511,
+          571
+        ],
+        [
+          1511,
+          899
+        ],
+        [
+          164,
+          899
+        ]
+      ],
+      "score": 0.9813553690910339,
+      "y_pos": 571,
+      "text": "- Nếu như bệnh nhân bị tân dịch suy kiệt sinh chứng táo\nbón và kèm chứng ho khó thở thì ta nhìn vào sơ đồ \"Tâm bô\ndược hội\" trong nhóm Bổ ta sẽ chọn được vị Huyền sâm\n(tác dụng bổ tim, sinh tân, nhuận tràng, vị mạch môn, ngũ vị\ntử và mật ong tác dụng bổ tim, nhuận phế, chỉ ho).",
+      "confidence": 0.9978209056586189
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_001_text.png",
+      "bbox": [
+        [
+          166,
+          933
+        ],
+        [
+          1514,
+          933
+        ],
+        [
+          1514,
+          1122
+        ],
+        [
+          166,
+          1122
+        ]
+      ],
+      "score": 0.9739214181900024,
+      "y_pos": 933,
+      "text": "- Nếu bệnh nhân kèm chứng Hàn thì ta nhìn vào sơ đồ\n\"Tâm bộ dược hội\" trong nhóm Ôn sẽ chọn được vị Đại hồi,\nNhục quế hoặc Bách thảo xương, Xương bồ.",
+      "confidence": 0.9869117682370714
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_002_text.png",
+      "bbox": [
+        [
+          164,
+          1159
+        ],
+        [
+          1509,
+          1159
+        ],
+        [
+          1509,
+          1348
+        ],
+        [
+          164,
+          1348
+        ]
+      ],
+      "score": 0.9731642603874207,
+      "y_pos": 1159,
+      "text": "- Nếu bệnh nhân kèm chứng bí tiểu tiện thì ta chọn vị\ntrong \"Tâm bô dược hôi\" nhóm Tả sẽ chon được các vi (Xa\ntiền tử, Đăng tâm hoặc Mộc thông).",
+      "confidence": 0.9877493386491064
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_003_text.png",
+      "bbox": [
+        [
+          165,
+          1385
+        ],
+        [
+          1509,
+          1385
+        ],
+        [
+          1509,
+          1568
+        ],
+        [
+          165,
+          1568
+        ]
+      ],
+      "score": 0.9729595184326172,
+      "y_pos": 1385,
+      "text": "- Tương tự như trên với các chứng bệnh của các tạng\nphủ và cả khí, huyết, thất tình và luc tà theo các sơ đồ Dươc\nhôi.",
+      "confidence": 0.9880304022428934
+    },
+    {
+      "type": "number",
+      "img_path": "p0254_004_number.png",
+      "bbox": [
+        [
+          172,
+          2224
+        ],
+        [
+          256,
+          2224
+        ],
+        [
+          256,
+          2266
+        ],
+        [
+          172,
+          2266
+        ]
+      ],
+      "score": 0.8805106282234192,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0254.png"
+}

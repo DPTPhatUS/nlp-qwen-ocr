@@ -1,0 +1,136 @@
+{
+  "page_num": 178,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0178_001_text.png",
+      "bbox": [
+        [
+          164,
+          570
+        ],
+        [
+          1513,
+          570
+        ],
+        [
+          1513,
+          900
+        ],
+        [
+          164,
+          900
+        ]
+      ],
+      "score": 0.9806950092315674,
+      "y_pos": 570,
+      "text": "Chúng ta để tay theo hình vẽ (b) và nhận xét thì cũng\nthấy rằng (theo các mũi tên chỉ): tâm hỏa khắc phế kim, phế\nkim khắc can mộc, can mộc khắc tỳ thổ, tỳ thổ khắc thuận\nthủy. Mũi tên tương khắc đã theo một dây chuyền khép kín.\nĐiều nầy đã đúng với quy luật tương khắc.",
+      "confidence": 0.9960033380990334
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0178_003_paragraph_title.png",
+      "bbox": [
+        [
+          164,
+          936
+        ],
+        [
+          1510,
+          936
+        ],
+        [
+          1510,
+          1060
+        ],
+        [
+          164,
+          1060
+        ]
+      ],
+      "score": 0.9148313999176025,
+      "y_pos": 936,
+      "text": "2. Những thủ pháp phân định mạch của phủ và\nmạch của tạng",
+      "confidence": 0.9810724231931898
+    },
+    {
+      "type": "text",
+      "img_path": "p0178_002_text.png",
+      "bbox": [
+        [
+          165,
+          1093
+        ],
+        [
+          1510,
+          1093
+        ],
+        [
+          1510,
+          1351
+        ],
+        [
+          165,
+          1351
+        ]
+      ],
+      "score": 0.9750968217849731,
+      "y_pos": 1093,
+      "text": "Trên một vi trí tai bộ mạch thốn khẩn (ví du như vi trí\ntả thốn, chúng ta thấy có ba loại mạch, đó là mạch của tiểu\ntrường (sơ án), mạch của vị khí (trung án) và mạch của tâm\n(trầm án).",
+      "confidence": 0.9922112748727551
+    },
+    {
+      "type": "text",
+      "img_path": "p0178_000_text.png",
+      "bbox": [
+        [
+          164,
+          1384
+        ],
+        [
+          1511,
+          1384
+        ],
+        [
+          1511,
+          2124
+        ],
+        [
+          164,
+          2124
+        ]
+      ],
+      "score": 0.9860233068466187,
+      "y_pos": 1384,
+      "text": "Đặc điểm cần lưu ý là ở bất kỳ bộ vị nào thì phần trung\nán đều là mạch vị khí. như vậy trước khi xác định mạch tạng\nhoặc phủ, chúng ta phải tổng khán để xác định mạch vị khí\ntrước. Kỹ thuật xem mạch vị khí là 3 ngón tay phải cùng\nchung một lực và cùng chung một chiều sâu tới khoảng trung\nán để nhận định mạch vị khí. Khi xác định được mạch vị khí\nrồi thì nhấn sâu thêm chút nữa tới mạch động đó là mạch của\ntạng và cũng từ ở vị trí của mạch vị khí nới tay nông lên khi\ntiếp xúc với mạch động. Có tượng mạch khác với mạch vị khí,\nđó là mạch phủ hoặc bắt đầu ấn tay xuống từ sơ án tới gần\nmạch vị khí mà thấy có mạch động thì đó là mạch của phủ.",
+      "confidence": 0.9969342075725325
+    },
+    {
+      "type": "number",
+      "img_path": "p0178_004_number.png",
+      "bbox": [
+        [
+          178,
+          2225
+        ],
+        [
+          255,
+          2225
+        ],
+        [
+          255,
+          2267
+        ],
+        [
+          178,
+          2267
+        ]
+      ],
+      "score": 0.8807282447814941,
+      "y_pos": 2225,
+      "text": "    \n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0178.png"
+}

@@ -1,0 +1,344 @@
+{
+  "page_num": 51,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0051_012_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          751,
+          0
+        ],
+        [
+          751,
+          96
+        ],
+        [
+          227,
+          96
+        ]
+      ],
+      "score": 0.6291610598564148,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.96442627457472
+    },
+    {
+      "type": "text",
+      "img_path": "p0051_002_text.png",
+      "bbox": [
+        [
+          224,
+          305
+        ],
+        [
+          1569,
+          305
+        ],
+        [
+          1569,
+          492
+        ],
+        [
+          224,
+          492
+        ]
+      ],
+      "score": 0.9731717109680176,
+      "y_pos": 305,
+      "text": "- Trúng thử: Thuộc loại nặng còn gọi là say nắng, gây\nhoa mắt, chóng mặt, hôn mê, bất tỉnh nhân sự, khó thở, ra\nnhiều mồ hôi, chân tay lạnh toát.",
+      "confidence": 0.9978169824732611
+    },
+    {
+      "type": "text",
+      "img_path": "p0051_009_text.png",
+      "bbox": [
+        [
+          347,
+          527
+        ],
+        [
+          593,
+          527
+        ],
+        [
+          593,
+          580
+        ],
+        [
+          347,
+          580
+        ]
+      ],
+      "score": 0.8793430924415588,
+      "y_pos": 527,
+      "text": "Γhử thấp:",
+      "confidence": 0.9376564919948578
+    },
+    {
+      "type": "text",
+      "img_path": "p0051_008_text.png",
+      "bbox": [
+        [
+          520,
+          618
+        ],
+        [
+          1253,
+          618
+        ],
+        [
+          1253,
+          672
+        ],
+        [
+          520,
+          672
+        ]
+      ],
+      "score": 0.8941416144371033,
+      "y_pos": 618,
+      "text": "+ Thử là nắng, nóng thuộc dương.",
+      "confidence": 0.9967036352438086
+    },
+    {
+      "type": "text",
+      "img_path": "p0051_010_text.png",
+      "bbox": [
+        [
+          520,
+          705
+        ],
+        [
+          1163,
+          705
+        ],
+        [
+          1163,
+          763
+        ],
+        [
+          520,
+          763
+        ]
+      ],
+      "score": 0.8748388290405273,
+      "y_pos": 705,
+      "text": "+ Thấp là ẩm thấp, thuộc âm.",
+      "confidence": 0.996772825717926
+    },
+    {
+      "type": "text",
+      "img_path": "p0051_004_text.png",
+      "bbox": [
+        [
+          224,
+          796
+        ],
+        [
+          1569,
+          796
+        ],
+        [
+          1569,
+          917
+        ],
+        [
+          224,
+          917
+        ]
+      ],
+      "score": 0.9610584378242493,
+      "y_pos": 796,
+      "text": "Vậy chứng thử thấp là chứng xung đột giữa âm và\ndương.",
+      "confidence": 0.9856086467601815
+    },
+    {
+      "type": "text",
+      "img_path": "p0051_001_text.png",
+      "bbox": [
+        [
+          224,
+          953
+        ],
+        [
+          1571,
+          953
+        ],
+        [
+          1571,
+          1144
+        ],
+        [
+          224,
+          1144
+        ]
+      ],
+      "score": 0.9731962084770203,
+      "y_pos": 953,
+      "text": "Dương thử giáng xuống âm thấp do kích động của dương\nthử bốc lên. Hai khí đó cùng lúc xâm nhập cơ thể gây chứng\nthử thấp, sinh bệnh ỉa chảy, kiết lị...",
+      "confidence": 0.9984715887901475
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0051_005_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1180
+        ],
+        [
+          585,
+          1180
+        ],
+        [
+          585,
+          1233
+        ],
+        [
+          344,
+          1233
+        ]
+      ],
+      "score": 0.9164857864379883,
+      "y_pos": 1180,
+      "text": "4. Thấp tà",
+      "confidence": 0.9852002610762914
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0051_007_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1270
+        ],
+        [
+          690,
+          1270
+        ],
+        [
+          690,
+          1323
+        ],
+        [
+          344,
+          1323
+        ]
+      ],
+      "score": 0.9037753939628601,
+      "y_pos": 1270,
+      "text": "4.1. Ngoại thấp",
+      "confidence": 0.9731290340423584
+    },
+    {
+      "type": "text",
+      "img_path": "p0051_003_text.png",
+      "bbox": [
+        [
+          225,
+          1358
+        ],
+        [
+          1568,
+          1358
+        ],
+        [
+          1568,
+          1551
+        ],
+        [
+          225,
+          1551
+        ]
+      ],
+      "score": 0.9704201817512512,
+      "y_pos": 1358,
+      "text": "Ngoai thấp là do thấp tà xâm nhập gây chứng đau nhức\nmỏi và gây đới hạ, bạch trọc, gây trở ngại việc vận hành thủy\nthể hiện chứng phù thũng, đầy bụng, ỉa chảy.",
+      "confidence": 0.998285640840945
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0051_006_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1759
+        ],
+        [
+          636,
+          1759
+        ],
+        [
+          636,
+          1813
+        ],
+        [
+          344,
+          1813
+        ]
+      ],
+      "score": 0.9122923016548157,
+      "y_pos": 1759,
+      "text": "4.2. Nội thấp",
+      "confidence": 0.9747464696566264
+    },
+    {
+      "type": "text",
+      "img_path": "p0051_000_text.png",
+      "bbox": [
+        [
+          224,
+          1848
+        ],
+        [
+          1571,
+          1848
+        ],
+        [
+          1571,
+          2176
+        ],
+        [
+          224,
+          2176
+        ]
+      ],
+      "score": 0.9831122756004333,
+      "y_pos": 1848,
+      "text": "Nội thấp là do tỳ hư không vận hóa được thủy thấp. Thủy\nthấp ứ trệ ở thượng tiêu gây đầu nặng, mắt hoa, ngực sườn đầy\ntức, thủy thấp ứ trệ ở trung tiêu gây bụng đầy trướng, kém ăn ía\nchảy, chân tay nặng nề, tê mỏi. Thủy thấp ứ trệ ở hạ tiêu gây\ntiểu ít, tiểu đục, phù nề phụ nữ ra nhiều khí hư (huyết trắng).",
+      "confidence": 0.9971841546127095
+    },
+    {
+      "type": "number",
+      "img_path": "p0051_011_number.png",
+      "bbox": [
+        [
+          1530,
+          2226
+        ],
+        [
+          1578,
+          2226
+        ],
+        [
+          1578,
+          2268
+        ],
+        [
+          1530,
+          2268
+        ]
+      ],
+      "score": 0.8643222451210022,
+      "y_pos": 2226,
+      "text": "\n    \n    \n\n\n\n    \n\n\n\n\n    78\n\n\n\n\n",
+      "confidence": 0.9724841467917913
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0051.png"
+}

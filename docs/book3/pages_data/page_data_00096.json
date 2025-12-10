@@ -1,0 +1,422 @@
+{
+  "page_num": 96,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0096_013_text.png",
+      "bbox": [
+        [
+          286,
+          304
+        ],
+        [
+          1127,
+          304
+        ],
+        [
+          1127,
+          357
+        ],
+        [
+          286,
+          357
+        ]
+      ],
+      "score": 0.8993123173713684,
+      "y_pos": 304,
+      "text": "- Nhiệt chứng: Nấc nhiều, nấc liên tục.",
+      "confidence": 0.9987078294521425
+    },
+    {
+      "type": "text",
+      "img_path": "p0096_011_text.png",
+      "bbox": [
+        [
+          286,
+          393
+        ],
+        [
+          1440,
+          393
+        ],
+        [
+          1440,
+          447
+        ],
+        [
+          286,
+          447
+        ]
+      ],
+      "score": 0.9048212766647339,
+      "y_pos": 393,
+      "text": "- Hư chứng: Tiếng nấc yếu không đạt tới cuống họng.",
+      "confidence": 0.9993896023282465
+    },
+    {
+      "type": "text",
+      "img_path": "p0096_010_text.png",
+      "bbox": [
+        [
+          286,
+          483
+        ],
+        [
+          1426,
+          483
+        ],
+        [
+          1426,
+          535
+        ],
+        [
+          286,
+          535
+        ]
+      ],
+      "score": 0.9079552888870239,
+      "y_pos": 483,
+      "text": "- Thực chứng: Nấc liên thanh mà tiếng nấc có lực mạnh.",
+      "confidence": 0.9978075197764805
+    },
+    {
+      "type": "text",
+      "img_path": "p0096_009_text.png",
+      "bbox": [
+        [
+          286,
+          569
+        ],
+        [
+          1116,
+          569
+        ],
+        [
+          1116,
+          622
+        ],
+        [
+          286,
+          622
+        ]
+      ],
+      "score": 0.9089896082878113,
+      "y_pos": 569,
+      "text": "- Biểu chứng: Tiếng nấc thanh, có lực.",
+      "confidence": 0.9979303702712059
+    },
+    {
+      "type": "text",
+      "img_path": "p0096_006_text.png",
+      "bbox": [
+        [
+          285,
+          660
+        ],
+        [
+          1163,
+          660
+        ],
+        [
+          1163,
+          713
+        ],
+        [
+          285,
+          713
+        ]
+      ],
+      "score": 0.9163507223129272,
+      "y_pos": 660,
+      "text": "- Lý chứng: Tiếng nấc đục không có lực.",
+      "confidence": 0.9894147573447809
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0096_014_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          752
+        ],
+        [
+          1172,
+          752
+        ],
+        [
+          1172,
+          802
+        ],
+        [
+          285,
+          802
+        ]
+      ],
+      "score": 0.8969088196754456,
+      "y_pos": 752,
+      "text": "8. Phân định tiếng nấc theo \"bệnh lý\"",
+      "confidence": 0.9784274284656231
+    },
+    {
+      "type": "text",
+      "img_path": "p0096_000_text.png",
+      "bbox": [
+        [
+          165,
+          839
+        ],
+        [
+          1512,
+          839
+        ],
+        [
+          1512,
+          1032
+        ],
+        [
+          165,
+          1032
+        ]
+      ],
+      "score": 0.9754034280776978,
+      "y_pos": 839,
+      "text": "- Sốt cao lâu ngày làm tổn thương đến âm (cửu nhiệt\nthương âm), vị khí đã suy, tân dịch khô ráo gây nấc. Tiếng\nnấc này đứt quãng, khoảng nửa giờ nấc một tiếng.",
+      "confidence": 0.9995605449644024
+    },
+    {
+      "type": "text",
+      "img_path": "p0096_002_text.png",
+      "bbox": [
+        [
+          165,
+          1065
+        ],
+        [
+          1515,
+          1065
+        ],
+        [
+          1515,
+          1252
+        ],
+        [
+          165,
+          1252
+        ]
+      ],
+      "score": 0.9739276170730591,
+      "y_pos": 1065,
+      "text": "- Bệnh hư hàn, ỉa chảy lâu ngày, tỳ dương suy yếu, hư\nkhí nghịch nên gây nấc, tiếng nấc thấp yếu ở bên trong họng,\nít khi thoát ra bên ngoài.",
+      "confidence": 0.9702247402893067
+    },
+    {
+      "type": "text",
+      "img_path": "p0096_005_text.png",
+      "bbox": [
+        [
+          285,
+          1288
+        ],
+        [
+          1394,
+          1288
+        ],
+        [
+          1394,
+          1341
+        ],
+        [
+          285,
+          1341
+        ]
+      ],
+      "score": 0.9166129231452942,
+      "y_pos": 1288,
+      "text": "- Âm dương không quân bình, hỏa bốc lên làm nấc.",
+      "confidence": 0.9940926098823547
+    },
+    {
+      "type": "text",
+      "img_path": "p0096_007_text.png",
+      "bbox": [
+        [
+          285,
+          1380
+        ],
+        [
+          1195,
+          1380
+        ],
+        [
+          1195,
+          1433
+        ],
+        [
+          285,
+          1433
+        ]
+      ],
+      "score": 0.9124565124511719,
+      "y_pos": 1380,
+      "text": "- Bệnh lâu ngày, tỳ khí sắp tuyệt làm nấc.",
+      "confidence": 0.9906357635151256
+    },
+    {
+      "type": "text",
+      "img_path": "p0096_004_text.png",
+      "bbox": [
+        [
+          166,
+          1470
+        ],
+        [
+          1512,
+          1470
+        ],
+        [
+          1512,
+          1590
+        ],
+        [
+          166,
+          1590
+        ]
+      ],
+      "score": 0.9627935886383057,
+      "y_pos": 1470,
+      "text": "- Các chứng bệnh thuộc hàn không chữa kịp, đại tiện bí\nkết, vị khí không đủ sức giữ khí làm nghịch lên gây nấc.",
+      "confidence": 0.944102618439591
+    },
+    {
+      "type": "text",
+      "img_path": "p0096_001_text.png",
+      "bbox": [
+        [
+          165,
+          1625
+        ],
+        [
+          1512,
+          1625
+        ],
+        [
+          1512,
+          1813
+        ],
+        [
+          165,
+          1813
+        ]
+      ],
+      "score": 0.9753705263137817,
+      "y_pos": 1625,
+      "text": "- Đối với chứng nấc nếu tiếng nấc có sức thuộc nhiệt\nchứng, thực chứng thì dễ chữa nếu tiếng nấc không có sức\nthuộc hư chứng, hàn chứng thì khó chữa.",
+      "confidence": 0.995677324431123
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0096_008_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          1855
+        ],
+        [
+          1263,
+          1855
+        ],
+        [
+          1263,
+          1906
+        ],
+        [
+          284,
+          1906
+        ]
+      ],
+      "score": 0.9114540219306946,
+      "y_pos": 1855,
+      "text": "9. Phân định tiếng nôn ói theo bệnh chứng",
+      "confidence": 0.9926775513693343
+    },
+    {
+      "type": "text",
+      "img_path": "p0096_012_text.png",
+      "bbox": [
+        [
+          284,
+          1943
+        ],
+        [
+          1225,
+          1943
+        ],
+        [
+          1225,
+          1991
+        ],
+        [
+          284,
+          1991
+        ]
+      ],
+      "score": 0.9033114314079285,
+      "y_pos": 1943,
+      "text": "Tỳ vị hàn: nôn mửa ra nước trong, đờm dãi.",
+      "confidence": 0.9921116259965029
+    },
+    {
+      "type": "text",
+      "img_path": "p0096_003_text.png",
+      "bbox": [
+        [
+          166,
+          2031
+        ],
+        [
+          1509,
+          2031
+        ],
+        [
+          1509,
+          2152
+        ],
+        [
+          166,
+          2152
+        ]
+      ],
+      "score": 0.964104175567627,
+      "y_pos": 2031,
+      "text": "Tỳ vị nhiệt: nôn ra đờm đặc, nước vàng, bốc mùi chua\nchua hoặc đắng.",
+      "confidence": 0.9963855386949053
+    },
+    {
+      "type": "number",
+      "img_path": "p0096_015_number.png",
+      "bbox": [
+        [
+          172,
+          2226
+        ],
+        [
+          229,
+          2226
+        ],
+        [
+          229,
+          2268
+        ],
+        [
+          172,
+          2268
+        ]
+      ],
+      "score": 0.8750680685043335,
+      "y_pos": 2226,
+      "text": "\n    \n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0096.png"
+}

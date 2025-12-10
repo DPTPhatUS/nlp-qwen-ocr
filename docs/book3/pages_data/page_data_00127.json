@@ -1,0 +1,240 @@
+{
+  "page_num": 127,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0127_008_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          750,
+          0
+        ],
+        [
+          750,
+          95
+        ],
+        [
+          227,
+          95
+        ]
+      ],
+      "score": 0.6193801164627075,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỢC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9583523105199521
+    },
+    {
+      "type": "text",
+      "img_path": "p0127_003_text.png",
+      "bbox": [
+        [
+          224,
+          304
+        ],
+        [
+          1569,
+          304
+        ],
+        [
+          1569,
+          428
+        ],
+        [
+          224,
+          428
+        ]
+      ],
+      "score": 0.9422335028648376,
+      "y_pos": 304,
+      "text": "lưỡi vàng mỏng. Khi chữa phải sơ can thanh nhiệt, nếu âm hư\nthì phải tư âm thanh nhiệt.",
+      "confidence": 0.9981526149033557
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0127_004_paragraph_title.png",
+      "bbox": [
+        [
+          231,
+          1036
+        ],
+        [
+          778,
+          1036
+        ],
+        [
+          778,
+          1130
+        ],
+        [
+          231,
+          1130
+        ]
+      ],
+      "score": 0.9046281576156616,
+      "y_pos": 1036,
+      "text": "THIET CHAN",
+      "confidence": 0.7437102844317754
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0127_005_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1265
+        ],
+        [
+          809,
+          1265
+        ],
+        [
+          809,
+          1327
+        ],
+        [
+          226,
+          1327
+        ]
+      ],
+      "score": 0.901640772819519,
+      "y_pos": 1265,
+      "text": "THIET CHAN LA GI?",
+      "confidence": 0.936933674310383
+    },
+    {
+      "type": "text",
+      "img_path": "p0127_000_text.png",
+      "bbox": [
+        [
+          222,
+          1367
+        ],
+        [
+          1572,
+          1367
+        ],
+        [
+          1572,
+          1695
+        ],
+        [
+          222,
+          1695
+        ]
+      ],
+      "score": 0.9772987961769104,
+      "y_pos": 1367,
+      "text": "1. Thiết: cắt xén, là thân mật là cần kíp, là sờ nắn,\nnhưng sự sờ nắn có tính cách di chuyển giống như vuốt ve, di\nchuyển đó để mà biểu đạt cảm xúc rồi thông qua cảm xúc mà tìm\nkiếm tư liệu. Chữ thiết thường có hợp từ \"sinh thiết\" là cắt xén, \"\nthiết tha\" là vuốt ve, \"thân thiết\" là gắn bó...",
+      "confidence": 0.9973367086186344
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0127_006_paragraph_title.png",
+      "bbox": [
+        [
+          374,
+          1731
+        ],
+        [
+          1041,
+          1731
+        ],
+        [
+          1041,
+          1783
+        ],
+        [
+          374,
+          1783
+        ]
+      ],
+      "score": 0.8909012675285339,
+      "y_pos": 1731,
+      "text": "2. Chẩn: là chẩn đoán bệnh lý",
+      "confidence": 0.6769484646858708
+    },
+    {
+      "type": "text",
+      "img_path": "p0127_001_text.png",
+      "bbox": [
+        [
+          223,
+          1820
+        ],
+        [
+          1568,
+          1820
+        ],
+        [
+          1568,
+          2014
+        ],
+        [
+          223,
+          2014
+        ]
+      ],
+      "score": 0.9653942584991455,
+      "y_pos": 1820,
+      "text": "- Vậy từ thiết chẩn phần nào biểu đạt được ý nghĩa của\nviệc khảo sát đường đi nước bước của mạch lý và cũng nói lên\nđược một phần trong tầm quan trọng của nó.",
+      "confidence": 0.984674039783341
+    },
+    {
+      "type": "text",
+      "img_path": "p0127_002_text.png",
+      "bbox": [
+        [
+          224,
+          2048
+        ],
+        [
+          1572,
+          2048
+        ],
+        [
+          1572,
+          2172
+        ],
+        [
+          224,
+          2172
+        ]
+      ],
+      "score": 0.9468439817428589,
+      "y_pos": 2048,
+      "text": "- Để biểu đạt công việc khảo sát mạch lạc của bệnh\nnhân tìm ra bệnh chứng và đặt ra phương pháp điều trị thì quả",
+      "confidence": 0.9935589728829188
+    },
+    {
+      "type": "number",
+      "img_path": "p0127_007_number.png",
+      "bbox": [
+        [
+          1535,
+          2225
+        ],
+        [
+          1611,
+          2225
+        ],
+        [
+          1611,
+          2267
+        ],
+        [
+          1535,
+          2267
+        ]
+      ],
+      "score": 0.8785794377326965,
+      "y_pos": 2225,
+      "text": "\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0127.png"
+}

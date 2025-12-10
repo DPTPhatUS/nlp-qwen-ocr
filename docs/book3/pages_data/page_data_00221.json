@@ -1,0 +1,188 @@
+{
+  "page_num": 221,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0221_006_header.png",
+      "bbox": [
+        [
+          228,
+          0
+        ],
+        [
+          753,
+          0
+        ],
+        [
+          753,
+          96
+        ],
+        [
+          228,
+          96
+        ]
+      ],
+      "score": 0.5303934216499329,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9636463155654761
+    },
+    {
+      "type": "text",
+      "img_path": "p0221_004_text.png",
+      "bbox": [
+        [
+          417,
+          305
+        ],
+        [
+          1383,
+          305
+        ],
+        [
+          1383,
+          436
+        ],
+        [
+          417,
+          436
+        ]
+      ],
+      "score": 0.8546469211578369,
+      "y_pos": 305,
+      "text": "Hỏa tà bốc nóng bừng bừng\nTrong lòng nghịch khí huân chưng não nùng.",
+      "confidence": 0.9952993174193283
+    },
+    {
+      "type": "text",
+      "img_path": "p0221_000_text.png",
+      "bbox": [
+        [
+          442,
+          522
+        ],
+        [
+          1360,
+          522
+        ],
+        [
+          1360,
+          1087
+        ],
+        [
+          442,
+          1087
+        ]
+      ],
+      "score": 0.9261295199394226,
+      "y_pos": 522,
+      "text": "Bộ quan <i>Trầm</i> phục cũng kỳ,\nTính người lẩm cẩm lầm lỳ lạ thay\nNuôi con vất vả đêm ngày\nViệc làm áy náy, tâm hay não nùng.\nRuông vườn thất lạc lung tung,\nLàm ăn tiến thoái vô cùng dở dang\nBệnh nhiều tích tụ lan man,\nCàng ngày càng thấy bệnh mang mãi vào.",
+      "confidence": 0.990943802425038
+    },
+    {
+      "type": "text",
+      "img_path": "p0221_002_text.png",
+      "bbox": [
+        [
+          428,
+          1176
+        ],
+        [
+          1376,
+          1176
+        ],
+        [
+          1376,
+          1738
+        ],
+        [
+          428,
+          1738
+        ]
+      ],
+      "score": 0.9088009595870972,
+      "y_pos": 1176,
+      "text": "Xích đi mạch phục thương thay,\nCô đơn hèn mọn trắng tay bần hàn,\nĐông tây chạy khắp mọi đàng,\nLàm ăn vất vả xóm làng xa xăm.\nKhông nhà không chỗ làm ăn,\nRuộng vườn chẳng có, băn khoăn một mình.\nBôn đồn báng tích bệnh sinh,\nNghèo hèn hoạn nạn xót tình éo le.",
+      "confidence": 0.9947089403740027
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0221_005_paragraph_title.png",
+      "bbox": [
+        [
+          230,
+          1770
+        ],
+        [
+          591,
+          1770
+        ],
+        [
+          591,
+          1820
+        ],
+        [
+          230,
+          1820
+        ]
+      ],
+      "score": 0.8076451420783997,
+      "y_pos": 1770,
+      "text": "1.14. Mạch Nhu",
+      "confidence": 0.9740096293389797
+    },
+    {
+      "type": "text",
+      "img_path": "p0221_001_text.png",
+      "bbox": [
+        [
+          456,
+          1843
+        ],
+        [
+          1346,
+          1843
+        ],
+        [
+          1346,
+          2114
+        ],
+        [
+          456,
+          2114
+        ]
+      ],
+      "score": 0.9092782139778137,
+      "y_pos": 1843,
+      "text": "Mach Nhu bộ Thốn ăn chơi,\nHam mê chim chuột, việc đời như không.\nĐa tình mèo mả gà đồng.\nTính hay nóng nảy lông bông suốt đời.",
+      "confidence": 0.9870459874725749
+    },
+    {
+      "type": "number",
+      "img_path": "p0221_003_number.png",
+      "bbox": [
+        [
+          1530,
+          2225
+        ],
+        [
+          1606,
+          2225
+        ],
+        [
+          1606,
+          2266
+        ],
+        [
+          1530,
+          2266
+        ]
+      ],
+      "score": 0.9084866046905518,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0221.png"
+}

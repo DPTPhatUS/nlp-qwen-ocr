@@ -1,0 +1,370 @@
+{
+  "page_num": 280,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0280_000_text.png",
+      "bbox": [
+        [
+          164,
+          305
+        ],
+        [
+          1511,
+          305
+        ],
+        [
+          1511,
+          492
+        ],
+        [
+          164,
+          492
+        ]
+      ],
+      "score": 0.9743353128433228,
+      "y_pos": 305,
+      "text": "- Đối với bệnh đầy trướng, tích tụ sinh nhiệt sinh bệnh\nhoặc chứng táo kết thì dùng pháp Hạ để xổ độc tố và thông\ntích tu.",
+      "confidence": 0.9965866437018809
+    },
+    {
+      "type": "text",
+      "img_path": "p0280_002_text.png",
+      "bbox": [
+        [
+          165,
+          528
+        ],
+        [
+          1516,
+          528
+        ],
+        [
+          1516,
+          720
+        ],
+        [
+          165,
+          720
+        ]
+      ],
+      "score": 0.9733465313911438,
+      "y_pos": 528,
+      "text": "- Với các bệnh ngoại tà xâm nhập ở vùng bán biểu, bán lý\n(kinh thiếu dương) và với các bệnh các tạng bất hòa với nhau hoặc\ncác tạng các phủ bất hòa thì sử dụng Hòa pháp.",
+      "confidence": 0.9995791324044543
+    },
+    {
+      "type": "text",
+      "img_path": "p0280_006_text.png",
+      "bbox": [
+        [
+          166,
+          756
+        ],
+        [
+          1513,
+          756
+        ],
+        [
+          1513,
+          877
+        ],
+        [
+          166,
+          877
+        ]
+      ],
+      "score": 0.9582292437553406,
+      "y_pos": 756,
+      "text": "- Đối với các bệnh nóng các tạng phủ, phát sốt, phát\nban thì sử dụng thanh pháp.",
+      "confidence": 0.9990551594268926
+    },
+    {
+      "type": "text",
+      "img_path": "p0280_009_text.png",
+      "bbox": [
+        [
+          314,
+          910
+        ],
+        [
+          1318,
+          910
+        ],
+        [
+          1318,
+          964
+        ],
+        [
+          314,
+          964
+        ]
+      ],
+      "score": 0.9099590182304382,
+      "y_pos": 910,
+      "text": "- Đối với các bệnh hàn lãnh thì dùng Ôn pháp.",
+      "confidence": 0.9974999161476784
+    },
+    {
+      "type": "text",
+      "img_path": "p0280_003_text.png",
+      "bbox": [
+        [
+          166,
+          1001
+        ],
+        [
+          1512,
+          1001
+        ],
+        [
+          1512,
+          1122
+        ],
+        [
+          166,
+          1122
+        ]
+      ],
+      "score": 0.9608430862426758,
+      "y_pos": 1001,
+      "text": "- Đối với các bệnh viêm nhiễm, mụn nhọt, lở ngứa, u\nbướu,... thì dùng Tiêu pháp.",
+      "confidence": 0.9907718806896569
+    },
+    {
+      "type": "text",
+      "img_path": "p0280_011_text.png",
+      "bbox": [
+        [
+          315,
+          1158
+        ],
+        [
+          1369,
+          1158
+        ],
+        [
+          1369,
+          1214
+        ],
+        [
+          315,
+          1214
+        ]
+      ],
+      "score": 0.9061408638954163,
+      "y_pos": 1158,
+      "text": "- Đối với các chứng suy nhược thì dùng Bổ pháp.",
+      "confidence": 0.9986993682627775
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0280_008_paragraph_title.png",
+      "bbox": [
+        [
+          166,
+          1242
+        ],
+        [
+          956,
+          1242
+        ],
+        [
+          956,
+          1299
+        ],
+        [
+          166,
+          1299
+        ]
+      ],
+      "score": 0.9149854779243469,
+      "y_pos": 1242,
+      "text": "III. MUC ĐỊCH CỦA BẠT PHẠP",
+      "confidence": 0.8651896033968244
+    },
+    {
+      "type": "text",
+      "img_path": "p0280_001_text.png",
+      "bbox": [
+        [
+          164,
+          1337
+        ],
+        [
+          1511,
+          1337
+        ],
+        [
+          1511,
+          1529
+        ],
+        [
+          164,
+          1529
+        ]
+      ],
+      "score": 0.9742181897163391,
+      "y_pos": 1337,
+      "text": "Mỗi pháp thường có 4 mục đích chữa bệnh, trong mỗi\nmục đích của mỗi pháp có thể liên quan đến pháp khác nhưng\nđặc thù chính vẫn mang ý nghĩa pháp chính của nó.",
+      "confidence": 0.9988125443158885
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0280_010_paragraph_title.png",
+      "bbox": [
+        [
+          317,
+          1567
+        ],
+        [
+          609,
+          1567
+        ],
+        [
+          609,
+          1616
+        ],
+        [
+          317,
+          1616
+        ]
+      ],
+      "score": 0.9066956639289856,
+      "y_pos": 1567,
+      "text": "1. Hãn pháp",
+      "confidence": 0.9355339407920837
+    },
+    {
+      "type": "text",
+      "img_path": "p0280_012_text.png",
+      "bbox": [
+        [
+          285,
+          1653
+        ],
+        [
+          1340,
+          1653
+        ],
+        [
+          1340,
+          1706
+        ],
+        [
+          285,
+          1706
+        ]
+      ],
+      "score": 0.9015129804611206,
+      "y_pos": 1653,
+      "text": "Mục đích là tiêu ban, giải độc, tán thấp, trục hàn",
+      "confidence": 0.9998178195494872
+    },
+    {
+      "type": "text",
+      "img_path": "p0280_005_text.png",
+      "bbox": [
+        [
+          166,
+          1742
+        ],
+        [
+          1513,
+          1742
+        ],
+        [
+          1513,
+          1864
+        ],
+        [
+          166,
+          1864
+        ]
+      ],
+      "score": 0.9597826600074768,
+      "y_pos": 1742,
+      "text": "- Phong tà kết tại bì phu gây ban chẩn dùng Hãn pháp\ntrục phong tà để tiêu tan.",
+      "confidence": 0.996603265207596
+    },
+    {
+      "type": "text",
+      "img_path": "p0280_007_text.png",
+      "bbox": [
+        [
+          164,
+          1901
+        ],
+        [
+          1512,
+          1901
+        ],
+        [
+          1512,
+          2024
+        ],
+        [
+          164,
+          2024
+        ]
+      ],
+      "score": 0.956654965877533,
+      "y_pos": 1901,
+      "text": "- Độc tố hấp thụ qua bì phu hoặc từ bên trong phát ra bì\nphu. Dùng Hãn pháp đưa độc tố ra theo mồ hôi.",
+      "confidence": 0.9875790499757513
+    },
+    {
+      "type": "text",
+      "img_path": "p0280_004_text.png",
+      "bbox": [
+        [
+          165,
+          2054
+        ],
+        [
+          1510,
+          2054
+        ],
+        [
+          1510,
+          2179
+        ],
+        [
+          165,
+          2179
+        ]
+      ],
+      "score": 0.9600958228111267,
+      "y_pos": 2054,
+      "text": "- Thấp tà vừa xâm nhập còn ở ngoài biểu dùng Hãn\npháp đẩy ra.",
+      "confidence": 0.9972074218307223
+    },
+    {
+      "type": "number",
+      "img_path": "p0280_013_number.png",
+      "bbox": [
+        [
+          173,
+          2225
+        ],
+        [
+          259,
+          2225
+        ],
+        [
+          259,
+          2268
+        ],
+        [
+          173,
+          2268
+        ]
+      ],
+      "score": 0.8682949542999268,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0280.png"
+}

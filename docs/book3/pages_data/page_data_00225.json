@@ -1,0 +1,214 @@
+{
+  "page_num": 225,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0225_005_text.png",
+      "bbox": [
+        [
+          517,
+          308
+        ],
+        [
+          1285,
+          308
+        ],
+        [
+          1285,
+          435
+        ],
+        [
+          517,
+          435
+        ]
+      ],
+      "score": 0.8188654780387878,
+      "y_pos": 308,
+      "text": "Trên vì nước dưới dân làng,\nVẻ vang cha mẹ mọi đàng đều hay.",
+      "confidence": 0.9978251131685946
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0225_007_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          469
+        ],
+        [
+          769,
+          469
+        ],
+        [
+          769,
+          522
+        ],
+        [
+          227,
+          522
+        ]
+      ],
+      "score": 0.8141351938247681,
+      "y_pos": 469,
+      "text": "2.4. Điệp nhập hoa viên",
+      "confidence": 0.9653458333015442
+    },
+    {
+      "type": "text",
+      "img_path": "p0225_003_text.png",
+      "bbox": [
+        [
+          443,
+          540
+        ],
+        [
+          1352,
+          540
+        ],
+        [
+          1352,
+          1101
+        ],
+        [
+          443,
+          1101
+        ]
+      ],
+      "score": 0.8543465733528137,
+      "y_pos": 540,
+      "text": "Hoa viên Điệp nhập lạ lùng,\nBạn trai xích nhược của chung mới toàn,\nXích yếu nhà cửa giầu sang,\nManh thì phá sản vợ càng tai ương.\nĐàn bà hữu xích cần cường,\nYếu thì phá sản chồng thường hết trơn,\nGái thì hữu xích cường hơn,\nTrai cần xích nhược, ruộng nương vợ giàu.",
+      "confidence": 0.9955504138109317
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0225_004_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1133
+        ],
+        [
+          689,
+          1133
+        ],
+        [
+          689,
+          1187
+        ],
+        [
+          227,
+          1187
+        ]
+      ],
+      "score": 0.834410548210144,
+      "y_pos": 1133,
+      "text": "2.5. Long xà hỗn sát",
+      "confidence": 0.9772869131781838
+    },
+    {
+      "type": "text",
+      "img_path": "p0225_002_text.png",
+      "bbox": [
+        [
+          513,
+          1207
+        ],
+        [
+          1301,
+          1207
+        ],
+        [
+          1301,
+          1767
+        ],
+        [
+          513,
+          1767
+        ]
+      ],
+      "score": 0.8723223805427551,
+      "y_pos": 1207,
+      "text": "Long xà hỗn sát diệu kỳ.\nTỳ Vi vị Nhược mạch thì sáp lai,\nViệc quan ngày một ngày hai.\nSinh ra kiện tụng lai rai không ngờ.\nKhéo khôn lo liệu đợi chờ,\nMay ra giữ được thế cờ bình yên\nCho hay rồi chẳng tính liền\nKhuynh thần bại sản hết tiền mới lo",
+      "confidence": 0.9954905778761007
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0225_006_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1802
+        ],
+        [
+          699,
+          1802
+        ],
+        [
+          699,
+          1855
+        ],
+        [
+          227,
+          1855
+        ]
+      ],
+      "score": 0.8153390884399414,
+      "y_pos": 1802,
+      "text": "2.6. Kinh phi thiên lý",
+      "confidence": 0.9743612135450045
+    },
+    {
+      "type": "text",
+      "img_path": "p0225_001_text.png",
+      "bbox": [
+        [
+          442,
+          1876
+        ],
+        [
+          1354,
+          1876
+        ],
+        [
+          1354,
+          2145
+        ],
+        [
+          442,
+          2145
+        ]
+      ],
+      "score": 0.8759264349937439,
+      "y_pos": 1876,
+      "text": "Kinh phi thiên lý cách hung,\nCông lao lận đận thủy chung không thành.\nCả hai xích mạch đều nhanh.\nMạch lao rắn chắc Phù thành không hay.",
+      "confidence": 0.9949222826746053
+    },
+    {
+      "type": "number",
+      "img_path": "p0225_000_number.png",
+      "bbox": [
+        [
+          1530,
+          2225
+        ],
+        [
+          1611,
+          2225
+        ],
+        [
+          1611,
+          2267
+        ],
+        [
+          1530,
+          2267
+        ]
+      ],
+      "score": 0.901921808719635,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0225.png"
+}

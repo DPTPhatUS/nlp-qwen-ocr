@@ -1,0 +1,370 @@
+{
+  "page_num": 114,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0114_000_text.png",
+      "bbox": [
+        [
+          165,
+          306
+        ],
+        [
+          1508,
+          306
+        ],
+        [
+          1508,
+          425
+        ],
+        [
+          165,
+          425
+        ]
+      ],
+      "score": 0.9612858295440674,
+      "y_pos": 306,
+      "text": "là bệnh thuộc kinh thiếu dương, chiều sâu của bệnh ở bán\nbiểu, bán lý.",
+      "confidence": 0.9945724862060328
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0114_012_paragraph_title.png",
+      "bbox": [
+        [
+          162,
+          463
+        ],
+        [
+          1511,
+          463
+        ],
+        [
+          1511,
+          584
+        ],
+        [
+          162,
+          584
+        ]
+      ],
+      "score": 0.7308312058448792,
+      "y_pos": 463,
+      "text": "Hỏi về nóng, lạnh để phân biệt bát cương (trong\nphạm vi vấn chẩn để nhận định sơ bộ)",
+      "confidence": 0.9885285624916136
+    },
+    {
+      "type": "text",
+      "img_path": "p0114_008_text.png",
+      "bbox": [
+        [
+          316,
+          619
+        ],
+        [
+          1293,
+          619
+        ],
+        [
+          1293,
+          670
+        ],
+        [
+          316,
+          670
+        ]
+      ],
+      "score": 0.90641850233078,
+      "y_pos": 619,
+      "text": "- Hàn chứng: cảm giác sợ lạnh mà không sốt.",
+      "confidence": 0.9906117571724786
+    },
+    {
+      "type": "text",
+      "img_path": "p0114_007_text.png",
+      "bbox": [
+        [
+          166,
+          709
+        ],
+        [
+          1510,
+          709
+        ],
+        [
+          1510,
+          823
+        ],
+        [
+          166,
+          823
+        ]
+      ],
+      "score": 0.9550390243530273,
+      "y_pos": 709,
+      "text": "- Nhiệt chứng: cảm giác sợ lạnh hoặc không sợ lạnh\nmà có sốt.",
+      "confidence": 0.9976220937111439
+    },
+    {
+      "type": "text",
+      "img_path": "p0114_006_text.png",
+      "bbox": [
+        [
+          166,
+          867
+        ],
+        [
+          1514,
+          867
+        ],
+        [
+          1514,
+          981
+        ],
+        [
+          166,
+          981
+        ]
+      ],
+      "score": 0.9556248784065247,
+      "y_pos": 867,
+      "text": "- Hư chứng: cảm giác sợ lạnh, chân tay giá lạnh, không\nsốt.",
+      "confidence": 0.9940994614291758
+    },
+    {
+      "type": "text",
+      "img_path": "p0114_003_text.png",
+      "bbox": [
+        [
+          167,
+          1022
+        ],
+        [
+          1513,
+          1022
+        ],
+        [
+          1513,
+          1141
+        ],
+        [
+          167,
+          1141
+        ]
+      ],
+      "score": 0.9588318467140198,
+      "y_pos": 1022,
+      "text": "- Thực chứng: sốt từng cơn, lòng bàn tay, bàn chân cảm\ngiác nóng như lửa đốt.",
+      "confidence": 0.9985335788556507
+    },
+    {
+      "type": "text",
+      "img_path": "p0114_005_text.png",
+      "bbox": [
+        [
+          166,
+          1177
+        ],
+        [
+          1513,
+          1177
+        ],
+        [
+          1513,
+          1296
+        ],
+        [
+          166,
+          1296
+        ]
+      ],
+      "score": 0.9558398127555847,
+      "y_pos": 1177,
+      "text": "- Biểu chứng: Cảm giác nóng hoặc lạnh có thể có sốt\nkèm theo, hắt hơi, sổ mũi.",
+      "confidence": 0.9991524278756101
+    },
+    {
+      "type": "text",
+      "img_path": "p0114_001_text.png",
+      "bbox": [
+        [
+          166,
+          1338
+        ],
+        [
+          1510,
+          1338
+        ],
+        [
+          1510,
+          1455
+        ],
+        [
+          166,
+          1455
+        ]
+      ],
+      "score": 0.9598032832145691,
+      "y_pos": 1338,
+      "text": "- Lý chứng: chân nhiệt, chân hàn hoặc chân nhiệt giả\nhàn, chân hàn giả nhiệt, không có hắt hơi sổ mũi.",
+      "confidence": 0.9888325576753658
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0114_011_paragraph_title.png",
+      "bbox": [
+        [
+          287,
+          1496
+        ],
+        [
+          1308,
+          1496
+        ],
+        [
+          1308,
+          1547
+        ],
+        [
+          287,
+          1547
+        ]
+      ],
+      "score": 0.8106234669685364,
+      "y_pos": 1496,
+      "text": "Vấn chẩn hàn, nhiệt để xác định vị trí bệnh:",
+      "confidence": 0.9973605923030687
+    },
+    {
+      "type": "text",
+      "img_path": "p0114_009_text.png",
+      "bbox": [
+        [
+          286,
+          1584
+        ],
+        [
+          1440,
+          1584
+        ],
+        [
+          1440,
+          1634
+        ],
+        [
+          286,
+          1634
+        ]
+      ],
+      "score": 0.8966778516769409,
+      "y_pos": 1584,
+      "text": "Phát sốt, sợ lạnh, nhức đau cổ gáy là bệnh ở kinh thái dương.",
+      "confidence": 0.9998410050831144
+    },
+    {
+      "type": "text",
+      "img_path": "p0114_004_text.png",
+      "bbox": [
+        [
+          167,
+          1673
+        ],
+        [
+          1511,
+          1673
+        ],
+        [
+          1511,
+          1791
+        ],
+        [
+          167,
+          1791
+        ]
+      ],
+      "score": 0.9571789503097534,
+      "y_pos": 1673,
+      "text": "Phát sốt, không sợ lạnh, có thể đau ở vùng trán, đó là\nbệnh thuộc kinh dương minh.",
+      "confidence": 0.9958538377262982
+    },
+    {
+      "type": "text",
+      "img_path": "p0114_002_text.png",
+      "bbox": [
+        [
+          167,
+          1830
+        ],
+        [
+          1514,
+          1830
+        ],
+        [
+          1514,
+          1949
+        ],
+        [
+          167,
+          1949
+        ]
+      ],
+      "score": 0.9590826630592346,
+      "y_pos": 1830,
+      "text": "Khi nóng, khi lạnh, miệng đắng, yết hầu khô, mắt hoa, có\nthể đau hai bên đầu thì đó là bệnh thuộc kinh thiếu dương.",
+      "confidence": 0.9975526975489211
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0114_013_paragraph_title.png",
+      "bbox": [
+        [
+          287,
+          1985
+        ],
+        [
+          605,
+          1985
+        ],
+        [
+          605,
+          2033
+        ],
+        [
+          287,
+          2033
+        ]
+      ],
+      "score": 0.7284647226333618,
+      "y_pos": 1985,
+      "text": "Hỏi về mồ hôi",
+      "confidence": 0.9916889150937398
+    },
+    {
+      "type": "number",
+      "img_path": "p0114_010_number.png",
+      "bbox": [
+        [
+          178,
+          2225
+        ],
+        [
+          257,
+          2225
+        ],
+        [
+          257,
+          2266
+        ],
+        [
+          178,
+          2266
+        ]
+      ],
+      "score": 0.878020167350769,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0114.png"
+}

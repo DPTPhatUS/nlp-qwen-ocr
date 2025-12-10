@@ -1,0 +1,82 @@
+{
+  "page_num": 288,
+  "content": [
+    {
+      "type": "table",
+      "img_path": "p0288_001_table.png",
+      "bbox": [
+        [
+          166,
+          297
+        ],
+        [
+          1442,
+          297
+        ],
+        [
+          1442,
+          972
+        ],
+        [
+          166,
+          972
+        ]
+      ],
+      "score": 0.5893488526344299,
+      "y_pos": 297,
+      "text": "5. Chỉ tực tiểu bĩ    6. Ma hoàng phụ tử\nChỉ thực    8gr    Ma hoàng    6gr\nHậu phát    12gr    Phu tử    12gr\nBánha chế    4gr    Tế tân    4gr\nBạch truật    12gr    Cam thảo    4gr\nĐại táo    15gr\n7. Uy di thang    8. Phụ tử lý trung\nHành tươi    12gr    Đảng sâm    12gr\nCát cánh    6gr    Cam thảo    4gr\nĐậu xị    12gr    Sinh khương    6gr\nBach vi    4gr    Nhục quế    6gr\nBac hà    6gr    Phu tử    6gr\nBach truât    10gr",
+      "confidence": 0.9498669694154059
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0288_002_figure_title.png",
+      "bbox": [
+        [
+          648,
+          978
+        ],
+        [
+          1038,
+          978
+        ],
+        [
+          1038,
+          1074
+        ],
+        [
+          648,
+          1074
+        ]
+      ],
+      "score": 0.5010886192321777,
+      "y_pos": 978,
+      "text": "9. Cuỗng nhân sâm\nNước trúc lịch sắc uống",
+      "confidence": 0.9466941047969617
+    },
+    {
+      "type": "image",
+      "img_path": "p0288_000_image.png",
+      "bbox": [
+        [
+          187,
+          1133
+        ],
+        [
+          1488,
+          1133
+        ],
+        [
+          1488,
+          2482
+        ],
+        [
+          187,
+          2482
+        ]
+      ],
+      "score": 0.9778301119804382,
+      "y_pos": 1133
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0288.png"
+}

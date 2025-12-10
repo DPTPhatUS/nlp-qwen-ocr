@@ -1,0 +1,188 @@
+{
+  "page_num": 277,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0277_005_text.png",
+      "bbox": [
+        [
+          228,
+          309
+        ],
+        [
+          758,
+          309
+        ],
+        [
+          758,
+          774
+        ],
+        [
+          228,
+          774
+        ]
+      ],
+      "score": 0.6096031665802002,
+      "y_pos": 309,
+      "text": "Táo tà\nHắc sửu    8    -20gr\nMạch môn    8    -16gr\nHoàng tinh    12    -20gr\nThục địa    15    -30gr\nVừng đen    8    -16gr\nRau sam    8    -16gr\nMần trầu    8    -20gr",
+      "confidence": 0.9466931460083906
+    },
+    {
+      "type": "text",
+      "img_path": "p0277_006_text.png",
+      "bbox": [
+        [
+          924,
+          336
+        ],
+        [
+          1511,
+          336
+        ],
+        [
+          1511,
+          777
+        ],
+        [
+          924,
+          777
+        ]
+      ],
+      "score": 0.5687748193740845,
+      "y_pos": 336,
+      "text": "iiva ta\nHoàng cầm    6    12gr\nHoàng liên    4    8gr\nHoàng bá    8    16gr\nDấp cá    6    16gr\nCỏ mực    8    20gr\nBồ công anh    8    20gr\nSinh địa    15    30gr",
+      "confidence": 0.9172017901913757
+    },
+    {
+      "type": "text",
+      "img_path": "p0277_004_text.png",
+      "bbox": [
+        [
+          961,
+          899
+        ],
+        [
+          1510,
+          899
+        ],
+        [
+          1510,
+          1256
+        ],
+        [
+          961,
+          1256
+        ]
+      ],
+      "score": 0.6271912455558777,
+      "y_pos": 899,
+      "text": "Kinh giới    6    12gr\nPhòng phong    6    12gr\nThương truật    6    12gr\nLá tre    8    20gr\nTía tô    8    12gr\nHành    12gr",
+      "confidence": 0.9546076106094549
+    },
+    {
+      "type": "text",
+      "img_path": "p0277_003_text.png",
+      "bbox": [
+        [
+          229,
+          904
+        ],
+        [
+          728,
+          904
+        ],
+        [
+          728,
+          1316
+        ],
+        [
+          229,
+          1316
+        ]
+      ],
+      "score": 0.6406776905059814,
+      "y_pos": 904,
+      "text": "Ý dĩ    10 -20gr\nTỳ giải    8 -16gr\nLá lốt    6 -12gr\nCổ vòi voi    6 -12gr\nBach linh    8 -16gr\nKhương hoạt    4 -12gr\nBán hạ    2 - 8gr",
+      "confidence": 0.9542136362904428
+    },
+    {
+      "type": "text",
+      "img_path": "p0277_001_text.png",
+      "bbox": [
+        [
+          958,
+          1393
+        ],
+        [
+          1510,
+          1393
+        ],
+        [
+          1510,
+          1800
+        ],
+        [
+          958,
+          1800
+        ]
+      ],
+      "score": 0.6766246557235718,
+      "y_pos": 1393,
+      "text": "Hàn tà\nNgô thù    4 -    12gr\nCan khương    4    12gr\nNhục quế    4 -    12gr\nThảo quả    6    12gr\nNgải diệp    6    12gr\nĐại hồi    6    12gr",
+      "confidence": 0.9570705380823497
+    },
+    {
+      "type": "text",
+      "img_path": "p0277_002_text.png",
+      "bbox": [
+        [
+          228,
+          1393
+        ],
+        [
+          727,
+          1393
+        ],
+        [
+          727,
+          1857
+        ],
+        [
+          228,
+          1857
+        ]
+      ],
+      "score": 0.6623960733413696,
+      "y_pos": 1393,
+      "text": "Thử tà\nBiển đậu    12 -20gr\nCam thảo    1 - 4gr\nHoat thach    6 -20gr\nHương nhu    6 -12gr\nHoắc hương    6 -12gr\nThanh hao    6 -12gr\nLá sen    6 -12gr",
+      "confidence": 0.9570837010879708
+    },
+    {
+      "type": "number",
+      "img_path": "p0277_000_number.png",
+      "bbox": [
+        [
+          1530,
+          2224
+        ],
+        [
+          1611,
+          2224
+        ],
+        [
+          1611,
+          2266
+        ],
+        [
+          1530,
+          2266
+        ]
+      ],
+      "score": 0.9198974370956421,
+      "y_pos": 2224,
+      "text": "\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0277.png"
+}

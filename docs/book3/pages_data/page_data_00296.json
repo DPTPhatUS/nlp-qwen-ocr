@@ -1,0 +1,576 @@
+{
+  "page_num": 296,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0296_000_text.png",
+      "bbox": [
+        [
+          167,
+          301
+        ],
+        [
+          879,
+          301
+        ],
+        [
+          879,
+          471
+        ],
+        [
+          167,
+          471
+        ]
+      ],
+      "score": 0.9649754762649536,
+      "y_pos": 301,
+      "text": "Vỏ cây sò dùng vật bằng tre hoặc gỗ\nđẽo ngược lên ngọn lấy 15g vỏ dầm\nnước giã nát vắt nước uống",
+      "confidence": 0.9963447922713661
+    },
+    {
+      "type": "text",
+      "img_path": "p0296_003_text.png",
+      "bbox": [
+        [
+          1009,
+          301
+        ],
+        [
+          1459,
+          301
+        ],
+        [
+          1459,
+          409
+        ],
+        [
+          1009,
+          409
+        ]
+      ],
+      "score": 0.929591715335846,
+      "y_pos": 301,
+      "text": "Cuống bí đỏ giã nát vắt\nnước uống",
+      "confidence": 0.9900202740322459
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0296_004_paragraph_title.png",
+      "bbox": [
+        [
+          945,
+          533
+        ],
+        [
+          1180,
+          533
+        ],
+        [
+          1180,
+          577
+        ],
+        [
+          945,
+          577
+        ]
+      ],
+      "score": 0.9226388931274414,
+      "y_pos": 533,
+      "text": "4. Lê lô ẩm",
+      "confidence": 0.9495008587837219
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0296_007_paragraph_title.png",
+      "bbox": [
+        [
+          169,
+          534
+        ],
+        [
+          496,
+          534
+        ],
+        [
+          496,
+          579
+        ],
+        [
+          169,
+          579
+        ]
+      ],
+      "score": 0.908741295337677,
+      "y_pos": 534,
+      "text": "3. Mỹ thành ẩm",
+      "confidence": 0.9832390137016773
+    },
+    {
+      "type": "text",
+      "img_path": "p0296_002_text.png",
+      "bbox": [
+        [
+          168,
+          593
+        ],
+        [
+          788,
+          593
+        ],
+        [
+          788,
+          703
+        ],
+        [
+          168,
+          703
+        ]
+      ],
+      "score": 0.9393364787101746,
+      "y_pos": 593,
+      "text": "Hạt đậu xanh điếc cùng muối ăn\ngiã nhỏ hòa nước uống sống",
+      "confidence": 0.9990635395848325
+    },
+    {
+      "type": "text",
+      "img_path": "p0296_009_text.png",
+      "bbox": [
+        [
+          976,
+          594
+        ],
+        [
+          1484,
+          594
+        ],
+        [
+          1484,
+          642
+        ],
+        [
+          976,
+          642
+        ]
+      ],
+      "score": 0.8747687339782715,
+      "y_pos": 594,
+      "text": "Lê lô 12 gr sắc nước uống",
+      "confidence": 0.9988289475440979
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0296_014_paragraph_title.png",
+      "bbox": [
+        [
+          168,
+          741
+        ],
+        [
+          520,
+          741
+        ],
+        [
+          520,
+          789
+        ],
+        [
+          168,
+          789
+        ]
+      ],
+      "score": 0.8380837440490723,
+      "y_pos": 741,
+      "text": "5. Nhị trần thang",
+      "confidence": 0.9453613256153307
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0296_010_paragraph_title.png",
+      "bbox": [
+        [
+          933,
+          743
+        ],
+        [
+          1206,
+          743
+        ],
+        [
+          1206,
+          783
+        ],
+        [
+          933,
+          783
+        ]
+      ],
+      "score": 0.8741452097892761,
+      "y_pos": 743,
+      "text": "6. Sâm lô tán",
+      "confidence": 0.9165604551633199
+    },
+    {
+      "type": "text",
+      "img_path": "p0296_012_text.png",
+      "bbox": [
+        [
+          944,
+          800
+        ],
+        [
+          1422,
+          800
+        ],
+        [
+          1422,
+          908
+        ],
+        [
+          944,
+          908
+        ]
+      ],
+      "score": 0.8487966656684875,
+      "y_pos": 800,
+      "text": "Cuống nhân sâm tán nhỏ\nhòa nước uống.",
+      "confidence": 0.9775140012303989
+    },
+    {
+      "type": "text",
+      "img_path": "p0296_017_text.png",
+      "bbox": [
+        [
+          168,
+          800
+        ],
+        [
+          407,
+          800
+        ],
+        [
+          407,
+          1085
+        ],
+        [
+          168,
+          1085
+        ]
+      ],
+      "score": 0.8110389113426208,
+      "y_pos": 800,
+      "text": "Trần bì\nSinh khương\nBán ha\nChích thảo\nBach linh",
+      "confidence": 0.96497668664448
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0296_011_paragraph_title.png",
+      "bbox": [
+        [
+          169,
+          1129
+        ],
+        [
+          519,
+          1129
+        ],
+        [
+          519,
+          1174
+        ],
+        [
+          169,
+          1174
+        ]
+      ],
+      "score": 0.8700211048126221,
+      "y_pos": 1129,
+      "text": "7. Chi tử sị thang",
+      "confidence": 0.9656233876943588
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0296_015_paragraph_title.png",
+      "bbox": [
+        [
+          992,
+          1129
+        ],
+        [
+          1265,
+          1129
+        ],
+        [
+          1265,
+          1171
+        ],
+        [
+          992,
+          1171
+        ]
+      ],
+      "score": 0.8320370316505432,
+      "y_pos": 1129,
+      "text": "8. Bình vi tán",
+      "confidence": 0.8835665471851826
+    },
+    {
+      "type": "text",
+      "img_path": "p0296_013_text.png",
+      "bbox": [
+        [
+          167,
+          1186
+        ],
+        [
+          892,
+          1186
+        ],
+        [
+          892,
+          1235
+        ],
+        [
+          167,
+          1235
+        ]
+      ],
+      "score": 0.8459835648536682,
+      "y_pos": 1186,
+      "text": "Chi tử 10gr, đạm đậu sị 20gr sắc uống",
+      "confidence": 0.9994570842156043
+    },
+    {
+      "type": "text",
+      "img_path": "p0296_016_text.png",
+      "bbox": [
+        [
+          994,
+          1187
+        ],
+        [
+          1466,
+          1187
+        ],
+        [
+          1466,
+          1471
+        ],
+        [
+          994,
+          1471
+        ]
+      ],
+      "score": 0.8204548954963684,
+      "y_pos": 1187,
+      "text": "Hậu phát    20gr\nSinh khương    6gr\nThương truật    12gr\nChích thảo    6gr\nTrần bì    8gr",
+      "confidence": 0.9456859314692764
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0296_006_paragraph_title.png",
+      "bbox": [
+        [
+          168,
+          1516
+        ],
+        [
+          452,
+          1516
+        ],
+        [
+          452,
+          1556
+        ],
+        [
+          168,
+          1556
+        ]
+      ],
+      "score": 0.9146938323974609,
+      "y_pos": 1516,
+      "text": "9. Sâm lô tán",
+      "confidence": 0.9359464565912883
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0296_021_paragraph_title.png",
+      "bbox": [
+        [
+          913,
+          1517
+        ],
+        [
+          1432,
+          1517
+        ],
+        [
+          1432,
+          1563
+        ],
+        [
+          913,
+          1563
+        ]
+      ],
+      "score": 0.6902098655700684,
+      "y_pos": 1517,
+      "text": "10. Nghiệm phương thang",
+      "confidence": 0.8740197515487671
+    },
+    {
+      "type": "text",
+      "img_path": "p0296_001_text.png",
+      "bbox": [
+        [
+          167,
+          1573
+        ],
+        [
+          827,
+          1573
+        ],
+        [
+          827,
+          1678
+        ],
+        [
+          167,
+          1678
+        ]
+      ],
+      "score": 0.9540868997573853,
+      "y_pos": 1573,
+      "text": "Cuống nhân sâm tán nhỏ hòa nước\nuống",
+      "confidence": 0.9787612308155407
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0296_019_paragraph_title.png",
+      "bbox": [
+        [
+          937,
+          1718
+        ],
+        [
+          1294,
+          1718
+        ],
+        [
+          1294,
+          1765
+        ],
+        [
+          937,
+          1765
+        ]
+      ],
+      "score": 0.8017998337745667,
+      "y_pos": 1718,
+      "text": "12.Thủy diệm ẩm",
+      "confidence": 0.8988130302990184
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0296_008_paragraph_title.png",
+      "bbox": [
+        [
+          170,
+          1719
+        ],
+        [
+          539,
+          1719
+        ],
+        [
+          539,
+          1762
+        ],
+        [
+          170,
+          1762
+        ]
+      ],
+      "score": 0.8882825970649719,
+      "y_pos": 1719,
+      "text": "11. Phân diêm ẩm",
+      "confidence": 0.9934546152750651
+    },
+    {
+      "type": "text",
+      "img_path": "p0296_005_text.png",
+      "bbox": [
+        [
+          167,
+          1779
+        ],
+        [
+          802,
+          1779
+        ],
+        [
+          802,
+          1883
+        ],
+        [
+          167,
+          1883
+        ]
+      ],
+      "score": 0.9198482036590576,
+      "y_pos": 1779,
+      "text": "Đảm phàn 6gr, muối 3 gr tán nhỏ\nnước uống.",
+      "confidence": 0.9968133582310243
+    },
+    {
+      "type": "text",
+      "img_path": "p0296_018_text.png",
+      "bbox": [
+        [
+          912,
+          1779
+        ],
+        [
+          1504,
+          1779
+        ],
+        [
+          1504,
+          1828
+        ],
+        [
+          912,
+          1828
+        ]
+      ],
+      "score": 0.8085618615150452,
+      "y_pos": 1779,
+      "text": "Muối sống 20gr hòa nước uống",
+      "confidence": 0.9995111703872681
+    },
+    {
+      "type": "image",
+      "img_path": "p0296_020_image.png",
+      "bbox": [
+        [
+          177,
+          1891
+        ],
+        [
+          1505,
+          1891
+        ],
+        [
+          1505,
+          2482
+        ],
+        [
+          177,
+          2482
+        ]
+      ],
+      "score": 0.8011797666549683,
+      "y_pos": 1891
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0296.png"
+}

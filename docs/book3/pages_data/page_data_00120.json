@@ -1,0 +1,318 @@
+{
+  "page_num": 120,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0120_005_text.png",
+      "bbox": [
+        [
+          166,
+          306
+        ],
+        [
+          1509,
+          306
+        ],
+        [
+          1509,
+          426
+        ],
+        [
+          166,
+          426
+        ]
+      ],
+      "score": 0.9599956274032593,
+      "y_pos": 306,
+      "text": "- Khát nước, uống nước luôn luôn mà hay uống nước\nlạnh đó là thuộc chứng nhiệt.",
+      "confidence": 0.9976983027960362
+    },
+    {
+      "type": "text",
+      "img_path": "p0120_006_text.png",
+      "bbox": [
+        [
+          286,
+          459
+        ],
+        [
+          1346,
+          459
+        ],
+        [
+          1346,
+          510
+        ],
+        [
+          286,
+          510
+        ]
+      ],
+      "score": 0.9101852774620056,
+      "y_pos": 459,
+      "text": "- Khát nước mà ưa uống nước nóng là chứng hàn.",
+      "confidence": 0.9981147013604641
+    },
+    {
+      "type": "text",
+      "img_path": "p0120_008_text.png",
+      "bbox": [
+        [
+          286,
+          544
+        ],
+        [
+          1316,
+          544
+        ],
+        [
+          1316,
+          594
+        ],
+        [
+          286,
+          594
+        ]
+      ],
+      "score": 0.9075079560279846,
+      "y_pos": 544,
+      "text": "- Khô miệng mà không khát là chân âm bất túc.",
+      "confidence": 0.9984021846284258
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0120_010_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          629
+        ],
+        [
+          631,
+          629
+        ],
+        [
+          631,
+          677
+        ],
+        [
+          284,
+          677
+        ]
+      ],
+      "score": 0.8826912045478821,
+      "y_pos": 629,
+      "text": "Hỏi về bênh cũ",
+      "confidence": 0.989129014313221
+    },
+    {
+      "type": "text",
+      "img_path": "p0120_000_text.png",
+      "bbox": [
+        [
+          164,
+          712
+        ],
+        [
+          1512,
+          712
+        ],
+        [
+          1512,
+          1038
+        ],
+        [
+          164,
+          1038
+        ]
+      ],
+      "score": 0.9825550317764282,
+      "y_pos": 712,
+      "text": "- Hỏi về bệnh cũ là hỏi tiền sử có chứng bệnh gì,\ntruyền nhiễm hoặc có tật, hoặc đã bị tổn thương, cắt xén bằng\nphẫu thuật hay đã từng bị sốt rét, thương tổn do chiến tranh...\nđể khi nhận đinh bệnh mới khỏi nhầm lẫn (biết loại trừ những\ncái bất thường trong cái thường).",
+      "confidence": 0.9983652418303233
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0120_007_paragraph_title.png",
+      "bbox": [
+        [
+          315,
+          1073
+        ],
+        [
+          1041,
+          1073
+        ],
+        [
+          1041,
+          1126
+        ],
+        [
+          315,
+          1126
+        ]
+      ],
+      "score": 0.9078642725944519,
+      "y_pos": 1073,
+      "text": "Hỏi về nguyên nhân gây ra bệnh",
+      "confidence": 0.9965536296367645
+    },
+    {
+      "type": "text",
+      "img_path": "p0120_004_text.png",
+      "bbox": [
+        [
+          165,
+          1162
+        ],
+        [
+          1510,
+          1162
+        ],
+        [
+          1510,
+          1284
+        ],
+        [
+          165,
+          1284
+        ]
+      ],
+      "score": 0.9600805640220642,
+      "y_pos": 1162,
+      "text": "Để nắm rõ được bệnh do nội thương hay do bị té ngã,\nđánh đập hoặc do ăn phải đồ ăn có độc mà lâm bệnh.",
+      "confidence": 0.9988712409216538
+    },
+    {
+      "type": "text",
+      "img_path": "p0120_003_text.png",
+      "bbox": [
+        [
+          165,
+          1317
+        ],
+        [
+          1513,
+          1317
+        ],
+        [
+          1513,
+          1509
+        ],
+        [
+          165,
+          1509
+        ]
+      ],
+      "score": 0.9700969457626343,
+      "y_pos": 1317,
+      "text": "Ngoài ra, còn phải khảo cứu để xác định nguyên nhân\nbệnh có phải do thất tình không, nếu phải thì hỏi ra để biết thất\ntình chí nào mà đánh giá sự thương tổn ở tạng nào.",
+      "confidence": 0.9998010879176831
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0120_009_paragraph_title.png",
+      "bbox": [
+        [
+          316,
+          1545
+        ],
+        [
+          844,
+          1545
+        ],
+        [
+          844,
+          1596
+        ],
+        [
+          316,
+          1596
+        ]
+      ],
+      "score": 0.897712230682373,
+      "y_pos": 1545,
+      "text": "Hỏi về địa dư, quê quán",
+      "confidence": 0.990750970840454
+    },
+    {
+      "type": "text",
+      "img_path": "p0120_002_text.png",
+      "bbox": [
+        [
+          164,
+          1632
+        ],
+        [
+          1513,
+          1632
+        ],
+        [
+          1513,
+          1823
+        ],
+        [
+          164,
+          1823
+        ]
+      ],
+      "score": 0.9729832410812378,
+      "y_pos": 1632,
+      "text": "Tác động của khí, đất đai, nước uống ảnh hưởng rất lớn\nđến sức khỏe và bệnh lý của con người nên phải hỏi về địa dư,\nquê quán mà xác định các sái thường của bệnh nhân.",
+      "confidence": 0.9994854183945657
+    },
+    {
+      "type": "text",
+      "img_path": "p0120_001_text.png",
+      "bbox": [
+        [
+          164,
+          1857
+        ],
+        [
+          1513,
+          1857
+        ],
+        [
+          1513,
+          2117
+        ],
+        [
+          164,
+          2117
+        ]
+      ],
+      "score": 0.9793891310691833,
+      "y_pos": 1857,
+      "text": "Trong Nội kinh tố vấn, Kỳ Bá viết: \"Sùng cao tắc âm khí\ntrị chi, ô hạ tắc dương khí trị chi, dương thắng giai tiên thiên, âm\nthắng giả hậu thiên, thủ di lý chi cường, sinh hóa, chi đạo giả\n(nghĩa là: Vùng đồi núi cao thì âm khí cai trị, những vùng thung",
+      "confidence": 0.9990438473925705
+    },
+    {
+      "type": "number",
+      "img_path": "p0120_011_number.png",
+      "bbox": [
+        [
+          178,
+          2225
+        ],
+        [
+          257,
+          2225
+        ],
+        [
+          257,
+          2267
+        ],
+        [
+          178,
+          2267
+        ]
+      ],
+      "score": 0.8788451552391052,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0120.png"
+}

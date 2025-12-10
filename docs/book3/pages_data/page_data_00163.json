@@ -1,0 +1,240 @@
+{
+  "page_num": 163,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0163_008_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          751,
+          0
+        ],
+        [
+          751,
+          96
+        ],
+        [
+          227,
+          96
+        ]
+      ],
+      "score": 0.5403158068656921,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.96442627457472
+    },
+    {
+      "type": "text",
+      "img_path": "p0163_001_text.png",
+      "bbox": [
+        [
+          224,
+          306
+        ],
+        [
+          1568,
+          306
+        ],
+        [
+          1568,
+          490
+        ],
+        [
+          224,
+          490
+        ]
+      ],
+      "score": 0.9713663458824158,
+      "y_pos": 306,
+      "text": "Ví du là mach sác thì loai bổ toàn bô các mach thuộc ho\nhàng nhà trì, nhà phù, nhà trầm không cần để ý, mà chỉ xét họ\nnhà sác thôi.",
+      "confidence": 0.994540889453702
+    },
+    {
+      "type": "text",
+      "img_path": "p0163_003_text.png",
+      "bbox": [
+        [
+          226,
+          529
+        ],
+        [
+          1569,
+          529
+        ],
+        [
+          1569,
+          649
+        ],
+        [
+          226,
+          649
+        ]
+      ],
+      "score": 0.9546103477478027,
+      "y_pos": 529,
+      "text": "Họ nhà sác gồm có: mạch Huyền, mạch Thực, mạch\nSúc, mạch Cách.",
+      "confidence": 0.993930232364173
+    },
+    {
+      "type": "text",
+      "img_path": "p0163_000_text.png",
+      "bbox": [
+        [
+          223,
+          687
+        ],
+        [
+          1573,
+          687
+        ],
+        [
+          1573,
+          1016
+        ],
+        [
+          223,
+          1016
+        ]
+      ],
+      "score": 0.9808998107910156,
+      "y_pos": 687,
+      "text": "Nếu bệnh nhân trạng thái bệnh lý không có gì đặc biệt thì bỏ\nluôn cả 2 đứa cháu của mạch Sác đó là súc và cách không cần xét\nđến, bởi vì nếu là mạch Súc thì bệnh nhân đó đang điên\nkhùng, cuồng loạn vì cực nhiệt mà nếu là mạch cách thì bệnh\nđó nặng lắm hoặc giả bệnh nhân đang nằm liệt giường.",
+      "confidence": 0.9985843602959218
+    },
+    {
+      "type": "text",
+      "img_path": "p0163_002_text.png",
+      "bbox": [
+        [
+          224,
+          1048
+        ],
+        [
+          1571,
+          1048
+        ],
+        [
+          1571,
+          1232
+        ],
+        [
+          224,
+          1232
+        ]
+      ],
+      "score": 0.9703649282455444,
+      "y_pos": 1048,
+      "text": "Vậy chỉ còn căn cứ vào tượng mạch mà xét xem mạch đó\ncó phải là mạch huyền hay mạch thực hay chỉ là sác thuần túy\nthôi.",
+      "confidence": 0.9972158099099787
+    },
+    {
+      "type": "text",
+      "img_path": "p0163_004_text.png",
+      "bbox": [
+        [
+          225,
+          1271
+        ],
+        [
+          1569,
+          1271
+        ],
+        [
+          1569,
+          1394
+        ],
+        [
+          225,
+          1394
+        ]
+      ],
+      "score": 0.9534792900085449,
+      "y_pos": 1271,
+      "text": "Nếu mạch ấy mà căng thẳng như dây cung, dây đàn thì\nđó là mạch huyền.",
+      "confidence": 0.9989373299488363
+    },
+    {
+      "type": "text",
+      "img_path": "p0163_007_text.png",
+      "bbox": [
+        [
+          344,
+          1431
+        ],
+        [
+          1495,
+          1431
+        ],
+        [
+          1495,
+          1483
+        ],
+        [
+          344,
+          1483
+        ]
+      ],
+      "score": 0.8758289217948914,
+      "y_pos": 1431,
+      "text": "Nếu mach đó mà lớn, dài, bức bách thì đó mach thực.",
+      "confidence": 0.9995948649802298
+    },
+    {
+      "type": "text",
+      "img_path": "p0163_005_text.png",
+      "bbox": [
+        [
+          345,
+          1519
+        ],
+        [
+          1546,
+          1519
+        ],
+        [
+          1546,
+          1574
+        ],
+        [
+          345,
+          1574
+        ]
+      ],
+      "score": 0.889923632144928,
+      "y_pos": 1519,
+      "text": "Không phải hai hình tượng trên thì đó là mạch sác thuần túy.",
+      "confidence": 0.9998265264495727
+    },
+    {
+      "type": "number",
+      "img_path": "p0163_006_number.png",
+      "bbox": [
+        [
+          1535,
+          2225
+        ],
+        [
+          1610,
+          2225
+        ],
+        [
+          1610,
+          2267
+        ],
+        [
+          1535,
+          2267
+        ]
+      ],
+      "score": 0.8889510631561279,
+      "y_pos": 2225,
+      "text": "\n    \n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0163.png"
+}

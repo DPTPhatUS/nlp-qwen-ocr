@@ -1,0 +1,318 @@
+{
+  "page_num": 324,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0324_002_text.png",
+      "bbox": [
+        [
+          163,
+          305
+        ],
+        [
+          1510,
+          305
+        ],
+        [
+          1510,
+          496
+        ],
+        [
+          163,
+          496
+        ]
+      ],
+      "score": 0.9728769063949585,
+      "y_pos": 305,
+      "text": "trước khi lý giải về phương pháp chữa bệnh viêm mũi, viêm\nxoang tôi muốn nói một chút về nguyên lý cấu tạo và chức\nnăng của mũi và xoang.",
+      "confidence": 0.9979168700794676
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0324_005_paragraph_title.png",
+      "bbox": [
+        [
+          165,
+          521
+        ],
+        [
+          1435,
+          521
+        ],
+        [
+          1435,
+          583
+        ],
+        [
+          165,
+          583
+        ]
+      ],
+      "score": 0.9236446619033813,
+      "y_pos": 521,
+      "text": "I. CẤU TAO VÀ CHỨC NĂNG NHIÊM VU CỦA MŨI",
+      "confidence": 0.9880811784948621
+    },
+    {
+      "type": "text",
+      "img_path": "p0324_001_text.png",
+      "bbox": [
+        [
+          164,
+          619
+        ],
+        [
+          1513,
+          619
+        ],
+        [
+          1513,
+          946
+        ],
+        [
+          164,
+          946
+        ]
+      ],
+      "score": 0.9822068214416504,
+      "y_pos": 619,
+      "text": "Mũi là một bộ phận thuộc hệ thống hô hấp. Cấu tạo bởi các\nvách xương sụn mà bên trong được bao bởi lớp niêm mạc rất\nmỏng, nhay cảm. Với mắt thường chúng ta không thấy cấu trúc gì\nphức tạp chỉ có vậy thôi nhưng mũi đã \"thầm lặng\" hoàn thành\nđược những nhiệm vụ rất quan trọng.",
+      "confidence": 0.9995583346969097
+    },
+    {
+      "type": "text",
+      "img_path": "p0324_009_text.png",
+      "bbox": [
+        [
+          285,
+          984
+        ],
+        [
+          1010,
+          984
+        ],
+        [
+          1010,
+          1035
+        ],
+        [
+          285,
+          1035
+        ]
+      ],
+      "score": 0.8994125723838806,
+      "y_pos": 984,
+      "text": "- Thực hiện chức năng khứu giác.",
+      "confidence": 0.9981733981300803
+    },
+    {
+      "type": "text",
+      "img_path": "p0324_007_text.png",
+      "bbox": [
+        [
+          285,
+          1070
+        ],
+        [
+          1412,
+          1070
+        ],
+        [
+          1412,
+          1124
+        ],
+        [
+          285,
+          1124
+        ]
+      ],
+      "score": 0.9005588889122009,
+      "y_pos": 1070,
+      "text": "- Cản bụi từ ngoài vào bằng hàng rào chắn (lông mũi).",
+      "confidence": 0.9971694166010077
+    },
+    {
+      "type": "text",
+      "img_path": "p0324_008_text.png",
+      "bbox": [
+        [
+          285,
+          1158
+        ],
+        [
+          1435,
+          1158
+        ],
+        [
+          1435,
+          1212
+        ],
+        [
+          285,
+          1212
+        ]
+      ],
+      "score": 0.8997688293457031,
+      "y_pos": 1158,
+      "text": "- Phản xạ hắt hơi nhảy mũi đẩy dị vật hoặc hơi độc ra ngoài.",
+      "confidence": 0.996369561841411
+    },
+    {
+      "type": "text",
+      "img_path": "p0324_010_text.png",
+      "bbox": [
+        [
+          285,
+          1249
+        ],
+        [
+          1418,
+          1249
+        ],
+        [
+          1418,
+          1302
+        ],
+        [
+          285,
+          1302
+        ]
+      ],
+      "score": 0.8931760787963867,
+      "y_pos": 1249,
+      "text": "- Góp phần tạo ra âm thanh của tiếng nói và giọng ca...",
+      "confidence": 0.993105996073338
+    },
+    {
+      "type": "text",
+      "img_path": "p0324_003_text.png",
+      "bbox": [
+        [
+          165,
+          1337
+        ],
+        [
+          1512,
+          1337
+        ],
+        [
+          1512,
+          1459
+        ],
+        [
+          165,
+          1459
+        ]
+      ],
+      "score": 0.9595252275466919,
+      "y_pos": 1337,
+      "text": "- Đặc biệt là mũi đã thực hiện hoàn hảo chức năng điều hòa\nnhiệt độ rất nhanh chóng và nhạy cảm để bảo vệ phổi.",
+      "confidence": 0.9890022494174816
+    },
+    {
+      "type": "text",
+      "img_path": "p0324_000_text.png",
+      "bbox": [
+        [
+          164,
+          1494
+        ],
+        [
+          1512,
+          1494
+        ],
+        [
+          1512,
+          1823
+        ],
+        [
+          164,
+          1823
+        ]
+      ],
+      "score": 0.9823527932167053,
+      "y_pos": 1494,
+      "text": "Do chức năng nhiệm vụ nặng nề như trên nên mũi rất dễ\nlâm vào tình trạng \"quá tải\" khi thường xuyên phải chống trải\nvới môi trường khắc nghiệt. Bụi bặm, nóng, lạnh, có vi trùng mà\nmũi không được bảo vệ tốt thì sẽ bị bệnh nhiễm trùng gây việm\nvà giảm dần chức năng, nhiệm vụ.",
+      "confidence": 0.9980508028053932
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0324_006_paragraph_title.png",
+      "bbox": [
+        [
+          165,
+          1850
+        ],
+        [
+          1220,
+          1850
+        ],
+        [
+          1220,
+          1906
+        ],
+        [
+          165,
+          1906
+        ]
+      ],
+      "score": 0.9174439311027527,
+      "y_pos": 1850,
+      "text": "II. CÁC BÊNH THƯỜNG XẨY RA VỚI MŨI",
+      "confidence": 0.9939612133635415
+    },
+    {
+      "type": "text",
+      "img_path": "p0324_004_text.png",
+      "bbox": [
+        [
+          166,
+          1951
+        ],
+        [
+          1510,
+          1951
+        ],
+        [
+          1510,
+          2070
+        ],
+        [
+          166,
+          2070
+        ]
+      ],
+      "score": 0.9527636766433716,
+      "y_pos": 1951,
+      "text": "1. Bệnh hẹp vách ngăn: Vách ngăn là ba mảng sụn\n(xương bã mía) phân chia mũi thành hai ngách. Khi vách",
+      "confidence": 0.8540264972466596
+    },
+    {
+      "type": "number",
+      "img_path": "p0324_011_number.png",
+      "bbox": [
+        [
+          173,
+          2224
+        ],
+        [
+          256,
+          2224
+        ],
+        [
+          256,
+          2267
+        ],
+        [
+          173,
+          2267
+        ]
+      ],
+      "score": 0.8769866824150085,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0324.png"
+}

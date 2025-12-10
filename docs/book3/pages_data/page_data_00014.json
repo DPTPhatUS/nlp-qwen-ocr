@@ -1,0 +1,160 @@
+{
+  "page_num": 14,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0014_001_text.png",
+      "bbox": [
+        [
+          164,
+          305
+        ],
+        [
+          1510,
+          305
+        ],
+        [
+          1510,
+          761
+        ],
+        [
+          164,
+          761
+        ]
+      ],
+      "score": 0.98200523853302,
+      "y_pos": 305,
+      "text": "dương có âm (âm, dương nương tựa lẫn nhau cùng tồn tại, có\nkhi xen kẽ vào nhau trong sự phát triển). Ví dụ như sự phân\nchia thời gian trong 1 ngày (24 giờ), ban ngày thuộc dương từ\n6 giờ đến 12 giờ là phần dương của dương, từ 12 giờ đến 18\ngiờ là phần âm của dương, ban đêm thuộc âm từ 18 giờ đến\n24 giờ là phần âm của âm, từ 0 giờ đến 6 giờ là phần dương\ncủa âm.",
+      "confidence": 0.9950899381346913
+    },
+    {
+      "type": "text",
+      "img_path": "p0014_000_text.png",
+      "bbox": [
+        [
+          165,
+          802
+        ],
+        [
+          1511,
+          802
+        ],
+        [
+          1511,
+          1466
+        ],
+        [
+          165,
+          1466
+        ]
+      ],
+      "score": 0.9845104813575745,
+      "y_pos": 802,
+      "text": "Kết luận: Sự mâu thuẫn thống nhất bên trong sự vật là\nđộng lực phát triển biến hóa của âm dương theo một quy luật\nnhất định (hết thịnh lại suy, hết suy lại thịnh, âm cực sinh\ndương, dương cực sinh âm...). Mặt đối lập này chuyển thành\nmặt đối lập kia. Quy luật này được diễn tả bằng hình đồ người\nxưa tạo ra và đặt tên cho nó là hình đồ thái cực. Đó là một\nhình tròn có hai hình cong hai màu (sáng và tối chia diện tích\nlàm 2 phần bằng nhau, một phần là âm, một phần là dương.\nTrong phần âm có nhân dương và trong phần dương có nhân\nâm).",
+      "confidence": 0.9930161392744752
+    },
+    {
+      "type": "text",
+      "img_path": "p0014_004_text.png",
+      "bbox": [
+        [
+          166,
+          1502
+        ],
+        [
+          1510,
+          1502
+        ],
+        [
+          1510,
+          1625
+        ],
+        [
+          166,
+          1625
+        ]
+      ],
+      "score": 0.9376834630966187,
+      "y_pos": 1502,
+      "text": "Đó là một hình đồ duy nhất diễn tả quy luật biến hóa\ncủa âm dương",
+      "confidence": 0.9882686686894251
+    },
+    {
+      "type": "text",
+      "img_path": "p0014_002_text.png",
+      "bbox": [
+        [
+          226,
+          1707
+        ],
+        [
+          1001,
+          1707
+        ],
+        [
+          1001,
+          2122
+        ],
+        [
+          226,
+          2122
+        ]
+      ],
+      "score": 0.9792959690093994,
+      "y_pos": 1707,
+      "text": "Màu trắng biểu thị dương. Màu\nđen biểu thị âm. Trong dương có\nâm, trong âm có dương. Dương\nphát triển từ dưới hướng lên trên.\nÂm phát triển từ trên hướng\nxuống dưới",
+      "confidence": 0.9958405051962331
+    },
+    {
+      "type": "image",
+      "img_path": "p0014_003_image.png",
+      "bbox": [
+        [
+          1064,
+          1718
+        ],
+        [
+          1465,
+          1718
+        ],
+        [
+          1465,
+          2113
+        ],
+        [
+          1064,
+          2113
+        ]
+      ],
+      "score": 0.9613611698150635,
+      "y_pos": 1718
+    },
+    {
+      "type": "number",
+      "img_path": "p0014_005_number.png",
+      "bbox": [
+        [
+          179,
+          2226
+        ],
+        [
+          229,
+          2226
+        ],
+        [
+          229,
+          2266
+        ],
+        [
+          179,
+          2266
+        ]
+      ],
+      "score": 0.8591585755348206,
+      "y_pos": 2226,
+      "text": "    \n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0014.png"
+}

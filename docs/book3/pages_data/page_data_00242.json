@@ -1,0 +1,344 @@
+{
+  "page_num": 242,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0242_003_text.png",
+      "bbox": [
+        [
+          286,
+          306
+        ],
+        [
+          977,
+          306
+        ],
+        [
+          977,
+          356
+        ],
+        [
+          286,
+          356
+        ]
+      ],
+      "score": 0.8973913788795471,
+      "y_pos": 306,
+      "text": "- Tới 512 ngày đủ \"bát chưng\".",
+      "confidence": 0.9961439743638039
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_001_text.png",
+      "bbox": [
+        [
+          165,
+          394
+        ],
+        [
+          1509,
+          394
+        ],
+        [
+          1509,
+          714
+        ],
+        [
+          165,
+          714
+        ]
+      ],
+      "score": 0.9837437272071838,
+      "y_pos": 394,
+      "text": "Trong lịch biến chưng không nói đến Tâm bào và Tam\nTiêu bởi 2 kinh ấy không có hình thể riêng nên không có Biến\nvà không có chưng. Trong thời gian biến chưng mỗi khi biến\nhay chưng là mỗi lần thay đổi khí huyết xương thit để lớn lên\nvà khôn biết hơn.",
+      "confidence": 0.9964400605793674
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_000_text.png",
+      "bbox": [
+        [
+          164,
+          754
+        ],
+        [
+          1510,
+          754
+        ],
+        [
+          1510,
+          1149
+        ],
+        [
+          164,
+          1149
+        ]
+      ],
+      "score": 0.9853943586349487,
+      "y_pos": 754,
+      "text": "Mỗi khi biến, mỗi khi chưng em nào bẩm thụ Tiên Thiên\nhữu dư thì chỉ hơi nóng mình, em nào biểu lộ Tiên thiên Bất\nTúc thì nóng mình, ói mửa, ía chảy, quấy khóc. Có khi nặng,\ncó khi nhẹ bình tĩnh nuôi dưỡng không sao cả chớ có hấp tấp\nchạy thuốc, nếu thuốc có sai lầm lại sinh bệnh lớn, nếu muốn\ncho uống thuốc, chỉ nên cho uống thuốc bình hòa là duy nhất.",
+      "confidence": 0.9949540792024091
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_006_text.png",
+      "bbox": [
+        [
+          318,
+          1185
+        ],
+        [
+          856,
+          1185
+        ],
+        [
+          856,
+          1235
+        ],
+        [
+          318,
+          1235
+        ]
+      ],
+      "score": 0.7521664500236511,
+      "y_pos": 1185,
+      "text": "Bài thuốc cu thể như sau",
+      "confidence": 0.9959206466491406
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0242_012_paragraph_title.png",
+      "bbox": [
+        [
+          468,
+          1272
+        ],
+        [
+          833,
+          1272
+        ],
+        [
+          833,
+          1324
+        ],
+        [
+          468,
+          1324
+        ]
+      ],
+      "score": 0.528776228427887,
+      "y_pos": 1272,
+      "text": "Bình hòa ẩm tử",
+      "confidence": 0.9773948714137077
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_011_text.png",
+      "bbox": [
+        [
+          468,
+          1366
+        ],
+        [
+          994,
+          1366
+        ],
+        [
+          994,
+          1417
+        ],
+        [
+          468,
+          1417
+        ]
+      ],
+      "score": 0.5633501410484314,
+      "y_pos": 1366,
+      "text": "Bach Linh",
+      "confidence": 0.9682143384760077
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_010_text.png",
+      "bbox": [
+        [
+          468,
+          1455
+        ],
+        [
+          992,
+          1455
+        ],
+        [
+          992,
+          1507
+        ],
+        [
+          468,
+          1507
+        ]
+      ],
+      "score": 0.5723709464073181,
+      "y_pos": 1455,
+      "text": "Sa sâm    2 g",
+      "confidence": 0.9539479933679104
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_008_text.png",
+      "bbox": [
+        [
+          468,
+          1543
+        ],
+        [
+          994,
+          1543
+        ],
+        [
+          994,
+          1596
+        ],
+        [
+          468,
+          1596
+        ]
+      ],
+      "score": 0.5923881530761719,
+      "y_pos": 1543,
+      "text": "Cam thảo",
+      "confidence": 0.9525871813297272
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_007_text.png",
+      "bbox": [
+        [
+          468,
+          1633
+        ],
+        [
+          1060,
+          1633
+        ],
+        [
+          1060,
+          1685
+        ],
+        [
+          468,
+          1685
+        ]
+      ],
+      "score": 0.6036851406097412,
+      "y_pos": 1633,
+      "text": "Thăng ma    0,25 g",
+      "confidence": 0.9300578859117296
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_009_text.png",
+      "bbox": [
+        [
+          470,
+          1723
+        ],
+        [
+          994,
+          1723
+        ],
+        [
+          994,
+          1774
+        ],
+        [
+          470,
+          1774
+        ]
+      ],
+      "score": 0.5824064612388611,
+      "y_pos": 1723,
+      "text": "Bach thuât    4 g",
+      "confidence": 0.9419648493329684
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_002_text.png",
+      "bbox": [
+        [
+          165,
+          1807
+        ],
+        [
+          1506,
+          1807
+        ],
+        [
+          1506,
+          1925
+        ],
+        [
+          165,
+          1925
+        ]
+      ],
+      "score": 0.9618678092956543,
+      "y_pos": 1807,
+      "text": "Sắc nước uống khi Biến chưng. Tác dụng: khỏe mạnh và điều\nhòa thân thể.",
+      "confidence": 0.9935077944717838
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0242_005_paragraph_title.png",
+      "bbox": [
+        [
+          315,
+          1968
+        ],
+        [
+          852,
+          1968
+        ],
+        [
+          852,
+          2020
+        ],
+        [
+          315,
+          2020
+        ]
+      ],
+      "score": 0.8853110074996948,
+      "y_pos": 1968,
+      "text": "2. Dấu hiệu biến chứng",
+      "confidence": 0.9979835549990336
+    },
+    {
+      "type": "number",
+      "img_path": "p0242_004_number.png",
+      "bbox": [
+        [
+          173,
+          2224
+        ],
+        [
+          256,
+          2224
+        ],
+        [
+          256,
+          2266
+        ],
+        [
+          173,
+          2266
+        ]
+      ],
+      "score": 0.8879395127296448,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0242.png"
+}

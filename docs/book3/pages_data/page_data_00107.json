@@ -1,0 +1,292 @@
+{
+  "page_num": 107,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0107_010_header.png",
+      "bbox": [
+        [
+          228,
+          0
+        ],
+        [
+          750,
+          0
+        ],
+        [
+          750,
+          96
+        ],
+        [
+          228,
+          96
+        ]
+      ],
+      "score": 0.6570324301719666,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.966362578043571
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_005_text.png",
+      "bbox": [
+        [
+          223,
+          305
+        ],
+        [
+          1570,
+          305
+        ],
+        [
+          1570,
+          424
+        ],
+        [
+          223,
+          424
+        ]
+      ],
+      "score": 0.957240641117096,
+      "y_pos": 305,
+      "text": "khắc nó qua ngày đó mà không tử vong thì sẽ kéo dài ở ngày\ncó can thuộc hành sinh ra nó.",
+      "confidence": 0.9934973734681325
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_002_text.png",
+      "bbox": [
+        [
+          224,
+          455
+        ],
+        [
+          1571,
+          455
+        ],
+        [
+          1571,
+          643
+        ],
+        [
+          224,
+          643
+        ]
+      ],
+      "score": 0.9695264101028442,
+      "y_pos": 455,
+      "text": "Đặc biệt với ngày thì trong khoảng thời gian đó mà gặp\nngày vượng theo mỗi hành thì có tính chất quyết định của sự\nkhỏi bệnh hoặc tử vong.",
+      "confidence": 0.9847136712334846
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_003_text.png",
+      "bbox": [
+        [
+          224,
+          669
+        ],
+        [
+          1569,
+          669
+        ],
+        [
+          1569,
+          858
+        ],
+        [
+          224,
+          858
+        ]
+      ],
+      "score": 0.9692792892456055,
+      "y_pos": 669,
+      "text": "(Dựa theo ngũ hổ độn và ngũ thử độn để tính can của\ntháng và giờ, đối với can của ngày thì không có quy luật công\nthức tính mà phải dò theo lịch).",
+      "confidence": 0.9987919053606432
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0107_007_paragraph_title.png",
+      "bbox": [
+        [
+          334,
+          894
+        ],
+        [
+          619,
+          894
+        ],
+        [
+          619,
+          942
+        ],
+        [
+          334,
+          942
+        ]
+      ],
+      "score": 0.9021199941635132,
+      "y_pos": 894,
+      "text": "1. Tang tâm",
+      "confidence": 0.7456621619371268
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_001_text.png",
+      "bbox": [
+        [
+          224,
+          968
+        ],
+        [
+          1570,
+          968
+        ],
+        [
+          1570,
+          1293
+        ],
+        [
+          224,
+          1293
+        ]
+      ],
+      "score": 0.9820871353149414,
+      "y_pos": 968,
+      "text": "Tâm chủ về mùa ha, nếu căn cứ vào mùa mà luận thì\nbệnh của tâm dễ khỏi ở mùa trưởng hạ (cuối hạ - đầu thu) nếu\nmùa trưởng hạ mà không khỏi thì sẽ nặng ở mùa đông, nếu\nmùa đông không chết, sẽ kéo dài ở mùa xuân rồi trỗi dây ở\nmùa ha.",
+      "confidence": 0.9958928221191232
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_000_text.png",
+      "bbox": [
+        [
+          222,
+          1324
+        ],
+        [
+          1568,
+          1324
+        ],
+        [
+          1568,
+          1778
+        ],
+        [
+          222,
+          1778
+        ]
+      ],
+      "score": 0.9858201742172241,
+      "y_pos": 1324,
+      "text": "- Nếu căn cứ vào ngày thiên can mà luận thì bệnh tâm\ngặp ngày mậu, ngày kỷ là ngày có cơ hội dễ khỏi nhất, và\nquyết định ở ngày Kỷ mão (thành đầu thổ), nếu qua những\nngày trên không khỏi thì bệnh sẽ tăng lên ở ngày nhâm, ngày\nquý và quyết định tử vong hay không ở ngày Quý hợi (đại hải\nthủy) nếu qua được ngày đó thì bệnh kéo dài trở lại chu kỳ\nđầu.",
+      "confidence": 0.9969945421615006
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_006_text.png",
+      "bbox": [
+        [
+          225,
+          1811
+        ],
+        [
+          1569,
+          1811
+        ],
+        [
+          1569,
+          1936
+        ],
+        [
+          225,
+          1936
+        ]
+      ],
+      "score": 0.9570571780204773,
+      "y_pos": 1811,
+      "text": "- Nếu lấy thời gian trong một ngày mà luận thì bệnh tâm\nsáng sớm bình thường, giữa trưa khỏe, nửa đêm nặng.",
+      "confidence": 0.9991058130526298
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0107_008_paragraph_title.png",
+      "bbox": [
+        [
+          332,
+          1966
+        ],
+        [
+          609,
+          1966
+        ],
+        [
+          609,
+          2014
+        ],
+        [
+          332,
+          2014
+        ]
+      ],
+      "score": 0.9004493951797485,
+      "y_pos": 1966,
+      "text": "2. Tang can",
+      "confidence": 0.847906429034013
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_004_text.png",
+      "bbox": [
+        [
+          225,
+          2043
+        ],
+        [
+          1572,
+          2043
+        ],
+        [
+          1572,
+          2164
+        ],
+        [
+          225,
+          2164
+        ]
+      ],
+      "score": 0.9575173258781433,
+      "y_pos": 2043,
+      "text": "Can chủ về mùa xuân, nếu lấy mùa mà luận thì bệnh\nthuộc tạng can dễ khỏi vào mùa hạ. Nếu mùa hạ không khỏi",
+      "confidence": 0.9982594006403303
+    },
+    {
+      "type": "number",
+      "img_path": "p0107_009_number.png",
+      "bbox": [
+        [
+          1535,
+          2225
+        ],
+        [
+          1611,
+          2225
+        ],
+        [
+          1611,
+          2267
+        ],
+        [
+          1535,
+          2267
+        ]
+      ],
+      "score": 0.8870986700057983,
+      "y_pos": 2225,
+      "text": "    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0107.png"
+}

@@ -1,0 +1,240 @@
+{
+  "page_num": 42,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0042_002_text.png",
+      "bbox": [
+        [
+          164,
+          304
+        ],
+        [
+          1511,
+          304
+        ],
+        [
+          1511,
+          491
+        ],
+        [
+          164,
+          491
+        ]
+      ],
+      "score": 0.9661574363708496,
+      "y_pos": 304,
+      "text": "kinh thiếu dương, ở đỉnh đầu là quyết âm, hoặc ù tai có váng\nđầu ở một bên, miệng đắng là bệnh ở kinh đởm, nếu đau lưng,\ndi tinh là thuộc kinh thân.",
+      "confidence": 0.9974712184946698
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0042_006_paragraph_title.png",
+      "bbox": [
+        [
+          299,
+          538
+        ],
+        [
+          1093,
+          538
+        ],
+        [
+          1093,
+          591
+        ],
+        [
+          299,
+          591
+        ]
+      ],
+      "score": 0.9096701741218567,
+      "y_pos": 538,
+      "text": "Lý giải tên gọi của các đường kinh",
+      "confidence": 0.9904289311832852
+    },
+    {
+      "type": "text",
+      "img_path": "p0042_000_text.png",
+      "bbox": [
+        [
+          164,
+          629
+        ],
+        [
+          1511,
+          629
+        ],
+        [
+          1511,
+          1229
+        ],
+        [
+          164,
+          1229
+        ]
+      ],
+      "score": 0.9865666031837463,
+      "y_pos": 629,
+      "text": "Khi nghiên cứu tới kinh lạc chúng ta nhận được một số\ntên gọi cho các kinh tạng, các phủ như: Thủ thiếu âm tâm, túc\nthiếu âm thận... Chúng ta thấy rằng tâm ở thượng tiêu mang\nchữ thủ, thận ở hạ tiêu mang chữ túc. Đó là điều dễ hiểu, dễ\nnhận thấy trong tên gọi của kinh tạng. Nhưng tâm là hỏa, thận\nlà thủy một sự tương khắc và trái ngược rõ ràng mà sao tâm\nvà thận cùng mang tên kèm là thiếu âm? Và còn tất cả các\ntên gọi của các tạng, các phủ khác có ẩn ý gì không? Hay chỉ\nlà do người xưa tư áp đặt.",
+      "confidence": 0.9981986147964519
+    },
+    {
+      "type": "text",
+      "img_path": "p0042_001_text.png",
+      "bbox": [
+        [
+          165,
+          1267
+        ],
+        [
+          1509,
+          1267
+        ],
+        [
+          1509,
+          1594
+        ],
+        [
+          165,
+          1594
+        ]
+      ],
+      "score": 0.981704592704773,
+      "y_pos": 1267,
+      "text": "Qua nghiên cứu về lý thuyết của y học Đông phương đã\nsáng tổ một điều là không phải người xưa áp đặt các tên gọi\ncho các kinh tạng mà tên gọi có mang ý nghĩa, chức năng cụ\nthể của tạng phủ. Chúng ta lần lượt nghiên cứu từng kinh\ntạng, kinh phủ với tên gọi của nó.",
+      "confidence": 0.9676267072915122
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0042_007_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          1635
+        ],
+        [
+          790,
+          1635
+        ],
+        [
+          790,
+          1681
+        ],
+        [
+          283,
+          1681
+        ]
+      ],
+      "score": 0.9075695276260376,
+      "y_pos": 1635,
+      "text": "4.1. Túc thiếu âm thân",
+      "confidence": 0.9757028048237165
+    },
+    {
+      "type": "text",
+      "img_path": "p0042_005_text.png",
+      "bbox": [
+        [
+          166,
+          1725
+        ],
+        [
+          1512,
+          1725
+        ],
+        [
+          1512,
+          1849
+        ],
+        [
+          166,
+          1849
+        ]
+      ],
+      "score": 0.9533624053001404,
+      "y_pos": 1725,
+      "text": "Các tạng đều mang chữ âm các phủ đều mang chữ\ndương vì tạng thuộc âm, phủ thuộc dương.",
+      "confidence": 0.9906923848958242
+    },
+    {
+      "type": "text",
+      "img_path": "p0042_003_text.png",
+      "bbox": [
+        [
+          166,
+          1888
+        ],
+        [
+          1510,
+          1888
+        ],
+        [
+          1510,
+          2008
+        ],
+        [
+          166,
+          2008
+        ]
+      ],
+      "score": 0.9550536870956421,
+      "y_pos": 1888,
+      "text": "Tạng thận mang chữ túc vì thận ở hạ tiêu nhưng tại sao\ngọi là thiếu âm thận?",
+      "confidence": 0.995533149226667
+    },
+    {
+      "type": "text",
+      "img_path": "p0042_004_text.png",
+      "bbox": [
+        [
+          166,
+          2049
+        ],
+        [
+          1510,
+          2049
+        ],
+        [
+          1510,
+          2172
+        ],
+        [
+          166,
+          2172
+        ]
+      ],
+      "score": 0.9547734260559082,
+      "y_pos": 2049,
+      "text": "- Bởi vì những nhân tố mà thận chủ quản trong đó có\nthủy khí nên người ta mới gọi là thận tàng tinh và thận chủ",
+      "confidence": 0.9991979046462307
+    },
+    {
+      "type": "number",
+      "img_path": "p0042_008_number.png",
+      "bbox": [
+        [
+          172,
+          2226
+        ],
+        [
+          228,
+          2226
+        ],
+        [
+          228,
+          2266
+        ],
+        [
+          172,
+          2266
+        ]
+      ],
+      "score": 0.8604170680046082,
+      "y_pos": 2226,
+      "text": "\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0042.png"
+}

@@ -1,0 +1,84 @@
+{
+  "page_num": 276,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0276_002_text.png",
+      "bbox": [
+        [
+          168,
+          301
+        ],
+        [
+          670,
+          301
+        ],
+        [
+          670,
+          810
+        ],
+        [
+          168,
+          810
+        ]
+      ],
+      "score": 0.5438141822814941,
+      "y_pos": 301,
+      "text": "Bi (buồn rầu quá nỗi)\nHoàng kỳ    6 -12gr\nHoàng liên    4 - 8gr\nHoàng tinh    8 -20gr\nMạch môn    6 -12gr\nSa sâm    8 -16gr\nXương bồ    6 -12gr\nĐăng tâm    2 - 4gr\nChu sa    0,2 -0,5gr",
+      "confidence": 0.9476551267276877
+    },
+    {
+      "type": "text",
+      "img_path": "p0276_001_text.png",
+      "bbox": [
+        [
+          170,
+          1429
+        ],
+        [
+          923,
+          1429
+        ],
+        [
+          923,
+          1981
+        ],
+        [
+          170,
+          1981
+        ]
+      ],
+      "score": 0.5927836298942566,
+      "y_pos": 1429,
+      "text": "Nộ (uất ức quá độ)\nKỷ tử    6 - 12gr\n<b>Đương</b> quy    8 - 16gr\nHà thủ ô    8 - 16gr\nBách bộ    8 - 16gr\nNgũ vị tử    0,5 - 3gr\nBac hà    6 - 12gr\nNgưu tất    8 - 16gr\nMẫu lê    12 - 20gr\nBach thược    6 - 16gr",
+      "confidence": 0.9500254525200716
+    },
+    {
+      "type": "number",
+      "img_path": "p0276_000_number.png",
+      "bbox": [
+        [
+          174,
+          2225
+        ],
+        [
+          257,
+          2225
+        ],
+        [
+          257,
+          2267
+        ],
+        [
+          174,
+          2267
+        ]
+      ],
+      "score": 0.9314895272254944,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0276.png"
+}

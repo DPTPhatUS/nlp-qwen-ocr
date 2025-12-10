@@ -1,0 +1,292 @@
+{
+  "page_num": 193,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0193_010_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          751,
+          0
+        ],
+        [
+          751,
+          96
+        ],
+        [
+          227,
+          96
+        ]
+      ],
+      "score": 0.5767197012901306,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.96442627457472
+    },
+    {
+      "type": "text",
+      "img_path": "p0193_006_text.png",
+      "bbox": [
+        [
+          224,
+          304
+        ],
+        [
+          1571,
+          304
+        ],
+        [
+          1571,
+          426
+        ],
+        [
+          224,
+          426
+        ]
+      ],
+      "score": 0.9592722058296204,
+      "y_pos": 304,
+      "text": "- Mạch Trầm tế là khí suy huyết kiệt (gây động thai vì\nkhông đủ sinh lực).",
+      "confidence": 0.9835129555846964
+    },
+    {
+      "type": "text",
+      "img_path": "p0193_005_text.png",
+      "bbox": [
+        [
+          224,
+          452
+        ],
+        [
+          1568,
+          452
+        ],
+        [
+          1568,
+          572
+        ],
+        [
+          224,
+          572
+        ]
+      ],
+      "score": 0.959380567073822,
+      "y_pos": 452,
+      "text": "- Tả thốn và Tả xích mạch Vi hoặc Khẩn là thiếu máu.\nThai không bảo tồn.",
+      "confidence": 0.9951985951453921
+    },
+    {
+      "type": "text",
+      "img_path": "p0193_002_text.png",
+      "bbox": [
+        [
+          224,
+          609
+        ],
+        [
+          1572,
+          609
+        ],
+        [
+          1572,
+          801
+        ],
+        [
+          224,
+          801
+        ]
+      ],
+      "score": 0.9712457656860352,
+      "y_pos": 609,
+      "text": "- Thai 6 đến 7 tháng mạch thấy đi huyền mà phát nóng,\nsơ lanh, bào thai trồi lên bụng trên, bụng dưới thì bành ra như\ncái quạt, đó là động thai do tạng khí bế tắc.",
+      "confidence": 0.8647420385347049
+    },
+    {
+      "type": "text",
+      "img_path": "p0193_001_text.png",
+      "bbox": [
+        [
+          223,
+          835
+        ],
+        [
+          1570,
+          835
+        ],
+        [
+          1570,
+          1027
+        ],
+        [
+          223,
+          1027
+        ]
+      ],
+      "score": 0.9730095267295837,
+      "y_pos": 835,
+      "text": "+ Trong các trường hợp động thai thấy có ra huyết mà\nkhông đau bụng là động thai nhẹ, nếu có ra huyết mà đau\nbụng là động thai nặng.",
+      "confidence": 0.9957833548061564
+    },
+    {
+      "type": "text",
+      "img_path": "p0193_007_text.png",
+      "bbox": [
+        [
+          224,
+          1057
+        ],
+        [
+          1571,
+          1057
+        ],
+        [
+          1571,
+          1181
+        ],
+        [
+          224,
+          1181
+        ]
+      ],
+      "score": 0.9557815790176392,
+      "y_pos": 1057,
+      "text": "+ Khi động thai mà phần dưới rốn (Đan điền) thấy ấm\nbình thường thì dễ chữa, nếu thấy lạnh quá thì khó chữa lắm.",
+      "confidence": 0.9970718256435377
+    },
+    {
+      "type": "text",
+      "img_path": "p0193_004_text.png",
+      "bbox": [
+        [
+          223,
+          1216
+        ],
+        [
+          1571,
+          1216
+        ],
+        [
+          1571,
+          1407
+        ],
+        [
+          223,
+          1407
+        ]
+      ],
+      "score": 0.9693477153778076,
+      "y_pos": 1216,
+      "text": "+ Khi động thai mà ra huyết, mạch đi khổng hoặc\nĐộng mà sắc môi của bà mẹ xuất hiện màu xanh thì không\ncứu được mẹ (con sống).",
+      "confidence": 0.9972159912269941
+    },
+    {
+      "type": "text",
+      "img_path": "p0193_003_text.png",
+      "bbox": [
+        [
+          223,
+          1443
+        ],
+        [
+          1569,
+          1443
+        ],
+        [
+          1569,
+          1631
+        ],
+        [
+          223,
+          1631
+        ]
+      ],
+      "score": 0.9710685610771179,
+      "y_pos": 1443,
+      "text": "Nếu lưỡi người mẹ xuất hiện màu xanh thì không cứu\nđược thai và có khả năng cứu được mẹ, cả môi và lưỡi có màu\nxanh thì mẹ lẫn thai đều không cứu được.",
+      "confidence": 0.9806978664405662
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0193_008_paragraph_title.png",
+      "bbox": [
+        [
+          372,
+          1669
+        ],
+        [
+          1473,
+          1669
+        ],
+        [
+          1473,
+          1721
+        ],
+        [
+          372,
+          1721
+        ]
+      ],
+      "score": 0.9219089150428772,
+      "y_pos": 1669,
+      "text": "2.2. Xem mạch để phân biệt sinh trai hay sinh gái",
+      "confidence": 0.986068020848667
+    },
+    {
+      "type": "text",
+      "img_path": "p0193_000_text.png",
+      "bbox": [
+        [
+          223,
+          1758
+        ],
+        [
+          1570,
+          1758
+        ],
+        [
+          1570,
+          2155
+        ],
+        [
+          223,
+          2155
+        ]
+      ],
+      "score": 0.984403133392334,
+      "y_pos": 1758,
+      "text": "Việc sinh trai hay gái thì có biết trước vài tháng cũng\nchả làm gì để thay đổi theo ý muốn và cũng chẳng có gì giúp\ních hơn nhưng vì nôn nóng với kết quả hoặc do tính hiếu kỳ\nmà người ta cứ muốn biết trước điều đó. Sau những cuộc cãi\nvui, sau những lần \"cá độ\" để phần nào thỏa mãn tâm lý\nngười ta dẫn đến thầy thuốc để xin lời phán xét. Được sự trân",
+      "confidence": 0.9973680256243221
+    },
+    {
+      "type": "number",
+      "img_path": "p0193_009_number.png",
+      "bbox": [
+        [
+          1535,
+          2225
+        ],
+        [
+          1610,
+          2225
+        ],
+        [
+          1610,
+          2267
+        ],
+        [
+          1535,
+          2267
+        ]
+      ],
+      "score": 0.8898328542709351,
+      "y_pos": 2225,
+      "text": "\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0193.png"
+}

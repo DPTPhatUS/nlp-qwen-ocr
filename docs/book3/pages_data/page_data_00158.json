@@ -1,0 +1,344 @@
+{
+  "page_num": 158,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0158_004_text.png",
+      "bbox": [
+        [
+          166,
+          309
+        ],
+        [
+          1512,
+          309
+        ],
+        [
+          1512,
+          428
+        ],
+        [
+          166,
+          428
+        ]
+      ],
+      "score": 0.9515068531036377,
+      "y_pos": 309,
+      "text": "1. Hệ thống mạch theo bát cương (âm, dương, hàn,\nnhiệt, hư, thực, biểu, lý).",
+      "confidence": 0.9241351951196276
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_002_text.png",
+      "bbox": [
+        [
+          166,
+          460
+        ],
+        [
+          1512,
+          460
+        ],
+        [
+          1512,
+          577
+        ],
+        [
+          166,
+          577
+        ]
+      ],
+      "score": 0.9539752006530762,
+      "y_pos": 460,
+      "text": "2. Hệ thống mạch theo lục khí (phong, hàn, thử, thấp,\ntáo, hỏa).",
+      "confidence": 0.9302037409309185
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_012_text.png",
+      "bbox": [
+        [
+          315,
+          610
+        ],
+        [
+          1414,
+          610
+        ],
+        [
+          1414,
+          663
+        ],
+        [
+          315,
+          663
+        ]
+      ],
+      "score": 0.7000777721405029,
+      "y_pos": 610,
+      "text": "3. Hệ thống mạch theo tứ tông (phù, trầm, trì, sác).",
+      "confidence": 0.904235616878227
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_000_text.png",
+      "bbox": [
+        [
+          165,
+          688
+        ],
+        [
+          1512,
+          688
+        ],
+        [
+          1512,
+          945
+        ],
+        [
+          165,
+          945
+        ]
+      ],
+      "score": 0.9776996374130249,
+      "y_pos": 688,
+      "text": "Qua việc hệ thống hóa đó, quả là rất dễ hiểu, rất dễ\ntiếp thu và rất dễ sử dụng. Trong 3 cách hệ thống hóa trên thì\nhay nhất là cách hệ thống, xếp nhóm theo tứ tông mạch (phù,\ntrầm, trì, sác).",
+      "confidence": 0.9962581843136327
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_011_text.png",
+      "bbox": [
+        [
+          316,
+          983
+        ],
+        [
+          990,
+          983
+        ],
+        [
+          990,
+          1036
+        ],
+        [
+          316,
+          1036
+        ]
+      ],
+      "score": 0.884396493434906,
+      "y_pos": 983,
+      "text": "Sự hệ thống đó cụ thể như sau:",
+      "confidence": 0.9967303406447172
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0158_009_paragraph_title.png",
+      "bbox": [
+        [
+          167,
+          1063
+        ],
+        [
+          1375,
+          1063
+        ],
+        [
+          1375,
+          1127
+        ],
+        [
+          167,
+          1127
+        ]
+      ],
+      "score": 0.8863928318023682,
+      "y_pos": 1063,
+      "text": "II. 27 MACH TONG OUY - PHU, TRAM, TRI, SAC",
+      "confidence": 0.8671674687754024
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_007_text.png",
+      "bbox": [
+        [
+          167,
+          1163
+        ],
+        [
+          1514,
+          1163
+        ],
+        [
+          1514,
+          1282
+        ],
+        [
+          167,
+          1282
+        ]
+      ],
+      "score": 0.9457245469093323,
+      "y_pos": 1163,
+      "text": "1. Có 5 loại mạch là: Khẩn, Khổng, Hồng, Trường, Đại\nthuộc về họ hàng nhà mạch Phù.",
+      "confidence": 0.9864506346897947
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_006_text.png",
+      "bbox": [
+        [
+          166,
+          1312
+        ],
+        [
+          1513,
+          1312
+        ],
+        [
+          1513,
+          1432
+        ],
+        [
+          166,
+          1432
+        ]
+      ],
+      "score": 0.9482799768447876,
+      "y_pos": 1312,
+      "text": "2. Có 7 loai mach là: Vi, Phuc, Hoat, Hư, Nhược, Tán,\nĐợi thuộc về họ hàng nhà mạch Trầm.",
+      "confidence": 0.9867475777791233
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_005_text.png",
+      "bbox": [
+        [
+          165,
+          1459
+        ],
+        [
+          1511,
+          1459
+        ],
+        [
+          1511,
+          1581
+        ],
+        [
+          165,
+          1581
+        ]
+      ],
+      "score": 0.9508724212646484,
+      "y_pos": 1459,
+      "text": "3. Có 7 loại mạch là: Tế, Nhu, Hoãn, Sắc, Kết, Đoản,\nĐộng thuộc họ hàng nhà mạch Trì.",
+      "confidence": 0.9868886508453385
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_003_text.png",
+      "bbox": [
+        [
+          165,
+          1609
+        ],
+        [
+          1512,
+          1609
+        ],
+        [
+          1512,
+          1729
+        ],
+        [
+          165,
+          1729
+        ]
+      ],
+      "score": 0.9524693489074707,
+      "y_pos": 1609,
+      "text": "4. Có 4 loại mạch là: Huyền, Thực, Súc, Cách thuộc về\nhọ hàng nhà mạch Sác.",
+      "confidence": 0.9860777303635367
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_008_text.png",
+      "bbox": [
+        [
+          165,
+          1758
+        ],
+        [
+          1510,
+          1758
+        ],
+        [
+          1510,
+          1877
+        ],
+        [
+          165,
+          1877
+        ]
+      ],
+      "score": 0.944223165512085,
+      "y_pos": 1758,
+      "text": "(5 + 7 + 7 + 4 = 23 với 4 mạch Phù, Trầm, Trì, Sác là\n27 mach).",
+      "confidence": 0.9360392932090666
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_001_text.png",
+      "bbox": [
+        [
+          164,
+          1908
+        ],
+        [
+          1510,
+          1908
+        ],
+        [
+          1510,
+          2093
+        ],
+        [
+          164,
+          2093
+        ]
+      ],
+      "score": 0.9696057438850403,
+      "y_pos": 1908,
+      "text": "Thực tế lâm sàng và hình tượng cũng như mạch bệnh\ncủa từng loại mạch đã chứng tổ việc quy nạp theo 4 họ mạch\nnói trên là chính xác.",
+      "confidence": 0.9930566287995165
+    },
+    {
+      "type": "number",
+      "img_path": "p0158_010_number.png",
+      "bbox": [
+        [
+          178,
+          2225
+        ],
+        [
+          255,
+          2225
+        ],
+        [
+          255,
+          2267
+        ],
+        [
+          178,
+          2267
+        ]
+      ],
+      "score": 0.8852255344390869,
+      "y_pos": 2225,
+      "text": "\n    \n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0158.png"
+}

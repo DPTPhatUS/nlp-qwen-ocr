@@ -1,0 +1,110 @@
+{
+  "page_num": 275,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0275_003_header.png",
+      "bbox": [
+        [
+          228,
+          0
+        ],
+        [
+          752,
+          0
+        ],
+        [
+          752,
+          95
+        ],
+        [
+          228,
+          95
+        ]
+      ],
+      "score": 0.5097167491912842,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9595057399456317
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0275_001_figure_title.png",
+      "bbox": [
+        [
+          515,
+          292
+        ],
+        [
+          1285,
+          292
+        ],
+        [
+          1285,
+          353
+        ],
+        [
+          515,
+          353
+        ]
+      ],
+      "score": 0.6411318778991699,
+      "y_pos": 292,
+      "text": "HUYẾT BỘ DƯỢC HỘI LIỀU DÙNG",
+      "confidence": 0.9876666932270445
+    },
+    {
+      "type": "table",
+      "img_path": "p0275_002_table.png",
+      "bbox": [
+        [
+          225,
+          421
+        ],
+        [
+          1540,
+          421
+        ],
+        [
+          1540,
+          1869
+        ],
+        [
+          225,
+          1869
+        ]
+      ],
+      "score": 0.6129753589630127,
+      "y_pos": 421,
+      "text": "Chỉ huyết    Phá huyết\nHòe hoa    6    -16gr    Quy vĩ    8    _    16gr\nSinh địa    15    -30gr    Hồng hoa    1    _    4gr\nLiên phòng    6    -12gr    Huyết giác    8    _    20gr\nQuy đầu    6    -16gr    Tô mộc    8    _    16gr\nTrắc bá diệp    6    -12gr    Trạch lan    8    12gr\nCổ mực    6    -15gr    Rễ si    12    _    20gr\nNghệ    4    8gr\nHành huyết    Lương huyết\nNga truật    4 - 8gr    Sinh đia    15 -    30gr\nĐảng sâm    4    - 8gr    Hoàng liên    4 -    12gr\nXuyên khung    4    -12gr    Hoàng đằng    4 -    12gr\nXích thược    4    - 8gr    Bồ công anh    6 -    16gr\nÍch mẫu    2 - 8gr    Nhân trần    8 -    16gr\nRau má    8 -    16gr\nÔn huyết    Tả thứ tướng\nCan khương    6 -    4gr    A giao    4 -    12gr\nNgô thù    6 - 0,5gr    Quy thân    8    12gr\nCao lương khương 4 - 8gr    Thục địa    15 -    30gr\nNhục quế    2 - 20gr    Tam thất    4 -    8gr\nThảo quả    1 cái    Hà thủ ô    8 -    16gr\nNgải diệp    6 - 12gr    Huyết đằng    15 -    30gr",
+      "confidence": 0.9413972797719122
+    },
+    {
+      "type": "number",
+      "img_path": "p0275_000_number.png",
+      "bbox": [
+        [
+          1530,
+          2224
+        ],
+        [
+          1611,
+          2224
+        ],
+        [
+          1611,
+          2267
+        ],
+        [
+          1530,
+          2267
+        ]
+      ],
+      "score": 0.9181956648826599,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0275.png"
+}

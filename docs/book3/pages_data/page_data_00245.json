@@ -1,0 +1,318 @@
+{
+  "page_num": 245,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0245_011_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          751,
+          0
+        ],
+        [
+          751,
+          96
+        ],
+        [
+          227,
+          96
+        ]
+      ],
+      "score": 0.5552164316177368,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.96442627457472
+    },
+    {
+      "type": "text",
+      "img_path": "p0245_010_text.png",
+      "bbox": [
+        [
+          346,
+          303
+        ],
+        [
+          1569,
+          303
+        ],
+        [
+          1569,
+          359
+        ],
+        [
+          346,
+          359
+        ]
+      ],
+      "score": 0.707490861415863,
+      "y_pos": 303,
+      "text": "- Biểu hay lý (Bệnh ở ngoài bì phu hay đã nhập vào nội tạng)?",
+      "confidence": 0.9985681573549906
+    },
+    {
+      "type": "text",
+      "img_path": "p0245_007_text.png",
+      "bbox": [
+        [
+          225,
+          392
+        ],
+        [
+          1571,
+          392
+        ],
+        [
+          1571,
+          514
+        ],
+        [
+          225,
+          514
+        ]
+      ],
+      "score": 0.9103052020072937,
+      "y_pos": 392,
+      "text": "(Nếu mạch phù là bệnh thuộc biểu, mạch trầm là bệnh\nthuốc lý)",
+      "confidence": 0.9876191232155362
+    },
+    {
+      "type": "text",
+      "img_path": "p0245_001_text.png",
+      "bbox": [
+        [
+          225,
+          553
+        ],
+        [
+          1569,
+          553
+        ],
+        [
+          1569,
+          739
+        ],
+        [
+          225,
+          739
+        ]
+      ],
+      "score": 0.974678099155426,
+      "y_pos": 553,
+      "text": "- Hư hay thực (bệnh do hư nhược hay do ngoại tà xâm\nnhập) (nếu mạch yếu là hư chứng, mạch mạnh, bức bách là do\nthực chứng).",
+      "confidence": 0.9842305218309441
+    },
+    {
+      "type": "text",
+      "img_path": "p0245_009_text.png",
+      "bbox": [
+        [
+          344,
+          771
+        ],
+        [
+          1272,
+          771
+        ],
+        [
+          1272,
+          830
+        ],
+        [
+          344,
+          830
+        ]
+      ],
+      "score": 0.861764669418335,
+      "y_pos": 771,
+      "text": "Âm hay dương (Âm Dương là tổng cương).",
+      "confidence": 0.9988456323742867
+    },
+    {
+      "type": "text",
+      "img_path": "p0245_004_text.png",
+      "bbox": [
+        [
+          224,
+          864
+        ],
+        [
+          1574,
+          864
+        ],
+        [
+          1574,
+          985
+        ],
+        [
+          224,
+          985
+        ]
+      ],
+      "score": 0.9550645351409912,
+      "y_pos": 864,
+      "text": "Tóm lại khảo sát các yếu tố trên là để xác định bệnh chứng\ntheo bát cương rồi dựa vào đó mà điều thuốc cho phù hợp.",
+      "confidence": 0.9994096805651982
+    },
+    {
+      "type": "text",
+      "img_path": "p0245_000_text.png",
+      "bbox": [
+        [
+          223,
+          1024
+        ],
+        [
+          1573,
+          1024
+        ],
+        [
+          1573,
+          1415
+        ],
+        [
+          223,
+          1415
+        ]
+      ],
+      "score": 0.9840971231460571,
+      "y_pos": 1024,
+      "text": "Ví dụ: Chứng đau nhức do phong thấp. Thông thường ra\nphương điều trị người ta thường dùng các vị thuốc khu phong táo\nthấp. Nhưng khi bệnh nhân mạch đi Xác (nhanh) là thuộc nhiệt\nchứng thì phải thêm các vị thuốc có dược tính \"hàn lương\". Nếu\nbệnh nhân mạch đi Trì (châm) là thuộc thể hàn chứng thì phải thêm\ncác vi thuốc có dược tính \"ôn nhiệt\".",
+      "confidence": 0.996855468732326
+    },
+    {
+      "type": "text",
+      "img_path": "p0245_003_text.png",
+      "bbox": [
+        [
+          225,
+          1451
+        ],
+        [
+          1572,
+          1451
+        ],
+        [
+          1572,
+          1573
+        ],
+        [
+          225,
+          1573
+        ]
+      ],
+      "score": 0.9572756886482239,
+      "y_pos": 1451,
+      "text": "Nếu mạch bệnh nhân đi phù thì phải dùng các vị thuốc\nkhu phong là chính và phải thêm các vị thuốc phát hãn giải biểu.",
+      "confidence": 0.9984426426666755
+    },
+    {
+      "type": "text",
+      "img_path": "p0245_006_text.png",
+      "bbox": [
+        [
+          224,
+          1610
+        ],
+        [
+          1571,
+          1610
+        ],
+        [
+          1571,
+          1729
+        ],
+        [
+          224,
+          1729
+        ]
+      ],
+      "score": 0.9477759003639221,
+      "y_pos": 1610,
+      "text": "Nếu mạch bệnh nhân đi hư nhược thì phải dùng các vị\nthuốc phục chính kèm với khu tà.",
+      "confidence": 0.9977109088385674
+    },
+    {
+      "type": "text",
+      "img_path": "p0245_005_text.png",
+      "bbox": [
+        [
+          224,
+          1764
+        ],
+        [
+          1571,
+          1764
+        ],
+        [
+          1571,
+          1887
+        ],
+        [
+          224,
+          1887
+        ]
+      ],
+      "score": 0.9508373737335205,
+      "y_pos": 1764,
+      "text": "Xem mạch còn để tìm ra nguyên nhân gây bệnh hay tìm ra vị\ntrí bệnh đang ở tạng phủ nào?",
+      "confidence": 0.9989676941379685
+    },
+    {
+      "type": "text",
+      "img_path": "p0245_002_text.png",
+      "bbox": [
+        [
+          223,
+          1922
+        ],
+        [
+          1570,
+          1922
+        ],
+        [
+          1570,
+          2110
+        ],
+        [
+          223,
+          2110
+        ]
+      ],
+      "score": 0.9719473123550415,
+      "y_pos": 1922,
+      "text": "Ví dụ: Bệnh nhân bị bệnh mất ngủ. Đối với đông y\nkhông chỉ cho bệnh nhân dùng thuốc an thần mà còn phải tìm\nra vì sao mất ngủ?",
+      "confidence": 0.9977042518721687
+    },
+    {
+      "type": "number",
+      "img_path": "p0245_008_number.png",
+      "bbox": [
+        [
+          1530,
+          2224
+        ],
+        [
+          1610,
+          2224
+        ],
+        [
+          1610,
+          2267
+        ],
+        [
+          1530,
+          2267
+        ]
+      ],
+      "score": 0.887538492679596,
+      "y_pos": 2224,
+      "text": "\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0245.png"
+}

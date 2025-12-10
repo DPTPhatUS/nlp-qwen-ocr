@@ -1,0 +1,136 @@
+{
+  "page_num": 216,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0216_002_text.png",
+      "bbox": [
+        [
+          395,
+          383
+        ],
+        [
+          1283,
+          383
+        ],
+        [
+          1283,
+          937
+        ],
+        [
+          395,
+          937
+        ]
+      ],
+      "score": 0.9091800451278687,
+      "y_pos": 383,
+      "text": "Mạch Vi bộ Xích khôn cùng,\nLy hương phá sản không dung một người\nVợ con đói rách tả tơi,\nMẹ cha lận đận một đời đau thương.\nĐến đâu trộm cắp bất lương\nGian tham khốn khổ ăn lường lẫn nhau\nThận hư bụng dưới quặn đau,\nHồi tâm hối cải cho mau kẻo mà.",
+      "confidence": 0.9960624872709426
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0216_004_paragraph_title.png",
+      "bbox": [
+        [
+          170,
+          1152
+        ],
+        [
+          492,
+          1152
+        ],
+        [
+          492,
+          1202
+        ],
+        [
+          170,
+          1202
+        ]
+      ],
+      "score": 0.8687402606010437,
+      "y_pos": 1152,
+      "text": "9. Mach Trầm",
+      "confidence": 0.9742413461208344
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_000_text.png",
+      "bbox": [
+        [
+          396,
+          1225
+        ],
+        [
+          1285,
+          1225
+        ],
+        [
+          1285,
+          1786
+        ],
+        [
+          396,
+          1786
+        ]
+      ],
+      "score": 0.9349703192710876,
+      "y_pos": 1225,
+      "text": "Mạch <i>Trầm</i> bộ thốn khéo thay,\nPhật tiên mộ đạo, thường ngày chu du,\nCửu lưu khấp khểnh đi tu,\nLai tham tửu sắc xuân thu ra vào.\nDẫu rằng không đến nỗi nào,\nNhưng không quyết chí làm sao cho toàn.\nBệnh đau hung cách tâm can,\nLãnh đờm đọng trệ ruột gan bệnh hoài.",
+      "confidence": 0.9954892142036609
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_001_text.png",
+      "bbox": [
+        [
+          426,
+          1876
+        ],
+        [
+          1255,
+          1876
+        ],
+        [
+          1255,
+          2150
+        ],
+        [
+          426,
+          2150
+        ]
+      ],
+      "score": 0.9244818687438965,
+      "y_pos": 1876,
+      "text": "Mạch <i>Trầm</i> quan bộ chẳng may,\nLàm ăn vất vả đêm ngày dở dang,\nBỏ làng bỏ tổ đa mang,\nMột mình hai vợ giang san nhỡ nhàng.",
+      "confidence": 0.9930043976748009
+    },
+    {
+      "type": "number",
+      "img_path": "p0216_003_number.png",
+      "bbox": [
+        [
+          173,
+          2225
+        ],
+        [
+          258,
+          2225
+        ],
+        [
+          258,
+          2267
+        ],
+        [
+          173,
+          2267
+        ]
+      ],
+      "score": 0.9069581031799316,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0216.png"
+}

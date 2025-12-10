@@ -1,0 +1,58 @@
+{
+  "page_num": 307,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0307_001_text.png",
+      "bbox": [
+        [
+          948,
+          1265
+        ],
+        [
+          1529,
+          1265
+        ],
+        [
+          1529,
+          1619
+        ],
+        [
+          948,
+          1619
+        ]
+      ],
+      "score": 0.5272377133369446,
+      "y_pos": 1265,
+      "text": "4. Trân vũ thang\nPhụ tử    8gr\nBach truật    10gr\nBach thược    8gr\nPhuc linh    12gr\nCan khương    6gr",
+      "confidence": 0.9428618830166023
+    },
+    {
+      "type": "number",
+      "img_path": "p0307_000_number.png",
+      "bbox": [
+        [
+          1530,
+          2224
+        ],
+        [
+          1611,
+          2224
+        ],
+        [
+          1611,
+          2267
+        ],
+        [
+          1530,
+          2267
+        ]
+      ],
+      "score": 0.8902161121368408,
+      "y_pos": 2224,
+      "text": "    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0307.png"
+}

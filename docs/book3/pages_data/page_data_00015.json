@@ -1,0 +1,344 @@
+{
+  "page_num": 15,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0015_012_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          751,
+          0
+        ],
+        [
+          751,
+          95
+        ],
+        [
+          227,
+          95
+        ]
+      ],
+      "score": 0.5620160698890686,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9635226765045752
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0015_011_paragraph_title.png",
+      "bbox": [
+        [
+          1055,
+          292
+        ],
+        [
+          1506,
+          292
+        ],
+        [
+          1506,
+          351
+        ],
+        [
+          1055,
+          351
+        ]
+      ],
+      "score": 0.6892092227935791,
+      "y_pos": 292,
+      "text": "HÌNH ĐÔ THÁI CỰC",
+      "confidence": 0.9918603698412577
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0015_004_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          383
+        ],
+        [
+          596,
+          383
+        ],
+        [
+          596,
+          437
+        ],
+        [
+          226,
+          437
+        ]
+      ],
+      "score": 0.908847987651825,
+      "y_pos": 383,
+      "text": "III. TỨ TƯƠNG",
+      "confidence": 0.8792090296745301
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0015_009_paragraph_title.png",
+      "bbox": [
+        [
+          347,
+          481
+        ],
+        [
+          928,
+          481
+        ],
+        [
+          928,
+          533
+        ],
+        [
+          347,
+          533
+        ]
+      ],
+      "score": 0.8951801657676697,
+      "y_pos": 481,
+      "text": "1. Khái niệm về tứ tượng",
+      "confidence": 0.9531634243635031
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_000_text.png",
+      "bbox": [
+        [
+          223,
+          568
+        ],
+        [
+          1569,
+          568
+        ],
+        [
+          1569,
+          961
+        ],
+        [
+          223,
+          961
+        ]
+      ],
+      "score": 0.9835118651390076,
+      "y_pos": 568,
+      "text": "Sự biến hóa của âm dương trải qua quá trình từ thấp lên\ncao rồi chuyển hóa từ dương sang âm hoặc từ âm sang dương.\nĐối với dương mới sinh ra gọi là thiếu dương khi dương phát\ntriển tới mức cao nhất gọi là thái dương. Đối với âm mới sinh\nra gọi là thiếu âm, khi âm đã phát triển tới mức cao nhất gọi\nlà thái âm. Bốn hình tương:",
+      "confidence": 0.9964253143497032
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_007_text.png",
+      "bbox": [
+        [
+          346,
+          987
+        ],
+        [
+          960,
+          987
+        ],
+        [
+          960,
+          1038
+        ],
+        [
+          346,
+          1038
+        ]
+      ],
+      "score": 0.9003693461418152,
+      "y_pos": 987,
+      "text": "- Thiếu dương - Thái Dương",
+      "confidence": 0.9981017070157188
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_006_text.png",
+      "bbox": [
+        [
+          347,
+          1064
+        ],
+        [
+          821,
+          1064
+        ],
+        [
+          821,
+          1110
+        ],
+        [
+          347,
+          1110
+        ]
+      ],
+      "score": 0.9026215076446533,
+      "y_pos": 1064,
+      "text": "- Thiếu âm - Thái âm",
+      "confidence": 0.9855442182584242
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_005_text.png",
+      "bbox": [
+        [
+          344,
+          1141
+        ],
+        [
+          913,
+          1141
+        ],
+        [
+          913,
+          1191
+        ],
+        [
+          344,
+          1191
+        ]
+      ],
+      "score": 0.906322181224823,
+      "y_pos": 1141,
+      "text": "Người xưa gọi là tứ tượng.",
+      "confidence": 0.9993282003062112
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_001_text.png",
+      "bbox": [
+        [
+          222,
+          1230
+        ],
+        [
+          1571,
+          1230
+        ],
+        [
+          1571,
+          1757
+        ],
+        [
+          222,
+          1757
+        ]
+      ],
+      "score": 0.9829403758049011,
+      "y_pos": 1230,
+      "text": "1.1. Dương minh: Trong Đông y học cũng như trong\nhình đồ thái cực, người ta còn dùng từ dương minh. Vậy dương\nminh là gì? Về từ nghĩa dương minh là sự sáng của dương và\ncũng hợp lý với vai trò của nó vì từ thiếu dương là dương khí\nmới sinh ra tuy là dương nhưng vẫn còn có âm (chưa được\nsáng tổ lắm) tới dương minh là dương thịnh đã đầy đủ ánh\nsáng của dương, rồi tới thái dương là dương cực vậy ta có thể\nđi tới đinh nghĩa:",
+      "confidence": 0.9790047811325062
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_008_text.png",
+      "bbox": [
+        [
+          343,
+          1797
+        ],
+        [
+          1484,
+          1797
+        ],
+        [
+          1484,
+          1849
+        ],
+        [
+          343,
+          1849
+        ]
+      ],
+      "score": 0.8964141607284546,
+      "y_pos": 1797,
+      "text": "Định nghĩa dương minh: Dương minh là dương thịnh.",
+      "confidence": 0.993570674868191
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_003_text.png",
+      "bbox": [
+        [
+          224,
+          1884
+        ],
+        [
+          1572,
+          1884
+        ],
+        [
+          1572,
+          2009
+        ],
+        [
+          224,
+          2009
+        ]
+      ],
+      "score": 0.9121871590614319,
+      "y_pos": 1884,
+      "text": "1.2. Quyết âm: Đối với âm thì ngoài thiếu âm, thái âm\ncòn có quyết âm. Vậy quyết âm là gì?",
+      "confidence": 0.9969836809418418
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_002_text.png",
+      "bbox": [
+        [
+          225,
+          2040
+        ],
+        [
+          1572,
+          2040
+        ],
+        [
+          1572,
+          2163
+        ],
+        [
+          225,
+          2163
+        ]
+      ],
+      "score": 0.9573589563369751,
+      "y_pos": 2040,
+      "text": "Về nghĩa tự: Quyết có nghĩa như một sự vận động mãnh\nliệt, sôi nổi, nhưng sự vận động đó là những phần tử nhỏ đóng",
+      "confidence": 0.9970730878215618
+    },
+    {
+      "type": "number",
+      "img_path": "p0015_010_number.png",
+      "bbox": [
+        [
+          1535,
+          2226
+        ],
+        [
+          1583,
+          2226
+        ],
+        [
+          1583,
+          2267
+        ],
+        [
+          1535,
+          2267
+        ]
+      ],
+      "score": 0.8609722256660461,
+      "y_pos": 2226,
+      "text": "    \n    \n\n\n\n\n\n\n\n\n    .\n\n\n",
+      "confidence": 0.9608053420396412
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0015.png"
+}

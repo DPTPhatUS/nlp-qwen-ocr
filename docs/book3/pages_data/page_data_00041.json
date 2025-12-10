@@ -1,0 +1,160 @@
+{
+  "page_num": 41,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0041_005_header.png",
+      "bbox": [
+        [
+          226,
+          0
+        ],
+        [
+          751,
+          0
+        ],
+        [
+          751,
+          96
+        ],
+        [
+          226,
+          96
+        ]
+      ],
+      "score": 0.5930063724517822,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9632921962096141
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0041_003_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          306
+        ],
+        [
+          1569,
+          306
+        ],
+        [
+          1569,
+          423
+        ],
+        [
+          224,
+          423
+        ]
+      ],
+      "score": 0.6543270945549011,
+      "y_pos": 306,
+      "text": "3. Đường tuần hoàn của 12 kinh chính và 2 mạch\nNhâm, Đốc",
+      "confidence": 0.9483455784167304
+    },
+    {
+      "type": "image",
+      "img_path": "p0041_001_image.png",
+      "bbox": [
+        [
+          260,
+          470
+        ],
+        [
+          1569,
+          470
+        ],
+        [
+          1569,
+          1767
+        ],
+        [
+          260,
+          1767
+        ]
+      ],
+      "score": 0.9673484563827515,
+      "y_pos": 470
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0041_004_figure_title.png",
+      "bbox": [
+        [
+          372,
+          1802
+        ],
+        [
+          1370,
+          1802
+        ],
+        [
+          1370,
+          1859
+        ],
+        [
+          372,
+          1859
+        ]
+      ],
+      "score": 0.6510829925537109,
+      "y_pos": 1802,
+      "text": "4. Ứng dụng kinh lạc trong chẩn đoán bệnh",
+      "confidence": 0.9672742084015248
+    },
+    {
+      "type": "text",
+      "img_path": "p0041_000_text.png",
+      "bbox": [
+        [
+          223,
+          1898
+        ],
+        [
+          1569,
+          1898
+        ],
+        [
+          1569,
+          2159
+        ],
+        [
+          223,
+          2159
+        ]
+      ],
+      "score": 0.9716265797615051,
+      "y_pos": 1898,
+      "text": "Khi nắm được vị trí và đường đi của kinh lạc, căn cứ vào\nvi trí đau bệnh, ta có thể xác định được kinh bị bệnh, tạng bị\nbệnh, tạng phủ bị bệnh. Ví dụ đau đầu nếu ở trán là kinh\ndương minh. Nếu ở gáy là kinh thái dương, ở 2 bên đầu là",
+      "confidence": 0.9987620475043639
+    },
+    {
+      "type": "number",
+      "img_path": "p0041_002_number.png",
+      "bbox": [
+        [
+          1529,
+          2227
+        ],
+        [
+          1578,
+          2227
+        ],
+        [
+          1578,
+          2266
+        ],
+        [
+          1529,
+          2266
+        ]
+      ],
+      "score": 0.8564668297767639,
+      "y_pos": 2227,
+      "text": "\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0041.png"
+}

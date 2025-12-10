@@ -1,0 +1,240 @@
+{
+  "page_num": 124,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0124_000_text.png",
+      "bbox": [
+        [
+          165,
+          305
+        ],
+        [
+          1511,
+          305
+        ],
+        [
+          1511,
+          564
+        ],
+        [
+          165,
+          564
+        ]
+      ],
+      "score": 0.9785284996032715,
+      "y_pos": 305,
+      "text": "Còn có đặc điểm nữa là: phụ nữ đã hết thiên quý\n(7 x 7) 49 tuổi mà vẫn còn kinh hoặc có khi đã tắt đường kinh\nmà khi già rồi 60 hơn mà lai còn thấy kinh. Đây là trường hợp\nbệnh lý, phải chữa bệnh.",
+      "confidence": 0.9920651391785369
+    },
+    {
+      "type": "text",
+      "img_path": "p0124_003_text.png",
+      "bbox": [
+        [
+          165,
+          596
+        ],
+        [
+          1511,
+          596
+        ],
+        [
+          1511,
+          855
+        ],
+        [
+          165,
+          855
+        ]
+      ],
+      "score": 0.9754900932312012,
+      "y_pos": 596,
+      "text": "Đặc biệt về thời gian hành kinh: Nếu bắt đầu hành\nkinh đến hết 3 ngày hoặc cho đến hết 6 ngày là sạch kinh thì\nlà mức trung bình. Nếu mới có 2 ngày đã sạch kinh là kinh\nthiếu, nếu hành kinh kéo dài quá 7 ngày là rong kinh.",
+      "confidence": 0.999274770904246
+    },
+    {
+      "type": "text",
+      "img_path": "p0124_006_text.png",
+      "bbox": [
+        [
+          166,
+          893
+        ],
+        [
+          1512,
+          893
+        ],
+        [
+          1512,
+          1015
+        ],
+        [
+          166,
+          1015
+        ]
+      ],
+      "score": 0.9600880742073059,
+      "y_pos": 893,
+      "text": "Màu kinh phải hồng sắc (không tím, không nhạt,\nkhông dính, không kết cục, không loãng) là bình thường.",
+      "confidence": 0.999514019672285
+    },
+    {
+      "type": "text",
+      "img_path": "p0124_008_text.png",
+      "bbox": [
+        [
+          316,
+          1048
+        ],
+        [
+          1000,
+          1048
+        ],
+        [
+          1000,
+          1100
+        ],
+        [
+          316,
+          1100
+        ]
+      ],
+      "score": 0.7930589318275452,
+      "y_pos": 1048,
+      "text": "Phân loại bệnh về kinh nguyệt:",
+      "confidence": 0.9969967976212502
+    },
+    {
+      "type": "text",
+      "img_path": "p0124_004_text.png",
+      "bbox": [
+        [
+          165,
+          1137
+        ],
+        [
+          1513,
+          1137
+        ],
+        [
+          1513,
+          1329
+        ],
+        [
+          165,
+          1329
+        ]
+      ],
+      "score": 0.9718264937400818,
+      "y_pos": 1137,
+      "text": "- Do huyết nhiệt: Thấy kinh trước kỳ lượng kinh ít, màu đỏ\nmà trong, không đóng cục, hay hoa mắt, chóng mặt, trong người\nnóng, khó ngủ, khi chữa phải dưỡng âm thanh nhiệt.",
+      "confidence": 0.9989529318886169
+    },
+    {
+      "type": "text",
+      "img_path": "p0124_002_text.png",
+      "bbox": [
+        [
+          164,
+          1364
+        ],
+        [
+          1511,
+          1364
+        ],
+        [
+          1511,
+          1619
+        ],
+        [
+          164,
+          1619
+        ]
+      ],
+      "score": 0.9770970940589905,
+      "y_pos": 1364,
+      "text": "- Do hàn: kinh nguyệt thấy sau kỳ, lượng kinh ít, nhạt\nmàu hoặc xám đen. Kinh loãng, cảm giác sợ lạnh bụng đau\nliên miên, đoản hơi, chóng mặt, đau mỏi lưng, khi chữa phải\nôn huyết, khử hàn, bổ khí huyết.",
+      "confidence": 0.995272843511941
+    },
+    {
+      "type": "text",
+      "img_path": "p0124_005_text.png",
+      "bbox": [
+        [
+          164,
+          1657
+        ],
+        [
+          1513,
+          1657
+        ],
+        [
+          1513,
+          1844
+        ],
+        [
+          164,
+          1844
+        ]
+      ],
+      "score": 0.9688027501106262,
+      "y_pos": 1657,
+      "text": "- Do huyết ứ: kinh ra sau kỳ, lượng ít màu tím đen,\nđóng cuc, bung dưới đau trướng cư án khi hành kinh thì bớt\nđau. Khi chữa phải hoạt huyết, khử ứ, điều kinh.",
+      "confidence": 0.9982468986023897
+    },
+    {
+      "type": "text",
+      "img_path": "p0124_001_text.png",
+      "bbox": [
+        [
+          164,
+          1881
+        ],
+        [
+          1512,
+          1881
+        ],
+        [
+          1512,
+          2139
+        ],
+        [
+          164,
+          2139
+        ]
+      ],
+      "score": 0.9775828123092651,
+      "y_pos": 1881,
+      "text": "- Do huyết hư: kinh nguyệt ra trễ (sau kỳ) lượng ít,\nkinh loãng, sắc mặt trắng, mệt mỏi, hồi hộp, đoản hơi, ngại\nnói, móng tay, móng chân nhạt, da khô, đầu choáng, mắt hoa,\nít ngủ. Khi chữa bổ huyết điều kinh.",
+      "confidence": 0.9939938774231513
+    },
+    {
+      "type": "number",
+      "img_path": "p0124_007_number.png",
+      "bbox": [
+        [
+          179,
+          2225
+        ],
+        [
+          257,
+          2225
+        ],
+        [
+          257,
+          2266
+        ],
+        [
+          179,
+          2266
+        ]
+      ],
+      "score": 0.8751798272132874,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0124.png"
+}

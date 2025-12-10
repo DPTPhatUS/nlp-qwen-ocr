@@ -1,0 +1,500 @@
+{
+  "page_num": 91,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0091_018_header.png",
+      "bbox": [
+        [
+          228,
+          0
+        ],
+        [
+          752,
+          0
+        ],
+        [
+          752,
+          95
+        ],
+        [
+          228,
+          95
+        ]
+      ],
+      "score": 0.7391445636749268,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9595057399456317
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_016_text.png",
+      "bbox": [
+        [
+          346,
+          304
+        ],
+        [
+          1495,
+          304
+        ],
+        [
+          1495,
+          355
+        ],
+        [
+          346,
+          355
+        ]
+      ],
+      "score": 0.8947475552558899,
+      "y_pos": 304,
+      "text": "- Lòng trắng con mắt màu hơi xanh xanh là bệnh ở can.",
+      "confidence": 0.998682194406336
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_014_text.png",
+      "bbox": [
+        [
+          346,
+          390
+        ],
+        [
+          1206,
+          390
+        ],
+        [
+          1206,
+          443
+        ],
+        [
+          346,
+          443
+        ]
+      ],
+      "score": 0.9030249714851379,
+      "y_pos": 390,
+      "text": "- Lòng trắng con mắt vàng là bệnh ở tỳ.",
+      "confidence": 0.998535486256204
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_007_text.png",
+      "bbox": [
+        [
+          347,
+          476
+        ],
+        [
+          1231,
+          476
+        ],
+        [
+          1231,
+          527
+        ],
+        [
+          347,
+          527
+        ]
+      ],
+      "score": 0.9137163758277893,
+      "y_pos": 476,
+      "text": "- Lòng trắng con mắt đen là bệnh ở thận.",
+      "confidence": 0.9924711428937458
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_009_text.png",
+      "bbox": [
+        [
+          347,
+          561
+        ],
+        [
+          1176,
+          561
+        ],
+        [
+          1176,
+          609
+        ],
+        [
+          347,
+          609
+        ]
+      ],
+      "score": 0.9130735993385315,
+      "y_pos": 561,
+      "text": "- Mắt sưng nóng đỏ đau là do can hỏa.",
+      "confidence": 0.9925497724459722
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_010_text.png",
+      "bbox": [
+        [
+          348,
+          645
+        ],
+        [
+          1062,
+          645
+        ],
+        [
+          1062,
+          691
+        ],
+        [
+          348,
+          691
+        ]
+      ],
+      "score": 0.9106431603431702,
+      "y_pos": 645,
+      "text": "- Mi mắt nhat màu do thiếu máu.",
+      "confidence": 0.9861353328733733
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_008_text.png",
+      "bbox": [
+        [
+          348,
+          729
+        ],
+        [
+          909,
+          729
+        ],
+        [
+          909,
+          782
+        ],
+        [
+          348,
+          782
+        ]
+      ],
+      "score": 0.9132204055786133,
+      "y_pos": 729,
+      "text": "- Mắt quầng đen do tỳ hư.",
+      "confidence": 0.998796785319293
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_015_text.png",
+      "bbox": [
+        [
+          349,
+          815
+        ],
+        [
+          802,
+          815
+        ],
+        [
+          802,
+          860
+        ],
+        [
+          349,
+          860
+        ]
+      ],
+      "score": 0.8965702652931213,
+      "y_pos": 815,
+      "text": "- Mắt đỏ do tâm hỏa.",
+      "confidence": 0.9472311328757893
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0091_012_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          903
+        ],
+        [
+          629,
+          903
+        ],
+        [
+          629,
+          948
+        ],
+        [
+          345,
+          948
+        ]
+      ],
+      "score": 0.9057843089103699,
+      "y_pos": 903,
+      "text": "Xem môi",
+      "confidence": 0.844756907886929
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_011_text.png",
+      "bbox": [
+        [
+          346,
+          988
+        ],
+        [
+          1197,
+          988
+        ],
+        [
+          1197,
+          1042
+        ],
+        [
+          346,
+          1042
+        ]
+      ],
+      "score": 0.909065842628479,
+      "y_pos": 988,
+      "text": "- Môi đỏ hồng mà khô là nhiệt chứng.",
+      "confidence": 0.9914129564636632
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_005_text.png",
+      "bbox": [
+        [
+          346,
+          1075
+        ],
+        [
+          999,
+          1075
+        ],
+        [
+          999,
+          1129
+        ],
+        [
+          346,
+          1129
+        ]
+      ],
+      "score": 0.9174363017082214,
+      "y_pos": 1075,
+      "text": "- Môi trắng nhợt là huyết hư.",
+      "confidence": 0.9991665732476019
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_003_text.png",
+      "bbox": [
+        [
+          347,
+          1163
+        ],
+        [
+          939,
+          1163
+        ],
+        [
+          939,
+          1214
+        ],
+        [
+          347,
+          1214
+        ]
+      ],
+      "score": 0.9199879169464111,
+      "y_pos": 1163,
+      "text": "- Môi xanh tím là huyết ứ.",
+      "confidence": 0.9980061118091855
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_004_text.png",
+      "bbox": [
+        [
+          347,
+          1254
+        ],
+        [
+          931,
+          1254
+        ],
+        [
+          931,
+          1298
+        ],
+        [
+          347,
+          1298
+        ]
+      ],
+      "score": 0.9197409749031067,
+      "y_pos": 1254,
+      "text": "- Môi xanh đen là do hàn.",
+      "confidence": 0.8965175924477754
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_006_text.png",
+      "bbox": [
+        [
+          347,
+          1339
+        ],
+        [
+          1012,
+          1339
+        ],
+        [
+          1012,
+          1390
+        ],
+        [
+          347,
+          1390
+        ]
+      ],
+      "score": 0.9172558188438416,
+      "y_pos": 1339,
+      "text": "- Môi lở loét là do tỳ vị nhiệt.",
+      "confidence": 0.9982144587180194
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0091_013_paragraph_title.png",
+      "bbox": [
+        [
+          349,
+          1431
+        ],
+        [
+          610,
+          1431
+        ],
+        [
+          610,
+          1473
+        ],
+        [
+          349,
+          1473
+        ]
+      ],
+      "score": 0.9051035046577454,
+      "y_pos": 1431,
+      "text": "l<b>0.</b>    Xem da",
+      "confidence": 0.8006073316293103
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_002_text.png",
+      "bbox": [
+        [
+          224,
+          1508
+        ],
+        [
+          1571,
+          1508
+        ],
+        [
+          1571,
+          1632
+        ],
+        [
+          224,
+          1632
+        ]
+      ],
+      "score": 0.9597817063331604,
+      "y_pos": 1508,
+      "text": "- Phù thũng: Ấn vào vết lõm lâu nổi lên là do thủy\nthấp, ấn vào vết lõm nổi lên ngay là do khí trệ.",
+      "confidence": 0.9955847495335799
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_001_text.png",
+      "bbox": [
+        [
+          224,
+          1666
+        ],
+        [
+          1572,
+          1666
+        ],
+        [
+          1572,
+          1786
+        ],
+        [
+          224,
+          1786
+        ]
+      ],
+      "score": 0.9625876545906067,
+      "y_pos": 1666,
+      "text": "- Vàng da: Da màu vàng tươi sáng có sốt là do dương\nhoàng, không có sốt màu vàng tối là do âm hoàng.",
+      "confidence": 0.9967122874169979
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_000_text.png",
+      "bbox": [
+        [
+          223,
+          1818
+        ],
+        [
+          1573,
+          1818
+        ],
+        [
+          1573,
+          2005
+        ],
+        [
+          223,
+          2005
+        ]
+      ],
+      "score": 0.9726248383522034,
+      "y_pos": 1818,
+      "text": "- Ban chẩn: Ban là những đám đỏ nhỏ ở mặt da, chẩn là\nnhững mun cao hơn mặt da. Ban chẩn tươi nhuận là chính khí\nchưa hư, nhạt và xám là chính khí đã hư, sắc tím là nhiệt thịnh.",
+      "confidence": 0.998815193772316
+    },
+    {
+      "type": "number",
+      "img_path": "p0091_017_number.png",
+      "bbox": [
+        [
+          1529,
+          2226
+        ],
+        [
+          1578,
+          2226
+        ],
+        [
+          1578,
+          2267
+        ],
+        [
+          1529,
+          2267
+        ]
+      ],
+      "score": 0.8759551644325256,
+      "y_pos": 2226,
+      "text": "    \n        \n        \n    \n    \n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0091.png"
+}

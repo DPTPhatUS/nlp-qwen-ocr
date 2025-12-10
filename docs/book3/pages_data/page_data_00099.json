@@ -1,0 +1,266 @@
+{
+  "page_num": 99,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0099_009_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          752,
+          0
+        ],
+        [
+          752,
+          96
+        ],
+        [
+          227,
+          96
+        ]
+      ],
+      "score": 0.6021018028259277,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9632050711833514
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_006_text.png",
+      "bbox": [
+        [
+          346,
+          305
+        ],
+        [
+          1283,
+          305
+        ],
+        [
+          1283,
+          359
+        ],
+        [
+          346,
+          359
+        ]
+      ],
+      "score": 0.8975558280944824,
+      "y_pos": 305,
+      "text": "- Dương thịnh âm suy: Trung tiện tiếng lớn.",
+      "confidence": 0.9991535822550456
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0099_008_paragraph_title.png",
+      "bbox": [
+        [
+          348,
+          395
+        ],
+        [
+          1081,
+          395
+        ],
+        [
+          1081,
+          446
+        ],
+        [
+          348,
+          446
+        ]
+      ],
+      "score": 0.8743665814399719,
+      "y_pos": 395,
+      "text": "13. Văn chẩn chứng \"bạch đới\"",
+      "confidence": 0.9990410477884354
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_004_text.png",
+      "bbox": [
+        [
+          225,
+          485
+        ],
+        [
+          1570,
+          485
+        ],
+        [
+          1570,
+          601
+        ],
+        [
+          225,
+          601
+        ]
+      ],
+      "score": 0.958168625831604,
+      "y_pos": 485,
+      "text": "Phụ nữ bị đới hạ, mùi tanh hôi là thuộc hàn thấp, hôi\nthối lắm là bi nhiệt độc.",
+      "confidence": 0.9757334435829008
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_003_text.png",
+      "bbox": [
+        [
+          224,
+          641
+        ],
+        [
+          1570,
+          641
+        ],
+        [
+          1570,
+          759
+        ],
+        [
+          224,
+          759
+        ]
+      ],
+      "score": 0.9598549008369446,
+      "y_pos": 641,
+      "text": "- Khí hư (huyết trắng) là tỳ thấp nhiệt (có mùi tanh,\nkhắm).",
+      "confidence": 0.9894337001849305
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_005_text.png",
+      "bbox": [
+        [
+          224,
+          798
+        ],
+        [
+          1571,
+          798
+        ],
+        [
+          1571,
+          916
+        ],
+        [
+          224,
+          916
+        ]
+      ],
+      "score": 0.9575629830360413,
+      "y_pos": 798,
+      "text": "- Khí hư (huyết trắng) trong loãng là thận hư (có mùi\ntanh hôi).",
+      "confidence": 0.9889227535236966
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_001_text.png",
+      "bbox": [
+        [
+          223,
+          954
+        ],
+        [
+          1570,
+          954
+        ],
+        [
+          1570,
+          1347
+        ],
+        [
+          223,
+          1347
+        ]
+      ],
+      "score": 0.9840235710144043,
+      "y_pos": 954,
+      "text": "* Đối với văn chẩn: Phải nhận định bằng khứu giác và\nvị giác là những trường hợp phức tạp, bất đắc dĩ, chúng ta vì\nsự sống còn và hạnh phúc của bệnh nhân mà phải thực hiện,\nnhất là trường hợp gặp bệnh nặng nằm liệt giường, có khi nói\nkhông ra lời hay hôn mê, bất tỉnh thì việc làm bất đắc dĩ ấy\nthuộc về nhân đức của thầy thuốc.",
+      "confidence": 0.9990152680490872
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_002_text.png",
+      "bbox": [
+        [
+          222,
+          1383
+        ],
+        [
+          1568,
+          1383
+        ],
+        [
+          1568,
+          1573
+        ],
+        [
+          222,
+          1573
+        ]
+      ],
+      "score": 0.9703830480575562,
+      "y_pos": 1383,
+      "text": "Hoặc giả chúng ta hiểu biết về kiến thức văn chẩn\nphức tạp ấy để rồi có thể hỏi bệnh nhân hoặc thân nhân của\nbệnh nhân để mà xét đoán bệnh.",
+      "confidence": 0.9981968605951742
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_000_text.png",
+      "bbox": [
+        [
+          222,
+          1610
+        ],
+        [
+          1569,
+          1610
+        ],
+        [
+          1569,
+          2076
+        ],
+        [
+          222,
+          2076
+        ]
+      ],
+      "score": 0.9850413203239441,
+      "y_pos": 1610,
+      "text": "Nếu sử dụng văn chẩn với kiến thức cao siêu thì không\nchỉ xác định được bệnh chứng mà còn biết được bệnh có chữa\nđược hay không, ngày nào thì khỏi, hay ngày nào thì chết. Kết\nhợp kiến thức y học với dịch học rồi căn cứ vào sự sinh khắc\ncủa ngũ hành, quy luật của thời gian, thời khí, tuổi tác bệnh\nnhân để biện chứng luận trị bệnh. Đó là: \"Dĩ vô chẩn hữu\" là\ncông phu siêu tuyệt của những bậc thánh y.",
+      "confidence": 0.9964340016072138
+    },
+    {
+      "type": "number",
+      "img_path": "p0099_007_number.png",
+      "bbox": [
+        [
+          1529,
+          2226
+        ],
+        [
+          1583,
+          2226
+        ],
+        [
+          1583,
+          2267
+        ],
+        [
+          1529,
+          2267
+        ]
+      ],
+      "score": 0.8773859143257141,
+      "y_pos": 2226,
+      "text": "    \n        \n\n    \n    \n    \n\n    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0099.png"
+}

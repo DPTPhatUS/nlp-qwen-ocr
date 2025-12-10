@@ -1,0 +1,110 @@
+{
+  "page_num": 311,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0311_001_text.png",
+      "bbox": [
+        [
+          227,
+          307
+        ],
+        [
+          737,
+          307
+        ],
+        [
+          737,
+          896
+        ],
+        [
+          227,
+          896
+        ]
+      ],
+      "score": 0.5512084364891052,
+      "y_pos": 307,
+      "text": "5. Mỹ tiên thang\nThương truật    8gr\nXuyên khung    8gr\nChi tử    12gr\nTrần bì    8gr\nHương phụ    10gr\nThần khúc    10gr\nBach chỉ    8gr\nHoàng kỳ    8gr\nBach chỉ    8gr",
+      "confidence": 0.9400751228534546
+    },
+    {
+      "type": "text",
+      "img_path": "p0311_003_text.png",
+      "bbox": [
+        [
+          961,
+          307
+        ],
+        [
+          1510,
+          307
+        ],
+        [
+          1510,
+          775
+        ],
+        [
+          961,
+          775
+        ]
+      ],
+      "score": 0.5186976194381714,
+      "y_pos": 307,
+      "text": "6. Dương hòa thang\nThuc địa    20gr\nBạch giới tử    8gr\nCao ban long    8gr\nNhục quế    8gr\nBào khương    10gr\nMa hoàng    10gr\nCam thảo    8gr",
+      "confidence": 0.9526123738478101
+    },
+    {
+      "type": "text",
+      "img_path": "p0311_002_text.png",
+      "bbox": [
+        [
+          230,
+          1030
+        ],
+        [
+          803,
+          1030
+        ],
+        [
+          803,
+          1680
+        ],
+        [
+          230,
+          1680
+        ]
+      ],
+      "score": 0.5489735007286072,
+      "y_pos": 1030,
+      "text": "7. Ngũ linh hợp ngũ bì\nPhục linh    16gr\nTrạch tả    10gr\nQuế chi    6gr\nTrư linh    10gr\nBach truật    10gr\nTrần bì    10gr\nLinh bì    10gr\nĐại phúc bì    12gr\nKhương bì    8gr\nTang bì    12gr",
+      "confidence": 0.9400057589437806
+    },
+    {
+      "type": "number",
+      "img_path": "p0311_000_number.png",
+      "bbox": [
+        [
+          1530,
+          2224
+        ],
+        [
+          1607,
+          2224
+        ],
+        [
+          1607,
+          2267
+        ],
+        [
+          1530,
+          2267
+        ]
+      ],
+      "score": 0.8793761134147644,
+      "y_pos": 2224,
+      "text": "\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0311.png"
+}

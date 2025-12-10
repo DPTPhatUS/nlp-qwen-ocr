@@ -1,0 +1,56 @@
+{
+  "page_num": 182,
+  "content": [
+    {
+      "type": "image",
+      "img_path": "p0182_000_image.png",
+      "bbox": [
+        [
+          181,
+          304
+        ],
+        [
+          1510,
+          304
+        ],
+        [
+          1510,
+          2078
+        ],
+        [
+          181,
+          2078
+        ]
+      ],
+      "score": 0.9201335310935974,
+      "y_pos": 304
+    },
+    {
+      "type": "number",
+      "img_path": "p0182_001_number.png",
+      "bbox": [
+        [
+          181,
+          2226
+        ],
+        [
+          258,
+          2226
+        ],
+        [
+          258,
+          2266
+        ],
+        [
+          181,
+          2266
+        ]
+      ],
+      "score": 0.9182435274124146,
+      "y_pos": 2226,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0182.png"
+}

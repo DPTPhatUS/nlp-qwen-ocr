@@ -1,0 +1,448 @@
+{
+  "page_num": 118,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0118_009_text.png",
+      "bbox": [
+        [
+          288,
+          304
+        ],
+        [
+          1364,
+          304
+        ],
+        [
+          1364,
+          359
+        ],
+        [
+          288,
+          359
+        ]
+      ],
+      "score": 0.9052056074142456,
+      "y_pos": 304,
+      "text": "- Đau đầu như dây bó thắt lại là thuộc thấp chứng.",
+      "confidence": 0.9950262858317449
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0118_016_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          394
+        ],
+        [
+          659,
+          394
+        ],
+        [
+          659,
+          442
+        ],
+        [
+          286,
+          442
+        ]
+      ],
+      "score": 0.8659749031066895,
+      "y_pos": 394,
+      "text": "Hỏi về đau mình",
+      "confidence": 0.9899968294536367
+    },
+    {
+      "type": "text",
+      "img_path": "p0118_013_text.png",
+      "bbox": [
+        [
+          286,
+          470
+        ],
+        [
+          1202,
+          470
+        ],
+        [
+          1202,
+          520
+        ],
+        [
+          286,
+          520
+        ]
+      ],
+      "score": 0.8968913555145264,
+      "y_pos": 470,
+      "text": "- Toàn thân đau có ghê lạnh là ngoại cảm.",
+      "confidence": 0.9861962296241937
+    },
+    {
+      "type": "text",
+      "img_path": "p0118_008_text.png",
+      "bbox": [
+        [
+          287,
+          546
+        ],
+        [
+          1295,
+          546
+        ],
+        [
+          1295,
+          599
+        ],
+        [
+          287,
+          599
+        ]
+      ],
+      "score": 0.9062876105308533,
+      "y_pos": 546,
+      "text": "- Đau các khớp, nặng mình là cảm phong thấp.",
+      "confidence": 0.9943009640859521
+    },
+    {
+      "type": "text",
+      "img_path": "p0118_012_text.png",
+      "bbox": [
+        [
+          287,
+          622
+        ],
+        [
+          1084,
+          622
+        ],
+        [
+          1084,
+          676
+        ],
+        [
+          287,
+          676
+        ]
+      ],
+      "score": 0.9029161334037781,
+      "y_pos": 622,
+      "text": "- Đau nhức trong xương là thể cốt tý.",
+      "confidence": 0.9983090162277222
+    },
+    {
+      "type": "text",
+      "img_path": "p0118_006_text.png",
+      "bbox": [
+        [
+          287,
+          701
+        ],
+        [
+          843,
+          701
+        ],
+        [
+          843,
+          751
+        ],
+        [
+          287,
+          751
+        ]
+      ],
+      "score": 0.9108631610870361,
+      "y_pos": 701,
+      "text": "- Đau ở các gân là cân tý.",
+      "confidence": 0.9694313875266484
+    },
+    {
+      "type": "text",
+      "img_path": "p0118_007_text.png",
+      "bbox": [
+        [
+          287,
+          777
+        ],
+        [
+          1062,
+          777
+        ],
+        [
+          1062,
+          828
+        ],
+        [
+          287,
+          828
+        ]
+      ],
+      "score": 0.9091030359268188,
+      "y_pos": 777,
+      "text": "- Đau ở đường mạch là lục mạch tý.",
+      "confidence": 0.9893456002076467
+    },
+    {
+      "type": "text",
+      "img_path": "p0118_011_text.png",
+      "bbox": [
+        [
+          287,
+          852
+        ],
+        [
+          1311,
+          852
+        ],
+        [
+          1311,
+          906
+        ],
+        [
+          287,
+          906
+        ]
+      ],
+      "score": 0.9037266969680786,
+      "y_pos": 852,
+      "text": "- Đau đâu đóng đó là thống tý (thống bất đi sứ).",
+      "confidence": 0.9960007178783417
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0118_015_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          942
+        ],
+        [
+          656,
+          942
+        ],
+        [
+          656,
+          993
+        ],
+        [
+          286,
+          993
+        ]
+      ],
+      "score": 0.8804672956466675,
+      "y_pos": 942,
+      "text": "Hỏi về đau ngực",
+      "confidence": 0.9907578896073734
+    },
+    {
+      "type": "text",
+      "img_path": "p0118_002_text.png",
+      "bbox": [
+        [
+          165,
+          1017
+        ],
+        [
+          1511,
+          1017
+        ],
+        [
+          1511,
+          1139
+        ],
+        [
+          165,
+          1139
+        ]
+      ],
+      "score": 0.958918571472168,
+      "y_pos": 1017,
+      "text": "- Đau phát sốt, ho nhổ ra máu mủ, phần nhiều là chứng\nphế ung.",
+      "confidence": 0.996098019047217
+    },
+    {
+      "type": "text",
+      "img_path": "p0118_004_text.png",
+      "bbox": [
+        [
+          166,
+          1162
+        ],
+        [
+          1511,
+          1162
+        ],
+        [
+          1511,
+          1278
+        ],
+        [
+          166,
+          1278
+        ]
+      ],
+      "score": 0.9586432576179504,
+      "y_pos": 1162,
+      "text": "- Đau ngực về chiều hay sốt, ho khan, trong đàm có dính\nmáu là ho lao.",
+      "confidence": 0.9827186084238061
+    },
+    {
+      "type": "text",
+      "img_path": "p0118_003_text.png",
+      "bbox": [
+        [
+          167,
+          1308
+        ],
+        [
+          1512,
+          1308
+        ],
+        [
+          1512,
+          1422
+        ],
+        [
+          167,
+          1422
+        ]
+      ],
+      "score": 0.9588455557823181,
+      "y_pos": 1308,
+      "text": "- Đau ngực, đau cả vùng hạ sườn, đau vòng qua lưng, lói\nlên vai là do can khí uất.",
+      "confidence": 0.9963278104749539
+    },
+    {
+      "type": "text",
+      "img_path": "p0118_005_text.png",
+      "bbox": [
+        [
+          166,
+          1451
+        ],
+        [
+          1513,
+          1451
+        ],
+        [
+          1513,
+          1566
+        ],
+        [
+          166,
+          1566
+        ]
+      ],
+      "score": 0.9568246603012085,
+      "y_pos": 1451,
+      "text": "- Đau vùng ngực như gỗ đè, dần dần mê man đi là do\ntâm khí uất kết.",
+      "confidence": 0.9838755282963443
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0118_010_paragraph_title.png",
+      "bbox": [
+        [
+          287,
+          1608
+        ],
+        [
+          658,
+          1608
+        ],
+        [
+          658,
+          1658
+        ],
+        [
+          287,
+          1658
+        ]
+      ],
+      "score": 0.9044009447097778,
+      "y_pos": 1608,
+      "text": "Hỏi về đau bụng",
+      "confidence": 0.9909650437972125
+    },
+    {
+      "type": "text",
+      "img_path": "p0118_000_text.png",
+      "bbox": [
+        [
+          165,
+          1699
+        ],
+        [
+          1510,
+          1699
+        ],
+        [
+          1510,
+          1888
+        ],
+        [
+          165,
+          1888
+        ]
+      ],
+      "score": 0.973079264163971,
+      "y_pos": 1699,
+      "text": "- Đau vùng thượng vị từng cơn đau lan ra hai mạng sườn,\nxuyên ra sau lưng, bụng đầy trướng ấn thấy đau (cự án). Đó là\nchứng can tà phạm vị. Khi chữa phải sơ can giải uất hòa vị.",
+      "confidence": 0.9953177291603751
+    },
+    {
+      "type": "text",
+      "img_path": "p0118_001_text.png",
+      "bbox": [
+        [
+          165,
+          1924
+        ],
+        [
+          1513,
+          1924
+        ],
+        [
+          1513,
+          2113
+        ],
+        [
+          165,
+          2113
+        ]
+      ],
+      "score": 0.9725146293640137,
+      "y_pos": 1924,
+      "text": "- Đau vùng thượng vị, đau nhiều, đau rát, không ưa xoa\nbóp (cự án), miệng khô, ợ chua, đắng miệng, chất lưỡi đỏ, rêu\nlưỡi vàng. Đó là chứng hỏa uất phải thanh can hòa vị.",
+      "confidence": 0.9963753047099534
+    },
+    {
+      "type": "number",
+      "img_path": "p0118_014_number.png",
+      "bbox": [
+        [
+          178,
+          2225
+        ],
+        [
+          256,
+          2225
+        ],
+        [
+          256,
+          2266
+        ],
+        [
+          178,
+          2266
+        ]
+      ],
+      "score": 0.8810471892356873,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0118.png"
+}

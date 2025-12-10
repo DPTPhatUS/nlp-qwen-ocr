@@ -1,0 +1,318 @@
+{
+  "page_num": 136,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0136_000_text.png",
+      "bbox": [
+        [
+          164,
+          305
+        ],
+        [
+          1510,
+          305
+        ],
+        [
+          1510,
+          697
+        ],
+        [
+          164,
+          697
+        ]
+      ],
+      "score": 0.985424816608429,
+      "y_pos": 305,
+      "text": "Muốn học được mạch lý một trong những yêu cầu là\nphải thuộc lòng lý thuyết, phải biết suy xét, sáng tạo, nhìn sâu\ntrông rộng và kết hợp với sự truyền đạt, hướng dẫn của y sư\ngiàu kinh nghiệm lâm sàng để nắm bắt được những cái mà\nchẳng bao giờ xuất hiện trước mắt ta và chẳng bao giờ ở trong\nvòng tay ta.",
+      "confidence": 0.9958802600661008
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0136_005_paragraph_title.png",
+      "bbox": [
+        [
+          317,
+          738
+        ],
+        [
+          1092,
+          738
+        ],
+        [
+          1092,
+          789
+        ],
+        [
+          317,
+          789
+        ]
+      ],
+      "score": 0.9126985669136047,
+      "y_pos": 738,
+      "text": "2. Sơ án, trung án, trọng án là gì?",
+      "confidence": 0.9790572008571109
+    },
+    {
+      "type": "text",
+      "img_path": "p0136_003_text.png",
+      "bbox": [
+        [
+          166,
+          825
+        ],
+        [
+          1510,
+          825
+        ],
+        [
+          1510,
+          944
+        ],
+        [
+          166,
+          944
+        ]
+      ],
+      "score": 0.958713948726654,
+      "y_pos": 825,
+      "text": "Sơ án, trung án, trọng án là 3 nấc ấn tay nhẹ, vừa, nặng\nđể khảo sát chiều sâu, nông của mạch.",
+      "confidence": 0.9987657361859036
+    },
+    {
+      "type": "text",
+      "img_path": "p0136_006_text.png",
+      "bbox": [
+        [
+          317,
+          984
+        ],
+        [
+          1448,
+          984
+        ],
+        [
+          1448,
+          1034
+        ],
+        [
+          317,
+          1034
+        ]
+      ],
+      "score": 0.9010859131813049,
+      "y_pos": 984,
+      "text": "- Sơ án là vừa đặt ngón tay tới nơi mạch của bệnh nhân.",
+      "confidence": 0.997940741087261
+    },
+    {
+      "type": "text",
+      "img_path": "p0136_007_text.png",
+      "bbox": [
+        [
+          317,
+          1071
+        ],
+        [
+          1203,
+          1071
+        ],
+        [
+          1203,
+          1124
+        ],
+        [
+          317,
+          1124
+        ]
+      ],
+      "score": 0.9006404280662537,
+      "y_pos": 1071,
+      "text": "- Trung án là ấn nhẹ tay xuống một chút.",
+      "confidence": 0.9966112715857369
+    },
+    {
+      "type": "text",
+      "img_path": "p0136_008_text.png",
+      "bbox": [
+        [
+          317,
+          1160
+        ],
+        [
+          1319,
+          1160
+        ],
+        [
+          1319,
+          1213
+        ],
+        [
+          317,
+          1213
+        ]
+      ],
+      "score": 0.9003171920776367,
+      "y_pos": 1160,
+      "text": "- Trọng án là ấn nặng tay xuống một chút nữa.",
+      "confidence": 0.9966179994826622
+    },
+    {
+      "type": "text",
+      "img_path": "p0136_001_text.png",
+      "bbox": [
+        [
+          164,
+          1249
+        ],
+        [
+          1513,
+          1249
+        ],
+        [
+          1513,
+          1640
+        ],
+        [
+          164,
+          1640
+        ]
+      ],
+      "score": 0.984929621219635,
+      "y_pos": 1249,
+      "text": "Phân biệt chiều nông, sâu nhiều nấc của mạnh là sự\nsiêu vi nhạy cảm tựa như phải đoán nghe: (tiếng bay nặng\nhay nhẹ của một con ruồi mà phân biệt là con đực hay con\ncái) bởi vì từ phần da tới phần xương nơi mạch thốn khẩu thử\nđo xem làm gì có được một ly (thật quá mỏng) vậy mà phải\nchia ra làm 7 nấc:",
+      "confidence": 0.9964233577933995
+    },
+    {
+      "type": "text",
+      "img_path": "p0136_004_text.png",
+      "bbox": [
+        [
+          165,
+          1678
+        ],
+        [
+          1515,
+          1678
+        ],
+        [
+          1515,
+          1800
+        ],
+        [
+          165,
+          1800
+        ]
+      ],
+      "score": 0.9543565511703491,
+      "y_pos": 1678,
+      "text": "- 3 nấc trên phải phân biệt sơ án, trung án, trọng án để\nnhận biết chiều nông, sâu (phù hay trầm) của phủ.",
+      "confidence": 0.9870410985121298
+    },
+    {
+      "type": "text",
+      "img_path": "p0136_002_text.png",
+      "bbox": [
+        [
+          165,
+          1835
+        ],
+        [
+          1514,
+          1835
+        ],
+        [
+          1514,
+          1959
+        ],
+        [
+          165,
+          1959
+        ]
+      ],
+      "score": 0.9618268013000488,
+      "y_pos": 1835,
+      "text": "- 3 nấc dưới phải phân biệt sơ án, trung án, trọng án để\nphân biệt chiều nông, sâu (phù hay trầm) của tạng.",
+      "confidence": 0.9968634423075999
+    },
+    {
+      "type": "text",
+      "img_path": "p0136_010_text.png",
+      "bbox": [
+        [
+          314,
+          1991
+        ],
+        [
+          1390,
+          1991
+        ],
+        [
+          1390,
+          2045
+        ],
+        [
+          314,
+          2045
+        ]
+      ],
+      "score": 0.885651707649231,
+      "y_pos": 1991,
+      "text": "- 1 nấc giữa tạng và phủ là nhận biết mạch vị khí.",
+      "confidence": 0.9940579579426692
+    },
+    {
+      "type": "text",
+      "img_path": "p0136_009_text.png",
+      "bbox": [
+        [
+          315,
+          2080
+        ],
+        [
+          1471,
+          2080
+        ],
+        [
+          1471,
+          2135
+        ],
+        [
+          315,
+          2135
+        ]
+      ],
+      "score": 0.8973442316055298,
+      "y_pos": 2080,
+      "text": "Chi li nhỏ nhặt như vậy thì có thể phân biệt được không?",
+      "confidence": 0.9983945540313063
+    },
+    {
+      "type": "number",
+      "img_path": "p0136_011_number.png",
+      "bbox": [
+        [
+          178,
+          2225
+        ],
+        [
+          257,
+          2225
+        ],
+        [
+          257,
+          2268
+        ],
+        [
+          178,
+          2268
+        ]
+      ],
+      "score": 0.8852327466011047,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0136.png"
+}

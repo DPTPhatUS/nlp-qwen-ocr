@@ -1,0 +1,318 @@
+{
+  "page_num": 350,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0350_000_text.png",
+      "bbox": [
+        [
+          165,
+          305
+        ],
+        [
+          1512,
+          305
+        ],
+        [
+          1512,
+          565
+        ],
+        [
+          165,
+          565
+        ]
+      ],
+      "score": 0.9811795353889465,
+      "y_pos": 305,
+      "text": "Trường hợp bị cả 3 tà khí là phong tà, hàn tà, thấp tà cùng\nlúc xâm phạm cơ thể làm tắc nghẽn kinh lạc thì đồng thời phải\nhành huyết, khu phong, tán hàn, trừ thấp. Bài thuốc thường dùng\nlà bài cổ phương mang tên \"Độc hoạt tang ký sinh\".",
+      "confidence": 0.9998251394594515
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0350_005_paragraph_title.png",
+      "bbox": [
+        [
+          427,
+          601
+        ],
+        [
+          1430,
+          601
+        ],
+        [
+          1430,
+          653
+        ],
+        [
+          427,
+          653
+        ]
+      ],
+      "score": 0.6208244562149048,
+      "y_pos": 601,
+      "text": "Đơn thuốc của các trường hợp trên như sau",
+      "confidence": 0.9995617395223573
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0350_003_paragraph_title.png",
+      "bbox": [
+        [
+          170,
+          692
+        ],
+        [
+          785,
+          692
+        ],
+        [
+          785,
+          744
+        ],
+        [
+          170,
+          744
+        ]
+      ],
+      "score": 0.8154388070106506,
+      "y_pos": 692,
+      "text": "1. Bài phòng phong thang",
+      "confidence": 0.9439531885660611
+    },
+    {
+      "type": "text",
+      "img_path": "p0350_006_text.png",
+      "bbox": [
+        [
+          278,
+          760
+        ],
+        [
+          1420,
+          760
+        ],
+        [
+          1420,
+          1181
+        ],
+        [
+          278,
+          1181
+        ]
+      ],
+      "score": 0.5875145792961121,
+      "y_pos": 760,
+      "text": "Phòng phong    12g    Độc hoạt    12g\nHạnh nhân    12g    Khương hoạt    10g\nXích thược    12g    Quế chi    12g\nTần giao    12g    Ma hoàng    8g\nCát căn    10g    Cam thảo    6g\nHoàng cầm    12g    <b>Đương</b> quy    15g",
+      "confidence": 0.9114853723620627
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0350_004_paragraph_title.png",
+      "bbox": [
+        [
+          169,
+          1212
+        ],
+        [
+          566,
+          1212
+        ],
+        [
+          566,
+          1260
+        ],
+        [
+          169,
+          1260
+        ]
+      ],
+      "score": 0.7925497889518738,
+      "y_pos": 1212,
+      "text": "Bài thơ để dễ nhớ",
+      "confidence": 0.9749312494930468
+    },
+    {
+      "type": "text",
+      "img_path": "p0350_008_text.png",
+      "bbox": [
+        [
+          462,
+          1303
+        ],
+        [
+          1189,
+          1303
+        ],
+        [
+          1189,
+          1353
+        ],
+        [
+          462,
+          1353
+        ]
+      ],
+      "score": 0.5176215171813965,
+      "y_pos": 1303,
+      "text": "Phong, hạnh, xích thược, tần giao",
+      "confidence": 0.9159232701574053
+    },
+    {
+      "type": "text",
+      "img_path": "p0350_010_text.png",
+      "bbox": [
+        [
+          462,
+          1389
+        ],
+        [
+          1270,
+          1389
+        ],
+        [
+          1270,
+          1441
+        ],
+        [
+          462,
+          1441
+        ]
+      ],
+      "score": 0.5064653158187866,
+      "y_pos": 1389,
+      "text": "Cát, cầm, song hoạt thêm vào quế chi",
+      "confidence": 0.9854012712051994
+    },
+    {
+      "type": "text",
+      "img_path": "p0350_007_text.png",
+      "bbox": [
+        [
+          462,
+          1478
+        ],
+        [
+          1159,
+          1478
+        ],
+        [
+          1159,
+          1530
+        ],
+        [
+          462,
+          1530
+        ]
+      ],
+      "score": 0.5256163477897644,
+      "y_pos": 1478,
+      "text": "Ma hoàng, cam thảo, đương quy",
+      "confidence": 0.9015621523703298
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0350_002_paragraph_title.png",
+      "bbox": [
+        [
+          167,
+          1654
+        ],
+        [
+          621,
+          1654
+        ],
+        [
+          621,
+          1705
+        ],
+        [
+          167,
+          1705
+        ]
+      ],
+      "score": 0.8629246354103088,
+      "y_pos": 1654,
+      "text": "2. Bài ngũ tích tán",
+      "confidence": 0.9592821626436143
+    },
+    {
+      "type": "text",
+      "img_path": "p0350_009_text.png",
+      "bbox": [
+        [
+          286,
+          2011
+        ],
+        [
+          1416,
+          2011
+        ],
+        [
+          1416,
+          2063
+        ],
+        [
+          286,
+          2063
+        ]
+      ],
+      "score": 0.5107823610305786,
+      "y_pos": 2011,
+      "text": "Can khương    8g    Bach thước    12g",
+      "confidence": 0.8489734244843324
+    },
+    {
+      "type": "text",
+      "img_path": "p0350_011_text.png",
+      "bbox": [
+        [
+          288,
+          2098
+        ],
+        [
+          1418,
+          2098
+        ],
+        [
+          1418,
+          2153
+        ],
+        [
+          288,
+          2153
+        ]
+      ],
+      "score": 0.5028647184371948,
+      "y_pos": 2098,
+      "text": "Ngũ gia bì    15g    Cát cánh    8g",
+      "confidence": 0.9451952002942562
+    },
+    {
+      "type": "number",
+      "img_path": "p0350_001_number.png",
+      "bbox": [
+        [
+          173,
+          2225
+        ],
+        [
+          258,
+          2225
+        ],
+        [
+          258,
+          2268
+        ],
+        [
+          173,
+          2268
+        ]
+      ],
+      "score": 0.8657539486885071,
+      "y_pos": 2225,
+      "text": "    \n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0350.png"
+}

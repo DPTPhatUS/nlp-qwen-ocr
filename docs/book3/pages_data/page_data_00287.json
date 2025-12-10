@@ -1,0 +1,110 @@
+{
+  "page_num": 287,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0287_002_text.png",
+      "bbox": [
+        [
+          230,
+          1
+        ],
+        [
+          753,
+          1
+        ],
+        [
+          753,
+          95
+        ],
+        [
+          230,
+          95
+        ]
+      ],
+      "score": 0.5340569019317627,
+      "y_pos": 1,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9660088127851486
+    },
+    {
+      "type": "text",
+      "img_path": "p0287_003_text.png",
+      "bbox": [
+        [
+          228,
+          1221
+        ],
+        [
+          730,
+          1221
+        ],
+        [
+          730,
+          1883
+        ],
+        [
+          228,
+          1883
+        ]
+      ],
+      "score": 0.5247054100036621,
+      "y_pos": 1221,
+      "text": "1. Quế chi thang\nGia đại hoàng\nQuế chi    6gr\nBach thước    8gr\nCam thảo    2gr\nSinh khương    6gr\nĐại táo    15gr\nĐại hoàng    6gr\n4. Đào thị hoàng long thang\nĐại hoàng    6gr\nMang tiêu    10gr\n<b>Duong</b> quy    8gr\nNhân sâm    4gr",
+      "confidence": 0.9434122367184242
+    },
+    {
+      "type": "text",
+      "img_path": "p0287_001_text.png",
+      "bbox": [
+        [
+          907,
+          1636
+        ],
+        [
+          1496,
+          1636
+        ],
+        [
+          1496,
+          2144
+        ],
+        [
+          907,
+          2144
+        ]
+      ],
+      "score": 0.5552780032157898,
+      "y_pos": 1636,
+      "text": "3. Thanh dinh thang\nLiên kiều    6gr\nHoàng liên    8gr\nĐan sâm    2gr\nTrúc diệp    6gr\nNgân hoa    15gr\nHuyền sâm    15g\nSinh địa    15gr\nMach môn    8gr\nNgưu giác    8gr",
+      "confidence": 0.9256967764760581
+    },
+    {
+      "type": "number",
+      "img_path": "p0287_000_number.png",
+      "bbox": [
+        [
+          1530,
+          2225
+        ],
+        [
+          1612,
+          2225
+        ],
+        [
+          1612,
+          2266
+        ],
+        [
+          1530,
+          2266
+        ]
+      ],
+      "score": 0.8941889405250549,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0287.png"
+}

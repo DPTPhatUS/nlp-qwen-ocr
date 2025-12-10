@@ -1,0 +1,422 @@
+{
+  "page_num": 253,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0253_012_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          752,
+          0
+        ],
+        [
+          752,
+          95
+        ],
+        [
+          227,
+          95
+        ]
+      ],
+      "score": 0.5605036616325378,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9624362213336505
+    },
+    {
+      "type": "text",
+      "img_path": "p0253_001_text.png",
+      "bbox": [
+        [
+          237,
+          302
+        ],
+        [
+          1575,
+          302
+        ],
+        [
+          1575,
+          492
+        ],
+        [
+          237,
+          492
+        ]
+      ],
+      "score": 0.9790219664573669,
+      "y_pos": 302,
+      "text": "- Nếu tâm suy yếu thì ta phải dùng phương pháp bổ, suy yếu\nnặng thì dùng những vị thuốc trong nhóm \"Mãnh tướng\" (như\nĐan sâm, Nhân sâm, Long nhãn, Bạch truật...).",
+      "confidence": 0.9876989099273851
+    },
+    {
+      "type": "text",
+      "img_path": "p0253_000_text.png",
+      "bbox": [
+        [
+          239,
+          530
+        ],
+        [
+          1574,
+          530
+        ],
+        [
+          1574,
+          715
+        ],
+        [
+          239,
+          715
+        ]
+      ],
+      "score": 0.9794696569442749,
+      "y_pos": 530,
+      "text": "- Nếu suy yếu nhẹ thì dùng những vị thuốc trong nhóm\n\"Thứ tướng\" (như Đương quy, Phục thần, Huyền sâm, Bá tử\nnhân).",
+      "confidence": 0.9907484554853278
+    },
+    {
+      "type": "text",
+      "img_path": "p0253_009_text.png",
+      "bbox": [
+        [
+          346,
+          757
+        ],
+        [
+          1200,
+          757
+        ],
+        [
+          1200,
+          807
+        ],
+        [
+          346,
+          807
+        ]
+      ],
+      "score": 0.9235666394233704,
+      "y_pos": 757,
+      "text": "- Nếu tâm nhiệt thì ta dùng pháp lương.",
+      "confidence": 0.9967239440941229
+    },
+    {
+      "type": "text",
+      "img_path": "p0253_005_text.png",
+      "bbox": [
+        [
+          238,
+          846
+        ],
+        [
+          1569,
+          846
+        ],
+        [
+          1569,
+          965
+        ],
+        [
+          238,
+          965
+        ]
+      ],
+      "score": 0.9677744507789612,
+      "y_pos": 846,
+      "text": "- Cực nhiệt thì chọn các vị thuốc trong nhóm \"Mãnh\ntướng\" (như Hoàng liên, Trúc diệp, Hoàng đằng).",
+      "confidence": 0.9948411650101843
+    },
+    {
+      "type": "text",
+      "img_path": "p0253_002_text.png",
+      "bbox": [
+        [
+          238,
+          1003
+        ],
+        [
+          1574,
+          1003
+        ],
+        [
+          1574,
+          1120
+        ],
+        [
+          238,
+          1120
+        ]
+      ],
+      "score": 0.968746542930603,
+      "y_pos": 1003,
+      "text": "- Nhiệt vừa thì chọn các vị thuốc trong nhóm \"Thứ\ntướng\" như (Sinh địa, Chi tử, Hoa hòe, ...).",
+      "confidence": 0.9924368708563582
+    },
+    {
+      "type": "text",
+      "img_path": "p0253_003_text.png",
+      "bbox": [
+        [
+          237,
+          1160
+        ],
+        [
+          1572,
+          1160
+        ],
+        [
+          1572,
+          1279
+        ],
+        [
+          237,
+          1279
+        ]
+      ],
+      "score": 0.9687087535858154,
+      "y_pos": 1160,
+      "text": "- Nếu tâm bi bệnh thể thực chứng thì ta chọn phương\npháp Tả.",
+      "confidence": 0.9947826362443419
+    },
+    {
+      "type": "text",
+      "img_path": "p0253_004_text.png",
+      "bbox": [
+        [
+          241,
+          1316
+        ],
+        [
+          1570,
+          1316
+        ],
+        [
+          1570,
+          1435
+        ],
+        [
+          241,
+          1435
+        ]
+      ],
+      "score": 0.96793133020401,
+      "y_pos": 1316,
+      "text": "- Trường hợp nặng thì chọn các vị thuốc trong nhóm\n\"Mãnh tướng\" (như Tê giác, Chu sa, Hoàng liên...)",
+      "confidence": 0.9963548852869648
+    },
+    {
+      "type": "text",
+      "img_path": "p0253_006_text.png",
+      "bbox": [
+        [
+          238,
+          1474
+        ],
+        [
+          1578,
+          1474
+        ],
+        [
+          1578,
+          1591
+        ],
+        [
+          238,
+          1591
+        ]
+      ],
+      "score": 0.9666628241539001,
+      "y_pos": 1474,
+      "text": "Trường hợp nhẹ thì chọn các vị thuốc trong nhóm \"Thứ\ntướng\" (như Liên kiều, Thủy xương bồ, Mạn kinh tử, Xa tiền tử).",
+      "confidence": 0.9997906885085962
+    },
+    {
+      "type": "text",
+      "img_path": "p0253_007_text.png",
+      "bbox": [
+        [
+          237,
+          1630
+        ],
+        [
+          1572,
+          1630
+        ],
+        [
+          1572,
+          1748
+        ],
+        [
+          237,
+          1748
+        ]
+      ],
+      "score": 0.9652684926986694,
+      "y_pos": 1630,
+      "text": "Nếu Tâm bị nhiệt chứng kèm Thực chứng thì ta chọn vị\nthuốc kết hợp cả hai nhóm Lương và Tả như trên.",
+      "confidence": 0.9994630864170223
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0253_010_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1787
+        ],
+        [
+          1348,
+          1787
+        ],
+        [
+          1348,
+          1842
+        ],
+        [
+          344,
+          1842
+        ]
+      ],
+      "score": 0.9161869883537292,
+      "y_pos": 1787,
+      "text": "2. Áp dụng cách thứ hai (dùng Cổ phương)",
+      "confidence": 0.9960586300918034
+    },
+    {
+      "type": "text",
+      "img_path": "p0253_008_text.png",
+      "bbox": [
+        [
+          225,
+          1875
+        ],
+        [
+          1573,
+          1875
+        ],
+        [
+          1573,
+          1999
+        ],
+        [
+          225,
+          1999
+        ]
+      ],
+      "score": 0.9565419554710388,
+      "y_pos": 1875,
+      "text": "Nếu tâm suy yếu thì thường người ta chọn bài cổ phương\nmang tên \"Quy tỳ thang\" gồm các vị sau:",
+      "confidence": 0.9939121153296494
+    },
+    {
+      "type": "text",
+      "img_path": "p0253_015_text.png",
+      "bbox": [
+        [
+          229,
+          2036
+        ],
+        [
+          451,
+          2036
+        ],
+        [
+          451,
+          2083
+        ],
+        [
+          229,
+          2083
+        ]
+      ],
+      "score": 0.5070160627365112,
+      "y_pos": 2036,
+      "text": "Nhân sâm",
+      "confidence": 0.9502746164798737
+    },
+    {
+      "type": "text",
+      "img_path": "p0253_013_text.png",
+      "bbox": [
+        [
+          230,
+          2126
+        ],
+        [
+          440,
+          2126
+        ],
+        [
+          440,
+          2180
+        ],
+        [
+          230,
+          2180
+        ]
+      ],
+      "score": 0.528221845626831,
+      "y_pos": 2126,
+      "text": "Hoàng kỳ",
+      "confidence": 0.9008134067058563
+    },
+    {
+      "type": "text",
+      "img_path": "p0253_014_text.png",
+      "bbox": [
+        [
+          984,
+          2127
+        ],
+        [
+          1208,
+          2127
+        ],
+        [
+          1208,
+          2178
+        ],
+        [
+          984,
+          2178
+        ]
+      ],
+      "score": 0.5157114267349243,
+      "y_pos": 2127,
+      "text": "Bach truât",
+      "confidence": 0.8884336849053701
+    },
+    {
+      "type": "number",
+      "img_path": "p0253_011_number.png",
+      "bbox": [
+        [
+          1530,
+          2224
+        ],
+        [
+          1611,
+          2224
+        ],
+        [
+          1611,
+          2268
+        ],
+        [
+          1530,
+          2268
+        ]
+      ],
+      "score": 0.848562479019165,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0253.png"
+}

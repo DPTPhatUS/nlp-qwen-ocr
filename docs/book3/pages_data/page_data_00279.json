@@ -1,0 +1,422 @@
+{
+  "page_num": 279,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0279_015_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          751,
+          0
+        ],
+        [
+          751,
+          95
+        ],
+        [
+          227,
+          95
+        ]
+      ],
+      "score": 0.6630091667175293,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9635226765045752
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0279_014_paragraph_title.png",
+      "bbox": [
+        [
+          232,
+          342
+        ],
+        [
+          996,
+          342
+        ],
+        [
+          996,
+          443
+        ],
+        [
+          232,
+          443
+        ]
+      ],
+      "score": 0.8357388377189636,
+      "y_pos": 342,
+      "text": "16. BÁT PHÁP TRÂN ĐỒ",
+      "confidence": 0.8134136254137213
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0279_004_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          578
+        ],
+        [
+          740,
+          578
+        ],
+        [
+          740,
+          632
+        ],
+        [
+          227,
+          632
+        ]
+      ],
+      "score": 0.9249758720397949,
+      "y_pos": 578,
+      "text": "I. BAT PHAP LA GI?",
+      "confidence": 0.8869628846645355
+    },
+    {
+      "type": "text",
+      "img_path": "p0279_001_text.png",
+      "bbox": [
+        [
+          223,
+          674
+        ],
+        [
+          1570,
+          674
+        ],
+        [
+          1570,
+          862
+        ],
+        [
+          223,
+          862
+        ]
+      ],
+      "score": 0.9763820767402649,
+      "y_pos": 674,
+      "text": "Bát pháp là 8 phương pháp trị bệnh. Với Đông y học tất\ncả các phương pháp trị bệnh đều được quy về Bát pháp là\nHãn, Thổ, Ha, Hỏa, Thanh, Ôn, Tiêu, Bổ.",
+      "confidence": 0.9962726877274907
+    },
+    {
+      "type": "text",
+      "img_path": "p0279_010_text.png",
+      "bbox": [
+        [
+          402,
+          887
+        ],
+        [
+          1280,
+          887
+        ],
+        [
+          1280,
+          938
+        ],
+        [
+          402,
+          938
+        ]
+      ],
+      "score": 0.9158661961555481,
+      "y_pos": 887,
+      "text": "- Hãn: Là làm phát hãn (Cho ra mồ hôi).",
+      "confidence": 0.9859663233524416
+    },
+    {
+      "type": "text",
+      "img_path": "p0279_007_text.png",
+      "bbox": [
+        [
+          403,
+          963
+        ],
+        [
+          871,
+          963
+        ],
+        [
+          871,
+          1011
+        ],
+        [
+          403,
+          1011
+        ]
+      ],
+      "score": 0.9176525473594666,
+      "y_pos": 963,
+      "text": "- Thổ: Là làm nôn ói.",
+      "confidence": 0.9892198909883914
+    },
+    {
+      "type": "text",
+      "img_path": "p0279_005_text.png",
+      "bbox": [
+        [
+          401,
+          1040
+        ],
+        [
+          1198,
+          1040
+        ],
+        [
+          1198,
+          1090
+        ],
+        [
+          401,
+          1090
+        ]
+      ],
+      "score": 0.9197915196418762,
+      "y_pos": 1040,
+      "text": "- Ha: Là làm xổ theo đường đại tiện.",
+      "confidence": 0.9898978581554011
+    },
+    {
+      "type": "text",
+      "img_path": "p0279_008_text.png",
+      "bbox": [
+        [
+          401,
+          1116
+        ],
+        [
+          1230,
+          1116
+        ],
+        [
+          1230,
+          1167
+        ],
+        [
+          401,
+          1167
+        ]
+      ],
+      "score": 0.9174762964248657,
+      "y_pos": 1116,
+      "text": "- Hòa: Là hòa giải, điều hòa, hòa hợp.",
+      "confidence": 0.9843945890665055
+    },
+    {
+      "type": "text",
+      "img_path": "p0279_009_text.png",
+      "bbox": [
+        [
+          402,
+          1195
+        ],
+        [
+          868,
+          1195
+        ],
+        [
+          868,
+          1238
+        ],
+        [
+          402,
+          1238
+        ]
+      ],
+      "score": 0.9173083901405334,
+      "y_pos": 1195,
+      "text": "- Thanh: Là làm mát.",
+      "confidence": 0.9521000683307648
+    },
+    {
+      "type": "text",
+      "img_path": "p0279_006_text.png",
+      "bbox": [
+        [
+          403,
+          1265
+        ],
+        [
+          781,
+          1265
+        ],
+        [
+          781,
+          1315
+        ],
+        [
+          403,
+          1315
+        ]
+      ],
+      "score": 0.9186534881591797,
+      "y_pos": 1265,
+      "text": "- Ôn: Là làm ấm.",
+      "confidence": 0.8743487762080299
+    },
+    {
+      "type": "text",
+      "img_path": "p0279_011_text.png",
+      "bbox": [
+        [
+          401,
+          1348
+        ],
+        [
+          1196,
+          1348
+        ],
+        [
+          1196,
+          1394
+        ],
+        [
+          401,
+          1394
+        ]
+      ],
+      "score": 0.9130491614341736,
+      "y_pos": 1348,
+      "text": "- Tiêu: Là tiêu trừ, đào thải, làm tan.",
+      "confidence": 0.9627185260377279
+    },
+    {
+      "type": "text",
+      "img_path": "p0279_012_text.png",
+      "bbox": [
+        [
+          405,
+          1418
+        ],
+        [
+          763,
+          1418
+        ],
+        [
+          763,
+          1468
+        ],
+        [
+          405,
+          1468
+        ]
+      ],
+      "score": 0.9067901968955994,
+      "y_pos": 1418,
+      "text": "Bổ: Là bồi bổ.",
+      "confidence": 0.8654300756752491
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0279_003_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          1503
+        ],
+        [
+          1333,
+          1503
+        ],
+        [
+          1333,
+          1563
+        ],
+        [
+          224,
+          1563
+        ]
+      ],
+      "score": 0.9345619082450867,
+      "y_pos": 1503,
+      "text": "II. ƯNG DUNG BÁT PHÁP TRONG ĐIỀU TRI",
+      "confidence": 0.9959192699507663
+    },
+    {
+      "type": "text",
+      "img_path": "p0279_000_text.png",
+      "bbox": [
+        [
+          223,
+          1603
+        ],
+        [
+          1573,
+          1603
+        ],
+        [
+          1573,
+          1789
+        ],
+        [
+          223,
+          1789
+        ]
+      ],
+      "score": 0.9775285124778748,
+      "y_pos": 1603,
+      "text": "- Đối với bệnh cảm mạo, thuộc dương chứng, tà khí\ngây bệnh còn ở phần biểu thì dùng Hãn pháp (làm cho ra mồ\nhôi để tà khí theo mồ hôi ra ngoài).",
+      "confidence": 0.997049959786607
+    },
+    {
+      "type": "text",
+      "img_path": "p0279_002_text.png",
+      "bbox": [
+        [
+          222,
+          1825
+        ],
+        [
+          1571,
+          1825
+        ],
+        [
+          1571,
+          2016
+        ],
+        [
+          222,
+          2016
+        ]
+      ],
+      "score": 0.9739833474159241,
+      "y_pos": 1825,
+      "text": "- Đối với trường hợp mới ăn uống phải chất độc hoặc bị\nhóc, bị đàm tắc nghẽn thì dùng Thổ pháp để ói đồ ăn có dính\nchất độc hoặc dị vật hoặc đờm dãi ra ngoài.",
+      "confidence": 0.9950961088471684
+    },
+    {
+      "type": "number",
+      "img_path": "p0279_013_number.png",
+      "bbox": [
+        [
+          1530,
+          2224
+        ],
+        [
+          1611,
+          2224
+        ],
+        [
+          1611,
+          2266
+        ],
+        [
+          1530,
+          2266
+        ]
+      ],
+      "score": 0.8988132476806641,
+      "y_pos": 2224,
+      "text": "\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0279.png"
+}

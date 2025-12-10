@@ -1,0 +1,110 @@
+{
+  "page_num": 210,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0210_001_text.png",
+      "bbox": [
+        [
+          410,
+          306
+        ],
+        [
+          1273,
+          306
+        ],
+        [
+          1273,
+          742
+        ],
+        [
+          410,
+          742
+        ]
+      ],
+      "score": 0.882899284362793,
+      "y_pos": 306,
+      "text": "Vương công quyền quý chuộng mình,\nHoanh tài may mắn công đình tới lui,\nCổ bồn sao khéo hên xui,\nRồi ra lắm chuyện ngậm ngùi riêng tây\nXuân qua hoa đã nở đầy,\nHết thời xuân sắc, ong bay bướm chuồn.",
+      "confidence": 0.9881539677323752
+    },
+    {
+      "type": "text",
+      "img_path": "p0210_002_text.png",
+      "bbox": [
+        [
+          395,
+          843
+        ],
+        [
+          1287,
+          843
+        ],
+        [
+          1287,
+          1431
+        ],
+        [
+          395,
+          1431
+        ]
+      ],
+      "score": 0.8712880611419678,
+      "y_pos": 843,
+      "text": "Bộ quan mạch <i>Hoạt</i> quan sang,\nĐa mưu túc kế khôn ngoan đủ điều.\nNgôi cao tài lộc càng nhiều,\nTiếng tăm lừng lẫy trăm điều đảm đương.\nThanh danh hiển hách phi thường,\nUy quyền bao quát bốn phương một nhà.\nKhông may bệnh tật phát ra\nốm đau lâu bị chứng là Vị ung.",
+      "confidence": 0.9939635412655253
+    },
+    {
+      "type": "text",
+      "img_path": "p0210_003_text.png",
+      "bbox": [
+        [
+          407,
+          1530
+        ],
+        [
+          1278,
+          1530
+        ],
+        [
+          1278,
+          2118
+        ],
+        [
+          407,
+          2118
+        ]
+      ],
+      "score": 0.8612380027770996,
+      "y_pos": 1530,
+      "text": "Người nào Xích Hoạt quý thay,\nCông thành danh toại rồng mây gặp thời\nThông minh tài trí hơn người,\nNếu được bộ Xích, <i>Hoạt</i> thời giàu sang.\nVợ hiền con thảo vẻ vang,\nTrâm anh văn vật an khang thọ tràng,\nMách cho bệnh tật giở giang,\nVề già táo bón đau màng ruột non",
+      "confidence": 0.9953635735041557
+    },
+    {
+      "type": "number",
+      "img_path": "p0210_000_number.png",
+      "bbox": [
+        [
+          174,
+          2224
+        ],
+        [
+          258,
+          2224
+        ],
+        [
+          258,
+          2267
+        ],
+        [
+          174,
+          2267
+        ]
+      ],
+      "score": 0.9029470086097717,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0210.png"
+}

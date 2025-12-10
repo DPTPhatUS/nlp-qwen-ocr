@@ -1,0 +1,82 @@
+{
+  "page_num": 269,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0269_002_header.png",
+      "bbox": [
+        [
+          233,
+          1
+        ],
+        [
+          752,
+          1
+        ],
+        [
+          752,
+          96
+        ],
+        [
+          233,
+          96
+        ]
+      ],
+      "score": 0.5169044733047485,
+      "y_pos": 1,
+      "text": "TẬP ĐOÀN Y DƯỢC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9712287804713615
+    },
+    {
+      "type": "image",
+      "img_path": "p0269_000_image.png",
+      "bbox": [
+        [
+          267,
+          299
+        ],
+        [
+          1541,
+          299
+        ],
+        [
+          1541,
+          2176
+        ],
+        [
+          267,
+          2176
+        ]
+      ],
+      "score": 0.9824184775352478,
+      "y_pos": 299
+    },
+    {
+      "type": "number",
+      "img_path": "p0269_001_number.png",
+      "bbox": [
+        [
+          1531,
+          2226
+        ],
+        [
+          1612,
+          2226
+        ],
+        [
+          1612,
+          2267
+        ],
+        [
+          1531,
+          2267
+        ]
+      ],
+      "score": 0.920444905757904,
+      "y_pos": 2226,
+      "text": "\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0269.png"
+}

@@ -1,0 +1,108 @@
+{
+  "page_num": 160,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0160_002_text.png",
+      "bbox": [
+        [
+          488,
+          322
+        ],
+        [
+          1480,
+          322
+        ],
+        [
+          1480,
+          446
+        ],
+        [
+          488,
+          446
+        ]
+      ],
+      "score": 0.5769276022911072,
+      "y_pos": 322,
+      "text": "Vô lưc    Nhươc    Dùng có luật    Đợi\nHữu lực, trơn    Hoat    Rỗng tuếch    Hư",
+      "confidence": 0.8894521916107763
+    },
+    {
+      "type": "image",
+      "img_path": "p0160_003_image.png",
+      "bbox": [
+        [
+          324,
+          1049
+        ],
+        [
+          488,
+          1049
+        ],
+        [
+          488,
+          1176
+        ],
+        [
+          324,
+          1176
+        ]
+      ],
+      "score": 0.5098277926445007,
+      "y_pos": 1049
+    },
+    {
+      "type": "text",
+      "img_path": "p0160_001_text.png",
+      "bbox": [
+        [
+          315,
+          1476
+        ],
+        [
+          1283,
+          1476
+        ],
+        [
+          1283,
+          2145
+        ],
+        [
+          315,
+          2145
+        ]
+      ],
+      "score": 0.6957244873046875,
+      "y_pos": 1476,
+      "text": "TỨ TÔNG MẠCH CA\nPHÙ sinh ra Khổng, Khẩn, Hồng\nPhất phơ ngoài biểu không chồng mà sanh\nChẳng chê còn bảo rằng: Lành\nSắC đẻ Huyền, Thực ra thành hai con\nChờ ai mắt những mỏi mòn\nTRÂM sinh Hoạt, Nhược, Phục còn thêm Vi\nTRÌ thời chậm trễ, lầm lỳ",
+      "confidence": 0.9416076780341365
+    },
+    {
+      "type": "number",
+      "img_path": "p0160_000_number.png",
+      "bbox": [
+        [
+          180,
+          2226
+        ],
+        [
+          257,
+          2226
+        ],
+        [
+          257,
+          2267
+        ],
+        [
+          180,
+          2267
+        ]
+      ],
+      "score": 0.9196336269378662,
+      "y_pos": 2226,
+      "text": "\n    \n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0160.png"
+}

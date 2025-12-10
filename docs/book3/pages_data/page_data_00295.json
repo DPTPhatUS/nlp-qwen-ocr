@@ -1,0 +1,160 @@
+{
+  "page_num": 295,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0295_004_header.png",
+      "bbox": [
+        [
+          231,
+          1
+        ],
+        [
+          752,
+          1
+        ],
+        [
+          752,
+          95
+        ],
+        [
+          231,
+          95
+        ]
+      ],
+      "score": 0.6453319787979126,
+      "y_pos": 1,
+      "text": "TẬP ĐOÀN Y DƯỢC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9945510694155326
+    },
+    {
+      "type": "image",
+      "img_path": "p0295_000_image.png",
+      "bbox": [
+        [
+          255,
+          332
+        ],
+        [
+          1541,
+          332
+        ],
+        [
+          1541,
+          1911
+        ],
+        [
+          255,
+          1911
+        ]
+      ],
+      "score": 0.9787293672561646,
+      "y_pos": 332
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0295_002_figure_title.png",
+      "bbox": [
+        [
+          705,
+          1937
+        ],
+        [
+          1175,
+          1937
+        ],
+        [
+          1175,
+          1998
+        ],
+        [
+          705,
+          1998
+        ]
+      ],
+      "score": 0.7532036900520325,
+      "y_pos": 1937,
+      "text": "THỔ PHÁP TRẦN ĐỘ",
+      "confidence": 0.41800441675715977
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0295_003_paragraph_title.png",
+      "bbox": [
+        [
+          231,
+          2035
+        ],
+        [
+          494,
+          2035
+        ],
+        [
+          494,
+          2085
+        ],
+        [
+          231,
+          2085
+        ]
+      ],
+      "score": 0.6693264245986938,
+      "y_pos": 2035,
+      "text": "1. Tuy lai ẩm",
+      "confidence": 0.9325879653294881
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0295_005_figure_title.png",
+      "bbox": [
+        [
+          1043,
+          2038
+        ],
+        [
+          1464,
+          2038
+        ],
+        [
+          1464,
+          2087
+        ],
+        [
+          1043,
+          2087
+        ]
+      ],
+      "score": 0.6008157134056091,
+      "y_pos": 2038,
+      "text": "2. Thượng lâm thang",
+      "confidence": 0.9964679848580134
+    },
+    {
+      "type": "number",
+      "img_path": "p0295_001_number.png",
+      "bbox": [
+        [
+          1531,
+          2224
+        ],
+        [
+          1611,
+          2224
+        ],
+        [
+          1611,
+          2267
+        ],
+        [
+          1531,
+          2267
+        ]
+      ],
+      "score": 0.9109815955162048,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0295.png"
+}

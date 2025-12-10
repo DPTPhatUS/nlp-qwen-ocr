@@ -1,0 +1,500 @@
+{
+  "page_num": 344,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0344_002_text.png",
+      "bbox": [
+        [
+          164,
+          307
+        ],
+        [
+          1512,
+          307
+        ],
+        [
+          1512,
+          427
+        ],
+        [
+          164,
+          427
+        ]
+      ],
+      "score": 0.6600736379623413,
+      "y_pos": 307,
+      "text": "Phương thuốc chữa chứng mụn nhọt, lở ngứa thì\ndùng những bài sau:",
+      "confidence": 0.9871482538114082
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0344_001_paragraph_title.png",
+      "bbox": [
+        [
+          320,
+          476
+        ],
+        [
+          837,
+          476
+        ],
+        [
+          837,
+          529
+        ],
+        [
+          320,
+          529
+        ]
+      ],
+      "score": 0.6814014315605164,
+      "y_pos": 476,
+      "text": "1. Phòng phong thang:",
+      "confidence": 0.8953960926636405
+    },
+    {
+      "type": "text",
+      "img_path": "p0344_017_text.png",
+      "bbox": [
+        [
+          321,
+          620
+        ],
+        [
+          1309,
+          620
+        ],
+        [
+          1309,
+          672
+        ],
+        [
+          321,
+          672
+        ]
+      ],
+      "score": 0.5039466023445129,
+      "y_pos": 620,
+      "text": "Ma hoàng    ŊΩ    Hanh nhân    10g",
+      "confidence": 0.773083823648366
+    },
+    {
+      "type": "text",
+      "img_path": "p0344_013_text.png",
+      "bbox": [
+        [
+          321,
+          692
+        ],
+        [
+          1283,
+          692
+        ],
+        [
+          1283,
+          745
+        ],
+        [
+          321,
+          745
+        ]
+      ],
+      "score": 0.5385315418243408,
+      "y_pos": 692,
+      "text": "Hoàng cầm    10g    Cam thảo    6g",
+      "confidence": 0.9469256808134643
+    },
+    {
+      "type": "text",
+      "img_path": "p0344_009_text.png",
+      "bbox": [
+        [
+          320,
+          765
+        ],
+        [
+          1308,
+          765
+        ],
+        [
+          1308,
+          818
+        ],
+        [
+          320,
+          818
+        ]
+      ],
+      "score": 0.5545436143875122,
+      "y_pos": 765,
+      "text": "Xích thước    12g    Độc hoạt    10g",
+      "confidence": 0.8996198323865732
+    },
+    {
+      "type": "text",
+      "img_path": "p0344_012_text.png",
+      "bbox": [
+        [
+          319,
+          837
+        ],
+        [
+          1308,
+          837
+        ],
+        [
+          1308,
+          893
+        ],
+        [
+          319,
+          893
+        ]
+      ],
+      "score": 0.5412680506706238,
+      "y_pos": 837,
+      "text": "<b>Duong</b> quy    12g    Tần giao    12g",
+      "confidence": 0.8540975488149203
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0344_007_paragraph_title.png",
+      "bbox": [
+        [
+          167,
+          1000
+        ],
+        [
+          896,
+          1000
+        ],
+        [
+          896,
+          1048
+        ],
+        [
+          167,
+          1048
+        ]
+      ],
+      "score": 0.5746034979820251,
+      "y_pos": 1000,
+      "text": "+ Gia thêm các vị tiêu độc như:",
+      "confidence": 0.9905719468087861
+    },
+    {
+      "type": "text",
+      "img_path": "p0344_015_text.png",
+      "bbox": [
+        [
+          318,
+          1085
+        ],
+        [
+          1308,
+          1085
+        ],
+        [
+          1308,
+          1139
+        ],
+        [
+          318,
+          1139
+        ]
+      ],
+      "score": 0.5279560089111328,
+      "y_pos": 1085,
+      "text": "Ngân hoa    10g    Liên kiểu    10g",
+      "confidence": 0.9235793571580541
+    },
+    {
+      "type": "text",
+      "img_path": "p0344_006_text.png",
+      "bbox": [
+        [
+          318,
+          1174
+        ],
+        [
+          1284,
+          1174
+        ],
+        [
+          1284,
+          1227
+        ],
+        [
+          318,
+          1227
+        ]
+      ],
+      "score": 0.5746124386787415,
+      "y_pos": 1174,
+      "text": "Sài đất    12g    Phù bình    8g",
+      "confidence": 0.9273652737339337
+    },
+    {
+      "type": "text",
+      "img_path": "p0344_004_text.png",
+      "bbox": [
+        [
+          168,
+          1264
+        ],
+        [
+          1299,
+          1264
+        ],
+        [
+          1299,
+          1319
+        ],
+        [
+          168,
+          1319
+        ]
+      ],
+      "score": 0.6089001297950745,
+      "y_pos": 1264,
+      "text": "+ Nếu mạch phù xác thì phải gia bài \"Tứ hoàng\"",
+      "confidence": 0.9987537264823914
+    },
+    {
+      "type": "text",
+      "img_path": "p0344_014_text.png",
+      "bbox": [
+        [
+          318,
+          1354
+        ],
+        [
+          1306,
+          1354
+        ],
+        [
+          1306,
+          1409
+        ],
+        [
+          318,
+          1409
+        ]
+      ],
+      "score": 0.5336843729019165,
+      "y_pos": 1354,
+      "text": "Hoàng cầm    12g    Hoàng liên    8g",
+      "confidence": 0.9239645499171631
+    },
+    {
+      "type": "text",
+      "img_path": "p0344_008_text.png",
+      "bbox": [
+        [
+          320,
+          1443
+        ],
+        [
+          1309,
+          1443
+        ],
+        [
+          1309,
+          1498
+        ],
+        [
+          320,
+          1498
+        ]
+      ],
+      "score": 0.5611832141876221,
+      "y_pos": 1443,
+      "text": "Hoàng bá    12g    Chi tử    12g",
+      "confidence": 0.9322794996201992
+    },
+    {
+      "type": "text",
+      "img_path": "p0344_010_text.png",
+      "bbox": [
+        [
+          168,
+          1532
+        ],
+        [
+          1124,
+          1532
+        ],
+        [
+          1124,
+          1587
+        ],
+        [
+          168,
+          1587
+        ]
+      ],
+      "score": 0.5507792234420776,
+      "y_pos": 1532,
+      "text": "+ Nếu mạch nhu tế thì gia bài \"Tứ quân\"",
+      "confidence": 0.9987947693685206
+    },
+    {
+      "type": "text",
+      "img_path": "p0344_018_text.png",
+      "bbox": [
+        [
+          318,
+          1622
+        ],
+        [
+          1486,
+          1622
+        ],
+        [
+          1486,
+          1767
+        ],
+        [
+          318,
+          1767
+        ]
+      ],
+      "score": 0.502892255783081,
+      "y_pos": 1622,
+      "text": "Nhân sâm 6g    Bach linh 15g\nBach truât 12g    Cam thảo (đã có trong bài phòng phong)",
+      "confidence": 0.9642731709835621
+    },
+    {
+      "type": "text",
+      "img_path": "p0344_016_text.png",
+      "bbox": [
+        [
+          321,
+          1714
+        ],
+        [
+          1488,
+          1714
+        ],
+        [
+          1488,
+          1766
+        ],
+        [
+          321,
+          1766
+        ]
+      ],
+      "score": 0.5122447609901428,
+      "y_pos": 1714,
+      "text": "Bach truât    12g    Cam thảo (đã có trong bài phòng phong)",
+      "confidence": 0.9548632260825899
+    },
+    {
+      "type": "text",
+      "img_path": "p0344_011_text.png",
+      "bbox": [
+        [
+          168,
+          1801
+        ],
+        [
+          1125,
+          1801
+        ],
+        [
+          1125,
+          1857
+        ],
+        [
+          168,
+          1857
+        ]
+      ],
+      "score": 0.5494640469551086,
+      "y_pos": 1801,
+      "text": "+ Nếu mạch hoãn sắc thì gia bài \"tứ vật\"",
+      "confidence": 0.9985599801653907
+    },
+    {
+      "type": "text",
+      "img_path": "p0344_005_text.png",
+      "bbox": [
+        [
+          318,
+          1893
+        ],
+        [
+          1308,
+          1893
+        ],
+        [
+          1308,
+          1948
+        ],
+        [
+          318,
+          1948
+        ]
+      ],
+      "score": 0.5785438418388367,
+      "y_pos": 1893,
+      "text": "Xuyên khung    8g    Thuc dia    30g",
+      "confidence": 0.8362185194706305
+    },
+    {
+      "type": "text",
+      "img_path": "p0344_003_text.png",
+      "bbox": [
+        [
+          319,
+          1982
+        ],
+        [
+          1308,
+          1982
+        ],
+        [
+          1308,
+          2034
+        ],
+        [
+          319,
+          2034
+        ]
+      ],
+      "score": 0.6188613772392273,
+      "y_pos": 1982,
+      "text": "<b>D</b>ương quy    (đã có)    Bach thước    15g",
+      "confidence": 0.9140967404485768
+    },
+    {
+      "type": "number",
+      "img_path": "p0344_000_number.png",
+      "bbox": [
+        [
+          174,
+          2225
+        ],
+        [
+          257,
+          2225
+        ],
+        [
+          257,
+          2267
+        ],
+        [
+          174,
+          2267
+        ]
+      ],
+      "score": 0.8984079957008362,
+      "y_pos": 2225,
+      "text": "    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0344.png"
+}

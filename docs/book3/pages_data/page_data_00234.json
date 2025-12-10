@@ -1,0 +1,448 @@
+{
+  "page_num": 234,
+  "content": [
+    {
+      "type": "paragraph_title",
+      "img_path": "p0234_013_paragraph_title.png",
+      "bbox": [
+        [
+          166,
+          295
+        ],
+        [
+          1011,
+          295
+        ],
+        [
+          1011,
+          357
+        ],
+        [
+          166,
+          357
+        ]
+      ],
+      "score": 0.9152324795722961,
+      "y_pos": 295,
+      "text": "II. CHI TAY BIEU HIEN BENH LY",
+      "confidence": 0.8741721068659136
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0234_016_paragraph_title.png",
+      "bbox": [
+        [
+          319,
+          398
+        ],
+        [
+          742,
+          398
+        ],
+        [
+          742,
+          449
+        ],
+        [
+          319,
+          449
+        ]
+      ],
+      "score": 0.8025041222572327,
+      "y_pos": 398,
+      "text": "1. Màu sắc chỉ tay",
+      "confidence": 0.9478145390748978
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_006_text.png",
+      "bbox": [
+        [
+          314,
+          485
+        ],
+        [
+          1396,
+          485
+        ],
+        [
+          1396,
+          540
+        ],
+        [
+          314,
+          540
+        ]
+      ],
+      "score": 0.9222415089607239,
+      "y_pos": 485,
+      "text": "- Chỉ tay có màu trắng biểu hiện bệnh Can phong.",
+      "confidence": 0.9956739044189453
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_011_text.png",
+      "bbox": [
+        [
+          314,
+          573
+        ],
+        [
+          886,
+          573
+        ],
+        [
+          886,
+          625
+        ],
+        [
+          314,
+          625
+        ]
+      ],
+      "score": 0.9188450574874878,
+      "y_pos": 573,
+      "text": "- Vàng thẫm - bệnh Tỳ Vị",
+      "confidence": 0.9543932584615854
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_008_text.png",
+      "bbox": [
+        [
+          314,
+          661
+        ],
+        [
+          1333,
+          661
+        ],
+        [
+          1333,
+          716
+        ],
+        [
+          314,
+          716
+        ]
+      ],
+      "score": 0.9207233190536499,
+      "y_pos": 661,
+      "text": "- Trắng hồng bệnh nóng lạnh thuộc biểu chứng",
+      "confidence": 0.9988043386003246
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_012_text.png",
+      "bbox": [
+        [
+          315,
+          749
+        ],
+        [
+          742,
+          749
+        ],
+        [
+          742,
+          803
+        ],
+        [
+          315,
+          803
+        ]
+      ],
+      "score": 0.9183704853057861,
+      "y_pos": 749,
+      "text": "- Hồng bệnh tiết tả.",
+      "confidence": 0.9964025914669037
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_014_text.png",
+      "bbox": [
+        [
+          315,
+          840
+        ],
+        [
+          1212,
+          840
+        ],
+        [
+          1212,
+          892
+        ],
+        [
+          315,
+          892
+        ]
+      ],
+      "score": 0.913798987865448,
+      "y_pos": 840,
+      "text": "- Đỏ hồng - Bệnh ban sởi hay thương hàn",
+      "confidence": 0.8264661344086252
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_000_text.png",
+      "bbox": [
+        [
+          165,
+          931
+        ],
+        [
+          1512,
+          931
+        ],
+        [
+          1512,
+          1120
+        ],
+        [
+          165,
+          1120
+        ]
+      ],
+      "score": 0.9785980582237244,
+      "y_pos": 931,
+      "text": "Lưu ý: khi bệnh biến chuyển nhẹ sang nặng hoặc nặng\nsang nhẹ thì màu sắc không còn thuần túy mà cũng biến ảo\ndạng. Ví dụ:",
+      "confidence": 0.993625987130817
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_010_text.png",
+      "bbox": [
+        [
+          317,
+          1153
+        ],
+        [
+          1201,
+          1153
+        ],
+        [
+          1201,
+          1209
+        ],
+        [
+          317,
+          1209
+        ]
+      ],
+      "score": 0.9191192984580994,
+      "y_pos": 1153,
+      "text": "Vàng hồng mà hồng nhiều thành tím.",
+      "confidence": 0.9977376196119521
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_004_text.png",
+      "bbox": [
+        [
+          318,
+          1245
+        ],
+        [
+          1133,
+          1245
+        ],
+        [
+          1133,
+          1294
+        ],
+        [
+          318,
+          1294
+        ]
+      ],
+      "score": 0.9236789345741272,
+      "y_pos": 1245,
+      "text": "Hồng tía mà tía nhiều thành xanh.",
+      "confidence": 0.9941030383110047
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_007_text.png",
+      "bbox": [
+        [
+          317,
+          1333
+        ],
+        [
+          1341,
+          1333
+        ],
+        [
+          1341,
+          1381
+        ],
+        [
+          317,
+          1381
+        ]
+      ],
+      "score": 0.9211381673812866,
+      "y_pos": 1333,
+      "text": "Xanh thẫm, mà thẫm nhiều thành xanh đen.",
+      "confidence": 0.997146881762005
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_005_text.png",
+      "bbox": [
+        [
+          317,
+          1423
+        ],
+        [
+          1088,
+          1423
+        ],
+        [
+          1088,
+          1469
+        ],
+        [
+          317,
+          1469
+        ]
+      ],
+      "score": 0.9224029183387756,
+      "y_pos": 1423,
+      "text": "Xanh đen biến thành thuần đen.",
+      "confidence": 0.9952112846076488
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_002_text.png",
+      "bbox": [
+        [
+          165,
+          1511
+        ],
+        [
+          1509,
+          1511
+        ],
+        [
+          1509,
+          1632
+        ],
+        [
+          165,
+          1632
+        ]
+      ],
+      "score": 0.9686276316642761,
+      "y_pos": 1511,
+      "text": "Chỉ tay có màu đen là biểu hiện bệnh lý đã đến lúc\nnguy kịch.",
+      "confidence": 0.9922234677733519
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0234_009_paragraph_title.png",
+      "bbox": [
+        [
+          316,
+          1670
+        ],
+        [
+          1295,
+          1670
+        ],
+        [
+          1295,
+          1721
+        ],
+        [
+          316,
+          1721
+        ]
+      ],
+      "score": 0.919223964214325,
+      "y_pos": 1670,
+      "text": "2.Chỉ tay biểu hiện các dạng bệnh kinh sài",
+      "confidence": 0.9710310954939235
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_003_text.png",
+      "bbox": [
+        [
+          165,
+          1759
+        ],
+        [
+          1510,
+          1759
+        ],
+        [
+          1510,
+          1881
+        ],
+        [
+          165,
+          1881
+        ]
+      ],
+      "score": 0.9663816094398499,
+      "y_pos": 1759,
+      "text": "Bệnh kinh sài ở trẻ em là do ảnh hưởng tình chí hoặc\ndo bệnh lý gây sốt cao mà lên cơn co giật.",
+      "confidence": 0.9994193025259458
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_001_text.png",
+      "bbox": [
+        [
+          166,
+          1917
+        ],
+        [
+          1511,
+          1917
+        ],
+        [
+          1511,
+          2102
+        ],
+        [
+          166,
+          2102
+        ]
+      ],
+      "score": 0.9742311835289001,
+      "y_pos": 1917,
+      "text": "- Tứ túc kinh: Trẻ có chỉ tay màu xanh sậm ở Hổ Khẩu,\nTam Quan là trẻ bị Kinh Sài bởi quá sợ hãi khi nhìn thấy loại\nthú có 4 chân.",
+      "confidence": 0.9973965571172797
+    },
+    {
+      "type": "number",
+      "img_path": "p0234_015_number.png",
+      "bbox": [
+        [
+          173,
+          2224
+        ],
+        [
+          256,
+          2224
+        ],
+        [
+          256,
+          2266
+        ],
+        [
+          173,
+          2266
+        ]
+      ],
+      "score": 0.8834230303764343,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0234.png"
+}

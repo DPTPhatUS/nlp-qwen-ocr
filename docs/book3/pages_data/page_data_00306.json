@@ -1,0 +1,56 @@
+{
+  "page_num": 306,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0306_001_header.png",
+      "bbox": [
+        [
+          920,
+          303
+        ],
+        [
+          1467,
+          303
+        ],
+        [
+          1467,
+          590
+        ],
+        [
+          920,
+          590
+        ]
+      ],
+      "score": 0.6375350952148438,
+      "y_pos": 303,
+      "text": "Đảng sâm    10gr\nBach truật    8gr\nThục địa    20gr\nCam thảo    4gr\nĐồng tiểu    1/2 chén",
+      "confidence": 0.9347474252003611
+    },
+    {
+      "type": "image",
+      "img_path": "p0306_000_image.png",
+      "bbox": [
+        [
+          174,
+          664
+        ],
+        [
+          1542,
+          664
+        ],
+        [
+          1542,
+          2476
+        ],
+        [
+          174,
+          2476
+        ]
+      ],
+      "score": 0.7810251116752625,
+      "y_pos": 664
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0306.png"
+}

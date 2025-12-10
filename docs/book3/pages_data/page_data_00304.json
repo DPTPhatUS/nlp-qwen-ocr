@@ -1,0 +1,58 @@
+{
+  "page_num": 304,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0304_001_text.png",
+      "bbox": [
+        [
+          796,
+          920
+        ],
+        [
+          1453,
+          920
+        ],
+        [
+          1453,
+          1508
+        ],
+        [
+          796,
+          1508
+        ]
+      ],
+      "score": 0.5181610584259033,
+      "y_pos": 920,
+      "text": "2. Thanh dinh thang\nLinh dương giác    20gr\nHuyền sâm    4gr\nMạch môn    12gr\nNgân hoa    12gr\nHoàng liên    8gr\nSinh địa    8gr\nDot tre    20gr\nĐan sâm    12gr\nLiên kiều    6gr",
+      "confidence": 0.9015031333499868
+    },
+    {
+      "type": "number",
+      "img_path": "p0304_000_number.png",
+      "bbox": [
+        [
+          173,
+          2224
+        ],
+        [
+          259,
+          2224
+        ],
+        [
+          259,
+          2269
+        ],
+        [
+          173,
+          2269
+        ]
+      ],
+      "score": 0.6077409982681274,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0304.png"
+}

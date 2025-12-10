@@ -1,0 +1,214 @@
+{
+  "page_num": 106,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0106_002_text.png",
+      "bbox": [
+        [
+          164,
+          305
+        ],
+        [
+          1510,
+          305
+        ],
+        [
+          1510,
+          555
+        ],
+        [
+          164,
+          555
+        ]
+      ],
+      "score": 0.9764283299446106,
+      "y_pos": 305,
+      "text": "sinh tử hoặc cát hung trong bệnh lý không chỉ theo văn chẩn\nmà dựa vào văn chẩn, vọng chẩn, thiết chẩn cũng đoán được.\nCụ thể là dựa vào sự thuận nghịch mà các phép chẩn đã cho\nbiết.",
+      "confidence": 0.9979517605963816
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_004_text.png",
+      "bbox": [
+        [
+          165,
+          589
+        ],
+        [
+          1510,
+          589
+        ],
+        [
+          1510,
+          776
+        ],
+        [
+          165,
+          776
+        ]
+      ],
+      "score": 0.9677172899246216,
+      "y_pos": 589,
+      "text": "Ví dụ: Nếu dựa vào vọng chẩn thì người ta quan sát chủ\nkhí và khách khí (chủ khí là sắc của bản tạng bị bệnh, khách\nkhí là sắc theo mùa).",
+      "confidence": 0.9964255496684394
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_001_text.png",
+      "bbox": [
+        [
+          165,
+          806
+        ],
+        [
+          1510,
+          806
+        ],
+        [
+          1510,
+          1132
+        ],
+        [
+          165,
+          1132
+        ]
+      ],
+      "score": 0.9793493151664734,
+      "y_pos": 806,
+      "text": "Nếu khách thắng chủ là thuận mà chủ thắng khách là\nnghịch. Ví dụ cụ thể bệnh của tỳ là sắc da màu vàng (chủ khí)\nđến mùa thu nếu sắc da chuyển sang trắng (thu kim = màu\ntrắng) thì khách khí thắng chủ khí - bệnh thuận, ngược lại da\nvẫn vàng là chủ khí thắng khách khí - bệnh nghịch.",
+      "confidence": 0.9964371377580553
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_003_text.png",
+      "bbox": [
+        [
+          164,
+          1158
+        ],
+        [
+          1512,
+          1158
+        ],
+        [
+          1512,
+          1415
+        ],
+        [
+          164,
+          1415
+        ]
+      ],
+      "score": 0.972878634929657,
+      "y_pos": 1158,
+      "text": "- Với văn chẩn và thiết chẩn thì sự thuận nghịch càng để\nphân biệt và sau đó căn cứ theo mùa, theo những kiến thức\ntrên mà đoán giải ra ngày đỡ, ngày khỏi, ngày chết ... giống\nnhư Câu Tiễn chẩn đoán bệnh cho Phù Sai.",
+      "confidence": 0.997409575071956
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0106_006_paragraph_title.png",
+      "bbox": [
+        [
+          165,
+          1439
+        ],
+        [
+          1515,
+          1439
+        ],
+        [
+          1515,
+          1563
+        ],
+        [
+          165,
+          1563
+        ]
+      ],
+      "score": 0.9330046772956848,
+      "y_pos": 1439,
+      "text": "II. BỆNH NGŨ TẠNG CÁT HUNG THEO MÙA VÀ THEO\nNGÀY",
+      "confidence": 0.9097585188017951
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_000_text.png",
+      "bbox": [
+        [
+          164,
+          1596
+        ],
+        [
+          1510,
+          1596
+        ],
+        [
+          1510,
+          1922
+        ],
+        [
+          164,
+          1922
+        ]
+      ],
+      "score": 0.9798964262008667,
+      "y_pos": 1596,
+      "text": "- Mỗi tạng chủ mỗi mùa thuộc mỗi hành. Khi tạng bị\nbệnh tới mùa mà thuộc hành nó sinh ra thì bệnh dễ khỏi. Nếu\nkhông khỏi bệnh sẽ nặng lên ở mùa thuộc hành khắc nó và có\nthể tử vong, nếu không tử vong thì bệnh lại kéo dài ở mùa\nthuộc hành sinh ra nó rồi lại trỗi dậy ở mùa mà nó chủ.",
+      "confidence": 0.9978592650477139
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_005_text.png",
+      "bbox": [
+        [
+          164,
+          1949
+        ],
+        [
+          1510,
+          1949
+        ],
+        [
+          1510,
+          2139
+        ],
+        [
+          164,
+          2139
+        ]
+      ],
+      "score": 0.962955117225647,
+      "y_pos": 1949,
+      "text": "- Đối với ngày thì cũng tương tự như vậy. Cụ thể là\nbệnh dễ khỏi ở ngày có can thuộc hành nó sinh ra nếu không\nkhỏi thì nặng lên và có thể tử vong ở ngày có can thuộc hành",
+      "confidence": 0.9992102374435641
+    },
+    {
+      "type": "number",
+      "img_path": "p0106_007_number.png",
+      "bbox": [
+        [
+          179,
+          2225
+        ],
+        [
+          257,
+          2225
+        ],
+        [
+          257,
+          2268
+        ],
+        [
+          179,
+          2268
+        ]
+      ],
+      "score": 0.8784164190292358,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0106.png"
+}

@@ -1,0 +1,84 @@
+{
+  "page_num": 2,
+  "content": [
+    {
+      "type": "paragraph_title",
+      "img_path": "p0002_001_paragraph_title.png",
+      "bbox": [
+        [
+          621,
+          618
+        ],
+        [
+          1068,
+          618
+        ],
+        [
+          1068,
+          723
+        ],
+        [
+          621,
+          723
+        ]
+      ],
+      "score": 0.8009870052337646,
+      "y_pos": 618,
+      "text": "GIỚI THIỆU",
+      "confidence": 0.9615250378847122
+    },
+    {
+      "type": "abstract",
+      "img_path": "p0002_002_abstract.png",
+      "bbox": [
+        [
+          165,
+          799
+        ],
+        [
+          1513,
+          799
+        ],
+        [
+          1513,
+          2071
+        ],
+        [
+          165,
+          2071
+        ]
+      ],
+      "score": 0.7229604125022888,
+      "y_pos": 799,
+      "text": "Y học Đông phương vốn được coi là \"Hải học\" bởi sự\nmênh mông và huyền bí của nó. Người học càng đi càng thấy\nrộng, càng học càng thấy thiếu... Sách giáo khoa về Đông y có\ntới hàng ngàn bộ mà với quỹ thời gian của cả đời người cũng\nkhông thể đọc hết\". Vì thế vấn đề quan trọng trong việc giảng\ndạy và học tập là phương pháp tổng hợp.\nTôi đọc bản thảo cuốn: \"Đông y chẩn đoán và luận trị\"\ncủa Lương y, Tiến sĩ Nguyễn Hữu Khai nhận thấy những kiến\nthức như rừng đúc kết từ ngàn xưa đến nay đã được\nNguyễn Hữu Khai khái quát từ lý thuyết khoa học và đã mô\nhình hóa theo tư duy toán học. Với cách diễn đạt dễ hiểu, dễ\nhọc và dễ phổ cập. Bằng hệ thống kiến thức chặt chẽ từ các\nhình đồ mạch lý, hình đồ dược hội, hình đồ bát pháp và những\nbài biện chứng luận trị mẫu không chỉ mang tính lôgic,\nthuyết phục mà còn rất đậm đà bản sắc y học cổ truyền. Đồng\nthời những kiến thức khó nhớ lại được Nguyễn Hữu Khai\nchuyển thành thể thơ lục bát khéo léo và dễ thuộc, để bạn đọc\ndễ dàng lãnh hội, ứng dụng lâm sàng và có thể tự học được.",
+      "confidence": 0.9989736087369412
+    },
+    {
+      "type": "number",
+      "img_path": "p0002_000_number.png",
+      "bbox": [
+        [
+          175,
+          2226
+        ],
+        [
+          200,
+          2226
+        ],
+        [
+          200,
+          2266
+        ],
+        [
+          175,
+          2266
+        ]
+      ],
+      "score": 0.8119973540306091,
+      "y_pos": 2226,
+      "text": "    \n    \n    \n    \n\n\n\n\n        \n\n\n    ۰\n    ۰\n١    \n            ì\n    \n",
+      "confidence": 0.914428569128116
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0002.png"
+}

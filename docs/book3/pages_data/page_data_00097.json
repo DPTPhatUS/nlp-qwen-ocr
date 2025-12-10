@@ -1,0 +1,370 @@
+{
+  "page_num": 97,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0097_013_header.png",
+      "bbox": [
+        [
+          228,
+          0
+        ],
+        [
+          751,
+          0
+        ],
+        [
+          751,
+          95
+        ],
+        [
+          228,
+          95
+        ]
+      ],
+      "score": 0.6436259746551514,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9627131231014545
+    },
+    {
+      "type": "text",
+      "img_path": "p0097_006_text.png",
+      "bbox": [
+        [
+          345,
+          305
+        ],
+        [
+          1383,
+          305
+        ],
+        [
+          1383,
+          355
+        ],
+        [
+          345,
+          355
+        ]
+      ],
+      "score": 0.873879075050354,
+      "y_pos": 305,
+      "text": "Tỳ và thân đều hư: ăn vào nôn ra, mùi chua hôi.",
+      "confidence": 0.9968543162151259
+    },
+    {
+      "type": "text",
+      "img_path": "p0097_004_text.png",
+      "bbox": [
+        [
+          345,
+          394
+        ],
+        [
+          1194,
+          394
+        ],
+        [
+          1194,
+          444
+        ],
+        [
+          345,
+          444
+        ]
+      ],
+      "score": 0.8872784972190857,
+      "y_pos": 394,
+      "text": "Thực nhiệt: ói mửa dữ dội, tiếng ói lớn.",
+      "confidence": 0.9998595544270107
+    },
+    {
+      "type": "text",
+      "img_path": "p0097_002_text.png",
+      "bbox": [
+        [
+          344,
+          483
+        ],
+        [
+          1482,
+          483
+        ],
+        [
+          1482,
+          534
+        ],
+        [
+          344,
+          534
+        ]
+      ],
+      "score": 0.8986982703208923,
+      "y_pos": 483,
+      "text": "Bệnh hư hàn: ói mửa nhẹ, tiếng ói nhỏ không có sức.",
+      "confidence": 0.999629297346439
+    },
+    {
+      "type": "text",
+      "img_path": "p0097_003_text.png",
+      "bbox": [
+        [
+          343,
+          572
+        ],
+        [
+          1229,
+          572
+        ],
+        [
+          1229,
+          620
+        ],
+        [
+          343,
+          620
+        ]
+      ],
+      "score": 0.8943756818771362,
+      "y_pos": 572,
+      "text": "Can nhiệt: ói ra nước xông lên mùi chua.",
+      "confidence": 0.9994852883475167
+    },
+    {
+      "type": "text",
+      "img_path": "p0097_005_text.png",
+      "bbox": [
+        [
+          343,
+          660
+        ],
+        [
+          1479,
+          660
+        ],
+        [
+          1479,
+          710
+        ],
+        [
+          343,
+          710
+        ]
+      ],
+      "score": 0.8760679364204407,
+      "y_pos": 660,
+      "text": "Thực tích có trùng (thực ở đây là đồ ăn): ói ra có mùi tanh.",
+      "confidence": 0.9996023091577715
+    },
+    {
+      "type": "text",
+      "img_path": "p0097_000_text.png",
+      "bbox": [
+        [
+          223,
+          748
+        ],
+        [
+          1570,
+          748
+        ],
+        [
+          1570,
+          1008
+        ],
+        [
+          223,
+          1008
+        ]
+      ],
+      "score": 0.969795286655426,
+      "y_pos": 748,
+      "text": "Chứng ốm nghén (nôn ói): Phụ nữ có mang thai hai đến\nba tháng kém ăn, hay nôn ói gọi là ố trở hay ác trở. Chứng\nnày là do đột biến của cơ thể mà các tạng phủ chưa kịp điều\nhòa. Đó là hiện tượng rối loạn chức năng.",
+      "confidence": 0.9983486428954372
+    },
+    {
+      "type": "text",
+      "img_path": "p0097_009_text.png",
+      "bbox": [
+        [
+          346,
+          1043
+        ],
+        [
+          1429,
+          1043
+        ],
+        [
+          1429,
+          1093
+        ],
+        [
+          346,
+          1093
+        ]
+      ],
+      "score": 0.8529413938522339,
+      "y_pos": 1043,
+      "text": "Khí ở thai đưa lên tim làm sây sẩm, chóng mặt, ói mửa.",
+      "confidence": 0.9990762653095382
+    },
+    {
+      "type": "text",
+      "img_path": "p0097_001_text.png",
+      "bbox": [
+        [
+          223,
+          1131
+        ],
+        [
+          1570,
+          1131
+        ],
+        [
+          1570,
+          1801
+        ],
+        [
+          223,
+          1801
+        ]
+      ],
+      "score": 0.9670414924621582,
+      "y_pos": 1131,
+      "text": "Khi thụ thai, kinh can tập trung dưỡng thai nên nhu cầu\nphục vụ cho người mẹ của can thay đổi và thường có biểu\nhiện là kém ăn, tính tình cáu kỉnh, khó chịu và hay thèm ăn\nchất chua (chua thuộc can mộc). Trong những triệu chứng\ntrên, nếu nhan sắc và mạch độ của bệnh nhân vẫn bình\nthường thì không cần điều trị, chứng bệnh cũng từ từ thuyên\ngiảm (cơ thể tự điều hòa), kể cả khi bệnh nhân ấy thấy chân\ntay nặng nề, đầu choáng váng, mờ mắt, ghét mùi đồ ăn, lòng\nbuồn bực. Đó là sự đột biến theo quy luật của tạo hóa và tự\nkhỏi theo quy luật thường của chức năng cơ thể.",
+      "confidence": 0.9968874635894609
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0097_012_paragraph_title.png",
+      "bbox": [
+        [
+          348,
+          1836
+        ],
+        [
+          1527,
+          1836
+        ],
+        [
+          1527,
+          1889
+        ],
+        [
+          348,
+          1889
+        ]
+      ],
+      "score": 0.7460839748382568,
+      "y_pos": 1836,
+      "text": "10. Phân định tiếng hắt hơi (nhảy mũi) theo bệnh lý",
+      "confidence": 0.9994629846428925
+    },
+    {
+      "type": "text",
+      "img_path": "p0097_010_text.png",
+      "bbox": [
+        [
+          315,
+          1926
+        ],
+        [
+          1410,
+          1926
+        ],
+        [
+          1410,
+          1978
+        ],
+        [
+          315,
+          1978
+        ]
+      ],
+      "score": 0.8502618670463562,
+      "y_pos": 1926,
+      "text": "Ngoại cảm phong hàn: Hắt hơi liên tục, nước mũi trong.",
+      "confidence": 0.999855563044548
+    },
+    {
+      "type": "text",
+      "img_path": "p0097_008_text.png",
+      "bbox": [
+        [
+          316,
+          2014
+        ],
+        [
+          1570,
+          2014
+        ],
+        [
+          1570,
+          2067
+        ],
+        [
+          316,
+          2067
+        ]
+      ],
+      "score": 0.8591858744621277,
+      "y_pos": 2014,
+      "text": "Thận phế hư hàn: Nhảy mũi liên tục, nước mũi chảy ròng ròng.",
+      "confidence": 0.9981028091522955
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0097_011_paragraph_title.png",
+      "bbox": [
+        [
+          347,
+          2106
+        ],
+        [
+          1227,
+          2106
+        ],
+        [
+          1227,
+          2157
+        ],
+        [
+          347,
+          2157
+        ]
+      ],
+      "score": 0.8454200029373169,
+      "y_pos": 2106,
+      "text": "11. Phân định mùi vị theo bệnh chứng",
+      "confidence": 0.9825150449025003
+    },
+    {
+      "type": "number",
+      "img_path": "p0097_007_number.png",
+      "bbox": [
+        [
+          1529,
+          2226
+        ],
+        [
+          1582,
+          2226
+        ],
+        [
+          1582,
+          2267
+        ],
+        [
+          1529,
+          2267
+        ]
+      ],
+      "score": 0.8700324892997742,
+      "y_pos": 2226,
+      "text": "\n    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0097.png"
+}

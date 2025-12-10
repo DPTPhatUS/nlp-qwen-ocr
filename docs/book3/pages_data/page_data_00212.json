@@ -1,0 +1,162 @@
+{
+  "page_num": 212,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0212_004_text.png",
+      "bbox": [
+        [
+          391,
+          304
+        ],
+        [
+          1293,
+          304
+        ],
+        [
+          1293,
+          514
+        ],
+        [
+          391,
+          514
+        ]
+      ],
+      "score": 0.8617895841598511,
+      "y_pos": 304,
+      "text": "Chính mình không tiếc, người còn tiếc chi\nLai thêm bung ởng da chì,\nKhí trong ngực nóng, bệnh thì liên miên.",
+      "confidence": 0.9950549490613848
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0212_005_paragraph_title.png",
+      "bbox": [
+        [
+          172,
+          547
+        ],
+        [
+          552,
+          547
+        ],
+        [
+          552,
+          600
+        ],
+        [
+          172,
+          600
+        ]
+      ],
+      "score": 0.8381390571594238,
+      "y_pos": 547,
+      "text": "1.5. Mạch Huyền",
+      "confidence": 0.9774142398553736
+    },
+    {
+      "type": "text",
+      "img_path": "p0212_002_text.png",
+      "bbox": [
+        [
+          392,
+          620
+        ],
+        [
+          1291,
+          620
+        ],
+        [
+          1291,
+          1183
+        ],
+        [
+          392,
+          1183
+        ]
+      ],
+      "score": 0.9145011305809021,
+      "y_pos": 620,
+      "text": "Mạch <i>Huyền</i> bộ Thốn quan to.\nHoạnh tài nóng nảy làm cho hao mòn\nChức cao tước lộc quyền môn,\nTưởng mình quý giá Vương tôn ra vào\nVợ con kiệu hãnh làm cao,\nTốt mà không tốt làm sao bây giờ.\nPhong tà cấp bách bệnh cơ,\nGây nên hoạn nạn không ngờ đau thương.",
+      "confidence": 0.9936718997416387
+    },
+    {
+      "type": "text",
+      "img_path": "p0212_001_text.png",
+      "bbox": [
+        [
+          369,
+          1271
+        ],
+        [
+          1317,
+          1271
+        ],
+        [
+          1317,
+          1836
+        ],
+        [
+          369,
+          1836
+        ]
+      ],
+      "score": 0.9273661971092224,
+      "y_pos": 1271,
+      "text": "Mạch Huyền quan bộ công danh,\nMạch đi đầy ngón tay rành đức to.\nĐi thi đỗ sớm khỏi lo.\nĐăng khoa vinh hiển, trời cho phúc lành.\nKhông may của cải tan tành,\nHuyền Tràng quan hữu lại thành không hay,\nKinh phong run rẩy chân tay,\nBệnh tình cấp bách đến ngay không ngờ.",
+      "confidence": 0.9983730386239328
+    },
+    {
+      "type": "text",
+      "img_path": "p0212_000_text.png",
+      "bbox": [
+        [
+          444,
+          1923
+        ],
+        [
+          1240,
+          1923
+        ],
+        [
+          1240,
+          2122
+        ],
+        [
+          444,
+          2122
+        ]
+      ],
+      "score": 0.9284651279449463,
+      "y_pos": 1923,
+      "text": "Mach Huyền bộ Xích lao đao,\nLo toan uổng phí, làm sao không rầu\nVô tình cốt nhục lìa nhau,",
+      "confidence": 0.9979118557563135
+    },
+    {
+      "type": "number",
+      "img_path": "p0212_003_number.png",
+      "bbox": [
+        [
+          173,
+          2224
+        ],
+        [
+          257,
+          2224
+        ],
+        [
+          257,
+          2266
+        ],
+        [
+          173,
+          2266
+        ]
+      ],
+      "score": 0.9046151041984558,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0212.png"
+}

@@ -1,0 +1,318 @@
+{
+  "page_num": 151,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0151_006_text.png",
+      "bbox": [
+        [
+          225,
+          307
+        ],
+        [
+          1571,
+          307
+        ],
+        [
+          1571,
+          424
+        ],
+        [
+          225,
+          424
+        ]
+      ],
+      "score": 0.8486828804016113,
+      "y_pos": 307,
+      "text": "5. Mạch Hoạt: chủ bệnh đàm (tân dịch, khí huyết ngưng\nkết thành đàm).",
+      "confidence": 0.9944090034872453
+    },
+    {
+      "type": "text",
+      "img_path": "p0151_000_text.png",
+      "bbox": [
+        [
+          225,
+          464
+        ],
+        [
+          1571,
+          464
+        ],
+        [
+          1571,
+          651
+        ],
+        [
+          225,
+          651
+        ]
+      ],
+      "score": 0.8918290138244629,
+      "y_pos": 464,
+      "text": "6. Mạch Sắc (sáp): chủ bệnh tinh huyết suy kiệt. Nam\nthì tinh suy, nữ thì thương huyết (ứ trệ, hoặc băng lậu) khi có\nthai mà mạch sáp thì thai bị bệnh",
+      "confidence": 0.9283165266071984
+    },
+    {
+      "type": "text",
+      "img_path": "p0151_001_text.png",
+      "bbox": [
+        [
+          226,
+          690
+        ],
+        [
+          1574,
+          690
+        ],
+        [
+          1574,
+          879
+        ],
+        [
+          226,
+          879
+        ]
+      ],
+      "score": 0.8868540525436401,
+      "y_pos": 690,
+      "text": "7. Mạch Đại: chủ về bệnh đang phát nặng vì khí huyết\nsuy không đủ sức chế ngự tà khí, tà khí mạnh hơn khí huyết\nthì bệnh ngày một nặng.",
+      "confidence": 0.9466299956742628
+    },
+    {
+      "type": "text",
+      "img_path": "p0151_010_text.png",
+      "bbox": [
+        [
+          331,
+          916
+        ],
+        [
+          1412,
+          916
+        ],
+        [
+          1412,
+          965
+        ],
+        [
+          331,
+          965
+        ]
+      ],
+      "score": 0.6155250072479248,
+      "y_pos": 916,
+      "text": "8. Mach hoãn: chủ 2 loại bệnh theo thời kỳ bệnh:",
+      "confidence": 0.6002683401107788
+    },
+    {
+      "type": "text",
+      "img_path": "p0151_009_text.png",
+      "bbox": [
+        [
+          227,
+          1005
+        ],
+        [
+          1573,
+          1005
+        ],
+        [
+          1573,
+          1124
+        ],
+        [
+          227,
+          1124
+        ]
+      ],
+      "score": 0.8236436247825623,
+      "y_pos": 1005,
+      "text": "- Khi đang bệnh làm dữ rồi sau đó lại thấy có mạch hoãn là\ntà khí đã thoái, chính khí đang phục hồi (bệnh gần khỏi).",
+      "confidence": 0.9946748910987444
+    },
+    {
+      "type": "text",
+      "img_path": "p0151_003_text.png",
+      "bbox": [
+        [
+          225,
+          1160
+        ],
+        [
+          1572,
+          1160
+        ],
+        [
+          1572,
+          1349
+        ],
+        [
+          225,
+          1349
+        ]
+      ],
+      "score": 0.8827686309814453,
+      "y_pos": 1160,
+      "text": "Khi bình thường mà xem thấy mạch hoãn thì đó là khí\nhuyết hư không đủ dinh dưỡng ra ngoài bì phù làm da thịt rộp\nkhô, tê cứng.",
+      "confidence": 0.9941639517044015
+    },
+    {
+      "type": "text",
+      "img_path": "p0151_008_text.png",
+      "bbox": [
+        [
+          226,
+          1388
+        ],
+        [
+          1572,
+          1388
+        ],
+        [
+          1572,
+          1505
+        ],
+        [
+          226,
+          1505
+        ]
+      ],
+      "score": 0.831434428691864,
+      "y_pos": 1388,
+      "text": "9. Mạch Động: Chủ bệnh nhiệt vì khí huyết khô nóng\nnên cả biểu và lý đều nhiệt cực.",
+      "confidence": 0.9162818111850126
+    },
+    {
+      "type": "text",
+      "img_path": "p0151_005_text.png",
+      "bbox": [
+        [
+          226,
+          1545
+        ],
+        [
+          1573,
+          1545
+        ],
+        [
+          1573,
+          1666
+        ],
+        [
+          226,
+          1666
+        ]
+      ],
+      "score": 0.8570913076400757,
+      "y_pos": 1545,
+      "text": "10. Mạch Thực: Cũng chủ về bệnh nhiệt, cái nhiệt nằm\ntrong khí huyết.",
+      "confidence": 0.9500159367367074
+    },
+    {
+      "type": "text",
+      "img_path": "p0151_004_text.png",
+      "bbox": [
+        [
+          225,
+          1703
+        ],
+        [
+          1572,
+          1703
+        ],
+        [
+          1572,
+          1886
+        ],
+        [
+          225,
+          1886
+        ]
+      ],
+      "score": 0.8588864207267761,
+      "y_pos": 1703,
+      "text": "11. Mạch Huyền: chủ về bệnh hư lao, lao lực quá sức,\nsuy tư quá độ, dục phòng quá trớn, khí huyết hao mòn suy bai\ncơ thể.",
+      "confidence": 0.9789797811572746
+    },
+    {
+      "type": "text",
+      "img_path": "p0151_007_text.png",
+      "bbox": [
+        [
+          226,
+          1928
+        ],
+        [
+          1571,
+          1928
+        ],
+        [
+          1571,
+          2048
+        ],
+        [
+          226,
+          2048
+        ]
+      ],
+      "score": 0.8469136953353882,
+      "y_pos": 1928,
+      "text": "12. Mạch Khẩn: chủ về chứng đau đớn bởi lạnh (hàn tà\nxâm nhập làm đau đớn).",
+      "confidence": 0.9573427055169035
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0151_011_paragraph_title.png",
+      "bbox": [
+        [
+          334,
+          2085
+        ],
+        [
+          1005,
+          2085
+        ],
+        [
+          1005,
+          2139
+        ],
+        [
+          334,
+          2139
+        ]
+      ],
+      "score": 0.5983276963233948,
+      "y_pos": 2085,
+      "text": "13. Mạch Trường: chủ về khí",
+      "confidence": 0.9539259939358152
+    },
+    {
+      "type": "number",
+      "img_path": "p0151_002_number.png",
+      "bbox": [
+        [
+          1535,
+          2225
+        ],
+        [
+          1606,
+          2225
+        ],
+        [
+          1606,
+          2268
+        ],
+        [
+          1535,
+          2268
+        ]
+      ],
+      "score": 0.8863397836685181,
+      "y_pos": 2225,
+      "text": "        \n    \n    \n    \n    \n\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0151.png"
+}

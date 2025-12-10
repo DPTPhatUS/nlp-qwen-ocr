@@ -1,0 +1,422 @@
+{
+  "page_num": 98,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0098_000_text.png",
+      "bbox": [
+        [
+          166,
+          306
+        ],
+        [
+          1512,
+          306
+        ],
+        [
+          1512,
+          492
+        ],
+        [
+          166,
+          492
+        ]
+      ],
+      "score": 0.9733432531356812,
+      "y_pos": 306,
+      "text": "- Bệnh ôn dịch: Thường bốc lên thứ hơi lạ thường, khắm\nlăm, rất khó chiu, nhe thì chỉ có ở trong giường, mùng, nặng\nthì tỏa ra khắp nhà.",
+      "confidence": 0.9984429586507592
+    },
+    {
+      "type": "text",
+      "img_path": "p0098_004_text.png",
+      "bbox": [
+        [
+          166,
+          531
+        ],
+        [
+          1512,
+          531
+        ],
+        [
+          1512,
+          645
+        ],
+        [
+          166,
+          645
+        ]
+      ],
+      "score": 0.9566893577575684,
+      "y_pos": 531,
+      "text": "- Bệnh mụn lở, ghẻ, mụn trĩ: thường bốc ra mùi tanh, hôi\nthối.",
+      "confidence": 0.9969671440535578
+    },
+    {
+      "type": "text",
+      "img_path": "p0098_002_text.png",
+      "bbox": [
+        [
+          167,
+          688
+        ],
+        [
+          1512,
+          688
+        ],
+        [
+          1512,
+          805
+        ],
+        [
+          167,
+          805
+        ]
+      ],
+      "score": 0.9610648155212402,
+      "y_pos": 688,
+      "text": "- Người gần chết: phát ra mùi chiên, hủ tanh hôi, muc\nnát).",
+      "confidence": 0.9856767457801026
+    },
+    {
+      "type": "text",
+      "img_path": "p0098_001_text.png",
+      "bbox": [
+        [
+          165,
+          847
+        ],
+        [
+          1511,
+          847
+        ],
+        [
+          1511,
+          958
+        ],
+        [
+          165,
+          958
+        ]
+      ],
+      "score": 0.9616196155548096,
+      "y_pos": 847,
+      "text": "- Vị nhiệt, thức ăn đình trệ: miệng thở ra mùi chua chua,\nhôi thối.",
+      "confidence": 0.9939379871626297
+    },
+    {
+      "type": "text",
+      "img_path": "p0098_007_text.png",
+      "bbox": [
+        [
+          286,
+          1002
+        ],
+        [
+          1148,
+          1002
+        ],
+        [
+          1148,
+          1050
+        ],
+        [
+          286,
+          1050
+        ]
+      ],
+      "score": 0.910910427570343,
+      "y_pos": 1002,
+      "text": "- Phế nhiệt: khac ra đàm, mùi tanh tưởi.",
+      "confidence": 0.9973802169164022
+    },
+    {
+      "type": "text",
+      "img_path": "p0098_009_text.png",
+      "bbox": [
+        [
+          286,
+          1090
+        ],
+        [
+          1326,
+          1090
+        ],
+        [
+          1326,
+          1140
+        ],
+        [
+          286,
+          1140
+        ]
+      ],
+      "score": 0.9040395021438599,
+      "y_pos": 1090,
+      "text": "- Phế ung: khac ra đàm có lẫn mủ, mùi tanh hôi.",
+      "confidence": 0.9961694466824434
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0098_008_paragraph_title.png",
+      "bbox": [
+        [
+          288,
+          1182
+        ],
+        [
+          1477,
+          1182
+        ],
+        [
+          1477,
+          1234
+        ],
+        [
+          288,
+          1234
+        ]
+      ],
+      "score": 0.9044222831726074,
+      "y_pos": 1182,
+      "text": "12. Phân định tiếng tiết tả (đại tiểu tiện) theo bệnh chứng",
+      "confidence": 0.9996429339784091
+    },
+    {
+      "type": "text",
+      "img_path": "p0098_005_text.png",
+      "bbox": [
+        [
+          168,
+          1273
+        ],
+        [
+          1513,
+          1273
+        ],
+        [
+          1513,
+          1390
+        ],
+        [
+          168,
+          1390
+        ]
+      ],
+      "score": 0.9561744332313538,
+      "y_pos": 1273,
+      "text": "- Bệnh tiết tả: Nước phân chảy ra, tuôn ra kèm theo\ntiếng kêu khè khè.",
+      "confidence": 0.9981185374113748
+    },
+    {
+      "type": "text",
+      "img_path": "p0098_003_text.png",
+      "bbox": [
+        [
+          167,
+          1427
+        ],
+        [
+          1513,
+          1427
+        ],
+        [
+          1513,
+          1545
+        ],
+        [
+          167,
+          1545
+        ]
+      ],
+      "score": 0.9603071808815002,
+      "y_pos": 1427,
+      "text": "- Bệnh hàn tả: Nước phân tuồn tuột chảy ra, không có\ntiếng hơi.",
+      "confidence": 0.9971556710424246
+    },
+    {
+      "type": "text",
+      "img_path": "p0098_010_text.png",
+      "bbox": [
+        [
+          286,
+          1585
+        ],
+        [
+          1427,
+          1585
+        ],
+        [
+          1427,
+          1637
+        ],
+        [
+          286,
+          1637
+        ]
+      ],
+      "score": 0.8990134000778198,
+      "y_pos": 1585,
+      "text": "- Đại, tiểu trường hàn: Mùi phân tanh hôi mà phân lỏng.",
+      "confidence": 0.975584089756012
+    },
+    {
+      "type": "text",
+      "img_path": "p0098_013_text.png",
+      "bbox": [
+        [
+          285,
+          1673
+        ],
+        [
+          1262,
+          1673
+        ],
+        [
+          1262,
+          1725
+        ],
+        [
+          285,
+          1725
+        ]
+      ],
+      "score": 0.8934211134910583,
+      "y_pos": 1673,
+      "text": "- Đại, tiểu trường nhiệt: Mùi phân chua, thối.",
+      "confidence": 0.9967704738179842
+    },
+    {
+      "type": "text",
+      "img_path": "p0098_011_text.png",
+      "bbox": [
+        [
+          285,
+          1763
+        ],
+        [
+          1450,
+          1763
+        ],
+        [
+          1450,
+          1813
+        ],
+        [
+          285,
+          1813
+        ]
+      ],
+      "score": 0.8980231881141663,
+      "y_pos": 1763,
+      "text": "- Chứng đường tiêu hóa có trùng: Phân bốc mùi tanh tưởi.",
+      "confidence": 0.9987384625549974
+    },
+    {
+      "type": "text",
+      "img_path": "p0098_014_text.png",
+      "bbox": [
+        [
+          285,
+          1850
+        ],
+        [
+          1406,
+          1850
+        ],
+        [
+          1406,
+          1904
+        ],
+        [
+          285,
+          1904
+        ]
+      ],
+      "score": 0.8930727243423462,
+      "y_pos": 1850,
+      "text": "- Chứng thấp nhiệt: Tiểu tiện khai và nước tiểu đục.",
+      "confidence": 0.9981188740995195
+    },
+    {
+      "type": "text",
+      "img_path": "p0098_006_text.png",
+      "bbox": [
+        [
+          166,
+          1941
+        ],
+        [
+          1512,
+          1941
+        ],
+        [
+          1512,
+          2059
+        ],
+        [
+          166,
+          2059
+        ]
+      ],
+      "score": 0.9536888599395752,
+      "y_pos": 1941,
+      "text": "- Chứng hỏa suy thủy vượng: Rối loạn tiêu hóa, trung\ntiện mùi thối khắm (hơi của đồ ăn không tiêu đình trệ).",
+      "confidence": 0.9990012879260102
+    },
+    {
+      "type": "text",
+      "img_path": "p0098_012_text.png",
+      "bbox": [
+        [
+          286,
+          2096
+        ],
+        [
+          1355,
+          2096
+        ],
+        [
+          1355,
+          2150
+        ],
+        [
+          286,
+          2150
+        ]
+      ],
+      "score": 0.89403235912323,
+      "y_pos": 2096,
+      "text": "- Âm thịnh dương suy: Trung tiện xit (như xì hơi).",
+      "confidence": 0.9981871063892658
+    },
+    {
+      "type": "number",
+      "img_path": "p0098_015_number.png",
+      "bbox": [
+        [
+          173,
+          2226
+        ],
+        [
+          228,
+          2226
+        ],
+        [
+          228,
+          2267
+        ],
+        [
+          173,
+          2267
+        ]
+      ],
+      "score": 0.8825481534004211,
+      "y_pos": 2226,
+      "text": "\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0098.png"
+}

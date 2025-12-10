@@ -1,0 +1,318 @@
+{
+  "page_num": 50,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0050_003_text.png",
+      "bbox": [
+        [
+          164,
+          306
+        ],
+        [
+          1508,
+          306
+        ],
+        [
+          1508,
+          493
+        ],
+        [
+          164,
+          493
+        ]
+      ],
+      "score": 0.9696767926216125,
+      "y_pos": 306,
+      "text": "lẽ thường. Chứng này có hiện tượng sốt cao, co giật, nhức\nđầu, chóng mặt, hoa mắt, tai biến mạch máu não, liệt bán\nthân, co quắp.",
+      "confidence": 0.9926533885692065
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0050_007_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          539
+        ],
+        [
+          503,
+          539
+        ],
+        [
+          503,
+          583
+        ],
+        [
+          286,
+          583
+        ]
+      ],
+      "score": 0.9055071473121643,
+      "y_pos": 539,
+      "text": "Hàn    เล",
+      "confidence": 0.754575605193774
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0050_008_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          631
+        ],
+        [
+          823,
+          631
+        ],
+        [
+          823,
+          678
+        ],
+        [
+          284,
+          678
+        ]
+      ],
+      "score": 0.9051579833030701,
+      "y_pos": 631,
+      "text": "2.1. Đặc tính của hàn tà",
+      "confidence": 0.9765029136951153
+    },
+    {
+      "type": "text",
+      "img_path": "p0050_002_text.png",
+      "bbox": [
+        [
+          166,
+          723
+        ],
+        [
+          1513,
+          723
+        ],
+        [
+          1513,
+          982
+        ],
+        [
+          166,
+          982
+        ]
+      ],
+      "score": 0.9736486077308655,
+      "y_pos": 723,
+      "text": "Hàn thuộc âm hay làm tổn thương dương khí. Hàn phạm\nvào da cơ, gây cảm mạo, hàn phạm vào tỳ vị làm tỳ dương hư\nkhông vận hóa được thủy cốc. Mặt khác hàn còn gây co rút,\nbế tắc, ngưng trệ làm khí huyết ứ trệ, gây đau đớn đầy trướng.",
+      "confidence": 0.9995502387449168
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0050_005_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          1022
+        ],
+        [
+          717,
+          1022
+        ],
+        [
+          717,
+          1071
+        ],
+        [
+          284,
+          1071
+        ]
+      ],
+      "score": 0.9072584509849548,
+      "y_pos": 1022,
+      "text": "2.2. Chứng nội hàn",
+      "confidence": 0.9680819362401962
+    },
+    {
+      "type": "text",
+      "img_path": "p0050_000_text.png",
+      "bbox": [
+        [
+          164,
+          1112
+        ],
+        [
+          1510,
+          1112
+        ],
+        [
+          1510,
+          1440
+        ],
+        [
+          164,
+          1440
+        ]
+      ],
+      "score": 0.9801024794578552,
+      "y_pos": 1112,
+      "text": "Chứng nội hàn phát từ nội tạng cơ thể do dương hư. Ví\ndụ: tâm, phế, thận dương hư sinh chứng tắc động mạch vành\n(mùa lạnh hay gặp) gây chứng hen suyễn vì thận dương\nkhông nap khí... chứng nội hàn do dương khí kém thì vệ khí\ncũng kém dễ bị cảm lạnh.",
+      "confidence": 0.9935470076726716
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0050_006_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          1480
+        ],
+        [
+          500,
+          1480
+        ],
+        [
+          500,
+          1526
+        ],
+        [
+          286,
+          1526
+        ]
+      ],
+      "score": 0.9070857167243958,
+      "y_pos": 1480,
+      "text": "[hứ t    ta",
+      "confidence": 0.7147963515349797
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0050_010_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          1576
+        ],
+        [
+          808,
+          1576
+        ],
+        [
+          808,
+          1622
+        ],
+        [
+          285,
+          1622
+        ]
+      ],
+      "score": 0.9026244282722473,
+      "y_pos": 1576,
+      "text": "3.1. Đặc tính của thử tà",
+      "confidence": 0.9688112231401297
+    },
+    {
+      "type": "text",
+      "img_path": "p0050_001_text.png",
+      "bbox": [
+        [
+          165,
+          1664
+        ],
+        [
+          1510,
+          1664
+        ],
+        [
+          1510,
+          1923
+        ],
+        [
+          165,
+          1923
+        ]
+      ],
+      "score": 0.9764332175254822,
+      "y_pos": 1664,
+      "text": "Thử là nắng, thử thuộc dương hay gây sốt cao và các\nhiện tượng viêm nhiệt, khát nước ra mồ hôi. Thử có tính thăng\ntán (đi lên trên, tán ra ngoài) làm hư hao tân dịch, dễ gây hôn\nmê, trụy tim mạch.",
+      "confidence": 0.9969013613638864
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0050_009_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          1960
+        ],
+        [
+          743,
+          1960
+        ],
+        [
+          743,
+          2006
+        ],
+        [
+          285,
+          2006
+        ]
+      ],
+      "score": 0.9048515558242798,
+      "y_pos": 1960,
+      "text": "3.2. Phân loai thử tà",
+      "confidence": 0.9538200990013455
+    },
+    {
+      "type": "text",
+      "img_path": "p0050_004_text.png",
+      "bbox": [
+        [
+          166,
+          2047
+        ],
+        [
+          1512,
+          2047
+        ],
+        [
+          1512,
+          2166
+        ],
+        [
+          166,
+          2166
+        ]
+      ],
+      "score": 0.9532304406166077,
+      "y_pos": 2047,
+      "text": "- Thương thử: Là bị cảm thử dạng nhẹ, sốt vật vã, khát\nnước, mệt mỏi.",
+      "confidence": 0.9989344030618668
+    },
+    {
+      "type": "number",
+      "img_path": "p0050_011_number.png",
+      "bbox": [
+        [
+          173,
+          2226
+        ],
+        [
+          230,
+          2226
+        ],
+        [
+          230,
+          2268
+        ],
+        [
+          173,
+          2268
+        ]
+      ],
+      "score": 0.8601787686347961,
+      "y_pos": 2226,
+      "text": "\n    \n    \n\n\n\n    78\n\n\n\n",
+      "confidence": 0.9586199805850074
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0050.png"
+}

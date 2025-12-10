@@ -1,0 +1,212 @@
+{
+  "page_num": 133,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0133_007_header.png",
+      "bbox": [
+        [
+          228,
+          0
+        ],
+        [
+          752,
+          0
+        ],
+        [
+          752,
+          96
+        ],
+        [
+          228,
+          96
+        ]
+      ],
+      "score": 0.505108654499054,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9601930709068591
+    },
+    {
+      "type": "image",
+      "img_path": "p0133_004_image.png",
+      "bbox": [
+        [
+          351,
+          433
+        ],
+        [
+          1454,
+          433
+        ],
+        [
+          1454,
+          1308
+        ],
+        [
+          351,
+          1308
+        ]
+      ],
+      "score": 0.9618420004844666,
+      "y_pos": 433
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0133_006_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          1377
+        ],
+        [
+          564,
+          1377
+        ],
+        [
+          564,
+          1425
+        ],
+        [
+          228,
+          1425
+        ]
+      ],
+      "score": 0.8929020762443542,
+      "y_pos": 1377,
+      "text": "Các loại mạch",
+      "confidence": 0.945764136314392
+    },
+    {
+      "type": "text",
+      "img_path": "p0133_000_text.png",
+      "bbox": [
+        [
+          223,
+          1464
+        ],
+        [
+          1572,
+          1464
+        ],
+        [
+          1572,
+          1654
+        ],
+        [
+          223,
+          1654
+        ]
+      ],
+      "score": 0.9732312560081482,
+      "y_pos": 1464,
+      "text": "Qua nghiên cứu và đúc rút kinh nghiệm thực tế lâm sàng,\nngười xưa đã tìm ra 34 loại mạch khác nhau xuất hiện trên bộ\nmạch thốn khẩu (theo từng chứng và thể trạng bệnh lý).",
+      "confidence": 0.9997687851908483
+    },
+    {
+      "type": "text",
+      "img_path": "p0133_001_text.png",
+      "bbox": [
+        [
+          224,
+          1690
+        ],
+        [
+          1570,
+          1690
+        ],
+        [
+          1570,
+          1807
+        ],
+        [
+          224,
+          1807
+        ]
+      ],
+      "score": 0.9628449082374573,
+      "y_pos": 1690,
+      "text": "Các loại mạch đó đã được đặt tên và quy nạp vào 5\nloai như sau:",
+      "confidence": 0.9858601116666608
+    },
+    {
+      "type": "text",
+      "img_path": "p0133_002_text.png",
+      "bbox": [
+        [
+          224,
+          1848
+        ],
+        [
+          1571,
+          1848
+        ],
+        [
+          1571,
+          1970
+        ],
+        [
+          224,
+          1970
+        ]
+      ],
+      "score": 0.9628037810325623,
+      "y_pos": 1848,
+      "text": "1. Mach thất biểu (7 mạch ở biểu thuộc dương): Thực,\nPhù, Khổng, Khẩn, Huyền, Hoạt, Hồng.",
+      "confidence": 0.9547917793484924
+    },
+    {
+      "type": "text",
+      "img_path": "p0133_003_text.png",
+      "bbox": [
+        [
+          224,
+          2010
+        ],
+        [
+          1571,
+          2010
+        ],
+        [
+          1571,
+          2128
+        ],
+        [
+          224,
+          2128
+        ]
+      ],
+      "score": 0.9620422124862671,
+      "y_pos": 2010,
+      "text": "2. Mạch bát lý (8 mach ở lý thuộc âm): nhược, nhu,\nhoãn, sắc, phục, vi, trầm, trì.",
+      "confidence": 0.9921792468060424
+    },
+    {
+      "type": "number",
+      "img_path": "p0133_005_number.png",
+      "bbox": [
+        [
+          1535,
+          2224
+        ],
+        [
+          1610,
+          2224
+        ],
+        [
+          1610,
+          2267
+        ],
+        [
+          1535,
+          2267
+        ]
+      ],
+      "score": 0.9058520793914795,
+      "y_pos": 2224,
+      "text": "        \n    \n\n\n\n    \n    \n    \n        ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0133.png"
+}

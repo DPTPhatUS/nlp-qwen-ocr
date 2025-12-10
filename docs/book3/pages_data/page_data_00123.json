@@ -1,0 +1,318 @@
+{
+  "page_num": 123,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0123_011_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          751,
+          0
+        ],
+        [
+          751,
+          96
+        ],
+        [
+          227,
+          96
+        ]
+      ],
+      "score": 0.5767567753791809,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.96442627457472
+    },
+    {
+      "type": "text",
+      "img_path": "p0123_002_text.png",
+      "bbox": [
+        [
+          224,
+          304
+        ],
+        [
+          1569,
+          304
+        ],
+        [
+          1569,
+          494
+        ],
+        [
+          224,
+          494
+        ]
+      ],
+      "score": 0.9737570285797119,
+      "y_pos": 304,
+      "text": "Khi cho thuốc điều trị bệnh, chúng ta cần phải lưu ý\nđến ngũ thương và phục hồi những phần tổn thương cho bệnh\nnhân mặc dù sự tổn thương đó chưa có biểu hiện gì.",
+      "confidence": 0.9994981760670885
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0123_010_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          531
+        ],
+        [
+          772,
+          531
+        ],
+        [
+          772,
+          581
+        ],
+        [
+          344,
+          581
+        ]
+      ],
+      "score": 0.8685704469680786,
+      "y_pos": 531,
+      "text": "Hỏi về kinh nguyệt",
+      "confidence": 0.992791223526001
+    },
+    {
+      "type": "text",
+      "img_path": "p0123_003_text.png",
+      "bbox": [
+        [
+          223,
+          616
+        ],
+        [
+          1571,
+          616
+        ],
+        [
+          1571,
+          807
+        ],
+        [
+          223,
+          807
+        ]
+      ],
+      "score": 0.971657395362854,
+      "y_pos": 616,
+      "text": "Đối với phụ nữ, phần lớn các chứng bệnh đều do rối loạn\nkinh nguyệt mà ra. Khi chẩn bệnh, cần phải hỏi kỹ về đường kinh\nđể việc chẩn đoán được nhanh chóng và chính xác.",
+      "confidence": 0.9993762946600749
+    },
+    {
+      "type": "text",
+      "img_path": "p0123_005_text.png",
+      "bbox": [
+        [
+          223,
+          843
+        ],
+        [
+          1572,
+          843
+        ],
+        [
+          1572,
+          964
+        ],
+        [
+          223,
+          964
+        ]
+      ],
+      "score": 0.9591548442840576,
+      "y_pos": 843,
+      "text": "Trước hết chúng ta phải hiểu rõ về đặc điểm của kinh\nnguyệt rồi mới biết được mà đặt ra câu hỏi cho đúng trọng tâm.",
+      "confidence": 0.9998419129255194
+    },
+    {
+      "type": "text",
+      "img_path": "p0123_001_text.png",
+      "bbox": [
+        [
+          223,
+          1000
+        ],
+        [
+          1572,
+          1000
+        ],
+        [
+          1572,
+          1260
+        ],
+        [
+          223,
+          1260
+        ]
+      ],
+      "score": 0.9785047769546509,
+      "y_pos": 1000,
+      "text": "Nếu như chu kỳ của kinh nguyệt sớm 7 ngày hoặc trễ hơn\ntháng trước 7 ngày thì chưa gọi là rối loạn kinh nguyệt mà cũng\nkhông cần điều chỉnh, nếu chu kỳ sớm hơn 7 ngày (từ 8 đến 10\nngày trở đi) hoặc trễ quá 7 ngày thì mới cần chữa.",
+      "confidence": 0.9990259564779131
+    },
+    {
+      "type": "text",
+      "img_path": "p0123_006_text.png",
+      "bbox": [
+        [
+          224,
+          1295
+        ],
+        [
+          1571,
+          1295
+        ],
+        [
+          1571,
+          1415
+        ],
+        [
+          224,
+          1415
+        ]
+      ],
+      "score": 0.9573349356651306,
+      "y_pos": 1295,
+      "text": "Đặt điểm nữa về kinh nguyệt, người ta chia ra làm 4\nloai: cư kinh, ly kinh, âm kinh và vô kinh.",
+      "confidence": 0.9847624698399997
+    },
+    {
+      "type": "text",
+      "img_path": "p0123_000_text.png",
+      "bbox": [
+        [
+          222,
+          1449
+        ],
+        [
+          1571,
+          1449
+        ],
+        [
+          1571,
+          1778
+        ],
+        [
+          222,
+          1778
+        ]
+      ],
+      "score": 0.9830152988433838,
+      "y_pos": 1449,
+      "text": "- Cư kinh: là mỗi quý mới thấy kinh một lần, có khi hai\nhoặc ba quý (6 tháng đến 9 tháng) mới có kinh một lần nhưng\nchu kỳ này cũng phải đều (nghĩa là: cứ 6 tháng mới có 1 lần\nhoặc 5 tháng hoặc 6 tháng đơt nào cũng đúng thời gian như\nvậy) đây là dạng chu kỳ kinh dài.",
+      "confidence": 0.995927373271801
+    },
+    {
+      "type": "text",
+      "img_path": "p0123_008_text.png",
+      "bbox": [
+        [
+          374,
+          1810
+        ],
+        [
+          1488,
+          1810
+        ],
+        [
+          1488,
+          1864
+        ],
+        [
+          374,
+          1864
+        ]
+      ],
+      "score": 0.8974760174751282,
+      "y_pos": 1810,
+      "text": "- Ly kinh: là tháng nào cũng có kinh (mỗi tháng 1 lần).",
+      "confidence": 0.989175211964992
+    },
+    {
+      "type": "text",
+      "img_path": "p0123_004_text.png",
+      "bbox": [
+        [
+          223,
+          1900
+        ],
+        [
+          1571,
+          1900
+        ],
+        [
+          1571,
+          2022
+        ],
+        [
+          223,
+          2022
+        ]
+      ],
+      "score": 0.959276556968689,
+      "y_pos": 1900,
+      "text": "- Âm kinh; là chỉ báo kinh trước khi có thai (cứ khi nào\nthấy có kinh là sau đó có thai và chửa để bình thường).",
+      "confidence": 0.9974481832310422
+    },
+    {
+      "type": "text",
+      "img_path": "p0123_007_text.png",
+      "bbox": [
+        [
+          375,
+          2060
+        ],
+        [
+          1168,
+          2060
+        ],
+        [
+          1168,
+          2111
+        ],
+        [
+          375,
+          2111
+        ]
+      ],
+      "score": 0.904232382774353,
+      "y_pos": 2060,
+      "text": "- Vô kinh: là không bao giờ có kinh.",
+      "confidence": 0.9264870976146898
+    },
+    {
+      "type": "number",
+      "img_path": "p0123_009_number.png",
+      "bbox": [
+        [
+          1535,
+          2225
+        ],
+        [
+          1610,
+          2225
+        ],
+        [
+          1610,
+          2266
+        ],
+        [
+          1535,
+          2266
+        ]
+      ],
+      "score": 0.8913933634757996,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0123.png"
+}

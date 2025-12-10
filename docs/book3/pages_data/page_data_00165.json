@@ -1,0 +1,266 @@
+{
+  "page_num": 165,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0165_009_header.png",
+      "bbox": [
+        [
+          230,
+          1
+        ],
+        [
+          752,
+          1
+        ],
+        [
+          752,
+          95
+        ],
+        [
+          230,
+          95
+        ]
+      ],
+      "score": 0.686205267906189,
+      "y_pos": 1,
+      "text": "TẬP ĐOÀN Y DƯỢC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9580321570084644
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0165_008_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          836
+        ],
+        [
+          673,
+          836
+        ],
+        [
+          673,
+          887
+        ],
+        [
+          228,
+          887
+        ]
+      ],
+      "score": 0.8613394498825073,
+      "y_pos": 836,
+      "text": "Giả thuyết thứ ba:",
+      "confidence": 0.9806328147649765
+    },
+    {
+      "type": "text",
+      "img_path": "p0165_001_text.png",
+      "bbox": [
+        [
+          224,
+          925
+        ],
+        [
+          1570,
+          925
+        ],
+        [
+          1570,
+          1250
+        ],
+        [
+          224,
+          1250
+        ]
+      ],
+      "score": 0.9811573624610901,
+      "y_pos": 925,
+      "text": "Nếu mạch bình về tốc độ (không sác cũng không trì)\nthì ta loại trừ tất cả các mạch thuộc dòng họ nhà sác và nhà\ntrì. Sau đó xét xem mach đó phù hay trầm, nếu trầm thì ta lai\nloại bỏ nốt các mạch thuộc dòng họ nhà phù (không cần để ý\nđến).",
+      "confidence": 0.9952635231991028
+    },
+    {
+      "type": "text",
+      "img_path": "p0165_000_text.png",
+      "bbox": [
+        [
+          224,
+          1288
+        ],
+        [
+          1569,
+          1288
+        ],
+        [
+          1569,
+          1612
+        ],
+        [
+          224,
+          1612
+        ]
+      ],
+      "score": 0.9836711883544922,
+      "y_pos": 1288,
+      "text": "Vây chỉ còn căn cứ vào tương mach mà xét đó là vi\nhay hoạt hay nhược, hay hư, đợi, tán. Đối với mạch hư, đợi,\ntán là cháu của mạch trầm thì chỉ xuất hiện đối với bệnh nhân\nquá nặng hoặc đang nằm liệt giường, nếu phải như vậy thì ta\nmới xét mà không có thì loai nốt.",
+      "confidence": 0.9983206670038045
+    },
+    {
+      "type": "text",
+      "img_path": "p0165_007_text.png",
+      "bbox": [
+        [
+          330,
+          1648
+        ],
+        [
+          1379,
+          1648
+        ],
+        [
+          1379,
+          1699
+        ],
+        [
+          330,
+          1699
+        ]
+      ],
+      "score": 0.8928331136703491,
+      "y_pos": 1648,
+      "text": "Còn lai 5 mach là Vi, Phuc, Hoat, Nhược, Trầm:",
+      "confidence": 0.9990427233278751
+    },
+    {
+      "type": "text",
+      "img_path": "p0165_005_text.png",
+      "bbox": [
+        [
+          332,
+          1736
+        ],
+        [
+          1189,
+          1736
+        ],
+        [
+          1189,
+          1788
+        ],
+        [
+          332,
+          1788
+        ]
+      ],
+      "score": 0.9079794883728027,
+      "y_pos": 1736,
+      "text": "- Nếu yếu khi có khi không là mạch Vi.",
+      "confidence": 0.9934906125068664
+    },
+    {
+      "type": "text",
+      "img_path": "p0165_002_text.png",
+      "bbox": [
+        [
+          224,
+          1826
+        ],
+        [
+          1574,
+          1826
+        ],
+        [
+          1574,
+          1945
+        ],
+        [
+          224,
+          1945
+        ]
+      ],
+      "score": 0.9608383774757385,
+      "y_pos": 1826,
+      "text": "- Nếu ẩn phục sâu trong xương thịt thỉnh thoảng lại \"ục\nra\" như mach nước thì đó là mach Phuc.",
+      "confidence": 0.870382980610195
+    },
+    {
+      "type": "text",
+      "img_path": "p0165_004_text.png",
+      "bbox": [
+        [
+          331,
+          1985
+        ],
+        [
+          1414,
+          1985
+        ],
+        [
+          1414,
+          2035
+        ],
+        [
+          331,
+          2035
+        ]
+      ],
+      "score": 0.9125192761421204,
+      "y_pos": 1985,
+      "text": "- Nếu chay trơn như hat châu thì đó là mạch Hoat.",
+      "confidence": 0.996253254366856
+    },
+    {
+      "type": "text",
+      "img_path": "p0165_003_text.png",
+      "bbox": [
+        [
+          332,
+          2072
+        ],
+        [
+          1496,
+          2072
+        ],
+        [
+          1496,
+          2125
+        ],
+        [
+          332,
+          2125
+        ]
+      ],
+      "score": 0.9125317931175232,
+      "y_pos": 2072,
+      "text": "- Nếu yếu đuối như hơi thổi lên thì đó là mạch Nhược.",
+      "confidence": 0.992160625891252
+    },
+    {
+      "type": "number",
+      "img_path": "p0165_006_number.png",
+      "bbox": [
+        [
+          1535,
+          2225
+        ],
+        [
+          1610,
+          2225
+        ],
+        [
+          1610,
+          2267
+        ],
+        [
+          1535,
+          2267
+        ]
+      ],
+      "score": 0.8983285427093506,
+      "y_pos": 2225,
+      "text": "\n    \n    \n    \n\n\n\n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0165.png"
+}

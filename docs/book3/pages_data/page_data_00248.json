@@ -1,0 +1,162 @@
+{
+  "page_num": 248,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0248_005_text.png",
+      "bbox": [
+        [
+          168,
+          307
+        ],
+        [
+          1062,
+          307
+        ],
+        [
+          1062,
+          362
+        ],
+        [
+          168,
+          362
+        ]
+      ],
+      "score": 0.5057955980300903,
+      "y_pos": 307,
+      "text": "Chúng ta kẻ 2 ô mạch như hình vẽ sau:",
+      "confidence": 0.9623846686803378
+    },
+    {
+      "type": "table",
+      "img_path": "p0248_003_table.png",
+      "bbox": [
+        [
+          204,
+          444
+        ],
+        [
+          1443,
+          444
+        ],
+        [
+          1443,
+          1244
+        ],
+        [
+          204,
+          1244
+        ]
+      ],
+      "score": 0.9190664291381836,
+      "y_pos": 444,
+      "text": "Tâm,    THỐN    Phế,\nTiểu Trường    Đại trường\nCan, Đởm    <b>QUAN</b>    Tỳ, vị\nThận    <b>XÍCH</b>    Mệnh môn,\nBàng Quang    Tam tiêu",
+      "confidence": 0.9078232749881112
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_002_text.png",
+      "bbox": [
+        [
+          165,
+          1275
+        ],
+        [
+          1511,
+          1275
+        ],
+        [
+          1511,
+          1604
+        ],
+        [
+          165,
+          1604
+        ]
+      ],
+      "score": 0.928331732749939,
+      "y_pos": 1275,
+      "text": "Nếu ta xem tay trái trước, khi khảo sát mạch ở vị trí thốn\nnếu thấy mạch gì thì ghi vào vị trí đó mạch ấy rồi lần lượt\nkhảo sát qua 5 vi trí còn lai và ghi vào. Sau đó dưa vào mach\nbệnh tổng khán, mạch bệnh đơn khán, mạch bệnh kiêm kiến.\nmạch bệnh tạng phủ mà luận.",
+      "confidence": 0.9967734979487975
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_000_text.png",
+      "bbox": [
+        [
+          166,
+          1639
+        ],
+        [
+          1510,
+          1639
+        ],
+        [
+          1510,
+          1826
+        ],
+        [
+          166,
+          1826
+        ]
+      ],
+      "score": 0.9549334645271301,
+      "y_pos": 1639,
+      "text": "Khi luận bệnh chứng nếu muốn biết quá trình xem mạch\nvà luận bệnh đúng hay sai thì dùng vấn chẩn (hỏi ngay bệnh\nnhân là biết).",
+      "confidence": 0.9955213001572791
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_001_text.png",
+      "bbox": [
+        [
+          166,
+          1864
+        ],
+        [
+          1508,
+          1864
+        ],
+        [
+          1508,
+          1986
+        ],
+        [
+          166,
+          1986
+        ]
+      ],
+      "score": 0.9450269341468811,
+      "y_pos": 1864,
+      "text": "Ví dụ: Sau khi khảo sát mạch của 6 vị trí chúng ta đã\nghi vào như sau:",
+      "confidence": 0.9873559611012237
+    },
+    {
+      "type": "number",
+      "img_path": "p0248_004_number.png",
+      "bbox": [
+        [
+          173,
+          2224
+        ],
+        [
+          255,
+          2224
+        ],
+        [
+          255,
+          2266
+        ],
+        [
+          173,
+          2266
+        ]
+      ],
+      "score": 0.8882436156272888,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0248.png"
+}

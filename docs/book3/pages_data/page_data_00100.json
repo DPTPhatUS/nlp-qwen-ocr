@@ -1,0 +1,240 @@
+{
+  "page_num": 100,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0100_000_text.png",
+      "bbox": [
+        [
+          164,
+          302
+        ],
+        [
+          1513,
+          302
+        ],
+        [
+          1513,
+          694
+        ],
+        [
+          164,
+          694
+        ]
+      ],
+      "score": 0.9842109680175781,
+      "y_pos": 302,
+      "text": "Để đánh giá kiến thức văn chẩn của cổ nhân chúng ta\ntưởng lại chuyện lịch sử: \"Đông Chu Liệt Quốc\" hồi thứ 80,\ncó đoạn kể rằng... \"Câu Tiễn nói với Bá Hy: - Tôi nghe nói\nĐại Vương bị bệnh cảm hàn hơn 3 tháng mà chưa khỏi, trong\nlòng tôi bồi hồi ăn ngủ không yên. Xin theo Ngài vào thăm để\ntổ tình Thần tử.",
+      "confidence": 0.9970469918915312
+    },
+    {
+      "type": "text",
+      "img_path": "p0100_007_text.png",
+      "bbox": [
+        [
+          256,
+          732
+        ],
+        [
+          1399,
+          732
+        ],
+        [
+          1399,
+          788
+        ],
+        [
+          256,
+          788
+        ]
+      ],
+      "score": 0.7062629461288452,
+      "y_pos": 732,
+      "text": "Bá Hy nói: - Ngài có lòng tốt. Xin đợi tôi chuyển tấu.",
+      "confidence": 0.9984643469963755
+    },
+    {
+      "type": "text",
+      "img_path": "p0100_005_text.png",
+      "bbox": [
+        [
+          164,
+          821
+        ],
+        [
+          1509,
+          821
+        ],
+        [
+          1509,
+          1012
+        ],
+        [
+          164,
+          1012
+        ]
+      ],
+      "score": 0.9651515483856201,
+      "y_pos": 821,
+      "text": "Bá Hy vào yết kiến Phù Sai, thuật lại ý muốn của\nCâu Tiễn. Phù Sai đúng lúc bệnh tình buồn bã và lại thương\ntình Câu Tiễn nên đồng ý cho vào.",
+      "confidence": 0.9959492934223205
+    },
+    {
+      "type": "text",
+      "img_path": "p0100_003_text.png",
+      "bbox": [
+        [
+          165,
+          1047
+        ],
+        [
+          1509,
+          1047
+        ],
+        [
+          1509,
+          1238
+        ],
+        [
+          165,
+          1238
+        ]
+      ],
+      "score": 0.9692948460578918,
+      "y_pos": 1047,
+      "text": "Câu Tiễn bước vào sụp lạy, gặp lúc Phù Sai muốn đại\ntiện nên lấy tay xua đuổi Câu Tiễn ra, rồi truyền nội thị đem\nbô đến cạnh giường nằm.",
+      "confidence": 0.9955180927418753
+    },
+    {
+      "type": "text",
+      "img_path": "p0100_001_text.png",
+      "bbox": [
+        [
+          164,
+          1273
+        ],
+        [
+          1510,
+          1273
+        ],
+        [
+          1510,
+          1601
+        ],
+        [
+          164,
+          1601
+        ]
+      ],
+      "score": 0.9805522561073303,
+      "y_pos": 1273,
+      "text": "Câu Tiễn tâu: Khi tôi ở Đông Hải có học vị y sư cách\nnếm phân mà biết bệnh lành dữ, chóng hay chầy. Nói rồi\nCâu Tiễn đứng chờ Phù Sai đại tiện xong bước đến mở bô thò\ntay bốc phân nếm. Mọi người xung quanh đều bịt mũi kinh\nngạc. Câu Tiễn bước tới sụp lạy và tâu rằng:",
+      "confidence": 0.979085410923863
+    },
+    {
+      "type": "text",
+      "img_path": "p0100_002_text.png",
+      "bbox": [
+        [
+          166,
+          1636
+        ],
+        [
+          1510,
+          1636
+        ],
+        [
+          1510,
+          1818
+        ],
+        [
+          166,
+          1818
+        ]
+      ],
+      "score": 0.9714844822883606,
+      "y_pos": 1636,
+      "text": "- Xin chúc mừng Đại vương. Bệnh Đại vương đến ngày\nKỷ Ty thì bớt, sang tháng 3 vào ngày Nhâm Thân thì khỏi\nhẳn.",
+      "confidence": 0.9953937474881215
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0100_008_paragraph_title.png",
+      "bbox": [
+        [
+          317,
+          1861
+        ],
+        [
+          1313,
+          1861
+        ],
+        [
+          1313,
+          1910
+        ],
+        [
+          317,
+          1910
+        ]
+      ],
+      "score": 0.6535200476646423,
+      "y_pos": 1861,
+      "text": "Phù Sai hỏi: - Vì sao mà nhà người biết được?",
+      "confidence": 0.8645556023780335
+    },
+    {
+      "type": "text",
+      "img_path": "p0100_004_text.png",
+      "bbox": [
+        [
+          165,
+          1949
+        ],
+        [
+          1509,
+          1949
+        ],
+        [
+          1509,
+          2140
+        ],
+        [
+          165,
+          2140
+        ]
+      ],
+      "score": 0.9686803221702576,
+      "y_pos": 1949,
+      "text": "Câu Tiễn đáp: Tôi nghe người y sư có dạy, phân là gốc\nvị hễ thuận thời khí thì sống, trái thời khí thì chết. Nay tù\nnhân tôi nếm phân Đại vương thấy vị đắng (thuộc hỏa) và",
+      "confidence": 0.9992481036254542
+    },
+    {
+      "type": "number",
+      "img_path": "p0100_006_number.png",
+      "bbox": [
+        [
+          179,
+          2225
+        ],
+        [
+          258,
+          2225
+        ],
+        [
+          258,
+          2268
+        ],
+        [
+          179,
+          2268
+        ]
+      ],
+      "score": 0.8768143057823181,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0100.png"
+}

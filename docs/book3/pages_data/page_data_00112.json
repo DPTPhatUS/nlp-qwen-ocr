@@ -1,0 +1,370 @@
+{
+  "page_num": 112,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0112_003_text.png",
+      "bbox": [
+        [
+          166,
+          304
+        ],
+        [
+          1512,
+          304
+        ],
+        [
+          1512,
+          428
+        ],
+        [
+          166,
+          428
+        ]
+      ],
+      "score": 0.9620121121406555,
+      "y_pos": 304,
+      "text": "Hỏi phải đúng lúc, đúng chỗ (có kiến thức của y học) hỏi\nlần lượt dứt điểm từng ý, từng câu, đúng trọng tâm.",
+      "confidence": 0.9984598798785181
+    },
+    {
+      "type": "text",
+      "img_path": "p0112_004_text.png",
+      "bbox": [
+        [
+          166,
+          463
+        ],
+        [
+          1510,
+          463
+        ],
+        [
+          1510,
+          584
+        ],
+        [
+          166,
+          584
+        ]
+      ],
+      "score": 0.9586738348007202,
+      "y_pos": 463,
+      "text": "Qua câu hỏi phải khai thác được tư liệu phục vụ việc\nphân định bát cương và các tạp chứng.",
+      "confidence": 0.9975166755524116
+    },
+    {
+      "type": "text",
+      "img_path": "p0112_000_text.png",
+      "bbox": [
+        [
+          164,
+          616
+        ],
+        [
+          1511,
+          616
+        ],
+        [
+          1511,
+          944
+        ],
+        [
+          164,
+          944
+        ]
+      ],
+      "score": 0.9829546809196472,
+      "y_pos": 616,
+      "text": "- Khi vấn chẩn người thầy thuốc phải thể hiện đúng tư\ncách của một lương y: nhẹ nhàng, khéo léo, tử tế, ân cần, hòa\nnhã, khiệm tốn nhưng không hạ thấp mình (dù bệnh nhân đó\nlà tầng lớp nào chăng nữa cũng không để thần bệnh lấn át\nthần thầy).",
+      "confidence": 0.9954207175227863
+    },
+    {
+      "type": "text",
+      "img_path": "p0112_002_text.png",
+      "bbox": [
+        [
+          165,
+          981
+        ],
+        [
+          1510,
+          981
+        ],
+        [
+          1510,
+          1166
+        ],
+        [
+          165,
+          1166
+        ]
+      ],
+      "score": 0.9717814326286316,
+      "y_pos": 981,
+      "text": "Tuy thái độ vui vẻ song tuyệt đối không được đùa cợt,\nsàm sỡ và không được hỏi lấn sang chuyện khác ngoài mục\nđích chẩn bênh.",
+      "confidence": 0.9973499570092107
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0112_006_paragraph_title.png",
+      "bbox": [
+        [
+          168,
+          1199
+        ],
+        [
+          827,
+          1199
+        ],
+        [
+          827,
+          1254
+        ],
+        [
+          168,
+          1254
+        ]
+      ],
+      "score": 0.8931045532226562,
+      "y_pos": 1199,
+      "text": "IV. PHƯƠNG PHÁP \"HỔI\"",
+      "confidence": 0.9898926900780719
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0112_005_paragraph_title.png",
+      "bbox": [
+        [
+          311,
+          1299
+        ],
+        [
+          923,
+          1299
+        ],
+        [
+          923,
+          1349
+        ],
+        [
+          311,
+          1349
+        ]
+      ],
+      "score": 0.8995732665061951,
+      "y_pos": 1299,
+      "text": "1. Thứ tự của từng câu hỏi",
+      "confidence": 0.9986686791692462
+    },
+    {
+      "type": "text",
+      "img_path": "p0112_001_text.png",
+      "bbox": [
+        [
+          165,
+          1387
+        ],
+        [
+          1509,
+          1387
+        ],
+        [
+          1509,
+          1574
+        ],
+        [
+          165,
+          1574
+        ]
+      ],
+      "score": 0.9739863872528076,
+      "y_pos": 1387,
+      "text": "Theo thứ tự đặt câu hỏi của đại y sư Trương Cảnh\nNhạc, người đã thảo ra bài thập vấn ca để xếp đặt thứ tư câu\nhỏi. Nguyên văn như sau:",
+      "confidence": 0.9950622389935777
+    },
+    {
+      "type": "text",
+      "img_path": "p0112_013_text.png",
+      "bbox": [
+        [
+          469,
+          1598
+        ],
+        [
+          1194,
+          1598
+        ],
+        [
+          1194,
+          1651
+        ],
+        [
+          469,
+          1651
+        ]
+      ],
+      "score": 0.8041252493858337,
+      "y_pos": 1598,
+      "text": "\"Nhất vấn hàn nhiệt, nhi vấn han",
+      "confidence": 0.9313495912972618
+    },
+    {
+      "type": "text",
+      "img_path": "p0112_012_text.png",
+      "bbox": [
+        [
+          466,
+          1674
+        ],
+        [
+          1111,
+          1674
+        ],
+        [
+          1111,
+          1726
+        ],
+        [
+          466,
+          1726
+        ]
+      ],
+      "score": 0.8154189586639404,
+      "y_pos": 1674,
+      "text": "Tam vấn ẩm thực, tứ vấn tiện",
+      "confidence": 0.9977858642737071
+    },
+    {
+      "type": "text",
+      "img_path": "p0112_008_text.png",
+      "bbox": [
+        [
+          466,
+          1753
+        ],
+        [
+          1191,
+          1753
+        ],
+        [
+          1191,
+          1805
+        ],
+        [
+          466,
+          1805
+        ]
+      ],
+      "score": 0.8490779399871826,
+      "y_pos": 1753,
+      "text": "Ngũ vấn đầu thân, lục hung phúc",
+      "confidence": 0.9955352111296221
+    },
+    {
+      "type": "text",
+      "img_path": "p0112_010_text.png",
+      "bbox": [
+        [
+          465,
+          1828
+        ],
+        [
+          1202,
+          1828
+        ],
+        [
+          1202,
+          1880
+        ],
+        [
+          465,
+          1880
+        ]
+      ],
+      "score": 0.8290004134178162,
+      "y_pos": 1828,
+      "text": "Thất lung, bát khát cụ đương biện",
+      "confidence": 0.9991807954651969
+    },
+    {
+      "type": "text",
+      "img_path": "p0112_011_text.png",
+      "bbox": [
+        [
+          465,
+          1903
+        ],
+        [
+          1233,
+          1903
+        ],
+        [
+          1233,
+          1956
+        ],
+        [
+          465,
+          1956
+        ]
+      ],
+      "score": 0.8200693726539612,
+      "y_pos": 1903,
+      "text": "Cửu vấn cựu bệnh, thập vấn nhân\".",
+      "confidence": 0.999156619821276
+    },
+    {
+      "type": "text",
+      "img_path": "p0112_009_text.png",
+      "bbox": [
+        [
+          287,
+          1994
+        ],
+        [
+          793,
+          1994
+        ],
+        [
+          793,
+          2049
+        ],
+        [
+          287,
+          2049
+        ]
+      ],
+      "score": 0.8377125263214111,
+      "y_pos": 1994,
+      "text": "Xin giải nghĩa như sau:",
+      "confidence": 0.9978864502906799
+    },
+    {
+      "type": "number",
+      "img_path": "p0112_007_number.png",
+      "bbox": [
+        [
+          178,
+          2224
+        ],
+        [
+          256,
+          2224
+        ],
+        [
+          256,
+          2266
+        ],
+        [
+          178,
+          2266
+        ]
+      ],
+      "score": 0.8802462816238403,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0112.png"
+}

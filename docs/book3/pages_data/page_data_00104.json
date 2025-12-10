@@ -1,0 +1,214 @@
+{
+  "page_num": 104,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0104_001_text.png",
+      "bbox": [
+        [
+          163,
+          305
+        ],
+        [
+          1513,
+          305
+        ],
+        [
+          1513,
+          767
+        ],
+        [
+          163,
+          767
+        ]
+      ],
+      "score": 0.98391193151474,
+      "y_pos": 305,
+      "text": "(thái quá) mà thủy thì sinh mộc. Sự sinh ra mộc này đã làm\ncái thủy hữu dư giảm bớt. Cho nên đến Kỷ ty là đại lâm mộc\ncung mộc vượng thì như được mở cửa thải tà và đến nhâm\nthân, là kiếm phong kim (cung kim vượng) mà kim sinh thủy.\nSự thải đi nay được cái mới trong lành sinh ra bù đắp, củng cố\ngọi là Tống cựu sinh tân, khu tà phục chính vậy đó là cái lý\nmà nói là ngày Kỷ ty thì bớt bệnh và nhân thân thì khỏi hẳn.",
+      "confidence": 0.9988135184721549
+    },
+    {
+      "type": "text",
+      "img_path": "p0104_002_text.png",
+      "bbox": [
+        [
+          165,
+          800
+        ],
+        [
+          1511,
+          800
+        ],
+        [
+          1511,
+          1062
+        ],
+        [
+          165,
+          1062
+        ]
+      ],
+      "score": 0.9738688468933105,
+      "y_pos": 800,
+      "text": "Nhân đây chúng ta quay về 4000 năm lịch sử để\nnghiên cứu về nhận định sự tăng giảm và khỏi bệnh của mỗi\ntạng theo thời gian mà pho Hoàng Đế Nội Kinh tố vẫn siêu\nthiền - thiên tàng khí pháp thời luận đã chép.",
+      "confidence": 0.9960746397714905
+    },
+    {
+      "type": "text",
+      "img_path": "p0104_003_text.png",
+      "bbox": [
+        [
+          166,
+          1094
+        ],
+        [
+          1510,
+          1094
+        ],
+        [
+          1510,
+          1219
+        ],
+        [
+          166,
+          1219
+        ]
+      ],
+      "score": 0.942202091217041,
+      "y_pos": 1094,
+      "text": "Trước hết chúng ta để ý tới bảng trích yếu về quy nạp\nngũ hành với thập thiên can.",
+      "confidence": 0.9959915786981584
+    },
+    {
+      "type": "table",
+      "img_path": "p0104_000_table.png",
+      "bbox": [
+        [
+          173,
+          1306
+        ],
+        [
+          1505,
+          1306
+        ],
+        [
+          1505,
+          1735
+        ],
+        [
+          173,
+          1735
+        ]
+      ],
+      "score": 0.9856749176979065,
+      "y_pos": 1306,
+      "text": "Ngũ hành    Can    Tạng    Mùa\nMôc    Giáp Ất    Can    Xuân\nHỏa    Bính Đinh    Tâm    Ha\nThổ    Mậu Kỷ    Τỳ    Trưởng hạ\nKim    Canh Tân    Phế    Thu\nThủy    Nhâm Quý    Thân    Đông",
+      "confidence": 0.9110745216007987
+    },
+    {
+      "type": "text",
+      "img_path": "p0104_004_text.png",
+      "bbox": [
+        [
+          165,
+          1765
+        ],
+        [
+          1511,
+          1765
+        ],
+        [
+          1511,
+          1958
+        ],
+        [
+          165,
+          1958
+        ]
+      ],
+      "score": 0.9302809238433838,
+      "y_pos": 1765,
+      "text": "Muốn chẩn đoán bệnh thuyên giảm hay nặng thêm hoặc\nsinh tử theo từng ngày thì phải biết được cách tính Can của từng\ntháng theo mỗi năm và Can của từng giờ theo mỗi ngày.",
+      "confidence": 0.9970421785403335
+    },
+    {
+      "type": "text",
+      "img_path": "p0104_006_text.png",
+      "bbox": [
+        [
+          315,
+          1989
+        ],
+        [
+          1331,
+          1989
+        ],
+        [
+          1331,
+          2047
+        ],
+        [
+          315,
+          2047
+        ]
+      ],
+      "score": 0.8771311044692993,
+      "y_pos": 1989,
+      "text": "Đó là nội dung của ngũ hổ độn và ngũ thử độn.",
+      "confidence": 0.9944434292772983
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0104_007_paragraph_title.png",
+      "bbox": [
+        [
+          320,
+          2080
+        ],
+        [
+          731,
+          2080
+        ],
+        [
+          731,
+          2136
+        ],
+        [
+          320,
+          2136
+        ]
+      ],
+      "score": 0.8655501008033752,
+      "y_pos": 2080,
+      "text": "13.3. Ngũ Hổ Độn",
+      "confidence": 0.9500067830085754
+    },
+    {
+      "type": "number",
+      "img_path": "p0104_005_number.png",
+      "bbox": [
+        [
+          179,
+          2224
+        ],
+        [
+          257,
+          2224
+        ],
+        [
+          257,
+          2267
+        ],
+        [
+          179,
+          2267
+        ]
+      ],
+      "score": 0.878812313079834,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0104.png"
+}

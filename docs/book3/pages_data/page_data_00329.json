@@ -1,0 +1,448 @@
+{
+  "page_num": 329,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0329_014_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          752,
+          0
+        ],
+        [
+          752,
+          95
+        ],
+        [
+          227,
+          95
+        ]
+      ],
+      "score": 0.6267961859703064,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9624362213336505
+    },
+    {
+      "type": "table",
+      "img_path": "p0329_012_table.png",
+      "bbox": [
+        [
+          343,
+          303
+        ],
+        [
+          1528,
+          303
+        ],
+        [
+          1528,
+          539
+        ],
+        [
+          343,
+          539
+        ]
+      ],
+      "score": 0.7222855091094971,
+      "y_pos": 303,
+      "text": "A dao    20 g    Sinh đia    20g\nThiểu căn    20 g    Trắc bá diệp    10 g\nHoàng cầm 15 g    Chích thảo    6 g",
+      "confidence": 0.9282360909384262
+    },
+    {
+      "type": "text",
+      "img_path": "p0329_011_text.png",
+      "bbox": [
+        [
+          449,
+          569
+        ],
+        [
+          1336,
+          569
+        ],
+        [
+          1336,
+          623
+        ],
+        [
+          449,
+          623
+        ]
+      ],
+      "score": 0.7786859273910522,
+      "y_pos": 569,
+      "text": "Sắc uống liên tục từ 3 thang đến 5 thang.",
+      "confidence": 0.9962055877197621
+    },
+    {
+      "type": "text",
+      "img_path": "p0329_000_text.png",
+      "bbox": [
+        [
+          223,
+          660
+        ],
+        [
+          1570,
+          660
+        ],
+        [
+          1570,
+          848
+        ],
+        [
+          223,
+          848
+        ]
+      ],
+      "score": 0.9778517484664917,
+      "y_pos": 660,
+      "text": "Theo kinh nghiệm dân gian: Lấy một con cá trê rửa sạch\nđể sống sấy nguyên vậy cho vào cạp lồng rồi cho vào nồi\nnước. Tiềm cách thủy từ 2 - 3 giờ.",
+      "confidence": 0.9982932828754744
+    },
+    {
+      "type": "text",
+      "img_path": "p0329_002_text.png",
+      "bbox": [
+        [
+          225,
+          884
+        ],
+        [
+          1572,
+          884
+        ],
+        [
+          1572,
+          1006
+        ],
+        [
+          225,
+          1006
+        ]
+      ],
+      "score": 0.9682018160820007,
+      "y_pos": 884,
+      "text": "Sau đó lấy cá trê ra bỏ ruột, bỏ xương ăn hết phần thịt\n(ăn một lần một con là hết chứng đổ máu cam).",
+      "confidence": 0.9978602452147314
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0329_006_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1047
+        ],
+        [
+          750,
+          1047
+        ],
+        [
+          750,
+          1094
+        ],
+        [
+          344,
+          1094
+        ]
+      ],
+      "score": 0.8889017105102539,
+      "y_pos": 1047,
+      "text": "6. Mũi mọc thit dư",
+      "confidence": 0.9895711928606034
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0329_013_paragraph_title.png",
+      "bbox": [
+        [
+          346,
+          1136
+        ],
+        [
+          901,
+          1136
+        ],
+        [
+          901,
+          1183
+        ],
+        [
+          346,
+          1183
+        ]
+      ],
+      "score": 0.7160312533378601,
+      "y_pos": 1136,
+      "text": "Phương chữa theo Tuê Tĩnh",
+      "confidence": 0.908452261377264
+    },
+    {
+      "type": "text",
+      "img_path": "p0329_001_text.png",
+      "bbox": [
+        [
+          224,
+          1222
+        ],
+        [
+          1570,
+          1222
+        ],
+        [
+          1570,
+          1341
+        ],
+        [
+          224,
+          1341
+        ]
+      ],
+      "score": 0.9693406224250793,
+      "y_pos": 1222,
+      "text": "- Lá thanh hao giã nát, vôi tôi. Hai vị bằng nhau ngâm\nlấy nước trong, cô đặc thành cao rồi tra vào lỗ mũi.",
+      "confidence": 0.9839674364676867
+    },
+    {
+      "type": "text",
+      "img_path": "p0329_003_text.png",
+      "bbox": [
+        [
+          224,
+          1378
+        ],
+        [
+          1571,
+          1378
+        ],
+        [
+          1571,
+          1494
+        ],
+        [
+          224,
+          1494
+        ]
+      ],
+      "score": 0.9677774906158447,
+      "y_pos": 1378,
+      "text": "- Da nhím nướng khô, tán nhỏ lấy vải lụa mỏng gói lại\nnhét vào lỗ mũi.",
+      "confidence": 0.9980520914901387
+    },
+    {
+      "type": "text",
+      "img_path": "p0329_004_text.png",
+      "bbox": [
+        [
+          345,
+          1537
+        ],
+        [
+          1544,
+          1537
+        ],
+        [
+          1544,
+          1587
+        ],
+        [
+          345,
+          1587
+        ]
+      ],
+      "score": 0.9245331287384033,
+      "y_pos": 1537,
+      "text": "- Rau ngò rí vò nát nhừ nhét vào lỗ mũi sau một đêm sẽ rụng.",
+      "confidence": 0.9940483050961648
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0329_007_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          1627
+        ],
+        [
+          767,
+          1627
+        ],
+        [
+          767,
+          1674
+        ],
+        [
+          345,
+          1674
+        ]
+      ],
+      "score": 0.879430890083313,
+      "y_pos": 1627,
+      "text": "7. Mũi mọc mun trĩ",
+      "confidence": 0.9914004266262054
+    },
+    {
+      "type": "text",
+      "img_path": "p0329_009_text.png",
+      "bbox": [
+        [
+          346,
+          1712
+        ],
+        [
+          1208,
+          1712
+        ],
+        [
+          1208,
+          1768
+        ],
+        [
+          346,
+          1768
+        ]
+      ],
+      "score": 0.8179696202278137,
+      "y_pos": 1712,
+      "text": "Theo phương trị của Hải Thượng Lãn Ông",
+      "confidence": 0.9993498593568801
+    },
+    {
+      "type": "text",
+      "img_path": "p0329_010_text.png",
+      "bbox": [
+        [
+          376,
+          1803
+        ],
+        [
+          754,
+          1803
+        ],
+        [
+          754,
+          1851
+        ],
+        [
+          376,
+          1851
+        ]
+      ],
+      "score": 0.815453827381134,
+      "y_pos": 1803,
+      "text": "Phương thứ nhất:",
+      "confidence": 0.9958679907851749
+    },
+    {
+      "type": "text",
+      "img_path": "p0329_016_text.png",
+      "bbox": [
+        [
+          376,
+          1890
+        ],
+        [
+          1382,
+          1890
+        ],
+        [
+          1382,
+          1943
+        ],
+        [
+          376,
+          1943
+        ]
+      ],
+      "score": 0.5336198210716248,
+      "y_pos": 1890,
+      "text": "Khinh phấn    Thư hoàng    20 g",
+      "confidence": 0.9349585428382411
+    },
+    {
+      "type": "text",
+      "img_path": "p0329_015_text.png",
+      "bbox": [
+        [
+          376,
+          1980
+        ],
+        [
+          1378,
+          1980
+        ],
+        [
+          1378,
+          2034
+        ],
+        [
+          376,
+          2034
+        ]
+      ],
+      "score": 0.5937108397483826,
+      "y_pos": 1980,
+      "text": "Hanh nhân    Xa hương    2 g",
+      "confidence": 0.9405595714395697
+    },
+    {
+      "type": "text",
+      "img_path": "p0329_008_text.png",
+      "bbox": [
+        [
+          376,
+          2067
+        ],
+        [
+          853,
+          2067
+        ],
+        [
+          853,
+          2118
+        ],
+        [
+          376,
+          2118
+        ]
+      ],
+      "score": 0.8199726343154907,
+      "y_pos": 2067,
+      "text": "(bóc vỏ, bỏ đầu nhọn)",
+      "confidence": 0.9747659253037494
+    },
+    {
+      "type": "number",
+      "img_path": "p0329_005_number.png",
+      "bbox": [
+        [
+          1530,
+          2225
+        ],
+        [
+          1611,
+          2225
+        ],
+        [
+          1611,
+          2267
+        ],
+        [
+          1530,
+          2267
+        ]
+      ],
+      "score": 0.8958920240402222,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0329.png"
+}

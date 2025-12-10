@@ -1,0 +1,370 @@
+{
+  "page_num": 87,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0087_013_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          752,
+          0
+        ],
+        [
+          752,
+          96
+        ],
+        [
+          227,
+          96
+        ]
+      ],
+      "score": 0.5568346381187439,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9632050711833514
+    },
+    {
+      "type": "text",
+      "img_path": "p0087_006_text.png",
+      "bbox": [
+        [
+          226,
+          307
+        ],
+        [
+          1573,
+          307
+        ],
+        [
+          1573,
+          426
+        ],
+        [
+          226,
+          426
+        ]
+      ],
+      "score": 0.9594815373420715,
+      "y_pos": 307,
+      "text": "- Màu đỏ: Thuộc nhiệt, do lý thực nhiệt hoặc do hư\nnhiệt (âm hư hỏa vượng).",
+      "confidence": 0.9884428582512416
+    },
+    {
+      "type": "text",
+      "img_path": "p0087_001_text.png",
+      "bbox": [
+        [
+          225,
+          462
+        ],
+        [
+          1569,
+          462
+        ],
+        [
+          1569,
+          650
+        ],
+        [
+          225,
+          650
+        ]
+      ],
+      "score": 0.9735841155052185,
+      "y_pos": 462,
+      "text": "- Màu đổ tía: Do nhiệt thịnh, tà nhiệt đã vào phần dinh\nvà huyết ở bệnh nhân mãn tính là do âm hư hỏa vượng, tân\ndịch bị giảm nhiều.",
+      "confidence": 0.9890934563871662
+    },
+    {
+      "type": "text",
+      "img_path": "p0087_004_text.png",
+      "bbox": [
+        [
+          224,
+          688
+        ],
+        [
+          1569,
+          688
+        ],
+        [
+          1569,
+          805
+        ],
+        [
+          224,
+          805
+        ]
+      ],
+      "score": 0.961554229259491,
+      "y_pos": 688,
+      "text": "- Màu xanh tím: Nếu chất lưỡi xanh tím, lưỡi khô là\nthuôc nhiệt.",
+      "confidence": 0.9941567345610205
+    },
+    {
+      "type": "text",
+      "img_path": "p0087_005_text.png",
+      "bbox": [
+        [
+          224,
+          846
+        ],
+        [
+          1571,
+          846
+        ],
+        [
+          1571,
+          962
+        ],
+        [
+          224,
+          962
+        ]
+      ],
+      "score": 0.9602089524269104,
+      "y_pos": 846,
+      "text": "Nếu lưỡi xanh tím mà ướt nhuân là thuộc hàn. Nếu có\ncác điểm tím là do ứ huyết.",
+      "confidence": 0.9995499931532761
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0087_009_paragraph_title.png",
+      "bbox": [
+        [
+          375,
+          1003
+        ],
+        [
+          906,
+          1003
+        ],
+        [
+          906,
+          1051
+        ],
+        [
+          375,
+          1051
+        ]
+      ],
+      "score": 0.911214292049408,
+      "y_pos": 1003,
+      "text": "5.2. Hình dạng của lưỡi",
+      "confidence": 0.9251256322860718
+    },
+    {
+      "type": "text",
+      "img_path": "p0087_007_text.png",
+      "bbox": [
+        [
+          224,
+          1091
+        ],
+        [
+          1571,
+          1091
+        ],
+        [
+          1571,
+          1211
+        ],
+        [
+          224,
+          1211
+        ]
+      ],
+      "score": 0.9586102962493896,
+      "y_pos": 1091,
+      "text": "- Lưỡi lớn bệu thuộc thực chứng, nhiệt chứng nếu hai bên\ncó dấu răng in do hư hàn hoặc do đàm thấp kết lại tràn lên.",
+      "confidence": 0.9943102103310024
+    },
+    {
+      "type": "text",
+      "img_path": "p0087_000_text.png",
+      "bbox": [
+        [
+          223,
+          1247
+        ],
+        [
+          1570,
+          1247
+        ],
+        [
+          1570,
+          1436
+        ],
+        [
+          223,
+          1436
+        ]
+      ],
+      "score": 0.974105179309845,
+      "y_pos": 1247,
+      "text": "- Sưng to: Nếu sưng to mà màu trắng nhạt là do thận\ndương và tỳ hư. Nếu chất lưỡi đỏ hồng do thấp nhiệt quá\nmạnh hoặc do nhiệt độc quá mạnh.",
+      "confidence": 0.9958394114418067
+    },
+    {
+      "type": "text",
+      "img_path": "p0087_002_text.png",
+      "bbox": [
+        [
+          223,
+          1471
+        ],
+        [
+          1574,
+          1471
+        ],
+        [
+          1574,
+          1661
+        ],
+        [
+          223,
+          1661
+        ]
+      ],
+      "score": 0.971830427646637,
+      "y_pos": 1471,
+      "text": "- Mỏng mà nhỏ: nếu chất lưỡi trắng hồng nhạt là do\ntâm tỳ hư, khí huyết thiếu. Nếu chất lưỡi hồng tía là do âm hư\nnhiệt thịnh tân dịch hao tổn, biểu thị của bệnh nặng.",
+      "confidence": 0.9984539455011278
+    },
+    {
+      "type": "text",
+      "img_path": "p0087_008_text.png",
+      "bbox": [
+        [
+          224,
+          1697
+        ],
+        [
+          1572,
+          1697
+        ],
+        [
+          1572,
+          1818
+        ],
+        [
+          224,
+          1818
+        ]
+      ],
+      "score": 0.957944929599762,
+      "y_pos": 1697,
+      "text": "- Đầu lưỡi phì đại là tâm hỏa mạnh, hai bên phì đại là can\nđởm hỏa thịnh, ở giữa lưỡi phì đại là trường vị nhiệt thịnh.",
+      "confidence": 0.9969665680841733
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0087_010_paragraph_title.png",
+      "bbox": [
+        [
+          374,
+          1856
+        ],
+        [
+          854,
+          1856
+        ],
+        [
+          854,
+          1905
+        ],
+        [
+          374,
+          1905
+        ]
+      ],
+      "score": 0.908930242061615,
+      "y_pos": 1856,
+      "text": "5.3. Cử động của lưỡi",
+      "confidence": 0.9521416270214579
+    },
+    {
+      "type": "text",
+      "img_path": "p0087_003_text.png",
+      "bbox": [
+        [
+          224,
+          1942
+        ],
+        [
+          1572,
+          1942
+        ],
+        [
+          1572,
+          2065
+        ],
+        [
+          224,
+          2065
+        ]
+      ],
+      "score": 0.9620720148086548,
+      "y_pos": 1942,
+      "text": "- Chất lưỡi hồng xám nhợt nhạt mà lưỡi mềm yếu khó\ncử động hoặc liệt hẳn là do khí huyết đều hư.",
+      "confidence": 0.998109200326101
+    },
+    {
+      "type": "text",
+      "img_path": "p0087_011_text.png",
+      "bbox": [
+        [
+          375,
+          2101
+        ],
+        [
+          1532,
+          2101
+        ],
+        [
+          1532,
+          2153
+        ],
+        [
+          375,
+          2153
+        ]
+      ],
+      "score": 0.9087101817131042,
+      "y_pos": 2101,
+      "text": "- Lưỡi đỏ tía mà không cử động được là do âm hư cực độ.",
+      "confidence": 0.9956875652597662
+    },
+    {
+      "type": "number",
+      "img_path": "p0087_012_number.png",
+      "bbox": [
+        [
+          1531,
+          2226
+        ],
+        [
+          1582,
+          2226
+        ],
+        [
+          1582,
+          2267
+        ],
+        [
+          1531,
+          2267
+        ]
+      ],
+      "score": 0.8808861970901489,
+      "y_pos": 2226,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0087.png"
+}

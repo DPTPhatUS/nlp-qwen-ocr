@@ -1,0 +1,136 @@
+{
+  "page_num": 310,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0310_002_text.png",
+      "bbox": [
+        [
+          167,
+          429
+        ],
+        [
+          692,
+          429
+        ],
+        [
+          692,
+          955
+        ],
+        [
+          167,
+          955
+        ]
+      ],
+      "score": 0.5953577756881714,
+      "y_pos": 429,
+      "text": "1. Huyết phủ trục ứ thang\n<b>Duong quy</b>    15gr\nHồng hoa    4gr\nCam thảo    4gr\nSinh địa    20gr\nChỉ xác    10gr\nXuyên khung    5gr\nĐào nhân    6gr\nSài hồ    12gr",
+      "confidence": 0.9219436546134273
+    },
+    {
+      "type": "text",
+      "img_path": "p0310_003_text.png",
+      "bbox": [
+        [
+          864,
+          433
+        ],
+        [
+          1394,
+          433
+        ],
+        [
+          1394,
+          1019
+        ],
+        [
+          864,
+          1019
+        ]
+      ],
+      "score": 0.5852899551391602,
+      "y_pos": 433,
+      "text": "2. Vĩnh lạc thang\nRễ sim    20gr\nTang ký sinh    12gr\nHuyết giác    15gr\nHuyết đằng    15gr\nKinh giới    8gr\nXương bồ    8gr\nThông thảo    4gr\nHương phụ    10gr\nNgưu tất    12gr",
+      "confidence": 0.9369657481004111
+    },
+    {
+      "type": "text",
+      "img_path": "p0310_001_text.png",
+      "bbox": [
+        [
+          169,
+          1141
+        ],
+        [
+          680,
+          1141
+        ],
+        [
+          680,
+          1499
+        ],
+        [
+          169,
+          1499
+        ]
+      ],
+      "score": 0.6018487215042114,
+      "y_pos": 1141,
+      "text": "Xuyên khung    8gr\n<b>Duong quy</b>    15gr\nThục địa    20gr\nBach thược    12gr\nĐào nhân    8gr\nHồng hoa    4gr",
+      "confidence": 0.9158174029654926
+    },
+    {
+      "type": "text",
+      "img_path": "p0310_004_text.png",
+      "bbox": [
+        [
+          875,
+          1148
+        ],
+        [
+          1414,
+          1148
+        ],
+        [
+          1414,
+          1919
+        ],
+        [
+          875,
+          1919
+        ]
+      ],
+      "score": 0.5791975855827332,
+      "y_pos": 1148,
+      "text": "Tao giác thích    8gr\nXuyên sơn giáp    12gr\n<b>Duong quy</b>    12gr\nCam thảo    4gr\nBach thược    12gr\nNgân hoa    12gr\nTrần bì    10gr\nHoa phấn    12gr\nPhòng phong    8gr\nMôt dước    8gr\nNhũ hương    8gr\nBối mẫu    8gr\nBach chỉ    10gr",
+      "confidence": 0.9351139685501434
+    },
+    {
+      "type": "number",
+      "img_path": "p0310_000_number.png",
+      "bbox": [
+        [
+          174,
+          2224
+        ],
+        [
+          258,
+          2224
+        ],
+        [
+          258,
+          2267
+        ],
+        [
+          174,
+          2267
+        ]
+      ],
+      "score": 0.9091059565544128,
+      "y_pos": 2224,
+      "text": "        \n\n\n\n    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0310.png"
+}

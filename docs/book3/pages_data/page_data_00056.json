@@ -1,0 +1,370 @@
+{
+  "page_num": 56,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0056_000_text.png",
+      "bbox": [
+        [
+          163,
+          304
+        ],
+        [
+          1510,
+          304
+        ],
+        [
+          1510,
+          764
+        ],
+        [
+          163,
+          764
+        ]
+      ],
+      "score": 0.9856097102165222,
+      "y_pos": 304,
+      "text": "gồm có: âm, dương, hàn, nhiệt, hư, thực, biểu, lý trong đó: âm\ndương là tổng cương. Vậy chỉ còn lại hàn, nhiệt, hư, thực,\nbiểu, lý. Bệnh gì cũng không ngoài 6 cương lĩnh trên. Việc\nphân biệt bệnh và quy về bát cương là vô cùng khó khăn và\nphức tạp, rất dễ nhầm lẫn. Nếu như nhận đúng được bệnh và\nquy loại đúng theo bát cương thì việc chữa bệnh mới đạt hiệu\nquå.",
+      "confidence": 0.9973184673940027
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0056_011_paragraph_title.png",
+      "bbox": [
+        [
+          456,
+          794
+        ],
+        [
+          1224,
+          794
+        ],
+        [
+          1224,
+          849
+        ],
+        [
+          456,
+          849
+        ]
+      ],
+      "score": 0.872078537940979,
+      "y_pos": 794,
+      "text": "NÔI DUNG CỦA 8 CƯƠNG LĨNH",
+      "confidence": 0.9841613394242746
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0056_005_paragraph_title.png",
+      "bbox": [
+        [
+          288,
+          890
+        ],
+        [
+          525,
+          890
+        ],
+        [
+          525,
+          945
+        ],
+        [
+          288,
+          945
+        ]
+      ],
+      "score": 0.9083373546600342,
+      "y_pos": 890,
+      "text": "Biểu,    IV",
+      "confidence": 0.8315499510083879
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_003_text.png",
+      "bbox": [
+        [
+          165,
+          980
+        ],
+        [
+          1509,
+          980
+        ],
+        [
+          1509,
+          1106
+        ],
+        [
+          165,
+          1106
+        ]
+      ],
+      "score": 0.9540011882781982,
+      "y_pos": 980,
+      "text": "Biểu, lý là 2 cương lĩnh để tìm vị trí nông sâu của bệnh,\nđánh giá tiên lượng và đề ra phương pháp điều trị.",
+      "confidence": 0.9996504405078708
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_008_text.png",
+      "bbox": [
+        [
+          286,
+          1138
+        ],
+        [
+          1332,
+          1138
+        ],
+        [
+          1332,
+          1191
+        ],
+        [
+          286,
+          1191
+        ]
+      ],
+      "score": 0.9009762406349182,
+      "y_pos": 1138,
+      "text": "- Biểu chứng: Là bệnh còn ở bên ngoài, ở nông.",
+      "confidence": 0.9993272249897321
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_007_text.png",
+      "bbox": [
+        [
+          285,
+          1229
+        ],
+        [
+          1266,
+          1229
+        ],
+        [
+          1266,
+          1281
+        ],
+        [
+          285,
+          1281
+        ]
+      ],
+      "score": 0.9023494720458984,
+      "y_pos": 1229,
+      "text": "- Lý chứng: Là bệnh đã truyền sâu vào trong.",
+      "confidence": 0.9962001650229745
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0056_010_paragraph_title.png",
+      "bbox": [
+        [
+          287,
+          1318
+        ],
+        [
+          596,
+          1318
+        ],
+        [
+          596,
+          1365
+        ],
+        [
+          287,
+          1365
+        ]
+      ],
+      "score": 0.8789194226264954,
+      "y_pos": 1318,
+      "text": "2. Hàn, nhiệt",
+      "confidence": 0.9662906646728515
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_002_text.png",
+      "bbox": [
+        [
+          166,
+          1400
+        ],
+        [
+          1511,
+          1400
+        ],
+        [
+          1511,
+          1519
+        ],
+        [
+          166,
+          1519
+        ]
+      ],
+      "score": 0.9581461548805237,
+      "y_pos": 1400,
+      "text": "Hàn và nhiệt là 2 cương lĩnh dùng để đánh giá tính chất\nnóng, lạnh của bệnh.",
+      "confidence": 0.9948345748573969
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0056_009_paragraph_title.png",
+      "bbox": [
+        [
+          287,
+          1557
+        ],
+        [
+          549,
+          1557
+        ],
+        [
+          549,
+          1604
+        ],
+        [
+          287,
+          1604
+        ]
+      ],
+      "score": 0.8981069326400757,
+      "y_pos": 1557,
+      "text": "3. Hu, thuc",
+      "confidence": 0.9736801981925964
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_001_text.png",
+      "bbox": [
+        [
+          164,
+          1638
+        ],
+        [
+          1512,
+          1638
+        ],
+        [
+          1512,
+          1827
+        ],
+        [
+          164,
+          1827
+        ]
+      ],
+      "score": 0.9732285141944885,
+      "y_pos": 1638,
+      "text": "Là 2 cương lĩnh để tìm hiểu bệnh do chính khí hư, cơ\nquan nội tạng hư yếu mà sinh bệnh hay do tà khí thực xâm\nnhập làm bệnh.",
+      "confidence": 0.9971889111226471
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0056_006_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          1859
+        ],
+        [
+          600,
+          1859
+        ],
+        [
+          600,
+          1914
+        ],
+        [
+          284,
+          1914
+        ]
+      ],
+      "score": 0.9047664999961853,
+      "y_pos": 1859,
+      "text": "4. Am, dương",
+      "confidence": 0.985371470451355
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_004_text.png",
+      "bbox": [
+        [
+          166,
+          1942
+        ],
+        [
+          1511,
+          1942
+        ],
+        [
+          1511,
+          2070
+        ],
+        [
+          166,
+          2070
+        ]
+      ],
+      "score": 0.9370148777961731,
+      "y_pos": 1942,
+      "text": "Âm, dương là 2 cương lĩnh tổng quát để đánh giá xu\nthế chung của bệnh tật nó là tổng cương.",
+      "confidence": 0.9978302805087506
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0056_013_paragraph_title.png",
+      "bbox": [
+        [
+          167,
+          2091
+        ],
+        [
+          1368,
+          2091
+        ],
+        [
+          1368,
+          2152
+        ],
+        [
+          167,
+          2152
+        ]
+      ],
+      "score": 0.7420676946640015,
+      "y_pos": 2091,
+      "text": "II. SƯ XEN LÂN GIỮA CÁC THỂ CỦA BÁT CƯƠNG",
+      "confidence": 0.9983801924905111
+    },
+    {
+      "type": "number",
+      "img_path": "p0056_012_number.png",
+      "bbox": [
+        [
+          173,
+          2226
+        ],
+        [
+          229,
+          2226
+        ],
+        [
+          229,
+          2268
+        ],
+        [
+          173,
+          2268
+        ]
+      ],
+      "score": 0.8634010553359985,
+      "y_pos": 2226,
+      "text": "    \n    \n    \n\n\n\n۰\n\n\n\n\n\n    •\n    \n\n\n\n",
+      "confidence": 0.9490366843731507
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0056.png"
+}

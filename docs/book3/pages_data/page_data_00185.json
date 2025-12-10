@@ -1,0 +1,370 @@
+{
+  "page_num": 185,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0185_003_text.png",
+      "bbox": [
+        [
+          226,
+          304
+        ],
+        [
+          1574,
+          304
+        ],
+        [
+          1574,
+          426
+        ],
+        [
+          226,
+          426
+        ]
+      ],
+      "score": 0.9540442824363708,
+      "y_pos": 304,
+      "text": "- Bệnh Đới hạ: (huyết trắng) nếu gặp mạch Trầm, mạch\nHoạt thì thuận, nếu gặp mạch Phù, mạch Hư thì nghịch.",
+      "confidence": 0.9988216300303687
+    },
+    {
+      "type": "text",
+      "img_path": "p0185_004_text.png",
+      "bbox": [
+        [
+          224,
+          463
+        ],
+        [
+          1573,
+          463
+        ],
+        [
+          1573,
+          582
+        ],
+        [
+          224,
+          582
+        ]
+      ],
+      "score": 0.9521664381027222,
+      "y_pos": 463,
+      "text": "- Trúng độc: (ăn phải đồ ăn có chất độc) nếu gặp mạch\nhồng, mạch Đại thì thuận, nếu gặp mạch Vi, mạch Tế thì ky.",
+      "confidence": 0.9971216430718248
+    },
+    {
+      "type": "text",
+      "img_path": "p0185_006_text.png",
+      "bbox": [
+        [
+          225,
+          617
+        ],
+        [
+          1572,
+          617
+        ],
+        [
+          1572,
+          740
+        ],
+        [
+          225,
+          740
+        ]
+      ],
+      "score": 0.9479917883872986,
+      "y_pos": 617,
+      "text": "- Bệnh Thổ Huyết: nếu gặp mạch Tiểu, mạch Trầm,\nmạch Vi thì thuận, nếu gặp mạch Đại, mạch Thực thì ky.",
+      "confidence": 0.9967351195459463
+    },
+    {
+      "type": "text",
+      "img_path": "p0185_001_text.png",
+      "bbox": [
+        [
+          225,
+          777
+        ],
+        [
+          1570,
+          777
+        ],
+        [
+          1570,
+          898
+        ],
+        [
+          225,
+          898
+        ]
+      ],
+      "score": 0.9583756327629089,
+      "y_pos": 777,
+      "text": "- Bệnh mới bị: nếu gặp mạch Phù, mạch Đại thì thuận,\nnếu gặp mạch Trầm, mạch Tế thì ky.",
+      "confidence": 0.9970369300356619
+    },
+    {
+      "type": "text",
+      "img_path": "p0185_008_text.png",
+      "bbox": [
+        [
+          346,
+          934
+        ],
+        [
+          1402,
+          934
+        ],
+        [
+          1402,
+          984
+        ],
+        [
+          346,
+          984
+        ]
+      ],
+      "score": 0.9123581647872925,
+      "y_pos": 934,
+      "text": "- Phụ nữ có thai: nếu gặp mạch Hoạt, mạch đại thì tốt.",
+      "confidence": 0.9968811912196023
+    },
+    {
+      "type": "text",
+      "img_path": "p0185_002_text.png",
+      "bbox": [
+        [
+          225,
+          1024
+        ],
+        [
+          1570,
+          1024
+        ],
+        [
+          1570,
+          1141
+        ],
+        [
+          225,
+          1141
+        ]
+      ],
+      "score": 0.9571021795272827,
+      "y_pos": 1024,
+      "text": "- Người bình thường: có mạch Phù, mạch Đại thì thuận,\nnếu có mach Trầm, mach sắc là ky.",
+      "confidence": 0.9949145381326799
+    },
+    {
+      "type": "text",
+      "img_path": "p0185_000_text.png",
+      "bbox": [
+        [
+          225,
+          1181
+        ],
+        [
+          1573,
+          1181
+        ],
+        [
+          1573,
+          1296
+        ],
+        [
+          225,
+          1296
+        ]
+      ],
+      "score": 0.9585843682289124,
+      "y_pos": 1181,
+      "text": "- Bệnh thuộc hư chứng: nếu gặp mạch Nhược, mạch\nTiểu thì thuân.",
+      "confidence": 0.9953352124894224
+    },
+    {
+      "type": "text",
+      "img_path": "p0185_010_text.png",
+      "bbox": [
+        [
+          345,
+          1336
+        ],
+        [
+          1562,
+          1336
+        ],
+        [
+          1562,
+          1388
+        ],
+        [
+          345,
+          1388
+        ]
+      ],
+      "score": 0.8905261158943176,
+      "y_pos": 1336,
+      "text": "- Bệnh thực chứng: nếu gặp mạch Nhược, mạch Tiểu thì ky.",
+      "confidence": 0.9982756684566366
+    },
+    {
+      "type": "text",
+      "img_path": "p0185_011_text.png",
+      "bbox": [
+        [
+          346,
+          1427
+        ],
+        [
+          1554,
+          1427
+        ],
+        [
+          1554,
+          1477
+        ],
+        [
+          346,
+          1477
+        ]
+      ],
+      "score": 0.8904677033424377,
+      "y_pos": 1427,
+      "text": "- Người già yếu: mà có mạch Phù, mạch Đại là nghịch chứng.",
+      "confidence": 0.9976857393980026
+    },
+    {
+      "type": "text",
+      "img_path": "p0185_007_text.png",
+      "bbox": [
+        [
+          226,
+          1514
+        ],
+        [
+          1573,
+          1514
+        ],
+        [
+          1573,
+          1635
+        ],
+        [
+          226,
+          1635
+        ]
+      ],
+      "score": 0.947586178779602,
+      "y_pos": 1514,
+      "text": "- Bệnh thoá huyết: (khạc ra máu) nếu gặp mạch Trầm,\nmạch Nhược là thuận, nếu gặp mạch Thực, mạch đại là nghịch.",
+      "confidence": 0.9982794329842066
+    },
+    {
+      "type": "text",
+      "img_path": "p0185_005_text.png",
+      "bbox": [
+        [
+          225,
+          1673
+        ],
+        [
+          1569,
+          1673
+        ],
+        [
+          1569,
+          1793
+        ],
+        [
+          225,
+          1793
+        ]
+      ],
+      "score": 0.950348436832428,
+      "y_pos": 1673,
+      "text": "- Bệnh đau đầu: nếu gặp mạch Phù, mạch Hoãn là\nthuận, nếu gặp mạch Tế, mạch Trì, mạch Nhu là kỵ",
+      "confidence": 0.998674020494024
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0185_013_paragraph_title.png",
+      "bbox": [
+        [
+          489,
+          1966
+        ],
+        [
+          1311,
+          1966
+        ],
+        [
+          1311,
+          2035
+        ],
+        [
+          489,
+          2035
+        ]
+      ],
+      "score": 0.5132400989532471,
+      "y_pos": 1966,
+      "text": "MẠCH BỆNH NGHI KY DIEN CA",
+      "confidence": 0.9639285250946328
+    },
+    {
+      "type": "text",
+      "img_path": "p0185_012_text.png",
+      "bbox": [
+        [
+          556,
+          2053
+        ],
+        [
+          1249,
+          2053
+        ],
+        [
+          1249,
+          2179
+        ],
+        [
+          556,
+          2179
+        ]
+      ],
+      "score": 0.7287055850028992,
+      "y_pos": 2053,
+      "text": "Ngẫm rằng: Mạch lý y gia\nVững mạnh nghi ky mới là tài ba",
+      "confidence": 0.9835269237870659
+    },
+    {
+      "type": "number",
+      "img_path": "p0185_009_number.png",
+      "bbox": [
+        [
+          1535,
+          2225
+        ],
+        [
+          1611,
+          2225
+        ],
+        [
+          1611,
+          2267
+        ],
+        [
+          1535,
+          2267
+        ]
+      ],
+      "score": 0.9014545679092407,
+      "y_pos": 2225,
+      "text": "    \n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0185.png"
+}

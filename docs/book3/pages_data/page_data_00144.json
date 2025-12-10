@@ -1,0 +1,344 @@
+{
+  "page_num": 144,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0144_004_text.png",
+      "bbox": [
+        [
+          166,
+          306
+        ],
+        [
+          1513,
+          306
+        ],
+        [
+          1513,
+          429
+        ],
+        [
+          166,
+          429
+        ]
+      ],
+      "score": 0.9542725086212158,
+      "y_pos": 306,
+      "text": "không bất thường như mạch xúc và mạch kết. Ví dụ cứ đập 3 cái\nlại nghỉ 1 giờ hoặc 4 cái nghỉ 1 là cứ như vậy hoài...",
+      "confidence": 0.9996055278276641
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0144_011_paragraph_title.png",
+      "bbox": [
+        [
+          167,
+          464
+        ],
+        [
+          783,
+          464
+        ],
+        [
+          783,
+          524
+        ],
+        [
+          167,
+          524
+        ]
+      ],
+      "score": 0.892717182636261,
+      "y_pos": 464,
+      "text": "VIII. MACH THAT OUAI",
+      "confidence": 0.7119371538812463
+    },
+    {
+      "type": "text",
+      "img_path": "p0144_000_text.png",
+      "bbox": [
+        [
+          165,
+          569
+        ],
+        [
+          1514,
+          569
+        ],
+        [
+          1514,
+          829
+        ],
+        [
+          165,
+          829
+        ]
+      ],
+      "score": 0.9775457978248596,
+      "y_pos": 569,
+      "text": "Đối với bệnh nhân nặng thường là nằm liệt giường mà cả\nbộ thốn khẩu chỉ còn mạch xích. Mạch xích ấy có hình tương như\n7 trường hợp sau đây thì gọi là mạch thất quái. Đây là 7 mạch tử,\ngặp 1 trong 7 mạch này thì không chữa được.",
+      "confidence": 0.9937209621398804
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0144_008_paragraph_title.png",
+      "bbox": [
+        [
+          320,
+          876
+        ],
+        [
+          731,
+          876
+        ],
+        [
+          731,
+          921
+        ],
+        [
+          320,
+          921
+        ]
+      ],
+      "score": 0.9020282030105591,
+      "y_pos": 876,
+      "text": "1. Mach tước trác",
+      "confidence": 0.9331935173586795
+    },
+    {
+      "type": "text",
+      "img_path": "p0144_001_text.png",
+      "bbox": [
+        [
+          165,
+          970
+        ],
+        [
+          1511,
+          970
+        ],
+        [
+          1511,
+          1161
+        ],
+        [
+          165,
+          1161
+        ]
+      ],
+      "score": 0.9665180444717407,
+      "y_pos": 970,
+      "text": "Tước là con chim sẻ, trác là chim mổ thóc. Mach tưa\nnhư con chim sẻ mổ từng hạt thóc dưới sân, mổ thủng thẳng năm\nba cái lại nghỉ một chút lại mổ tiếp.",
+      "confidence": 0.9985490332989359
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0144_007_paragraph_title.png",
+      "bbox": [
+        [
+          317,
+          1305
+        ],
+        [
+          664,
+          1305
+        ],
+        [
+          664,
+          1354
+        ],
+        [
+          317,
+          1354
+        ]
+      ],
+      "score": 0.9057867527008057,
+      "y_pos": 1305,
+      "text": "2. Mach ốc lâu",
+      "confidence": 0.9670694023370743
+    },
+    {
+      "type": "text",
+      "img_path": "p0144_002_text.png",
+      "bbox": [
+        [
+          165,
+          1386
+        ],
+        [
+          1515,
+          1386
+        ],
+        [
+          1515,
+          1582
+        ],
+        [
+          165,
+          1582
+        ]
+      ],
+      "score": 0.9651326537132263,
+      "y_pos": 1386,
+      "text": "ốc là cái nhà, lậu là nhỏ giọt. ốc lậu hình tượng như\ngiọt nước mưa nhỏ từ mái tranh xuống nhẹ nhàng, êm dịu (tốc\nđộ rất chậm, không mau như mạch tước trác).",
+      "confidence": 0.9982705616152181
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0144_009_paragraph_title.png",
+      "bbox": [
+        [
+          316,
+          1621
+        ],
+        [
+          764,
+          1621
+        ],
+        [
+          764,
+          1670
+        ],
+        [
+          316,
+          1670
+        ]
+      ],
+      "score": 0.8968713283538818,
+      "y_pos": 1621,
+      "text": "3. Mạch Đạn thạch",
+      "confidence": 0.9756063975785908
+    },
+    {
+      "type": "text",
+      "img_path": "p0144_005_text.png",
+      "bbox": [
+        [
+          165,
+          1709
+        ],
+        [
+          1510,
+          1709
+        ],
+        [
+          1510,
+          1830
+        ],
+        [
+          165,
+          1830
+        ]
+      ],
+      "score": 0.9518481492996216,
+      "y_pos": 1709,
+      "text": "Đan là viên đạn, thạch là đá. Mạch tới rất chậm nhưng\nđã tới thì lại mạnh như viên đạn bằng đá bắn vọt qua.",
+      "confidence": 0.9996405964547939
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0144_010_paragraph_title.png",
+      "bbox": [
+        [
+          315,
+          1870
+        ],
+        [
+          738,
+          1870
+        ],
+        [
+          738,
+          1916
+        ],
+        [
+          315,
+          1916
+        ]
+      ],
+      "score": 0.8958160877227783,
+      "y_pos": 1870,
+      "text": "4. Mach Giải sách",
+      "confidence": 0.9746580437610024
+    },
+    {
+      "type": "text",
+      "img_path": "p0144_003_text.png",
+      "bbox": [
+        [
+          166,
+          1956
+        ],
+        [
+          1512,
+          1956
+        ],
+        [
+          1512,
+          2079
+        ],
+        [
+          166,
+          2079
+        ]
+      ],
+      "score": 0.9552209377288818,
+      "y_pos": 1956,
+      "text": "Giải là giải ra, gỡ ra, sách là đám rối. Mạch tưa như\nđám rối đang được gỡ ra.",
+      "confidence": 0.9988855863992985
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0144_006_paragraph_title.png",
+      "bbox": [
+        [
+          317,
+          2118
+        ],
+        [
+          760,
+          2118
+        ],
+        [
+          760,
+          2169
+        ],
+        [
+          317,
+          2169
+        ]
+      ],
+      "score": 0.9069360494613647,
+      "y_pos": 2118,
+      "text": "5. Mạch Ngư tường",
+      "confidence": 0.9505276021204496
+    },
+    {
+      "type": "number",
+      "img_path": "p0144_012_number.png",
+      "bbox": [
+        [
+          178,
+          2226
+        ],
+        [
+          257,
+          2226
+        ],
+        [
+          257,
+          2266
+        ],
+        [
+          178,
+          2266
+        ]
+      ],
+      "score": 0.8584102392196655,
+      "y_pos": 2226,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0144.png"
+}

@@ -1,0 +1,240 @@
+{
+  "page_num": 334,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0334_004_text.png",
+      "bbox": [
+        [
+          316,
+          303
+        ],
+        [
+          1362,
+          303
+        ],
+        [
+          1362,
+          358
+        ],
+        [
+          316,
+          358
+        ]
+      ],
+      "score": 0.9230482578277588,
+      "y_pos": 303,
+      "text": "- Hoạt huyết (làm cho huyết lưu thông dễ dàng).",
+      "confidence": 0.9976046413791423
+    },
+    {
+      "type": "text",
+      "img_path": "p0334_002_text.png",
+      "bbox": [
+        [
+          163,
+          393
+        ],
+        [
+          1514,
+          393
+        ],
+        [
+          1514,
+          514
+        ],
+        [
+          163,
+          514
+        ]
+      ],
+      "score": 0.9684336185455322,
+      "y_pos": 393,
+      "text": "- Nhuận trường (làm cho không bị táo bón đi đại tiên dễ\ndàng).",
+      "confidence": 0.9840302129455826
+    },
+    {
+      "type": "text",
+      "img_path": "p0334_001_text.png",
+      "bbox": [
+        [
+          165,
+          548
+        ],
+        [
+          1512,
+          548
+        ],
+        [
+          1512,
+          740
+        ],
+        [
+          165,
+          740
+        ]
+      ],
+      "score": 0.9775010347366333,
+      "y_pos": 548,
+      "text": "- Chống viêm và bài nùng sinh cơ (trị các ổ đã và sắp\nnhiễm khuẩn đồng thời trục mủ và các hoại tử ra cho vết\nthương lành lại).",
+      "confidence": 0.9880487601215823
+    },
+    {
+      "type": "text",
+      "img_path": "p0334_000_text.png",
+      "bbox": [
+        [
+          165,
+          774
+        ],
+        [
+          1512,
+          774
+        ],
+        [
+          1512,
+          1169
+        ],
+        [
+          165,
+          1169
+        ]
+      ],
+      "score": 0.9848836660385132,
+      "y_pos": 774,
+      "text": "Bài thuốc được thịnh dùng là bài cổ phương mang tên:\n\"Bổ trung ích khí\" tác dụng của bài thuốc này là (bổ khí và\nthăng đề) đồng thời lại phải thêm các vị sau: Tam thất (để bổ\nhuyết, hoạt huyết), Mộc miên hoa, Đại hoàng, Chỉ xác (để\nnhuận tràng, hành khí), Ngân hoa, Liên kiều, Bạch chỉ (để\nchống viêm và bài nùng sinh cơ).",
+      "confidence": 0.9914611435030057
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0334_008_paragraph_title.png",
+      "bbox": [
+        [
+          314,
+          1206
+        ],
+        [
+          904,
+          1206
+        ],
+        [
+          904,
+          1256
+        ],
+        [
+          314,
+          1256
+        ]
+      ],
+      "score": 0.6408013105392456,
+      "y_pos": 1206,
+      "text": "Đơn thuốc cu thể như sau:",
+      "confidence": 0.9884789254930284
+    },
+    {
+      "type": "table",
+      "img_path": "p0334_007_table.png",
+      "bbox": [
+        [
+          311,
+          1273
+        ],
+        [
+          1474,
+          1273
+        ],
+        [
+          1474,
+          1840
+        ],
+        [
+          311,
+          1840
+        ]
+      ],
+      "score": 0.728283703327179,
+      "y_pos": 1273,
+      "text": "Đẳng sâm    12 g    Tam thất bắc    8 g\nChích kỳ    20g    Mộc miên hoa    20 g\nĐương qui    12 g    Đại hoàng    5 g\nBạch truật    12 g    Chỉ xác    8 g\nThăng ma    16 g    Ngư tinh thảo    12 g\nSài hồ    12 g    Ngân hoa    10 g\nTrần bì    8 g    Liên kiểu    8 g\nCam thảo    6g    Bạch chỉ    12 g",
+      "confidence": 0.9327747557304858
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0334_006_paragraph_title.png",
+      "bbox": [
+        [
+          315,
+          1874
+        ],
+        [
+          1087,
+          1874
+        ],
+        [
+          1087,
+          1927
+        ],
+        [
+          315,
+          1927
+        ]
+      ],
+      "score": 0.8181913495063782,
+      "y_pos": 1874,
+      "text": "Gia giảm bài thuốc theo mạch lý:",
+      "confidence": 0.9988977225387797
+    },
+    {
+      "type": "text",
+      "img_path": "p0334_003_text.png",
+      "bbox": [
+        [
+          164,
+          1960
+        ],
+        [
+          1512,
+          1960
+        ],
+        [
+          1512,
+          2085
+        ],
+        [
+          164,
+          2085
+        ]
+      ],
+      "score": 0.962696373462677,
+      "y_pos": 1960,
+      "text": "- Nếu bệnh nhân mạch hoãn sắc thì phải gia các vị bổ\nhuyết sinh tân như: hoàng tinh, mạch môn, ngũ vị tử...",
+      "confidence": 0.9953012859261541
+    },
+    {
+      "type": "number",
+      "img_path": "p0334_005_number.png",
+      "bbox": [
+        [
+          173,
+          2224
+        ],
+        [
+          256,
+          2224
+        ],
+        [
+          256,
+          2267
+        ],
+        [
+          173,
+          2267
+        ]
+      ],
+      "score": 0.8950868248939514,
+      "y_pos": 2224,
+      "text": "\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0334.png"
+}

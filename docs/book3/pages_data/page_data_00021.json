@@ -1,0 +1,318 @@
+{
+  "page_num": 21,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0021_011_header.png",
+      "bbox": [
+        [
+          228,
+          0
+        ],
+        [
+          751,
+          0
+        ],
+        [
+          751,
+          95
+        ],
+        [
+          228,
+          95
+        ]
+      ],
+      "score": 0.6515935659408569,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9627131231014545
+    },
+    {
+      "type": "text",
+      "img_path": "p0021_004_text.png",
+      "bbox": [
+        [
+          224,
+          307
+        ],
+        [
+          1572,
+          307
+        ],
+        [
+          1572,
+          426
+        ],
+        [
+          224,
+          426
+        ]
+      ],
+      "score": 0.9599544405937195,
+      "y_pos": 307,
+      "text": "bệnh thích hợp. Sự phát sinh ra một chứng bệnh ở tạng, phủ nào\nđó có thể xảy ra ở năm vị trí khác nhau sau đây:",
+      "confidence": 0.9995185686089099
+    },
+    {
+      "type": "text",
+      "img_path": "p0021_009_text.png",
+      "bbox": [
+        [
+          345,
+          462
+        ],
+        [
+          1289,
+          462
+        ],
+        [
+          1289,
+          514
+        ],
+        [
+          345,
+          514
+        ]
+      ],
+      "score": 0.8929885029792786,
+      "y_pos": 462,
+      "text": "Chính tà: Do bản thân tạng phủ ấy có bệnh.",
+      "confidence": 0.7573963363062252
+    },
+    {
+      "type": "text",
+      "img_path": "p0021_008_text.png",
+      "bbox": [
+        [
+          345,
+          552
+        ],
+        [
+          1499,
+          552
+        ],
+        [
+          1499,
+          604
+        ],
+        [
+          345,
+          604
+        ]
+      ],
+      "score": 0.8960775136947632,
+      "y_pos": 552,
+      "text": "Hư tà: Do tạng mẹ của tạng đó gây bệnh cho tạng đó.",
+      "confidence": 0.9071949562936459
+    },
+    {
+      "type": "text",
+      "img_path": "p0021_007_text.png",
+      "bbox": [
+        [
+          345,
+          642
+        ],
+        [
+          1481,
+          642
+        ],
+        [
+          1481,
+          693
+        ],
+        [
+          345,
+          693
+        ]
+      ],
+      "score": 0.8964945673942566,
+      "y_pos": 642,
+      "text": "Thực tà: Do tạng con của tạng đó gây bệnh cho tạng đó.",
+      "confidence": 0.7636094593576023
+    },
+    {
+      "type": "text",
+      "img_path": "p0021_005_text.png",
+      "bbox": [
+        [
+          226,
+          731
+        ],
+        [
+          1573,
+          731
+        ],
+        [
+          1573,
+          850
+        ],
+        [
+          226,
+          850
+        ]
+      ],
+      "score": 0.9573542475700378,
+      "y_pos": 731,
+      "text": "Tặc tà: Do tạng khắc tạng đó gây bệnh cho tạng đó\n(tương thừa).",
+      "confidence": 0.9208846939545052
+    },
+    {
+      "type": "text",
+      "img_path": "p0021_000_text.png",
+      "bbox": [
+        [
+          223,
+          886
+        ],
+        [
+          1572,
+          886
+        ],
+        [
+          1572,
+          1140
+        ],
+        [
+          223,
+          1140
+        ]
+      ],
+      "score": 0.9784342646598816,
+      "y_pos": 886,
+      "text": "Vi tà: Do tạng đó không khắc được tạng mà nó phải\nkhắc mà tạng đó bị bệnh (tương vũ). Ví dụ: Mất ngủ là một\nchứng bệnh của tạng tâm có thể xảy ra ở 5 vị trí khác nhau và\ncách chữa cũng khác nhau:",
+      "confidence": 0.9867471615020814
+    },
+    {
+      "type": "text",
+      "img_path": "p0021_006_text.png",
+      "bbox": [
+        [
+          225,
+          1178
+        ],
+        [
+          1572,
+          1178
+        ],
+        [
+          1572,
+          1301
+        ],
+        [
+          225,
+          1301
+        ]
+      ],
+      "score": 0.9547770619392395,
+      "y_pos": 1178,
+      "text": "Chính tà: Bản thân tạng tâm gây mất ngủ như thiếu máu\nkhông nuôi dưỡng được thần. Khi chữa phải bổ huyết an thần.",
+      "confidence": 0.9986563679980094
+    },
+    {
+      "type": "text",
+      "img_path": "p0021_001_text.png",
+      "bbox": [
+        [
+          224,
+          1339
+        ],
+        [
+          1571,
+          1339
+        ],
+        [
+          1571,
+          1524
+        ],
+        [
+          224,
+          1524
+        ]
+      ],
+      "score": 0.9735183715820312,
+      "y_pos": 1339,
+      "text": "Hư tà: Do tạng can gây bệnh cho tâm như can khí\nnghịch, can khí uất, can nhiệt là huyết nhiệt gây mất ngủ. Khi\nchữa phải bình can an thần.",
+      "confidence": 0.9526186838456384
+    },
+    {
+      "type": "text",
+      "img_path": "p0021_003_text.png",
+      "bbox": [
+        [
+          223,
+          1562
+        ],
+        [
+          1570,
+          1562
+        ],
+        [
+          1570,
+          1749
+        ],
+        [
+          223,
+          1749
+        ]
+      ],
+      "score": 0.9720363020896912,
+      "y_pos": 1562,
+      "text": "Thực tà: Do tạng Tỳ bị hư, cơ nhục yếu, sức hoạt động\ncủa Tâm yếu không ổn định được tâm thần. Khi chữa phải\nkiện Tỳ an thần.",
+      "confidence": 0.9970185751121395
+    },
+    {
+      "type": "text",
+      "img_path": "p0021_002_text.png",
+      "bbox": [
+        [
+          224,
+          1787
+        ],
+        [
+          1570,
+          1787
+        ],
+        [
+          1570,
+          1978
+        ],
+        [
+          224,
+          1978
+        ]
+      ],
+      "score": 0.9722403287887573,
+      "y_pos": 1787,
+      "text": "Tặc tà: Do thận hư không khắc được tâm hỏa (nguyên\nkhí của thận không đủ để củng cố dinh khí cho Tâm huyết)\ngây mất ngủ. Khi chữa phải bổ Thận an thần.",
+      "confidence": 0.9312445017660586
+    },
+    {
+      "type": "number",
+      "img_path": "p0021_010_number.png",
+      "bbox": [
+        [
+          1530,
+          2226
+        ],
+        [
+          1578,
+          2226
+        ],
+        [
+          1578,
+          2266
+        ],
+        [
+          1530,
+          2266
+        ]
+      ],
+      "score": 0.8677241802215576,
+      "y_pos": 2226,
+      "text": "    \n    \n    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0021.png"
+}

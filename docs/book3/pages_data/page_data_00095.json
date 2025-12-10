@@ -1,0 +1,474 @@
+{
+  "page_num": 95,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0095_017_header.png",
+      "bbox": [
+        [
+          227,
+          0
+        ],
+        [
+          752,
+          0
+        ],
+        [
+          752,
+          95
+        ],
+        [
+          227,
+          95
+        ]
+      ],
+      "score": 0.6190498471260071,
+      "y_pos": 0,
+      "text": "TẬP ĐOÀN Y DƯỚC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9624362213336505
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_013_text.png",
+      "bbox": [
+        [
+          287,
+          307
+        ],
+        [
+          1424,
+          307
+        ],
+        [
+          1424,
+          355
+        ],
+        [
+          287,
+          355
+        ]
+      ],
+      "score": 0.9023159146308899,
+      "y_pos": 307,
+      "text": "- Hàn chứng: Ho liên tục, khò khè mà mặt không đỏ.",
+      "confidence": 0.9681994078251032
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_000_text.png",
+      "bbox": [
+        [
+          224,
+          396
+        ],
+        [
+          1571,
+          396
+        ],
+        [
+          1571,
+          580
+        ],
+        [
+          224,
+          580
+        ]
+      ],
+      "score": 0.9766787886619568,
+      "y_pos": 396,
+      "text": "- Nhiệt chứng: Ho không thông, đàm vàng đặc, họng khô,\nđau mũi, hơi thở nóng. Đôi khi ho giáng hết sức mà vẫn\nkhông ra được đàm.",
+      "confidence": 0.9929964992971647
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_010_text.png",
+      "bbox": [
+        [
+          287,
+          620
+        ],
+        [
+          1396,
+          620
+        ],
+        [
+          1396,
+          671
+        ],
+        [
+          287,
+          671
+        ]
+      ],
+      "score": 0.914419949054718,
+      "y_pos": 620,
+      "text": "- Hư chứng: Ho lâu ngày, khàn tiếng, tiếng ho câm.",
+      "confidence": 0.998228329878587
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_007_text.png",
+      "bbox": [
+        [
+          286,
+          710
+        ],
+        [
+          1443,
+          710
+        ],
+        [
+          1443,
+          761
+        ],
+        [
+          286,
+          761
+        ]
+      ],
+      "score": 0.9193036556243896,
+      "y_pos": 710,
+      "text": "- Thực chứng: Ho dữ dội, tiếng ho đục, tiếng ho khàn.",
+      "confidence": 0.9991660031405363
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_002_text.png",
+      "bbox": [
+        [
+          225,
+          795
+        ],
+        [
+          1571,
+          795
+        ],
+        [
+          1571,
+          916
+        ],
+        [
+          225,
+          916
+        ]
+      ],
+      "score": 0.9652731418609619,
+      "y_pos": 795,
+      "text": "- Biểu chứng: Ho khan, nặng tiếng, ho nhiều, mũi tắc\nnghẹt, rát cổ họng, chảy nước mũi.",
+      "confidence": 0.9991783209972911
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_009_text.png",
+      "bbox": [
+        [
+          287,
+          955
+        ],
+        [
+          1116,
+          955
+        ],
+        [
+          1116,
+          1006
+        ],
+        [
+          287,
+          1006
+        ]
+      ],
+      "score": 0.9157984256744385,
+      "y_pos": 955,
+      "text": "- Lý chứng: Ho nhẹ tiếng, không đàm.",
+      "confidence": 0.9959569400862643
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0095_015_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1046
+        ],
+        [
+          1298,
+          1046
+        ],
+        [
+          1298,
+          1096
+        ],
+        [
+          344,
+          1096
+        ]
+      ],
+      "score": 0.8752180337905884,
+      "y_pos": 1046,
+      "text": "6. Phân định tiếng ho theo \"bệnh chứng\"",
+      "confidence": 0.9686232063828445
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_012_text.png",
+      "bbox": [
+        [
+          375,
+          1135
+        ],
+        [
+          1206,
+          1135
+        ],
+        [
+          1206,
+          1185
+        ],
+        [
+          375,
+          1185
+        ]
+      ],
+      "score": 0.9026278257369995,
+      "y_pos": 1135,
+      "text": "Ho có tiếng mà không có đàm là khái.",
+      "confidence": 0.9997212196651258
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_011_text.png",
+      "bbox": [
+        [
+          374,
+          1223
+        ],
+        [
+          1203,
+          1223
+        ],
+        [
+          1203,
+          1273
+        ],
+        [
+          374,
+          1273
+        ]
+      ],
+      "score": 0.9130056500434875,
+      "y_pos": 1223,
+      "text": "Ho có đàm mà không có tiếng là thấu.",
+      "confidence": 0.9997038558909768
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_004_text.png",
+      "bbox": [
+        [
+          226,
+          1314
+        ],
+        [
+          1571,
+          1314
+        ],
+        [
+          1571,
+          1428
+        ],
+        [
+          226,
+          1428
+        ]
+      ],
+      "score": 0.9638038873672485,
+      "y_pos": 1314,
+      "text": "- Ho gà: Ho từng cơn, tiếng ho liên thanh, không dứt,\nmặt đỏ tía tai có thể kèm ói mửa, đờm nhớt.",
+      "confidence": 0.9987458467483521
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_001_text.png",
+      "bbox": [
+        [
+          225,
+          1467
+        ],
+        [
+          1570,
+          1467
+        ],
+        [
+          1570,
+          1588
+        ],
+        [
+          225,
+          1588
+        ]
+      ],
+      "score": 0.9658430814743042,
+      "y_pos": 1467,
+      "text": "- Phế nuy: Ho khạc ra bọt, muốn hụt hơi, tiếng ho gắt,\nkhông đàm.",
+      "confidence": 0.9908211894688153
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_006_text.png",
+      "bbox": [
+        [
+          346,
+          1622
+        ],
+        [
+          1080,
+          1622
+        ],
+        [
+          1080,
+          1674
+        ],
+        [
+          346,
+          1674
+        ]
+      ],
+      "score": 0.9211134910583496,
+      "y_pos": 1622,
+      "text": "- Đàm thấp: Ho thổ ra nhiều đàm.",
+      "confidence": 0.9753779470920563
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_005_text.png",
+      "bbox": [
+        [
+          345,
+          1714
+        ],
+        [
+          1428,
+          1714
+        ],
+        [
+          1428,
+          1765
+        ],
+        [
+          345,
+          1765
+        ]
+      ],
+      "score": 0.9219416379928589,
+      "y_pos": 1714,
+      "text": "- Đàm hỏa: đằng hắng luôn, hay khạc gắn ra đàm.",
+      "confidence": 0.9947819162388237
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_003_text.png",
+      "bbox": [
+        [
+          226,
+          1802
+        ],
+        [
+          1568,
+          1802
+        ],
+        [
+          1568,
+          1923
+        ],
+        [
+          226,
+          1923
+        ]
+      ],
+      "score": 0.96390300989151,
+      "y_pos": 1802,
+      "text": "- Phế bị tổn thương: tiếng ho cao, không đàm, chảy máu\nmũi, miệng khô, lưỡi ráo, ít nước bọt.",
+      "confidence": 0.9981226912566594
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0095_016_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1964
+        ],
+        [
+          1284,
+          1964
+        ],
+        [
+          1284,
+          2013
+        ],
+        [
+          344,
+          2013
+        ]
+      ],
+      "score": 0.7792050242424011,
+      "y_pos": 1964,
+      "text": "7. Phân định tiếng nấc theo \"bát cương\"",
+      "confidence": 0.9864808335536863
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_008_text.png",
+      "bbox": [
+        [
+          346,
+          2052
+        ],
+        [
+          1208,
+          2052
+        ],
+        [
+          1208,
+          2105
+        ],
+        [
+          346,
+          2105
+        ]
+      ],
+      "score": 0.9173988699913025,
+      "y_pos": 2052,
+      "text": "- Hàn chứng: Tiếng nấc, âm thanh thấp.",
+      "confidence": 0.99929029494524
+    },
+    {
+      "type": "number",
+      "img_path": "p0095_014_number.png",
+      "bbox": [
+        [
+          1529,
+          2226
+        ],
+        [
+          1583,
+          2226
+        ],
+        [
+          1583,
+          2267
+        ],
+        [
+          1529,
+          2267
+        ]
+      ],
+      "score": 0.8920980095863342,
+      "y_pos": 2226,
+      "text": "    \n        \n\n\n\n\n    74\n\n\n\n\n\n\n    \n    ",
+      "confidence": 0.9676441536063239
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0095.png"
+}

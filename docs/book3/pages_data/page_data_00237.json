@@ -1,0 +1,84 @@
+{
+  "page_num": 237,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0237_002_header.png",
+      "bbox": [
+        [
+          231,
+          1
+        ],
+        [
+          752,
+          1
+        ],
+        [
+          752,
+          95
+        ],
+        [
+          231,
+          95
+        ]
+      ],
+      "score": 0.646495521068573,
+      "y_pos": 1,
+      "text": "TẬP ĐOÀN Y DƯỢC BẢO LONG\nwww.baolongduong.com.vn",
+      "confidence": 0.9945510694155326
+    },
+    {
+      "type": "table",
+      "img_path": "p0237_000_table.png",
+      "bbox": [
+        [
+          209,
+          291
+        ],
+        [
+          1595,
+          291
+        ],
+        [
+          1595,
+          2184
+        ],
+        [
+          209,
+          2184
+        ]
+      ],
+      "score": 0.9920392036437988,
+      "y_pos": 291,
+      "text": "9    Tả Tà    Thẳng lên mà    Thương    Ngoại tà\nhình    lệch vào phía    phong\nbàn tay\n10    Hữu tà    Thẳng lên mà    Thương    Ngoại tà\nhình    lệch ra phía    hàn\nngoài\n11    Song    Như hai móc    Tỳ hư hàn    Nội\ncâu    câu khép lại    khí trệ    thương\nhình\n12    >    khúc    Tam    cong gấp    Ba đường    Thực tích    Đồ ăn    uống\nhình    khúc    không\ntiêu\n13    1 } }    Loạn    Rối loạn như    Bệnh Cam    Do giun,\n1}1    trùng    bầy sâu bò    lải\nhình\n14    Song    Hình chỉ tay    Kinh    Do đàm\nvăn    thẳng như    phong co    hỏa\nhình    mũi giáo    giut\n15    X X    Song tự    Như hai chữ    Kinh sài    Ngộ độc\nXX    hình    song chồng\nlên\n16    Huyền    Như cây kim    Kinh    Man kinh\nchâm    treo lên    phong\nhình\n17    Ngư    Như vây cá    Kinh sài    Hư chứng",
+      "confidence": 0.9302653870134783
+    },
+    {
+      "type": "number",
+      "img_path": "p0237_001_number.png",
+      "bbox": [
+        [
+          1531,
+          2224
+        ],
+        [
+          1611,
+          2224
+        ],
+        [
+          1611,
+          2267
+        ],
+        [
+          1531,
+          2267
+        ]
+      ],
+      "score": 0.9028364419937134,
+      "y_pos": 2224,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0237.png"
+}

@@ -1,0 +1,370 @@
+{
+  "page_num": 54,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0054_000_text.png",
+      "bbox": [
+        [
+          164,
+          306
+        ],
+        [
+          1511,
+          306
+        ],
+        [
+          1511,
+          696
+        ],
+        [
+          164,
+          696
+        ]
+      ],
+      "score": 0.9857422113418579,
+      "y_pos": 306,
+      "text": "- Nhưng bị hỏa tà thì rất ít vì thân nhiệt của người ta\nthường là 37°. Mặt khác nguyên lý của nhiệt là luôn truyền từ\nvật có nhiệt độ cao tới vật có nhiệt độ thấp. Vậy dễ gì mà có\ncái hỏa thái quá nhập con người. Chỉ có ở môi trường hấp\nnhiệt, lò nung thì nhiệt độ có thể lên quá môi trường và thân\nnhiệt nên có hỏa tà xâm nhập cơ thể.",
+      "confidence": 0.9980865303619758
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0054_007_paragraph_title.png",
+      "bbox": [
+        [
+          167,
+          731
+        ],
+        [
+          1315,
+          731
+        ],
+        [
+          1315,
+          788
+        ],
+        [
+          167,
+          788
+        ]
+      ],
+      "score": 0.922290563583374,
+      "y_pos": 731,
+      "text": "II. NGUYEN NHAN BEN TRONG (THAT TINH)",
+      "confidence": 0.8045931687721839
+    },
+    {
+      "type": "text",
+      "img_path": "p0054_001_text.png",
+      "bbox": [
+        [
+          165,
+          833
+        ],
+        [
+          1511,
+          833
+        ],
+        [
+          1511,
+          1022
+        ],
+        [
+          165,
+          1022
+        ]
+      ],
+      "score": 0.9761459827423096,
+      "y_pos": 833,
+      "text": "Thất tình là 7 tình chí do thái quá mà làm tổn thương\nđến nội tạng. Bảy tình chí đó là: ưu, nộ, hỷ, bi, tư, kinh, khủng\n(lo, giận, vui, buồn, nghĩ, hốt hoảng, sợ hãi).",
+      "confidence": 0.9979231715236443
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0054_012_paragraph_title.png",
+      "bbox": [
+        [
+          164,
+          1065
+        ],
+        [
+          1515,
+          1065
+        ],
+        [
+          1515,
+          1182
+        ],
+        [
+          164,
+          1182
+        ]
+      ],
+      "score": 0.8355785608291626,
+      "y_pos": 1065,
+      "text": "Những tạng phủ chịu tổn thương trực tiếp của tình chí\nkhi thái quá",
+      "confidence": 0.9792839248846104
+    },
+    {
+      "type": "text",
+      "img_path": "p0054_009_text.png",
+      "bbox": [
+        [
+          289,
+          1221
+        ],
+        [
+          1199,
+          1221
+        ],
+        [
+          1199,
+          1277
+        ],
+        [
+          289,
+          1277
+        ]
+      ],
+      "score": 0.9157145023345947,
+      "y_pos": 1221,
+      "text": "1. Ưu: Lo lắng nhiều, tổn thương đến phế.",
+      "confidence": 0.9901068279909533
+    },
+    {
+      "type": "text",
+      "img_path": "p0054_008_text.png",
+      "bbox": [
+        [
+          285,
+          1315
+        ],
+        [
+          1465,
+          1315
+        ],
+        [
+          1465,
+          1369
+        ],
+        [
+          285,
+          1369
+        ]
+      ],
+      "score": 0.9207064509391785,
+      "y_pos": 1315,
+      "text": "2. Kinh: Hốt hoảng, kinh hoàng nhiều, tổn thương đến đởm.",
+      "confidence": 0.9997104780148651
+    },
+    {
+      "type": "text",
+      "img_path": "p0054_003_text.png",
+      "bbox": [
+        [
+          284,
+          1409
+        ],
+        [
+          1220,
+          1409
+        ],
+        [
+          1220,
+          1462
+        ],
+        [
+          284,
+          1462
+        ]
+      ],
+      "score": 0.9275976419448853,
+      "y_pos": 1409,
+      "text": "3. Khủng: Sợ hãi quá, tổn thương đến thận.",
+      "confidence": 0.9802549440752376
+    },
+    {
+      "type": "text",
+      "img_path": "p0054_004_text.png",
+      "bbox": [
+        [
+          284,
+          1501
+        ],
+        [
+          1172,
+          1501
+        ],
+        [
+          1172,
+          1554
+        ],
+        [
+          284,
+          1554
+        ]
+      ],
+      "score": 0.927395761013031,
+      "y_pos": 1501,
+      "text": "4. Nộ: Uất giận quá, tổn thương đến can.",
+      "confidence": 0.9949520755381811
+    },
+    {
+      "type": "text",
+      "img_path": "p0054_006_text.png",
+      "bbox": [
+        [
+          283,
+          1595
+        ],
+        [
+          1151,
+          1595
+        ],
+        [
+          1151,
+          1649
+        ],
+        [
+          283,
+          1649
+        ]
+      ],
+      "score": 0.9256824851036072,
+      "y_pos": 1595,
+      "text": "5. Tư: Suy tư quá độ, tổn thương đến tỳ.",
+      "confidence": 0.9888229866822561
+    },
+    {
+      "type": "text",
+      "img_path": "p0054_005_text.png",
+      "bbox": [
+        [
+          283,
+          1688
+        ],
+        [
+          1192,
+          1688
+        ],
+        [
+          1192,
+          1741
+        ],
+        [
+          283,
+          1741
+        ]
+      ],
+      "score": 0.9265298843383789,
+      "y_pos": 1688,
+      "text": "6. Hỷ: Vui mừng quá tổn thương đến tâm.",
+      "confidence": 0.9906829188509685
+    },
+    {
+      "type": "text",
+      "img_path": "p0054_010_text.png",
+      "bbox": [
+        [
+          284,
+          1780
+        ],
+        [
+          1238,
+          1780
+        ],
+        [
+          1238,
+          1835
+        ],
+        [
+          284,
+          1835
+        ]
+      ],
+      "score": 0.8953648805618286,
+      "y_pos": 1780,
+      "text": "7. Bi: Buồn rầu quá tổn thương tâm bào lạc.",
+      "confidence": 0.9952137245072259
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0054_013_paragraph_title.png",
+      "bbox": [
+        [
+          165,
+          1873
+        ],
+        [
+          1515,
+          1873
+        ],
+        [
+          1515,
+          1999
+        ],
+        [
+          165,
+          1999
+        ]
+      ],
+      "score": 0.6435831189155579,
+      "y_pos": 1873,
+      "text": "III. NGUYÊN NHÂN GÂY BÊNH KHÁC (do tình duc, trât\nđả, trùng thú cắn):",
+      "confidence": 0.9775742162175539
+    },
+    {
+      "type": "text",
+      "img_path": "p0054_002_text.png",
+      "bbox": [
+        [
+          165,
+          2038
+        ],
+        [
+          1510,
+          2038
+        ],
+        [
+          1510,
+          2161
+        ],
+        [
+          165,
+          2161
+        ]
+      ],
+      "score": 0.9369788765907288,
+      "y_pos": 2038,
+      "text": "1. Do tình dục: Quá độ thì hại thận, hao tổn tinh huyết,\nkiệt quệ nguyên khí, gây hư lao.",
+      "confidence": 0.9901307399628371
+    },
+    {
+      "type": "number",
+      "img_path": "p0054_011_number.png",
+      "bbox": [
+        [
+          173,
+          2226
+        ],
+        [
+          229,
+          2226
+        ],
+        [
+          229,
+          2268
+        ],
+        [
+          173,
+          2268
+        ]
+      ],
+      "score": 0.8708018064498901,
+      "y_pos": 2226,
+      "text": "\n    \n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0054.png"
+}

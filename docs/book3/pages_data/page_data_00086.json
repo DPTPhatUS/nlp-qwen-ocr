@@ -1,0 +1,370 @@
+{
+  "page_num": 86,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0086_013_text.png",
+      "bbox": [
+        [
+          316,
+          306
+        ],
+        [
+          1027,
+          306
+        ],
+        [
+          1027,
+          356
+        ],
+        [
+          316,
+          356
+        ]
+      ],
+      "score": 0.8592166900634766,
+      "y_pos": 306,
+      "text": "Báo mùng bệnh đã lui đi ít nhiều.",
+      "confidence": 0.9877441644668579
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0086_011_paragraph_title.png",
+      "bbox": [
+        [
+          315,
+          394
+        ],
+        [
+          1297,
+          394
+        ],
+        [
+          1297,
+          448
+        ],
+        [
+          315,
+          448
+        ]
+      ],
+      "score": 0.8988297581672668,
+      "y_pos": 394,
+      "text": "5. Thiệt chẩn (quan sát lưỡi) để định bệnh:",
+      "confidence": 0.9982783714930217
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_002_text.png",
+      "bbox": [
+        [
+          165,
+          485
+        ],
+        [
+          1510,
+          485
+        ],
+        [
+          1510,
+          605
+        ],
+        [
+          165,
+          605
+        ]
+      ],
+      "score": 0.9638601541519165,
+      "y_pos": 485,
+      "text": "Lưỡi là một bộ phận rất quan trọng được sử dụng trong\nphép vọng chẩn.",
+      "confidence": 0.9985898948608235
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_000_text.png",
+      "bbox": [
+        [
+          165,
+          640
+        ],
+        [
+          1510,
+          640
+        ],
+        [
+          1510,
+          1034
+        ],
+        [
+          165,
+          1034
+        ]
+      ],
+      "score": 0.9855954647064209,
+      "y_pos": 640,
+      "text": "Người ta đã phân định lưỡi thành bốn vị trí ứng với bốn\ntạng chủ yếu là: tâm, can, tỳ, thận để rồi quan sát thể chất\nlưỡi, màu sắc lưỡi, rêu lưỡi trên từng vị trí tương ứng mà xét\nđoán bệnh: với phép vọng chẩn, người ta chỉ cần quan sát lưỡi\nđúng phép và kỹ lưỡng cũng đat được mức độ nông sâu của\nbệnh, tiên lượng của bệnh khi điều trị.",
+      "confidence": 0.9996992021140878
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_010_text.png",
+      "bbox": [
+        [
+          315,
+          1072
+        ],
+        [
+          1129,
+          1072
+        ],
+        [
+          1129,
+          1123
+        ],
+        [
+          315,
+          1123
+        ]
+      ],
+      "score": 0.9000635147094727,
+      "y_pos": 1072,
+      "text": "Các tạng ứng với từng vùng trên lưỡi:",
+      "confidence": 0.9997309431051596
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_008_text.png",
+      "bbox": [
+        [
+          317,
+          1160
+        ],
+        [
+          790,
+          1160
+        ],
+        [
+          790,
+          1208
+        ],
+        [
+          317,
+          1208
+        ]
+      ],
+      "score": 0.9162573218345642,
+      "y_pos": 1160,
+      "text": "- Gốc lưỡi thuộc thân.",
+      "confidence": 0.9953854059179624
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_005_text.png",
+      "bbox": [
+        [
+          318,
+          1250
+        ],
+        [
+          757,
+          1250
+        ],
+        [
+          757,
+          1297
+        ],
+        [
+          318,
+          1297
+        ]
+      ],
+      "score": 0.9219406247138977,
+      "y_pos": 1250,
+      "text": "- Giữa lưỡi thuộc tỳ.",
+      "confidence": 0.9950717195220615
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_006_text.png",
+      "bbox": [
+        [
+          318,
+          1336
+        ],
+        [
+          782,
+          1336
+        ],
+        [
+          782,
+          1383
+        ],
+        [
+          318,
+          1383
+        ]
+      ],
+      "score": 0.9205446839332581,
+      "y_pos": 1336,
+      "text": "- Đầu lưỡi thuộc tâm.",
+      "confidence": 0.9950996170873228
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_007_text.png",
+      "bbox": [
+        [
+          317,
+          1429
+        ],
+        [
+          968,
+          1429
+        ],
+        [
+          968,
+          1474
+        ],
+        [
+          317,
+          1474
+        ]
+      ],
+      "score": 0.919234037399292,
+      "y_pos": 1429,
+      "text": "- Hai bên canh lưỡi thuộc can.",
+      "confidence": 0.9744585361331701
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_001_text.png",
+      "bbox": [
+        [
+          166,
+          1518
+        ],
+        [
+          1512,
+          1518
+        ],
+        [
+          1512,
+          1704
+        ],
+        [
+          166,
+          1704
+        ]
+      ],
+      "score": 0.9752094149589539,
+      "y_pos": 1518,
+      "text": "- Lưỡi bình thường: chất lưỡi màu hồng nhuận, rêu lưỡi\nmỏng trắng, rêu ít, không khô, không ướt, vừa phải. Hình thể\nlưỡi mềm mại hoạt động tự nhiên.",
+      "confidence": 0.9956466846475704
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_004_text.png",
+      "bbox": [
+        [
+          166,
+          1741
+        ],
+        [
+          1510,
+          1741
+        ],
+        [
+          1510,
+          1857
+        ],
+        [
+          166,
+          1857
+        ]
+      ],
+      "score": 0.9633340835571289,
+      "y_pos": 1741,
+      "text": "- Khi có bệnh trạng thái, màu sắc của lưỡi biểu hiện\nnhư sau:",
+      "confidence": 0.9826077255937788
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0086_009_paragraph_title.png",
+      "bbox": [
+        [
+          316,
+          1899
+        ],
+        [
+          594,
+          1899
+        ],
+        [
+          594,
+          1945
+        ],
+        [
+          316,
+          1945
+        ]
+      ],
+      "score": 0.904695987701416,
+      "y_pos": 1899,
+      "text": "5.1.Màu sắc",
+      "confidence": 0.9147495352304899
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_003_text.png",
+      "bbox": [
+        [
+          166,
+          1988
+        ],
+        [
+          1511,
+          1988
+        ],
+        [
+          1511,
+          2110
+        ],
+        [
+          166,
+          2110
+        ]
+      ],
+      "score": 0.9636723399162292,
+      "y_pos": 1988,
+      "text": "- Nhạt màu (trắng hồng): Do hàn chứng, hư chứng\ndương khí suy nhược, khí huyết không đầy đủ.",
+      "confidence": 0.9949711978488405
+    },
+    {
+      "type": "number",
+      "img_path": "p0086_012_number.png",
+      "bbox": [
+        [
+          174,
+          2226
+        ],
+        [
+          229,
+          2226
+        ],
+        [
+          229,
+          2267
+        ],
+        [
+          174,
+          2267
+        ]
+      ],
+      "score": 0.8802347183227539,
+      "y_pos": 2226,
+      "text": "    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0086.png"
+}

@@ -1,0 +1,318 @@
+{
+  "page_num": 184,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0184_004_text.png",
+      "bbox": [
+        [
+          166,
+          307
+        ],
+        [
+          1514,
+          307
+        ],
+        [
+          1514,
+          428
+        ],
+        [
+          166,
+          428
+        ]
+      ],
+      "score": 0.9523637890815735,
+      "y_pos": 307,
+      "text": "- Bệnh Trướng trường: (bụng đầy trướng) nếu gặp mạch\nphù, mạch đại thì thuận, nếu gặp mạch Hư, mạch tiểu thì ky.",
+      "confidence": 0.9994298175529197
+    },
+    {
+      "type": "text",
+      "img_path": "p0184_010_text.png",
+      "bbox": [
+        [
+          166,
+          461
+        ],
+        [
+          1514,
+          461
+        ],
+        [
+          1514,
+          584
+        ],
+        [
+          166,
+          584
+        ]
+      ],
+      "score": 0.9475350379943848,
+      "y_pos": 461,
+      "text": "- Bệnh ỉa chảy: Nếu gặp mạch Trầm, mạch Tế thì thuận,\nnếu gặp mạch Phù mạch hồng, mạch Đại thì ky.",
+      "confidence": 0.997288145931813
+    },
+    {
+      "type": "text",
+      "img_path": "p0184_007_text.png",
+      "bbox": [
+        [
+          167,
+          620
+        ],
+        [
+          1517,
+          620
+        ],
+        [
+          1517,
+          741
+        ],
+        [
+          167,
+          741
+        ]
+      ],
+      "score": 0.949855625629425,
+      "y_pos": 620,
+      "text": "- Bệnh Hoắc loạn: (đau bụng dữ đội) nếu gặp mạch Phù, mạch\nHoãn thì thuận. Nếu gặp mạch Trầm, mạch Tế, mạch Vi thì ky.",
+      "confidence": 0.9960644567599062
+    },
+    {
+      "type": "text",
+      "img_path": "p0184_009_text.png",
+      "bbox": [
+        [
+          167,
+          778
+        ],
+        [
+          1514,
+          778
+        ],
+        [
+          1514,
+          898
+        ],
+        [
+          167,
+          898
+        ]
+      ],
+      "score": 0.9491022825241089,
+      "y_pos": 778,
+      "text": "- Bệnh Khí thũng: Nếu gặp mạch phù, mạch đại thì thuận.\nNếu gặp mạch Trầm, mạch Tế, mạch Nhu, mạch nhược thì ky.",
+      "confidence": 0.995207293460532
+    },
+    {
+      "type": "text",
+      "img_path": "p0184_001_text.png",
+      "bbox": [
+        [
+          165,
+          934
+        ],
+        [
+          1513,
+          934
+        ],
+        [
+          1513,
+          1122
+        ],
+        [
+          165,
+          1122
+        ]
+      ],
+      "score": 0.967316210269928,
+      "y_pos": 934,
+      "text": "- Bệnh Trường thống: (đau trong ruột) nếu gặp mạch Tế,\nmạch nhược thì thuận, nếu gặp mạch Huyền, mạch Trường,\nmạch Đại thì ky.",
+      "confidence": 0.994888553977328
+    },
+    {
+      "type": "text",
+      "img_path": "p0184_008_text.png",
+      "bbox": [
+        [
+          167,
+          1160
+        ],
+        [
+          1514,
+          1160
+        ],
+        [
+          1514,
+          1281
+        ],
+        [
+          167,
+          1281
+        ]
+      ],
+      "score": 0.9493199586868286,
+      "y_pos": 1160,
+      "text": "- Bệnh Thượng khí: (tức ngực, ợ ngược) nếu gặp mạch Phù,\nMạch Hồng thì thuận, nếu gặp mạch Tế, mạch Vi thì ky.",
+      "confidence": 0.9976146077194183
+    },
+    {
+      "type": "text",
+      "img_path": "p0184_003_text.png",
+      "bbox": [
+        [
+          167,
+          1314
+        ],
+        [
+          1512,
+          1314
+        ],
+        [
+          1512,
+          1436
+        ],
+        [
+          167,
+          1436
+        ]
+      ],
+      "score": 0.9534726142883301,
+      "y_pos": 1314,
+      "text": "- Bệnh Suyễn tức: (Hen suyễn) nếu gặp mạch Phù,\nmạch Hoạt thì thuận, nếu gặp mạch Sắc thì ky.",
+      "confidence": 0.9991186646937911
+    },
+    {
+      "type": "text",
+      "img_path": "p0184_005_text.png",
+      "bbox": [
+        [
+          166,
+          1473
+        ],
+        [
+          1514,
+          1473
+        ],
+        [
+          1514,
+          1594
+        ],
+        [
+          166,
+          1594
+        ]
+      ],
+      "score": 0.9512801170349121,
+      "y_pos": 1473,
+      "text": "- Bệnh trúng hàn: nếu gặp mạch Khẩn, mạch Tế thì\nthuận, nếu gặp mạch Phù, mạch Hồng thì ky.",
+      "confidence": 0.9989332547241991
+    },
+    {
+      "type": "text",
+      "img_path": "p0184_000_text.png",
+      "bbox": [
+        [
+          166,
+          1631
+        ],
+        [
+          1513,
+          1631
+        ],
+        [
+          1513,
+          1821
+        ],
+        [
+          166,
+          1821
+        ]
+      ],
+      "score": 0.9708752632141113,
+      "y_pos": 1631,
+      "text": "- Bệnh Hâu sản: (Bệnh sau khi sanh trong vòng 100\nngày) nếu gặp mạch Trầm, mạch Tiểu thì thuận, nều gặp\nmạch Phù, mạch Hồng thì ky.",
+      "confidence": 0.9850856348682587
+    },
+    {
+      "type": "text",
+      "img_path": "p0184_006_text.png",
+      "bbox": [
+        [
+          167,
+          1857
+        ],
+        [
+          1515,
+          1857
+        ],
+        [
+          1515,
+          1977
+        ],
+        [
+          167,
+          1977
+        ]
+      ],
+      "score": 0.9508826732635498,
+      "y_pos": 1857,
+      "text": "- Bệnh sang thương: (sưng đau, u nhọt) nếu gặp mạch\nNhược thì thuận, nếu gặp mạch Khẩn, mạch Sắc thì ky.",
+      "confidence": 0.9990485256302198
+    },
+    {
+      "type": "text",
+      "img_path": "p0184_002_text.png",
+      "bbox": [
+        [
+          167,
+          2012
+        ],
+        [
+          1511,
+          2012
+        ],
+        [
+          1511,
+          2134
+        ],
+        [
+          167,
+          2134
+        ]
+      ],
+      "score": 0.9534865617752075,
+      "y_pos": 2012,
+      "text": "- Cửu bệnh: (Bệnh đã bị lâu ngày) nếu gặp mạch Trầm,\nmạch Tiểu thì thuận, nếu gặp mạch Phù, mạch Đại thì ky.",
+      "confidence": 0.9993457768337536
+    },
+    {
+      "type": "number",
+      "img_path": "p0184_011_number.png",
+      "bbox": [
+        [
+          179,
+          2225
+        ],
+        [
+          257,
+          2225
+        ],
+        [
+          257,
+          2267
+        ],
+        [
+          179,
+          2267
+        ]
+      ],
+      "score": 0.8882248997688293,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0184.png"
+}

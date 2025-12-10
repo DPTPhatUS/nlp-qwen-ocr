@@ -1,0 +1,240 @@
+{
+  "page_num": 162,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0162_001_text.png",
+      "bbox": [
+        [
+          164,
+          303
+        ],
+        [
+          1511,
+          303
+        ],
+        [
+          1511,
+          631
+        ],
+        [
+          164,
+          631
+        ]
+      ],
+      "score": 0.9819878935813904,
+      "y_pos": 303,
+      "text": "Sau đó lại đặt vấn đề tiếp là mạch đó đã phù rồi thì\ncòn sác hay trì? Nếu là sác thì đương nhiên không trì. Như\nvậy ta loại bỏ nốt toàn bộ các mạch thuộc dòng họ nhà trì cụ\nthể là: mạch Trì, mạch Nhược, mạch Hoãn, mạch Tế, mạch\nSắc, mạch Kết, mạch Động (không cần để ý đến).",
+      "confidence": 0.9987207445085945
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_000_text.png",
+      "bbox": [
+        [
+          164,
+          666
+        ],
+        [
+          1511,
+          666
+        ],
+        [
+          1511,
+          1063
+        ],
+        [
+          164,
+          1063
+        ]
+      ],
+      "score": 0.9843926429748535,
+      "y_pos": 666,
+      "text": "Chỉ còn lại nhà phù và họ nhà phù sác. Ta lại xét cụ\nthể thêm: Phù ấy có xoắn giống như sợi dây căng vặn chặt lại\nkhông? Nếu có, phải như vậy thì đó là mạch Khẩn, nhưng\nchắc chắn là không phải bởi vì Khẩn là mạch Phủ về đau đớn\nbởi lạnh mà tổng mạch đã được kết luận là phù sác (thuộc\ndạng phong nhiệt rồi), ta lại xét tiếp:",
+      "confidence": 0.9974430906872712
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_005_text.png",
+      "bbox": [
+        [
+          166,
+          1096
+        ],
+        [
+          1514,
+          1096
+        ],
+        [
+          1514,
+          1219
+        ],
+        [
+          166,
+          1219
+        ]
+      ],
+      "score": 0.9551995396614075,
+      "y_pos": 1096,
+      "text": "Phù có giống như sóng trào không? Nếu có giống sóng\ntrào nước lên thì đó là mạch Hồng, nếu không phải ta lại xét tiếp:",
+      "confidence": 0.9981499956166175
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_002_text.png",
+      "bbox": [
+        [
+          165,
+          1252
+        ],
+        [
+          1511,
+          1252
+        ],
+        [
+          1511,
+          1577
+        ],
+        [
+          165,
+          1577
+        ]
+      ],
+      "score": 0.9815058708190918,
+      "y_pos": 1252,
+      "text": "Phù này có rỗng giống như cọng hành không? Nếu có,\ngiống như cong hành thì đó là mạch Khổng, nếu không có 2\ntrường hợp trên thì chỉ còn phù thuần túy thôi mà nếu là phù\nhữu lực là mạch bệnh thuộc dạng biểu thực mà phù vô lực là\ndang biểu hư.",
+      "confidence": 0.9972201459880617
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_004_text.png",
+      "bbox": [
+        [
+          170,
+          1616
+        ],
+        [
+          1512,
+          1616
+        ],
+        [
+          1512,
+          1737
+        ],
+        [
+          170,
+          1737
+        ]
+      ],
+      "score": 0.9598448276519775,
+      "y_pos": 1616,
+      "text": "Như vậy chỉ còn căn cứ theo tượng mạch mà lựa chọn\n1 trong 3 trường hợp chính đó là:",
+      "confidence": 0.9797245061004555
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_008_text.png",
+      "bbox": [
+        [
+          286,
+          1769
+        ],
+        [
+          1337,
+          1769
+        ],
+        [
+          1337,
+          1823
+        ],
+        [
+          286,
+          1823
+        ]
+      ],
+      "score": 0.5524197816848755,
+      "y_pos": 1769,
+      "text": "- Phù sác    - Hồng sác    - Khổng sác",
+      "confidence": 0.9286655055152045
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0162_007_paragraph_title.png",
+      "bbox": [
+        [
+          314,
+          1861
+        ],
+        [
+          782,
+          1861
+        ],
+        [
+          782,
+          1911
+        ],
+        [
+          314,
+          1911
+        ]
+      ],
+      "score": 0.8256458640098572,
+      "y_pos": 1861,
+      "text": "- Giả thuyết thứ hai:",
+      "confidence": 0.9797593432924022
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_003_text.png",
+      "bbox": [
+        [
+          167,
+          1949
+        ],
+        [
+          1511,
+          1949
+        ],
+        [
+          1511,
+          2139
+        ],
+        [
+          167,
+          2139
+        ]
+      ],
+      "score": 0.9723673462867737,
+      "y_pos": 1949,
+      "text": "Nếu xem mach một bệnh nhân mà độ nông sâu, trung\nbình (không phù cũng không trầm) thì ta chỉ còn xét xem\nmach đó trì hay sác.",
+      "confidence": 0.9956669732448207
+    },
+    {
+      "type": "number",
+      "img_path": "p0162_006_number.png",
+      "bbox": [
+        [
+          178,
+          2225
+        ],
+        [
+          256,
+          2225
+        ],
+        [
+          256,
+          2267
+        ],
+        [
+          178,
+          2267
+        ]
+      ],
+      "score": 0.8848338723182678,
+      "y_pos": 2225,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0162.png"
+}

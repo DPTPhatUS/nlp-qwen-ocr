@@ -1,0 +1,110 @@
+{
+  "page_num": 345,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0345_001_text.png",
+      "bbox": [
+        [
+          223,
+          303
+        ],
+        [
+          1567,
+          303
+        ],
+        [
+          1567,
+          493
+        ],
+        [
+          223,
+          493
+        ]
+      ],
+      "score": 0.9652904868125916,
+      "y_pos": 303,
+      "text": "+ Nếu không có khả năng xác định mạch lý thì sử dụng\nnguyên bài \"Phòng phong\" gia các vị tiêu độc đương nhiên\ncông hiệu sẽ kém.",
+      "confidence": 0.9932111271807648
+    },
+    {
+      "type": "text",
+      "img_path": "p0345_000_text.png",
+      "bbox": [
+        [
+          222,
+          527
+        ],
+        [
+          1567,
+          527
+        ],
+        [
+          1567,
+          856
+        ],
+        [
+          222,
+          856
+        ]
+      ],
+      "score": 0.9735243320465088,
+      "y_pos": 527,
+      "text": "Khi có hiện tượng triệu chứng bất thường ở tam khiếu\nthì phải sớm điều trị bằng mọi cách nhưng nên sử dụng thuốc\nthảo dược thiên nhiên qua sách vở hướng dẫn hoặc dùng các\nloai thuốc y học cổ truyền đã bào chế sẵn để giảm các phản\nứng phụ gây tác hại cho cơ thể.",
+      "confidence": 0.9969789400203283
+    },
+    {
+      "type": "footer",
+      "img_path": "p0345_003_footer.png",
+      "bbox": [
+        [
+          227,
+          1932
+        ],
+        [
+          1292,
+          1932
+        ],
+        [
+          1292,
+          2035
+        ],
+        [
+          227,
+          2035
+        ]
+      ],
+      "score": 0.7407117486000061,
+      "y_pos": 1932,
+      "text": "22. BỆNH PHONG THẤP ĐAU NHỰC",
+      "confidence": 0.9834157327810923
+    },
+    {
+      "type": "number",
+      "img_path": "p0345_002_number.png",
+      "bbox": [
+        [
+          1529,
+          2223
+        ],
+        [
+          1610,
+          2223
+        ],
+        [
+          1610,
+          2267
+        ],
+        [
+          1529,
+          2267
+        ]
+      ],
+      "score": 0.8569126725196838,
+      "y_pos": 2223,
+      "text": "\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "Đông y chuẩn đoán và luận trị_page_0345.png"
+}
