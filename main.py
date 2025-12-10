@@ -115,7 +115,7 @@ class QwenOcrClient:
         LOGGER.info("Loading model %s", model_id)
         self.model = Qwen3VLForConditionalGeneration.from_pretrained(
             model_id,
-            torch_dtype=dtype,
+            dtype=dtype,
             device_map=device_map,
             trust_remote_code=True,
         )
@@ -223,7 +223,7 @@ class BookOcrPipeline:
         self.ocr = QwenOcrClient(
             model_id=args.model_id,
             device_map=args.device_map,
-            dtype=args.dtype,
+            torch_dtype=args.dtype,
             min_pixels=args.min_pixels,
             max_pixels=args.max_pixels,
             max_new_tokens=args.max_new_tokens,
