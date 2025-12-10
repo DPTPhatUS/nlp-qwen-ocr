@@ -1,0 +1,500 @@
+{
+  "page_num": 420,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0420_008_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.921881377696991,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0420_011_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.917736291885376,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0420_009_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          324
+        ],
+        [
+          1277,
+          324
+        ],
+        [
+          1277,
+          376
+        ],
+        [
+          224,
+          376
+        ]
+      ],
+      "score": 0.9214961528778076,
+      "y_pos": 324,
+      "text": "QUY TẮC XỬ PHƯƠNG TRONG CHẨM CỨU",
+      "confidence": 0.9861992194372065
+    },
+    {
+      "type": "text",
+      "img_path": "p0420_000_text.png",
+      "bbox": [
+        [
+          222,
+          419
+        ],
+        [
+          2358,
+          419
+        ],
+        [
+          2358,
+          756
+        ],
+        [
+          222,
+          756
+        ]
+      ],
+      "score": 0.9832958579063416,
+      "y_pos": 419,
+      "text": "Chữa bệnh bằng châm cứu là phương pháp điều trị thông qua châm ở huyệt vị. Mỗi huyệt chữa\nđược một số bệnh, mỗi bệnh thường dùng một số huyệt để chữa mới có thể phát huy hết tác\ndụng. Vì vậy phải nắm vững các huyệt và phối hợp chúng với nhau. Phối hợp huyệt cũng chính\nlà xử phương. Phối hợp huyệt phù hợp sẽ nâng cao kết quả chữa bệnh. Xử phương phải theo\nqui luật nhất định. Nói chung có mấy loại như sau:",
+      "confidence": 0.9996855903276861
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0420_010_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          795
+        ],
+        [
+          769,
+          795
+        ],
+        [
+          769,
+          846
+        ],
+        [
+          225,
+          846
+        ]
+      ],
+      "score": 0.9198460578918457,
+      "y_pos": 795,
+      "text": "A. Theo kinh lấy huyệt",
+      "confidence": 0.9194322923819224
+    },
+    {
+      "type": "text",
+      "img_path": "p0420_002_text.png",
+      "bbox": [
+        [
+          221,
+          886
+        ],
+        [
+          2360,
+          886
+        ],
+        [
+          2360,
+          1154
+        ],
+        [
+          221,
+          1154
+        ]
+      ],
+      "score": 0.9802715182304382,
+      "y_pos": 886,
+      "text": "Xem bệnh ở kinh nào lấy huyệt ở kinh đó để chữa bệnh. Như mũi có bệnh thuộc về kinh thủ\ndương minh đại trường, lấy huyệt ở kinh đó. Bệnh tim thuộc về kinh thủ quyết âm, lấy huyệt\ntrên kinh đó. Bệnh dạ dày thuộc về kinh túc dương minh, lấy <i>Túc tam lý</i> trên kinh đó. Cách này\ncòn gọi là cách lấy huyệt đường xa (viễn đạo).",
+      "confidence": 0.9994570380363835
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0420_012_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1191
+        ],
+        [
+          720,
+          1191
+        ],
+        [
+          720,
+          1244
+        ],
+        [
+          225,
+          1244
+        ]
+      ],
+      "score": 0.9173657298088074,
+      "y_pos": 1191,
+      "text": "B. Lấy huyệt lân cận",
+      "confidence": 0.8821551853960211
+    },
+    {
+      "type": "text",
+      "img_path": "p0420_004_text.png",
+      "bbox": [
+        [
+          223,
+          1280
+        ],
+        [
+          2361,
+          1280
+        ],
+        [
+          2361,
+          1476
+        ],
+        [
+          223,
+          1476
+        ]
+      ],
+      "score": 0.9742912650108337,
+      "y_pos": 1280,
+      "text": "Xem bệnh chỗ nào thì lấy huyệt ở đó, tại đó. Như đau đầu lấy Bách hội, hoặc lấy Phong trì,\nThượng tinh, Thái dương; đau vai thì lấy Kiên ngung hoặc Khúc trì; đau lưng thì lấy Thận du\nhoặc <i>Hoàn khiêu</i>, bệnh mắt thì lấy <i>Tình minh</i> hoặc <i>Tán trúc</i>.",
+      "confidence": 0.9970446795145769
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0420_007_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1515
+        ],
+        [
+          765,
+          1515
+        ],
+        [
+          765,
+          1570
+        ],
+        [
+          226,
+          1570
+        ]
+      ],
+      "score": 0.9261670708656311,
+      "y_pos": 1515,
+      "text": "C. Lấy huyệt phối hợp",
+      "confidence": 0.9162700202154077
+    },
+    {
+      "type": "text",
+      "img_path": "p0420_006_text.png",
+      "bbox": [
+        [
+          221,
+          1606
+        ],
+        [
+          2358,
+          1606
+        ],
+        [
+          2358,
+          1801
+        ],
+        [
+          221,
+          1801
+        ]
+      ],
+      "score": 0.9739735126495361,
+      "y_pos": 1606,
+      "text": "Nguyên tắc này là đã lấy một huyệt nhưng sức chữa chưa đủ, lại lấy thêm 1 hoặc 2 huyệt nữa,\nđể tăng thêm hiệu quả chữa bệnh. Cách lấy huyệt phối hợp này ứng dụng rộng rãi trên lâm\nsàng.",
+      "confidence": 0.9841514932207209
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0420_017_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          1839
+        ],
+        [
+          871,
+          1839
+        ],
+        [
+          871,
+          1892
+        ],
+        [
+          224,
+          1892
+        ]
+      ],
+      "score": 0.830772876739502,
+      "y_pos": 1839,
+      "text": "Đại thể có mấy loại như sau:",
+      "confidence": 0.9945557336012523
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0420_013_paragraph_title.png",
+      "bbox": [
+        [
+          288,
+          1929
+        ],
+        [
+          775,
+          1929
+        ],
+        [
+          775,
+          1986
+        ],
+        [
+          288,
+          1986
+        ]
+      ],
+      "score": 0.9159308671951294,
+      "y_pos": 1929,
+      "text": "1. Phối hợp xa - gần",
+      "confidence": 0.9917954965071245
+    },
+    {
+      "type": "text",
+      "img_path": "p0420_001_text.png",
+      "bbox": [
+        [
+          279,
+          2022
+        ],
+        [
+          2361,
+          2022
+        ],
+        [
+          2361,
+          2290
+        ],
+        [
+          279,
+          2290
+        ]
+      ],
+      "score": 0.9814144968986511,
+      "y_pos": 2022,
+      "text": "Là phối hợp cách lấy huyệt đường xa và lấy huyệt lân cận. Như đau dạ dày lấy <i>Túc tam lý</i> ở\nđường xa, phối hợp lấy <i>Trung quản</i> ở gần. Bệnh mũi lấy <i>Hợp cốc</i> ở đường xa, với <i>Nghinh</i>\nhương ở gần. Đau bụng hành kinh lấy <i>Thái xung</i> ở đường xa với <i>Quan nguyên</i> ở gần. Bệnh\nmắt lấy <i>Hậu Khệ</i> ở đường xa, với <i>Tình minh</i> ở gần.",
+      "confidence": 0.9955022989822331
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0420_014_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          2329
+        ],
+        [
+          812,
+          2329
+        ],
+        [
+          812,
+          2380
+        ],
+        [
+          283,
+          2380
+        ]
+      ],
+      "score": 0.9151790738105774,
+      "y_pos": 2329,
+      "text": "2. Phối hợp phải - trái",
+      "confidence": 0.9966375684738159
+    },
+    {
+      "type": "text",
+      "img_path": "p0420_005_text.png",
+      "bbox": [
+        [
+          280,
+          2418
+        ],
+        [
+          2360,
+          2418
+        ],
+        [
+          2360,
+          2615
+        ],
+        [
+          280,
+          2615
+        ]
+      ],
+      "score": 0.9742323160171509,
+      "y_pos": 2418,
+      "text": "Còn gọi là song huyệt, đồng thời lấy một huyệt vị có tác dụng chủ trị mỗi bên phải, trái. Như\nbệnh dạ dày, lấy hai <i>Túc tam lý</i> hoặc hai <i>Nội quan</i>; đau đầu lấy hai <i>Thái dương</i> hoặc hai <i>Liệt</i>\nkhuyết; bệnh phụ khoa lấy hai <i>Tam âm giao</i> hoặc hai <i>Huyết hải</i>...",
+      "confidence": 0.9464888499879511
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0420_015_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          2654
+        ],
+        [
+          841,
+          2654
+        ],
+        [
+          841,
+          2703
+        ],
+        [
+          284,
+          2703
+        ]
+      ],
+      "score": 0.9141424298286438,
+      "y_pos": 2654,
+      "text": "3. Phối hợp trên - dưới",
+      "confidence": 0.9965618515014648
+    },
+    {
+      "type": "text",
+      "img_path": "p0420_003_text.png",
+      "bbox": [
+        [
+          282,
+          2743
+        ],
+        [
+          2359,
+          2743
+        ],
+        [
+          2359,
+          3006
+        ],
+        [
+          282,
+          3006
+        ]
+      ],
+      "score": 0.9797117114067078,
+      "y_pos": 2743,
+      "text": "Ta lấy huyệt ở chi trên phối hợp hỗ trợ tương ứng với huyệt ở chi dưới. Như <i>Nội quan</i> với\nTúc tam lý chữa bệnh ruột và dạ dày; Thần môn với Tam âm giao chữa mất ngủ; Chi câu với\nDương lăng tuyền chữa đau hai bên sườn; Hợp cốc với Nội đình chữa đau răng; Chi câu với\nChiếu hải chữa táo bón...",
+      "confidence": 0.9937766364372749
+    },
+    {
+      "type": "number",
+      "img_path": "p0420_018_number.png",
+      "bbox": [
+        [
+          2327,
+          3301
+        ],
+        [
+          2354,
+          3301
+        ],
+        [
+          2354,
+          3335
+        ],
+        [
+          2327,
+          3335
+        ]
+      ],
+      "score": 0.8142348527908325,
+      "y_pos": 3301,
+      "text": "\n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n    \n    \n    ۰.\n۰\n    \n\n\n    ",
+      "confidence": 0.9731532980998358
+    },
+    {
+      "type": "footer",
+      "img_path": "p0420_016_footer.png",
+      "bbox": [
+        [
+          228,
+          3310
+        ],
+        [
+          1323,
+          3310
+        ],
+        [
+          1323,
+          3356
+        ],
+        [
+          228,
+          3356
+        ]
+      ],
+      "score": 0.8980610966682434,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9287998417638382
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0420.png"
+}

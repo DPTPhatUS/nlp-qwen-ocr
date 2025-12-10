@@ -1,0 +1,136 @@
+{
+  "page_num": 586,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0586_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9085202217102051,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0586_000_header.png",
+      "bbox": [
+        [
+          228,
+          151
+        ],
+        [
+          1466,
+          151
+        ],
+        [
+          1466,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9170883297920227,
+      "y_pos": 151,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TÂN, KỲ HUYỆT",
+      "confidence": 0.996946144104004
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0586_004_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          324
+        ],
+        [
+          702,
+          324
+        ],
+        [
+          702,
+          379
+        ],
+        [
+          226,
+          379
+        ]
+      ],
+      "score": 0.603029191493988,
+      "y_pos": 324,
+      "text": "Phần 33. NÔN MỬA",
+      "confidence": 0.9147030644946628
+    },
+    {
+      "type": "number",
+      "img_path": "p0586_003_number.png",
+      "bbox": [
+        [
+          2316,
+          3336
+        ],
+        [
+          2367,
+          3336
+        ],
+        [
+          2367,
+          3374
+        ],
+        [
+          2316,
+          3374
+        ]
+      ],
+      "score": 0.8683059215545654,
+      "y_pos": 3336,
+      "text": "    \n    \n\n\n    \n\n\n\n٠.\n    ۰\n    \n\n",
+      "confidence": 0.9473254697190391
+    },
+    {
+      "type": "footer",
+      "img_path": "p0586_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1325,
+          3340
+        ],
+        [
+          1325,
+          3388
+        ],
+        [
+          228,
+          3388
+        ]
+      ],
+      "score": 0.9029621481895447,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9986474154130468
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0586.png"
+}

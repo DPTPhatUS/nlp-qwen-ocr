@@ -1,0 +1,550 @@
+{
+  "page_num": 194,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0194_011_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2374,
+          142
+        ],
+        [
+          2374,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9193073511123657,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7449316769128754
+    },
+    {
+      "type": "header",
+      "img_path": "p0194_015_header.png",
+      "bbox": [
+        [
+          229,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          229,
+          202
+        ]
+      ],
+      "score": 0.9118644595146179,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6830399837987177
+    },
+    {
+      "type": "image",
+      "img_path": "p0194_000_image.png",
+      "bbox": [
+        [
+          688,
+          363
+        ],
+        [
+          1960,
+          363
+        ],
+        [
+          1960,
+          1477
+        ],
+        [
+          688,
+          1477
+        ]
+      ],
+      "score": 0.9733718037605286,
+      "y_pos": 363
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0194_020_figure_title.png",
+      "bbox": [
+        [
+          1237,
+          1542
+        ],
+        [
+          1409,
+          1542
+        ],
+        [
+          1409,
+          1589
+        ],
+        [
+          1237,
+          1589
+        ]
+      ],
+      "score": 0.8556317687034607,
+      "y_pos": 1542,
+      "text": "Hình",
+      "confidence": 0.9124211311340332
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0194_008_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1629
+        ],
+        [
+          620,
+          1629
+        ],
+        [
+          620,
+          1680
+        ],
+        [
+          225,
+          1680
+        ]
+      ],
+      "score": 0.9213293790817261,
+      "y_pos": 1629,
+      "text": "37. Quang minh",
+      "confidence": 0.8223854303359985
+    },
+    {
+      "type": "text",
+      "img_path": "p0194_017_text.png",
+      "bbox": [
+        [
+          288,
+          1717
+        ],
+        [
+          1191,
+          1717
+        ],
+        [
+          1191,
+          1774
+        ],
+        [
+          288,
+          1774
+        ]
+      ],
+      "score": 0.9082272052764893,
+      "y_pos": 1717,
+      "text": "Vị trí: Từ mắt cá ngoài thẳng lên 5 thốn.",
+      "confidence": 0.7695678957673007
+    },
+    {
+      "type": "text",
+      "img_path": "p0194_002_text.png",
+      "bbox": [
+        [
+          281,
+          1810
+        ],
+        [
+          2358,
+          1810
+        ],
+        [
+          2358,
+          1936
+        ],
+        [
+          281,
+          1936
+        ]
+      ],
+      "score": 0.9615230560302734,
+      "y_pos": 1810,
+      "text": "Cách lấy huyệt: ngồi ngay co gối để bằng phẳng, dựa sát vào cạnh trước xương mác, trên\nmắt cá ngoài 5 thốn. (H. 92)",
+      "confidence": 0.9958486358776237
+    },
+    {
+      "type": "text",
+      "img_path": "p0194_010_text.png",
+      "bbox": [
+        [
+          285,
+          1973
+        ],
+        [
+          1910,
+          1973
+        ],
+        [
+          1910,
+          2026
+        ],
+        [
+          285,
+          2026
+        ]
+      ],
+      "score": 0.9198026061058044,
+      "y_pos": 1973,
+      "text": "Cách châm: Châm đứng kim, sâu 0,5 đến 1 thốn. Cứu 3 mồi, hơ 5 phút.",
+      "confidence": 0.9940617913785188
+    },
+    {
+      "type": "text",
+      "img_path": "p0194_012_text.png",
+      "bbox": [
+        [
+          286,
+          2065
+        ],
+        [
+          2011,
+          2065
+        ],
+        [
+          2011,
+          2119
+        ],
+        [
+          286,
+          2119
+        ]
+      ],
+      "score": 0.9152095913887024,
+      "y_pos": 2065,
+      "text": "Chủ tri: Bênh mắt, chi dưới đau, đàn bà đẻ đau tức bầu vú, có thể giảm sữa.",
+      "confidence": 0.9698421018464225
+    },
+    {
+      "type": "text",
+      "img_path": "p0194_007_text.png",
+      "bbox": [
+        [
+          302,
+          2157
+        ],
+        [
+          1505,
+          2157
+        ],
+        [
+          1505,
+          2212
+        ],
+        [
+          302,
+          2212
+        ]
+      ],
+      "score": 0.921935498714447,
+      "y_pos": 2157,
+      "text": "Tác dụng phối hợp: Với Hợp cốc trị các bệnh ở mắt.",
+      "confidence": 0.9903543476875012
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0194_018_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2251
+        ],
+        [
+          599,
+          2251
+        ],
+        [
+          599,
+          2302
+        ],
+        [
+          227,
+          2302
+        ]
+      ],
+      "score": 0.905737578868866,
+      "y_pos": 2251,
+      "text": "38. Dương phụ",
+      "confidence": 0.9352012077967325
+    },
+    {
+      "type": "text",
+      "img_path": "p0194_009_text.png",
+      "bbox": [
+        [
+          288,
+          2341
+        ],
+        [
+          1792,
+          2341
+        ],
+        [
+          1792,
+          2396
+        ],
+        [
+          288,
+          2396
+        ]
+      ],
+      "score": 0.9203776121139526,
+      "y_pos": 2341,
+      "text": "Vị trí: Trên mắt cá ngoài 4 thốn, sát phía trước xương mác. (H. 92)",
+      "confidence": 0.9934499833894812
+    },
+    {
+      "type": "text",
+      "img_path": "p0194_004_text.png",
+      "bbox": [
+        [
+          286,
+          2433
+        ],
+        [
+          1627,
+          2433
+        ],
+        [
+          1627,
+          2484
+        ],
+        [
+          286,
+          2484
+        ]
+      ],
+      "score": 0.924163818359375,
+      "y_pos": 2433,
+      "text": "Cách châm: Châm đứng kim, sâu 1 đến 2 thốn. Cứu 3 mồi.",
+      "confidence": 0.9926863408514431
+    },
+    {
+      "type": "text",
+      "img_path": "p0194_003_text.png",
+      "bbox": [
+        [
+          285,
+          2524
+        ],
+        [
+          1957,
+          2524
+        ],
+        [
+          1957,
+          2578
+        ],
+        [
+          285,
+          2578
+        ]
+      ],
+      "score": 0.92734295129776,
+      "y_pos": 2524,
+      "text": "Chủ trị: Đau lưng, viêm khớp gối, đau toàn thân, nơi đau không nhất định.",
+      "confidence": 0.6419682923952739
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0194_013_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2614
+        ],
+        [
+          929,
+          2614
+        ],
+        [
+          929,
+          2670
+        ],
+        [
+          225,
+          2670
+        ]
+      ],
+      "score": 0.9149471521377563,
+      "y_pos": 2614,
+      "text": "39. Huyền chung (Tuyệt cốc)",
+      "confidence": 0.9568394977470924
+    },
+    {
+      "type": "text",
+      "img_path": "p0194_016_text.png",
+      "bbox": [
+        [
+          290,
+          2707
+        ],
+        [
+          1053,
+          2707
+        ],
+        [
+          1053,
+          2761
+        ],
+        [
+          290,
+          2761
+        ]
+      ],
+      "score": 0.9086067080497742,
+      "y_pos": 2707,
+      "text": "Vị trí: Từ mắt cá ngoài lên 3 thốn.",
+      "confidence": 0.7617781854964591
+    },
+    {
+      "type": "text",
+      "img_path": "p0194_001_text.png",
+      "bbox": [
+        [
+          281,
+          2797
+        ],
+        [
+          2358,
+          2797
+        ],
+        [
+          2358,
+          2925
+        ],
+        [
+          281,
+          2925
+        ]
+      ],
+      "score": 0.9629314541816711,
+      "y_pos": 2797,
+      "text": "Cách lấy huyệt: Gối co, đặt bàn chân thăng bằng, từ mắt cá ngoài lên 3 thốn, dựa sát vào\ncạnh sau xương mác. (H. 92)",
+      "confidence": 0.9946052267862006
+    },
+    {
+      "type": "text",
+      "img_path": "p0194_006_text.png",
+      "bbox": [
+        [
+          283,
+          2961
+        ],
+        [
+          1943,
+          2961
+        ],
+        [
+          1943,
+          3015
+        ],
+        [
+          283,
+          3015
+        ]
+      ],
+      "score": 0.9225601553916931,
+      "y_pos": 2961,
+      "text": "Cách châm: Châm đứng kim, sâu 1 đến 2 thốn, Cứu 3 mồi, hơ 5-10 phút.",
+      "confidence": 0.9962942949363164
+    },
+    {
+      "type": "text",
+      "img_path": "p0194_005_text.png",
+      "bbox": [
+        [
+          284,
+          3052
+        ],
+        [
+          2246,
+          3052
+        ],
+        [
+          2246,
+          3109
+        ],
+        [
+          284,
+          3109
+        ]
+      ],
+      "score": 0.9228851795196533,
+      "y_pos": 3052,
+      "text": "Chủ trị: Bán thân bất toại, đau bên đầu, sái cổ, đau sườn ngực, đau đầu gối, đau chân.",
+      "confidence": 0.9667257382111116
+    },
+    {
+      "type": "footer",
+      "img_path": "p0194_014_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9135720133781433,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985454925950968
+    },
+    {
+      "type": "number",
+      "img_path": "p0194_019_number.png",
+      "bbox": [
+        [
+          2301,
+          3339
+        ],
+        [
+          2351,
+          3339
+        ],
+        [
+          2351,
+          3377
+        ],
+        [
+          2301,
+          3377
+        ]
+      ],
+      "score": 0.8684359192848206,
+      "y_pos": 3339,
+      "text": "    \n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0194.png"
+}

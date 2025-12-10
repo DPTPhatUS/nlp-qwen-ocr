@@ -1,0 +1,266 @@
+{
+  "page_num": 521,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0521_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9141240119934082,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0521_000_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9144233465194702,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.997708330154419
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0521_004_reference_content.png",
+      "bbox": [
+        [
+          231,
+          307
+        ],
+        [
+          2362,
+          307
+        ],
+        [
+          2362,
+          435
+        ],
+        [
+          231,
+          435
+        ]
+      ],
+      "score": 0.8144481778144836,
+      "y_pos": 307,
+      "text": "252. Bệnh tim do phong thấp gây ra ho, hen suyễn: Thiên đột, Du phủ, Chiên trung, Trung\nphủ.",
+      "confidence": 0.967090870613016
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0521_006_reference_content.png",
+      "bbox": [
+        [
+          231,
+          467
+        ],
+        [
+          2161,
+          467
+        ],
+        [
+          2161,
+          533
+        ],
+        [
+          231,
+          533
+        ]
+      ],
+      "score": 0.7121080756187439,
+      "y_pos": 467,
+      "text": "253. Bệnh tim do phong thấp: Gian sử, Nội quan, Thiếu phủ, Khích môn, Khúc trạch.",
+      "confidence": 0.9996927797076214
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0521_008_reference_content.png",
+      "bbox": [
+        [
+          232,
+          560
+        ],
+        [
+          1628,
+          560
+        ],
+        [
+          1628,
+          623
+        ],
+        [
+          232,
+          623
+        ]
+      ],
+      "score": 0.6675722599029541,
+      "y_pos": 560,
+      "text": "254. Bệnh tim do phong thấp: Nội quan, Gian sử, Thiếu phủ.",
+      "confidence": 0.9993311276038488
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0521_009_reference_content.png",
+      "bbox": [
+        [
+          233,
+          652
+        ],
+        [
+          1709,
+          652
+        ],
+        [
+          1709,
+          716
+        ],
+        [
+          233,
+          716
+        ]
+      ],
+      "score": 0.6541818380355835,
+      "y_pos": 652,
+      "text": "255. Bệnh tim do phong thấp: Khích môn, Nội quan, Khúc trạch.",
+      "confidence": 0.9867617696050613
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0521_005_reference_content.png",
+      "bbox": [
+        [
+          232,
+          744
+        ],
+        [
+          2363,
+          744
+        ],
+        [
+          2363,
+          873
+        ],
+        [
+          232,
+          873
+        ]
+      ],
+      "score": 0.7533941268920898,
+      "y_pos": 744,
+      "text": "256. Bệnh tim do phong thấp ở thời kỳ đầu co thắt: Nội quan, Đại lăng, Khích môn, Thiếu\nphủ.",
+      "confidence": 0.9496885640232751
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0521_007_reference_content.png",
+      "bbox": [
+        [
+          229,
+          905
+        ],
+        [
+          2117,
+          905
+        ],
+        [
+          2117,
+          968
+        ],
+        [
+          229,
+          968
+        ]
+      ],
+      "score": 0.6742187142372131,
+      "y_pos": 905,
+      "text": "257. Viêm mạch máu do tắc máu: Trung quản, Nội quan, Túc tam lý, Tam âm giao.",
+      "confidence": 0.9996534035175662
+    },
+    {
+      "type": "number",
+      "img_path": "p0521_003_number.png",
+      "bbox": [
+        [
+          2319,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2319,
+          3374
+        ]
+      ],
+      "score": 0.8535420894622803,
+      "y_pos": 3337,
+      "text": "    \n    \n\n\n\n\n\n\n    \n\n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0521_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3390
+        ],
+        [
+          229,
+          3390
+        ]
+      ],
+      "score": 0.8999007344245911,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987150700587146
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0521.png"
+}

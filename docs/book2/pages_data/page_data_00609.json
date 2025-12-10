@@ -1,0 +1,240 @@
+{
+  "page_num": 609,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0609_002_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2370,
+          143
+        ],
+        [
+          2370,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9258801341056824,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7452945528285844
+    },
+    {
+      "type": "header",
+      "img_path": "p0609_003_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1172,
+          152
+        ],
+        [
+          1172,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9227976202964783,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BÁNG NHIỆT ĐÔ KINH LẠC",
+      "confidence": 0.9933017049080286
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0609_006_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          326
+        ],
+        [
+          1365,
+          326
+        ],
+        [
+          1365,
+          383
+        ],
+        [
+          225,
+          383
+        ]
+      ],
+      "score": 0.8815718293190002,
+      "y_pos": 326,
+      "text": "Cách ghi số đo nhiệt độ kinh lạc và chỉ số nhiệt",
+      "confidence": 0.999358252286911
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0609_005_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          420
+        ],
+        [
+          616,
+          420
+        ],
+        [
+          616,
+          475
+        ],
+        [
+          227,
+          475
+        ]
+      ],
+      "score": 0.8940358757972717,
+      "y_pos": 420,
+      "text": "1. Mẫu ghi chép",
+      "confidence": 0.9220007097019869
+    },
+    {
+      "type": "text",
+      "img_path": "p0609_001_text.png",
+      "bbox": [
+        [
+          276,
+          507
+        ],
+        [
+          2358,
+          507
+        ],
+        [
+          2358,
+          638
+        ],
+        [
+          276,
+          638
+        ]
+      ],
+      "score": 0.9293363690376282,
+      "y_pos": 507,
+      "text": "Trước khi đo phải chuẩn bị mẫu ghi chép \"Hồ sơ bệnh án chỉ số nhiệt kinh lạc\". Mỗi bệnh\nnhân phải có một phiếu, ghi đầy đủ vào các mục. Theo mẫu ví dụ sau:",
+      "confidence": 0.9996900055942697
+    },
+    {
+      "type": "text",
+      "img_path": "p0609_008_text.png",
+      "bbox": [
+        [
+          341,
+          749
+        ],
+        [
+          2295,
+          749
+        ],
+        [
+          2295,
+          2162
+        ],
+        [
+          341,
+          2162
+        ]
+      ],
+      "score": 0.6833438873291016,
+      "y_pos": 749,
+      "text": "PHÒNG CHẨN TRỊ.....\nBệnh án được thiết lập bởi: Lương y; Bác sĩ: .....\n.....\nHỒ SƠ BỆNH ÁN - CHỈ SỐ NHIỆT KINH LẠC.....\nHọ và tên:.....Nam, nữ ......Nam.\nNgày tháng năm sinh......Tuổi:.....Tuổi:....\nTình trạng gia đình:....\nĐịa chỉ:.....\nNghề nghiệp: .....\nTiền căn gia đình: .....\nTiền căn bản thân:.....\n.....\nBệnh sử và tiền căn tương ứng khi đến khám: .....\n.....\nChứng trạng lâm sàng hiện tại: .....\nThời gian đo nhiệt độ các kinh lạc:.....giờ, ngày.....tháng.....năm....năm\nNhiệt độ môi trường:.....Độ ẩm môi trường:.....\nChu kỳ kinh (phụ nữ).....\nBảng chỉ số nhiệt kinh lạc của người bệnh",
+      "confidence": 0.9444039286552064
+    },
+    {
+      "type": "table",
+      "img_path": "p0609_000_table.png",
+      "bbox": [
+        [
+          410,
+          2226
+        ],
+        [
+          2178,
+          2226
+        ],
+        [
+          2178,
+          3156
+        ],
+        [
+          410,
+          3156
+        ]
+      ],
+      "score": 0.9555026292800903,
+      "y_pos": 2226,
+      "text": "3    4    5    6\n2    7\n8    9    10    11    12\nTiểu trường\nTâm\nTam tiêu\nTâm bào\nĐại trường\nPhế\n1'    3'    4'    5'    6'\n2'    7",
+      "confidence": 0.9634118252553238
+    },
+    {
+      "type": "number",
+      "img_path": "p0609_007_number.png",
+      "bbox": [
+        [
+          2307,
+          3336
+        ],
+        [
+          2355,
+          3336
+        ],
+        [
+          2355,
+          3375
+        ],
+        [
+          2307,
+          3375
+        ]
+      ],
+      "score": 0.8669515252113342,
+      "y_pos": 3336,
+      "text": "    \n    \n\n            \n\n\n\n۰\n۰.\n\n    \n",
+      "confidence": 0.9447417830427488
+    },
+    {
+      "type": "footer",
+      "img_path": "p0609_004_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1325,
+          3340
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.908057689666748,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9988119602203369
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0609.png"
+}

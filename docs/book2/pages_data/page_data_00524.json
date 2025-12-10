@@ -1,0 +1,162 @@
+{
+  "page_num": 524,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0524_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9085218906402588,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0524_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.9130105972290039,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9977136671543121
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0524_005_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          326
+        ],
+        [
+          727,
+          326
+        ],
+        [
+          727,
+          383
+        ],
+        [
+          226,
+          383
+        ]
+      ],
+      "score": 0.6638280749320984,
+      "y_pos": 326,
+      "text": "Phần 12. BÊNH GAN",
+      "confidence": 0.777358309218758
+    },
+    {
+      "type": "text",
+      "img_path": "p0524_004_text.png",
+      "bbox": [
+        [
+          227,
+          415
+        ],
+        [
+          2361,
+          415
+        ],
+        [
+          2361,
+          1030
+        ],
+        [
+          227,
+          1030
+        ]
+      ],
+      "score": 0.7201075553894043,
+      "y_pos": 415,
+      "text": "303. Viêm gan: Túc tam lý, Thái xung.\n304. <b>Viêm gan:</b> Kỳ môn, Trung phong, Dương lăng tuyền.\n305. Viêm gan truyền nhiễm cấp tính: Đảm du, Chí dương, Túc tam lý, Thái xung.\n306. Viêm gan truyền nhiễm cấp tính: Trung phong, Can du, É minh.\n307. Viêm gan lây lan: Chí dương, Can du.\n308. Gan xơ hóa: Phục lưu, Thủy phân, Thận du, Trúc tân, Túc tam lý, É minh.\n309. Gan xơ hóa: Can du, Tỳ du, Kỳ môn, Đốc du, Huyết hải, Tam âm giao, Dương lăng tuyền.",
+      "confidence": 0.9434222106772355
+    },
+    {
+      "type": "number",
+      "img_path": "p0524_003_number.png",
+      "bbox": [
+        [
+          2320,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2320,
+          3374
+        ]
+      ],
+      "score": 0.8571848273277283,
+      "y_pos": 3337,
+      "text": "    \n\n\n\n\n    \n\n\n\n٠.\n۰\n\n\n",
+      "confidence": 0.9412789409980178
+    },
+    {
+      "type": "footer",
+      "img_path": "p0524_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.9008944034576416,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9390172328589097
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0524.png"
+}

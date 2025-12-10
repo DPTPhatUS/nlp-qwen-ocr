@@ -1,0 +1,758 @@
+{
+  "page_num": 257,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0257_013_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9369723200798035,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7254179112967991
+    },
+    {
+      "type": "header",
+      "img_path": "p0257_019_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          905,
+          156
+        ],
+        [
+          905,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9191851615905762,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9866287461642561
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0257_016_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          370
+        ],
+        [
+          650,
+          370
+        ],
+        [
+          650,
+          419
+        ],
+        [
+          225,
+          419
+        ]
+      ],
+      "score": 0.9289895296096802,
+      "y_pos": 370,
+      "text": "241. Phong nham",
+      "confidence": 0.8274591670316809
+    },
+    {
+      "type": "text",
+      "img_path": "p0257_028_text.png",
+      "bbox": [
+        [
+          287,
+          552
+        ],
+        [
+          1310,
+          552
+        ],
+        [
+          1310,
+          602
+        ],
+        [
+          287,
+          602
+        ]
+      ],
+      "score": 0.5360355377197266,
+      "y_pos": 552,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 1,5-2 thốn.",
+      "confidence": 0.9782025012705061
+    },
+    {
+      "type": "text",
+      "img_path": "p0257_009_text.png",
+      "bbox": [
+        [
+          283,
+          644
+        ],
+        [
+          2020,
+          644
+        ],
+        [
+          2020,
+          696
+        ],
+        [
+          283,
+          696
+        ]
+      ],
+      "score": 0.9394246339797974,
+      "y_pos": 644,
+      "text": "<b>Chủ tri:</b> Bênh tinh thần, suy nhược thần kinh, hysteri, đau đầu, di chứng não.",
+      "confidence": 0.9428334765964084
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0257_020_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          735
+        ],
+        [
+          955,
+          735
+        ],
+        [
+          955,
+          785
+        ],
+        [
+          226,
+          785
+        ]
+      ],
+      "score": 0.9188022017478943,
+      "y_pos": 735,
+      "text": "242. 3 chỗ ở tĩnh mạch sau tại",
+      "confidence": 0.9915141277015209
+    },
+    {
+      "type": "text",
+      "img_path": "p0257_007_text.png",
+      "bbox": [
+        [
+          288,
+          825
+        ],
+        [
+          1466,
+          825
+        ],
+        [
+          1466,
+          878
+        ],
+        [
+          288,
+          878
+        ]
+      ],
+      "score": 0.9406880140304565,
+      "y_pos": 825,
+      "text": "Vi trí: Ở trên 3 nhánh tĩnh mạch chỗ sau tại. (H.130)",
+      "confidence": 0.9914486592466181
+    },
+    {
+      "type": "text",
+      "img_path": "p0257_010_text.png",
+      "bbox": [
+        [
+          287,
+          921
+        ],
+        [
+          907,
+          921
+        ],
+        [
+          907,
+          967
+        ],
+        [
+          287,
+          967
+        ]
+      ],
+      "score": 0.9393083453178406,
+      "y_pos": 921,
+      "text": "<b>Cách châm:</b> Chích ra máu.",
+      "confidence": 0.9696789607405663
+    },
+    {
+      "type": "text",
+      "img_path": "p0257_002_text.png",
+      "bbox": [
+        [
+          285,
+          1010
+        ],
+        [
+          1465,
+          1010
+        ],
+        [
+          1465,
+          1063
+        ],
+        [
+          285,
+          1063
+        ]
+      ],
+      "score": 0.9484858512878418,
+      "y_pos": 1010,
+      "text": "Chủ trị: Viêm kết mạc, cao huyết áp, bệnh ngoài da.",
+      "confidence": 0.7411818729256684
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0257_024_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1103
+        ],
+        [
+          947,
+          1103
+        ],
+        [
+          947,
+          1153
+        ],
+        [
+          225,
+          1153
+        ]
+      ],
+      "score": 0.905559778213501,
+      "y_pos": 1103,
+      "text": "243. Ngoại Kim tân Ngọc dịch",
+      "confidence": 0.9180998543898264
+    },
+    {
+      "type": "text",
+      "img_path": "p0257_000_text.png",
+      "bbox": [
+        [
+          281,
+          1191
+        ],
+        [
+          2356,
+          1191
+        ],
+        [
+          2356,
+          1318
+        ],
+        [
+          281,
+          1318
+        ]
+      ],
+      "score": 0.9707575440406799,
+      "y_pos": 1191,
+      "text": "Vị trí: Ở trên sụn hầu lên 1 thốn, sang ngang mỗi bên 0,3 thốn,ngửa đầu lấy huyệt. (bên trái\nlà <i>Ngoại Kim tân</i>, bên phải là <i>Ngoại Ngọc dịch</i>. (H.131)",
+      "confidence": 0.9929417587975238
+    },
+    {
+      "type": "text",
+      "img_path": "p0257_008_text.png",
+      "bbox": [
+        [
+          285,
+          1355
+        ],
+        [
+          1799,
+          1355
+        ],
+        [
+          1799,
+          1406
+        ],
+        [
+          285,
+          1406
+        ]
+      ],
+      "score": 0.9401508569717407,
+      "y_pos": 1355,
+      "text": "<b>Cách châm:</b> Châm chếch kim nhằm về hướng lưỡi, sâu 1-1,5 thốn.",
+      "confidence": 0.9864552098971147
+    },
+    {
+      "type": "text",
+      "img_path": "p0257_005_text.png",
+      "bbox": [
+        [
+          286,
+          1449
+        ],
+        [
+          1667,
+          1449
+        ],
+        [
+          1667,
+          1502
+        ],
+        [
+          286,
+          1502
+        ]
+      ],
+      "score": 0.9421051740646362,
+      "y_pos": 1449,
+      "text": "Chủ trị: Trúng gió, mất tiếng, cơ lưỡi tê bại, viêm vòm miệng.",
+      "confidence": 0.9731158120557666
+    },
+    {
+      "type": "image",
+      "img_path": "p0257_001_image.png",
+      "bbox": [
+        [
+          754,
+          1567
+        ],
+        [
+          1827,
+          1567
+        ],
+        [
+          1827,
+          1863
+        ],
+        [
+          754,
+          1863
+        ]
+      ],
+      "score": 0.9679509997367859,
+      "y_pos": 1567
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0257_027_figure_title.png",
+      "bbox": [
+        [
+          1195,
+          1950
+        ],
+        [
+          1389,
+          1950
+        ],
+        [
+          1389,
+          1993
+        ],
+        [
+          1195,
+          1993
+        ]
+      ],
+      "score": 0.8866575956344604,
+      "y_pos": 1950,
+      "text": "Hình    |31",
+      "confidence": 0.8201118648052216
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0257_017_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2034
+        ],
+        [
+          564,
+          2034
+        ],
+        [
+          564,
+          2088
+        ],
+        [
+          226,
+          2088
+        ]
+      ],
+      "score": 0.9280774593353271,
+      "y_pos": 2034,
+      "text": "244. Hồng âm",
+      "confidence": 0.9557756739003318
+    },
+    {
+      "type": "text",
+      "img_path": "p0257_015_text.png",
+      "bbox": [
+        [
+          289,
+          2127
+        ],
+        [
+          1637,
+          2127
+        ],
+        [
+          1637,
+          2182
+        ],
+        [
+          289,
+          2182
+        ]
+      ],
+      "score": 0.9308601021766663,
+      "y_pos": 2127,
+      "text": "Vị trí: Đỉnh sụn móng sang ngang mỗi bên 0,5 thốn. (H.131)",
+      "confidence": 0.6620859583218892
+    },
+    {
+      "type": "text",
+      "img_path": "p0257_012_text.png",
+      "bbox": [
+        [
+          286,
+          2221
+        ],
+        [
+          1354,
+          2221
+        ],
+        [
+          1354,
+          2269
+        ],
+        [
+          286,
+          2269
+        ]
+      ],
+      "score": 0.9375553727149963,
+      "y_pos": 2221,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 0.3-0.5 thôn.",
+      "confidence": 0.979998453500423
+    },
+    {
+      "type": "text",
+      "img_path": "p0257_011_text.png",
+      "bbox": [
+        [
+          286,
+          2313
+        ],
+        [
+          1567,
+          2313
+        ],
+        [
+          1567,
+          2364
+        ],
+        [
+          286,
+          2364
+        ]
+      ],
+      "score": 0.9390645027160645,
+      "y_pos": 2313,
+      "text": "Chủ trị: Việm họng cấp tính, mạn tính, bệnh ở thanh đới.",
+      "confidence": 0.5140776151213152
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0257_018_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2402
+        ],
+        [
+          753,
+          2402
+        ],
+        [
+          753,
+          2453
+        ],
+        [
+          227,
+          2453
+        ]
+      ],
+      "score": 0.9218723773956299,
+      "y_pos": 2402,
+      "text": "245. Bàng Liêm tuyền",
+      "confidence": 0.9413841014558618
+    },
+    {
+      "type": "text",
+      "img_path": "p0257_014_text.png",
+      "bbox": [
+        [
+          289,
+          2494
+        ],
+        [
+          1689,
+          2494
+        ],
+        [
+          1689,
+          2548
+        ],
+        [
+          289,
+          2548
+        ]
+      ],
+      "score": 0.9367650151252747,
+      "y_pos": 2494,
+      "text": "Vị trí: Huyệt Liêm tuyền sang ngang mỗi bên 0,5 thốn. (H.131)",
+      "confidence": 0.6343293142697167
+    },
+    {
+      "type": "text",
+      "img_path": "p0257_004_text.png",
+      "bbox": [
+        [
+          287,
+          2588
+        ],
+        [
+          1312,
+          2588
+        ],
+        [
+          1312,
+          2636
+        ],
+        [
+          287,
+          2636
+        ]
+      ],
+      "score": 0.9452235698699951,
+      "y_pos": 2588,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 0,5-1 thôn.",
+      "confidence": 0.9796355472670661
+    },
+    {
+      "type": "text",
+      "img_path": "p0257_003_text.png",
+      "bbox": [
+        [
+          286,
+          2680
+        ],
+        [
+          1192,
+          2680
+        ],
+        [
+          1192,
+          2729
+        ],
+        [
+          286,
+          2729
+        ]
+      ],
+      "score": 0.9471458196640015,
+      "y_pos": 2680,
+      "text": "<i>Chủ tri</i>: Bênh ở thanh đới, lưỡi sưng to.",
+      "confidence": 0.9785044118762016
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0257_021_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2771
+        ],
+        [
+          548,
+          2771
+        ],
+        [
+          548,
+          2819
+        ],
+        [
+          227,
+          2819
+        ]
+      ],
+      "score": 0.9179069995880127,
+      "y_pos": 2771,
+      "text": "246. Đai môn",
+      "confidence": 0.957220733165741
+    },
+    {
+      "type": "text",
+      "img_path": "p0257_026_text.png",
+      "bbox": [
+        [
+          287,
+          2859
+        ],
+        [
+          2130,
+          2859
+        ],
+        [
+          2130,
+          2917
+        ],
+        [
+          287,
+          2917
+        ]
+      ],
+      "score": 0.8940755128860474,
+      "y_pos": 2859,
+      "text": "Vị trí: Mô cao lồi xương chẩm lên 1 thốn (sau huyệt <i>Cường gian</i> 0,5 thốn). (H.132)",
+      "confidence": 0.9906521243207594
+    },
+    {
+      "type": "text",
+      "img_path": "p0257_022_text.png",
+      "bbox": [
+        [
+          286,
+          2953
+        ],
+        [
+          1328,
+          2953
+        ],
+        [
+          1328,
+          3002
+        ],
+        [
+          286,
+          3002
+        ]
+      ],
+      "score": 0.9171289801597595,
+      "y_pos": 2953,
+      "text": "Cách châm: Châm chếch kim, sâu 1-1,5 thốn.",
+      "confidence": 0.4116099774837494
+    },
+    {
+      "type": "text",
+      "img_path": "p0257_006_text.png",
+      "bbox": [
+        [
+          287,
+          3046
+        ],
+        [
+          1044,
+          3046
+        ],
+        [
+          1044,
+          3099
+        ],
+        [
+          287,
+          3099
+        ]
+      ],
+      "score": 0.941191554069519,
+      "y_pos": 3046,
+      "text": "Chủ trị: Trúng gió liệt nửa người.",
+      "confidence": 0.6387542105383344
+    },
+    {
+      "type": "footer",
+      "img_path": "p0257_023_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9162638187408447,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0257_025_number.png",
+      "bbox": [
+        [
+          2279,
+          3338
+        ],
+        [
+          2350,
+          3338
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2279,
+          3377
+        ]
+      ],
+      "score": 0.8979177474975586,
+      "y_pos": 3338,
+      "text": "        \n    \n        \n\n\n    \n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0257.png"
+}

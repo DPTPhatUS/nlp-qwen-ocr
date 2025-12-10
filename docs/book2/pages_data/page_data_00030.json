@@ -1,0 +1,474 @@
+{
+  "page_num": 30,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0030_009_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9255793690681458,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.723309953652677
+    },
+    {
+      "type": "header",
+      "img_path": "p0030_012_header.png",
+      "bbox": [
+        [
+          229,
+          155
+        ],
+        [
+          743,
+          155
+        ],
+        [
+          743,
+          203
+        ],
+        [
+          229,
+          203
+        ]
+      ],
+      "score": 0.9107298851013184,
+      "y_pos": 155,
+      "text": "HOC THUYẾT TANG PHỦ",
+      "confidence": 0.6463617370242164
+    },
+    {
+      "type": "text",
+      "img_path": "p0030_006_text.png",
+      "bbox": [
+        [
+          337,
+          305
+        ],
+        [
+          2357,
+          305
+        ],
+        [
+          2357,
+          428
+        ],
+        [
+          337,
+          428
+        ]
+      ],
+      "score": 0.966666579246521,
+      "y_pos": 305,
+      "text": "đái són không dứt. Thận âm bất túc sẽ đưa đến bí ỉa. Mệnh môn hỏa suy gây nên ỉa chảy\nlúc sáng sớm.",
+      "confidence": 0.9936240077703848
+    },
+    {
+      "type": "text",
+      "img_path": "p0030_003_text.png",
+      "bbox": [
+        [
+          284,
+          462
+        ],
+        [
+          2357,
+          462
+        ],
+        [
+          2357,
+          653
+        ],
+        [
+          284,
+          653
+        ]
+      ],
+      "score": 0.9765806198120117,
+      "y_pos": 462,
+      "text": "e. Thận kỳ hoa tại tóc: Lông tóc rơi rụng và sinh trưởng thường phản ánh sự thịnh suy của\nThận khí. Thận khí thịnh vượng thì lông tóc tốt dày và đen bóng. Thận khí suy thì lông tóc\nthưa, rung hoặc bác mà khô xác.",
+      "confidence": 0.997505154211683
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0030_014_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          687
+        ],
+        [
+          1167,
+          687
+        ],
+        [
+          1167,
+          739
+        ],
+        [
+          285,
+          739
+        ]
+      ],
+      "score": 0.8766906261444092,
+      "y_pos": 687,
+      "text": "2. Sinh lý và bệnh lý của bàng quang",
+      "confidence": 0.9274592195686541
+    },
+    {
+      "type": "text",
+      "img_path": "p0030_008_text.png",
+      "bbox": [
+        [
+          280,
+          780
+        ],
+        [
+          2358,
+          780
+        ],
+        [
+          2358,
+          908
+        ],
+        [
+          280,
+          908
+        ]
+      ],
+      "score": 0.9608870148658752,
+      "y_pos": 780,
+      "text": "Công năng chủ yếu của Bàng quang là chứa giữ và bài tiết nước tiểu. Nếu bàng quang có\nbênh sinh ra đái són, đái vôi, hoặc khi dứt bãi đái thấy đau.",
+      "confidence": 0.9970000228988843
+    },
+    {
+      "type": "text",
+      "img_path": "p0030_001_text.png",
+      "bbox": [
+        [
+          278,
+          950
+        ],
+        [
+          2358,
+          950
+        ],
+        [
+          2358,
+          1230
+        ],
+        [
+          278,
+          1230
+        ]
+      ],
+      "score": 0.9824945330619812,
+      "y_pos": 950,
+      "text": "3. Thận và Bàng quang thông qua quan hệ kinh lạc mà cấu thành quan hệ biểu lý. Công\nnăng bài tiết của Bàng quang mất bình thường có khi quan hệ tới bệnh của Thận. Như Thận\như không cố nhiếp*, cũng xuất hiện chứng đái không cầm hoặc đái dầm. Thận hư, khí hóa\nkhông kịp cũng ra bí đái hoặc đái khó.",
+      "confidence": 0.9952364125096556
+    },
+    {
+      "type": "text",
+      "img_path": "p0030_004_text.png",
+      "bbox": [
+        [
+          279,
+          1272
+        ],
+        [
+          2358,
+          1272
+        ],
+        [
+          2358,
+          1480
+        ],
+        [
+          279,
+          1480
+        ]
+      ],
+      "score": 0.9746381044387817,
+      "y_pos": 1272,
+      "text": "Theo sinh lý, bệnh lý kể trên, Đông y giảng về Thận, cơ bản bao quát công năng và bệnh tật\nở hệ sinh dục, tiết niệu, bộ phận tạo máu, nội tiết và công năng của hệ thần kinh, khác vôi\nbài giảng Tây y. Còn Bàng quang trong bài giảng Đông, Tây y đều giống nhau.",
+      "confidence": 0.9997416582406894
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0030_011_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1519
+        ],
+        [
+          506,
+          1519
+        ],
+        [
+          506,
+          1564
+        ],
+        [
+          225,
+          1564
+        ]
+      ],
+      "score": 0.9131230711936951,
+      "y_pos": 1519,
+      "text": "<i>a</i>'    П    IEH",
+      "confidence": 0.48565772755278475
+    },
+    {
+      "type": "text",
+      "img_path": "p0030_000_text.png",
+      "bbox": [
+        [
+          276,
+          1611
+        ],
+        [
+          2358,
+          1611
+        ],
+        [
+          2358,
+          2161
+        ],
+        [
+          276,
+          2161
+        ]
+      ],
+      "score": 0.9866921305656433,
+      "y_pos": 1611,
+      "text": "Tam tiêu là một trong lục phủ, gồm có Thượng tiêu, Trung tiêu và Hạ tiêu. Hình thái và công\nnăng của Tam tiêu tới nay chưa có lý thuyết ổn định. Đại đa số cho rằng Thượng tiêu là\nTâm, Phế, tương đương với công năng tạng khí ở lồng ngực. Trung tiêu chỉ Tỳ, Vị tương\nđương với công năng tạng khí ở bụng trên. Hạ tiêu chỉ Can, Thận, Bàng quang, Đại trường,\nTiểu trường, tương đương với công năng tạng khí ở bụng dưới. Theo tác dụng sinh lý mà\nnói, Thượng tiêu như \"sương\", chỉ tác đụng của Tâm, Phế đối với việc đưa rải chất dinh\ndưỡng. Trung tiêu như \"giọt nước\", chỉ tác dụng vận hóa của Tỳ, Vị. Hạ tiêu như \"cống\nrãnh\", chỉ tác dụng bài tiết của Thận và Bàng quang.",
+      "confidence": 0.9994887547828658
+    },
+    {
+      "type": "text",
+      "img_path": "p0030_007_text.png",
+      "bbox": [
+        [
+          280,
+          2197
+        ],
+        [
+          2358,
+          2197
+        ],
+        [
+          2358,
+          2321
+        ],
+        [
+          280,
+          2321
+        ]
+      ],
+      "score": 0.9632099270820618,
+      "y_pos": 2197,
+      "text": "Lý thuyết Tam tiêu biện chứng trong học thuyết ôn bệnh đã dùng Tam tiêu làm cương lĩnh để\nbiện chứng phân loại bệnh và luận trị. So với ý nghĩa kể trên có chỗ khác nhau...",
+      "confidence": 0.9988891645036879
+    },
+    {
+      "type": "text",
+      "img_path": "p0030_005_text.png",
+      "bbox": [
+        [
+          278,
+          2360
+        ],
+        [
+          2357,
+          2360
+        ],
+        [
+          2357,
+          2555
+        ],
+        [
+          278,
+          2555
+        ]
+      ],
+      "score": 0.9737181067466736,
+      "y_pos": 2360,
+      "text": "Nói tóm lại, công năng của Tam tiêu là tổng hợp công năng sinh lý của mấy tạng phủ trong\nlồng ngực, ổ bụng. Bệnh biến của Tam tiêu xuất hiện phần lớn có liên quan với công năng\nchuyển tống chất lỏng, nuôi dưỡng và bài tiết.",
+      "confidence": 0.9870797672038072
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0030_010_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2599
+        ],
+        [
+          544,
+          2599
+        ],
+        [
+          544,
+          2643
+        ],
+        [
+          226,
+          2643
+        ]
+      ],
+      "score": 0.9165183901786804,
+      "y_pos": 2599,
+      "text": "G. Nữ tử bào",
+      "confidence": 0.9062930686133248
+    },
+    {
+      "type": "text",
+      "img_path": "p0030_002_text.png",
+      "bbox": [
+        [
+          277,
+          2684
+        ],
+        [
+          2358,
+          2684
+        ],
+        [
+          2358,
+          3005
+        ],
+        [
+          277,
+          3005
+        ]
+      ],
+      "score": 0.98216313123703,
+      "y_pos": 2684,
+      "text": "Nữ tử bào gồm dạ con và phần phụ. Công năng chủ về chửa đẻ và kinh nguyệt. Nữ tử bào,\nThận và Xung, Nhâm mạch có quan hệ rất mật thiết, cả 3 đều cùng giữ kinh nguyệt, chửa\nđẻ, sinh dục được bình thường. Thận tinh đầy đủ, Xung, Nhâm mạch thịnh thì kinh nguyệt,\nsinh dục bình thường. Thận tinh hao tổn, Xung nhâm mạch hư thì kinh nguyệt không đều,\nthâm chí không chửa đẻ.",
+      "confidence": 0.9952780311144893
+    },
+    {
+      "type": "text",
+      "img_path": "p0030_017_text.png",
+      "bbox": [
+        [
+          1295,
+          3041
+        ],
+        [
+          1354,
+          3041
+        ],
+        [
+          1354,
+          3068
+        ],
+        [
+          1295,
+          3068
+        ]
+      ],
+      "score": 0.6413387656211853,
+      "y_pos": 3041,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0030_016_footnote.png",
+      "bbox": [
+        [
+          229,
+          3153
+        ],
+        [
+          608,
+          3153
+        ],
+        [
+          608,
+          3207
+        ],
+        [
+          229,
+          3207
+        ]
+      ],
+      "score": 0.7048847675323486,
+      "y_pos": 3153,
+      "text": "* Cố nhiếp: giữ chắc",
+      "confidence": 0.8991790468042548
+    },
+    {
+      "type": "footer",
+      "img_path": "p0030_013_footer.png",
+      "bbox": [
+        [
+          227,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.897617518901825,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9983427963166867
+    },
+    {
+      "type": "number",
+      "img_path": "p0030_015_number.png",
+      "bbox": [
+        [
+          2332,
+          3340
+        ],
+        [
+          2356,
+          3340
+        ],
+        [
+          2356,
+          3373
+        ],
+        [
+          2332,
+          3373
+        ]
+      ],
+      "score": 0.8029427528381348,
+      "y_pos": 3340,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0030.png"
+}

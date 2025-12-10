@@ -1,0 +1,578 @@
+{
+  "page_num": 340,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0340_012_header.png",
+      "bbox": [
+        [
+          1679,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1679,
+          196
+        ]
+      ],
+      "score": 0.9201713800430298,
+      "y_pos": 142,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7503989594323295
+    },
+    {
+      "type": "header",
+      "img_path": "p0340_014_header.png",
+      "bbox": [
+        [
+          230,
+          152
+        ],
+        [
+          1055,
+          152
+        ],
+        [
+          1055,
+          198
+        ],
+        [
+          230,
+          198
+        ]
+      ],
+      "score": 0.9153199195861816,
+      "y_pos": 152,
+      "text": "ÔN NHIỆT KINH BIÊN CHỨNG LUÂN TRI",
+      "confidence": 0.9350922175816128
+    },
+    {
+      "type": "text",
+      "img_path": "p0340_005_text.png",
+      "bbox": [
+        [
+          339,
+          307
+        ],
+        [
+          2358,
+          307
+        ],
+        [
+          2358,
+          430
+        ],
+        [
+          339,
+          430
+        ]
+      ],
+      "score": 0.9644985795021057,
+      "y_pos": 307,
+      "text": "Bệnh thương hàn ruột, bệnh xoắn trùng vàng da, viêm gan lây lan, khuẩn lỵ cấp tính, có\nbiểu hiện chứng thấp ôn ở khí phần có thể theo phép này mà chữa.",
+      "confidence": 0.9995063438334248
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0340_016_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          469
+        ],
+        [
+          842,
+          469
+        ],
+        [
+          842,
+          520
+        ],
+        [
+          344,
+          520
+        ]
+      ],
+      "score": 0.9099000692367554,
+      "y_pos": 469,
+      "text": "d. Khí vê đồng bênh",
+      "confidence": 0.9925620044980731
+    },
+    {
+      "type": "text",
+      "img_path": "p0340_001_text.png",
+      "bbox": [
+        [
+          339,
+          559
+        ],
+        [
+          2358,
+          559
+        ],
+        [
+          2358,
+          828
+        ],
+        [
+          339,
+          828
+        ]
+      ],
+      "score": 0.9807162284851074,
+      "y_pos": 559,
+      "text": "Chủ chứng: Có đủ đặc trưng của bệnh khí phần, đồng thời lại có sợ lạnh đau mình của\nchứng bệnh ở vệ phần gọi là khí vệ đồng bệnh, là biểu tà chưa giải lại chuyển vào khí\nphần. Trong Đông y thường nói: \"Có một phần sợ lạnh, sẽ có một phần biểu chứng.\" Điều\nđó cũng chỉ rõ là ý nghĩa trọng yếu trên chẩn đoán biểu chứng.",
+      "confidence": 0.9967311147882831
+    },
+    {
+      "type": "text",
+      "img_path": "p0340_000_text.png",
+      "bbox": [
+        [
+          339,
+          863
+        ],
+        [
+          2360,
+          863
+        ],
+        [
+          2360,
+          1271
+        ],
+        [
+          339,
+          1271
+        ]
+      ],
+      "score": 0.986241340637207,
+      "y_pos": 863,
+      "text": "Phép chữa: Khí vệ đồng bệnh, chữa thì dùng phép giải biểu thanh khí. Nếu người bệnh\ncảm cúm, biểu hiện lâm sàng có chứng trạng biểu nhiệt và lý nhiệt,có thể dùng Bạch hổ\nthang hợp với <i>Ngân kiều tán</i>. Nếu có biểu hiện chứng trạng là biểu hàn lý nhiệt, có thể\ndùng Sài cát giải cơ thang (Sài hồ, Cát căn, Khương hoạt, Bạch chỉ, Hoàng cầm, Bạch\nthược, Cát cánh, Cam thảo, Thạch cao, Sinh khương, Đại táo), đó là phương pháp biểu lý\nsong giải.",
+      "confidence": 0.9975637545881266
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0340_015_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1311
+        ],
+        [
+          790,
+          1311
+        ],
+        [
+          790,
+          1360
+        ],
+        [
+          344,
+          1360
+        ]
+      ],
+      "score": 0.9127576351165771,
+      "y_pos": 1311,
+      "text": "e. Bán biểu bán lý",
+      "confidence": 0.9918089658021927
+    },
+    {
+      "type": "text",
+      "img_path": "p0340_003_text.png",
+      "bbox": [
+        [
+          339,
+          1400
+        ],
+        [
+          2358,
+          1400
+        ],
+        [
+          2358,
+          1595
+        ],
+        [
+          339,
+          1595
+        ]
+      ],
+      "score": 0.9743210673332214,
+      "y_pos": 1400,
+      "text": "Chủ chứng: Hàn nhiệt vãng lai, ngực sườn đầy tức, quặn bụng trên (ác tâm), ăn uống\nkhông biết ngon, tâm bứt rứt, miệng đắng, họng khô, mắt hoa, rêu lưỡi trắng, mạch\nhuyền.",
+      "confidence": 0.9686271757711004
+    },
+    {
+      "type": "text",
+      "img_path": "p0340_006_text.png",
+      "bbox": [
+        [
+          340,
+          1635
+        ],
+        [
+          2358,
+          1635
+        ],
+        [
+          2358,
+          1759
+        ],
+        [
+          340,
+          1759
+        ]
+      ],
+      "score": 0.9640805125236511,
+      "y_pos": 1635,
+      "text": "Bệnh lý: Chứng này là bệnh tà xâm phạm đảm kinh, tà và chính giao tranh ở nơi giữa\nbiểu và lý gây ra. Nguyên là Thiếu dương của Lục kinh biện chứng.",
+      "confidence": 0.998076164958616
+    },
+    {
+      "type": "text",
+      "img_path": "p0340_007_text.png",
+      "bbox": [
+        [
+          340,
+          1795
+        ],
+        [
+          2356,
+          1795
+        ],
+        [
+          2356,
+          1922
+        ],
+        [
+          340,
+          1922
+        ]
+      ],
+      "score": 0.9615961313247681,
+      "y_pos": 1795,
+      "text": "Phép chữa: Nên dùng phép hoà giải, thường dùng Hàm vị Tiểu sài hồ thang (Sài hồ,\nHoàng cầm, Pháp bán hạ, Cam thảo, Sinh khương).",
+      "confidence": 0.995958149870751
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0340_019_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1961
+        ],
+        [
+          584,
+          1961
+        ],
+        [
+          584,
+          2011
+        ],
+        [
+          344,
+          2011
+        ]
+      ],
+      "score": 0.8446027636528015,
+      "y_pos": 1961,
+      "text": "Gia giảm:",
+      "confidence": 0.8326582962816412
+    },
+    {
+      "type": "text",
+      "img_path": "p0340_013_text.png",
+      "bbox": [
+        [
+          401,
+          2052
+        ],
+        [
+          1678,
+          2052
+        ],
+        [
+          1678,
+          2104
+        ],
+        [
+          401,
+          2104
+        ]
+      ],
+      "score": 0.918813943862915,
+      "y_pos": 2052,
+      "text": "Miệng khát, bỏ Bán hạ, gia Thiên hoa phần, Trúc như.",
+      "confidence": 0.96031497253312
+    },
+    {
+      "type": "text",
+      "img_path": "p0340_009_text.png",
+      "bbox": [
+        [
+          404,
+          2144
+        ],
+        [
+          986,
+          2144
+        ],
+        [
+          986,
+          2194
+        ],
+        [
+          404,
+          2194
+        ]
+      ],
+      "score": 0.923771858215332,
+      "y_pos": 2144,
+      "text": "Hàn nhiều gia Quế chi.",
+      "confidence": 0.9925241023302078
+    },
+    {
+      "type": "text",
+      "img_path": "p0340_008_text.png",
+      "bbox": [
+        [
+          404,
+          2237
+        ],
+        [
+          1078,
+          2237
+        ],
+        [
+          1078,
+          2287
+        ],
+        [
+          404,
+          2287
+        ]
+      ],
+      "score": 0.9309377074241638,
+      "y_pos": 2237,
+      "text": "Nhiệt nhiều gia Hoàng liên.",
+      "confidence": 0.9769959573088021
+    },
+    {
+      "type": "text",
+      "img_path": "p0340_010_text.png",
+      "bbox": [
+        [
+          402,
+          2324
+        ],
+        [
+          2072,
+          2324
+        ],
+        [
+          2072,
+          2379
+        ],
+        [
+          402,
+          2379
+        ]
+      ],
+      "score": 0.9230145215988159,
+      "y_pos": 2324,
+      "text": "- Nếu kiêm có tiện bí, bung trường đau, có thể đổi dùng Đại sài hồ thang.",
+      "confidence": 0.9677159961064656
+    },
+    {
+      "type": "text",
+      "img_path": "p0340_002_text.png",
+      "bbox": [
+        [
+          339,
+          2417
+        ],
+        [
+          2360,
+          2417
+        ],
+        [
+          2360,
+          2611
+        ],
+        [
+          339,
+          2611
+        ]
+      ],
+      "score": 0.9777352809906006,
+      "y_pos": 2417,
+      "text": "Bệnh cảm cúm, viêm đường mật, sốt rét, có biểu hiện chứng này, đều có thể theo phép\nnày mà chữa. Bệnh sốt rét lại có thể đối chứng xử phương thêm vào Thường sơn, Thảo\nquả.",
+      "confidence": 0.906601279219882
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0340_011_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          2649
+        ],
+        [
+          774,
+          2649
+        ],
+        [
+          774,
+          2703
+        ],
+        [
+          285,
+          2703
+        ]
+      ],
+      "score": 0.9201958179473877,
+      "y_pos": 2649,
+      "text": "3. Bệnh phần doanh",
+      "confidence": 0.9692164272069931
+    },
+    {
+      "type": "text",
+      "img_path": "p0340_018_text.png",
+      "bbox": [
+        [
+          341,
+          2742
+        ],
+        [
+          1595,
+          2742
+        ],
+        [
+          1595,
+          2797
+        ],
+        [
+          341,
+          2797
+        ]
+      ],
+      "score": 0.90284663438797,
+      "y_pos": 2742,
+      "text": "Bệnh phần doanh, nói chung do khí phần hoặc vệ phần",
+      "confidence": 0.9969155923375543
+    },
+    {
+      "type": "text",
+      "img_path": "p0340_004_text.png",
+      "bbox": [
+        [
+          338,
+          2833
+        ],
+        [
+          2359,
+          2833
+        ],
+        [
+          2359,
+          3031
+        ],
+        [
+          338,
+          3031
+        ]
+      ],
+      "score": 0.9733501672744751,
+      "y_pos": 2833,
+      "text": "chuyển đến, nhưng cũng có khi phát bệnh là ở ngay doanh phần, chữa kịp thời có thể\nthấu nhiệt, chuyển ra khí phần. Bệnh doanh phần tiến tới xâm phạm tâm và can, có thể\nxuất hiện chứng trạng nhiệt nhập tâm bào và nhiệt động can phong.",
+      "confidence": 0.9978653432093193
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0340_021_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          3069
+        ],
+        [
+          1968,
+          3069
+        ],
+        [
+          1968,
+          3122
+        ],
+        [
+          343,
+          3122
+        ]
+      ],
+      "score": 0.6797176599502563,
+      "y_pos": 3069,
+      "text": "a. Bệnh doanh phần (nhiệt tại doanh phần, nhiệt nhập doanh phần)",
+      "confidence": 0.9995326255307053
+    },
+    {
+      "type": "footer",
+      "img_path": "p0340_017_footer.png",
+      "bbox": [
+        [
+          229,
+          3337
+        ],
+        [
+          1343,
+          3337
+        ],
+        [
+          1343,
+          3385
+        ],
+        [
+          229,
+          3385
+        ]
+      ],
+      "score": 0.9037311673164368,
+      "y_pos": 3337,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.998581662492932
+    },
+    {
+      "type": "number",
+      "img_path": "p0340_020_number.png",
+      "bbox": [
+        [
+          2321,
+          3340
+        ],
+        [
+          2344,
+          3340
+        ],
+        [
+          2344,
+          3373
+        ],
+        [
+          2321,
+          3373
+        ]
+      ],
+      "score": 0.8024911880493164,
+      "y_pos": 3340,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0340.png"
+}

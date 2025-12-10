@@ -1,0 +1,162 @@
+{
+  "page_num": 501,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0501_001_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9195219874382019,
+      "y_pos": 143,
+      "text": "~?    ~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6602049969018452
+    },
+    {
+      "type": "header",
+      "img_path": "p0501_002_header.png",
+      "bbox": [
+        [
+          230,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          199
+        ],
+        [
+          230,
+          199
+        ]
+      ],
+      "score": 0.9192743301391602,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.995639579800459
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0501_004_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          330
+        ],
+        [
+          532,
+          330
+        ],
+        [
+          532,
+          376
+        ],
+        [
+          227,
+          376
+        ]
+      ],
+      "score": 0.8978152275085449,
+      "y_pos": 330,
+      "text": "70. Đảo kinh",
+      "confidence": 0.8952775171824864
+    },
+    {
+      "type": "text",
+      "img_path": "p0501_000_text.png",
+      "bbox": [
+        [
+          224,
+          418
+        ],
+        [
+          2261,
+          418
+        ],
+        [
+          2261,
+          658
+        ],
+        [
+          224,
+          658
+        ]
+      ],
+      "score": 0.9449539184570312,
+      "y_pos": 418,
+      "text": "Đảo kinh là đàn bà không có hành kinh, mà định kỳ phát sinh chảy máu mũi hoặc thổ huyết.\nCách chữa: Lấy huyệt Thượng tinh, Cách du, Xích trạch, Nghinh hương, Tỳ du.\nĐều dùng châm. Tốt nhất là châm trước kỳ hành kinh.",
+      "confidence": 0.9942156919014201
+    },
+    {
+      "type": "number",
+      "img_path": "p0501_005_number.png",
+      "bbox": [
+        [
+          2304,
+          3300
+        ],
+        [
+          2352,
+          3300
+        ],
+        [
+          2352,
+          3335
+        ],
+        [
+          2304,
+          3335
+        ]
+      ],
+      "score": 0.8653149604797363,
+      "y_pos": 3300,
+      "text": "    \n            \n        \n\n        \n    \n.\n    \n",
+      "confidence": 0.9693725995327297
+    },
+    {
+      "type": "footer",
+      "img_path": "p0501_003_footer.png",
+      "bbox": [
+        [
+          229,
+          3310
+        ],
+        [
+          1324,
+          3310
+        ],
+        [
+          1324,
+          3355
+        ],
+        [
+          229,
+          3355
+        ]
+      ],
+      "score": 0.9007217288017273,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985551654167895
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0501.png"
+}

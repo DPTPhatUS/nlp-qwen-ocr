@@ -1,0 +1,472 @@
+{
+  "page_num": 606,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0606_003_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9294062256813049,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0606_005_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9277527928352356,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0606_015_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          330
+        ],
+        [
+          1186,
+          330
+        ],
+        [
+          1186,
+          382
+        ],
+        [
+          225,
+          382
+        ]
+      ],
+      "score": 0.8954024314880371,
+      "y_pos": 330,
+      "text": "Cách vận hành máy đo nhiệt độ kinh lạc",
+      "confidence": 0.9673234492540359
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0606_016_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          421
+        ],
+        [
+          600,
+          421
+        ],
+        [
+          600,
+          472
+        ],
+        [
+          226,
+          472
+        ]
+      ],
+      "score": 0.8903764486312866,
+      "y_pos": 421,
+      "text": "1. Các loại máy",
+      "confidence": 0.8825980670311872
+    },
+    {
+      "type": "text",
+      "img_path": "p0606_007_text.png",
+      "bbox": [
+        [
+          300,
+          512
+        ],
+        [
+          1049,
+          512
+        ],
+        [
+          1049,
+          559
+        ],
+        [
+          300,
+          559
+        ]
+      ],
+      "score": 0.927483320236206,
+      "y_pos": 512,
+      "text": "Máv: TM – 60 made in USSR.",
+      "confidence": 0.940034915293966
+    },
+    {
+      "type": "text",
+      "img_path": "p0606_009_text.png",
+      "bbox": [
+        [
+          301,
+          605
+        ],
+        [
+          1021,
+          605
+        ],
+        [
+          1021,
+          651
+        ],
+        [
+          301,
+          651
+        ]
+      ],
+      "score": 0.9245677590370178,
+      "y_pos": 605,
+      "text": "Máv: TM – 1 made in USSR.",
+      "confidence": 0.9195776846673753
+    },
+    {
+      "type": "text",
+      "img_path": "p0606_004_text.png",
+      "bbox": [
+        [
+          302,
+          696
+        ],
+        [
+          704,
+          696
+        ],
+        [
+          704,
+          743
+        ],
+        [
+          302,
+          743
+        ]
+      ],
+      "score": 0.9283794164657593,
+      "y_pos": 696,
+      "text": "Máy: NR – 02.",
+      "confidence": 0.8954988797505696
+    },
+    {
+      "type": "text",
+      "img_path": "p0606_006_text.png",
+      "bbox": [
+        [
+          302,
+          788
+        ],
+        [
+          774,
+          788
+        ],
+        [
+          774,
+          834
+        ],
+        [
+          302,
+          834
+        ]
+      ],
+      "score": 0.9277034401893616,
+      "y_pos": 788,
+      "text": "Máv: MDN – 568.",
+      "confidence": 0.9273109295788933
+    },
+    {
+      "type": "text",
+      "img_path": "p0606_010_text.png",
+      "bbox": [
+        [
+          300,
+          881
+        ],
+        [
+          743,
+          881
+        ],
+        [
+          743,
+          927
+        ],
+        [
+          300,
+          927
+        ]
+      ],
+      "score": 0.9189689755439758,
+      "y_pos": 881,
+      "text": "Máv: ABM – Bs.",
+      "confidence": 0.9314086437225342
+    },
+    {
+      "type": "text",
+      "img_path": "p0606_011_text.png",
+      "bbox": [
+        [
+          285,
+          973
+        ],
+        [
+          1373,
+          973
+        ],
+        [
+          1373,
+          1023
+        ],
+        [
+          285,
+          1023
+        ]
+      ],
+      "score": 0.9148641228675842,
+      "y_pos": 973,
+      "text": "Hoặc các loại máy có cùng công dụng tính năng.",
+      "confidence": 0.9757546273370584
+    },
+    {
+      "type": "image",
+      "img_path": "p0606_000_image.png",
+      "bbox": [
+        [
+          700,
+          1044
+        ],
+        [
+          1892,
+          1044
+        ],
+        [
+          1892,
+          1986
+        ],
+        [
+          700,
+          1986
+        ]
+      ],
+      "score": 0.9847153425216675,
+      "y_pos": 1044
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0606_012_figure_title.png",
+      "bbox": [
+        [
+          829,
+          2029
+        ],
+        [
+          1758,
+          2029
+        ],
+        [
+          1758,
+          2073
+        ],
+        [
+          829,
+          2073
+        ]
+      ],
+      "score": 0.9126983880996704,
+      "y_pos": 2029,
+      "text": "Hình 142. Ba thể hệ máy đo nhiệt độ kinh lạc",
+      "confidence": 0.5706749001274938
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0606_013_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          2116
+        ],
+        [
+          708,
+          2116
+        ],
+        [
+          708,
+          2164
+        ],
+        [
+          224,
+          2164
+        ]
+      ],
+      "score": 0.9112086892127991,
+      "y_pos": 2116,
+      "text": "2. Các thao tác máy",
+      "confidence": 0.9158123078800383
+    },
+    {
+      "type": "text",
+      "img_path": "p0606_008_text.png",
+      "bbox": [
+        [
+          298,
+          2206
+        ],
+        [
+          1950,
+          2206
+        ],
+        [
+          1950,
+          2260
+        ],
+        [
+          298,
+          2260
+        ]
+      ],
+      "score": 0.926295280456543,
+      "y_pos": 2206,
+      "text": "Kiếm tra nguồn điện (pin, hoặc biển thể, nắn dòng), đặt máy cân bằng.",
+      "confidence": 0.8920318282825846
+    },
+    {
+      "type": "text",
+      "img_path": "p0606_002_text.png",
+      "bbox": [
+        [
+          299,
+          2298
+        ],
+        [
+          2360,
+          2298
+        ],
+        [
+          2360,
+          2418
+        ],
+        [
+          299,
+          2418
+        ]
+      ],
+      "score": 0.9629543423652649,
+      "y_pos": 2298,
+      "text": "\n    Bật công tắc mở máy, điều chỉnh chuẩn kim (tuỳ theo từng loại máy có hướng dẫn riêng)\n\nsau đó tắt máy.",
+      "confidence": 0.9926120439138625
+    },
+    {
+      "type": "text",
+      "img_path": "p0606_001_text.png",
+      "bbox": [
+        [
+          300,
+          2458
+        ],
+        [
+          2357,
+          2458
+        ],
+        [
+          2357,
+          2652
+        ],
+        [
+          300,
+          2652
+        ]
+      ],
+      "score": 0.9729093313217163,
+      "y_pos": 2458,
+      "text": "\n    Khi đo, tay trái cầm cần đo đặt vào huyệt, để điểm đầu cần đo có diện tiếp xúc tốt nhất,\n\ntay phải mở máy theo dõi kim chỉ nhiệt độ cho tới khi nào kim dừng hẳn hoặc số ngừng\nnhảy thì đọc số.",
+      "confidence": 0.9934786309400004
+    },
+    {
+      "type": "number",
+      "img_path": "p0606_017_number.png",
+      "bbox": [
+        [
+          2330,
+          3339
+        ],
+        [
+          2353,
+          3339
+        ],
+        [
+          2353,
+          3373
+        ],
+        [
+          2330,
+          3373
+        ]
+      ],
+      "score": 0.8097239136695862,
+      "y_pos": 3339,
+      "text": "\n\n\n    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0606_014_footer.png",
+      "bbox": [
+        [
+          229,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3388
+        ],
+        [
+          229,
+          3388
+        ]
+      ],
+      "score": 0.9093570709228516,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9385194609749992
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0606.png"
+}

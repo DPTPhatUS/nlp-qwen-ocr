@@ -1,0 +1,760 @@
+{
+  "page_num": 556,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0556_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2371,
+          144
+        ],
+        [
+          2371,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9215916395187378,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7566693045553707
+    },
+    {
+      "type": "header",
+      "img_path": "p0556_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1468,
+          152
+        ],
+        [
+          1468,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9246882200241089,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TÂN. KỲ HUYỆT",
+      "confidence": 0.9977769827842713
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0556_028_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          324
+        ],
+        [
+          1193,
+          324
+        ],
+        [
+          1193,
+          387
+        ],
+        [
+          228,
+          387
+        ]
+      ],
+      "score": 0.5054723024368286,
+      "y_pos": 324,
+      "text": "Phần 4. BỆNH HẦU HỌNG, MIỆNG LƯỚI",
+      "confidence": 0.9959768159048897
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_026_reference_content.png",
+      "bbox": [
+        [
+          232,
+          507
+        ],
+        [
+          1061,
+          507
+        ],
+        [
+          1061,
+          571
+        ],
+        [
+          232,
+          571
+        ]
+      ],
+      "score": 0.5426344275474548,
+      "y_pos": 507,
+      "text": "56. Viêm hầu họng: Biển đào, Á ô.",
+      "confidence": 0.9911465866225107
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_014_reference_content.png",
+      "bbox": [
+        [
+          233,
+          599
+        ],
+        [
+          1538,
+          599
+        ],
+        [
+          1538,
+          667
+        ],
+        [
+          233,
+          667
+        ]
+      ],
+      "score": 0.6264041066169739,
+      "y_pos": 599,
+      "text": "57. Viêm họng cấp mạn: Thượng Liêm tuyền, Hồng âm.",
+      "confidence": 0.9991339147090912
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_019_reference_content.png",
+      "bbox": [
+        [
+          232,
+          692
+        ],
+        [
+          1834,
+          692
+        ],
+        [
+          1834,
+          758
+        ],
+        [
+          232,
+          758
+        ]
+      ],
+      "score": 0.6169990301132202,
+      "y_pos": 692,
+      "text": "58. Viêm họng: Nội Nghinh hương, Hạ Phù đột, Thất cảnh chùy bàng.",
+      "confidence": 0.9998303295961067
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_015_reference_content.png",
+      "bbox": [
+        [
+          232,
+          784
+        ],
+        [
+          1711,
+          784
+        ],
+        [
+          1711,
+          849
+        ],
+        [
+          232,
+          849
+        ]
+      ],
+      "score": 0.6207581162452698,
+      "y_pos": 784,
+      "text": "59. Đau họng: Bát tà, Thượng Bát tà, Lạc chẩm, Tiểu cốt không.",
+      "confidence": 0.9997502565383911
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_022_reference_content.png",
+      "bbox": [
+        [
+          231,
+          876
+        ],
+        [
+          933,
+          876
+        ],
+        [
+          933,
+          940
+        ],
+        [
+          231,
+          940
+        ]
+      ],
+      "score": 0.5804963707923889,
+      "y_pos": 876,
+      "text": "60. Đau hầu họng: Tân thức.",
+      "confidence": 0.9875034032196834
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_004_reference_content.png",
+      "bbox": [
+        [
+          230,
+          968
+        ],
+        [
+          2363,
+          968
+        ],
+        [
+          2363,
+          1102
+        ],
+        [
+          230,
+          1102
+        ]
+      ],
+      "score": 0.7561447024345398,
+      "y_pos": 968,
+      "text": "61. Viêm amiđan (amygdale): Thất cảnh chùy bàng, Nội khỏa tiêm, Kim tân, Ngọc dịch, Bản\nmôn, Bàng Lao cung, Minh nhỡn, Tam thương, Biển đào.",
+      "confidence": 0.9353064924503335
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_009_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1129
+        ],
+        [
+          2091,
+          1129
+        ],
+        [
+          2091,
+          1195
+        ],
+        [
+          231,
+          1195
+        ]
+      ],
+      "score": 0.6639713048934937,
+      "y_pos": 1129,
+      "text": "62. Bệnh ở thanh đới: Hồng âm, Á huyệt, Bàng liêm tuyền, Cường âm, Tăng âm.",
+      "confidence": 0.9982314133024836
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_007_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1222
+        ],
+        [
+          1557,
+          1222
+        ],
+        [
+          1557,
+          1290
+        ],
+        [
+          232,
+          1290
+        ]
+      ],
+      "score": 0.6827734112739563,
+      "y_pos": 1222,
+      "text": "63. Trúng gió mất tiếng: Ngoại kim tân, Ngoại ngọc dịch.",
+      "confidence": 0.9996785480400612
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_008_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1315
+        ],
+        [
+          1267,
+          1315
+        ],
+        [
+          1267,
+          1380
+        ],
+        [
+          233,
+          1380
+        ]
+      ],
+      "score": 0.6732642650604248,
+      "y_pos": 1315,
+      "text": "64. Tiếng nói không rõ: Thượng liêm tuyền.",
+      "confidence": 0.9988525767217983
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_013_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1406
+        ],
+        [
+          1083,
+          1406
+        ],
+        [
+          1083,
+          1470
+        ],
+        [
+          232,
+          1470
+        ]
+      ],
+      "score": 0.6323230862617493,
+      "y_pos": 1406,
+      "text": "65. Mất tiếng: Cường âm, Tăng âm.",
+      "confidence": 0.9993055428777422
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_010_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1496
+        ],
+        [
+          1626,
+          1496
+        ],
+        [
+          1626,
+          1564
+        ],
+        [
+          232,
+          1564
+        ]
+      ],
+      "score": 0.6478945016860962,
+      "y_pos": 1496,
+      "text": "66. Câm: Cường âm, Tăng âm, Thượng Liêm tuyền, Á huyệt.",
+      "confidence": 0.9987959485304984
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_012_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1589
+        ],
+        [
+          1291,
+          1589
+        ],
+        [
+          1291,
+          1654
+        ],
+        [
+          233,
+          1654
+        ]
+      ],
+      "score": 0.6413185596466064,
+      "y_pos": 1589,
+      "text": "67. Viêm lưỡi: Hải tuyền, Kim tân, Ngọc dịch.",
+      "confidence": 0.8560754529973293
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_018_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1681
+        ],
+        [
+          1090,
+          1681
+        ],
+        [
+          1090,
+          1745
+        ],
+        [
+          232,
+          1745
+        ]
+      ],
+      "score": 0.618564248085022,
+      "y_pos": 1681,
+      "text": "68. Lưỡi sưng to: Bàng Liêm tuyền.",
+      "confidence": 0.9993018143706851
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_021_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1773
+        ],
+        [
+          835,
+          1773
+        ],
+        [
+          835,
+          1836
+        ],
+        [
+          232,
+          1836
+        ]
+      ],
+      "score": 0.5906544327735901,
+      "y_pos": 1773,
+      "text": "69. Lưỡi nặng: Thiệt trụ.",
+      "confidence": 0.9981549889953049
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_011_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1864
+        ],
+        [
+          1657,
+          1864
+        ],
+        [
+          1657,
+          1929
+        ],
+        [
+          233,
+          1929
+        ]
+      ],
+      "score": 0.6462506055831909,
+      "y_pos": 1864,
+      "text": "70. Cơ lưỡi tê bại: Tụ tuyền, Ngoại Kim tân, Ngoại Ngọc dịch.",
+      "confidence": 0.9418436099612524
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_024_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1955
+        ],
+        [
+          856,
+          1955
+        ],
+        [
+          856,
+          2017
+        ],
+        [
+          233,
+          2017
+        ]
+      ],
+      "score": 0.563610315322876,
+      "y_pos": 1955,
+      "text": "71. Viêm lợi răng: Nữ tất.",
+      "confidence": 0.9977820941380092
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_020_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2048
+        ],
+        [
+          1065,
+          2048
+        ],
+        [
+          1065,
+          2111
+        ],
+        [
+          233,
+          2111
+        ]
+      ],
+      "score": 0.6027267575263977,
+      "y_pos": 2048,
+      "text": "72. Lợi răng có mủ: Vị nhiệt huyệt.",
+      "confidence": 0.9984530194385631
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_023_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2141
+        ],
+        [
+          946,
+          2141
+        ],
+        [
+          946,
+          2203
+        ],
+        [
+          233,
+          2203
+        ]
+      ],
+      "score": 0.5751914381980896,
+      "y_pos": 2141,
+      "text": "73. Loét chân răng: Giáp nội.",
+      "confidence": 0.9840859578501794
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_006_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2231
+        ],
+        [
+          2358,
+          2231
+        ],
+        [
+          2358,
+          2364
+        ],
+        [
+          231,
+          2364
+        ]
+      ],
+      "score": 0.6966687440872192,
+      "y_pos": 2231,
+      "text": "74. Viêm vòm miệng: Thủ trung bình, Nội Dương trì, Ngoại Kim tân, Ngoại Ngọc dịch,\nThượng Liêm tuyền.",
+      "confidence": 0.9992195777949833
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_017_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2393
+        ],
+        [
+          1722,
+          2393
+        ],
+        [
+          1722,
+          2457
+        ],
+        [
+          232,
+          2457
+        ]
+      ],
+      "score": 0.6194283366203308,
+      "y_pos": 2393,
+      "text": "75. Loét vòm miệng: Kim tân, Ngọc dịch, Giáp nội, Khiên chính.",
+      "confidence": 0.9871773319318891
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_027_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2485
+        ],
+        [
+          1042,
+          2485
+        ],
+        [
+          1042,
+          2549
+        ],
+        [
+          233,
+          2549
+        ]
+      ],
+      "score": 0.5413460731506348,
+      "y_pos": 2485,
+      "text": "76. Chảy dãi: Thượng Liêm tuyền.",
+      "confidence": 0.999383279505898
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_005_reference_content.png",
+      "bbox": [
+        [
+          230,
+          2577
+        ],
+        [
+          2359,
+          2577
+        ],
+        [
+          2359,
+          2709
+        ],
+        [
+          230,
+          2709
+        ]
+      ],
+      "score": 0.7120732069015503,
+      "y_pos": 2577,
+      "text": "77. Đau răng: Thống linh, Nha thống, Bát phong, Thượng Bát phong, Bát tà, Thượng Bát tà\nNội khỏa tiêm, Dung hậu, Châu đỉnh, Trạch hạ, Bàng lao cung, Ngoại khỏa tiêm.",
+      "confidence": 0.9996815493589715
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_025_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2830
+        ],
+        [
+          1094,
+          2830
+        ],
+        [
+          1094,
+          2892
+        ],
+        [
+          233,
+          2892
+        ]
+      ],
+      "score": 0.5508983135223389,
+      "y_pos": 2830,
+      "text": "79. Đau răng hàm dưới: Hạ Ôn lưu.",
+      "confidence": 0.9990939242499215
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0556_016_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2923
+        ],
+        [
+          1689,
+          2923
+        ],
+        [
+          1689,
+          2986
+        ],
+        [
+          231,
+          2986
+        ]
+      ],
+      "score": 0.6200677156448364,
+      "y_pos": 2923,
+      "text": "80. Viêm xoang hàm: Tam trì, Tỵ thông, Sơn căn, Ngạch trung.",
+      "confidence": 0.9919446264543841
+    },
+    {
+      "type": "number",
+      "img_path": "p0556_003_number.png",
+      "bbox": [
+        [
+          2343,
+          3339
+        ],
+        [
+          2368,
+          3339
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2343,
+          3374
+        ]
+      ],
+      "score": 0.8347635865211487,
+      "y_pos": 3339,
+      "text": "\n\n\n                \n        \n\n۰\n\n\n",
+      "confidence": 0.968560897745192
+    },
+    {
+      "type": "footer",
+      "img_path": "p0556_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1324,
+          3340
+        ],
+        [
+          1324,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.9164989590644836,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9988329028183559
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0556.png"
+}

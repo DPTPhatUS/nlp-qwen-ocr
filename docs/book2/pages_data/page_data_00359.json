@@ -1,0 +1,396 @@
+{
+  "page_num": 359,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0359_007_header.png",
+      "bbox": [
+        [
+          1679,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1679,
+          196
+        ]
+      ],
+      "score": 0.9203663468360901,
+      "y_pos": 142,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7503989594323295
+    },
+    {
+      "type": "header",
+      "img_path": "p0359_013_header.png",
+      "bbox": [
+        [
+          229,
+          146
+        ],
+        [
+          1095,
+          146
+        ],
+        [
+          1095,
+          197
+        ],
+        [
+          229,
+          197
+        ]
+      ],
+      "score": 0.8975253701210022,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SÀNG",
+      "confidence": 0.9886094519070217
+    },
+    {
+      "type": "table",
+      "img_path": "p0359_000_table.png",
+      "bbox": [
+        [
+          232,
+          292
+        ],
+        [
+          2361,
+          292
+        ],
+        [
+          2361,
+          1111
+        ],
+        [
+          232,
+          1111
+        ]
+      ],
+      "score": 0.9883298873901367,
+      "y_pos": 292,
+      "text": "Khối u ác tính, bệnh máu trắng | (1) Quá trình bệnh phần nhiều kéo dài.\n(Leucose)    (2) Gầy sút rất nhanh, hoặc thiếu máu rõ rệt.\n(3) Sưng to tất cả các hạch toàn thân, hoặc kèm gan, lách sưng\nto.\n(4) Ấn những khối u có thể có chứng trạng tương ứng với thể\nchứng.\nCác chứng phong thấp, say nắng,    Tham khảo các bệnh ở thiên chuyên về các bệnh tật đó.\nngoại tà gây bệnh cấp tính ổ bụng,\nchứng bại huyết (nhiễm trùng\nhuyết).",
+      "confidence": 0.9899198216078173
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0359_006_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1147
+        ],
+        [
+          558,
+          1147
+        ],
+        [
+          558,
+          1192
+        ],
+        [
+          227,
+          1192
+        ]
+      ],
+      "score": 0.9204038977622986,
+      "y_pos": 1147,
+      "text": "C. Cách chữa",
+      "confidence": 0.8865109937531608
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0359_010_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1236
+        ],
+        [
+          627,
+          1236
+        ],
+        [
+          627,
+          1290
+        ],
+        [
+          227,
+          1290
+        ]
+      ],
+      "score": 0.9107216596603394,
+      "y_pos": 1236,
+      "text": "1. Xử lý cấp cứu",
+      "confidence": 0.923014415635003
+    },
+    {
+      "type": "text",
+      "img_path": "p0359_003_text.png",
+      "bbox": [
+        [
+          222,
+          1327
+        ],
+        [
+          2358,
+          1327
+        ],
+        [
+          2358,
+          1524
+        ],
+        [
+          222,
+          1524
+        ]
+      ],
+      "score": 0.9748982787132263,
+      "y_pos": 1327,
+      "text": "a. Để người bệnh nghỉ ngơi trên giường, cho uống thật nhiều nước, khi cần thiết có thể truyền\ntĩnh mạch, dùng khăn thấm nước lạnh (nơi có điều kiện, có thể dùng nước đá) đắp lên trán.\nđầu, dưới nách và rãnh háng để làm giảm thân nhiệt.",
+      "confidence": 0.998548542518053
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0359_012_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1562
+        ],
+        [
+          774,
+          1562
+        ],
+        [
+          774,
+          1610
+        ],
+        [
+          227,
+          1610
+        ]
+      ],
+      "score": 0.9036341309547424,
+      "y_pos": 1562,
+      "text": "b. Châm cứu để chữa:",
+      "confidence": 0.9244800237092105
+    },
+    {
+      "type": "text",
+      "img_path": "p0359_004_text.png",
+      "bbox": [
+        [
+          221,
+          1652
+        ],
+        [
+          2359,
+          1652
+        ],
+        [
+          2359,
+          1777
+        ],
+        [
+          221,
+          1777
+        ]
+      ],
+      "score": 0.9654093384742737,
+      "y_pos": 1652,
+      "text": "Thể châm: Đại chuỳ, Khúc trì, Thiếu thương, Thương dương (chích máu). Nếu không có mồ hôi\nthì gia <i>Hợp cốc</i>, có mồ hôi thì gia <i>Gian sử</i>.",
+      "confidence": 0.9941713457672712
+    },
+    {
+      "type": "text",
+      "img_path": "p0359_008_text.png",
+      "bbox": [
+        [
+          223,
+          1816
+        ],
+        [
+          2279,
+          1816
+        ],
+        [
+          2279,
+          1869
+        ],
+        [
+          223,
+          1869
+        ]
+      ],
+      "score": 0.9127912521362305,
+      "y_pos": 1816,
+      "text": "Nhĩ châm: Nhĩ tiêm, Bình tiêm (nặn 3 - 5 giọt máu), Bì chất hạ, Thần môn (lưu kim 60 phút).",
+      "confidence": 0.6509995787374435
+    },
+    {
+      "type": "text",
+      "img_path": "p0359_002_text.png",
+      "bbox": [
+        [
+          221,
+          1907
+        ],
+        [
+          2361,
+          1907
+        ],
+        [
+          2361,
+          2102
+        ],
+        [
+          221,
+          2102
+        ]
+      ],
+      "score": 0.9767588376998901,
+      "y_pos": 1907,
+      "text": "Thủy châm: Lấy các huyệt Đại chuỳ, Khúc trì, Hợp cốc. Mỗi lần chọn dùng hai huyệt, (Hợp cốc\nhoặc Khúc trì khi dùng riêng thì lấy cả hai bên, khi phối hợp với các cách châm khác thì dùng\nmột bên). Mỗi huyệt tiêm 0,1 - 0,2cm<sup>3</sup>.",
+      "confidence": 0.9846705279487585
+    },
+    {
+      "type": "text",
+      "img_path": "p0359_001_text.png",
+      "bbox": [
+        [
+          222,
+          2140
+        ],
+        [
+          2360,
+          2140
+        ],
+        [
+          2360,
+          2407
+        ],
+        [
+          222,
+          2407
+        ]
+      ],
+      "score": 0.9815225601196289,
+      "y_pos": 2140,
+      "text": "c. Dùng thuốc một vị: Rượu hành để chườm, dùng thích hợp với trẻ em sốt cao. Dùng rượu\nđốt được (50 - 60 độ), đổ vào bát, thêm 4 - 5 củ hành trắng đã bóc sạch, đem đốt. Đợi lửa ngọn\nleo đến miệng bát thì thổi tắt ngay, sau đó lấy khăn tẩm rượu còn hơi nóng đó lần lượt lau chùi\nở ngực, lưng, đau, cổ và tứ chi, cho đến khi da dẻ hơi đỏ lên thì thôi. Ngày làm vài ba lần.",
+      "confidence": 0.9961930768675596
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0359_009_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          2445
+        ],
+        [
+          1216,
+          2445
+        ],
+        [
+          1216,
+          2499
+        ],
+        [
+          224,
+          2499
+        ]
+      ],
+      "score": 0.9120185375213623,
+      "y_pos": 2445,
+      "text": "2. Biện chứng thí trị (điều trị theo chứng)",
+      "confidence": 0.9029917862680223
+    },
+    {
+      "type": "text",
+      "img_path": "p0359_005_text.png",
+      "bbox": [
+        [
+          221,
+          2536
+        ],
+        [
+          2358,
+          2536
+        ],
+        [
+          2358,
+          2661
+        ],
+        [
+          221,
+          2661
+        ]
+      ],
+      "score": 0.9605897068977356,
+      "y_pos": 2536,
+      "text": "Xem phần: Cách chữa một số bệnh thường gặp bằng châm cứu, và phần: Tạng phủ biện\nchứng luận trị.",
+      "confidence": 0.9926087675853986
+    },
+    {
+      "type": "number",
+      "img_path": "p0359_014_number.png",
+      "bbox": [
+        [
+          2332,
+          3336
+        ],
+        [
+          2357,
+          3336
+        ],
+        [
+          2357,
+          3372
+        ],
+        [
+          2332,
+          3372
+        ]
+      ],
+      "score": 0.8259415626525879,
+      "y_pos": 3336,
+      "text": "\n    \n    \n\n    \n\n\n\n    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0359_011_footer.png",
+      "bbox": [
+        [
+          229,
+          3337
+        ],
+        [
+          1343,
+          3337
+        ],
+        [
+          1343,
+          3383
+        ],
+        [
+          229,
+          3383
+        ]
+      ],
+      "score": 0.9101709723472595,
+      "y_pos": 3337,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9302394480075477
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0359.png"
+}

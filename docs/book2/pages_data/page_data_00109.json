@@ -1,0 +1,394 @@
+{
+  "page_num": 109,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0109_005_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2372,
+          142
+        ],
+        [
+          2372,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9260570406913757,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7447965074153173
+    },
+    {
+      "type": "header",
+      "img_path": "p0109_010_header.png",
+      "bbox": [
+        [
+          230,
+          154
+        ],
+        [
+          601,
+          154
+        ],
+        [
+          601,
+          199
+        ],
+        [
+          230,
+          199
+        ]
+      ],
+      "score": 0.9133105874061584,
+      "y_pos": 154,
+      "text": "CÁCH CHÂM CỬU",
+      "confidence": 0.9794526934623718
+    },
+    {
+      "type": "image",
+      "img_path": "p0109_014_image.png",
+      "bbox": [
+        [
+          568,
+          378
+        ],
+        [
+          2039,
+          378
+        ],
+        [
+          2039,
+          919
+        ],
+        [
+          568,
+          919
+        ]
+      ],
+      "score": 0.7371966242790222,
+      "y_pos": 378
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0109_013_figure_title.png",
+      "bbox": [
+        [
+          1013,
+          1042
+        ],
+        [
+          1573,
+          1042
+        ],
+        [
+          1573,
+          1089
+        ],
+        [
+          1013,
+          1089
+        ]
+      ],
+      "score": 0.7979729771614075,
+      "y_pos": 1042,
+      "text": "Hình 26. Góc đô châm kim",
+      "confidence": 0.8129593088076665
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0109_006_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          1130
+        ],
+        [
+          657,
+          1130
+        ],
+        [
+          657,
+          1181
+        ],
+        [
+          285,
+          1181
+        ]
+      ],
+      "score": 0.9236937761306763,
+      "y_pos": 1130,
+      "text": "3. Châm ngang",
+      "confidence": 0.9208082795143128
+    },
+    {
+      "type": "text",
+      "img_path": "p0109_004_text.png",
+      "bbox": [
+        [
+          337,
+          1220
+        ],
+        [
+          2359,
+          1220
+        ],
+        [
+          2359,
+          1346
+        ],
+        [
+          337,
+          1346
+        ]
+      ],
+      "score": 0.9649560451507568,
+      "y_pos": 1220,
+      "text": "Cũng gọi là châm dưới da, là thân kim để nằm ngang với mặt da mà châm. Cách châm\nnày thường sử dụng ở huyệt vị trên mặt và một số tạng khí trọng yếu.",
+      "confidence": 0.9997604324115693
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0109_008_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1388
+        ],
+        [
+          989,
+          1388
+        ],
+        [
+          989,
+          1435
+        ],
+        [
+          225,
+          1435
+        ]
+      ],
+      "score": 0.9208942651748657,
+      "y_pos": 1388,
+      "text": "Đ. Cách châm hào kim (hào châm)",
+      "confidence": 0.6940263347192244
+    },
+    {
+      "type": "text",
+      "img_path": "p0109_007_text.png",
+      "bbox": [
+        [
+          282,
+          1474
+        ],
+        [
+          1939,
+          1474
+        ],
+        [
+          1939,
+          1528
+        ],
+        [
+          282,
+          1528
+        ]
+      ],
+      "score": 0.9231956601142883,
+      "y_pos": 1474,
+      "text": "Cách tiến kim. Tiến kim cũng gọi là vào kim, có ba cách rất thông thường:",
+      "confidence": 0.9951142851511637
+    },
+    {
+      "type": "text",
+      "img_path": "p0109_009_text.png",
+      "bbox": [
+        [
+          285,
+          1566
+        ],
+        [
+          1704,
+          1566
+        ],
+        [
+          1704,
+          1616
+        ],
+        [
+          285,
+          1616
+        ]
+      ],
+      "score": 0.9159398674964905,
+      "y_pos": 1566,
+      "text": "1. Cách vê vào: Là một cách rất thông thường đối với hào kim.",
+      "confidence": 0.8805273903740777
+    },
+    {
+      "type": "text",
+      "img_path": "p0109_003_text.png",
+      "bbox": [
+        [
+          330,
+          1659
+        ],
+        [
+          2358,
+          1659
+        ],
+        [
+          2358,
+          1854
+        ],
+        [
+          330,
+          1854
+        ]
+      ],
+      "score": 0.9709727168083191,
+      "y_pos": 1659,
+      "text": "Dùng ngón tay phải giữ cán kim, mũi kim nhằm đúng chỗ huyệt, nhè nhẹ đặt vào da, dùng\náp lực làm cho mũi kim đâm vào biểu bì, sau đó từ từ vê kim xuống. Cách vê này cần dựa\nvào tay trái phối hợp, thao tác của tay trái như sau (H27)",
+      "confidence": 0.9944192764273051
+    },
+    {
+      "type": "text",
+      "img_path": "p0109_001_text.png",
+      "bbox": [
+        [
+          285,
+          1890
+        ],
+        [
+          2358,
+          1890
+        ],
+        [
+          2358,
+          2086
+        ],
+        [
+          285,
+          2086
+        ]
+      ],
+      "score": 0.975458562374115,
+      "y_pos": 1890,
+      "text": "a. Áp một ngón cái: Đầu ngón cái tay tría áp lên huyệt vị định châm, tay phải cầm kim, mũi\nkim dựa và móng ngón tay cái mà đâm vào huyệt và vê tiến kim xuống. Cách này hợp với\nchâm kim ngắn như châm huyệt Hợp cốc, Liệt khuyết.",
+      "confidence": 0.9977857328296335
+    },
+    {
+      "type": "text",
+      "img_path": "p0109_000_text.png",
+      "bbox": [
+        [
+          284,
+          2121
+        ],
+        [
+          2359,
+          2121
+        ],
+        [
+          2359,
+          2392
+        ],
+        [
+          284,
+          2392
+        ]
+      ],
+      "score": 0.9814745187759399,
+      "y_pos": 2121,
+      "text": "b. Áp hai ngón tay: Trước hết là cầm bằng hai ngón taycái và trỏ của tay trái kẹp lấy phía\ntrên mũi kim một ít, nhằm vào huyệt vị, ngón tay phải cầm cán kim, sau đó hai ngón tay\ncái, trỏ tay trái ấn xuống một cái, đồng thời tay phải đưa mũi kim sâu vào huyệt vị rồi vê\nkim tiến xuống. Cách châm này hợp với kim dài châm ở huyệt hoàn khiêu, túc tam lý...",
+      "confidence": 0.9989181688891438
+    },
+    {
+      "type": "text",
+      "img_path": "p0109_002_text.png",
+      "bbox": [
+        [
+          285,
+          2428
+        ],
+        [
+          2359,
+          2428
+        ],
+        [
+          2359,
+          2624
+        ],
+        [
+          285,
+          2624
+        ]
+      ],
+      "score": 0.9750152230262756,
+      "y_pos": 2428,
+      "text": "c. Áp kẹp hai ngón tay giữ huyệt: Những nơi da thịt rất mỏng như huyệt ấn đường, hoặc\nhuyệt nhân trung ở mặt khi tiến kim thì dùng hai ngón tay trỏ, cái tay trái bóp da chỗ huyệt\nvị lại cho lồi lên, tay phải châm kim vào.",
+      "confidence": 0.9990444082600546
+    },
+    {
+      "type": "footer",
+      "img_path": "p0109_011_footer.png",
+      "bbox": [
+        [
+          229,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          229,
+          3387
+        ]
+      ],
+      "score": 0.9084516763687134,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982608286839612
+    },
+    {
+      "type": "number",
+      "img_path": "p0109_012_number.png",
+      "bbox": [
+        [
+          2296,
+          3341
+        ],
+        [
+          2320,
+          3341
+        ],
+        [
+          2320,
+          3376
+        ],
+        [
+          2296,
+          3376
+        ]
+      ],
+      "score": 0.8079776167869568,
+      "y_pos": 3341,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0109.png"
+}

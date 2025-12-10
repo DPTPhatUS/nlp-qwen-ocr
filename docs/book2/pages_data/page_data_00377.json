@@ -1,0 +1,474 @@
+{
+  "page_num": 377,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0377_006_header.png",
+      "bbox": [
+        [
+          1679,
+          141
+        ],
+        [
+          2368,
+          141
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1679,
+          196
+        ]
+      ],
+      "score": 0.9153264164924622,
+      "y_pos": 141,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7868651009741283
+    },
+    {
+      "type": "header",
+      "img_path": "p0377_009_header.png",
+      "bbox": [
+        [
+          230,
+          146
+        ],
+        [
+          1095,
+          146
+        ],
+        [
+          1095,
+          197
+        ],
+        [
+          230,
+          197
+        ]
+      ],
+      "score": 0.9126879572868347,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SÀNG",
+      "confidence": 0.9910215088299342
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0377_011_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          322
+        ],
+        [
+          526,
+          322
+        ],
+        [
+          526,
+          370
+        ],
+        [
+          225,
+          370
+        ]
+      ],
+      "score": 0.9030272960662842,
+      "y_pos": 322,
+      "text": "<b>HEN SUYÊN</b>",
+      "confidence": 0.9443508340762212
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0377_015_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          419
+        ],
+        [
+          773,
+          419
+        ],
+        [
+          773,
+          471
+        ],
+        [
+          225,
+          471
+        ]
+      ],
+      "score": 0.8977441191673279,
+      "y_pos": 419,
+      "text": "A. Biện chứng luận trị",
+      "confidence": 0.9054466933012009
+    },
+    {
+      "type": "text",
+      "img_path": "p0377_001_text.png",
+      "bbox": [
+        [
+          220,
+          506
+        ],
+        [
+          2359,
+          506
+        ],
+        [
+          2359,
+          1056
+        ],
+        [
+          220,
+          1056
+        ]
+      ],
+      "score": 0.9865193963050842,
+      "y_pos": 506,
+      "text": "Hen suyễn là chứng bệnh thường thấy trên lâm sàng, có thể thấy trong nhiều loại bệnh cấp\nmạn tính, nhưng chia làm hai loại hư và thực. Thực suyễn là tà khí vây ở phế, khí mất tuyên\ngiáng, thường do ngoại cảm phong hàn, hoả nhiệt hoặc đàm trọc ở trong phế gây ra. Hư suyễn\nthường do cơ thể yếu đuối, hoặc sau khi bị bệnh nặng lâu ngày, tinh khí hao hư, phế không chủ\nđược khí, thận không nạp được khí, chủ yếu bao gồm hô hấp khó khăn mà y học hiện nay coi\nlà hen phế quản và hen tim. Ngộ độc a-xít, vùng họng hoặc khí quản vướng tắc là nguyên nhân\ngây ra khó thở không thuộc phạm vi bàn luận ở bài này, nhưng được nhắc đến để chú ý phân\nbiêt.",
+      "confidence": 0.9975244921171937
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0377_007_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1095
+        ],
+        [
+          915,
+          1095
+        ],
+        [
+          915,
+          1146
+        ],
+        [
+          225,
+          1146
+        ]
+      ],
+      "score": 0.9146523475646973,
+      "y_pos": 1095,
+      "text": "B. Điểm chủ vếu để kiểm tra",
+      "confidence": 0.8949644236729063
+    },
+    {
+      "type": "text",
+      "img_path": "p0377_002_text.png",
+      "bbox": [
+        [
+          221,
+          1188
+        ],
+        [
+          2358,
+          1188
+        ],
+        [
+          2358,
+          1384
+        ],
+        [
+          221,
+          1384
+        ]
+      ],
+      "score": 0.9718595743179321,
+      "y_pos": 1188,
+      "text": "1. Đặc điểm: Thở dồn và phải gắng sức, cánh mũi phập phồng, thậm chí há miệng so vai,\nkhông thể nằm ngay ngắn, bắt buộc phải ngồi thẳng hoặc nửa nằm nửa ngồi, khi nghiêm trọng\ncó thể thấy tím tái.",
+      "confidence": 0.9917434155952417
+    },
+    {
+      "type": "text",
+      "img_path": "p0377_000_text.png",
+      "bbox": [
+        [
+          220,
+          1418
+        ],
+        [
+          2359,
+          1418
+        ],
+        [
+          2359,
+          2043
+        ],
+        [
+          220,
+          2043
+        ]
+      ],
+      "score": 0.9870294332504272,
+      "y_pos": 1418,
+      "text": "2. Hen suyễn có nguồn gốc từ phổi thường kèm ho hắng, hoặc đau ngực, trong đó viêm phổi\nvà viêm màng phổi gây ra thường kèm sợ lạnh phát sốt. Hen hoặc hen do viêm phế quản\nthường tái phát nhiều lần, thở ra khó. Nghe phổi có tiếng rên rít, rên ngáy. Khí ở lồng ngực gây\nsuyễn thường cấp, có thể do ngoại thương hoặc lao phổi, phù phổi. Phù phổi gây suyễn\nthường từ từ, có bệnh sử viêm phế quản mạn tính hoặc bệnh hen suyễn, sau khi hoạt động thì\nsuyễn xuất hiện hoặc tăng mạnh. Phổi hoặc trung thất có khối u gây ra suyễn cũng tiến triển\nchậm chạp, và thường thấy ở người có độ tuổi trung niên. Kiểm tra vùng ngực có triệu chứng\nđặc trưng riêng (tham khảo chuyên về từng bệnh). Nếu có thể thì chiếu điện để giúp chuẩn\nđoán phân biệt.",
+      "confidence": 0.9895775376716021
+    },
+    {
+      "type": "text",
+      "img_path": "p0377_003_text.png",
+      "bbox": [
+        [
+          220,
+          2080
+        ],
+        [
+          2360,
+          2080
+        ],
+        [
+          2360,
+          2277
+        ],
+        [
+          220,
+          2277
+        ]
+      ],
+      "score": 0.9707213640213013,
+      "y_pos": 2080,
+      "text": "3. Hen suyễn do ở người có tiền sử bệnh tim. Suyễn thường xuất hiện sau khi hoạt động,\nhoặc về đêm, có thể kèm theo tim đập mạnh, tím tái hoặc phù thũng, kiểm tra tim thấy tim to ra\nhoặc có tiếng thổi ở ổ van tim, phổi có tiếng ran ẩm, gan sưng to ấn đau.",
+      "confidence": 0.999260082357008
+    },
+    {
+      "type": "text",
+      "img_path": "p0377_004_text.png",
+      "bbox": [
+        [
+          220,
+          2313
+        ],
+        [
+          2358,
+          2313
+        ],
+        [
+          2358,
+          2508
+        ],
+        [
+          220,
+          2508
+        ]
+      ],
+      "score": 0.9701087474822998,
+      "y_pos": 2313,
+      "text": "4. Nếu cơn suyễn có liên quan với yếu tố tinh thần, kiêm tay chân phát tê, co quắp, hoặc các\nchứng trang thái tinh thần khác, khi kiểm tra lai không phát hiện được triệu chứng rõ rệt thường\nthuộc bệnh thần kinh chức năng.",
+      "confidence": 0.9980380858557077
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0377_008_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2548
+        ],
+        [
+          568,
+          2548
+        ],
+        [
+          568,
+          2594
+        ],
+        [
+          226,
+          2594
+        ]
+      ],
+      "score": 0.9138541221618652,
+      "y_pos": 2548,
+      "text": "C. Cách chữa",
+      "confidence": 0.8431751430034637
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0377_013_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2641
+        ],
+        [
+          542,
+          2641
+        ],
+        [
+          542,
+          2687
+        ],
+        [
+          227,
+          2687
+        ]
+      ],
+      "score": 0.8994342684745789,
+      "y_pos": 2641,
+      "text": "Châm cứu",
+      "confidence": 0.8317589282989502
+    },
+    {
+      "type": "text",
+      "img_path": "p0377_010_text.png",
+      "bbox": [
+        [
+          225,
+          2732
+        ],
+        [
+          1616,
+          2732
+        ],
+        [
+          1616,
+          2785
+        ],
+        [
+          225,
+          2785
+        ]
+      ],
+      "score": 0.9116969108581543,
+      "y_pos": 2732,
+      "text": "a. Thể châm: Lấy các huyệt Nội quan, Thiên đột, Chiên trung.",
+      "confidence": 0.8926861497663683
+    },
+    {
+      "type": "text",
+      "img_path": "p0377_005_text.png",
+      "bbox": [
+        [
+          222,
+          2820
+        ],
+        [
+          2358,
+          2820
+        ],
+        [
+          2358,
+          2945
+        ],
+        [
+          222,
+          2945
+        ]
+      ],
+      "score": 0.9572790861129761,
+      "y_pos": 2820,
+      "text": "- Thực suyễn: Ho hắng nhiều đờm, gia Phong long. Phát sốt, gia Xích trạch (khi cần thiết, phải\ntrích ra máu).",
+      "confidence": 0.9920890961463253
+    },
+    {
+      "type": "text",
+      "img_path": "p0377_012_text.png",
+      "bbox": [
+        [
+          225,
+          2986
+        ],
+        [
+          1633,
+          2986
+        ],
+        [
+          1633,
+          3039
+        ],
+        [
+          225,
+          3039
+        ]
+      ],
+      "score": 0.9026063084602356,
+      "y_pos": 2986,
+      "text": "- Hư suyễn: Gia <i>Phế du, Thận du, Khí hải</i> (châm xong thì cứu).",
+      "confidence": 0.9916093597045311
+    },
+    {
+      "type": "text",
+      "img_path": "p0377_016_text.png",
+      "bbox": [
+        [
+          225,
+          3076
+        ],
+        [
+          1429,
+          3076
+        ],
+        [
+          1429,
+          3128
+        ],
+        [
+          225,
+          3128
+        ]
+      ],
+      "score": 0.8947191834449768,
+      "y_pos": 3076,
+      "text": "b. Nhĩ châm: Phế, Giao cảm, Thần môn, Bình suyễn.",
+      "confidence": 0.655800510855282
+    },
+    {
+      "type": "number",
+      "img_path": "p0377_017_number.png",
+      "bbox": [
+        [
+          2306,
+          3334
+        ],
+        [
+          2352,
+          3334
+        ],
+        [
+          2352,
+          3370
+        ],
+        [
+          2306,
+          3370
+        ]
+      ],
+      "score": 0.8535465002059937,
+      "y_pos": 3334,
+      "text": "\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n۰\n",
+      "confidence": 0.9701784898837408
+    },
+    {
+      "type": "footer",
+      "img_path": "p0377_014_footer.png",
+      "bbox": [
+        [
+          228,
+          3336
+        ],
+        [
+          1343,
+          3336
+        ],
+        [
+          1343,
+          3383
+        ],
+        [
+          228,
+          3383
+        ]
+      ],
+      "score": 0.8981518745422363,
+      "y_pos": 3336,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9415562085385593
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0377.png"
+}

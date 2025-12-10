@@ -1,0 +1,162 @@
+{
+  "page_num": 19,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0019_005_text.png",
+      "bbox": [
+        [
+          465,
+          464
+        ],
+        [
+          1787,
+          464
+        ],
+        [
+          1787,
+          935
+        ],
+        [
+          465,
+          935
+        ]
+      ],
+      "score": 0.5044591426849365,
+      "y_pos": 464,
+      "text": "2. Bệnh danh nào KHÔNG thuộc nhóm ngoại cảm lục dâm\nA. Phong nhiệt phạm mạch Đới\nB. Dương minh kinh chứng\nC. Phong nhiệt pham kinh Vi\nD. Ngoại cảm phong hàn\nE. Thấp nhiệt Đại trường",
+      "confidence": 0.9650822111323786
+    },
+    {
+      "type": "text",
+      "img_path": "p0019_004_text.png",
+      "bbox": [
+        [
+          513,
+          1055
+        ],
+        [
+          1375,
+          1055
+        ],
+        [
+          1375,
+          1446
+        ],
+        [
+          513,
+          1446
+        ]
+      ],
+      "score": 0.5103248953819275,
+      "y_pos": 1055,
+      "text": "A. Thiếu dương chứng\nB. Hàn tà pham kinh Cân\nC. Phong hàn phạm kinh Đởm\nD. Phong nhiệt phạm vào mạch Xung\nE. Nhiệt kết Đại trường",
+      "confidence": 0.9634924974580864
+    },
+    {
+      "type": "text",
+      "img_path": "p0019_002_text.png",
+      "bbox": [
+        [
+          513,
+          1567
+        ],
+        [
+          1356,
+          1567
+        ],
+        [
+          1356,
+          1956
+        ],
+        [
+          513,
+          1956
+        ]
+      ],
+      "score": 0.6396563649177551,
+      "y_pos": 1567,
+      "text": "A. Thiếu âm hóa nhiệt\nB. Phong hàn phạm kinh Đại trường\nC. Phong hàn phạm kinh Vị\nD. Thấp nhiệt phạm vào mạch Xung\nE. Ngoại cảm phong nhiệt",
+      "confidence": 0.9743734186848151
+    },
+    {
+      "type": "text",
+      "img_path": "p0019_003_text.png",
+      "bbox": [
+        [
+          513,
+          2573
+        ],
+        [
+          1180,
+          2573
+        ],
+        [
+          1180,
+          2963
+        ],
+        [
+          513,
+          2963
+        ]
+      ],
+      "score": 0.5866644978523254,
+      "y_pos": 2573,
+      "text": "A. Ngoai thấp\nB. Ngoại nhiệt\nC. Nôi thấp\nD. Nội nhiệt\nE. Ngoại thấp và ngoại nhiệt",
+      "confidence": 0.9388672937087087
+    },
+    {
+      "type": "number",
+      "img_path": "p0019_001_number.png",
+      "bbox": [
+        [
+          354,
+          3111
+        ],
+        [
+          406,
+          3111
+        ],
+        [
+          406,
+          3148
+        ],
+        [
+          354,
+          3148
+        ]
+      ],
+      "score": 0.8392481207847595,
+      "y_pos": 3111,
+      "text": "\n    \n        \n    \n\n\n\n\n•\n\n\n",
+      "confidence": 0.9653790537267923
+    },
+    {
+      "type": "footer",
+      "img_path": "p0019_000_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1074,
+          3311
+        ],
+        [
+          1074,
+          3367
+        ],
+        [
+          294,
+          3367
+        ]
+      ],
+      "score": 0.9098324775695801,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8891090188707624
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0019.png"
+}

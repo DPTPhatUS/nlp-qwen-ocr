@@ -1,0 +1,422 @@
+{
+  "page_num": 102,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0102_005_header.png",
+      "bbox": [
+        [
+          1607,
+          141
+        ],
+        [
+          2368,
+          141
+        ],
+        [
+          2368,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9167459011077881,
+      "y_pos": 141,
+      "text": "~ ~ ~\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6999826583833921
+    },
+    {
+      "type": "header",
+      "img_path": "p0102_011_header.png",
+      "bbox": [
+        [
+          229,
+          159
+        ],
+        [
+          452,
+          159
+        ],
+        [
+          452,
+          201
+        ],
+        [
+          229,
+          201
+        ]
+      ],
+      "score": 0.8947964906692505,
+      "y_pos": 159,
+      "text": "DU HUYET",
+      "confidence": 0.5986216425895691
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0102_007_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          346
+        ],
+        [
+          574,
+          346
+        ],
+        [
+          574,
+          394
+        ],
+        [
+          226,
+          394
+        ]
+      ],
+      "score": 0.9092113971710205,
+      "y_pos": 346,
+      "text": "C. Bối du huyệt",
+      "confidence": 0.9111775229958927
+    },
+    {
+      "type": "text",
+      "img_path": "p0102_002_text.png",
+      "bbox": [
+        [
+          276,
+          434
+        ],
+        [
+          2359,
+          434
+        ],
+        [
+          2359,
+          846
+        ],
+        [
+          276,
+          846
+        ]
+      ],
+      "score": 0.9782951474189758,
+      "y_pos": 434,
+      "text": "Là chỗ khí tạng phủ luân chuyển ở vùng lưng, vì vậy gọi là du huyệt. Tuy nó phân cáhc dều\ntrục giưac ở lưng là 1,5 thốn trên đường bàng quang kinh, nhưng vì nó tương thông với các\ntạng phủ. Khi tạng phủ có bệnh, thường thường du huyệt tương ứng trên lưng sẽ xuất hiện\ncảm giác ấn đau hoặc tê tức, vì vậy, chữa bệnh của bạn tạng tại du huyệt <i>Vị du</i>, bệnh thận\nlấy huyệt Thận du. Bối du huyệt ngoài việc chữa bệnh tạng phủ ra, lại có tác dụng chữa các\nkhí quản liên quan, như cai khan khiếu ở mắt, châm <i>Can du</i> có thể chữa được bệnh ở mắt.",
+      "confidence": 0.995147396595304
+    },
+    {
+      "type": "text",
+      "img_path": "p0102_015_text.png",
+      "bbox": [
+        [
+          283,
+          881
+        ],
+        [
+          1094,
+          881
+        ],
+        [
+          1094,
+          937
+        ],
+        [
+          283,
+          937
+        ]
+      ],
+      "score": 0.514963686466217,
+      "y_pos": 881,
+      "text": "Huyệt vị của huyệt Bối du ở bảng 7.",
+      "confidence": 0.9996143112311492
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0102_008_figure_title.png",
+      "bbox": [
+        [
+          666,
+          963
+        ],
+        [
+          1921,
+          963
+        ],
+        [
+          1921,
+          1013
+        ],
+        [
+          666,
+          1013
+        ]
+      ],
+      "score": 0.9050046801567078,
+      "y_pos": 963,
+      "text": "Bảng 7 - Huyệt vị và tạng phủ tương thông của bối du huyệt",
+      "confidence": 0.9977112909158071
+    },
+    {
+      "type": "table",
+      "img_path": "p0102_001_table.png",
+      "bbox": [
+        [
+          439,
+          1039
+        ],
+        [
+          2152,
+          1039
+        ],
+        [
+          2152,
+          1656
+        ],
+        [
+          439,
+          1656
+        ]
+      ],
+      "score": 0.9869285225868225,
+      "y_pos": 1039,
+      "text": "Tên huyệt    Tên kinh    Tên huyệt    Tên kinh\nTâm du    Tâm    Can du    Can\nTỳ du    Τỳ    Phế du    Phế\nThận du    Thận    Quyết âm du    Tâm bào\nĐại trường du    Đại trường    Tiểu trường du    Tiểu trường\nTam tiêu du    Tam tiêu    vi du    Vį\nBàng quang du    Bàng quang    Đảm du    Đảm",
+      "confidence": 0.8989915777781224
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0102_009_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1694
+        ],
+        [
+          498,
+          1694
+        ],
+        [
+          498,
+          1743
+        ],
+        [
+          227,
+          1743
+        ]
+      ],
+      "score": 0.8985246419906616,
+      "y_pos": 1694,
+      "text": "D. Mộ huyệt",
+      "confidence": 0.8449917435646057
+    },
+    {
+      "type": "text",
+      "img_path": "p0102_003_text.png",
+      "bbox": [
+        [
+          281,
+          1784
+        ],
+        [
+          2357,
+          1784
+        ],
+        [
+          2357,
+          1993
+        ],
+        [
+          281,
+          1993
+        ]
+      ],
+      "score": 0.9695932865142822,
+      "y_pos": 1784,
+      "text": "\"Mộ huyệt\" có ý nghĩa là kết tụ lại, nơi khí của tạng phủ kết tụ ở ngực, bụng gọi là mộ huyệt,\ný nghĩa lâm sàng của nó tương ứng với nó, nó cá tác dụng đặc thù. Như bệnh dạ dày, lấy\nhuyệt <i>Trung quản</i>, bệnh bàng quang lấy huyệt <i>Trung cực</i>.",
+      "confidence": 0.9977417640275125
+    },
+    {
+      "type": "text",
+      "img_path": "p0102_013_text.png",
+      "bbox": [
+        [
+          283,
+          2032
+        ],
+        [
+          1017,
+          2032
+        ],
+        [
+          1017,
+          2086
+        ],
+        [
+          283,
+          2086
+        ]
+      ],
+      "score": 0.81685471534729,
+      "y_pos": 2032,
+      "text": "Huyệt vị của mộ huyệt ở bảng 8.",
+      "confidence": 0.9993386069933573
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0102_006_figure_title.png",
+      "bbox": [
+        [
+          707,
+          2138
+        ],
+        [
+          1871,
+          2138
+        ],
+        [
+          1871,
+          2189
+        ],
+        [
+          707,
+          2189
+        ]
+      ],
+      "score": 0.9123387336730957,
+      "y_pos": 2138,
+      "text": "Bảng 8 - Huyệt vị và tạng phủ tương ứng của mộ huyệt",
+      "confidence": 0.9958100462401355
+    },
+    {
+      "type": "table",
+      "img_path": "p0102_000_table.png",
+      "bbox": [
+        [
+          439,
+          2238
+        ],
+        [
+          2152,
+          2238
+        ],
+        [
+          2152,
+          2857
+        ],
+        [
+          439,
+          2857
+        ]
+      ],
+      "score": 0.9879178404808044,
+      "y_pos": 2238,
+      "text": "Tên huyệt    Tên tạng phủ    Tên huyệt    Tên tạng phủ\nCự khuyết    Tâm    Chiên trung    Tâm bào\nTrung quản    Vį    Thạch môn    Tam tiêu\nQuan nguyên    Tiếu trường    Trung cực    Bàng quang\nTrung phủ    Phế    Kỳ môn    Can\nNhật nguyệt    Đảm    Chương môn    Τỳ\nKinh môn    Thận    Thiên khu    Đại trường",
+      "confidence": 0.9220000074449324
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0102_010_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2895
+        ],
+        [
+          563,
+          2895
+        ],
+        [
+          563,
+          2943
+        ],
+        [
+          225,
+          2943
+        ]
+      ],
+      "score": 0.896094799041748,
+      "y_pos": 2895,
+      "text": "Đ. Khích huyệt",
+      "confidence": 0.4586147964000702
+    },
+    {
+      "type": "text",
+      "img_path": "p0102_004_text.png",
+      "bbox": [
+        [
+          277,
+          2973
+        ],
+        [
+          2358,
+          2973
+        ],
+        [
+          2358,
+          3155
+        ],
+        [
+          277,
+          3155
+        ]
+      ],
+      "score": 0.9646695256233215,
+      "y_pos": 2973,
+      "text": "\"Khích\" có nghĩa là lỗ trống không (theo Tứ giác hiệu mã tân từ điển thì khích là oán trách).\nKhích huyệt là nơi kinh khí tụ ở sâu, do đó gọi là khích huyệt. Khích huyệt phân phối ở tứ chi,\nphần lớn là ở phía dưới khuỷu và đầu gối. Mỗi kinh trong 12 kinh đều có một khích huyệt. Nó",
+      "confidence": 0.999184622398347
+    },
+    {
+      "type": "footer",
+      "img_path": "p0102_012_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1433,
+          3333
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.8939481377601624,
+      "y_pos": 3333,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0102_014_number.png",
+      "bbox": [
+        [
+          2332,
+          3340
+        ],
+        [
+          2357,
+          3340
+        ],
+        [
+          2357,
+          3378
+        ],
+        [
+          2332,
+          3378
+        ]
+      ],
+      "score": 0.8009884357452393,
+      "y_pos": 3340,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0102.png"
+}

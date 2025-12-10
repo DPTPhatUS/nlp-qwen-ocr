@@ -1,0 +1,370 @@
+{
+  "page_num": 80,
+  "content": [
+    {
+      "type": "table",
+      "img_path": "p0080_000_table.png",
+      "bbox": [
+        [
+          353,
+          446
+        ],
+        [
+          2123,
+          446
+        ],
+        [
+          2123,
+          1433
+        ],
+        [
+          353,
+          1433
+        ]
+      ],
+      "score": 0.9886693358421326,
+      "y_pos": 446,
+      "text": "Vị thuốc    Dược lý Đông y\nThạch cao    Thanh Dương minh kinh nhiệt, trừ nhiệt thinh, phiền táo.\nQuế chi    On kinh thông mach\nTri mẫu    Thanh nhiệt lương huyết nhuân táo\nHoàng bá    Thanh nhiệt giải độc\nThương truật    On trung hóa đàm\nKim ngân    Thanh nhiệt giải độc\nTang chi    Trừ phong thấp, thông kinh lac\nPhòng kỷ    Trừ phong, hành thủy, tả thấp nhiệt\nNganh mề    Ôn trung hòa vị\nCam thảo    Giải độc, điều hòa các vi thuốc",
+      "confidence": 0.8821586104061012
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0080_013_paragraph_title.png",
+      "bbox": [
+        [
+          636,
+          1618
+        ],
+        [
+          1836,
+          1618
+        ],
+        [
+          1836,
+          1684
+        ],
+        [
+          636,
+          1684
+        ]
+      ],
+      "score": 0.7956806421279907,
+      "y_pos": 1618,
+      "text": "BÊNH DO NGOAI TÀ PHAM VÀO CÁC QUAN TIẾT",
+      "confidence": 0.8210177857701372
+    },
+    {
+      "type": "text",
+      "img_path": "p0080_011_text.png",
+      "bbox": [
+        [
+          369,
+          1814
+        ],
+        [
+          1432,
+          1814
+        ],
+        [
+          1432,
+          1864
+        ],
+        [
+          369,
+          1864
+        ]
+      ],
+      "score": 0.839657187461853,
+      "y_pos": 1814,
+      "text": "- Thường gặp trong bệnh lý đau nhức ở các khớp xương.",
+      "confidence": 0.9995010592720726
+    },
+    {
+      "type": "text",
+      "img_path": "p0080_005_text.png",
+      "bbox": [
+        [
+          368,
+          1892
+        ],
+        [
+          2106,
+          1892
+        ],
+        [
+          2106,
+          1996
+        ],
+        [
+          368,
+          1996
+        ]
+      ],
+      "score": 0.8999072909355164,
+      "y_pos": 1892,
+      "text": "- Nguyên nhân gồm 3 loại tà khí: Phong (hành tý), Hàn (thống tý), Thấp (chước tý). Nhiệt tà\n(nhiệt tý) nếu cả 3 tà khí (Phong, Hàn, Thấp) phối hợp.",
+      "confidence": 0.9796044547880309
+    },
+    {
+      "type": "text",
+      "img_path": "p0080_012_text.png",
+      "bbox": [
+        [
+          369,
+          2024
+        ],
+        [
+          1902,
+          2024
+        ],
+        [
+          1902,
+          2074
+        ],
+        [
+          369,
+          2074
+        ]
+      ],
+      "score": 0.8353503942489624,
+      "y_pos": 2024,
+      "text": "- Triệu chứng quan trọng của Hành tý: đau nhiều khớp, di chuyển, không cố định.",
+      "confidence": 0.9997515192738285
+    },
+    {
+      "type": "text",
+      "img_path": "p0080_004_text.png",
+      "bbox": [
+        [
+          368,
+          2104
+        ],
+        [
+          2105,
+          2104
+        ],
+        [
+          2105,
+          2205
+        ],
+        [
+          368,
+          2205
+        ]
+      ],
+      "score": 0.9184092879295349,
+      "y_pos": 2104,
+      "text": "- Triệu chứng quan trọng của Thống tý: đau dữ dội ở một khớp cố định, không lan, trời lạnh\nđau tăng, chườm nóng đỡ đau.",
+      "confidence": 0.9982465249904688
+    },
+    {
+      "type": "text",
+      "img_path": "p0080_001_text.png",
+      "bbox": [
+        [
+          368,
+          2237
+        ],
+        [
+          2105,
+          2237
+        ],
+        [
+          2105,
+          2339
+        ],
+        [
+          368,
+          2339
+        ]
+      ],
+      "score": 0.9318749904632568,
+      "y_pos": 2237,
+      "text": "- Triệu chứng quan trọng của Chước tý: đau một chỗ cố định, đau có tính cách trì nặng\nxuống, co rút lại, tê bì.",
+      "confidence": 0.997479786551623
+    },
+    {
+      "type": "text",
+      "img_path": "p0080_007_text.png",
+      "bbox": [
+        [
+          369,
+          2370
+        ],
+        [
+          1837,
+          2370
+        ],
+        [
+          1837,
+          2421
+        ],
+        [
+          369,
+          2421
+        ]
+      ],
+      "score": 0.8746866583824158,
+      "y_pos": 2370,
+      "text": "- Triệu chứng quan trọng của Nhiệt tý: các khớp sưng đỏ, nóng, đau, phát sốt.",
+      "confidence": 0.9996526460104351
+    },
+    {
+      "type": "text",
+      "img_path": "p0080_009_text.png",
+      "bbox": [
+        [
+          369,
+          2449
+        ],
+        [
+          1654,
+          2449
+        ],
+        [
+          1654,
+          2500
+        ],
+        [
+          369,
+          2500
+        ]
+      ],
+      "score": 0.8560455441474915,
+      "y_pos": 2449,
+      "text": "- Thuốc tiêu biểu điều trị cho Hành tý: Phòng phong thang gia giảm.",
+      "confidence": 0.9997148280558379
+    },
+    {
+      "type": "text",
+      "img_path": "p0080_003_text.png",
+      "bbox": [
+        [
+          368,
+          2527
+        ],
+        [
+          2107,
+          2527
+        ],
+        [
+          2107,
+          2631
+        ],
+        [
+          368,
+          2631
+        ]
+      ],
+      "score": 0.925234317779541,
+      "y_pos": 2527,
+      "text": "- Thuốc tiêu biểu điều tri cho Thống tý gồm Quế chi, Ý dĩ, Can khương, Phu tử chế, Xuyên\nkhung, Thiên niên kiên, Ngưu tất, Uy linh tiên.",
+      "confidence": 0.9968923372070806
+    },
+    {
+      "type": "text",
+      "img_path": "p0080_008_text.png",
+      "bbox": [
+        [
+          369,
+          2660
+        ],
+        [
+          1600,
+          2660
+        ],
+        [
+          1600,
+          2711
+        ],
+        [
+          369,
+          2711
+        ]
+      ],
+      "score": 0.8633643984794617,
+      "y_pos": 2660,
+      "text": "- Thuốc tiêu biểu điều trị cho Chước tý: Ý dĩ nhân thang gia giảm.",
+      "confidence": 0.9996667670852998
+    },
+    {
+      "type": "text",
+      "img_path": "p0080_010_text.png",
+      "bbox": [
+        [
+          369,
+          2740
+        ],
+        [
+          1532,
+          2740
+        ],
+        [
+          1532,
+          2792
+        ],
+        [
+          369,
+          2792
+        ]
+      ],
+      "score": 0.8481190204620361,
+      "y_pos": 2740,
+      "text": "- Thuốc tiêu biểu điều trị cho Nhiệt tý: Bạch hổ quế chi thang.",
+      "confidence": 0.9997264247674208
+    },
+    {
+      "type": "number",
+      "img_path": "p0080_006_number.png",
+      "bbox": [
+        [
+          2073,
+          3111
+        ],
+        [
+          2122,
+          3111
+        ],
+        [
+          2122,
+          3147
+        ],
+        [
+          2073,
+          3147
+        ]
+      ],
+      "score": 0.8802213668823242,
+      "y_pos": 3111,
+      "text": "    \n\n\n    ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0080_002_footer.png",
+      "bbox": [
+        [
+          294,
+          3312
+        ],
+        [
+          1073,
+          3312
+        ],
+        [
+          1073,
+          3365
+        ],
+        [
+          294,
+          3365
+        ]
+      ],
+      "score": 0.9284532070159912,
+      "y_pos": 3312,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8839524439402989
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0080.png"
+}

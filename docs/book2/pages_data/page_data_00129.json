@@ -1,0 +1,344 @@
+{
+  "page_num": 129,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0129_003_header.png",
+      "bbox": [
+        [
+          1607,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.928033709526062,
+      "y_pos": 143,
+      "text": "~ ~ ~\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6999826583833921
+    },
+    {
+      "type": "header",
+      "img_path": "p0129_006_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          905,
+          156
+        ],
+        [
+          905,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9153679609298706,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9866287461642561
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0129_008_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          369
+        ],
+        [
+          514,
+          369
+        ],
+        [
+          514,
+          415
+        ],
+        [
+          228,
+          415
+        ]
+      ],
+      "score": 0.9134491086006165,
+      "y_pos": 369,
+      "text": "19. Hoà liêu",
+      "confidence": 0.9043688348361424
+    },
+    {
+      "type": "text",
+      "img_path": "p0129_011_text.png",
+      "bbox": [
+        [
+          289,
+          462
+        ],
+        [
+          1449,
+          462
+        ],
+        [
+          1449,
+          514
+        ],
+        [
+          289,
+          514
+        ]
+      ],
+      "score": 0.9052876234054565,
+      "y_pos": 462,
+      "text": "Vị trí: Huyệt Nhân trung ra hai bên 0,5 thốn. (H. 48)",
+      "confidence": 0.9864206232807853
+    },
+    {
+      "type": "text",
+      "img_path": "p0129_004_text.png",
+      "bbox": [
+        [
+          287,
+          552
+        ],
+        [
+          1639,
+          552
+        ],
+        [
+          1639,
+          601
+        ],
+        [
+          287,
+          601
+        ]
+      ],
+      "score": 0.9173558354377747,
+      "y_pos": 552,
+      "text": "<b>Cách châm:</b> Châm chếch kim, sâu 0,3 – 0,5 thốn. Cấm cứu.",
+      "confidence": 0.9840090694063801
+    },
+    {
+      "type": "text",
+      "img_path": "p0129_005_text.png",
+      "bbox": [
+        [
+          287,
+          644
+        ],
+        [
+          1481,
+          644
+        ],
+        [
+          1481,
+          696
+        ],
+        [
+          287,
+          696
+        ]
+      ],
+      "score": 0.9154195189476013,
+      "y_pos": 644,
+      "text": "Chủ trị: Tê liệt thần kinh mặt, chảy máu mũi, tắc mũi.",
+      "confidence": 0.6297190561890602
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0129_009_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          736
+        ],
+        [
+          678,
+          736
+        ],
+        [
+          678,
+          788
+        ],
+        [
+          227,
+          788
+        ]
+      ],
+      "score": 0.9129900932312012,
+      "y_pos": 736,
+      "text": "20. Nghinh hương",
+      "confidence": 0.9900093177954356
+    },
+    {
+      "type": "text",
+      "img_path": "p0129_007_text.png",
+      "bbox": [
+        [
+          290,
+          825
+        ],
+        [
+          1316,
+          825
+        ],
+        [
+          1316,
+          880
+        ],
+        [
+          290,
+          880
+        ]
+      ],
+      "score": 0.9141072034835815,
+      "y_pos": 825,
+      "text": "Vị trí: Cách cạnh ngoài lỗ mũi 0,1 thốn. (H48)",
+      "confidence": 0.6974448536833128
+    },
+    {
+      "type": "text",
+      "img_path": "p0129_001_text.png",
+      "bbox": [
+        [
+          283,
+          917
+        ],
+        [
+          2356,
+          917
+        ],
+        [
+          2356,
+          1039
+        ],
+        [
+          283,
+          1039
+        ]
+      ],
+      "score": 0.9591712951660156,
+      "y_pos": 917,
+      "text": "Cách châm: Châm đứng kim sâu 0,1 - 0,3 thốn, hoặc chếch vào và lên đến 1 thốn. Không\ncứu.",
+      "confidence": 0.9499714390714039
+    },
+    {
+      "type": "text",
+      "img_path": "p0129_000_text.png",
+      "bbox": [
+        [
+          282,
+          1081
+        ],
+        [
+          2361,
+          1081
+        ],
+        [
+          2361,
+          1204
+        ],
+        [
+          282,
+          1204
+        ]
+      ],
+      "score": 0.9592012166976929,
+      "y_pos": 1081,
+      "text": "Chủ trị: Ngạt mũi, viêm mũi, cảm mạo, ra gió chảy nước mắt, liệt mặt, châm thấu. Tứ bạch\ncó thể chữa giun chui ống mật.",
+      "confidence": 0.9859616508293483
+    },
+    {
+      "type": "text",
+      "img_path": "p0129_002_text.png",
+      "bbox": [
+        [
+          281,
+          1242
+        ],
+        [
+          2355,
+          1242
+        ],
+        [
+          2355,
+          1362
+        ],
+        [
+          281,
+          1362
+        ]
+      ],
+      "score": 0.9470744729042053,
+      "y_pos": 1242,
+      "text": "Tác dụng phối hợp: Với Thượng tinh, Hợp cốc trị các bệnh về mũi; với Thính hội trị tai điếc,\ntai ù.",
+      "confidence": 0.9940535038551117
+    },
+    {
+      "type": "footer",
+      "img_path": "p0129_010_footer.png",
+      "bbox": [
+        [
+          231,
+          3334
+        ],
+        [
+          1437,
+          3334
+        ],
+        [
+          1437,
+          3387
+        ],
+        [
+          231,
+          3387
+        ]
+      ],
+      "score": 0.9063747525215149,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9464619991914281
+    },
+    {
+      "type": "number",
+      "img_path": "p0129_012_number.png",
+      "bbox": [
+        [
+          2305,
+          3339
+        ],
+        [
+          2351,
+          3339
+        ],
+        [
+          2351,
+          3377
+        ],
+        [
+          2305,
+          3377
+        ]
+      ],
+      "score": 0.8508973121643066,
+      "y_pos": 3339,
+      "text": "    \n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0129.png"
+}

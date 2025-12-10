@@ -1,0 +1,786 @@
+{
+  "page_num": 254,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0254_000_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9307543635368347,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7643314777385621
+    },
+    {
+      "type": "header",
+      "img_path": "p0254_002_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9150305986404419,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0254_004_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          369
+        ],
+        [
+          582,
+          369
+        ],
+        [
+          582,
+          421
+        ],
+        [
+          227,
+          421
+        ]
+      ],
+      "score": 0.8029045462608337,
+      "y_pos": 369,
+      "text": "224. Muc minh",
+      "confidence": 0.9097590883572896
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_013_text.png",
+      "bbox": [
+        [
+          283,
+          459
+        ],
+        [
+          2357,
+          459
+        ],
+        [
+          2357,
+          590
+        ],
+        [
+          283,
+          590
+        ]
+      ],
+      "score": 0.5804883241653442,
+      "y_pos": 459,
+      "text": "Vị trí: Ở bờ mép tóc trước trán, thẳng đồng tử lên mép tóc trán là huyệt (<i>Lâm khấp</i> xuống\n0,5 thốn). (H. 125)",
+      "confidence": 0.9889610512625604
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_027_text.png",
+      "bbox": [
+        [
+          289,
+          621
+        ],
+        [
+          1429,
+          621
+        ],
+        [
+          1429,
+          679
+        ],
+        [
+          289,
+          679
+        ]
+      ],
+      "score": 0.5143730640411377,
+      "y_pos": 621,
+      "text": "Cách châm: Châm luồn dưới da, sâu 0,5 - 1 thốn.",
+      "confidence": 0.9898890560987045
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0254_008_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          805
+        ],
+        [
+          1096,
+          805
+        ],
+        [
+          1096,
+          866
+        ],
+        [
+          228,
+          866
+        ]
+      ],
+      "score": 0.700722336769104,
+      "y_pos": 805,
+      "text": "225. Đầu Quang minh (Ngư thượng)",
+      "confidence": 0.9648394952802097
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_025_text.png",
+      "bbox": [
+        [
+          290,
+          989
+        ],
+        [
+          1321,
+          989
+        ],
+        [
+          1321,
+          1045
+        ],
+        [
+          290,
+          1045
+        ]
+      ],
+      "score": 0.5312700271606445,
+      "y_pos": 989,
+      "text": "Cách châm: Châm chếch, sâu 0,3 - 0,5 thốn.",
+      "confidence": 0.6804395426403392
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_028_text.png",
+      "bbox": [
+        [
+          289,
+          1080
+        ],
+        [
+          1463,
+          1080
+        ],
+        [
+          1463,
+          1141
+        ],
+        [
+          289,
+          1141
+        ]
+      ],
+      "score": 0.5103443264961243,
+      "y_pos": 1080,
+      "text": "Chủ trị: Tật khúc xạ, thần kinh trên hốc đau, sụp mi.",
+      "confidence": 0.8958651705221696
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0254_011_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1172
+        ],
+        [
+          534,
+          1172
+        ],
+        [
+          534,
+          1230
+        ],
+        [
+          229,
+          1230
+        ]
+      ],
+      "score": 0.6099554300308228,
+      "y_pos": 1172,
+      "text": "226. Ngư vỹ.",
+      "confidence": 0.8857450144631522
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_029_text.png",
+      "bbox": [
+        [
+          291,
+          1261
+        ],
+        [
+          1330,
+          1261
+        ],
+        [
+          1330,
+          1324
+        ],
+        [
+          291,
+          1324
+        ]
+      ],
+      "score": 0.5047173500061035,
+      "y_pos": 1261,
+      "text": "Vị trí: Ở phía ngoài đuôi mắt 0,1 thốn. (H.125)",
+      "confidence": 0.9944078764136957
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_026_text.png",
+      "bbox": [
+        [
+          289,
+          1447
+        ],
+        [
+          1158,
+          1447
+        ],
+        [
+          1158,
+          1505
+        ],
+        [
+          289,
+          1505
+        ]
+      ],
+      "score": 0.5241138339042664,
+      "y_pos": 1447,
+      "text": "Chủ trị: Đau bên đầu, liệt mặt, co giật.",
+      "confidence": 0.8497204411597479
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0254_009_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          1540
+        ],
+        [
+          686,
+          1540
+        ],
+        [
+          686,
+          1593
+        ],
+        [
+          228,
+          1593
+        ]
+      ],
+      "score": 0.6864964962005615,
+      "y_pos": 1540,
+      "text": "227. Nôi Tình minh",
+      "confidence": 0.843040844798088
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_020_text.png",
+      "bbox": [
+        [
+          291,
+          1628
+        ],
+        [
+          1649,
+          1628
+        ],
+        [
+          1649,
+          1691
+        ],
+        [
+          291,
+          1691
+        ]
+      ],
+      "score": 0.5494011044502258,
+      "y_pos": 1628,
+      "text": "Vị trí: Ở trong khoé mắt, bên trên chỗ tạo nước mắt. (H.125)",
+      "confidence": 0.9944468063692893
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_016_text.png",
+      "bbox": [
+        [
+          290,
+          1723
+        ],
+        [
+          1352,
+          1723
+        ],
+        [
+          1352,
+          1778
+        ],
+        [
+          290,
+          1778
+        ]
+      ],
+      "score": 0.5603265166282654,
+      "y_pos": 1723,
+      "text": "Cách châm: Châm đứng kim, sâu 1 – 1,5 thốn.",
+      "confidence": 0.9803890294498867
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_017_text.png",
+      "bbox": [
+        [
+          287,
+          1813
+        ],
+        [
+          1783,
+          1813
+        ],
+        [
+          1783,
+          1873
+        ],
+        [
+          287,
+          1873
+        ]
+      ],
+      "score": 0.5590652227401733,
+      "y_pos": 1813,
+      "text": "Chủ trị: Xuất huyết võng mạc, teo thần kinh thị giác, viêm kết mạc.",
+      "confidence": 0.9054894430049951
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0254_007_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1906
+        ],
+        [
+          505,
+          1906
+        ],
+        [
+          505,
+          1964
+        ],
+        [
+          229,
+          1964
+        ]
+      ],
+      "score": 0.713003396987915,
+      "y_pos": 1906,
+      "text": "228. Ty lưu",
+      "confidence": 0.774764767059913
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_015_text.png",
+      "bbox": [
+        [
+          290,
+          1996
+        ],
+        [
+          1834,
+          1996
+        ],
+        [
+          1834,
+          2057
+        ],
+        [
+          290,
+          2057
+        ]
+      ],
+      "score": 0.5733600854873657,
+      "y_pos": 1996,
+      "text": "Vị trí: Giữa lỗ mũi thẳng xuống bên dưới chân sụn cách mũi. (H.125)",
+      "confidence": 0.9966560066610143
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_018_text.png",
+      "bbox": [
+        [
+          288,
+          2088
+        ],
+        [
+          1321,
+          2088
+        ],
+        [
+          1321,
+          2146
+        ],
+        [
+          288,
+          2146
+        ]
+      ],
+      "score": 0.5554772615432739,
+      "y_pos": 2088,
+      "text": "Cách châm: Châm chếch, sâu 0,3 - 0,5 thốn.",
+      "confidence": 0.6857750591906634
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_023_text.png",
+      "bbox": [
+        [
+          289,
+          2181
+        ],
+        [
+          1438,
+          2181
+        ],
+        [
+          1438,
+          2239
+        ],
+        [
+          289,
+          2239
+        ]
+      ],
+      "score": 0.5431925654411316,
+      "y_pos": 2181,
+      "text": "Chủ trị: Viêm mũi, đau thần kinh tam thoa, liệt mặt.",
+      "confidence": 0.9884188914740527
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0254_006_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          2270
+        ],
+        [
+          545,
+          2270
+        ],
+        [
+          545,
+          2324
+        ],
+        [
+          229,
+          2324
+        ]
+      ],
+      "score": 0.7206165194511414,
+      "y_pos": 2270,
+      "text": "229. Tán tiếu",
+      "confidence": 0.9675021012624104
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_014_text.png",
+      "bbox": [
+        [
+          289,
+          2363
+        ],
+        [
+          2138,
+          2363
+        ],
+        [
+          2138,
+          2424
+        ],
+        [
+          289,
+          2424
+        ]
+      ],
+      "score": 0.5761516094207764,
+      "y_pos": 2363,
+      "text": "Vị trí: Ở phía ngoài và phía dưới huyệt Nghinh hương, trong rãnh má mũi. (H.125).",
+      "confidence": 0.9936831442706556
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_022_text.png",
+      "bbox": [
+        [
+          289,
+          2455
+        ],
+        [
+          1321,
+          2455
+        ],
+        [
+          1321,
+          2512
+        ],
+        [
+          289,
+          2512
+        ]
+      ],
+      "score": 0.5472007393836975,
+      "y_pos": 2455,
+      "text": "Cách châm: Châm chếch, sâu 0,3 - 0,5 thốn.",
+      "confidence": 0.677283143455332
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_019_text.png",
+      "bbox": [
+        [
+          286,
+          2548
+        ],
+        [
+          1550,
+          2548
+        ],
+        [
+          1550,
+          2607
+        ],
+        [
+          286,
+          2607
+        ]
+      ],
+      "score": 0.5507879853248596,
+      "y_pos": 2548,
+      "text": "Chủ trị: Viêm mũi tắc mũi, mũi có mụn, liệt mặt, co giật.",
+      "confidence": 0.9853395516589537
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0254_005_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          2636
+        ],
+        [
+          571,
+          2636
+        ],
+        [
+          571,
+          2691
+        ],
+        [
+          228,
+          2691
+        ]
+      ],
+      "score": 0.7838726043701172,
+      "y_pos": 2636,
+      "text": "230. Yến khẩu",
+      "confidence": 0.9766402244567871
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_024_text.png",
+      "bbox": [
+        [
+          290,
+          2730
+        ],
+        [
+          1443,
+          2730
+        ],
+        [
+          1443,
+          2791
+        ],
+        [
+          290,
+          2791
+        ]
+      ],
+      "score": 0.5354551076889038,
+      "y_pos": 2730,
+      "text": "Vị trí: Ở hai bên góc mép, chỗ da trắng đỏ. (H.125)",
+      "confidence": 0.9931423124277367
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_021_text.png",
+      "bbox": [
+        [
+          289,
+          2822
+        ],
+        [
+          1278,
+          2822
+        ],
+        [
+          1278,
+          2878
+        ],
+        [
+          289,
+          2878
+        ]
+      ],
+      "score": 0.5482974052429199,
+      "y_pos": 2822,
+      "text": "Cách châm: Châm chếch, sâu 0,5 - 1 thốn.",
+      "confidence": 0.6507689413570222
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_010_text.png",
+      "bbox": [
+        [
+          225,
+          2915
+        ],
+        [
+          2200,
+          2915
+        ],
+        [
+          2200,
+          3066
+        ],
+        [
+          225,
+          3066
+        ]
+      ],
+      "score": 0.6456979513168335,
+      "y_pos": 2915,
+      "text": "Chủ trị: Liệt mặt, đau thần kinh tam thoa, trẻ em co giật, bí đại tiện căng bàng quang.\n231. Địa hợp",
+      "confidence": 0.9529312067630777
+    },
+    {
+      "type": "text",
+      "img_path": "p0254_012_text.png",
+      "bbox": [
+        [
+          290,
+          3095
+        ],
+        [
+          2073,
+          3095
+        ],
+        [
+          2073,
+          3157
+        ],
+        [
+          290,
+          3157
+        ]
+      ],
+      "score": 0.6084762215614319,
+      "y_pos": 3095,
+      "text": "Vị trí: Chính giữa xương hàm dưới, ở phía trước cằm, chỗ lồi cao nhất. (H.125)",
+      "confidence": 0.9930683210492134
+    },
+    {
+      "type": "footer",
+      "img_path": "p0254_001_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.918304443359375,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0254_003_number.png",
+      "bbox": [
+        [
+          2279,
+          3338
+        ],
+        [
+          2351,
+          3338
+        ],
+        [
+          2351,
+          3377
+        ],
+        [
+          2279,
+          3377
+        ]
+      ],
+      "score": 0.8934213519096375,
+      "y_pos": 3338,
+      "text": "    \n    \n\n\n\n\n    \n\n\n    -\n        \n",
+      "confidence": 0.9790766702757941
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0254.png"
+}

@@ -1,0 +1,162 @@
+{
+  "page_num": 580,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0580_001_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9127197265625,
+      "y_pos": 143,
+      "text": "~?    ~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6602049969018452
+    },
+    {
+      "type": "header",
+      "img_path": "p0580_000_header.png",
+      "bbox": [
+        [
+          228,
+          151
+        ],
+        [
+          1466,
+          151
+        ],
+        [
+          1466,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9175408482551575,
+      "y_pos": 151,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TÂN, KỲ HUYỆT",
+      "confidence": 0.996946144104004
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0580_004_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          324
+        ],
+        [
+          726,
+          324
+        ],
+        [
+          726,
+          380
+        ],
+        [
+          225,
+          380
+        ]
+      ],
+      "score": 0.7609458565711975,
+      "y_pos": 324,
+      "text": "Phần 27. BÊNH MÁU",
+      "confidence": 0.806612839824275
+    },
+    {
+      "type": "text",
+      "img_path": "p0580_005_text.png",
+      "bbox": [
+        [
+          224,
+          418
+        ],
+        [
+          1597,
+          418
+        ],
+        [
+          1597,
+          566
+        ],
+        [
+          224,
+          566
+        ]
+      ],
+      "score": 0.7291905879974365,
+      "y_pos": 418,
+      "text": "328. Thiếu máu: Lục hoa, Bát hoa, Bần huyết linh, Khí trung.\n329. Tất cả các loại xuất huyết: Huyết sầu.",
+      "confidence": 0.9990825330271089
+    },
+    {
+      "type": "number",
+      "img_path": "p0580_003_number.png",
+      "bbox": [
+        [
+          2316,
+          3336
+        ],
+        [
+          2367,
+          3336
+        ],
+        [
+          2367,
+          3373
+        ],
+        [
+          2316,
+          3373
+        ]
+      ],
+      "score": 0.8651940822601318,
+      "y_pos": 3336,
+      "text": "    \n            \n        \n    \n\n\n\n\n\n        \n    \n    \n۰            \n    \n",
+      "confidence": 0.9838791698217392
+    },
+    {
+      "type": "footer",
+      "img_path": "p0580_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3340
+        ],
+        [
+          1325,
+          3340
+        ],
+        [
+          1325,
+          3388
+        ],
+        [
+          229,
+          3388
+        ]
+      ],
+      "score": 0.9000594615936279,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9989431905296614
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0580.png"
+}

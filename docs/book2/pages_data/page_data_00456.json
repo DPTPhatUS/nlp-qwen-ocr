@@ -1,0 +1,396 @@
+{
+  "page_num": 456,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0456_006_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.929967999458313,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.784148439410187
+    },
+    {
+      "type": "header",
+      "img_path": "p0456_007_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.920957624912262,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0456_008_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          331
+        ],
+        [
+          697,
+          331
+        ],
+        [
+          697,
+          380
+        ],
+        [
+          225,
+          380
+        ]
+      ],
+      "score": 0.9207777976989746,
+      "y_pos": 331,
+      "text": "26. Đau sườn ngực",
+      "confidence": 0.8411970138549805
+    },
+    {
+      "type": "text",
+      "img_path": "p0456_001_text.png",
+      "bbox": [
+        [
+          221,
+          420
+        ],
+        [
+          2361,
+          420
+        ],
+        [
+          2361,
+          616
+        ],
+        [
+          221,
+          616
+        ]
+      ],
+      "score": 0.9779550433158875,
+      "y_pos": 420,
+      "text": "Là bệnh đau giữa ngực và đau hai bên sườn, thường kèm theo khó chịu, buồn bã ở ngực, thở\nhít khó, kém ăn, không thở sâu được, không ho to tiếng được. Tâm trạng không thoải mái, khí\nhuyết vận hành khó, hoặc vấp ngã, va đập, huyết ứ đình trệ, đều có thể gây ra đau sườn, ngực.",
+      "confidence": 0.9994332782545158
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0456_014_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          656
+        ],
+        [
+          571,
+          656
+        ],
+        [
+          571,
+          701
+        ],
+        [
+          285,
+          701
+        ]
+      ],
+      "score": 0.6319904327392578,
+      "y_pos": 656,
+      "text": "Cách chữa:",
+      "confidence": 0.8389611939589182
+    },
+    {
+      "type": "text",
+      "img_path": "p0456_011_text.png",
+      "bbox": [
+        [
+          285,
+          745
+        ],
+        [
+          1566,
+          745
+        ],
+        [
+          1566,
+          797
+        ],
+        [
+          285,
+          797
+        ]
+      ],
+      "score": 0.7940282225608826,
+      "y_pos": 745,
+      "text": "\n    Phương 1: Lấy huyệt Chi câu, Thái xung, Ngoại quan.\n",
+      "confidence": 0.9814007398370025
+    },
+    {
+      "type": "text",
+      "img_path": "p0456_005_text.png",
+      "bbox": [
+        [
+          326,
+          836
+        ],
+        [
+          2361,
+          836
+        ],
+        [
+          2361,
+          958
+        ],
+        [
+          326,
+          958
+        ]
+      ],
+      "score": 0.9607599973678589,
+      "y_pos": 836,
+      "text": "Dùng kim châm, làm thủ pháp bình bổ, bình tả, lưu kim 30 phút. Dứt đau thì rút kim, hoặc\ngia thêm <i>Túc khiếu âm</i>.",
+      "confidence": 0.9933543593710304
+    },
+    {
+      "type": "text",
+      "img_path": "p0456_000_text.png",
+      "bbox": [
+        [
+          333,
+          999
+        ],
+        [
+          2363,
+          999
+        ],
+        [
+          2363,
+          1261
+        ],
+        [
+          333,
+          1261
+        ]
+      ],
+      "score": 0.9824644923210144,
+      "y_pos": 999,
+      "text": "Giảng nghĩa của phương: Phương này sơ điều kinh khí của can đảm. Can và đảm cùng\nbiểu lý mach huyết âm và thiếu dương đều ở ngực, sườn. Do vậy mà <i>Thái xung, Ngoại</i>\nquan phối hợp để sơ tiết can khí, tả chi câu để điều khí cơ, làm cho khí huyết thông dẫn,\nbênh tât tư khỏi.",
+      "confidence": 0.9953759074079644
+    },
+    {
+      "type": "text",
+      "img_path": "p0456_012_text.png",
+      "bbox": [
+        [
+          287,
+          1304
+        ],
+        [
+          1066,
+          1304
+        ],
+        [
+          1066,
+          1355
+        ],
+        [
+          287,
+          1355
+        ]
+      ],
+      "score": 0.6817997097969055,
+      "y_pos": 1304,
+      "text": "\n    Phương 2: Lây huyệt Nội quan.\n",
+      "confidence": 0.9696933096105402
+    },
+    {
+      "type": "text",
+      "img_path": "p0456_003_text.png",
+      "bbox": [
+        [
+          333,
+          1393
+        ],
+        [
+          2360,
+          1393
+        ],
+        [
+          2360,
+          1517
+        ],
+        [
+          333,
+          1517
+        ]
+      ],
+      "score": 0.9633592963218689,
+      "y_pos": 1393,
+      "text": "Dùng hào kim vê chuyển tiến kim và nâng ấn, lưu kim 30 phút, mỗi ngày châm một lần, để\ngiãn nở lồng ngực, giải cơ hoành, điều hoà vị.",
+      "confidence": 0.9966417518867687
+    },
+    {
+      "type": "text",
+      "img_path": "p0456_013_text.png",
+      "bbox": [
+        [
+          287,
+          1558
+        ],
+        [
+          1018,
+          1558
+        ],
+        [
+          1018,
+          1609
+        ],
+        [
+          287,
+          1609
+        ]
+      ],
+      "score": 0.6392037272453308,
+      "y_pos": 1558,
+      "text": "• <b>Phương 3:</b> Lây huyệt <i>Ngư tê</i>.",
+      "confidence": 0.9528095262391226
+    },
+    {
+      "type": "text",
+      "img_path": "p0456_004_text.png",
+      "bbox": [
+        [
+          332,
+          1648
+        ],
+        [
+          2361,
+          1648
+        ],
+        [
+          2361,
+          1771
+        ],
+        [
+          332,
+          1771
+        ]
+      ],
+      "score": 0.9623135924339294,
+      "y_pos": 1648,
+      "text": "Ở khu vực huyệt <i>Ngư tế</i>, tìm cho ra điểm ấn đau, dùng hào kim châm đứng, sâu 6 đến 8\nphân, lưu kim 30 phút, mỗi ngày châm một lần, để thanh tiết nội nhiệt.",
+      "confidence": 0.9856160173185484
+    },
+    {
+      "type": "text",
+      "img_path": "p0456_002_text.png",
+      "bbox": [
+        [
+          333,
+          1813
+        ],
+        [
+          2361,
+          1813
+        ],
+        [
+          2361,
+          2005
+        ],
+        [
+          333,
+          2005
+        ]
+      ],
+      "score": 0.97518390417099,
+      "y_pos": 1813,
+      "text": "Trên lâm sàng, đau cả lồng ngực và các bộ phận trong lồng ngực thường châm <i>Nội quan</i>.\nĐau vùng ngực thường châm <i>Ngoại quan</i>. Đau sườn thường châm <i>Chi câu</i>. Lồng ngực\nvà nội tạng can, tỳ đau, gia huyệt <i>Can du, Đảm du</i>.",
+      "confidence": 0.9916254636088909
+    },
+    {
+      "type": "number",
+      "img_path": "p0456_010_number.png",
+      "bbox": [
+        [
+          2304,
+          3300
+        ],
+        [
+          2352,
+          3300
+        ],
+        [
+          2352,
+          3334
+        ],
+        [
+          2304,
+          3334
+        ]
+      ],
+      "score": 0.8674511909484863,
+      "y_pos": 3300,
+      "text": "    \n            \n        \n\n\n    \n    \n    \n        \n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0456_009_footer.png",
+      "bbox": [
+        [
+          229,
+          3310
+        ],
+        [
+          1324,
+          3310
+        ],
+        [
+          1324,
+          3355
+        ],
+        [
+          229,
+          3355
+        ]
+      ],
+      "score": 0.9128627777099609,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985551654167895
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0456.png"
+}

@@ -1,0 +1,604 @@
+{
+  "page_num": 236,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0236_018_text.png",
+      "bbox": [
+        [
+          407,
+          451
+        ],
+        [
+          1526,
+          451
+        ],
+        [
+          1526,
+          502
+        ],
+        [
+          407,
+          502
+        ]
+      ],
+      "score": 0.9017251133918762,
+      "y_pos": 451,
+      "text": "- Bệnh lý tích nhiệt đến mùa thu mới phát bệnh.",
+      "confidence": 0.659166081827514
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0236_008_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          560
+        ],
+        [
+          759,
+          560
+        ],
+        [
+          759,
+          607
+        ],
+        [
+          344,
+          607
+        ]
+      ],
+      "score": 0.9234264492988586,
+      "y_pos": 560,
+      "text": "2.1.9.2. Bênh sinh",
+      "confidence": 0.9214766651391983
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_003_text.png",
+      "bbox": [
+        [
+          343,
+          654
+        ],
+        [
+          2124,
+          654
+        ],
+        [
+          2124,
+          763
+        ],
+        [
+          343,
+          763
+        ]
+      ],
+      "score": 0.9642773270606995,
+      "y_pos": 654,
+      "text": "Phế âm chủ Khí, Tâm chủ huyết. Tâm và Phế phối hợp làm khí huyết\nvận hành duy trì các hoạt động của cơ thể.",
+      "confidence": 0.9977515296954097
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_001_text.png",
+      "bbox": [
+        [
+          342,
+          794
+        ],
+        [
+          2124,
+          794
+        ],
+        [
+          2124,
+          961
+        ],
+        [
+          342,
+          961
+        ]
+      ],
+      "score": 0.9726567268371582,
+      "y_pos": 794,
+      "text": "Khí thuộc dương, huyết thuộc âm. Khí thúc đẩy huyết vận hành, huyết đi\nkéo theo khí. Nếu khí không thúc đẩy huyết thì huyết sẽ ngưng gây ứ huyết.\nNếu không có huyết thì khí mất chỗ dựa phân tán đi mà không thu lại được.",
+      "confidence": 0.9983155745889475
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_022_text.png",
+      "bbox": [
+        [
+          461,
+          992
+        ],
+        [
+          1145,
+          992
+        ],
+        [
+          1145,
+          1041
+        ],
+        [
+          461,
+          1041
+        ]
+      ],
+      "score": 0.8398677110671997,
+      "y_pos": 992,
+      "text": "Trên lâm sàng thấy xuất hiện",
+      "confidence": 0.9983586311340332
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_006_text.png",
+      "bbox": [
+        [
+          407,
+          1075
+        ],
+        [
+          2127,
+          1075
+        ],
+        [
+          2127,
+          1186
+        ],
+        [
+          407,
+          1186
+        ]
+      ],
+      "score": 0.9559635519981384,
+      "y_pos": 1075,
+      "text": "- Tâm khí không đầy đủ gây huyết ứ làm trở ngại đến Phế mạch, làm Phế\nkhí không tuyên giáng gây chứng háo suyễn.",
+      "confidence": 0.99586370490997
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_002_text.png",
+      "bbox": [
+        [
+          407,
+          1217
+        ],
+        [
+          2126,
+          1217
+        ],
+        [
+          2126,
+          1381
+        ],
+        [
+          407,
+          1381
+        ]
+      ],
+      "score": 0.9719683527946472,
+      "y_pos": 1217,
+      "text": "- Tâm chủ về hỏa, Tâm hỏa vượng lên ảnh hưởng đến Phế âm một mặt\nxuất hiện các chứng Tâm phiền, mất ngủ. Mặt khác xuất hiện các chứng\nho, ho ra máu.",
+      "confidence": 0.9899024998954622
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_000_text.png",
+      "bbox": [
+        [
+          408,
+          1415
+        ],
+        [
+          2122,
+          1415
+        ],
+        [
+          2122,
+          1581
+        ],
+        [
+          408,
+          1581
+        ]
+      ],
+      "score": 0.9733366966247559,
+      "y_pos": 1415,
+      "text": "- Phế khí hư nhược, tông khí trong Tâm mạch không đầy đủ gây ra Tâm\nPhế đều hư, Tâm khí không đầy đủ, không thúc đẩy Tâm huyết làm đau\nvùng ngực.",
+      "confidence": 0.984781951233046
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0236_009_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1640
+        ],
+        [
+          1028,
+          1640
+        ],
+        [
+          1028,
+          1689
+        ],
+        [
+          344,
+          1689
+        ]
+      ],
+      "score": 0.9227954149246216,
+      "y_pos": 1640,
+      "text": "2.1.9.3. Triệu chứng lâm sàng",
+      "confidence": 0.9961474480167511
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_005_text.png",
+      "bbox": [
+        [
+          457,
+          1735
+        ],
+        [
+          2122,
+          1735
+        ],
+        [
+          2122,
+          1842
+        ],
+        [
+          457,
+          1842
+        ]
+      ],
+      "score": 0.9592504501342773,
+      "y_pos": 1735,
+      "text": "Toàn thân mệt mỏi, dã dượi. Đau vùng ngực. Khó thở, hoặc thở nông,\nnhanh. Tay chân lanh.",
+      "confidence": 0.9948625867743321
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_004_text.png",
+      "bbox": [
+        [
+          407,
+          1874
+        ],
+        [
+          2123,
+          1874
+        ],
+        [
+          2123,
+          1980
+        ],
+        [
+          407,
+          1980
+        ]
+      ],
+      "score": 0.9592724442481995,
+      "y_pos": 1874,
+      "text": "- Ho thiếu hơi. Tự hãn. Da trắng bệch. Tiểu ít. Hồi hộp, trống ngực. Mạch\như, tế.",
+      "confidence": 0.9820148236221737
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0236_013_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          2042
+        ],
+        [
+          1175,
+          2042
+        ],
+        [
+          1175,
+          2093
+        ],
+        [
+          343,
+          2093
+        ]
+      ],
+      "score": 0.9116976261138916,
+      "y_pos": 2042,
+      "text": "2.1.9.4. Bệnh cảnh Tây y thường gặp",
+      "confidence": 0.972458536560471
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_011_text.png",
+      "bbox": [
+        [
+          407,
+          2138
+        ],
+        [
+          799,
+          2138
+        ],
+        [
+          799,
+          2187
+        ],
+        [
+          407,
+          2187
+        ]
+      ],
+      "score": 0.916246235370636,
+      "y_pos": 2138,
+      "text": "Tâm phế man.",
+      "confidence": 0.9857536213738578
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_015_text.png",
+      "bbox": [
+        [
+          409,
+          2224
+        ],
+        [
+          672,
+          2224
+        ],
+        [
+          672,
+          2267
+        ],
+        [
+          409,
+          2267
+        ]
+      ],
+      "score": 0.9084593057632446,
+      "y_pos": 2224,
+      "text": "\n_    ,\n•    .",
+      "confidence": 0.6966819047927857
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_007_text.png",
+      "bbox": [
+        [
+          409,
+          2307
+        ],
+        [
+          921,
+          2307
+        ],
+        [
+          921,
+          2356
+        ],
+        [
+          409,
+          2356
+        ]
+      ],
+      "score": 0.9328118562698364,
+      "y_pos": 2307,
+      "text": "Xơ cứng động mạch.",
+      "confidence": 0.9874476224184037
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0236_010_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          2412
+        ],
+        [
+          723,
+          2412
+        ],
+        [
+          723,
+          2460
+        ],
+        [
+          344,
+          2460
+        ]
+      ],
+      "score": 0.916724443435669,
+      "y_pos": 2412,
+      "text": "2.1.9.5. Pháp tri",
+      "confidence": 0.9553659307329279
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_020_text.png",
+      "bbox": [
+        [
+          461,
+          2511
+        ],
+        [
+          868,
+          2511
+        ],
+        [
+          868,
+          2565
+        ],
+        [
+          461,
+          2565
+        ]
+      ],
+      "score": 0.8925398588180542,
+      "y_pos": 2511,
+      "text": "Ích khí dưỡng âm",
+      "confidence": 0.9638711048497094
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_017_text.png",
+      "bbox": [
+        [
+          408,
+          2597
+        ],
+        [
+          844,
+          2597
+        ],
+        [
+          844,
+          2645
+        ],
+        [
+          408,
+          2645
+        ]
+      ],
+      "score": 0.9018506407737732,
+      "y_pos": 2597,
+      "text": "Bổ ích Tâm Phế.",
+      "confidence": 0.9977256655693054
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_019_text.png",
+      "bbox": [
+        [
+          461,
+          2681
+        ],
+        [
+          1505,
+          2681
+        ],
+        [
+          1505,
+          2734
+        ],
+        [
+          461,
+          2734
+        ]
+      ],
+      "score": 0.8985359072685242,
+      "y_pos": 2681,
+      "text": "Các bài thuốc Y học cổ truyền thường sử dụng",
+      "confidence": 0.9992773571740026
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_016_text.png",
+      "bbox": [
+        [
+          464,
+          2768
+        ],
+        [
+          815,
+          2768
+        ],
+        [
+          815,
+          2816
+        ],
+        [
+          464,
+          2816
+        ]
+      ],
+      "score": 0.9067036509513855,
+      "y_pos": 2768,
+      "text": "Bát trân thang",
+      "confidence": 0.974046491086483
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_014_text.png",
+      "bbox": [
+        [
+          410,
+          2850
+        ],
+        [
+          1119,
+          2850
+        ],
+        [
+          1119,
+          2902
+        ],
+        [
+          410,
+          2902
+        ]
+      ],
+      "score": 0.9088202118873596,
+      "y_pos": 2850,
+      "text": "- Nhân sâm dưỡng vinh thang",
+      "confidence": 0.5345533819034182
+    },
+    {
+      "type": "number",
+      "img_path": "p0236_021_number.png",
+      "bbox": [
+        [
+          2042,
+          3109
+        ],
+        [
+          2120,
+          3109
+        ],
+        [
+          2120,
+          3146
+        ],
+        [
+          2042,
+          3146
+        ]
+      ],
+      "score": 0.8596439957618713,
+      "y_pos": 3109,
+      "text": "    ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0236_012_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.9151237607002258,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8789173466818673
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0236.png"
+}

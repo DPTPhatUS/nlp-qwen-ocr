@@ -1,0 +1,474 @@
+{
+  "page_num": 331,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0331_010_header.png",
+      "bbox": [
+        [
+          1608,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1608,
+          201
+        ]
+      ],
+      "score": 0.9317453503608704,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7647857155118669
+    },
+    {
+      "type": "header",
+      "img_path": "p0331_013_header.png",
+      "bbox": [
+        [
+          230,
+          156
+        ],
+        [
+          945,
+          156
+        ],
+        [
+          945,
+          204
+        ],
+        [
+          230,
+          204
+        ]
+      ],
+      "score": 0.9185784459114075,
+      "y_pos": 156,
+      "text": "TANG PHỦ BIÊN CHÚNG LUÂN TRI",
+      "confidence": 0.9021184047063192
+    },
+    {
+      "type": "text",
+      "img_path": "p0331_002_text.png",
+      "bbox": [
+        [
+          284,
+          306
+        ],
+        [
+          2363,
+          306
+        ],
+        [
+          2363,
+          572
+        ],
+        [
+          284,
+          572
+        ]
+      ],
+      "score": 0.9805902242660522,
+      "y_pos": 306,
+      "text": "c. Phép chữa: Nên cùng bổ thận âm, thận dương, dùng Thục địa, Sơn dược, Câu kỷ tử, Đỗ\ntrọng, Sơn thù nhục, Thỏ ty tử, Tang thậm, Phục linh, Chích cam thảo (gia giảm Tả qui\nẩm, Hữu qui ẩm). Nếu nghiêng về dương hư nhiều, có thể gia Ba kích, Nhục quế; nghiêng\nvề âm hư nhiều thì liệu mà gia <i>Quy bản, Miết giáp, Đan bì</i>.",
+      "confidence": 0.9927122962416257
+    },
+    {
+      "type": "text",
+      "img_path": "p0331_009_text.png",
+      "bbox": [
+        [
+          336,
+          609
+        ],
+        [
+          2360,
+          609
+        ],
+        [
+          2360,
+          733
+        ],
+        [
+          336,
+          733
+        ]
+      ],
+      "score": 0.9599822163581848,
+      "y_pos": 609,
+      "text": "Trên đây là kể thận âm hư, thận dương hư. Đối với tên bệnh của Tây y, nếu như có xuất\nhiện thận âm hư, thận dương cũng hư thì cách chữa như trên.",
+      "confidence": 0.9994061947127217
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0331_012_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          772
+        ],
+        [
+          724,
+          772
+        ],
+        [
+          724,
+          823
+        ],
+        [
+          225,
+          823
+        ]
+      ],
+      "score": 0.919840395450592,
+      "y_pos": 772,
+      "text": "4. Tâm thân bất giao",
+      "confidence": 0.9712970012968237
+    },
+    {
+      "type": "text",
+      "img_path": "p0331_008_text.png",
+      "bbox": [
+        [
+          285,
+          864
+        ],
+        [
+          2359,
+          864
+        ],
+        [
+          2359,
+          987
+        ],
+        [
+          285,
+          987
+        ]
+      ],
+      "score": 0.9636949300765991,
+      "y_pos": 864,
+      "text": "a. Triệu chứng: Tim hồi hộp, buồn bã, váng đầu, mất ngủ, tai ù, điếc, hay quên, lưng gối\nmỏi, đau, lưỡi non, hồng, mach tế hoặc tế sác.",
+      "confidence": 0.9956471889383263
+    },
+    {
+      "type": "text",
+      "img_path": "p0331_003_text.png",
+      "bbox": [
+        [
+          285,
+          1027
+        ],
+        [
+          2358,
+          1027
+        ],
+        [
+          2358,
+          1220
+        ],
+        [
+          285,
+          1220
+        ]
+      ],
+      "score": 0.9766579866409302,
+      "y_pos": 1027,
+      "text": "b. Bệnh lý: Tim và thận giúp nhau chế ước, giúp nhau trợ sinh, cùng phò cùng thành. Nếu\ntim, thận mất điều hoà sinh ra tim hồi hộp, rối loạn thần kinh tim, mất ngủ, tai ù, điếc, lưng\ngối đau mỏi.",
+      "confidence": 0.9938170781120889
+    },
+    {
+      "type": "text",
+      "img_path": "p0331_001_text.png",
+      "bbox": [
+        [
+          285,
+          1261
+        ],
+        [
+          2360,
+          1261
+        ],
+        [
+          2360,
+          1598
+        ],
+        [
+          285,
+          1598
+        ]
+      ],
+      "score": 0.9824544787406921,
+      "y_pos": 1261,
+      "text": "c. Phép chữa: Nên dưỡng tâm thận, dùng Lục vị địa hoàng thang gia Ngũ vị tử, Toan táo\nnhân, Pháp Bán hạ. Nếu có mộng di tinh gia Liên tu, Khiếm thực. Nếu hư hoả vượng, mất\nngủ nhiều, thì gia <i>Hoàng liên, Nhục quế tâm</i> (<i>Hoàng liên</i> dùng để thanh tâm hoả ở tim, gia\nNhục quế nhập thận để dẫn hoả quy nguyên, làm ngược tình thế để giao thông tâm thận.\nPhương này được gọi là <i>Giao thái hoàn</i>).",
+      "confidence": 0.9532077931429684
+    },
+    {
+      "type": "text",
+      "img_path": "p0331_016_text.png",
+      "bbox": [
+        [
+          339,
+          1635
+        ],
+        [
+          2307,
+          1635
+        ],
+        [
+          2307,
+          1690
+        ],
+        [
+          339,
+          1690
+        ]
+      ],
+      "score": 0.9061430096626282,
+      "y_pos": 1635,
+      "text": "Chứng thần kinh chức năng thuộc về tâm thận bất giao, có thể dùng phép trên để chữa.",
+      "confidence": 0.9884977902090827
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0331_011_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1725
+        ],
+        [
+          838,
+          1725
+        ],
+        [
+          838,
+          1779
+        ],
+        [
+          225,
+          1779
+        ]
+      ],
+      "score": 0.9229898452758789,
+      "y_pos": 1725,
+      "text": "5. Bàng quang thấp nhiệt",
+      "confidence": 0.9484806817311507
+    },
+    {
+      "type": "text",
+      "img_path": "p0331_006_text.png",
+      "bbox": [
+        [
+          285,
+          1819
+        ],
+        [
+          2359,
+          1819
+        ],
+        [
+          2359,
+          1942
+        ],
+        [
+          285,
+          1942
+        ]
+      ],
+      "score": 0.9648817777633667,
+      "y_pos": 1819,
+      "text": "a. Triệu chứng: Sốt cao hoặc sợ gió, đái dắt, đái vội, đái đau, hoặc đái liên miên, đái tụ\nnhiên đứt, nước đái đục, có cát sỏi, rêu lưỡi vàng hoặc trơn, mạch sác (nhanh).",
+      "confidence": 0.996565958911926
+    },
+    {
+      "type": "text",
+      "img_path": "p0331_000_text.png",
+      "bbox": [
+        [
+          285,
+          1982
+        ],
+        [
+          2360,
+          1982
+        ],
+        [
+          2360,
+          2315
+        ],
+        [
+          285,
+          2315
+        ]
+      ],
+      "score": 0.9842910766601562,
+      "y_pos": 1982,
+      "text": "b. Bệnh lý: Bàng quang thấp nhiệt, nội nhiệt thịnh làm cho phát sốt. Nếu kiêm biểu chứng thì\nthấy sợ lạnh. Bàng quang thấp nhiệt chú xuống dưới thì đái khó, đái són, đái vội, đái đục,\nbuốt, đái luôn không thấy dứt. Thấp nhiệt nóng ở trong lâu ngày thì đái có cát sỏi; thấp\nnhiệt quá thịnh thì đái có máu mủ. Rêu lưỡi vàng trơn, mạch sác là tượng mạch và tượng\nlưỡi của thấp thinh.",
+      "confidence": 0.9343173388957077
+    },
+    {
+      "type": "text",
+      "img_path": "p0331_005_text.png",
+      "bbox": [
+        [
+          286,
+          2358
+        ],
+        [
+          2361,
+          2358
+        ],
+        [
+          2361,
+          2550
+        ],
+        [
+          286,
+          2550
+        ]
+      ],
+      "score": 0.9740469455718994,
+      "y_pos": 2358,
+      "text": "c. Phép chữa: Nên thanh nhiệt, lợi niệu, dùng Bát chính tán gia Kim sa tàm, Diệp hạ châu,\nKim ti thảo. Nếu có cát sỏi gia Kim tiền thảo, Hải kim sa. Nếu đi đái ra máu thì gia thuốc\nmát máu, cầm máu như Sinh địa hoàng, Đại kế, Tiểu kế, Bạch mạo căn, Tử châu thảo.",
+      "confidence": 0.9978927835718401
+    },
+    {
+      "type": "text",
+      "img_path": "p0331_007_text.png",
+      "bbox": [
+        [
+          327,
+          2587
+        ],
+        [
+          2360,
+          2587
+        ],
+        [
+          2360,
+          2784
+        ],
+        [
+          327,
+          2784
+        ]
+      ],
+      "score": 0.9648147821426392,
+      "y_pos": 2587,
+      "text": "Viêm đường tiết niệu hoặc sỏi, viêm cấp tính tuyến tiền liệt thuộc về bàng quang thấp\nnhiệt, có thể dùng phép trên mà chữa. Nếu bí đái thuộc bàng quang thấp nhiệt có thể\ndùng <i>Bát chính tán</i>, hoặc gia nhĩ tâm (<i>Thận khu, Bàng quang khu</i>) để chữa.",
+      "confidence": 0.9959694629807269
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0331_014_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2820
+        ],
+        [
+          1434,
+          2820
+        ],
+        [
+          1434,
+          2875
+        ],
+        [
+          225,
+          2875
+        ]
+      ],
+      "score": 0.9173649549484253,
+      "y_pos": 2820,
+      "text": "B. Điểm chủ yếu để luận trị về bang quang và thận",
+      "confidence": 0.9684281419305241
+    },
+    {
+      "type": "text",
+      "img_path": "p0331_004_text.png",
+      "bbox": [
+        [
+          285,
+          2914
+        ],
+        [
+          2359,
+          2914
+        ],
+        [
+          2359,
+          3108
+        ],
+        [
+          285,
+          3108
+        ]
+      ],
+      "score": 0.9752966165542603,
+      "y_pos": 2914,
+      "text": "a. Bệnh của thận ít thực chứng, không có biểu chứng. Thận hàn là do dương hư đưa đến.\nThận hoả vượng là do âm hư đưa đến. Cách chữa căn bản là bổ thận dương, tư thận âm\n(tư là giúp nuôi).",
+      "confidence": 0.9034914768730674
+    },
+    {
+      "type": "footer",
+      "img_path": "p0331_015_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9085246324539185,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0331_017_number.png",
+      "bbox": [
+        [
+          2304,
+          3337
+        ],
+        [
+          2354,
+          3337
+        ],
+        [
+          2354,
+          3373
+        ],
+        [
+          2304,
+          3373
+        ]
+      ],
+      "score": 0.8622893691062927,
+      "y_pos": 3337,
+      "text": "    \n    \n    \n    \n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0331.png"
+}

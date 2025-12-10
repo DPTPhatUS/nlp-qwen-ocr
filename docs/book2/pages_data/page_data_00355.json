@@ -1,0 +1,214 @@
+{
+  "page_num": 355,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0355_003_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1678,
+          196
+        ]
+      ],
+      "score": 0.9188262224197388,
+      "y_pos": 142,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7456070706248283
+    },
+    {
+      "type": "header",
+      "img_path": "p0355_004_header.png",
+      "bbox": [
+        [
+          228,
+          153
+        ],
+        [
+          1055,
+          153
+        ],
+        [
+          1055,
+          198
+        ],
+        [
+          228,
+          198
+        ]
+      ],
+      "score": 0.9153362512588501,
+      "y_pos": 153,
+      "text": "ÔN NHIỆT KINH BIÊN CHỨNG LUÂN TRI",
+      "confidence": 0.9449882047516959
+    },
+    {
+      "type": "text",
+      "img_path": "p0355_001_text.png",
+      "bbox": [
+        [
+          221,
+          308
+        ],
+        [
+          2358,
+          308
+        ],
+        [
+          2358,
+          502
+        ],
+        [
+          221,
+          502
+        ]
+      ],
+      "score": 0.9755856990814209,
+      "y_pos": 308,
+      "text": "không cao, ngực, bụng trên bĩ bứt rứt, quặn bụng, phân lỏng nhão, mình nặng mệt mỏi, rêu\nlưỡi nhầy, mạch hoãn, là tỳ uẩn thấp nhiệt (tỳ có thấp nhiệt ẩn náu). Đó là thời kỳ cao nhất của\nbệnh sốt thời khí, tương đương với chứng của bệnh ở khí phần.",
+      "confidence": 0.9996526581855408
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0355_005_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          541
+        ],
+        [
+          731,
+          541
+        ],
+        [
+          731,
+          591
+        ],
+        [
+          226,
+          591
+        ]
+      ],
+      "score": 0.9039033055305481,
+      "y_pos": 541,
+      "text": "3. Chứng của hạ tiêu",
+      "confidence": 0.9716786390001123
+    },
+    {
+      "type": "text",
+      "img_path": "p0355_000_text.png",
+      "bbox": [
+        [
+          222,
+          633
+        ],
+        [
+          2359,
+          633
+        ],
+        [
+          2359,
+          899
+        ],
+        [
+          222,
+          899
+        ]
+      ],
+      "score": 0.9787963628768921,
+      "y_pos": 633,
+      "text": "Bao quát chứng trạng của bệnh can, thận, như tà nhiệt hao thương thận âm có thể thấy lòng\nbàn tay bàn chân nóng, họng khô, tâm bứt rứt không ngủ được. Thận âm hao dẫn đến can âm\nhao, can phong nội động có thể thấy tay chân co động, tứ chi lạnh như băng, tâm động, nhảy,\nđó là thời kỳ cuối của bệnh sốt thời khí, tương đương với chứng của bệnh ở huyết phần.",
+      "confidence": 0.9995055130508828
+    },
+    {
+      "type": "text",
+      "img_path": "p0355_002_text.png",
+      "bbox": [
+        [
+          222,
+          936
+        ],
+        [
+          2358,
+          936
+        ],
+        [
+          2358,
+          1062
+        ],
+        [
+          222,
+          1062
+        ]
+      ],
+      "score": 0.9574858546257019,
+      "y_pos": 936,
+      "text": "Tam tiêu biện chứng cho rằng: Bệnh sốt thời khí đầu tiên xâm phạm vào thượng tiêu, và từ\nthượng tiêu hướng xuống trung tiêu và hạ tiêu mà chuyển biến.",
+      "confidence": 0.999803003479564
+    },
+    {
+      "type": "footer",
+      "img_path": "p0355_006_footer.png",
+      "bbox": [
+        [
+          230,
+          3338
+        ],
+        [
+          1343,
+          3338
+        ],
+        [
+          1343,
+          3385
+        ],
+        [
+          230,
+          3385
+        ]
+      ],
+      "score": 0.9013394713401794,
+      "y_pos": 3338,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9986303954754235
+    },
+    {
+      "type": "number",
+      "img_path": "p0355_007_number.png",
+      "bbox": [
+        [
+          2295,
+          3338
+        ],
+        [
+          2345,
+          3338
+        ],
+        [
+          2345,
+          3373
+        ],
+        [
+          2295,
+          3373
+        ]
+      ],
+      "score": 0.859112560749054,
+      "y_pos": 3338,
+      "text": "    \n    \n    \n\n        \n    \n    \n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0355.png"
+}

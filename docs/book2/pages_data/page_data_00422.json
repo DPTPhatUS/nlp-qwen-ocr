@@ -1,0 +1,656 @@
+{
+  "page_num": 422,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0422_006_header.png",
+      "bbox": [
+        [
+          1674,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1674,
+          197
+        ]
+      ],
+      "score": 0.933535099029541,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.710203885677315
+    },
+    {
+      "type": "header",
+      "img_path": "p0422_014_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1449,
+          150
+        ],
+        [
+          1449,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9157562255859375,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỬU",
+      "confidence": 0.9870374363202316
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0422_016_paragraph_title.png",
+      "bbox": [
+        [
+          223,
+          323
+        ],
+        [
+          1258,
+          323
+        ],
+        [
+          1258,
+          376
+        ],
+        [
+          223,
+          376
+        ]
+      ],
+      "score": 0.9116894602775574,
+      "y_pos": 323,
+      "text": "TÁM PHÉP TRI CƠ BẮN BẮNG CHẨM CỬU",
+      "confidence": 0.9868508407047817
+    },
+    {
+      "type": "text",
+      "img_path": "p0422_015_text.png",
+      "bbox": [
+        [
+          224,
+          417
+        ],
+        [
+          1640,
+          417
+        ],
+        [
+          1640,
+          471
+        ],
+        [
+          224,
+          471
+        ]
+      ],
+      "score": 0.9132716059684753,
+      "y_pos": 417,
+      "text": "Tám phép trị cơ bản là: Hoà, thanh, ôn, bổ, hãn, hạ, thổ, tiêu.",
+      "confidence": 0.9962650748399587
+    },
+    {
+      "type": "text",
+      "img_path": "p0422_000_text.png",
+      "bbox": [
+        [
+          221,
+          508
+        ],
+        [
+          2360,
+          508
+        ],
+        [
+          2360,
+          776
+        ],
+        [
+          221,
+          776
+        ]
+      ],
+      "score": 0.9844151139259338,
+      "y_pos": 508,
+      "text": "Trong khí tiến hành chữa bệnh ngoại cảm hoặc nội thương, có thể gặp một số triệu chứng biểu\nhiện lâm sàng giống nhau, phải vận dụng những phép trị cơ bản để làm tiêu trừ, hoãn giải các\nbiểu hiện lâm sàng đó để giảm bớt khó chịu cho người bệnh, hạn chế ảnh hưởng của nó với\nsức khỏe và bệnh tình của người bệnh. Tám phép trị cơ bản bằng châm cứu như sau:",
+      "confidence": 0.9991149685483455
+    },
+    {
+      "type": "text",
+      "img_path": "p0422_005_text.png",
+      "bbox": [
+        [
+          220,
+          815
+        ],
+        [
+          2358,
+          815
+        ],
+        [
+          2358,
+          937
+        ],
+        [
+          220,
+          937
+        ]
+      ],
+      "score": 0.9498573541641235,
+      "y_pos": 815,
+      "text": "A. Hòa pháp (còn gọi là phép hòa giải), nhằm làm êm các rối loạn công năng (bất hòa). Có ba\nchứng bất hòa là: Can vi bất hòa, trường vi bất hòa và doanh vi bất hòa.",
+      "confidence": 0.9987997067412884
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0422_024_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          981
+        ],
+        [
+          938,
+          981
+        ],
+        [
+          938,
+          1030
+        ],
+        [
+          285,
+          1030
+        ]
+      ],
+      "score": 0.663754940032959,
+      "y_pos": 981,
+      "text": "Phương huyệt và thủ pháp",
+      "confidence": 0.9255872070789337
+    },
+    {
+      "type": "text",
+      "img_path": "p0422_011_text.png",
+      "bbox": [
+        [
+          285,
+          1069
+        ],
+        [
+          1352,
+          1069
+        ],
+        [
+          1352,
+          1121
+        ],
+        [
+          285,
+          1121
+        ]
+      ],
+      "score": 0.9265966415405273,
+      "y_pos": 1069,
+      "text": "• Can vị bất hòa: Bổ Túc tam lý, tả Thái xung.",
+      "confidence": 0.6369472853839397
+    },
+    {
+      "type": "text",
+      "img_path": "p0422_009_text.png",
+      "bbox": [
+        [
+          284,
+          1160
+        ],
+        [
+          2172,
+          1160
+        ],
+        [
+          2172,
+          1214
+        ],
+        [
+          284,
+          1214
+        ]
+      ],
+      "score": 0.9279673099517822,
+      "y_pos": 1160,
+      "text": "• Trường vị bất hòa: Bình bố bình tả; Trung quản, Thiên khu, Hợp cốc, Túc tam lý.",
+      "confidence": 0.6016777251140181
+    },
+    {
+      "type": "text",
+      "img_path": "p0422_002_text.png",
+      "bbox": [
+        [
+          284,
+          1252
+        ],
+        [
+          2360,
+          1252
+        ],
+        [
+          2360,
+          1377
+        ],
+        [
+          284,
+          1377
+        ]
+      ],
+      "score": 0.9691177606582642,
+      "y_pos": 1252,
+      "text": "• Doanh vị bất hòa: (chứng bán biểu bán lý). Châm Ngoại quan thấu Nội quan, dùng thủ\npháp thấu <i>Thiên lương</i>.",
+      "confidence": 0.987740603403883
+    },
+    {
+      "type": "text",
+      "img_path": "p0422_007_text.png",
+      "bbox": [
+        [
+          284,
+          1414
+        ],
+        [
+          2081,
+          1414
+        ],
+        [
+          2081,
+          1467
+        ],
+        [
+          284,
+          1467
+        ]
+      ],
+      "score": 0.9318727850914001,
+      "y_pos": 1414,
+      "text": "\n    Khí huyết bất hòa: (hành kinh đau bung). Châm tả Nội đình bổ Tam âm giao.\n",
+      "confidence": 0.9869975236931232
+    },
+    {
+      "type": "text",
+      "img_path": "p0422_004_text.png",
+      "bbox": [
+        [
+          222,
+          1506
+        ],
+        [
+          2361,
+          1506
+        ],
+        [
+          2361,
+          1769
+        ],
+        [
+          222,
+          1769
+        ]
+      ],
+      "score": 0.9580273032188416,
+      "y_pos": 1506,
+      "text": "B. Thanh pháp (phép làm hạ nhiệt, còn gọi là phép thanh nhiệt), nhằm làm hạ cơn sốt cao. Sốt\ncao là tà chính cùng mạnh đấu tranh nhau, là phản ứng của rất nhiều loại bệnh khác nhau,\ncách chữa theo nguyên nhân bệnh khác nhau. Nhưng khi sốt quá cao cần cấp cứu hạ nhiệt\nđể tránh tác hai nhiều mặt của nó.",
+      "confidence": 0.9989814019023648
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0422_023_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          1814
+        ],
+        [
+          937,
+          1814
+        ],
+        [
+          937,
+          1863
+        ],
+        [
+          286,
+          1863
+        ]
+      ],
+      "score": 0.7614335417747498,
+      "y_pos": 1814,
+      "text": "Phương huyệt và thủ pháp",
+      "confidence": 0.9303635771457965
+    },
+    {
+      "type": "text",
+      "img_path": "p0422_013_text.png",
+      "bbox": [
+        [
+          285,
+          1905
+        ],
+        [
+          2271,
+          1905
+        ],
+        [
+          2271,
+          1955
+        ],
+        [
+          285,
+          1955
+        ]
+      ],
+      "score": 0.9181509613990784,
+      "y_pos": 1905,
+      "text": "\n    Chích Nhĩ tiêm năn máu, chích Thiểu thương năn máu, chích Thương dương năn máu.\n",
+      "confidence": 0.9846322979245867
+    },
+    {
+      "type": "text",
+      "img_path": "p0422_012_text.png",
+      "bbox": [
+        [
+          284,
+          1994
+        ],
+        [
+          1968,
+          1994
+        ],
+        [
+          1968,
+          2045
+        ],
+        [
+          284,
+          2045
+        ]
+      ],
+      "score": 0.9244512915611267,
+      "y_pos": 1994,
+      "text": "• Châm tả, lưu kim kích thích manh các huyết Đại chùy, Khúc trì, Hợp cốc.",
+      "confidence": 0.5891139443715413
+    },
+    {
+      "type": "text",
+      "img_path": "p0422_018_text.png",
+      "bbox": [
+        [
+          221,
+          2082
+        ],
+        [
+          2360,
+          2082
+        ],
+        [
+          2360,
+          2211
+        ],
+        [
+          221,
+          2211
+        ]
+      ],
+      "score": 0.8933380842208862,
+      "y_pos": 2082,
+      "text": "C. Ôn pháp (phép làm nóng ấm người lên), nhằm vào chứng thân nhiệt giảm thấp. Bất kể lý do\ngì gây ra <b>tụt nhiệt độ, cần cấp tốc nâng thân nhiệt lên</b> để tránh thoát dương khí.",
+      "confidence": 0.9766730317374325
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0422_022_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          2252
+        ],
+        [
+          937,
+          2252
+        ],
+        [
+          937,
+          2302
+        ],
+        [
+          286,
+          2302
+        ]
+      ],
+      "score": 0.7905297875404358,
+      "y_pos": 2252,
+      "text": "Phương huyệt và thủ pháp",
+      "confidence": 0.9969680630243741
+    },
+    {
+      "type": "text",
+      "img_path": "p0422_001_text.png",
+      "bbox": [
+        [
+          280,
+          2339
+        ],
+        [
+          2359,
+          2339
+        ],
+        [
+          2359,
+          2529
+        ],
+        [
+          280,
+          2529
+        ]
+      ],
+      "score": 0.9789739847183228,
+      "y_pos": 2339,
+      "text": "Cứu các huyệt <i>Thái khê, Côn luân</i>, cứu trực tiếp 10 mồi trở lên. <i>Quan nguyên</i> cứu trực tiếp,\nThần khuyết cứu cách muối liên tục cứu cho tới khi thân nhiệt trên 36°C và trở lại 37°C mới\nthôi.",
+      "confidence": 0.9940895581884043
+    },
+    {
+      "type": "text",
+      "img_path": "p0422_008_text.png",
+      "bbox": [
+        [
+          221,
+          2573
+        ],
+        [
+          2360,
+          2573
+        ],
+        [
+          2360,
+          2697
+        ],
+        [
+          221,
+          2697
+        ]
+      ],
+      "score": 0.9316140413284302,
+      "y_pos": 2573,
+      "text": "D. Bổ pháp (phép bồi bổ), nhằm vào người bệnh suy nhược sau bệnh nặng kéo dài, sau lao\nđộng quá sức kéo dài.",
+      "confidence": 0.9697033839351811
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0422_020_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          2738
+        ],
+        [
+          937,
+          2738
+        ],
+        [
+          937,
+          2789
+        ],
+        [
+          284,
+          2789
+        ]
+      ],
+      "score": 0.8103544116020203,
+      "y_pos": 2738,
+      "text": "Phương huyệt và thủ pháp",
+      "confidence": 0.9966624952279605
+    },
+    {
+      "type": "text",
+      "img_path": "p0422_010_text.png",
+      "bbox": [
+        [
+          282,
+          2829
+        ],
+        [
+          1639,
+          2829
+        ],
+        [
+          1639,
+          2880
+        ],
+        [
+          282,
+          2880
+        ]
+      ],
+      "score": 0.9272924065589905,
+      "y_pos": 2829,
+      "text": "Cứu các huyệt Cách du, Đảm du, Cao hoang du, Túc tam lý.",
+      "confidence": 0.997747440790308
+    },
+    {
+      "type": "text",
+      "img_path": "p0422_003_text.png",
+      "bbox": [
+        [
+          278,
+          2917
+        ],
+        [
+          2358,
+          2917
+        ],
+        [
+          2358,
+          3043
+        ],
+        [
+          278,
+          3043
+        ]
+      ],
+      "score": 0.9668603539466858,
+      "y_pos": 2917,
+      "text": "Nếu người bệnh già yếu, có thể cứu thêm các huyệt: Tâm du, Tỳ du, Vị du, Thận du, Trung\nquản, Quan nguyên, Khí hải, Túc tam lý, Tam âm giao.",
+      "confidence": 0.9990619470799807
+    },
+    {
+      "type": "text",
+      "img_path": "p0422_019_text.png",
+      "bbox": [
+        [
+          222,
+          3082
+        ],
+        [
+          1910,
+          3082
+        ],
+        [
+          1910,
+          3136
+        ],
+        [
+          222,
+          3136
+        ]
+      ],
+      "score": 0.8566253185272217,
+      "y_pos": 3082,
+      "text": "<b>Đ. Hãn pháp</b> (phép xử lý về mô hôi), phép này gồm có phát hãn và chỉ hãn.",
+      "confidence": 0.9794707760999077
+    },
+    {
+      "type": "number",
+      "img_path": "p0422_021_number.png",
+      "bbox": [
+        [
+          2328,
+          3302
+        ],
+        [
+          2353,
+          3302
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2328,
+          3335
+        ]
+      ],
+      "score": 0.7963907122612,
+      "y_pos": 3302,
+      "text": "\n\n\n\n\n\n\n\n\n\n\n\n    \n\n    \n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0422_017_footer.png",
+      "bbox": [
+        [
+          227,
+          3309
+        ],
+        [
+          1324,
+          3309
+        ],
+        [
+          1324,
+          3355
+        ],
+        [
+          227,
+          3355
+        ]
+      ],
+      "score": 0.9031826853752136,
+      "y_pos": 3309,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982670635547278
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0422.png"
+}

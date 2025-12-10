@@ -1,0 +1,656 @@
+{
+  "page_num": 69,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0069_023_header.png",
+      "bbox": [
+        [
+          1171,
+          503
+        ],
+        [
+          1303,
+          503
+        ],
+        [
+          1303,
+          547
+        ],
+        [
+          1171,
+          547
+        ]
+      ],
+      "score": 0.5786222219467163,
+      "y_pos": 503,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "doc_title",
+      "img_path": "p0069_019_doc_title.png",
+      "bbox": [
+        [
+          769,
+          638
+        ],
+        [
+          1703,
+          638
+        ],
+        [
+          1703,
+          729
+        ],
+        [
+          769,
+          729
+        ]
+      ],
+      "score": 0.6350046396255493,
+      "y_pos": 638,
+      "text": "BỆNH NGOẠI CẨM LỤC DÂM",
+      "confidence": 0.7678094779451689
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0069_015_paragraph_title.png",
+      "bbox": [
+        [
+          348,
+          917
+        ],
+        [
+          599,
+          917
+        ],
+        [
+          599,
+          979
+        ],
+        [
+          348,
+          979
+        ]
+      ],
+      "score": 0.7727136015892029,
+      "y_pos": 917,
+      "text": "<b>MUC TIÊU</b>",
+      "confidence": 0.9583532313505808
+    },
+    {
+      "type": "text",
+      "img_path": "p0069_024_text.png",
+      "bbox": [
+        [
+          348,
+          1027
+        ],
+        [
+          1084,
+          1027
+        ],
+        [
+          1084,
+          1090
+        ],
+        [
+          348,
+          1090
+        ]
+      ],
+      "score": 0.5375524163246155,
+      "y_pos": 1027,
+      "text": "Sau khi học tập, sinh viên PHAI",
+      "confidence": 0.9934326139363375
+    },
+    {
+      "type": "text",
+      "img_path": "p0069_022_text.png",
+      "bbox": [
+        [
+          349,
+          1120
+        ],
+        [
+          1320,
+          1120
+        ],
+        [
+          1320,
+          1172
+        ],
+        [
+          349,
+          1172
+        ]
+      ],
+      "score": 0.5899723768234253,
+      "y_pos": 1120,
+      "text": "4. Định nghĩa được bệnh ngoại cảm lục dâm.",
+      "confidence": 0.997568970376795
+    },
+    {
+      "type": "text",
+      "img_path": "p0069_021_text.png",
+      "bbox": [
+        [
+          347,
+          1200
+        ],
+        [
+          2095,
+          1200
+        ],
+        [
+          2095,
+          1255
+        ],
+        [
+          347,
+          1255
+        ]
+      ],
+      "score": 0.6099168658256531,
+      "y_pos": 1200,
+      "text": "5. Liệt kê được những triệu chứng chính của từng bệnh cảnh thuộc ngoại cảm lục dâm.",
+      "confidence": 0.999717878594118
+    },
+    {
+      "type": "text",
+      "img_path": "p0069_018_text.png",
+      "bbox": [
+        [
+          348,
+          1282
+        ],
+        [
+          1858,
+          1282
+        ],
+        [
+          1858,
+          1338
+        ],
+        [
+          348,
+          1338
+        ]
+      ],
+      "score": 0.6368412375450134,
+      "y_pos": 1282,
+      "text": "6. Trình bày được nguyên tắc điều trị và cách trị của từng bệnh chứng.",
+      "confidence": 0.9996070969435904
+    },
+    {
+      "type": "text",
+      "img_path": "p0069_017_text.png",
+      "bbox": [
+        [
+          348,
+          1365
+        ],
+        [
+          2124,
+          1365
+        ],
+        [
+          2124,
+          1476
+        ],
+        [
+          348,
+          1476
+        ]
+      ],
+      "score": 0.6784125566482544,
+      "y_pos": 1365,
+      "text": "7. Liệt kê được tên, thành phần cấu tạo bài thuốc chính cho từng bệnh cảnh và\nphân tích được cơ sở lý luận của bài thuốc sử dụng.",
+      "confidence": 0.9938261249354667
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0069_000_paragraph_title.png",
+      "bbox": [
+        [
+          349,
+          1738
+        ],
+        [
+          719,
+          1738
+        ],
+        [
+          719,
+          1790
+        ],
+        [
+          349,
+          1790
+        ]
+      ],
+      "score": 0.9287710189819336,
+      "y_pos": 1738,
+      "text": "1. ĐAI CƯƠNG",
+      "confidence": 0.9230087356907981
+    },
+    {
+      "type": "text",
+      "img_path": "p0069_016_text.png",
+      "bbox": [
+        [
+          461,
+          1838
+        ],
+        [
+          1847,
+          1838
+        ],
+        [
+          1847,
+          1892
+        ],
+        [
+          461,
+          1892
+        ]
+      ],
+      "score": 0.7584895491600037,
+      "y_pos": 1838,
+      "text": "Bệnh Ngoại cảm lục dâm là nhóm bệnh lý có những đặc điểm",
+      "confidence": 0.9986332490526396
+    },
+    {
+      "type": "text",
+      "img_path": "p0069_010_text.png",
+      "bbox": [
+        [
+          407,
+          1922
+        ],
+        [
+          1886,
+          1922
+        ],
+        [
+          1886,
+          1975
+        ],
+        [
+          407,
+          1975
+        ]
+      ],
+      "score": 0.855670690536499,
+      "y_pos": 1922,
+      "text": "- Gây nên do ngoại nhân gồm Phong, Hàn, Thử, Thấp, Táo, Hỏa.",
+      "confidence": 0.9941028923757614
+    },
+    {
+      "type": "text",
+      "img_path": "p0069_008_text.png",
+      "bbox": [
+        [
+          408,
+          2006
+        ],
+        [
+          1632,
+          2006
+        ],
+        [
+          1632,
+          2058
+        ],
+        [
+          408,
+          2058
+        ]
+      ],
+      "score": 0.8807775974273682,
+      "y_pos": 2006,
+      "text": "- Gây bệnh từ ngoài Kinh lạc đến các phủ tạng ở sâu.",
+      "confidence": 0.8707876039875878
+    },
+    {
+      "type": "text",
+      "img_path": "p0069_009_text.png",
+      "bbox": [
+        [
+          409,
+          2086
+        ],
+        [
+          1316,
+          2086
+        ],
+        [
+          1316,
+          2136
+        ],
+        [
+          409,
+          2136
+        ]
+      ],
+      "score": 0.8632532358169556,
+      "y_pos": 2086,
+      "text": "_    - Không theo quy luật truyền biến nào.",
+      "confidence": 0.6435870818793774
+    },
+    {
+      "type": "text",
+      "img_path": "p0069_007_text.png",
+      "bbox": [
+        [
+          465,
+          2165
+        ],
+        [
+          1035,
+          2165
+        ],
+        [
+          1035,
+          2215
+        ],
+        [
+          465,
+          2215
+        ]
+      ],
+      "score": 0.8826063871383667,
+      "y_pos": 2165,
+      "text": "Bệnh danh luôn bao gồm",
+      "confidence": 0.9919599841038386
+    },
+    {
+      "type": "text",
+      "img_path": "p0069_004_text.png",
+      "bbox": [
+        [
+          468,
+          2245
+        ],
+        [
+          1050,
+          2245
+        ],
+        [
+          1050,
+          2294
+        ],
+        [
+          468,
+          2294
+        ]
+      ],
+      "score": 0.8911195397377014,
+      "y_pos": 2245,
+      "text": "+ Tên tác nhân gây bệnh",
+      "confidence": 0.982902512550354
+    },
+    {
+      "type": "text",
+      "img_path": "p0069_012_text.png",
+      "bbox": [
+        [
+          468,
+          2323
+        ],
+        [
+          1376,
+          2323
+        ],
+        [
+          1376,
+          2375
+        ],
+        [
+          468,
+          2375
+        ]
+      ],
+      "score": 0.8366987109184265,
+      "y_pos": 2323,
+      "text": "+ Vị trí (kinh lạc, tạng phủ) nơi bị bệnh",
+      "confidence": 0.9865563484125359
+    },
+    {
+      "type": "text",
+      "img_path": "p0069_011_text.png",
+      "bbox": [
+        [
+          465,
+          2399
+        ],
+        [
+          1314,
+          2399
+        ],
+        [
+          1314,
+          2452
+        ],
+        [
+          465,
+          2452
+        ]
+      ],
+      "score": 0.8388116359710693,
+      "y_pos": 2399,
+      "text": "Bệnh Ngoại cảm lục dâm có 3 mức độ",
+      "confidence": 0.9969652245442072
+    },
+    {
+      "type": "text",
+      "img_path": "p0069_005_text.png",
+      "bbox": [
+        [
+          409,
+          2481
+        ],
+        [
+          698,
+          2481
+        ],
+        [
+          698,
+          2530
+        ],
+        [
+          409,
+          2530
+        ]
+      ],
+      "score": 0.8896576762199402,
+      "y_pos": 2481,
+      "text": "Cam mao.",
+      "confidence": 0.9734662055969239
+    },
+    {
+      "type": "text",
+      "img_path": "p0069_001_text.png",
+      "bbox": [
+        [
+          410,
+          2561
+        ],
+        [
+          657,
+          2561
+        ],
+        [
+          657,
+          2610
+        ],
+        [
+          410,
+          2610
+        ]
+      ],
+      "score": 0.9025853276252747,
+      "y_pos": 2561,
+      "text": "hương",
+      "confidence": 0.946005254983902
+    },
+    {
+      "type": "text",
+      "img_path": "p0069_003_text.png",
+      "bbox": [
+        [
+          410,
+          2640
+        ],
+        [
+          626,
+          2640
+        ],
+        [
+          626,
+          2690
+        ],
+        [
+          410,
+          2690
+        ]
+      ],
+      "score": 0.8970579504966736,
+      "y_pos": 2640,
+      "text": "- 7",
+      "confidence": 0.6123749613761902
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0069_006_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          2750
+        ],
+        [
+          1340,
+          2750
+        ],
+        [
+          1340,
+          2806
+        ],
+        [
+          344,
+          2806
+        ]
+      ],
+      "score": 0.8891465663909912,
+      "y_pos": 2750,
+      "text": "2. NHỮNG BÊNH CHỨNG THƯỜNG GĂP",
+      "confidence": 0.9963964093476534
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0069_020_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          2854
+        ],
+        [
+          1411,
+          2854
+        ],
+        [
+          1411,
+          2908
+        ],
+        [
+          345,
+          2908
+        ]
+      ],
+      "score": 0.617652952671051,
+      "y_pos": 2854,
+      "text": "2.1. Bệnh ngoại cảm lục dâm ở hệ kinh lạc",
+      "confidence": 0.9990623399268749
+    },
+    {
+      "type": "text",
+      "img_path": "p0069_002_text.png",
+      "bbox": [
+        [
+          465,
+          2949
+        ],
+        [
+          1531,
+          2949
+        ],
+        [
+          1531,
+          3002
+        ],
+        [
+          465,
+          3002
+        ]
+      ],
+      "score": 0.9025524854660034,
+      "y_pos": 2949,
+      "text": "Có thể liệt kê những bệnh từ nông vào sâu như",
+      "confidence": 0.998743974147959
+    },
+    {
+      "type": "text",
+      "img_path": "p0069_014_text.png",
+      "bbox": [
+        [
+          349,
+          3108
+        ],
+        [
+          409,
+          3108
+        ],
+        [
+          409,
+          3149
+        ],
+        [
+          349,
+          3149
+        ]
+      ],
+      "score": 0.7893283367156982,
+      "y_pos": 3108,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0069_013_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1074,
+          3311
+        ],
+        [
+          1074,
+          3365
+        ],
+        [
+          293,
+          3365
+        ]
+      ],
+      "score": 0.8109387755393982,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8815956473350525
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0069.png"
+}

@@ -1,0 +1,162 @@
+{
+  "page_num": 10,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0010_002_header.png",
+      "bbox": [
+        [
+          1608,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1608,
+          202
+        ]
+      ],
+      "score": 0.9192907214164734,
+      "y_pos": 143,
+      "text": "~ ~ ~\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7141398120494116
+    },
+    {
+      "type": "header",
+      "img_path": "p0010_003_header.png",
+      "bbox": [
+        [
+          227,
+          154
+        ],
+        [
+          1328,
+          154
+        ],
+        [
+          1328,
+          202
+        ],
+        [
+          227,
+          202
+        ]
+      ],
+      "score": 0.9123479723930359,
+      "y_pos": 154,
+      "text": "VŨ TRU QUAN VÀ CÁC THUYẾT CƠ BÁN CỦA ĐÔNG Y",
+      "confidence": 0.9963735540707906
+    },
+    {
+      "type": "text",
+      "img_path": "p0010_000_text.png",
+      "bbox": [
+        [
+          278,
+          291
+        ],
+        [
+          2359,
+          291
+        ],
+        [
+          2359,
+          606
+        ],
+        [
+          278,
+          606
+        ]
+      ],
+      "score": 0.9772567749023438,
+      "y_pos": 291,
+      "text": "cộng với tốc độ và hướng tràn của áp suất gây ra bão lớn. Mặt khác, khi bão đổ bộ vào đất\nliền thường đi theo vệt thềm lục địa, cho nên vùng bắc Việt Nam và Nam Trung Quốc là nơi\nđón chịu dồn dập các trận bão xảy ra ở vùng này. Đây cũng là một yếu tố làm đậm nét thêm\nđặc điểm khí hậu Phương Đông.",
+      "confidence": 0.9996779698997523
+    },
+    {
+      "type": "text",
+      "img_path": "p0010_001_text.png",
+      "bbox": [
+        [
+          278,
+          663
+        ],
+        [
+          2357,
+          663
+        ],
+        [
+          2357,
+          863
+        ],
+        [
+          278,
+          863
+        ]
+      ],
+      "score": 0.9653540253639221,
+      "y_pos": 663,
+      "text": "Nền văn minh Phương Đông là kết quả nhận thức của cong người trong khung cảnh thiên\nnhiên với địa dư, khí hậu cụ thể đó, và từ cuộc sống của con gngười ở đây đã được thích\nnghi để tồn tại trong những điều kiện khắc nghiệt, đầy biến động mà thành.",
+      "confidence": 0.999500059448328
+    },
+    {
+      "type": "footer",
+      "img_path": "p0010_004_footer.png",
+      "bbox": [
+        [
+          229,
+          3334
+        ],
+        [
+          1437,
+          3334
+        ],
+        [
+          1437,
+          3387
+        ],
+        [
+          229,
+          3387
+        ]
+      ],
+      "score": 0.8984283208847046,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982612267980036
+    },
+    {
+      "type": "number",
+      "img_path": "p0010_005_number.png",
+      "bbox": [
+        [
+          2332,
+          3340
+        ],
+        [
+          2358,
+          3340
+        ],
+        [
+          2358,
+          3374
+        ],
+        [
+          2332,
+          3374
+        ]
+      ],
+      "score": 0.8208804726600647,
+      "y_pos": 3340,
+      "text": "        \n    \n    \n\n\n\n\n\n    \n\n\n\n\n\n    \n    ۰\n    ٠.\n\n\n",
+      "confidence": 0.961920437003885
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0010.png"
+}

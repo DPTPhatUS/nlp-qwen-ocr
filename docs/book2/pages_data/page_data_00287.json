@@ -1,0 +1,240 @@
+{
+  "page_num": 287,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0287_002_header.png",
+      "bbox": [
+        [
+          1608,
+          143
+        ],
+        [
+          2370,
+          143
+        ],
+        [
+          2370,
+          202
+        ],
+        [
+          1608,
+          202
+        ]
+      ],
+      "score": 0.9188672304153442,
+      "y_pos": 143,
+      "text": "~ ~ ~\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7410258168265933
+    },
+    {
+      "type": "header",
+      "img_path": "p0287_003_header.png",
+      "bbox": [
+        [
+          229,
+          160
+        ],
+        [
+          1346,
+          160
+        ],
+        [
+          1346,
+          202
+        ],
+        [
+          229,
+          202
+        ]
+      ],
+      "score": 0.9089740514755249,
+      "y_pos": 160,
+      "text": "CÁC BẢNG TRA CỨU HUYỆT LIÊN QUAN TRONG CHÂM CỨU",
+      "confidence": 0.998783539752571
+    },
+    {
+      "type": "text",
+      "img_path": "p0287_008_text.png",
+      "bbox": [
+        [
+          226,
+          425
+        ],
+        [
+          1143,
+          425
+        ],
+        [
+          1143,
+          479
+        ],
+        [
+          226,
+          479
+        ]
+      ],
+      "score": 0.5323517918586731,
+      "y_pos": 425,
+      "text": "NGŨ DU PHỐI NGŨ HÀNH: Bảng 16,17",
+      "confidence": 0.8137773222783032
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0287_006_figure_title.png",
+      "bbox": [
+        [
+          782,
+          511
+        ],
+        [
+          1805,
+          511
+        ],
+        [
+          1805,
+          561
+        ],
+        [
+          782,
+          561
+        ]
+      ],
+      "score": 0.8990890979766846,
+      "y_pos": 511,
+      "text": "Bảng 16 - Bảng ngũ du phối ngũ hành ở âm kinh",
+      "confidence": 0.9980647500525129
+    },
+    {
+      "type": "table",
+      "img_path": "p0287_001_table.png",
+      "bbox": [
+        [
+          247,
+          585
+        ],
+        [
+          2346,
+          585
+        ],
+        [
+          2346,
+          1229
+        ],
+        [
+          247,
+          1229
+        ]
+      ],
+      "score": 0.9837123155593872,
+      "y_pos": 585,
+      "text": "Ngũ du    Ngũ hành    Phế    Τỳ    Tâm    Thân    Tâm bào    Can    Mùa\nThiếu    Thiếu    Dũng    Trung\nTinh    Mộc    Ẩn bạch    Đại đôn    Xuân\nthương    xung    tuyền    xung\nHuỳnh    Hoả    Ngư tế    Đai đô    Thiếu phủ    Nhiên cốc    Lao cung    Hành gian    Ha\nDu    Thổ    Thái uyên    Thái bạch    Thần môn    Thái khê    Đại lăng    Thái xung    Cuối hạ\nThương    Trung\nKinh    Kim    Kinh cừ    Linh đạo    Phục lưu    Gian sử    Thu\nkhâu    phong\nThuỷ    Xích trạch    Âm lăng    Thiếu hải    Âm cốc    Khúc trạch    Khúc\nНор    tuyền    Đông\ntuyền",
+      "confidence": 0.9024375014426734
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0287_004_figure_title.png",
+      "bbox": [
+        [
+          743,
+          1253
+        ],
+        [
+          1846,
+          1253
+        ],
+        [
+          1846,
+          1304
+        ],
+        [
+          743,
+          1304
+        ]
+      ],
+      "score": 0.9076364040374756,
+      "y_pos": 1253,
+      "text": "Bảng 17 - Bảng ngũ du phối ngũ hành ở dương kính",
+      "confidence": 0.9978901302814484
+    },
+    {
+      "type": "table",
+      "img_path": "p0287_000_table.png",
+      "bbox": [
+        [
+          249,
+          1329
+        ],
+        [
+          2346,
+          1329
+        ],
+        [
+          2346,
+          2167
+        ],
+        [
+          249,
+          2167
+        ]
+      ],
+      "score": 0.9885753989219666,
+      "y_pos": 1329,
+      "text": "Đại    Tiểu    Bàng\nNgũ du    Ngũ hành    ۷į    Tam tiêu    Đảm\ntrường    trường    quang\nThương    Thiếu    Quan    Xuất\nTinh    Kim    Lệ đoài    Chi âm    Khiếu âm\ndương    trach    xung\nHuỳnh    Thuỷ    Nhị gian    Nôi đình    Tiền cốc    Thông cốc    Dịch môn    Hiệp khê    Lưu\nDu    Mộc    Tam gian    Hãm cốc    Hậu khê    Thúc cốt    Trung chử    Lâm khấp    Trú\nHợp cốc    Xung    Uyển cốt    Kinh cốt\nNguyên    Dương trì    Khâu khư    Quá\ndương\nHoả    Dương    Dương    Dương\nKinh    Giải khê    Côn luân    Chi câu    Hành\nkhê    CÔC    phù\nThổ    Dương\nHợp    Khúc trì    Túc tam lý    Tiểu hải    Uỷ trung    Thiên tỉnh    Nhập\nlăng tuyên",
+      "confidence": 0.9069191006743496
+    },
+    {
+      "type": "footer",
+      "img_path": "p0287_005_footer.png",
+      "bbox": [
+        [
+          232,
+          3334
+        ],
+        [
+          1438,
+          3334
+        ],
+        [
+          1438,
+          3388
+        ],
+        [
+          232,
+          3388
+        ]
+      ],
+      "score": 0.9062581062316895,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9552926241226916
+    },
+    {
+      "type": "number",
+      "img_path": "p0287_007_number.png",
+      "bbox": [
+        [
+          2333,
+          3340
+        ],
+        [
+          2351,
+          3340
+        ],
+        [
+          2351,
+          3373
+        ],
+        [
+          2333,
+          3373
+        ]
+      ],
+      "score": 0.78040611743927,
+      "y_pos": 3340,
+      "text": "    \n    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0287.png"
+}

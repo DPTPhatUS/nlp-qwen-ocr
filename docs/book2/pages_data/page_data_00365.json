@@ -1,0 +1,552 @@
+{
+  "page_num": 365,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0365_011_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1678,
+          196
+        ]
+      ],
+      "score": 0.9196199774742126,
+      "y_pos": 142,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7456070706248283
+    },
+    {
+      "type": "header",
+      "img_path": "p0365_013_header.png",
+      "bbox": [
+        [
+          230,
+          146
+        ],
+        [
+          1095,
+          146
+        ],
+        [
+          1095,
+          197
+        ],
+        [
+          230,
+          197
+        ]
+      ],
+      "score": 0.9160094857215881,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SÀNG",
+      "confidence": 0.9910215088299342
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0365_010_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          323
+        ],
+        [
+          957,
+          323
+        ],
+        [
+          957,
+          378
+        ],
+        [
+          224,
+          378
+        ]
+      ],
+      "score": 0.9216804504394531,
+      "y_pos": 323,
+      "text": "TRE EM KINH QUYÉT (co giật)",
+      "confidence": 0.8031657440909024
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0365_017_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          419
+        ],
+        [
+          739,
+          419
+        ],
+        [
+          739,
+          471
+        ],
+        [
+          226,
+          471
+        ]
+      ],
+      "score": 0.899152934551239,
+      "y_pos": 419,
+      "text": "A. Biện trứng luận trị",
+      "confidence": 0.9293903807799021
+    },
+    {
+      "type": "text",
+      "img_path": "p0365_008_text.png",
+      "bbox": [
+        [
+          221,
+          507
+        ],
+        [
+          2358,
+          507
+        ],
+        [
+          2358,
+          631
+        ],
+        [
+          221,
+          631
+        ]
+      ],
+      "score": 0.9594886898994446,
+      "y_pos": 507,
+      "text": "Kinh quyết còn gọi là kinh co quắp hoặc phong co quắp, tồn tại đồng thời với hôn mê, có thể do\nnhiều loai bênh tật dẫn đến.",
+      "confidence": 0.9988468478744229
+    },
+    {
+      "type": "text",
+      "img_path": "p0365_000_text.png",
+      "bbox": [
+        [
+          221,
+          669
+        ],
+        [
+          2359,
+          669
+        ],
+        [
+          2359,
+          1009
+        ],
+        [
+          221,
+          1009
+        ]
+      ],
+      "score": 0.9832216501235962,
+      "y_pos": 669,
+      "text": "Khái quát lại có thể chia làm hai loại: Kinh quyết có sốt và Kinh quyết không sốt. Kinh quyết có\nsốt thường thấy ở trẻ em dưới 3 tuổi, thường do viêm nhiễm phát sốt nói chung, hoặc do trung\nkhu thần kinh viêm nhiễm phát sốt, như viêm màng não, viêm não gây ra. Không sốt mà co\nquắp thường do chứng \"trừu nặc\" (co rút cơ co ngón tay) của trẻ sơ sinh, chứng não phát triển\nkhông đều và bệnh động kinh.",
+      "confidence": 0.9674005483465962
+    },
+    {
+      "type": "text",
+      "img_path": "p0365_002_text.png",
+      "bbox": [
+        [
+          221,
+          1046
+        ],
+        [
+          2359,
+          1046
+        ],
+        [
+          2359,
+          1317
+        ],
+        [
+          221,
+          1317
+        ]
+      ],
+      "score": 0.979921817779541,
+      "y_pos": 1046,
+      "text": "Tạng phủ của trẻ em còn non yếu, hình thể chưa đầy đủ, sau khi ngoại cảm \"lục dâm\", rất dễ\nhóa hỏa sinh phong, chạy suốt vào lạc, nghiêm trọng hơn thì có thể dẫn động can phong. Lâu\nngày thì hao tổn chân âm, có thể dẫn đến hư phong nội động, kéo dài lâu ngày không khỏi. Ở\nchương này chỉ giới thiệu chứng phát sốt kinh quyết thường thấy.",
+      "confidence": 0.9986774953712902
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0365_012_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1349
+        ],
+        [
+          902,
+          1349
+        ],
+        [
+          902,
+          1400
+        ],
+        [
+          225,
+          1400
+        ]
+      ],
+      "score": 0.9180050492286682,
+      "y_pos": 1349,
+      "text": "B. Điểm chủ vếu để kiểm tra",
+      "confidence": 0.9015501655381302
+    },
+    {
+      "type": "text",
+      "img_path": "p0365_003_text.png",
+      "bbox": [
+        [
+          222,
+          1442
+        ],
+        [
+          2360,
+          1442
+        ],
+        [
+          2360,
+          1639
+        ],
+        [
+          222,
+          1639
+        ]
+      ],
+      "score": 0.9736299514770508,
+      "y_pos": 1442,
+      "text": "1. Đột nhiên bắp thịt co giật, tay chân rung động, hai mắt ngước lên hoặc nhìn lệch về một\nbên, góc miệng kéo động, hàm răng cán chặt, thở hít nhanh, nông, không đều, vùng mặt và môi\nmiệng xanh xám, có thể kèm mất ý thức, đái ỉa không tự chủ.",
+      "confidence": 0.9861228351038603
+    },
+    {
+      "type": "text",
+      "img_path": "p0365_006_text.png",
+      "bbox": [
+        [
+          222,
+          1675
+        ],
+        [
+          2359,
+          1675
+        ],
+        [
+          2359,
+          1797
+        ],
+        [
+          222,
+          1797
+        ]
+      ],
+      "score": 0.9607290029525757,
+      "y_pos": 1675,
+      "text": "2. Thường kèm sốt cao hoặc các chứng khác, riêng về sốt cao co giật có thể tham khảo thiên\nsốt cao.",
+      "confidence": 0.9959378749780032
+    },
+    {
+      "type": "text",
+      "img_path": "p0365_001_text.png",
+      "bbox": [
+        [
+          220,
+          1835
+        ],
+        [
+          2361,
+          1835
+        ],
+        [
+          2361,
+          2105
+        ],
+        [
+          220,
+          2105
+        ]
+      ],
+      "score": 0.9807214736938477,
+      "y_pos": 1835,
+      "text": "3. Nếu thuộc viêm nhiễm nói chung dẫn đến sốt cao co giật, khi sốt lui thì hết co giật, triển\nvọng tốt. Nếu co giật trở đi, trở lại không dứt, hoặc dứt co giật nhưng vẫn hôn mê, đồng tử co\nlại hoặc giãn to phải đề phòng não úng thủy, thường do viêm nhiễm hệ thần kinh trung ương,\nnhư dịch viêm não đông xuân, viêm não Nhật Bản B ở mùa hè thu, và ngộ độc do khuẩn lị.",
+      "confidence": 0.9916135674653406
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0365_014_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2144
+        ],
+        [
+          560,
+          2144
+        ],
+        [
+          560,
+          2191
+        ],
+        [
+          225,
+          2191
+        ]
+      ],
+      "score": 0.9136162400245667,
+      "y_pos": 2144,
+      "text": "C. Cách chữa",
+      "confidence": 0.8853677766663688
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0365_015_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2234
+        ],
+        [
+          628,
+          2234
+        ],
+        [
+          628,
+          2287
+        ],
+        [
+          227,
+          2287
+        ]
+      ],
+      "score": 0.9040950536727905,
+      "y_pos": 2234,
+      "text": "1. Xử lý cấp cứu",
+      "confidence": 0.9315825634532504
+    },
+    {
+      "type": "text",
+      "img_path": "p0365_009_text.png",
+      "bbox": [
+        [
+          222,
+          2325
+        ],
+        [
+          2358,
+          2325
+        ],
+        [
+          2358,
+          2451
+        ],
+        [
+          222,
+          2451
+        ]
+      ],
+      "score": 0.9589354395866394,
+      "y_pos": 2325,
+      "text": "a. Cởi nới quần áo, đặt trẻ nằm nghiêng, tránh không để cho mũi, dãi chảy vào trong đường hô\nhấp. Nếu họng có đờm, phải hút ngay đờm ra, tránh cản trở đến hô hấp.",
+      "confidence": 0.9982473004451939
+    },
+    {
+      "type": "text",
+      "img_path": "p0365_007_text.png",
+      "bbox": [
+        [
+          223,
+          2489
+        ],
+        [
+          2358,
+          2489
+        ],
+        [
+          2358,
+          2612
+        ],
+        [
+          223,
+          2612
+        ]
+      ],
+      "score": 0.9601618647575378,
+      "y_pos": 2489,
+      "text": "b. Khi co giật hôn mê, lấy vải lụa sạch bọc lưỡi đẩy vào trong cung răng, đề phòng không cho\ncắn vào đầu lưỡi, nếu có biểu hiện thiếu ô-xy thì cho thở ô-xy.",
+      "confidence": 0.9986216684702766
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0365_018_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2652
+        ],
+        [
+          835,
+          2652
+        ],
+        [
+          835,
+          2703
+        ],
+        [
+          226,
+          2703
+        ]
+      ],
+      "score": 0.896896481513977,
+      "y_pos": 2652,
+      "text": "c. Chữa bằng châm cứu:",
+      "confidence": 0.9753035952647527
+    },
+    {
+      "type": "text",
+      "img_path": "p0365_004_text.png",
+      "bbox": [
+        [
+          222,
+          2739
+        ],
+        [
+          2359,
+          2739
+        ],
+        [
+          2359,
+          2869
+        ],
+        [
+          222,
+          2869
+        ]
+      ],
+      "score": 0.9638484120368958,
+      "y_pos": 2739,
+      "text": "Thể châm: Hợp cốc (có thể thấu Hậu khê), Thái xung (có thể thấu Dũng tuyền, Yêu du). Có\nsốt, thì gia Đại chùy, Khúc trì. Không phát sốt, thì gia Nhân trung, Trung xung, Côn luân.",
+      "confidence": 0.9961329803387595
+    },
+    {
+      "type": "text",
+      "img_path": "p0365_005_text.png",
+      "bbox": [
+        [
+          221,
+          2905
+        ],
+        [
+          2359,
+          2905
+        ],
+        [
+          2359,
+          3029
+        ],
+        [
+          221,
+          3029
+        ]
+      ],
+      "score": 0.9616167545318604,
+      "y_pos": 2905,
+      "text": "Nhĩ châm: Giao cảm, Thần môn, Bì chất hạ, Não điểm Tâm. Chứng nặng thì dùng kích thích\nmanh, lưu kim 60 phút.",
+      "confidence": 0.9689521298489787
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0365_020_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          3070
+        ],
+        [
+          515,
+          3070
+        ],
+        [
+          515,
+          3120
+        ],
+        [
+          226,
+          3120
+        ]
+      ],
+      "score": 0.7986401915550232,
+      "y_pos": 3070,
+      "text": "Thủy châm:",
+      "confidence": 0.83010433614254
+    },
+    {
+      "type": "footer",
+      "img_path": "p0365_016_footer.png",
+      "bbox": [
+        [
+          228,
+          3336
+        ],
+        [
+          1343,
+          3336
+        ],
+        [
+          1343,
+          3383
+        ],
+        [
+          228,
+          3383
+        ]
+      ],
+      "score": 0.8993743062019348,
+      "y_pos": 3336,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9415562085385593
+    },
+    {
+      "type": "number",
+      "img_path": "p0365_019_number.png",
+      "bbox": [
+        [
+          2332,
+          3336
+        ],
+        [
+          2357,
+          3336
+        ],
+        [
+          2357,
+          3372
+        ],
+        [
+          2332,
+          3372
+        ]
+      ],
+      "score": 0.8161085247993469,
+      "y_pos": 3336,
+      "text": "\n\n    \n\n\n    \n\n    ľ\n\n\n    \n\n",
+      "confidence": 0.9566291209091159
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0365.png"
+}

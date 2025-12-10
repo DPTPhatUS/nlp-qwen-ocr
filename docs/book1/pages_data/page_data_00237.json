@@ -1,0 +1,214 @@
+{
+  "page_num": 237,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0237_005_text.png",
+      "bbox": [
+        [
+          464,
+          449
+        ],
+        [
+          1758,
+          449
+        ],
+        [
+          1758,
+          503
+        ],
+        [
+          464,
+          503
+        ]
+      ],
+      "score": 0.6252716183662415,
+      "y_pos": 449,
+      "text": "* Phân tích bài thuốc Bát trân thang (Chính thể loại yếu)",
+      "confidence": 0.9588614166793177
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0237_007_figure_title.png",
+      "bbox": [
+        [
+          411,
+          535
+        ],
+        [
+          913,
+          535
+        ],
+        [
+          913,
+          582
+        ],
+        [
+          411,
+          582
+        ]
+      ],
+      "score": 0.5203856229782104,
+      "y_pos": 535,
+      "text": "Phân tích bài thuốc",
+      "confidence": 0.9897526786440894
+    },
+    {
+      "type": "table",
+      "img_path": "p0237_001_table.png",
+      "bbox": [
+        [
+          351,
+          638
+        ],
+        [
+          2125,
+          638
+        ],
+        [
+          2125,
+          1439
+        ],
+        [
+          351,
+          1439
+        ]
+      ],
+      "score": 0.9895927906036377,
+      "y_pos": 638,
+      "text": "Vị thuốc    Dược lý Đông y\nNhân sâm    Ngọt, hơi đắng. Bổ Tâm khí, đại bổ nguyên khí, ích huyết sinh tân\nBach truât    Ngọt, đẳng, hơi ấm. Kiện tỳ, táo thấp, liễm hãn\nPhuc linh    Ngot, bình. Lợi tiểu thẩm thấp, kiện Tỳ, an thần\n<b>Đương quy</b>    Ngot, cay, ấm. Bổ huyết, hành huyết\nThục địa    Ngọt, hơi ôn. Nuôi Thận dưỡng âm, bổ Thận, bổ huyết\nBach thược    Bổ huyết, liễm hãn, giảm đau\nXuyên khung    Hành khí, hoat huyết, khu phong, chỉ thống\nCam thảo    Ngot, ấm. Bổ Tỳ thổ, bổ trung khí",
+      "confidence": 0.8454226697006277
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_004_text.png",
+      "bbox": [
+        [
+          462,
+          1494
+        ],
+        [
+          1925,
+          1494
+        ],
+        [
+          1925,
+          1546
+        ],
+        [
+          462,
+          1546
+        ]
+      ],
+      "score": 0.6413856148719788,
+      "y_pos": 1494,
+      "text": "* Phân tích bài thuốc Nhân sâm dưỡng vinh thang (Cục phương)",
+      "confidence": 0.9972291271532735
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_006_text.png",
+      "bbox": [
+        [
+          410,
+          1578
+        ],
+        [
+          914,
+          1578
+        ],
+        [
+          914,
+          1625
+        ],
+        [
+          410,
+          1625
+        ]
+      ],
+      "score": 0.5739251375198364,
+      "y_pos": 1578,
+      "text": "Phân tích bài thuốc",
+      "confidence": 0.991645424138932
+    },
+    {
+      "type": "table",
+      "img_path": "p0237_000_table.png",
+      "bbox": [
+        [
+          351,
+          1679
+        ],
+        [
+          2126,
+          1679
+        ],
+        [
+          2126,
+          2830
+        ],
+        [
+          351,
+          2830
+        ]
+      ],
+      "score": 0.9902635812759399,
+      "y_pos": 1679,
+      "text": "Vị thuốc    Dược lý Đông y\nNhân sâm    Ngọt, hơi đắng. Bổ Tâm khí, đại bổ nguyên khí, ích huyết sinh tân\nBạch truật    Ngọt, đẳng, hơi ấm. Kiện Tỳ, táo thấp, liễm hãn\n<b>Đương quy</b>    Ngot, cay, ấm. Bổ huyết, hành huyết\nThục địa    Ngọt, hơi ôn. Nuôi Thận dưỡng âm, bổ Thận, bổ huyết\nBạch thược    Bổ huyết, liễm hãn, giảm đau\nPhục linh    Ngot, bình. Lợi tiểu thẩm thấp, kiện tỳ, an thần\nNgũ vị tử    Măn, chua, ấm. Liễm hãn, cố tinh\nViễn chí    Đắng, ấm. Bổ Tâm Thân, an thần\nTrần bì    Cay, ấm. Hòa khí, tiêu đàm\nCan khương    Ôn trung tán hàn. Hồi dương cứu nghịch\nĐại táo    Ngọt, bình. Bổ Tỳ Vị, điều hòa tính năng của thuốc\nCam thảo    Ngot, ấm. Bổ Tỳ thổ, bổ trung khí",
+      "confidence": 0.8908321751755788
+    },
+    {
+      "type": "number",
+      "img_path": "p0237_003_number.png",
+      "bbox": [
+        [
+          351,
+          3110
+        ],
+        [
+          435,
+          3110
+        ],
+        [
+          435,
+          3148
+        ],
+        [
+          351,
+          3148
+        ]
+      ],
+      "score": 0.8412484526634216,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0237_002_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1074,
+          3311
+        ],
+        [
+          1074,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.9062490463256836,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8810788103512355
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0237.png"
+}

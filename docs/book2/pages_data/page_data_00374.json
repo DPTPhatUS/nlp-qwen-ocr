@@ -1,0 +1,656 @@
+{
+  "page_num": 374,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0374_003_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          195
+        ],
+        [
+          1678,
+          195
+        ]
+      ],
+      "score": 0.926341712474823,
+      "y_pos": 142,
+      "text": "_______________________________________\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6681458304503134
+    },
+    {
+      "type": "header",
+      "img_path": "p0374_012_header.png",
+      "bbox": [
+        [
+          229,
+          146
+        ],
+        [
+          1096,
+          146
+        ],
+        [
+          1096,
+          196
+        ],
+        [
+          229,
+          196
+        ]
+      ],
+      "score": 0.911989688873291,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SĂNG",
+      "confidence": 0.9856852684702192
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0374_019_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          307
+        ],
+        [
+          572,
+          307
+        ],
+        [
+          572,
+          354
+        ],
+        [
+          225,
+          354
+        ]
+      ],
+      "score": 0.8844931125640869,
+      "y_pos": 307,
+      "text": "C. Cách chữa",
+      "confidence": 0.8208063117095402
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0374_023_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          399
+        ],
+        [
+          565,
+          399
+        ],
+        [
+          565,
+          445
+        ],
+        [
+          227,
+          445
+        ]
+      ],
+      "score": 0.7815629839897156,
+      "y_pos": 399,
+      "text": "Châm cứu",
+      "confidence": 0.874053692817688
+    },
+    {
+      "type": "text",
+      "img_path": "p0374_002_text.png",
+      "bbox": [
+        [
+          225,
+          489
+        ],
+        [
+          1902,
+          489
+        ],
+        [
+          1902,
+          543
+        ],
+        [
+          225,
+          543
+        ]
+      ],
+      "score": 0.9266164898872375,
+      "y_pos": 489,
+      "text": "a.Máu cam (nục huyết): Bách hội (cứu), Nghinh hương, Hợp cốc, Nội đình.",
+      "confidence": 0.7466685469836405
+    },
+    {
+      "type": "text",
+      "img_path": "p0374_008_text.png",
+      "bbox": [
+        [
+          225,
+          580
+        ],
+        [
+          2267,
+          580
+        ],
+        [
+          2267,
+          635
+        ],
+        [
+          225,
+          635
+        ]
+      ],
+      "score": 0.9184321165084839,
+      "y_pos": 580,
+      "text": "<b>b. Lạc huyết</b> (khái huyết): <i>Phế du, Cách du, Trạch hạ</i> (dưới Xích trạch 1 thốn), <i>Liệt khuyết.</i>",
+      "confidence": 0.9913492744619196
+    },
+    {
+      "type": "text",
+      "img_path": "p0374_011_text.png",
+      "bbox": [
+        [
+          226,
+          671
+        ],
+        [
+          1420,
+          671
+        ],
+        [
+          1420,
+          725
+        ],
+        [
+          226,
+          725
+        ]
+      ],
+      "score": 0.9147167801856995,
+      "y_pos": 671,
+      "text": "c. Thổ huyết: Cách du, Đại lăng, Ngư tế, Túc tam lý.",
+      "confidence": 0.9725581595191249
+    },
+    {
+      "type": "text",
+      "img_path": "p0374_006_text.png",
+      "bbox": [
+        [
+          224,
+          765
+        ],
+        [
+          1944,
+          765
+        ],
+        [
+          1944,
+          818
+        ],
+        [
+          224,
+          818
+        ]
+      ],
+      "score": 0.9212977886199951,
+      "y_pos": 765,
+      "text": "d. Đái ra máu: Tiểu trường du, Bàng quang du, Quan nguyên, Tam âm giao.",
+      "confidence": 0.9871514970309114
+    },
+    {
+      "type": "text",
+      "img_path": "p0374_016_text.png",
+      "bbox": [
+        [
+          224,
+          856
+        ],
+        [
+          1881,
+          856
+        ],
+        [
+          1881,
+          910
+        ],
+        [
+          224,
+          910
+        ]
+      ],
+      "score": 0.9054813385009766,
+      "y_pos": 856,
+      "text": "đ. la ra máu: Cách du, Tỳ du, Đại trường du, Quan nguyên, Tam âm giao.",
+      "confidence": 0.8918693222933345
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0374_020_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          948
+        ],
+        [
+          733,
+          948
+        ],
+        [
+          733,
+          999
+        ],
+        [
+          226,
+          999
+        ]
+      ],
+      "score": 0.8664879202842712,
+      "y_pos": 948,
+      "text": "2. Biện chứng thí trị",
+      "confidence": 0.958641326945761
+    },
+    {
+      "type": "text",
+      "img_path": "p0374_000_text.png",
+      "bbox": [
+        [
+          220,
+          1041
+        ],
+        [
+          2360,
+          1041
+        ],
+        [
+          2360,
+          1515
+        ],
+        [
+          220,
+          1515
+        ]
+      ],
+      "score": 0.9863485097885132,
+      "y_pos": 1041,
+      "text": "Biện chứng phải phân biệt hư, thực, tách riêng thực nhiệt, âm hư, và khí hư khác nhau, chú ý\nchúng có thể chuyển hoá cho nhau, hoặc cùng thấy. Nắm chắc quan hệ bệnh lý giữa nơi có\nbệnh và tạng phủ. Nguyên tắc chữa có 3 phép như sau: (1) trị huyết, huyết nhiệt vọng hành thì\nnên làm lương huyết, chỉ huyết. Nếu huyết ứ lưu trệ, phải khử ứ, chỉ huyết. (2) trị khí, thực\nchứng thì thanh khí, giáng khí, hư chứng phải bổ khí, nhiếp huyết. (3) trị hoả, thực chứng thì\nthanh nhiệt giáng hoả, hư chứng thì phải tư âm giáng hoả. Trên lâm sàng có khi cần nhìn nhận\nvà chữa cả hai.",
+      "confidence": 0.9980589438908484
+    },
+    {
+      "type": "text",
+      "img_path": "p0374_001_text.png",
+      "bbox": [
+        [
+          222,
+          1553
+        ],
+        [
+          2363,
+          1553
+        ],
+        [
+          2363,
+          1893
+        ],
+        [
+          222,
+          1893
+        ]
+      ],
+      "score": 0.9842013716697693,
+      "y_pos": 1553,
+      "text": "Nhất thiết phải dùng thuốc thu liễm, chỉ huyết, gồm có: Huyết dư thán (than tóc rối), Trắc bá\nthán, Trần tông thán (than sợi móc để lâu năm), Thiến thảo thán, Ngẫu tiết (ngó sen), Tiên hạc\nthảo, Đại kế, Tiểu kế, Bách cập, mỗi thứ từ 2 đến 5 đồng cân, bột Tam thất từ 3 đến 5 phân.\nTất nhiên phải đồng thời biện riêng về thuộc tính của bệnh lý, phân biệt để phối ngũ (phối hợp\nvị thuốc vào thang tễ).",
+      "confidence": 0.9962103090661778
+    },
+    {
+      "type": "text",
+      "img_path": "p0374_018_text.png",
+      "bbox": [
+        [
+          223,
+          1931
+        ],
+        [
+          2359,
+          1931
+        ],
+        [
+          2359,
+          2127
+        ],
+        [
+          223,
+          2127
+        ]
+      ],
+      "score": 0.8940023183822632,
+      "y_pos": 1931,
+      "text": "a. Thực nhiệt chứng: Bệnh phát nhanh chóng và mạnh, bệnh trình ngắn, lượng máu nhiều,\nmàu đỏ tươi, đỏ tím hoặc đen, chất đậm đặc, sắc mặt đỏ, nóng bứt rứt, miệng khát, lưỡi đỏ, rêu\nlưỡi vàng, mạch huyền sác (căng như giây đàn, nhanh).",
+      "confidence": 0.9985825679347683
+    },
+    {
+      "type": "text",
+      "img_path": "p0374_017_text.png",
+      "bbox": [
+        [
+          225,
+          2164
+        ],
+        [
+          1090,
+          2164
+        ],
+        [
+          1090,
+          2215
+        ],
+        [
+          225,
+          2215
+        ]
+      ],
+      "score": 0.8940569162368774,
+      "y_pos": 2164,
+      "text": "<b>Cách chữa:</b> Thanh nhiệt lương huyết.",
+      "confidence": 0.9851156641275455
+    },
+    {
+      "type": "text",
+      "img_path": "p0374_022_text.png",
+      "bbox": [
+        [
+          224,
+          2255
+        ],
+        [
+          1030,
+          2255
+        ],
+        [
+          1030,
+          2308
+        ],
+        [
+          224,
+          2308
+        ]
+      ],
+      "score": 0.8478004336357117,
+      "y_pos": 2255,
+      "text": "Bài thuốc: Thập khôi tán gia giảm.",
+      "confidence": 0.9257484475771586
+    },
+    {
+      "type": "text",
+      "img_path": "p0374_009_text.png",
+      "bbox": [
+        [
+          227,
+          2346
+        ],
+        [
+          890,
+          2346
+        ],
+        [
+          890,
+          2401
+        ],
+        [
+          227,
+          2401
+        ]
+      ],
+      "score": 0.9148603677749634,
+      "y_pos": 2346,
+      "text": "Chế đại hoàng    3 đồng cân,",
+      "confidence": 0.9788172350480007
+    },
+    {
+      "type": "text",
+      "img_path": "p0374_014_text.png",
+      "bbox": [
+        [
+          225,
+          2439
+        ],
+        [
+          1628,
+          2439
+        ],
+        [
+          1628,
+          2493
+        ],
+        [
+          225,
+          2493
+        ]
+      ],
+      "score": 0.9062824249267578,
+      "y_pos": 2439,
+      "text": "Hoàng liên    1 đồng cân,    Đan bì    3 đồng cân,",
+      "confidence": 0.9435226698525441
+    },
+    {
+      "type": "text",
+      "img_path": "p0374_013_text.png",
+      "bbox": [
+        [
+          225,
+          2531
+        ],
+        [
+          1517,
+          2531
+        ],
+        [
+          1517,
+          2585
+        ],
+        [
+          225,
+          2585
+        ]
+      ],
+      "score": 0.9083145260810852,
+      "y_pos": 2531,
+      "text": "Hắc Sơn chi    3 đồng cân,    Bach mao căn    1 lang.",
+      "confidence": 0.9406315167417457
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0374_024_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2623
+        ],
+        [
+          468,
+          2623
+        ],
+        [
+          468,
+          2674
+        ],
+        [
+          226,
+          2674
+        ]
+      ],
+      "score": 0.6895848512649536,
+      "y_pos": 2623,
+      "text": "Gia giảm:",
+      "confidence": 0.845087468624115
+    },
+    {
+      "type": "text",
+      "img_path": "p0374_007_text.png",
+      "bbox": [
+        [
+          223,
+          2714
+        ],
+        [
+          2147,
+          2714
+        ],
+        [
+          2147,
+          2769
+        ],
+        [
+          223,
+          2769
+        ]
+      ],
+      "score": 0.9203349351882935,
+      "y_pos": 2714,
+      "text": "- Khái huyết, gia Đại cáp tán 5 đồng cân, bọc lại mà đun, sao Hoàng cầm 3 đồng cân.",
+      "confidence": 0.8678940639776342
+    },
+    {
+      "type": "text",
+      "img_path": "p0374_004_text.png",
+      "bbox": [
+        [
+          224,
+          2804
+        ],
+        [
+          1803,
+          2804
+        ],
+        [
+          1803,
+          2860
+        ],
+        [
+          224,
+          2860
+        ]
+      ],
+      "score": 0.9230875372886658,
+      "y_pos": 2804,
+      "text": "- Thổ huyết, gia <i>Chích Ô tặc</i> cốt 5 đồng cân; <i>Sinh địa tươi</i> 8 đồng cân.",
+      "confidence": 0.9858144592297705
+    },
+    {
+      "type": "text",
+      "img_path": "p0374_005_text.png",
+      "bbox": [
+        [
+          225,
+          2897
+        ],
+        [
+          2241,
+          2897
+        ],
+        [
+          2241,
+          2951
+        ],
+        [
+          225,
+          2951
+        ]
+      ],
+      "score": 0.9224779009819031,
+      "y_pos": 2897,
+      "text": "- Ía ra máu, gia <i>Hoè hoa</i> 4 đồng cân, <i>Địa du thán</i> 3 đồng cân, <i>Kinh giới thán</i> 1,5 đồng cân.",
+      "confidence": 0.9886505837293015
+    },
+    {
+      "type": "text",
+      "img_path": "p0374_010_text.png",
+      "bbox": [
+        [
+          225,
+          2989
+        ],
+        [
+          2131,
+          2989
+        ],
+        [
+          2131,
+          3043
+        ],
+        [
+          225,
+          3043
+        ]
+      ],
+      "score": 0.9147327542304993,
+      "y_pos": 2989,
+      "text": "- Đái ra máu, gia <i>Hoàng bá</i> 3 đồng cân, <i>Hổ trượng</i> 5 đồng cân, <i>Cù mạch</i> 3 đồng cân.",
+      "confidence": 0.9696345972743902
+    },
+    {
+      "type": "number",
+      "img_path": "p0374_021_number.png",
+      "bbox": [
+        [
+          2309,
+          3335
+        ],
+        [
+          2358,
+          3335
+        ],
+        [
+          2358,
+          3371
+        ],
+        [
+          2309,
+          3371
+        ]
+      ],
+      "score": 0.8640848398208618,
+      "y_pos": 3335,
+      "text": "    \n\n    \n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0374_015_footer.png",
+      "bbox": [
+        [
+          228,
+          3336
+        ],
+        [
+          1343,
+          3336
+        ],
+        [
+          1343,
+          3383
+        ],
+        [
+          228,
+          3383
+        ]
+      ],
+      "score": 0.9055229425430298,
+      "y_pos": 3336,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9415562085385593
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0374.png"
+}

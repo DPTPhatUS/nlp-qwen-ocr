@@ -1,0 +1,292 @@
+{
+  "page_num": 472,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0472_003_header.png",
+      "bbox": [
+        [
+          1674,
+          143
+        ],
+        [
+          2368,
+          143
+        ],
+        [
+          2368,
+          197
+        ],
+        [
+          1674,
+          197
+        ]
+      ],
+      "score": 0.9160459041595459,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.710223821302255
+    },
+    {
+      "type": "header",
+      "img_path": "p0472_004_header.png",
+      "bbox": [
+        [
+          228,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          228,
+          198
+        ]
+      ],
+      "score": 0.9105533957481384,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BÊNH CHỨNG THƯỜNG GẮP BẰNG CHÂM CỨU",
+      "confidence": 0.9967464724412332
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0472_006_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          330
+        ],
+        [
+          716,
+          330
+        ],
+        [
+          716,
+          378
+        ],
+        [
+          224,
+          378
+        ]
+      ],
+      "score": 0.9042882919311523,
+      "y_pos": 330,
+      "text": "41. Trẻ em tiêu chảy",
+      "confidence": 0.9094563289122148
+    },
+    {
+      "type": "text",
+      "img_path": "p0472_000_text.png",
+      "bbox": [
+        [
+          221,
+          418
+        ],
+        [
+          2358,
+          418
+        ],
+        [
+          2358,
+          617
+        ],
+        [
+          221,
+          617
+        ]
+      ],
+      "score": 0.9727916121482849,
+      "y_pos": 418,
+      "text": "Tiêu chảy ở trẻ em là bệnh thường thấy vào mùa hạ, đa số do ăn quá nhiều hoặc ăn phải thức\năn ôi, thiu, không sạch, hoặc uống nước lã, ăn quả xanh, sống, bị nắng, nóng gây ra đại tiện\nphân lỏng, ngày mấy lần và có nôn mửa, đau bụng, sôi bụng.",
+      "confidence": 0.9954404105169945
+    },
+    {
+      "type": "text",
+      "img_path": "p0472_010_text.png",
+      "bbox": [
+        [
+          284,
+          654
+        ],
+        [
+          1036,
+          654
+        ],
+        [
+          1036,
+          706
+        ],
+        [
+          284,
+          706
+        ]
+      ],
+      "score": 0.7200960516929626,
+      "y_pos": 654,
+      "text": "Cách chữa: Lấy huyệt Bách hội.",
+      "confidence": 0.752691401168704
+    },
+    {
+      "type": "text",
+      "img_path": "p0472_008_text.png",
+      "bbox": [
+        [
+          283,
+          744
+        ],
+        [
+          2286,
+          744
+        ],
+        [
+          2286,
+          798
+        ],
+        [
+          283,
+          798
+        ]
+      ],
+      "score": 0.8792799115180969,
+      "y_pos": 744,
+      "text": "Dùng hào kim châm dưới da, mũi kim ra sau, từ từ châm vào sâu 1-2 phân, lưu kim 1 giờ.",
+      "confidence": 0.999667923558842
+    },
+    {
+      "type": "text",
+      "img_path": "p0472_001_text.png",
+      "bbox": [
+        [
+          279,
+          835
+        ],
+        [
+          2359,
+          835
+        ],
+        [
+          2359,
+          1102
+        ],
+        [
+          279,
+          1102
+        ]
+      ],
+      "score": 0.966390073299408,
+      "y_pos": 835,
+      "text": "Trong khi lưu kim phối hợp với ngón tay, trước hết day ở ngón trỏ từ huyệt <i>Thương dương</i>\nđến <i>Hổ khẩu</i> 30 lần; day ngón tay cái, ở cạnh trụ (phía áp ngón trỏ) từ gốc ngón tay đến từ\nHổ khẩu 18 lần, cuối cùng day từ huyệt <i>Ngư tế</i> đi chéo qua nếp gấp ngang, cổ tay hướng\nhuyệt <i>Thần môn</i> 7 lần.",
+      "confidence": 0.9802021391798107
+    },
+    {
+      "type": "text",
+      "img_path": "p0472_002_text.png",
+      "bbox": [
+        [
+          279,
+          1139
+        ],
+        [
+          2356,
+          1139
+        ],
+        [
+          2356,
+          1267
+        ],
+        [
+          279,
+          1267
+        ]
+      ],
+      "score": 0.9469581842422485,
+      "y_pos": 1139,
+      "text": "Giảng nghĩa của phương: <i>Bách hội</i> để bổ trung ích khí<sup>(*)</sup> phối hợp với day tay làm cho chân\nkhí nâng lên để dứt tiêu chảy.",
+      "confidence": 0.9923661949113012
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0472_007_footnote.png",
+      "bbox": [
+        [
+          227,
+          3166
+        ],
+        [
+          983,
+          3166
+        ],
+        [
+          983,
+          3210
+        ],
+        [
+          227,
+          3210
+        ]
+      ],
+      "score": 0.8890098333358765,
+      "y_pos": 3166,
+      "text": "(*) Bổ trung ích khí: Bổ thêm khí của trung tiêu tỳ vị.",
+      "confidence": 0.9902737579847637
+    },
+    {
+      "type": "number",
+      "img_path": "p0472_009_number.png",
+      "bbox": [
+        [
+          2303,
+          3299
+        ],
+        [
+          2352,
+          3299
+        ],
+        [
+          2352,
+          3335
+        ],
+        [
+          2303,
+          3335
+        ]
+      ],
+      "score": 0.8518006801605225,
+      "y_pos": 3299,
+      "text": "    \n\n\n\n\n    \n    \n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0472_005_footer.png",
+      "bbox": [
+        [
+          227,
+          3310
+        ],
+        [
+          1323,
+          3310
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          227,
+          3355
+        ]
+      ],
+      "score": 0.9066625833511353,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9190420980723399
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0472.png"
+}

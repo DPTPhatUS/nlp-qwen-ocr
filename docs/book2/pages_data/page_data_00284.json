@@ -1,0 +1,890 @@
+{
+  "page_num": 284,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0284_000_header.png",
+      "bbox": [
+        [
+          1608,
+          142
+        ],
+        [
+          2371,
+          142
+        ],
+        [
+          2371,
+          202
+        ],
+        [
+          1608,
+          202
+        ]
+      ],
+      "score": 0.9321394562721252,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7651692341480936
+    },
+    {
+      "type": "header",
+      "img_path": "p0284_002_header.png",
+      "bbox": [
+        [
+          229,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          203
+        ],
+        [
+          229,
+          203
+        ]
+      ],
+      "score": 0.9148977994918823,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6830399837987177
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_031_text.png",
+      "bbox": [
+        [
+          345,
+          343
+        ],
+        [
+          1608,
+          343
+        ],
+        [
+          1608,
+          405
+        ],
+        [
+          345,
+          405
+        ]
+      ],
+      "score": 0.5655273199081421,
+      "y_pos": 343,
+      "text": "Âm uỷ 3: Ở đầu chót ngoài nếp gấp hố khuỷu lên 3 thốn",
+      "confidence": 0.9990336721593683
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_018_text.png",
+      "bbox": [
+        [
+          346,
+          437
+        ],
+        [
+          1640,
+          437
+        ],
+        [
+          1640,
+          496
+        ],
+        [
+          346,
+          496
+        ]
+      ],
+      "score": 0.6551006436347961,
+      "y_pos": 437,
+      "text": "Tứ liên: Ở đầu chót ngoài nếp ngang hố khuỷu lên 4 thốn",
+      "confidence": 0.9994275256207115
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_017_text.png",
+      "bbox": [
+        [
+          345,
+          529
+        ],
+        [
+          1663,
+          529
+        ],
+        [
+          1663,
+          590
+        ],
+        [
+          345,
+          590
+        ]
+      ],
+      "score": 0.6657043099403381,
+      "y_pos": 529,
+      "text": "Ngũ linh: Ở đầu chót ngoài nếp ngang hố khuỷu lên 5 thốn",
+      "confidence": 0.998620139113788
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_020_text.png",
+      "bbox": [
+        [
+          345,
+          621
+        ],
+        [
+          1616,
+          621
+        ],
+        [
+          1616,
+          679
+        ],
+        [
+          345,
+          679
+        ]
+      ],
+      "score": 0.6401050090789795,
+      "y_pos": 621,
+      "text": "Linh bảo: Ở đầu chót ngoài nếp gấp hố khuỷu lên 6 thốn",
+      "confidence": 0.9998172010694232
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_026_text.png",
+      "bbox": [
+        [
+          291,
+          715
+        ],
+        [
+          1287,
+          715
+        ],
+        [
+          1287,
+          770
+        ],
+        [
+          291,
+          770
+        ]
+      ],
+      "score": 0.6185296773910522,
+      "y_pos": 715,
+      "text": "Cách châm: Châm đứng kim, sâu 2 - 3 thốn",
+      "confidence": 0.996044070947738
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_025_text.png",
+      "bbox": [
+        [
+          288,
+          807
+        ],
+        [
+          1225,
+          807
+        ],
+        [
+          1225,
+          864
+        ],
+        [
+          288,
+          864
+        ]
+      ],
+      "score": 0.6192277669906616,
+      "y_pos": 807,
+      "text": "Chủ trị: Bệnh tinh thần, bại liệt do hysteri",
+      "confidence": 0.7730116040810294
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0284_006_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          896
+        ],
+        [
+          680,
+          896
+        ],
+        [
+          680,
+          952
+        ],
+        [
+          228,
+          952
+        ]
+      ],
+      "score": 0.7845897078514099,
+      "y_pos": 896,
+      "text": "382. Nội khoả tiêm",
+      "confidence": 0.9739869266748429
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_022_text.png",
+      "bbox": [
+        [
+          292,
+          987
+        ],
+        [
+          1373,
+          987
+        ],
+        [
+          1373,
+          1047
+        ],
+        [
+          292,
+          1047
+        ]
+      ],
+      "score": 0.6361731290817261,
+      "y_pos": 987,
+      "text": "Vị trí: Ở chỗ cao nhất trên mắt cá trong. (H.140)",
+      "confidence": 0.9930378654423881
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_030_text.png",
+      "bbox": [
+        [
+          291,
+          1080
+        ],
+        [
+          829,
+          1080
+        ],
+        [
+          829,
+          1135
+        ],
+        [
+          291,
+          1135
+        ]
+      ],
+      "score": 0.5970565676689148,
+      "y_pos": 1080,
+      "text": "Cách châm: Cứu 3 mồi",
+      "confidence": 0.9918674447319724
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_015_text.png",
+      "bbox": [
+        [
+          288,
+          1173
+        ],
+        [
+          1717,
+          1173
+        ],
+        [
+          1717,
+          1230
+        ],
+        [
+          288,
+          1230
+        ]
+      ],
+      "score": 0.681853711605072,
+      "y_pos": 1173,
+      "text": "Chủ trị: Đau răng, viêm amiđan, cơ cạnh trong bắp chân co rút.",
+      "confidence": 0.8647154727950692
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0284_033_paragraph_title.png",
+      "bbox": [
+        [
+          288,
+          1262
+        ],
+        [
+          713,
+          1262
+        ],
+        [
+          713,
+          1316
+        ],
+        [
+          288,
+          1316
+        ]
+      ],
+      "score": 0.5469939708709717,
+      "y_pos": 1262,
+      "text": "383. Thái âm kiểu",
+      "confidence": 0.9883294732947099
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_028_text.png",
+      "bbox": [
+        [
+          291,
+          1355
+        ],
+        [
+          1272,
+          1355
+        ],
+        [
+          1272,
+          1413
+        ],
+        [
+          291,
+          1413
+        ]
+      ],
+      "score": 0.6110131144523621,
+      "y_pos": 1355,
+      "text": "Vị trí: Ở chỗ lõm dưới mắt cá chân. (H.140)",
+      "confidence": 0.9923455556233723
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_023_text.png",
+      "bbox": [
+        [
+          291,
+          1448
+        ],
+        [
+          1382,
+          1448
+        ],
+        [
+          1382,
+          1502
+        ],
+        [
+          291,
+          1502
+        ]
+      ],
+      "score": 0.6340937614440918,
+      "y_pos": 1448,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3 - 0,5 thốn.",
+      "confidence": 0.996189128845296
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_032_text.png",
+      "bbox": [
+        [
+          285,
+          1540
+        ],
+        [
+          2130,
+          1540
+        ],
+        [
+          2130,
+          1598
+        ],
+        [
+          285,
+          1598
+        ]
+      ],
+      "score": 0.5606263279914856,
+      "y_pos": 1540,
+      "text": "Chủ trị: Kinh nguyệt không đều, công năng tử cung xuất huyết, sa dạ con, vô sinh",
+      "confidence": 0.7540228308700934
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0284_008_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1631
+        ],
+        [
+          703,
+          1631
+        ],
+        [
+          703,
+          1686
+        ],
+        [
+          229,
+          1686
+        ]
+      ],
+      "score": 0.7369754314422607,
+      "y_pos": 1631,
+      "text": "384. Trị chuyển cân",
+      "confidence": 0.9748604950450716
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_014_text.png",
+      "bbox": [
+        [
+          291,
+          1722
+        ],
+        [
+          1826,
+          1722
+        ],
+        [
+          1826,
+          1780
+        ],
+        [
+          291,
+          1780
+        ]
+      ],
+      "score": 0.6838051080703735,
+      "y_pos": 1722,
+      "text": "Vị trí: Chính giữa bên trên chỗ cao mắt cá trong chân một ít. (H.140)",
+      "confidence": 0.9960489810352594
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_027_text.png",
+      "bbox": [
+        [
+          291,
+          1816
+        ],
+        [
+          694,
+          1816
+        ],
+        [
+          694,
+          1866
+        ],
+        [
+          291,
+          1866
+        ]
+      ],
+      "score": 0.6183179020881653,
+      "y_pos": 1816,
+      "text": "Cách châm: Cứu",
+      "confidence": 0.9673228785395622
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_012_text.png",
+      "bbox": [
+        [
+          288,
+          1907
+        ],
+        [
+          1632,
+          1907
+        ],
+        [
+          1632,
+          1965
+        ],
+        [
+          288,
+          1965
+        ]
+      ],
+      "score": 0.6889896392822266,
+      "y_pos": 1907,
+      "text": "Chủ trị: Co rút cơ Phi dương (cơ dép), đau lưng, đau khớp.",
+      "confidence": 0.9705721080303192
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0284_021_paragraph_title.png",
+      "bbox": [
+        [
+          288,
+          1996
+        ],
+        [
+          827,
+          1996
+        ],
+        [
+          827,
+          2055
+        ],
+        [
+          288,
+          2055
+        ]
+      ],
+      "score": 0.6367437243461609,
+      "y_pos": 1996,
+      "text": "385. Thiếu dương duy",
+      "confidence": 0.9652261435985565
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_007_text.png",
+      "bbox": [
+        [
+          286,
+          2088
+        ],
+        [
+          2357,
+          2088
+        ],
+        [
+          2357,
+          2218
+        ],
+        [
+          286,
+          2218
+        ]
+      ],
+      "score": 0.7579312920570374,
+      "y_pos": 2088,
+      "text": "<i>Vị trí:</i> Sau mắt cá trong lên 1 thốn, giữa huyệt <i>Thái khê</i> và <i>Phục lưu</i> nhưng sát xương chày.\n(H.140)",
+      "confidence": 0.964389078369757
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_029_text.png",
+      "bbox": [
+        [
+          290,
+          2250
+        ],
+        [
+          1347,
+          2250
+        ],
+        [
+          1347,
+          2306
+        ],
+        [
+          290,
+          2306
+        ]
+      ],
+      "score": 0.6032181978225708,
+      "y_pos": 2250,
+      "text": "Cách châm: Châm chếch kim, sâu 0,5 - 1 thốn",
+      "confidence": 0.817363006538815
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_016_text.png",
+      "bbox": [
+        [
+          286,
+          2342
+        ],
+        [
+          1978,
+          2342
+        ],
+        [
+          1978,
+          2401
+        ],
+        [
+          286,
+          2401
+        ]
+      ],
+      "score": 0.6713341474533081,
+      "y_pos": 2342,
+      "text": "Chủ trị: Cước khí, thấp khớp mạn tính ở chi dưới, ghẻ ruồi, chi dưới tê bại.",
+      "confidence": 0.9840682767904722
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0284_004_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          2436
+        ],
+        [
+          623,
+          2436
+        ],
+        [
+          623,
+          2489
+        ],
+        [
+          229,
+          2489
+        ]
+      ],
+      "score": 0.8255195021629333,
+      "y_pos": 2436,
+      "text": "386. Thừa mênh",
+      "confidence": 0.9787917286157608
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_019_text.png",
+      "bbox": [
+        [
+          292,
+          2526
+        ],
+        [
+          1209,
+          2526
+        ],
+        [
+          1209,
+          2584
+        ],
+        [
+          292,
+          2584
+        ]
+      ],
+      "score": 0.6495190262794495,
+      "y_pos": 2526,
+      "text": "Vị trí: Huyệt Thái khê lên 3 thốn. (H.140)",
+      "confidence": 0.9903121509335258
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_010_text.png",
+      "bbox": [
+        [
+          290,
+          2619
+        ],
+        [
+          1329,
+          2619
+        ],
+        [
+          1329,
+          2672
+        ],
+        [
+          290,
+          2672
+        ]
+      ],
+      "score": 0.703711211681366,
+      "y_pos": 2619,
+      "text": "Cách châm: Châm đứng kim, sâu 1 - 1,5 thốn",
+      "confidence": 0.9948304187167775
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_009_text.png",
+      "bbox": [
+        [
+          287,
+          2711
+        ],
+        [
+          1525,
+          2711
+        ],
+        [
+          1525,
+          2769
+        ],
+        [
+          287,
+          2769
+        ]
+      ],
+      "score": 0.7338332533836365,
+      "y_pos": 2711,
+      "text": "Chủ trị: Động kinh, bệnh tâm thần, chi dưới phù thũng.",
+      "confidence": 0.7212523488061768
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0284_005_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          2801
+        ],
+        [
+          565,
+          2801
+        ],
+        [
+          565,
+          2856
+        ],
+        [
+          229,
+          2856
+        ]
+      ],
+      "score": 0.8018081784248352,
+      "y_pos": 2801,
+      "text": "387. Giai nghi",
+      "confidence": 0.9735282883048058
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_024_text.png",
+      "bbox": [
+        [
+          292,
+          2893
+        ],
+        [
+          1293,
+          2893
+        ],
+        [
+          1293,
+          2951
+        ],
+        [
+          292,
+          2951
+        ]
+      ],
+      "score": 0.6217819452285767,
+      "y_pos": 2893,
+      "text": "Vị trí: Thẳng mắt cá trong lên 5 thốn (H.140)",
+      "confidence": 0.9888497946110177
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_011_text.png",
+      "bbox": [
+        [
+          290,
+          2987
+        ],
+        [
+          1328,
+          2987
+        ],
+        [
+          1328,
+          3040
+        ],
+        [
+          290,
+          3040
+        ]
+      ],
+      "score": 0.6930112242698669,
+      "y_pos": 2987,
+      "text": "Cách châm: Châm đứng kim, sau 1,5 - 2 thốn",
+      "confidence": 0.9952443662014875
+    },
+    {
+      "type": "text",
+      "img_path": "p0284_013_text.png",
+      "bbox": [
+        [
+          289,
+          3077
+        ],
+        [
+          1538,
+          3077
+        ],
+        [
+          1538,
+          3133
+        ],
+        [
+          289,
+          3133
+        ]
+      ],
+      "score": 0.6838746070861816,
+      "y_pos": 3077,
+      "text": "Chủ trị: Kinh nguyệt không đều, nhièu khí hư, cước khí",
+      "confidence": 0.8143680308546338
+    },
+    {
+      "type": "footer",
+      "img_path": "p0284_001_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1434,
+          3334
+        ],
+        [
+          1434,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9203858971595764,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.998402716978541
+    },
+    {
+      "type": "number",
+      "img_path": "p0284_003_number.png",
+      "bbox": [
+        [
+          2279,
+          3337
+        ],
+        [
+          2351,
+          3337
+        ],
+        [
+          2351,
+          3377
+        ],
+        [
+          2279,
+          3377
+        ]
+      ],
+      "score": 0.9039933681488037,
+      "y_pos": 3337,
+      "text": "    \n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0284.png"
+}

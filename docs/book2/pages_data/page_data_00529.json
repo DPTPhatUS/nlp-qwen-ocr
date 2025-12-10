@@ -1,0 +1,188 @@
+{
+  "page_num": 529,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0529_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9180454611778259,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0529_000_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.920937716960907,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.997708330154419
+    },
+    {
+      "type": "text",
+      "img_path": "p0529_004_text.png",
+      "bbox": [
+        [
+          226,
+          308
+        ],
+        [
+          1779,
+          308
+        ],
+        [
+          1779,
+          363
+        ],
+        [
+          226,
+          363
+        ]
+      ],
+      "score": 0.5292791724205017,
+      "y_pos": 308,
+      "text": "379. <b>Nắc do cơ hoành co cứng:</b> Nội quan, Thiên đột, Thượng quản.",
+      "confidence": 0.9821512076392103
+    },
+    {
+      "type": "text",
+      "img_path": "p0529_005_text.png",
+      "bbox": [
+        [
+          227,
+          401
+        ],
+        [
+          1531,
+          401
+        ],
+        [
+          1531,
+          454
+        ],
+        [
+          227,
+          454
+        ]
+      ],
+      "score": 0.52436363697052,
+      "y_pos": 401,
+      "text": "380. Cơ hoành co thắt: Thiên đột, Nội quan, Trung quản.",
+      "confidence": 0.9834683621138857
+    },
+    {
+      "type": "text",
+      "img_path": "p0529_006_text.png",
+      "bbox": [
+        [
+          227,
+          583
+        ],
+        [
+          1239,
+          583
+        ],
+        [
+          1239,
+          637
+        ],
+        [
+          227,
+          637
+        ]
+      ],
+      "score": 0.5117937922477722,
+      "y_pos": 583,
+      "text": "382. Cơ hoành co thắt: Kỳ môn, Túc tam lý.",
+      "confidence": 0.9991209750825708
+    },
+    {
+      "type": "number",
+      "img_path": "p0529_003_number.png",
+      "bbox": [
+        [
+          2317,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2317,
+          3374
+        ]
+      ],
+      "score": 0.859518826007843,
+      "y_pos": 3337,
+      "text": "    \n            \n    \n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0529_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.8995246291160583,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0529.png"
+}

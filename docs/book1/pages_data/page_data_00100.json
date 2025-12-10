@@ -1,0 +1,474 @@
+{
+  "page_num": 100,
+  "content": [
+    {
+      "type": "figure_title",
+      "img_path": "p0100_017_figure_title.png",
+      "bbox": [
+        [
+          463,
+          459
+        ],
+        [
+          1602,
+          459
+        ],
+        [
+          1602,
+          513
+        ],
+        [
+          463,
+          513
+        ]
+      ],
+      "score": 0.5862508416175842,
+      "y_pos": 459,
+      "text": "+ Phân tích bài thuốc Bảo hòa hoàn (Âu ấu tu tri)",
+      "confidence": 0.9583156658153907
+    },
+    {
+      "type": "table",
+      "img_path": "p0100_000_table.png",
+      "bbox": [
+        [
+          352,
+          567
+        ],
+        [
+          2123,
+          567
+        ],
+        [
+          2123,
+          1448
+        ],
+        [
+          352,
+          1448
+        ]
+      ],
+      "score": 0.9906536936759949,
+      "y_pos": 567,
+      "text": "Vị thuốc    Dược lý Đông y\nSon tra    Chua, ngot, ấm vào Tỳ, Vị, Can. Tiêu thực, hóa tích (do ăn nhiều thịt không\ntiêu), phá khí, hành ứ, hóa đờm\nThần khúc    Ngot, cay, ấm, vào Tỳ, Vi. Tiêu thực hóa tích, khai Vi kiên Tỳ, thông sữa\nMach nha    Vị mặn, ấm vào Tỳ, Vị. Tiêu thực, hạ khí, khai Vị hòa trung (ăn bột không tiêu)\nTrần bì    Đắng, cay, ấm vào Tỳ, Phế. Hành khí, hóa đờm, táo thấp\nBán hạ chế    Cay, ấm, hơi độc vào Tỳ, Phế. Hành khí, hóa đờm, táo thấp, chỉ khái, trừ nôn\nmửa\nPhuc linh    Ngot, nhat, bình vào Tâm, Tỳ, Phế, Thân. Lơi niêu thẩm thấp, kiên Tỳ, an thần\nLa băc tử    Ngọt, cay, bình vào Phế, Tỳ. Hóa đờm, giáng nghịch, lợi niệu\nLiên kiều    Đẳng, hơi hàn, vào Đởm, Đại trường, Tam tiêu. Thanh nhiệt, giải độc, tán\nkết, giải cảm thuộc Phong nhiệt, chống nôn",
+      "confidence": 0.9167744120282473
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0100_016_figure_title.png",
+      "bbox": [
+        [
+          464,
+          1527
+        ],
+        [
+          1098,
+          1527
+        ],
+        [
+          1098,
+          1579
+        ],
+        [
+          464,
+          1579
+        ]
+      ],
+      "score": 0.7194821834564209,
+      "y_pos": 1527,
+      "text": "+ Công thức huyệt sử dụng",
+      "confidence": 0.9973253276613023
+    },
+    {
+      "type": "table",
+      "img_path": "p0100_001_table.png",
+      "bbox": [
+        [
+          351,
+          1628
+        ],
+        [
+          2123,
+          1628
+        ],
+        [
+          2123,
+          2020
+        ],
+        [
+          351,
+          2020
+        ]
+      ],
+      "score": 0.9875397682189941,
+      "y_pos": 1628,
+      "text": "Tên huyệt    Cơ sở lý luận    Tác dụng điều trị\nTrung quản    Mộ huyệt của Vi    Kiên Vi\nTúc tam lý    Hợp thổ huyệt của Vị    Giáng troc khí (tả)\nKhí hải    Bể của Khí    Kiên Tỳ\nPhong long    Lạc huyệt của Vị. Đặc hiệu trừ đờm    Trừ thấp",
+      "confidence": 0.9219721608348934
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0100_008_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          2102
+        ],
+        [
+          683,
+          2102
+        ],
+        [
+          683,
+          2149
+        ],
+        [
+          345,
+          2149
+        ]
+      ],
+      "score": 0.9125368595123291,
+      "y_pos": 2102,
+      "text": "<b>3.2.</b> Vi âm hư",
+      "confidence": 0.9608714335104999
+    },
+    {
+      "type": "text",
+      "img_path": "p0100_015_text.png",
+      "bbox": [
+        [
+          463,
+          2174
+        ],
+        [
+          836,
+          2174
+        ],
+        [
+          836,
+          2223
+        ],
+        [
+          463,
+          2223
+        ]
+      ],
+      "score": 0.7888066172599792,
+      "y_pos": 2174,
+      "text": "a/ Nguyên nhân",
+      "confidence": 0.9733584634959698
+    },
+    {
+      "type": "text",
+      "img_path": "p0100_012_text.png",
+      "bbox": [
+        [
+          409,
+          2243
+        ],
+        [
+          1512,
+          2243
+        ],
+        [
+          1512,
+          2294
+        ],
+        [
+          409,
+          2294
+        ]
+      ],
+      "score": 0.8841997385025024,
+      "y_pos": 2243,
+      "text": "- Bệnh ôn nhiệt làm tổn thương âm dịch của Vị.",
+      "confidence": 0.9848875906318426
+    },
+    {
+      "type": "text",
+      "img_path": "p0100_004_text.png",
+      "bbox": [
+        [
+          445,
+          2313
+        ],
+        [
+          2122,
+          2313
+        ],
+        [
+          2122,
+          2420
+        ],
+        [
+          445,
+          2420
+        ]
+      ],
+      "score": 0.9198097586631775,
+      "y_pos": 2313,
+      "text": "Những trường hợp âm hư lâu ngày sinh nội nhiệt làm tổn thương âm\ndich.",
+      "confidence": 0.9757436190074656
+    },
+    {
+      "type": "text",
+      "img_path": "p0100_013_text.png",
+      "bbox": [
+        [
+          461,
+          2443
+        ],
+        [
+          1037,
+          2443
+        ],
+        [
+          1037,
+          2493
+        ],
+        [
+          461,
+          2493
+        ]
+      ],
+      "score": 0.877388060092926,
+      "y_pos": 2443,
+      "text": "b/ Triệu chứng lâm sàng:",
+      "confidence": 0.937328957594358
+    },
+    {
+      "type": "text",
+      "img_path": "p0100_003_text.png",
+      "bbox": [
+        [
+          406,
+          2520
+        ],
+        [
+          1576,
+          2520
+        ],
+        [
+          1576,
+          2571
+        ],
+        [
+          406,
+          2571
+        ]
+      ],
+      "score": 0.9205097556114197,
+      "y_pos": 2520,
+      "text": "\n    Môi miệng khô. Nóng. An uống kém. Thích uống.\n",
+      "confidence": 0.6931591466279097
+    },
+    {
+      "type": "text",
+      "img_path": "p0100_002_text.png",
+      "bbox": [
+        [
+          407,
+          2600
+        ],
+        [
+          1805,
+          2600
+        ],
+        [
+          1805,
+          2652
+        ],
+        [
+          407,
+          2652
+        ]
+      ],
+      "score": 0.9234479069709778,
+      "y_pos": 2600,
+      "text": "- O khan, nấc cục. Đại tiện phân khô cứng. Tiểu tiện ngắn ít.",
+      "confidence": 0.5203643299284435
+    },
+    {
+      "type": "text",
+      "img_path": "p0100_010_text.png",
+      "bbox": [
+        [
+          409,
+          2673
+        ],
+        [
+          1045,
+          2673
+        ],
+        [
+          1045,
+          2720
+        ],
+        [
+          409,
+          2720
+        ]
+      ],
+      "score": 0.8988478183746338,
+      "y_pos": 2673,
+      "text": "Lưỡi khô đỏ. Mach tế sác.",
+      "confidence": 0.9934561804488853
+    },
+    {
+      "type": "text",
+      "img_path": "p0100_011_text.png",
+      "bbox": [
+        [
+          461,
+          2744
+        ],
+        [
+          1172,
+          2744
+        ],
+        [
+          1172,
+          2795
+        ],
+        [
+          461,
+          2795
+        ]
+      ],
+      "score": 0.8920244574546814,
+      "y_pos": 2744,
+      "text": "c/ Bệnh cảnh Tây y thường gặp",
+      "confidence": 0.9793791328707049
+    },
+    {
+      "type": "text",
+      "img_path": "p0100_009_text.png",
+      "bbox": [
+        [
+          409,
+          2816
+        ],
+        [
+          768,
+          2816
+        ],
+        [
+          768,
+          2863
+        ],
+        [
+          409,
+          2863
+        ]
+      ],
+      "score": 0.912303626537323,
+      "y_pos": 2816,
+      "text": "√iêm da dày",
+      "confidence": 0.7713275296347482
+    },
+    {
+      "type": "text",
+      "img_path": "p0100_007_text.png",
+      "bbox": [
+        [
+          407,
+          2885
+        ],
+        [
+          1256,
+          2885
+        ],
+        [
+          1256,
+          2933
+        ],
+        [
+          407,
+          2933
+        ]
+      ],
+      "score": 0.917209804058075,
+      "y_pos": 2885,
+      "text": "- Sau những bênh có sốt cao kéo dài.",
+      "confidence": 0.6028047298130236
+    },
+    {
+      "type": "text",
+      "img_path": "p0100_006_text.png",
+      "bbox": [
+        [
+          409,
+          2969
+        ],
+        [
+          830,
+          2969
+        ],
+        [
+          830,
+          3018
+        ],
+        [
+          409,
+          3018
+        ]
+      ],
+      "score": 0.9186164736747742,
+      "y_pos": 2969,
+      "text": "Đái tháo đường.",
+      "confidence": 0.9789642235812019
+    },
+    {
+      "type": "number",
+      "img_path": "p0100_014_number.png",
+      "bbox": [
+        [
+          2068,
+          3111
+        ],
+        [
+          2121,
+          3111
+        ],
+        [
+          2121,
+          3147
+        ],
+        [
+          2068,
+          3147
+        ]
+      ],
+      "score": 0.8671756386756897,
+      "y_pos": 3111,
+      "text": "    \n    \n    ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0100_005_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.9192751049995422,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8789173466818673
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0100.png"
+}

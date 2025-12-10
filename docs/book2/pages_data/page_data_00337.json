@@ -1,0 +1,552 @@
+{
+  "page_num": 337,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0337_009_header.png",
+      "bbox": [
+        [
+          1679,
+          141
+        ],
+        [
+          2368,
+          141
+        ],
+        [
+          2368,
+          195
+        ],
+        [
+          1679,
+          195
+        ]
+      ],
+      "score": 0.9241079092025757,
+      "y_pos": 141,
+      "text": "CAM NANG CHAN TRI ĐONG Y",
+      "confidence": 0.9705450947468097
+    },
+    {
+      "type": "header",
+      "img_path": "p0337_012_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1054,
+          152
+        ],
+        [
+          1054,
+          197
+        ],
+        [
+          229,
+          197
+        ]
+      ],
+      "score": 0.9159491658210754,
+      "y_pos": 152,
+      "text": "ÔN NHIỆT KINH BIÊN CHỨNG LUÂN TRI",
+      "confidence": 0.9322481291634696
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0337_016_paragraph_title.png",
+      "bbox": [
+        [
+          342,
+          307
+        ],
+        [
+          629,
+          307
+        ],
+        [
+          629,
+          357
+        ],
+        [
+          342,
+          357
+        ]
+      ],
+      "score": 0.8943120837211609,
+      "y_pos": 307,
+      "text": "Phép chữa:",
+      "confidence": 0.827908585468928
+    },
+    {
+      "type": "text",
+      "img_path": "p0337_011_text.png",
+      "bbox": [
+        [
+          400,
+          397
+        ],
+        [
+          2292,
+          397
+        ],
+        [
+          2292,
+          452
+        ],
+        [
+          400,
+          452
+        ]
+      ],
+      "score": 0.917820155620575,
+      "y_pos": 397,
+      "text": "- Lương táo, nên tán hàn giải biểu, tuyên phế nhuận táo, thường dùng Hạnh tô tán.",
+      "confidence": 0.9947117926126503
+    },
+    {
+      "type": "text",
+      "img_path": "p0337_006_text.png",
+      "bbox": [
+        [
+          400,
+          487
+        ],
+        [
+          2357,
+          487
+        ],
+        [
+          2357,
+          615
+        ],
+        [
+          400,
+          615
+        ]
+      ],
+      "score": 0.9628447890281677,
+      "y_pos": 487,
+      "text": "- Ôn táo, nên tân lương giải biểu (dùng vị cay mát giải biểu), tuyên phế nhuận táo,\nthường dùng Tang hạnh thang.",
+      "confidence": 0.9988271986152611
+    },
+    {
+      "type": "text",
+      "img_path": "p0337_005_text.png",
+      "bbox": [
+        [
+          401,
+          650
+        ],
+        [
+          2358,
+          650
+        ],
+        [
+          2358,
+          776
+        ],
+        [
+          401,
+          776
+        ]
+      ],
+      "score": 0.9632517695426941,
+      "y_pos": 650,
+      "text": "- Lương táo, ôn táo chuyển vào khí phần, đều có thể hoá làm táo nhiệt, chữa thì nên\nthanh phế nhuận táo, thường dùng Thanh táo cứu phế thang.",
+      "confidence": 0.9802011490997264
+    },
+    {
+      "type": "text",
+      "img_path": "p0337_007_text.png",
+      "bbox": [
+        [
+          402,
+          813
+        ],
+        [
+          2357,
+          813
+        ],
+        [
+          2357,
+          939
+        ],
+        [
+          402,
+          939
+        ]
+      ],
+      "score": 0.9626349806785583,
+      "y_pos": 813,
+      "text": "- Thời kỳ đầu của các bệnh cảm cúm, cảm mạo, bại liệt trẻ em, bạch hầu, có biểu hiện\nchứng trạng đúng như thế này, có thể theo phép này mà chữa.",
+      "confidence": 0.9962716410905861
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0337_014_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          977
+        ],
+        [
+          968,
+          977
+        ],
+        [
+          968,
+          1028
+        ],
+        [
+          343,
+          1028
+        ]
+      ],
+      "score": 0.9087713956832886,
+      "y_pos": 977,
+      "text": "đ. Phong hàn biểu chứng",
+      "confidence": 0.9975465559959411
+    },
+    {
+      "type": "text",
+      "img_path": "p0337_002_text.png",
+      "bbox": [
+        [
+          339,
+          1068
+        ],
+        [
+          2359,
+          1068
+        ],
+        [
+          2359,
+          1264
+        ],
+        [
+          339,
+          1264
+        ]
+      ],
+      "score": 0.9782046675682068,
+      "y_pos": 1068,
+      "text": "Chứng này tương đương với biểu hàn chứng trong bát cương biện chứng, cũng là bệnh\n\"Thái dương\" trong lục kinh biện chứng. Thường phát vào lúc mùa đông lạnh lẽo, do tà khí\ncủa phong hàn xâm lấn vào vệ biểu gây nên.",
+      "confidence": 0.9821670484809545
+    },
+    {
+      "type": "text",
+      "img_path": "p0337_020_text.png",
+      "bbox": [
+        [
+          342,
+          1300
+        ],
+        [
+          1094,
+          1300
+        ],
+        [
+          1094,
+          1351
+        ],
+        [
+          342,
+          1351
+        ]
+      ],
+      "score": 0.5652026534080505,
+      "y_pos": 1300,
+      "text": "Phép chữa: Nên tân ôn giải biểu",
+      "confidence": 0.9101776245868567
+    },
+    {
+      "type": "text",
+      "img_path": "p0337_008_text.png",
+      "bbox": [
+        [
+          340,
+          1393
+        ],
+        [
+          2066,
+          1393
+        ],
+        [
+          2066,
+          1447
+        ],
+        [
+          340,
+          1447
+        ]
+      ],
+      "score": 0.9265137314796448,
+      "y_pos": 1393,
+      "text": "Biểu hàn thực chứng dùng <i>Ma hoàng thang</i> hoặc <i>Kinh phòng giải biểu thang</i>.",
+      "confidence": 0.9834960890121949
+    },
+    {
+      "type": "text",
+      "img_path": "p0337_010_text.png",
+      "bbox": [
+        [
+          341,
+          1484
+        ],
+        [
+          1704,
+          1484
+        ],
+        [
+          1704,
+          1537
+        ],
+        [
+          341,
+          1537
+        ]
+      ],
+      "score": 0.9237813353538513,
+      "y_pos": 1484,
+      "text": "Biểu hàn hư chứng dùng <i>Quế chi thang</i> để điều hoà vê biểu.",
+      "confidence": 0.9916475630197369
+    },
+    {
+      "type": "text",
+      "img_path": "p0337_004_text.png",
+      "bbox": [
+        [
+          339,
+          1574
+        ],
+        [
+          2357,
+          1574
+        ],
+        [
+          2357,
+          1698
+        ],
+        [
+          339,
+          1698
+        ]
+      ],
+      "score": 0.9657324552536011,
+      "y_pos": 1574,
+      "text": "Bệnh cảm cúm, cảm mạo mà thấy xuất hiện chứng trạng biểu hàn, đều có thể theo phép\nnày mà chữa.",
+      "confidence": 0.9966280233292353
+    },
+    {
+      "type": "text",
+      "img_path": "p0337_001_text.png",
+      "bbox": [
+        [
+          338,
+          1738
+        ],
+        [
+          2358,
+          1738
+        ],
+        [
+          2358,
+          2075
+        ],
+        [
+          338,
+          2075
+        ]
+      ],
+      "score": 0.9816485643386841,
+      "y_pos": 1738,
+      "text": "e. Trong 5 loại hình kể trên, thường thấy là phong ôn biểu chứng, rêu lưỡi từ trắng\nchuyển sang vàng, là tiêu chí chủ yếu của bệnh từ vệ phần chuyển vào khí phần. Thử ôn\nbiểu chứng (không hiệp với hàn tà) chuyển biến rất nhanh, cho nên bệnh ở vệ phần\nthường thường rất ngắn thời gian; thứ đó là phong ôn, thấp ôn, thu táo; chuyển biến rất\nchậm là phong hàn biểu chứng.",
+      "confidence": 0.9971024937779894
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0337_013_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          2114
+        ],
+        [
+          698,
+          2114
+        ],
+        [
+          698,
+          2165
+        ],
+        [
+          285,
+          2165
+        ]
+      ],
+      "score": 0.9099047780036926,
+      "y_pos": 2114,
+      "text": "2. Bênh phần khí",
+      "confidence": 0.9457120133770837
+    },
+    {
+      "type": "text",
+      "img_path": "p0337_000_text.png",
+      "bbox": [
+        [
+          336,
+          2205
+        ],
+        [
+          2357,
+          2205
+        ],
+        [
+          2357,
+          2613
+        ],
+        [
+          336,
+          2613
+        ]
+      ],
+      "score": 0.9859126210212708,
+      "y_pos": 2205,
+      "text": "Bệnh phần khí là giai đoạn 2 của bệnh sốt thời khí. Đặc trưng của nó là sốt rất cao, không\ncó sợ lạnh, miệng khát, lưỡi hồng, rêu lưỡi vàng, mạch sác. Bệnh tà xâm nhập vào khí\nphần, tà khí thịnh mà chính khí cũng thịnh, khí hữu dư sẽ là hoả, cho nên xuất hiện chứng\nnhiệt ở khí phần. Trừ thấp ôn ra, các loại bệnh hình ở phần vệ, sau khi chuyển vào phần\nkhí đều hoá làm nhiệt chứng ở khí phần, có thể không phải phân chia ra phong, hàn.\nhương, táo.",
+      "confidence": 0.9892597380539577
+    },
+    {
+      "type": "text",
+      "img_path": "p0337_017_text.png",
+      "bbox": [
+        [
+          341,
+          2651
+        ],
+        [
+          1607,
+          2651
+        ],
+        [
+          1607,
+          2705
+        ],
+        [
+          341,
+          2705
+        ]
+      ],
+      "score": 0.882858395576477,
+      "y_pos": 2651,
+      "text": "Bệnh ở khí phần, trên lâm sàng thường thấy 6 loại hình:",
+      "confidence": 0.9995271385761729
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0337_018_paragraph_title.png",
+      "bbox": [
+        [
+          342,
+          2744
+        ],
+        [
+          1371,
+          2744
+        ],
+        [
+          1371,
+          2796
+        ],
+        [
+          342,
+          2796
+        ]
+      ],
+      "score": 0.8419021964073181,
+      "y_pos": 2744,
+      "text": "a. Khí phần nhiệt thịnh (nhiệt tại khí phần)",
+      "confidence": 0.9895648230677065
+    },
+    {
+      "type": "text",
+      "img_path": "p0337_003_text.png",
+      "bbox": [
+        [
+          338,
+          2832
+        ],
+        [
+          2356,
+          2832
+        ],
+        [
+          2356,
+          3030
+        ],
+        [
+          338,
+          3030
+        ]
+      ],
+      "score": 0.976151168346405,
+      "y_pos": 2832,
+      "text": "Chủ chứng: Có đủ đặc trưng của bệnh ở khí phần, kiêm có xuất hiện sốt cao, khát nhiều.\nmồ hôi nhiều, mạch hồng, đại, rêu lưỡi vàng khô, mặt đỏ, có người bệnh có nói nhảm lung\ntung và co quắp.",
+      "confidence": 0.9913310607764821
+    },
+    {
+      "type": "footer",
+      "img_path": "p0337_015_footer.png",
+      "bbox": [
+        [
+          228,
+          3337
+        ],
+        [
+          1342,
+          3337
+        ],
+        [
+          1342,
+          3385
+        ],
+        [
+          228,
+          3385
+        ]
+      ],
+      "score": 0.9045001268386841,
+      "y_pos": 3337,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9347684225946102
+    },
+    {
+      "type": "number",
+      "img_path": "p0337_019_number.png",
+      "bbox": [
+        [
+          2321,
+          3339
+        ],
+        [
+          2345,
+          3339
+        ],
+        [
+          2345,
+          3373
+        ],
+        [
+          2321,
+          3373
+        ]
+      ],
+      "score": 0.8014630079269409,
+      "y_pos": 3339,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0337.png"
+}

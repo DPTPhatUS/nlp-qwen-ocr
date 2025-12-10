@@ -1,0 +1,498 @@
+{
+  "page_num": 179,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0179_009_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9257218241691589,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.723309953652677
+    },
+    {
+      "type": "header",
+      "img_path": "p0179_013_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9148614406585693,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "image",
+      "img_path": "p0179_000_image.png",
+      "bbox": [
+        [
+          694,
+          351
+        ],
+        [
+          1894,
+          351
+        ],
+        [
+          1894,
+          1354
+        ],
+        [
+          694,
+          1354
+        ]
+      ],
+      "score": 0.9752410650253296,
+      "y_pos": 351
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0179_016_figure_title.png",
+      "bbox": [
+        [
+          1205,
+          1460
+        ],
+        [
+          1383,
+          1460
+        ],
+        [
+          1383,
+          1503
+        ],
+        [
+          1205,
+          1503
+        ]
+      ],
+      "score": 0.886811375617981,
+      "y_pos": 1460,
+      "text": "Hinh    а    2",
+      "confidence": 0.47429449160893755
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_014_text.png",
+      "bbox": [
+        [
+          285,
+          1548
+        ],
+        [
+          2100,
+          1548
+        ],
+        [
+          2100,
+          1598
+        ],
+        [
+          285,
+          1598
+        ]
+      ],
+      "score": 0.9146361947059631,
+      "y_pos": 1548,
+      "text": "<b>Cách châm:</b> Châm chếch kim lên trên, sâu 0,3-0,5 thốn. Cứu 3-5 mối, hơ 5 phút.",
+      "confidence": 0.9896416678840732
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_002_text.png",
+      "bbox": [
+        [
+          282,
+          1640
+        ],
+        [
+          2356,
+          1640
+        ],
+        [
+          2356,
+          1761
+        ],
+        [
+          282,
+          1761
+        ]
+      ],
+      "score": 0.9666677117347717,
+      "y_pos": 1640,
+      "text": "Chủ trị: Mất ngủ, tim đập mạnh, đau tim, tinh thần bất thường, đau dạ dày, nôn mửa, đau\nsườn ngưc, đau gót chân.",
+      "confidence": 0.8660477348695876
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_001_text.png",
+      "bbox": [
+        [
+          281,
+          1803
+        ],
+        [
+          2361,
+          1803
+        ],
+        [
+          2361,
+          1925
+        ],
+        [
+          281,
+          1925
+        ]
+      ],
+      "score": 0.9671527147293091,
+      "y_pos": 1803,
+      "text": "<b>Tác dụng phối hợp:</b> Với <i>Ngoại quan, Chi câu</i> trị đau bụng táo bón; với <i>Nội quan, Khúc trạch</i>\ntrị tim ngực đau đớn.",
+      "confidence": 0.9921995512389752
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0179_008_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1968
+        ],
+        [
+          516,
+          1968
+        ],
+        [
+          516,
+          2016
+        ],
+        [
+          225,
+          2016
+        ]
+      ],
+      "score": 0.9258239269256592,
+      "y_pos": 1968,
+      "text": "8. Lao cung",
+      "confidence": 0.9182396485255315
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_012_text.png",
+      "bbox": [
+        [
+          290,
+          2055
+        ],
+        [
+          910,
+          2055
+        ],
+        [
+          910,
+          2109
+        ],
+        [
+          290,
+          2109
+        ]
+      ],
+      "score": 0.9168223142623901,
+      "y_pos": 2055,
+      "text": "Vị trí: Ở trong lòng bàn tay.",
+      "confidence": 0.9832879631750046
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_004_text.png",
+      "bbox": [
+        [
+          283,
+          2146
+        ],
+        [
+          2357,
+          2146
+        ],
+        [
+          2357,
+          2273
+        ],
+        [
+          283,
+          2273
+        ]
+      ],
+      "score": 0.9626027941703796,
+      "y_pos": 2146,
+      "text": "Cách lấy huyệt: Ngửa bàn tay, nắm sát ngón tay vào lòng bàn tay, chính chỗ đầu ngón giữa\nchấm vào lòng bàn tay, đó là khe xương bàn tay 2-3, nhưng sát xương bàn số 3. (H. 82)",
+      "confidence": 0.9986440069145627
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_010_text.png",
+      "bbox": [
+        [
+          285,
+          2311
+        ],
+        [
+          1857,
+          2311
+        ],
+        [
+          1857,
+          2362
+        ],
+        [
+          285,
+          2362
+        ]
+      ],
+      "score": 0.9222299456596375,
+      "y_pos": 2311,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3-0,5 thốn. Cứu 3 mồi, hơ 5 phút.",
+      "confidence": 0.9930703052833899
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_006_text.png",
+      "bbox": [
+        [
+          285,
+          2402
+        ],
+        [
+          1596,
+          2402
+        ],
+        [
+          1596,
+          2454
+        ],
+        [
+          285,
+          2454
+        ]
+      ],
+      "score": 0.9342167973518372,
+      "y_pos": 2402,
+      "text": "Chủ trị: Nấc, điện dại, nôn mửa, đau tim, trẻ em lở miệng.",
+      "confidence": 0.7195713778336843
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_007_text.png",
+      "bbox": [
+        [
+          288,
+          2494
+        ],
+        [
+          1609,
+          2494
+        ],
+        [
+          1609,
+          2548
+        ],
+        [
+          288,
+          2548
+        ]
+      ],
+      "score": 0.9259887337684631,
+      "y_pos": 2494,
+      "text": "Tác dụng phối hợp: Với Hậu khê trị hoàng đản (vàng da).",
+      "confidence": 0.9892882255085728
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0179_011_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2587
+        ],
+        [
+          578,
+          2587
+        ],
+        [
+          578,
+          2639
+        ],
+        [
+          225,
+          2639
+        ]
+      ],
+      "score": 0.9193880558013916,
+      "y_pos": 2587,
+      "text": "9. Trung xung",
+      "confidence": 0.8739027579625448
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_003_text.png",
+      "bbox": [
+        [
+          281,
+          2675
+        ],
+        [
+          2357,
+          2675
+        ],
+        [
+          2357,
+          2801
+        ],
+        [
+          281,
+          2801
+        ]
+      ],
+      "score": 0.9637950658798218,
+      "y_pos": 2675,
+      "text": "Vị trí: Ở chính giữa đầu ngón giữa. Ngửa bàn tay lấy chính giữa đầu ngón giữa, cách móng\nkhoảng hơn 0,1 thốn. (H. 82)",
+      "confidence": 0.990239899026023
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_018_text.png",
+      "bbox": [
+        [
+          283,
+          2838
+        ],
+        [
+          2346,
+          2838
+        ],
+        [
+          2346,
+          2985
+        ],
+        [
+          283,
+          2985
+        ]
+      ],
+      "score": 0.8466042876243591,
+      "y_pos": 2838,
+      "text": "Cách châm: Châm đứng kim, sâu 0,1 thốn, thường chích nặn máu. Cứu 1 mồi, hơ 3-5 phút.\nChủ trị: Trúng gió hôn mê, say nắng, bệnh sốt cao, trẻ em co giật, đau bụng, đau đầu.",
+      "confidence": 0.7717245152626915
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_005_text.png",
+      "bbox": [
+        [
+          283,
+          3021
+        ],
+        [
+          2358,
+          3021
+        ],
+        [
+          2358,
+          3148
+        ],
+        [
+          283,
+          3148
+        ]
+      ],
+      "score": 0.9603793025016785,
+      "y_pos": 3021,
+      "text": "Tác dụng phối hợp: Với Thiếu thương (nặn máu), Thương dương trị ngoại cảm sốt cao; với\nQuan xung trị lưỡi cứng không nói được; với Đại lăng, Nội quan trị viêm dạ dày cấp tính.",
+      "confidence": 0.9962125281041319
+    },
+    {
+      "type": "footer",
+      "img_path": "p0179_015_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9122851490974426,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0179_017_number.png",
+      "bbox": [
+        [
+          2301,
+          3339
+        ],
+        [
+          2350,
+          3339
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2301,
+          3377
+        ]
+      ],
+      "score": 0.8689513802528381,
+      "y_pos": 3339,
+      "text": "    \n        \n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0179.png"
+}

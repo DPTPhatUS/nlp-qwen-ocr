@@ -1,0 +1,890 @@
+{
+  "page_num": 275,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0275_002_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2371,
+          142
+        ],
+        [
+          2371,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.942129909992218,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7447965074153173
+    },
+    {
+      "type": "header",
+      "img_path": "p0275_003_header.png",
+      "bbox": [
+        [
+          229,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          229,
+          202
+        ]
+      ],
+      "score": 0.9265671372413635,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6830399837987177
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_026_text.png",
+      "bbox": [
+        [
+          287,
+          349
+        ],
+        [
+          1264,
+          349
+        ],
+        [
+          1264,
+          400
+        ],
+        [
+          287,
+          400
+        ]
+      ],
+      "score": 0.8807494044303894,
+      "y_pos": 349,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3 thốn.",
+      "confidence": 0.99365163430935
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_018_text.png",
+      "bbox": [
+        [
+          288,
+          442
+        ],
+        [
+          868,
+          442
+        ],
+        [
+          868,
+          495
+        ],
+        [
+          288,
+          495
+        ]
+      ],
+      "score": 0.8882852792739868,
+      "y_pos": 442,
+      "text": "Chủ trị: Đau khớp khuỷu.",
+      "confidence": 0.6303014388451209
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0275_033_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          533
+        ],
+        [
+          585,
+          533
+        ],
+        [
+          585,
+          579
+        ],
+        [
+          228,
+          579
+        ]
+      ],
+      "score": 0.8329102993011475,
+      "y_pos": 533,
+      "text": "336. Trửu tiêm",
+      "confidence": 0.952680341899395
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_022_text.png",
+      "bbox": [
+        [
+          290,
+          622
+        ],
+        [
+          1673,
+          622
+        ],
+        [
+          1673,
+          678
+        ],
+        [
+          290,
+          678
+        ]
+      ],
+      "score": 0.8867848515510559,
+      "y_pos": 622,
+      "text": "Vị trí: Co khuỷu tay, chỗ lồi cao nhất của mỏm khuỷu. (H.135)",
+      "confidence": 0.7659176578597416
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_007_text.png",
+      "bbox": [
+        [
+          289,
+          716
+        ],
+        [
+          943,
+          716
+        ],
+        [
+          943,
+          764
+        ],
+        [
+          289,
+          764
+        ]
+      ],
+      "score": 0.9034186601638794,
+      "y_pos": 716,
+      "text": "Cách châm: Cứu tới 50 mồi.",
+      "confidence": 0.7783082617180688
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_015_text.png",
+      "bbox": [
+        [
+          288,
+          809
+        ],
+        [
+          1058,
+          809
+        ],
+        [
+          1058,
+          860
+        ],
+        [
+          288,
+          860
+        ]
+      ],
+      "score": 0.891851007938385,
+      "y_pos": 809,
+      "text": "Chủ trị: Lao hạch ở cố, mụn nhọt.",
+      "confidence": 0.9692251903670175
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0275_023_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          896
+        ],
+        [
+          889,
+          896
+        ],
+        [
+          889,
+          947
+        ],
+        [
+          228,
+          947
+        ]
+      ],
+      "score": 0.8842572569847107,
+      "y_pos": 896,
+      "text": "337. Mẫu chỉ tiết hoành văn",
+      "confidence": 0.9989963050546318
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_029_text.png",
+      "bbox": [
+        [
+          290,
+          989
+        ],
+        [
+          1901,
+          989
+        ],
+        [
+          1901,
+          1047
+        ],
+        [
+          290,
+          1047
+        ]
+      ],
+      "score": 0.8731380105018616,
+      "y_pos": 989,
+      "text": "Vị trí: Phía lòng bàn tay, ở giữa nếp ngang khớp giữa ngón cái. (H.136)",
+      "confidence": 0.9808118686284104
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_032_text.png",
+      "bbox": [
+        [
+          290,
+          1084
+        ],
+        [
+          705,
+          1084
+        ],
+        [
+          705,
+          1132
+        ],
+        [
+          290,
+          1132
+        ]
+      ],
+      "score": 0.857464075088501,
+      "y_pos": 1084,
+      "text": "Cách châm: Cứu.",
+      "confidence": 0.5182976284447838
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_012_text.png",
+      "bbox": [
+        [
+          288,
+          1175
+        ],
+        [
+          1276,
+          1175
+        ],
+        [
+          1276,
+          1228
+        ],
+        [
+          288,
+          1228
+        ]
+      ],
+      "score": 0.897489070892334,
+      "y_pos": 1175,
+      "text": "Chủ trị: Giác mạc có màng ban, màng mây.",
+      "confidence": 0.5676419621422177
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0275_030_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1266
+        ],
+        [
+          688,
+          1266
+        ],
+        [
+          688,
+          1317
+        ],
+        [
+          229,
+          1317
+        ]
+      ],
+      "score": 0.8720801472663879,
+      "y_pos": 1266,
+      "text": "338. Phượng nhỡn",
+      "confidence": 0.9647838672002157
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_024_text.png",
+      "bbox": [
+        [
+          290,
+          1355
+        ],
+        [
+          1539,
+          1355
+        ],
+        [
+          1539,
+          1414
+        ],
+        [
+          290,
+          1414
+        ]
+      ],
+      "score": 0.8842239379882812,
+      "y_pos": 1355,
+      "text": "Vị trí: Ở cạnh quay đầu nếp gấp giữa ngón cái. (H.136)",
+      "confidence": 0.9962520620652607
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_019_text.png",
+      "bbox": [
+        [
+          289,
+          1449
+        ],
+        [
+          1148,
+          1449
+        ],
+        [
+          1148,
+          1499
+        ],
+        [
+          289,
+          1499
+        ]
+      ],
+      "score": 0.888069748878479,
+      "y_pos": 1449,
+      "text": "Cách châm: Châm nông 0,1-0,2 thốn.",
+      "confidence": 0.40147748092810315
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_031_text.png",
+      "bbox": [
+        [
+          287,
+          1541
+        ],
+        [
+          1641,
+          1541
+        ],
+        [
+          1641,
+          1596
+        ],
+        [
+          287,
+          1596
+        ]
+      ],
+      "score": 0.871103048324585,
+      "y_pos": 1541,
+      "text": "Chủ trị: Quáng gà, cứng khớp ngón cái khó co xuống được.",
+      "confidence": 0.9783490279625202
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0275_028_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          1633
+        ],
+        [
+          703,
+          1633
+        ],
+        [
+          703,
+          1684
+        ],
+        [
+          228,
+          1684
+        ]
+      ],
+      "score": 0.8745617270469666,
+      "y_pos": 1633,
+      "text": "339. Thủ trung bình",
+      "confidence": 0.9727946860449654
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_025_text.png",
+      "bbox": [
+        [
+          290,
+          1722
+        ],
+        [
+          1870,
+          1722
+        ],
+        [
+          1870,
+          1779
+        ],
+        [
+          290,
+          1779
+        ]
+      ],
+      "score": 0.8823817372322083,
+      "y_pos": 1722,
+      "text": "Vị trí: Ở giữa nếp gấp khớp bàn ngón giữa, phía lòng bàn tay. (H.136)",
+      "confidence": 0.9972660659064709
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_016_text.png",
+      "bbox": [
+        [
+          288,
+          1816
+        ],
+        [
+          1351,
+          1816
+        ],
+        [
+          1351,
+          1866
+        ],
+        [
+          288,
+          1866
+        ]
+      ],
+      "score": 0.8915081024169922,
+      "y_pos": 1816,
+      "text": "Cách châm: Châm đứng kim, sâu 0,2-0,3 thốn.",
+      "confidence": 0.9952083071072896
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_014_text.png",
+      "bbox": [
+        [
+          289,
+          1907
+        ],
+        [
+          844,
+          1907
+        ],
+        [
+          844,
+          1959
+        ],
+        [
+          289,
+          1959
+        ]
+      ],
+      "score": 0.8959604501724243,
+      "y_pos": 1907,
+      "text": "Chủ tri: Viêm vòm môm.",
+      "confidence": 0.5035283888379732
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0275_027_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          1999
+        ],
+        [
+          712,
+          1999
+        ],
+        [
+          712,
+          2054
+        ],
+        [
+          228,
+          2054
+        ]
+      ],
+      "score": 0.8766922354698181,
+      "y_pos": 1999,
+      "text": "340. Bàng Lao cung",
+      "confidence": 0.9376311928033829
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_001_text.png",
+      "bbox": [
+        [
+          283,
+          2089
+        ],
+        [
+          2358,
+          2089
+        ],
+        [
+          2358,
+          2215
+        ],
+        [
+          283,
+          2215
+        ]
+      ],
+      "score": 0.9480121731758118,
+      "y_pos": 2089,
+      "text": "Vị trí: Cạnh huyệt Lao cung khoảng một bề ngang ngón tay về phía cạnh trụ (khe xương bàn\n3-4). (H.136)",
+      "confidence": 0.9875160757038328
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_017_text.png",
+      "bbox": [
+        [
+          288,
+          2252
+        ],
+        [
+          1355,
+          2252
+        ],
+        [
+          1355,
+          2305
+        ],
+        [
+          288,
+          2305
+        ]
+      ],
+      "score": 0.8890454769134521,
+      "y_pos": 2252,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3-0,5 thốn.",
+      "confidence": 0.995206434196896
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_020_text.png",
+      "bbox": [
+        [
+          289,
+          2345
+        ],
+        [
+          1378,
+          2345
+        ],
+        [
+          1378,
+          2399
+        ],
+        [
+          289,
+          2399
+        ]
+      ],
+      "score": 0.8875101208686829,
+      "y_pos": 2345,
+      "text": "Chủ trị: Viêm amiđan, ngón tay tê dại, đau răng.",
+      "confidence": 0.976085695028305
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0275_021_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          2436
+        ],
+        [
+          675,
+          2436
+        ],
+        [
+          675,
+          2488
+        ],
+        [
+          228,
+          2488
+        ]
+      ],
+      "score": 0.8871023058891296,
+      "y_pos": 2436,
+      "text": "341. Nội dương trì",
+      "confidence": 0.9508142203092576
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_011_text.png",
+      "bbox": [
+        [
+          290,
+          2524
+        ],
+        [
+          1758,
+          2524
+        ],
+        [
+          1758,
+          2584
+        ],
+        [
+          290,
+          2584
+        ]
+      ],
+      "score": 0.8975578546524048,
+      "y_pos": 2524,
+      "text": "Vị trí: Ở giữa nếp cổ tay, phía lòng bàn tay xuống 1 thốn. (H.136)",
+      "confidence": 0.9965080487377503
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_006_text.png",
+      "bbox": [
+        [
+          288,
+          2620
+        ],
+        [
+          1353,
+          2620
+        ],
+        [
+          1353,
+          2671
+        ],
+        [
+          288,
+          2671
+        ]
+      ],
+      "score": 0.9078381657600403,
+      "y_pos": 2620,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3-0,5 thốn.",
+      "confidence": 0.9957176393932766
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_000_text.png",
+      "bbox": [
+        [
+          283,
+          2712
+        ],
+        [
+          2358,
+          2712
+        ],
+        [
+          2358,
+          2834
+        ],
+        [
+          283,
+          2834
+        ]
+      ],
+      "score": 0.9557051062583923,
+      "y_pos": 2712,
+      "text": "Chủ trị: Sưng khớp ở ngón tay, bàn tay (Hạc chưởng phong), viêm vòm miệng, trẻ em co\ngiật.",
+      "confidence": 0.9927445922876117
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0275_009_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          2873
+        ],
+        [
+          691,
+          2873
+        ],
+        [
+          691,
+          2922
+        ],
+        [
+          228,
+          2922
+        ]
+      ],
+      "score": 0.8992300629615784,
+      "y_pos": 2873,
+      "text": "342. Tiểu thiên tâm",
+      "confidence": 0.9712632270086379
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_013_text.png",
+      "bbox": [
+        [
+          290,
+          2962
+        ],
+        [
+          1482,
+          2962
+        ],
+        [
+          1482,
+          3022
+        ],
+        [
+          290,
+          3022
+        ]
+      ],
+      "score": 0.8971196413040161,
+      "y_pos": 2962,
+      "text": "Vị trí: Ở giữa nếp gấp cổ tay xuống 1,5 thốn. (H.136)",
+      "confidence": 0.9922513311559503
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_010_text.png",
+      "bbox": [
+        [
+          288,
+          3058
+        ],
+        [
+          1352,
+          3058
+        ],
+        [
+          1352,
+          3110
+        ],
+        [
+          288,
+          3110
+        ]
+      ],
+      "score": 0.8982959389686584,
+      "y_pos": 3058,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3-0,5 thốn.",
+      "confidence": 0.9957845237520005
+    },
+    {
+      "type": "text",
+      "img_path": "p0275_004_text.png",
+      "bbox": [
+        [
+          289,
+          3148
+        ],
+        [
+          971,
+          3148
+        ],
+        [
+          971,
+          3202
+        ],
+        [
+          289,
+          3202
+        ]
+      ],
+      "score": 0.9206057190895081,
+      "y_pos": 3148,
+      "text": "Chủ trị: Thấp tim, tim hồi hộp.",
+      "confidence": 0.6947594303073306
+    },
+    {
+      "type": "footer",
+      "img_path": "p0275_005_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3388
+        ],
+        [
+          228,
+          3388
+        ]
+      ],
+      "score": 0.9129273295402527,
+      "y_pos": 3334,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.946788766474094
+    },
+    {
+      "type": "number",
+      "img_path": "p0275_008_number.png",
+      "bbox": [
+        [
+          2279,
+          3338
+        ],
+        [
+          2351,
+          3338
+        ],
+        [
+          2351,
+          3377
+        ],
+        [
+          2279,
+          3377
+        ]
+      ],
+      "score": 0.9006226062774658,
+      "y_pos": 3338,
+      "text": "    \n    \n\n\n\n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0275.png"
+}

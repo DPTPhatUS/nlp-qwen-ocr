@@ -1,0 +1,84 @@
+{
+  "page_num": 256,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0256_002_text.png",
+      "bbox": [
+        [
+          444,
+          442
+        ],
+        [
+          2133,
+          442
+        ],
+        [
+          2133,
+          3025
+        ],
+        [
+          444,
+          3025
+        ]
+      ],
+      "score": 0.6472049355506897,
+      "y_pos": 442,
+      "text": "3. Vị thuốc khi dùng sẽ làm mất tác dụng của một vị thuốc khác, gọi là\nA. Tương sử\nB. Tương úy\nC. Tương sát\nD. Tương ố\nE. Tương phản\n4. Vị thuốc được chọn làm Quân, là vị thuốc\nA. Giải quyết được triệu chứng bệnh\nB. Giải quyết được nguyên nhân bệnh\nC. Giải quyết được triệu chứng bệnh gây bởi tạng phủ có quan hệ với\ntạng bệnh\nD. Dùng để giảm độc tính của một loại thuốc\nE. Dùng để điều hòa tính năng của các vị thuốc\n5. Vị thuốc được chọn làm Thần, là vị thuốc\nA. Giải quyết được triệu chứng chủ yếu của bệnh\nB. Giải quyết được nguyên nhân bệnh\nC. Giải quyết được triệu chứng bệnh gây bởi tạng phủ có quan hệ với\ntạng bệnh\nD. Dùng để giảm độc tính của một loại thuốc\nE. Dùng để điều hòa tính năng của các vị thuốc\n6. Vị thuốc được chọn làm Tá, là vị thuốc\nA. Giải quyết được triệu chứng bệnh\nB. Giải quyết được nguyên nhân bệnh\nC. Giải quyết được triệu chứng bệnh gây bởi tạng phủ có quan hệ với\ntạng bệnh\nD. Dùng để giảm độc tính của một loại thuốc\nE. Dùng để điều hòa tính năng của các vị thuốc\n7. Vị thuốc được chọn làm Sứ, là vị thuốc\nA. Giải quyết được triệu chứng bệnh\nB. Giải quyết được nguyên nhân bệnh\nC. Giải quyết được triệu chứng bệnh gây bởi tạng phủ có quan hệ với\ntạng bệnh\nD. Dùng để giảm độc tính của một loại thuốc\nE. Dùng để điều hòa tính năng của các vị thuốc",
+      "confidence": 0.9868357986612238
+    },
+    {
+      "type": "number",
+      "img_path": "p0256_001_number.png",
+      "bbox": [
+        [
+          2042,
+          3110
+        ],
+        [
+          2121,
+          3110
+        ],
+        [
+          2121,
+          3148
+        ],
+        [
+          2042,
+          3148
+        ]
+      ],
+      "score": 0.8488340973854065,
+      "y_pos": 3110,
+      "text": "    ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0256_000_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1074,
+          3311
+        ],
+        [
+          1074,
+          3367
+        ],
+        [
+          294,
+          3367
+        ]
+      ],
+      "score": 0.9197356104850769,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8891090188707624
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0256.png"
+}

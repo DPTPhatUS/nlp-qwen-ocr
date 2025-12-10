@@ -1,0 +1,396 @@
+{
+  "page_num": 459,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0459_008_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9179319143295288,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0459_010_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9134137034416199,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0459_012_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          328
+        ],
+        [
+          813,
+          328
+        ],
+        [
+          813,
+          381
+        ],
+        [
+          224,
+          381
+        ]
+      ],
+      "score": 0.9121611714363098,
+      "y_pos": 328,
+      "text": "29. Rối loạn kinh nguyệt",
+      "confidence": 0.9746115115972666
+    },
+    {
+      "type": "text",
+      "img_path": "p0459_001_text.png",
+      "bbox": [
+        [
+          220,
+          419
+        ],
+        [
+          2359,
+          419
+        ],
+        [
+          2359,
+          686
+        ],
+        [
+          220,
+          686
+        ]
+      ],
+      "score": 0.9804750084877014,
+      "y_pos": 419,
+      "text": "Kinh nguyệt bình thường của phụ nữ là trên dưới 28 ngày một lần. Nếu vượt quá hoặc ít hơn,\ngọi là kinh nguyệt sớm hoặc muộn. Sớm là có trước 7-8 ngày trở lên hoặc một tháng 2 lần.\nMuộn là sau 7-8 ngày trở lên hoặc 2-3 tháng một lần. Cả hai tình huống gọi là rối loạn kinh\nnguyệt. Thường do can khí bất thư hoặc do thân thể yếu đuối gây ra.",
+      "confidence": 0.9992233244912664
+    },
+    {
+      "type": "text",
+      "img_path": "p0459_003_text.png",
+      "bbox": [
+        [
+          279,
+          724
+        ],
+        [
+          2361,
+          724
+        ],
+        [
+          2361,
+          919
+        ],
+        [
+          279,
+          919
+        ]
+      ],
+      "score": 0.9757180213928223,
+      "y_pos": 724,
+      "text": "a. Hành kinh sớm: Chưa đến kỳ tháng đã thấy kinh, lượng máu ra nhiều, màu đỏ sẫm hoặc\ntím đen, có cục, có kèm bứt rứt, nóng nẩy, miệng khô khát, thích uống lạnh,bụng dưới đau\ntừng cơn, bầu vú hơi cứng lên, rất dễ cáu, đại tiện táo bón, nước tiểu ít, vàng.",
+      "confidence": 0.9990542729645507
+    },
+    {
+      "type": "text",
+      "img_path": "p0459_009_text.png",
+      "bbox": [
+        [
+          340,
+          957
+        ],
+        [
+          2255,
+          957
+        ],
+        [
+          2255,
+          1010
+        ],
+        [
+          340,
+          1010
+        ]
+      ],
+      "score": 0.9145219326019287,
+      "y_pos": 957,
+      "text": "Cách chữa: Lấy huyệt Khí hải, Trung cực, Huyết hải, Tam âm giao, Thái xung, Tỳ du.",
+      "confidence": 0.9950578603006545
+    },
+    {
+      "type": "text",
+      "img_path": "p0459_004_text.png",
+      "bbox": [
+        [
+          338,
+          1049
+        ],
+        [
+          2359,
+          1049
+        ],
+        [
+          2359,
+          1170
+        ],
+        [
+          338,
+          1170
+        ]
+      ],
+      "score": 0.9612621665000916,
+      "y_pos": 1049,
+      "text": "Các huyệt trên dùng hào kim vê chuyển kim theo chủ pháp tả, hoặc bình bổ tả. Lưu kim\n20 phút.",
+      "confidence": 0.9683047889970069
+    },
+    {
+      "type": "text",
+      "img_path": "p0459_000_text.png",
+      "bbox": [
+        [
+          336,
+          1211
+        ],
+        [
+          2360,
+          1211
+        ],
+        [
+          2360,
+          1550
+        ],
+        [
+          336,
+          1550
+        ]
+      ],
+      "score": 0.984245240688324,
+      "y_pos": 1211,
+      "text": "Giải nghĩa của phương: Phương này chủ yếu là thông điều xung, nhâm mạch, lý khí,\nhoà huyết. Khí hải điều nguyên khí toàn thân. Khí là soái của huyết. Khí đủ thì hệ thông\nhuyết tự điều. Trung cực điều nhâm mạch mà thông địa đạo<sup>(*)</sup>, Huyết hải có thể đến thẳng\nhuyết phần mà hành tích<sup>(**)</sup>. Phối hợp với Thái xung để tiết nhiệt ở 3 âm, để thanh nhiệt\ndưỡng âm. Tỳ du để vận khoẻ tỳ vị, làm cho khí huyết sung túc, tức kinh nguyệt tự điều.",
+      "confidence": 0.9937156674721688
+    },
+    {
+      "type": "text",
+      "img_path": "p0459_002_text.png",
+      "bbox": [
+        [
+          280,
+          1586
+        ],
+        [
+          2360,
+          1586
+        ],
+        [
+          2360,
+          1852
+        ],
+        [
+          280,
+          1852
+        ]
+      ],
+      "score": 0.9765354990959167,
+      "y_pos": 1586,
+      "text": "b. Hành kinh chậm: Hành kinh chậm muộn, có khi 40 ngày hay 50 ngày mới hành kinh một\nlần. Lượng máu rất ít, máu nhạt, sắc mặt trắng bợt, tinh thần mệt mỏi, sợ lạnh, trong hoặc\nsau khi hành kinh bụng dưới đau lâm râm, thường váng đầu, có quầng đen ở ổ mắt, hồi hộp,\nđau lưng.",
+      "confidence": 0.8985301376888027
+    },
+    {
+      "type": "text",
+      "img_path": "p0459_013_text.png",
+      "bbox": [
+        [
+          341,
+          1892
+        ],
+        [
+          1660,
+          1892
+        ],
+        [
+          1660,
+          1944
+        ],
+        [
+          341,
+          1944
+        ]
+      ],
+      "score": 0.897752583026886,
+      "y_pos": 1892,
+      "text": "Cách chữa: Lấy huyệt Quan nguyên, Mệnh môn, Thận du.",
+      "confidence": 0.7077404382052245
+    },
+    {
+      "type": "text",
+      "img_path": "p0459_006_text.png",
+      "bbox": [
+        [
+          338,
+          1983
+        ],
+        [
+          2357,
+          1983
+        ],
+        [
+          2357,
+          2101
+        ],
+        [
+          338,
+          2101
+        ]
+      ],
+      "score": 0.956138014793396,
+      "y_pos": 1983,
+      "text": "Đều dùng hào kim vê chuyển tiến kim theo bổ pháp, lưu kim 30 phút, châm xong cứu\nthêm.",
+      "confidence": 0.9883386294393174
+    },
+    {
+      "type": "text",
+      "img_path": "p0459_005_text.png",
+      "bbox": [
+        [
+          339,
+          2144
+        ],
+        [
+          2358,
+          2144
+        ],
+        [
+          2358,
+          2270
+        ],
+        [
+          339,
+          2270
+        ]
+      ],
+      "score": 0.9568237662315369,
+      "y_pos": 2144,
+      "text": "Giải nghĩa của phương: Quan nguyên điều kinh khí của nhâm mạch. Mệnh môn để ôn\ndương, phối hợp với Thận du bổ thận ích kinh, kinh nguyệt chậm do hư hàn rất nên dùng.",
+      "confidence": 0.9992993805218826
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0459_007_footnote.png",
+      "bbox": [
+        [
+          227,
+          3129
+        ],
+        [
+          1211,
+          3129
+        ],
+        [
+          1211,
+          3208
+        ],
+        [
+          227,
+          3208
+        ]
+      ],
+      "score": 0.9356339573860168,
+      "y_pos": 3129,
+      "text": "(*) Địa đạo: Đường của đất, đường của huyết (thiên khí, địa huyết).\n(**) Hành tích: Làm lưu thông sự ứ đọng góp lại.",
+      "confidence": 0.8879144623054974
+    },
+    {
+      "type": "number",
+      "img_path": "p0459_014_number.png",
+      "bbox": [
+        [
+          2302,
+          3300
+        ],
+        [
+          2350,
+          3300
+        ],
+        [
+          2350,
+          3335
+        ],
+        [
+          2302,
+          3335
+        ]
+      ],
+      "score": 0.8462253212928772,
+      "y_pos": 3300,
+      "text": "    \n    \n٠.\n\n",
+      "confidence": 0.9322774303810937
+    },
+    {
+      "type": "footer",
+      "img_path": "p0459_011_footer.png",
+      "bbox": [
+        [
+          228,
+          3310
+        ],
+        [
+          1323,
+          3310
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          228,
+          3355
+        ]
+      ],
+      "score": 0.9126214981079102,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9293094086197188
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0459.png"
+}

@@ -1,0 +1,706 @@
+{
+  "page_num": 186,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0186_006_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9302442669868469,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7254179112967991
+    },
+    {
+      "type": "header",
+      "img_path": "p0186_019_header.png",
+      "bbox": [
+        [
+          227,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          227,
+          202
+        ]
+      ],
+      "score": 0.9162397980690002,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6823364845637617
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0186_023_paragraph_title.png",
+      "bbox": [
+        [
+          223,
+          342
+        ],
+        [
+          1244,
+          342
+        ],
+        [
+          1244,
+          396
+        ],
+        [
+          223,
+          396
+        ]
+      ],
+      "score": 0.8863012194633484,
+      "y_pos": 342,
+      "text": "TÚC THIẾU DƯƠNG ĐẨM KINH: 44 HUYỆT",
+      "confidence": 0.9891145428021749
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0186_022_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          438
+        ],
+        [
+          590,
+          438
+        ],
+        [
+          590,
+          490
+        ],
+        [
+          227,
+          490
+        ]
+      ],
+      "score": 0.8875072002410889,
+      "y_pos": 438,
+      "text": "1. Đồng tử liêu",
+      "confidence": 0.9126849980915294
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_017_text.png",
+      "bbox": [
+        [
+          289,
+          530
+        ],
+        [
+          1115,
+          530
+        ],
+        [
+          1115,
+          582
+        ],
+        [
+          289,
+          582
+        ]
+      ],
+      "score": 0.9187909960746765,
+      "y_pos": 530,
+      "text": "Vi trí: Từ đuôi mắt ra ngoài 0,5 thốn.",
+      "confidence": 0.9923916324973107
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_003_text.png",
+      "bbox": [
+        [
+          286,
+          621
+        ],
+        [
+          1547,
+          621
+        ],
+        [
+          1547,
+          676
+        ],
+        [
+          286,
+          676
+        ]
+      ],
+      "score": 0.9335057735443115,
+      "y_pos": 621,
+      "text": "Cách lấy huyệt: Ngồi ngay, lấy ở cuối đuôi mắt. (H. 86)",
+      "confidence": 0.9952144476405361
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_001_text.png",
+      "bbox": [
+        [
+          281,
+          714
+        ],
+        [
+          2358,
+          714
+        ],
+        [
+          2358,
+          836
+        ],
+        [
+          281,
+          836
+        ]
+      ],
+      "score": 0.9671703577041626,
+      "y_pos": 714,
+      "text": "Cách châm: Châm dưới da, mũi kim hướng ra phía ngoài, sâu 0,3-0,5 thốn. Cứu 3 mồi, hơ\n5 phút.",
+      "confidence": 0.9801681738246903
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_013_text.png",
+      "bbox": [
+        [
+          285,
+          876
+        ],
+        [
+          1114,
+          876
+        ],
+        [
+          1114,
+          928
+        ],
+        [
+          285,
+          928
+        ]
+      ],
+      "score": 0.9233574271202087,
+      "y_pos": 876,
+      "text": "Chủ tri: Bênh mắt, đau đầu, liệt mặt.",
+      "confidence": 0.4833354781835507
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_005_text.png",
+      "bbox": [
+        [
+          287,
+          969
+        ],
+        [
+          1598,
+          969
+        ],
+        [
+          1598,
+          1022
+        ],
+        [
+          287,
+          1022
+        ]
+      ],
+      "score": 0.9304181337356567,
+      "y_pos": 969,
+      "text": "Tác dụng phối hợp: Với Thiếu trạch trị viêm vú ở phụ nữ.",
+      "confidence": 0.9882764287036041
+    },
+    {
+      "type": "image",
+      "img_path": "p0186_000_image.png",
+      "bbox": [
+        [
+          876,
+          1100
+        ],
+        [
+          1807,
+          1100
+        ],
+        [
+          1807,
+          1673
+        ],
+        [
+          876,
+          1673
+        ]
+      ],
+      "score": 0.9749725461006165,
+      "y_pos": 1100
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0186_026_figure_title.png",
+      "bbox": [
+        [
+          1238,
+          1743
+        ],
+        [
+          1409,
+          1743
+        ],
+        [
+          1409,
+          1786
+        ],
+        [
+          1238,
+          1786
+        ]
+      ],
+      "score": 0.8468770980834961,
+      "y_pos": 1743,
+      "text": "ın    16",
+      "confidence": 0.6470026224851608
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0186_010_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          1828
+        ],
+        [
+          531,
+          1828
+        ],
+        [
+          531,
+          1877
+        ],
+        [
+          224,
+          1877
+        ]
+      ],
+      "score": 0.9251751899719238,
+      "y_pos": 1828,
+      "text": "2. Thính hôi",
+      "confidence": 0.9022373003619057
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_015_text.png",
+      "bbox": [
+        [
+          289,
+          1921
+        ],
+        [
+          1106,
+          1921
+        ],
+        [
+          1106,
+          1970
+        ],
+        [
+          289,
+          1970
+        ]
+      ],
+      "score": 0.919725775718689,
+      "y_pos": 1921,
+      "text": "Vi trí: Ở phía trước và dưới bình tại.",
+      "confidence": 0.9819255292415618
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_002_text.png",
+      "bbox": [
+        [
+          281,
+          2012
+        ],
+        [
+          2357,
+          2012
+        ],
+        [
+          2357,
+          2136
+        ],
+        [
+          281,
+          2136
+        ]
+      ],
+      "score": 0.9657856822013855,
+      "y_pos": 2012,
+      "text": "Cách lấy huyệt: Phía trước và dưới nhĩ bình, ngang với lỗ trống ở bờ cắt dưới bình tai. Khi\nhá miệng có chỗ lõm. (H. 86, H. 87)",
+      "confidence": 0.9952717483805834
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_008_text.png",
+      "bbox": [
+        [
+          283,
+          2175
+        ],
+        [
+          1855,
+          2175
+        ],
+        [
+          1855,
+          2226
+        ],
+        [
+          283,
+          2226
+        ]
+      ],
+      "score": 0.92814040184021,
+      "y_pos": 2175,
+      "text": "Cách châm: Châm đứng kim, sâu 0,2-0,3 thốn. Cứu 3 mồi, hơ 5 phút.",
+      "confidence": 0.9930641206342783
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_007_text.png",
+      "bbox": [
+        [
+          286,
+          2267
+        ],
+        [
+          1309,
+          2267
+        ],
+        [
+          1309,
+          2319
+        ],
+        [
+          286,
+          2319
+        ]
+      ],
+      "score": 0.9298720359802246,
+      "y_pos": 2267,
+      "text": "Chủ trị: Tai ù, tai điếc, liệt mặt, viêm tai giữa.",
+      "confidence": 0.6318030391748135
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_014_text.png",
+      "bbox": [
+        [
+          289,
+          2359
+        ],
+        [
+          1306,
+          2359
+        ],
+        [
+          1306,
+          2412
+        ],
+        [
+          289,
+          2412
+        ]
+      ],
+      "score": 0.9220385551452637,
+      "y_pos": 2359,
+      "text": "Tác dụng phối hợp: Với É phong trị tai điếc.",
+      "confidence": 0.9893520383731179
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0186_021_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2450
+        ],
+        [
+          624,
+          2450
+        ],
+        [
+          624,
+          2502
+        ],
+        [
+          226,
+          2502
+        ]
+      ],
+      "score": 0.9073830842971802,
+      "y_pos": 2450,
+      "text": "3. Thượng quan",
+      "confidence": 0.995435182005167
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_018_text.png",
+      "bbox": [
+        [
+          288,
+          2540
+        ],
+        [
+          1690,
+          2540
+        ],
+        [
+          1690,
+          2596
+        ],
+        [
+          288,
+          2596
+        ]
+      ],
+      "score": 0.917505145072937,
+      "y_pos": 2540,
+      "text": "Vị trí: Ở bờ trên cung quyền, thẳng huyệt Hạ quan lên. (H. 87)",
+      "confidence": 0.9897353854030371
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_012_text.png",
+      "bbox": [
+        [
+          286,
+          2632
+        ],
+        [
+          1574,
+          2632
+        ],
+        [
+          1574,
+          2684
+        ],
+        [
+          286,
+          2684
+        ]
+      ],
+      "score": 0.9237411618232727,
+      "y_pos": 2632,
+      "text": "Cách châm: Châm đứng kim, sâu 0,5-1 thốn. Cứu 3 mồi.",
+      "confidence": 0.992848089447728
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_004_text.png",
+      "bbox": [
+        [
+          285,
+          2725
+        ],
+        [
+          1430,
+          2725
+        ],
+        [
+          1430,
+          2777
+        ],
+        [
+          285,
+          2777
+        ]
+      ],
+      "score": 0.9321085810661316,
+      "y_pos": 2725,
+      "text": "Chủ trị: Thần kinh mặt tê bại, tai ù, điếc, đau răng.",
+      "confidence": 0.548287384076552
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0186_024_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2816
+        ],
+        [
+          522,
+          2816
+        ],
+        [
+          522,
+          2869
+        ],
+        [
+          226,
+          2869
+        ]
+      ],
+      "score": 0.8841269612312317,
+      "y_pos": 2816,
+      "text": "4. Hàm vêm",
+      "confidence": 0.939072181781133
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_016_text.png",
+      "bbox": [
+        [
+          287,
+          2908
+        ],
+        [
+          1887,
+          2908
+        ],
+        [
+          1887,
+          2964
+        ],
+        [
+          287,
+          2964
+        ]
+      ],
+      "score": 0.9195143580436707,
+      "y_pos": 2908,
+      "text": "Vị trí: Huyệt Đầu duy xuống 1 thốn, sờ vào có động mạch nhảy. (H. 87)",
+      "confidence": 0.6368307294979901
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_011_text.png",
+      "bbox": [
+        [
+          285,
+          2999
+        ],
+        [
+          1633,
+          2999
+        ],
+        [
+          1633,
+          3049
+        ],
+        [
+          285,
+          3049
+        ]
+      ],
+      "score": 0.924769401550293,
+      "y_pos": 2999,
+      "text": "Cách châm: Châm chếch kim, sâu 0,3-0,5 thốn. Cứu 3 mồi.",
+      "confidence": 0.6998458609246371
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_009_text.png",
+      "bbox": [
+        [
+          285,
+          3092
+        ],
+        [
+          1812,
+          3092
+        ],
+        [
+          1812,
+          3144
+        ],
+        [
+          285,
+          3144
+        ]
+      ],
+      "score": 0.9279987215995789,
+      "y_pos": 3092,
+      "text": "Chủ tri: Đau bên đầu, hoa mắt, tai ù, viêm mũi, thần kinh mặt tê bại.",
+      "confidence": 0.4034287694474341
+    },
+    {
+      "type": "footer",
+      "img_path": "p0186_020_footer.png",
+      "bbox": [
+        [
+          227,
+          3333
+        ],
+        [
+          1433,
+          3333
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.911838710308075,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9493657609201828
+    },
+    {
+      "type": "number",
+      "img_path": "p0186_025_number.png",
+      "bbox": [
+        [
+          2300,
+          3339
+        ],
+        [
+          2350,
+          3339
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2300,
+          3377
+        ]
+      ],
+      "score": 0.8749223947525024,
+      "y_pos": 3339,
+      "text": "    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0186.png"
+}

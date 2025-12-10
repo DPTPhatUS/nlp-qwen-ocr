@@ -1,0 +1,342 @@
+{
+  "page_num": 89,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0089_006_header.png",
+      "bbox": [
+        [
+          1606,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1606,
+          202
+        ]
+      ],
+      "score": 0.9192934632301331,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7490854408769381
+    },
+    {
+      "type": "header",
+      "img_path": "p0089_009_header.png",
+      "bbox": [
+        [
+          231,
+          159
+        ],
+        [
+          442,
+          159
+        ],
+        [
+          442,
+          202
+        ],
+        [
+          231,
+          202
+        ]
+      ],
+      "score": 0.8923704624176025,
+      "y_pos": 159,
+      "text": "KINH LAC",
+      "confidence": 0.6733895421028138
+    },
+    {
+      "type": "text",
+      "img_path": "p0089_004_text.png",
+      "bbox": [
+        [
+          339,
+          310
+        ],
+        [
+          2359,
+          310
+        ],
+        [
+          2359,
+          440
+        ],
+        [
+          339,
+          440
+        ]
+      ],
+      "score": 0.9563654065132141,
+      "y_pos": 310,
+      "text": "Mạch nhánh ở ngực, từ chỗ Chiên trung phân ra, đi lên qua lõm vai, qua cạnh cổ, phân bố\nđến sau tai, một hướng đi thẳng ra góc trên tai, lại cong xuống má mặt, đến dưới ổ mắt.",
+      "confidence": 0.9997668601153942
+    },
+    {
+      "type": "text",
+      "img_path": "p0089_002_text.png",
+      "bbox": [
+        [
+          337,
+          476
+        ],
+        [
+          2359,
+          476
+        ],
+        [
+          2359,
+          671
+        ],
+        [
+          337,
+          671
+        ]
+      ],
+      "score": 0.969512939453125,
+      "y_pos": 476,
+      "text": "Mạch nhánh ở tai, từ sau vánh tai tiến vào trong tai, lại đi ra phía trước vành tai giao hội\nvới mạch nhánh ở ngực tai góc má mặt rồi đến cạnh ngoài lông mày, cuối cùng là góc\nngoài khoé mắt.",
+      "confidence": 0.998876043731676
+    },
+    {
+      "type": "text",
+      "img_path": "p0089_012_text.png",
+      "bbox": [
+        [
+          284,
+          712
+        ],
+        [
+          1733,
+          712
+        ],
+        [
+          1733,
+          765
+        ],
+        [
+          284,
+          765
+        ]
+      ],
+      "score": 0.8046919107437134,
+      "y_pos": 712,
+      "text": "b. Quan hệ tạng phủ: Thuộc tam tiêu, đường lạc sang tâm bào.",
+      "confidence": 0.6112288784596228
+    },
+    {
+      "type": "text",
+      "img_path": "p0089_005_text.png",
+      "bbox": [
+        [
+          284,
+          801
+        ],
+        [
+          2355,
+          801
+        ],
+        [
+          2355,
+          927
+        ],
+        [
+          284,
+          927
+        ]
+      ],
+      "score": 0.9550616145133972,
+      "y_pos": 801,
+      "text": "c. Chủ trị: Bụng trướng, phù nề, đái dầm, tiểu tiện khó, đau đầu, u tai, đau đầu họng, đau\ngóc ngoài mắt, cạnh ngoài vai và cánh tay đau.",
+      "confidence": 0.9972347522397405
+    },
+    {
+      "type": "image",
+      "img_path": "p0089_000_image.png",
+      "bbox": [
+        [
+          810,
+          996
+        ],
+        [
+          1912,
+          996
+        ],
+        [
+          1912,
+          2404
+        ],
+        [
+          810,
+          2404
+        ]
+      ],
+      "score": 0.9768975973129272,
+      "y_pos": 996
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0089_007_figure_title.png",
+      "bbox": [
+        [
+          702,
+          2522
+        ],
+        [
+          1995,
+          2522
+        ],
+        [
+          1995,
+          2572
+        ],
+        [
+          702,
+          2572
+        ]
+      ],
+      "score": 0.9013806581497192,
+      "y_pos": 2522,
+      "text": "Hình 17. Đường tuần hành của kinh Thủ thiếu dương tam tiêu",
+      "confidence": 0.8892940978209177
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0089_011_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          2611
+        ],
+        [
+          1172,
+          2611
+        ],
+        [
+          1172,
+          2665
+        ],
+        [
+          284,
+          2665
+        ]
+      ],
+      "score": 0.8296860456466675,
+      "y_pos": 2611,
+      "text": "11. Túc thiếu dương đảm kinh (H.18)",
+      "confidence": 0.9984106872532819
+    },
+    {
+      "type": "text",
+      "img_path": "p0089_001_text.png",
+      "bbox": [
+        [
+          285,
+          2700
+        ],
+        [
+          2359,
+          2700
+        ],
+        [
+          2359,
+          2972
+        ],
+        [
+          285,
+          2972
+        ]
+      ],
+      "score": 0.9747262597084045,
+      "y_pos": 2700,
+      "text": "a. Cấu trúc: Gồm 44 huyệt, hai bên là 88 huyệt. kinh mạch bắt đầu tuần hành từ khoé mắt\nbên ngoài, đi ra trước tai, hướng lên đến góc đầu, lại hướng xuống phía sau tai rồi ngược\nlên canh đầu, ven theo đầu cổ đến kinh thủ thiếu dương ở mặt trước, đến tận phiá sau mi\ntrên thì lại quay trở lại, giao với thủ thiếu dương kinh ở mặt sau, rồi xuống vào hõm vai.",
+      "confidence": 0.9995163394508803
+    },
+    {
+      "type": "text",
+      "img_path": "p0089_003_text.png",
+      "bbox": [
+        [
+          336,
+          3008
+        ],
+        [
+          2359,
+          3008
+        ],
+        [
+          2359,
+          3205
+        ],
+        [
+          336,
+          3205
+        ]
+      ],
+      "score": 0.9654406905174255,
+      "y_pos": 3008,
+      "text": "Mạch nhánh ở tai, từ sau tai đi qua huyệt É phong của thủ thiếu dương kinh đi vào trong\ntai, lại ra trước tai, đến phía sau khoé mắt ngoài, lại từ góc phía mắt ngoài tách ra, hướng\nđến chỗ huyệt Đại nghinh, tại đây hợp chung với phía sau kinh thủ thiếu dương tam tiêu",
+      "confidence": 0.9995410872427275
+    },
+    {
+      "type": "footer",
+      "img_path": "p0089_008_footer.png",
+      "bbox": [
+        [
+          227,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.8968218564987183,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.952197735039693
+    },
+    {
+      "type": "number",
+      "img_path": "p0089_010_number.png",
+      "bbox": [
+        [
+          2335,
+          3337
+        ],
+        [
+          2382,
+          3337
+        ],
+        [
+          2382,
+          3374
+        ],
+        [
+          2335,
+          3374
+        ]
+      ],
+      "score": 0.8532371520996094,
+      "y_pos": 3337,
+      "text": "\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0089.png"
+}

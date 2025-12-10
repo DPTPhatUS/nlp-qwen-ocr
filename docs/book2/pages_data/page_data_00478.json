@@ -1,0 +1,240 @@
+{
+  "page_num": 478,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0478_002_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2368,
+          143
+        ],
+        [
+          2368,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9153330326080322,
+      "y_pos": 143,
+      "text": "^7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6913668758102826
+    },
+    {
+      "type": "header",
+      "img_path": "p0478_003_header.png",
+      "bbox": [
+        [
+          228,
+          150
+        ],
+        [
+          1447,
+          150
+        ],
+        [
+          1447,
+          198
+        ],
+        [
+          228,
+          198
+        ]
+      ],
+      "score": 0.9089140892028809,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BÊNH CHỨNG THƯỜNG GĂP BẰNG CHÂM CỨU",
+      "confidence": 0.9962738213630823
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0478_005_paragraph_title.png",
+      "bbox": [
+        [
+          223,
+          330
+        ],
+        [
+          779,
+          330
+        ],
+        [
+          779,
+          379
+        ],
+        [
+          223,
+          379
+        ]
+      ],
+      "score": 0.9026555418968201,
+      "y_pos": 330,
+      "text": "47. Viêm bao hoat dich",
+      "confidence": 0.9125187719861666
+    },
+    {
+      "type": "text",
+      "img_path": "p0478_001_text.png",
+      "bbox": [
+        [
+          221,
+          419
+        ],
+        [
+          2359,
+          419
+        ],
+        [
+          2359,
+          616
+        ],
+        [
+          221,
+          616
+        ]
+      ],
+      "score": 0.9721276164054871,
+      "y_pos": 419,
+      "text": "Viêm bao hoạt dịch<sup>(*)</sup> thường sinh ra do khớp ở tứ chi hoạt động quá sức hoặc nhiễm phong\nhàn. Thường gặp ở bao gân cổ tay và mu bàn chân. Sờ thấy rắn chắc, nắn thì di động, hoạt\nđộng thấy vướng, hoặc có cảm giác đau đớn, tê dại.",
+      "confidence": 0.9962308858667447
+    },
+    {
+      "type": "text",
+      "img_path": "p0478_008_text.png",
+      "bbox": [
+        [
+          284,
+          653
+        ],
+        [
+          1063,
+          653
+        ],
+        [
+          1063,
+          706
+        ],
+        [
+          284,
+          706
+        ]
+      ],
+      "score": 0.5682368278503418,
+      "y_pos": 653,
+      "text": "Cách chữa: Lấy huyệt Á thị huyệt.",
+      "confidence": 0.703532178061349
+    },
+    {
+      "type": "text",
+      "img_path": "p0478_000_text.png",
+      "bbox": [
+        [
+          279,
+          740
+        ],
+        [
+          2359,
+          740
+        ],
+        [
+          2359,
+          1082
+        ],
+        [
+          279,
+          1082
+        ]
+      ],
+      "score": 0.9820830821990967,
+      "y_pos": 740,
+      "text": "Trước hết sát trùng bọc sưng ấy, tay trái cố định nó lại, lấy hào kim 1 thốn đến 1,5 thốn,\nchâm 4 kim ở chung quanh bọc theo hình chữ thập, lại lấy một kim châm từ đỉnh bọc xuyên\nxuống dưới đáy bọc sưng đó. Châm xong 5 kim, làm thủ pháp nâng ấn kim vài lần, làm cho\nngười bệnh thấy tê tức, lưu kim 20 phút. Châm xong, đều ấn và day xoa. Mỗi ngày hoặc\ncách ngày một lần châm, thường thì châm 3 lần đã khỏi.",
+      "confidence": 0.9982029037024012
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0478_006_footnote.png",
+      "bbox": [
+        [
+          227,
+          3166
+        ],
+        [
+          1037,
+          3166
+        ],
+        [
+          1037,
+          3210
+        ],
+        [
+          227,
+          3210
+        ]
+      ],
+      "score": 0.8903529644012451,
+      "y_pos": 3166,
+      "text": "(*) Hoạt dịch: Chất lỏng, dẻo mà trơn ở ổ khớp, khe cơ",
+      "confidence": 0.9868738598057202
+    },
+    {
+      "type": "number",
+      "img_path": "p0478_007_number.png",
+      "bbox": [
+        [
+          2304,
+          3300
+        ],
+        [
+          2352,
+          3300
+        ],
+        [
+          2352,
+          3334
+        ],
+        [
+          2304,
+          3334
+        ]
+      ],
+      "score": 0.8565401434898376,
+      "y_pos": 3300,
+      "text": "    \n            \n        \n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0478_004_footer.png",
+      "bbox": [
+        [
+          227,
+          3310
+        ],
+        [
+          1323,
+          3310
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          227,
+          3355
+        ]
+      ],
+      "score": 0.9027687907218933,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9190420980723399
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0478.png"
+}

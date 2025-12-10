@@ -1,0 +1,630 @@
+{
+  "page_num": 469,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0469_013_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2368,
+          143
+        ],
+        [
+          2368,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9314177632331848,
+      "y_pos": 143,
+      "text": "^7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6913668758102826
+    },
+    {
+      "type": "header",
+      "img_path": "p0469_017_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9182954430580139,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0469_015_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          330
+        ],
+        [
+          806,
+          330
+        ],
+        [
+          806,
+          380
+        ],
+        [
+          225,
+          380
+        ]
+      ],
+      "score": 0.9271475076675415,
+      "y_pos": 330,
+      "text": "39. Kinh phong (co giật)",
+      "confidence": 0.8926421174636254
+    },
+    {
+      "type": "text",
+      "img_path": "p0469_003_text.png",
+      "bbox": [
+        [
+          221,
+          418
+        ],
+        [
+          2357,
+          418
+        ],
+        [
+          2357,
+          545
+        ],
+        [
+          221,
+          545
+        ]
+      ],
+      "score": 0.9699369072914124,
+      "y_pos": 418,
+      "text": "Kinh phong là một loại chứng trạng xuất hiện trong nhiều bệnh của trẻ em. Trên lâm sàng\nthường chia làm hai loại: Kinh phong cấp và kinh phong mạn. Cần kết hợp Tây y trong xử lý.",
+      "confidence": 0.9988659529582313
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0469_021_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          582
+        ],
+        [
+          731,
+          582
+        ],
+        [
+          731,
+          635
+        ],
+        [
+          285,
+          635
+        ]
+      ],
+      "score": 0.9084470272064209,
+      "y_pos": 582,
+      "text": "a. Kinh phong câp",
+      "confidence": 0.9406046679145411
+    },
+    {
+      "type": "text",
+      "img_path": "p0469_001_text.png",
+      "bbox": [
+        [
+          279,
+          671
+        ],
+        [
+          2360,
+          671
+        ],
+        [
+          2360,
+          867
+        ],
+        [
+          279,
+          867
+        ]
+      ],
+      "score": 0.9785753488540649,
+      "y_pos": 671,
+      "text": "Đa số do sốt cao gây ra, bệnh xảy ra rất nhanh, phát sốt cao, hôn mê, hai mắt nhìn ngược\nlên, hàm răng cắn chặt, chân tay co quắp, cánh mũi phập phồng, môi mép động đậy, sắc\nmặt xanh tím, thậm chí đại tiểu tiện dầm dề.",
+      "confidence": 0.9985559701857056
+    },
+    {
+      "type": "text",
+      "img_path": "p0469_004_text.png",
+      "bbox": [
+        [
+          280,
+          907
+        ],
+        [
+          2358,
+          907
+        ],
+        [
+          2358,
+          1030
+        ],
+        [
+          280,
+          1030
+        ]
+      ],
+      "score": 0.9694575071334839,
+      "y_pos": 907,
+      "text": "Cách chữa: Lấy huyệt Nhân trung, Đại chuỳ, Hợp cốc, Thái xung, Thiếu thương, Trung\nxung.",
+      "confidence": 0.9837647552291553
+    },
+    {
+      "type": "text",
+      "img_path": "p0469_005_text.png",
+      "bbox": [
+        [
+          279,
+          1069
+        ],
+        [
+          2357,
+          1069
+        ],
+        [
+          2357,
+          1191
+        ],
+        [
+          279,
+          1191
+        ]
+      ],
+      "score": 0.9681167602539062,
+      "y_pos": 1069,
+      "text": "Trước hết chính ra máu các huyệt Nhân trung, Trung xung, Thiếu thương; châm Đại chuỳ,\nHợp cốc, Thái xung, dùng cách vê kim.",
+      "confidence": 0.9952548942030477
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0469_023_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          1234
+        ],
+        [
+          524,
+          1234
+        ],
+        [
+          524,
+          1283
+        ],
+        [
+          283,
+          1283
+        ]
+      ],
+      "score": 0.8074920177459717,
+      "y_pos": 1234,
+      "text": "Gia giám:",
+      "confidence": 0.8491869243708524
+    },
+    {
+      "type": "text",
+      "img_path": "p0469_014_text.png",
+      "bbox": [
+        [
+          285,
+          1325
+        ],
+        [
+          954,
+          1325
+        ],
+        [
+          954,
+          1374
+        ],
+        [
+          285,
+          1374
+        ]
+      ],
+      "score": 0.9284878969192505,
+      "y_pos": 1325,
+      "text": "\n    Sôt cao, gia huyêt Khúc trì.\n",
+      "confidence": 0.9693577720059289
+    },
+    {
+      "type": "text",
+      "img_path": "p0469_011_text.png",
+      "bbox": [
+        [
+          286,
+          1416
+        ],
+        [
+          1208,
+          1416
+        ],
+        [
+          1208,
+          1466
+        ],
+        [
+          286,
+          1466
+        ]
+      ],
+      "score": 0.9358708262443542,
+      "y_pos": 1416,
+      "text": "Hàm răng căn chặt, gia huyệt <i>Giáp xa</i>.",
+      "confidence": 0.9862799586319342
+    },
+    {
+      "type": "text",
+      "img_path": "p0469_007_text.png",
+      "bbox": [
+        [
+          286,
+          1507
+        ],
+        [
+          1417,
+          1507
+        ],
+        [
+          1417,
+          1559
+        ],
+        [
+          286,
+          1559
+        ]
+      ],
+      "score": 0.9389018416404724,
+      "y_pos": 1507,
+      "text": "\n    Chân tay co quăp, gia huyệt Hậu khê, Nội quan.\n",
+      "confidence": 0.980728509525458
+    },
+    {
+      "type": "text",
+      "img_path": "p0469_009_text.png",
+      "bbox": [
+        [
+          286,
+          1599
+        ],
+        [
+          1207,
+          1599
+        ],
+        [
+          1207,
+          1649
+        ],
+        [
+          286,
+          1649
+        ]
+      ],
+      "score": 0.9373360276222229,
+      "y_pos": 1599,
+      "text": "• Uôn văn mình, gia <i>Phong trì, Thân tru</i>.",
+      "confidence": 0.7689729481935501
+    },
+    {
+      "type": "text",
+      "img_path": "p0469_008_text.png",
+      "bbox": [
+        [
+          286,
+          1691
+        ],
+        [
+          1248,
+          1691
+        ],
+        [
+          1248,
+          1742
+        ],
+        [
+          286,
+          1742
+        ]
+      ],
+      "score": 0.9374634027481079,
+      "y_pos": 1691,
+      "text": "Đờm nhiêu, gia <i>Liệt khuyết, Phong long</i>.",
+      "confidence": 0.9850977797840916
+    },
+    {
+      "type": "text",
+      "img_path": "p0469_010_text.png",
+      "bbox": [
+        [
+          287,
+          1783
+        ],
+        [
+          1235,
+          1783
+        ],
+        [
+          1235,
+          1834
+        ],
+        [
+          287,
+          1834
+        ]
+      ],
+      "score": 0.9360102415084839,
+      "y_pos": 1783,
+      "text": "Hôn mê, bất tỉnh, gia huyệt <i>Dũng tuyển</i>.",
+      "confidence": 0.9924711016721504
+    },
+    {
+      "type": "text",
+      "img_path": "p0469_012_text.png",
+      "bbox": [
+        [
+          286,
+          1873
+        ],
+        [
+          1541,
+          1873
+        ],
+        [
+          1541,
+          1926
+        ],
+        [
+          286,
+          1926
+        ]
+      ],
+      "score": 0.9344142079353333,
+      "y_pos": 1873,
+      "text": "\n    Ngủ không nhằm mắt, gia huyệt Nội quan, Thân môn.\n",
+      "confidence": 0.9829614996910095
+    },
+    {
+      "type": "text",
+      "img_path": "p0469_000_text.png",
+      "bbox": [
+        [
+          278,
+          1966
+        ],
+        [
+          2359,
+          1966
+        ],
+        [
+          2359,
+          2512
+        ],
+        [
+          278,
+          2512
+        ]
+      ],
+      "score": 0.9874694347381592,
+      "y_pos": 1966,
+      "text": "Giảng nghĩa của phương: Phương này lấy tiết nhiệt, dẹp tà khí, an thần, chữa cơn co giật\nlà chính. Châm <i>Nhân trung</i> để thông điều đốc mạch, khai khiếu, tỉnh thần. <i>Đại chuỳ</i> tuyên\nthông dương khí mà khử biểu tà. <i>Hợp cốc, Thiếu thương</i> thanh tuyến phế khí để giảm thân\nnhiệt. Thái xung, Trung xung cũng tiết hoả ở can kinh và tâm kinh, có thêm công hiệu khai\nkhiếu<sup>(*)</sup> thanh thần. <i>Khúc tr</i>ì giảm nhiệt. <i>Giáp xa</i> điều kinh khí ở mặt. <i>Hậu khê, Nội quan</i>\nthanh hoả ở tâm, dìm cái dương đang động để dứt co quắp. <i>Phong trì, Thân trụ</i> khử phong\ntiết nhiệt. <i>Liệt khuyết, Phong long</i> tuyên phế, giáng trọc<sup>(**)</sup>, hoá đàm<sup>(***)</sup>, bổ ích thận thuỷ,\nthanh tâm, tỉnh thần. <i>Nôi quan, Thần môn</i> tiết nhiệt ở tâm kinh để an thần.",
+      "confidence": 0.9964315749043335
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0469_018_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          2557
+        ],
+        [
+          748,
+          2557
+        ],
+        [
+          748,
+          2604
+        ],
+        [
+          284,
+          2604
+        ]
+      ],
+      "score": 0.9173555374145508,
+      "y_pos": 2557,
+      "text": "b. Kinh phong man",
+      "confidence": 0.694356410126937
+    },
+    {
+      "type": "text",
+      "img_path": "p0469_002_text.png",
+      "bbox": [
+        [
+          279,
+          2642
+        ],
+        [
+          2359,
+          2642
+        ],
+        [
+          2359,
+          2838
+        ],
+        [
+          279,
+          2838
+        ]
+      ],
+      "score": 0.9762070775032043,
+      "y_pos": 2642,
+      "text": "Do những đợt thổ tả kéo dài, ốm nặng, tỳ, vị hư nhược gây ra. Triệu chứng: thấy phong cổ\nxẩy ra không nhanh, hình thể gầy yếu, sắc mặt trắng bợt, tinh thần mệt mỏi, ngủ mê, có khi\nco quắp, châm tay mát lạnh, phân nát, có khi lắc đầu, cứng cổ.",
+      "confidence": 0.9996770440491334
+    },
+    {
+      "type": "text",
+      "img_path": "p0469_020_text.png",
+      "bbox": [
+        [
+          282,
+          2878
+        ],
+        [
+          1773,
+          2878
+        ],
+        [
+          1773,
+          2929
+        ],
+        [
+          282,
+          2929
+        ]
+      ],
+      "score": 0.9111554026603699,
+      "y_pos": 2878,
+      "text": "Cách chữa: Lấy huyết Trung quản, Túc tam lý, Khí hải, Thiên khu.",
+      "confidence": 0.6853487329049543
+    },
+    {
+      "type": "text",
+      "img_path": "p0469_019_text.png",
+      "bbox": [
+        [
+          284,
+          2970
+        ],
+        [
+          2109,
+          2970
+        ],
+        [
+          2109,
+          3021
+        ],
+        [
+          284,
+          3021
+        ]
+      ],
+      "score": 0.915434718132019,
+      "y_pos": 2970,
+      "text": "Tất cả đều dùng hào kim vê chuyển châm vào. Dùng phép bổ, châm xong thì cứu",
+      "confidence": 0.9997276036770313
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0469_006_footnote.png",
+      "bbox": [
+        [
+          227,
+          3089
+        ],
+        [
+          1020,
+          3089
+        ],
+        [
+          1020,
+          3208
+        ],
+        [
+          227,
+          3208
+        ]
+      ],
+      "score": 0.9482078552246094,
+      "y_pos": 3089,
+      "text": "(*) Khai khiếu: Mở những cửa chính yếu của tạng phủ\n(**) Giáng trọc: Làm lắng cái vẩn đục xuống.\n(***) Hóa đờm: Làm cho đàm trở lai thành tân dịch.",
+      "confidence": 0.9299894152337869
+    },
+    {
+      "type": "number",
+      "img_path": "p0469_022_number.png",
+      "bbox": [
+        [
+          2304,
+          3300
+        ],
+        [
+          2349,
+          3300
+        ],
+        [
+          2349,
+          3335
+        ],
+        [
+          2304,
+          3335
+        ]
+      ],
+      "score": 0.8690416812896729,
+      "y_pos": 3300,
+      "text": "    \n    \n\n\n\n\n\n\n۰\n۰.\n\n\n    \n\n\n",
+      "confidence": 0.9481045344942495
+    },
+    {
+      "type": "footer",
+      "img_path": "p0469_016_footer.png",
+      "bbox": [
+        [
+          228,
+          3310
+        ],
+        [
+          1323,
+          3310
+        ],
+        [
+          1323,
+          3354
+        ],
+        [
+          228,
+          3354
+        ]
+      ],
+      "score": 0.9193674325942993,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9981425269594733
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0469.png"
+}

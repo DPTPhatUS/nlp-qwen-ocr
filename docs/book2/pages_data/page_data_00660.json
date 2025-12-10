@@ -1,0 +1,526 @@
+{
+  "page_num": 660,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0660_010_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9207020998001099,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0660_013_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.912266731262207,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0660_014_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          310
+        ],
+        [
+          701,
+          310
+        ],
+        [
+          701,
+          359
+        ],
+        [
+          283,
+          359
+        ]
+      ],
+      "score": 0.9089532494544983,
+      "y_pos": 310,
+      "text": "b. Phương huyệt",
+      "confidence": 0.992038772386663
+    },
+    {
+      "type": "text",
+      "img_path": "p0660_008_text.png",
+      "bbox": [
+        [
+          281,
+          401
+        ],
+        [
+          1885,
+          401
+        ],
+        [
+          1885,
+          452
+        ],
+        [
+          281,
+          452
+        ]
+      ],
+      "score": 0.9240662455558777,
+      "y_pos": 401,
+      "text": "Cứu: Phong môn, Phế du, Thái khê, Côn luân, Phong long, Chiên trung.",
+      "confidence": 0.9984072191374642
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0660_015_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          495
+        ],
+        [
+          1001,
+          495
+        ],
+        [
+          1001,
+          545
+        ],
+        [
+          284,
+          545
+        ]
+      ],
+      "score": 0.908562958240509,
+      "y_pos": 495,
+      "text": "c. Giảng nghĩa phương huyệt",
+      "confidence": 0.9984200185742872
+    },
+    {
+      "type": "text",
+      "img_path": "p0660_001_text.png",
+      "bbox": [
+        [
+          278,
+          579
+        ],
+        [
+          2359,
+          579
+        ],
+        [
+          2359,
+          846
+        ],
+        [
+          278,
+          846
+        ]
+      ],
+      "score": 0.9804855585098267,
+      "y_pos": 579,
+      "text": "Cứu Phong môn, Phế du để làm ấm Phế tạng, đuổi hàn tà. Chiên trung, Phong long để bổ\nkhí, hoá đàm hàn; <i>Côn luân</i> làm ấm nóng kinh Bàng quang và vùng thượng tiêu để cắt cơn\nhen suyễn; <i>Côn luân, Thái khê</i> nâng sức nóng toàn thân, trong đó có Thận dương để giúp\ncho Phế khí túc giáng dễ dàng mà dứt ho.",
+      "confidence": 0.9166354347816601
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0660_007_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          885
+        ],
+        [
+          789,
+          885
+        ],
+        [
+          789,
+          936
+        ],
+        [
+          225,
+          936
+        ]
+      ],
+      "score": 0.9242463707923889,
+      "y_pos": 885,
+      "text": "3. Phế nhiệt khái suyễn",
+      "confidence": 0.9324910950660705
+    },
+    {
+      "type": "text",
+      "img_path": "p0660_005_text.png",
+      "bbox": [
+        [
+          221,
+          978
+        ],
+        [
+          2358,
+          978
+        ],
+        [
+          2358,
+          1102
+        ],
+        [
+          221,
+          1102
+        ]
+      ],
+      "score": 0.9632185697555542,
+      "y_pos": 978,
+      "text": "Mô hình chỉ số nhiệt kinh lạc cơ bản: Phế (+BL); nghĩa là kinh Phế có trạng thái nhiệt bệnh\nlý. Số tương quan của kinh Phế có giá trị tuyệt đối lớn hơn sai số giới hạn và mang dấu +.",
+      "confidence": 0.9990500775019997
+    },
+    {
+      "type": "text",
+      "img_path": "p0660_003_text.png",
+      "bbox": [
+        [
+          275,
+          1140
+        ],
+        [
+          2361,
+          1140
+        ],
+        [
+          2361,
+          1330
+        ],
+        [
+          275,
+          1330
+        ]
+      ],
+      "score": 0.9762745499610901,
+      "y_pos": 1140,
+      "text": "a. Triệu chứng: Ho suyễn gấp, đờm vàng, dẻo đều hoặc ho nôn máu mủ, mùi hôi tanh, hầu\nhọng đau hoặc tức ngực, sợ lạnh, phát nóng sốt, rêu vàng hoặc vàng trơn, mạch sác hoặc\nhoat sác.",
+      "confidence": 0.9966157478287178
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0660_018_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          1375
+        ],
+        [
+          982,
+          1375
+        ],
+        [
+          982,
+          1424
+        ],
+        [
+          283,
+          1424
+        ]
+      ],
+      "score": 0.8666430115699768,
+      "y_pos": 1375,
+      "text": "Mô hình chỉ số nhiệt kinh lạc",
+      "confidence": 0.9978424637548385
+    },
+    {
+      "type": "text",
+      "img_path": "p0660_009_text.png",
+      "bbox": [
+        [
+          281,
+          1466
+        ],
+        [
+          2010,
+          1466
+        ],
+        [
+          2010,
+          1520
+        ],
+        [
+          281,
+          1520
+        ]
+      ],
+      "score": 0.9225497245788574,
+      "y_pos": 1466,
+      "text": "Phế (+BL), Can (+), Tam tiêu (+), Thận (+), Đảm (-), Bàng quang (-), Tâm (+).",
+      "confidence": 0.9562637360790108
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0660_017_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          1560
+        ],
+        [
+          702,
+          1560
+        ],
+        [
+          702,
+          1608
+        ],
+        [
+          285,
+          1608
+        ]
+      ],
+      "score": 0.8851706981658936,
+      "y_pos": 1560,
+      "text": "b. Phương huyết",
+      "confidence": 0.9893389940261841
+    },
+    {
+      "type": "text",
+      "img_path": "p0660_004_text.png",
+      "bbox": [
+        [
+          280,
+          1648
+        ],
+        [
+          2361,
+          1648
+        ],
+        [
+          2361,
+          1772
+        ],
+        [
+          280,
+          1772
+        ]
+      ],
+      "score": 0.9634315371513367,
+      "y_pos": 1648,
+      "text": "Chích: Thiếu thương và Xích trạch nặn máu. Tả: Khổng tối, Phế du, Phế nhiệt huyệt, Đài\nchuỳ, Trung phủ, Thái xung. Bổ: Túc Tam lý.",
+      "confidence": 0.9992555356838486
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0660_011_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1815
+        ],
+        [
+          940,
+          1815
+        ],
+        [
+          940,
+          1864
+        ],
+        [
+          226,
+          1864
+        ]
+      ],
+      "score": 0.9192488193511963,
+      "y_pos": 1815,
+      "text": "c. Giảng nghĩa phương huyệt",
+      "confidence": 0.9981187766995924
+    },
+    {
+      "type": "text",
+      "img_path": "p0660_000_text.png",
+      "bbox": [
+        [
+          274,
+          1903
+        ],
+        [
+          2360,
+          1903
+        ],
+        [
+          2360,
+          2523
+        ],
+        [
+          274,
+          2523
+        ]
+      ],
+      "score": 0.9873470067977905,
+      "y_pos": 1903,
+      "text": "Thiếu thương chích nặn máu có thể làm hạ nhiệt nhiều tạng cùng một lúc, vì Phế nhiệt thuộc\nvề phần khí không chỉ do Phế gây ra. <i>Xích trạch</i> có tác dụng hạ nhiệt ở trường Vị, vì trường\nVị nhiệt cũng góp phần quan trọng để gây ra Phế nhiệt. <i>Khổng tối</i> là khích huyệt ở kinh Phế\ncó tác dụng trị các bệnh cấp tính của Phế. <i>Phế du</i> và <i>Phế nhiệt huyệt</i> có tác dụng gần nhất\nvới Phế tạng. Đại chuỳ là điểm giao hội của chư dương, cái dư ở dương khí được tả bớt thì\nkhí cũng được mát theo. Trung phủ là mộ huyệt của Phế, khí của đường kinh Phế và Phế\ntạng tụ tập ở đây, tả có thể làm bớt đi cái hữu dư của tà nhiệt ở Phế. Bổ <i>Túc Tam</i> lý để dẫn\nhoả đi xuống, tả <i>Thái xung</i> là tả hoả ở Can để trừ Can hoả phản khắc Phế kim làm cho Phế\nđã táo thêm táo nhiệt mà gây ra đờm vàng và dính hoặc hôi tanh.",
+      "confidence": 0.996785667883974
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0660_012_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2561
+        ],
+        [
+          553,
+          2561
+        ],
+        [
+          553,
+          2608
+        ],
+        [
+          225,
+          2608
+        ]
+      ],
+      "score": 0.917673647403717,
+      "y_pos": 2561,
+      "text": "4. Phế khí hư",
+      "confidence": 0.9770928343137105
+    },
+    {
+      "type": "text",
+      "img_path": "p0660_006_text.png",
+      "bbox": [
+        [
+          222,
+          2653
+        ],
+        [
+          2358,
+          2653
+        ],
+        [
+          2358,
+          2778
+        ],
+        [
+          222,
+          2778
+        ]
+      ],
+      "score": 0.9606285095214844,
+      "y_pos": 2653,
+      "text": "Mô hình chỉ sổ nhiệt kinh lạc cơ bản: Phế (+BL); nghĩa là kinh Phế có trạng thái nhiệt bệnh\nlý. Số tương quan của kinh Phế có giá trị tuyệt đối lớn hơn sai số giới hạn và mang dấu +.",
+      "confidence": 0.9993018970283575
+    },
+    {
+      "type": "text",
+      "img_path": "p0660_002_text.png",
+      "bbox": [
+        [
+          278,
+          2815
+        ],
+        [
+          2360,
+          2815
+        ],
+        [
+          2360,
+          3076
+        ],
+        [
+          278,
+          3076
+        ]
+      ],
+      "score": 0.9802465438842773,
+      "y_pos": 2815,
+      "text": "a. Triệu chứng: Ho, thở ngắn hơi, có khi suyễn gấp, hoặc thở hít khó khăn, đờm nhiều và\nlỏng, mệt mỏi, ngại nói, tiếng trầm yếu, sợ lạnh, ra mồ hôi, sắc mặt trắng nhạt, chất lưỡi\nnhạt, chậm, mạch hư nhược là tượng mạch tượng lưỡi của chứng hư, sắc mặt trắng nhợt\nchủ về Phế khí bất túc.",
+      "confidence": 0.9977374564576522
+    },
+    {
+      "type": "number",
+      "img_path": "p0660_019_number.png",
+      "bbox": [
+        [
+          2304,
+          3336
+        ],
+        [
+          2350,
+          3336
+        ],
+        [
+          2350,
+          3374
+        ],
+        [
+          2304,
+          3374
+        ]
+      ],
+      "score": 0.8501558899879456,
+      "y_pos": 3336,
+      "text": "\n    \n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0660_016_footer.png",
+      "bbox": [
+        [
+          227,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3389
+        ],
+        [
+          227,
+          3389
+        ]
+      ],
+      "score": 0.9007439017295837,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987236002706131
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0660.png"
+}

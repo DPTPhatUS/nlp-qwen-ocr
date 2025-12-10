@@ -1,0 +1,292 @@
+{
+  "page_num": 505,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0505_003_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9121294021606445,
+      "y_pos": 143,
+      "text": "~?    ~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6602049969018452
+    },
+    {
+      "type": "header",
+      "img_path": "p0505_004_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9110183715820312,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9855625457488574
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0505_005_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          327
+        ],
+        [
+          544,
+          327
+        ],
+        [
+          544,
+          379
+        ],
+        [
+          227,
+          379
+        ]
+      ],
+      "score": 0.9014626145362854,
+      "y_pos": 327,
+      "text": "74. Bach hầu",
+      "confidence": 0.9719834668295724
+    },
+    {
+      "type": "text",
+      "img_path": "p0505_001_text.png",
+      "bbox": [
+        [
+          222,
+          416
+        ],
+        [
+          2358,
+          416
+        ],
+        [
+          2358,
+          617
+        ],
+        [
+          222,
+          617
+        ]
+      ],
+      "score": 0.966215968132019,
+      "y_pos": 416,
+      "text": "Bạch hầu là một bệnh truyền nhiễm cấp tính, mùa thu, đông người mắc bệnh rất nhiều, thường\nthấy ở trẻ em. Do ngoại cảm dịch khí táo hỏa gây ra, từ đường mũi miệng xâm phạm vào phế,\nvị, sinh ra tắc hầu họng, tổn thương âm dịch mà thành.",
+      "confidence": 0.998947541735358
+    },
+    {
+      "type": "text",
+      "img_path": "p0505_002_text.png",
+      "bbox": [
+        [
+          222,
+          653
+        ],
+        [
+          2360,
+          653
+        ],
+        [
+          2360,
+          778
+        ],
+        [
+          222,
+          778
+        ]
+      ],
+      "score": 0.9383746981620789,
+      "y_pos": 653,
+      "text": "Nếu cảm tà sâu, nặng, dịch độc phạm tới tim, thì hậu quả sẽ rất nghiêm trọng (biến chứng chạy\nvào tim).",
+      "confidence": 0.9868722128525875
+    },
+    {
+      "type": "text",
+      "img_path": "p0505_000_text.png",
+      "bbox": [
+        [
+          221,
+          814
+        ],
+        [
+          2359,
+          814
+        ],
+        [
+          2359,
+          1151
+        ],
+        [
+          221,
+          1151
+        ]
+      ],
+      "score": 0.9743719696998596,
+      "y_pos": 814,
+      "text": "Người mắc bệnh do tiếp xúc với người đã bị bệnh bạch hầu. Hầu họng sưng đỏ đau, trong\nhọng có màng giả trắng xám khó tróc ra, nếu lột mạnh ra thì chảy máu, sợ lạnh, phát sốt, họ\nnhư chó sủa, tinh thần mệt mỏi, triệu chứng ngộ độc rõ rệt. Nếu tinh thần buồn bã, sắc mặt\ntrắng nhợt, niêm mạc mắt màu xanh, mạch có lúc lửng đi và tăng vọt lên là đã có hiện tượng\nviêm cơ tim.",
+      "confidence": 0.9979047507258155
+    },
+    {
+      "type": "text",
+      "img_path": "p0505_008_text.png",
+      "bbox": [
+        [
+          222,
+          1188
+        ],
+        [
+          2013,
+          1188
+        ],
+        [
+          2013,
+          1245
+        ],
+        [
+          222,
+          1245
+        ]
+      ],
+      "score": 0.8194895386695862,
+      "y_pos": 1188,
+      "text": "Nếu hô hấp khó khăn, tím tái biểu hiện thiếu ôxy tức là đã bị tắc họng nghẹt thở.",
+      "confidence": 0.9994516918458134
+    },
+    {
+      "type": "text",
+      "img_path": "p0505_010_text.png",
+      "bbox": [
+        [
+          222,
+          1280
+        ],
+        [
+          2305,
+          1280
+        ],
+        [
+          2305,
+          1338
+        ],
+        [
+          222,
+          1338
+        ]
+      ],
+      "score": 0.5339861512184143,
+      "y_pos": 1280,
+      "text": "Bệnh này nên chữa trị bằng Tây y, cách chữa theo Đông y ở đây chỉ là để tham khảo khi cần.",
+      "confidence": 0.9997235633756804
+    },
+    {
+      "type": "text",
+      "img_path": "p0505_009_text.png",
+      "bbox": [
+        [
+          224,
+          1373
+        ],
+        [
+          1988,
+          1373
+        ],
+        [
+          1988,
+          1429
+        ],
+        [
+          224,
+          1429
+        ]
+      ],
+      "score": 0.6163885593414307,
+      "y_pos": 1373,
+      "text": "Cách chữa: Lấy huyệt Hợp cốc, Thiếu thương, Thiên đột, Túc tam lý, Nội đình.",
+      "confidence": 0.99675585826238
+    },
+    {
+      "type": "number",
+      "img_path": "p0505_007_number.png",
+      "bbox": [
+        [
+          2303,
+          3299
+        ],
+        [
+          2352,
+          3299
+        ],
+        [
+          2352,
+          3334
+        ],
+        [
+          2303,
+          3334
+        ]
+      ],
+      "score": 0.8558206558227539,
+      "y_pos": 3299,
+      "text": "\n    ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0505_006_footer.png",
+      "bbox": [
+        [
+          229,
+          3310
+        ],
+        [
+          1324,
+          3310
+        ],
+        [
+          1324,
+          3356
+        ],
+        [
+          229,
+          3356
+        ]
+      ],
+      "score": 0.8954865336418152,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985828905735376
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0505.png"
+}

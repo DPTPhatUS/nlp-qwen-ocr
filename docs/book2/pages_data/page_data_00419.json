@@ -1,0 +1,500 @@
+{
+  "page_num": 419,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0419_007_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9310829043388367,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0419_008_header.png",
+      "bbox": [
+        [
+          229,
+          151
+        ],
+        [
+          1449,
+          151
+        ],
+        [
+          1449,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9253950715065002,
+      "y_pos": 151,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỬU",
+      "confidence": 0.9870374363202316
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0419_017_paragraph_title.png",
+      "bbox": [
+        [
+          473,
+          324
+        ],
+        [
+          2109,
+          324
+        ],
+        [
+          2109,
+          379
+        ],
+        [
+          473,
+          379
+        ]
+      ],
+      "score": 0.8165624141693115,
+      "y_pos": 324,
+      "text": "CHẨN TRI NHỮNG BÊNH, CHỨNG THƯỜNG GĂP BẰNG CHÂM CỨU",
+      "confidence": 0.9888086870031537
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0419_015_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          416
+        ],
+        [
+          1243,
+          416
+        ],
+        [
+          1243,
+          470
+        ],
+        [
+          224,
+          470
+        ]
+      ],
+      "score": 0.9086158871650696,
+      "y_pos": 416,
+      "text": "NGUYÊN TẮC TRI LIÊU BẰNG CHÂM CỬU",
+      "confidence": 0.9955978291375297
+    },
+    {
+      "type": "text",
+      "img_path": "p0419_000_text.png",
+      "bbox": [
+        [
+          221,
+          509
+        ],
+        [
+          2360,
+          509
+        ],
+        [
+          2360,
+          777
+        ],
+        [
+          221,
+          777
+        ]
+      ],
+      "score": 0.982003390789032,
+      "y_pos": 509,
+      "text": "Trị liệu bằng châm cứu và dùng thuốc vùng theo một nguyên tắc giống nhau. Đầu tiên phải\nchẩn đoán rõ ràng, chính xác, xác định vị trí bệnh ở kinh nào, bệnh phủ thuộc tạng phủ nào. Khi\nchữa dùng cách châm hay cách cứu, dùng phép bổ hay dùng phép tả, sau đó tiến hành trị liệu,\nnhư vậy mới thu được hiệu quả mong muốn.",
+      "confidence": 0.997989803712216
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0419_013_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          819
+        ],
+        [
+          558,
+          819
+        ],
+        [
+          558,
+          864
+        ],
+        [
+          224,
+          864
+        ]
+      ],
+      "score": 0.9174073934555054,
+      "y_pos": 819,
+      "text": "Thực thì tả",
+      "confidence": 0.9945437128727252
+    },
+    {
+      "type": "text",
+      "img_path": "p0419_002_text.png",
+      "bbox": [
+        [
+          221,
+          907
+        ],
+        [
+          2360,
+          907
+        ],
+        [
+          2360,
+          1102
+        ],
+        [
+          221,
+          1102
+        ]
+      ],
+      "score": 0.9752960205078125,
+      "y_pos": 907,
+      "text": "Khi bệnh tà mới xâm nhập vào cơ thể, sức đề kháng còn mạnh, xuất hiện bệnh lý thực, cần\nphải dùng châm nhiều, thủ pháp tả nhiều, không thể dùng cứu (trừ trường hợp hàn thực\nchứng).",
+      "confidence": 0.9978657454524225
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0419_014_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1142
+        ],
+        [
+          524,
+          1142
+        ],
+        [
+          524,
+          1187
+        ],
+        [
+          226,
+          1187
+        ]
+      ],
+      "score": 0.9152159690856934,
+      "y_pos": 1142,
+      "text": "B. Hư thì bổ",
+      "confidence": 0.937726365668433
+    },
+    {
+      "type": "text",
+      "img_path": "p0419_001_text.png",
+      "bbox": [
+        [
+          221,
+          1231
+        ],
+        [
+          2358,
+          1231
+        ],
+        [
+          2358,
+          1428
+        ],
+        [
+          221,
+          1428
+        ]
+      ],
+      "score": 0.9767743945121765,
+      "y_pos": 1231,
+      "text": "Nói về tinh thần và trạng thái người bệnh không tốt, năng lực đề kháng giảm yếu, xuất hiện\nchứng hư, cần dùng thủ pháp bổ, thường dùng phép cứu (trừ trường hợp người bệnh âm hư,\nkhông thể dùng cứu).",
+      "confidence": 0.9984488062786333
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0419_012_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1469
+        ],
+        [
+          664,
+          1469
+        ],
+        [
+          664,
+          1513
+        ],
+        [
+          226,
+          1513
+        ]
+      ],
+      "score": 0.9201902747154236,
+      "y_pos": 1469,
+      "text": "C. Nhiệt thì nhanh",
+      "confidence": 0.8066613763570786
+    },
+    {
+      "type": "text",
+      "img_path": "p0419_006_text.png",
+      "bbox": [
+        [
+          222,
+          1558
+        ],
+        [
+          2358,
+          1558
+        ],
+        [
+          2358,
+          1680
+        ],
+        [
+          222,
+          1680
+        ]
+      ],
+      "score": 0.9590666890144348,
+      "y_pos": 1558,
+      "text": "Nói về bệnh nhiệt tà quá thịnh, cần dùng cách châm nhanh, rút kim nhanh (hoặc kết hợp chích\nđiểm nặn máu) để trừ trị.",
+      "confidence": 0.9990464838459785
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0419_011_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1723
+        ],
+        [
+          545,
+          1723
+        ],
+        [
+          545,
+          1767
+        ],
+        [
+          226,
+          1767
+        ]
+      ],
+      "score": 0.9202335476875305,
+      "y_pos": 1723,
+      "text": "D. Hàn thì ôn",
+      "confidence": 0.9385637482007344
+    },
+    {
+      "type": "text",
+      "img_path": "p0419_005_text.png",
+      "bbox": [
+        [
+          222,
+          1812
+        ],
+        [
+          2360,
+          1812
+        ],
+        [
+          2360,
+          1935
+        ],
+        [
+          222,
+          1935
+        ]
+      ],
+      "score": 0.9609844088554382,
+      "y_pos": 1812,
+      "text": "Hàn tà xâm nhập kinh lạc hoặc trú ở tạng phủ, cần dùng phương pháp ôn cứu để trừ trị (hoặc\nchâm xong cứu thêm).",
+      "confidence": 0.9891633184059807
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0419_009_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          1976
+        ],
+        [
+          607,
+          1976
+        ],
+        [
+          607,
+          2021
+        ],
+        [
+          224,
+          2021
+        ]
+      ],
+      "score": 0.9239383339881897,
+      "y_pos": 1976,
+      "text": "Đ. Tắc thì chích",
+      "confidence": 0.5462792681323158
+    },
+    {
+      "type": "text",
+      "img_path": "p0419_004_text.png",
+      "bbox": [
+        [
+          223,
+          2066
+        ],
+        [
+          2357,
+          2066
+        ],
+        [
+          2357,
+          2188
+        ],
+        [
+          223,
+          2188
+        ]
+      ],
+      "score": 0.9623597264289856,
+      "y_pos": 2066,
+      "text": "Cục bộ ứ tắc thì dùng phép chích, là khi cục bộ kinh lạc không thông, khí huyết ứ trệ, phải dùng\ncách chích máu làm lưu thông kinh lạc, khử trừ bệnh tật.",
+      "confidence": 0.9938523954882914
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0419_010_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2232
+        ],
+        [
+          842,
+          2232
+        ],
+        [
+          842,
+          2280
+        ],
+        [
+          225,
+          2280
+        ]
+      ],
+      "score": 0.9215864539146423,
+      "y_pos": 2232,
+      "text": "E. Không hư, không thực",
+      "confidence": 0.8951373815536499
+    },
+    {
+      "type": "text",
+      "img_path": "p0419_003_text.png",
+      "bbox": [
+        [
+          221,
+          2319
+        ],
+        [
+          2357,
+          2319
+        ],
+        [
+          2357,
+          2509
+        ],
+        [
+          221,
+          2509
+        ]
+      ],
+      "score": 0.9736895561218262,
+      "y_pos": 2319,
+      "text": "Theo kinh mà chữa. Khi cơ thể có bệnh biến hư thực không rõ ràng, mới chỉ là một số chứng\ntrạng xuất hiện trên đường kinh đi, nên lấy huyệt trên kinh đó mà châm, chích dùng phép bình\nbổ. bình tả.",
+      "confidence": 0.9927625590372825
+    },
+    {
+      "type": "number",
+      "img_path": "p0419_018_number.png",
+      "bbox": [
+        [
+          2332,
+          3303
+        ],
+        [
+          2350,
+          3303
+        ],
+        [
+          2350,
+          3335
+        ],
+        [
+          2332,
+          3335
+        ]
+      ],
+      "score": 0.7783618569374084,
+      "y_pos": 3303,
+      "text": "\n\n\n\n\n\n\n\n    \n۰\n٠.\n",
+      "confidence": 0.9234057550246899
+    },
+    {
+      "type": "footer",
+      "img_path": "p0419_016_footer.png",
+      "bbox": [
+        [
+          228,
+          3311
+        ],
+        [
+          1324,
+          3311
+        ],
+        [
+          1324,
+          3355
+        ],
+        [
+          228,
+          3355
+        ]
+      ],
+      "score": 0.9047940373420715,
+      "y_pos": 3311,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9983745532215766
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0419.png"
+}

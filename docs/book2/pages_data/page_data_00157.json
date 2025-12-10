@@ -1,0 +1,760 @@
+{
+  "page_num": 157,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0157_006_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9409833550453186,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.723309953652677
+    },
+    {
+      "type": "header",
+      "img_path": "p0157_018_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9208329916000366,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0157_025_paragraph_title.png",
+      "bbox": [
+        [
+          223,
+          362
+        ],
+        [
+          1439,
+          362
+        ],
+        [
+          1439,
+          418
+        ],
+        [
+          223,
+          418
+        ]
+      ],
+      "score": 0.8794640898704529,
+      "y_pos": 362,
+      "text": "TÚC THÁI DƯƠNG BÀNG QUANG KINH: 67 HUYẾT",
+      "confidence": 0.9883294971216292
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0157_019_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          462
+        ],
+        [
+          535,
+          462
+        ],
+        [
+          535,
+          509
+        ],
+        [
+          227,
+          509
+        ]
+      ],
+      "score": 0.915566086769104,
+      "y_pos": 462,
+      "text": "1. Tình minh",
+      "confidence": 0.8784340492316655
+    },
+    {
+      "type": "text",
+      "img_path": "p0157_028_text.png",
+      "bbox": [
+        [
+          290,
+          550
+        ],
+        [
+          832,
+          550
+        ],
+        [
+          832,
+          603
+        ],
+        [
+          290,
+          603
+        ]
+      ],
+      "score": 0.8223839998245239,
+      "y_pos": 550,
+      "text": "Vi trí: Ở khóe mắt trong",
+      "confidence": 0.9877438705701095
+    },
+    {
+      "type": "text",
+      "img_path": "p0157_001_text.png",
+      "bbox": [
+        [
+          280,
+          642
+        ],
+        [
+          2358,
+          642
+        ],
+        [
+          2358,
+          767
+        ],
+        [
+          280,
+          767
+        ]
+      ],
+      "score": 0.9678622484207153,
+      "y_pos": 642,
+      "text": "Cách lấy huyệt: Góc mắt trong ra 0,1 thốn, dựa vào bờ trong xương hốc mắt (H. 69). Ngón\ntay trái của thầy thuốc áp và nhãn cầu mà lấy huyệt.",
+      "confidence": 0.9978495360760207
+    },
+    {
+      "type": "text",
+      "img_path": "p0157_000_text.png",
+      "bbox": [
+        [
+          279,
+          805
+        ],
+        [
+          2359,
+          805
+        ],
+        [
+          2359,
+          999
+        ],
+        [
+          279,
+          999
+        ]
+      ],
+      "score": 0.9810048937797546,
+      "y_pos": 805,
+      "text": "Cách châm: Mũi kim đưa vào hốc mắt, châm đứng kim, sâu đến 0,5 thốn, tiến kim xong để\nnguyên, không nâng ấn kim, lưu kim 5-10 phút. Khi rút kim, day lỗ kim 2 phút, để phòng xuất\nhuyết. Không cứu.",
+      "confidence": 0.9964270202354807
+    },
+    {
+      "type": "text",
+      "img_path": "p0157_015_text.png",
+      "bbox": [
+        [
+          284,
+          1040
+        ],
+        [
+          2121,
+          1040
+        ],
+        [
+          2121,
+          1093
+        ],
+        [
+          284,
+          1093
+        ]
+      ],
+      "score": 0.9284307956695557,
+      "y_pos": 1040,
+      "text": "Chủ trị: Đau mắt, gặp gió chảy nước mắt, cận thị, quáng gà và các loại bệnh mắt.",
+      "confidence": 0.9846367487093297
+    },
+    {
+      "type": "text",
+      "img_path": "p0157_002_text.png",
+      "bbox": [
+        [
+          282,
+          1132
+        ],
+        [
+          2358,
+          1132
+        ],
+        [
+          2358,
+          1256
+        ],
+        [
+          282,
+          1256
+        ]
+      ],
+      "score": 0.9674810171127319,
+      "y_pos": 1132,
+      "text": "<b>Tác dụng phối hợp:</b> Với <i>Hành gian, Túc tam lý</i> trị quáng gà; với <i>Thái dương, Ngư yêu</i> trị\nmắt sưng đau; với <i>Thừa khấp, Hợp cốc, Quang minh</i> trị cận thị.",
+      "confidence": 0.9965895027019778
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0157_017_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1294
+        ],
+        [
+          497,
+          1294
+        ],
+        [
+          497,
+          1341
+        ],
+        [
+          226,
+          1341
+        ]
+      ],
+      "score": 0.9229921102523804,
+      "y_pos": 1294,
+      "text": "an trúc",
+      "confidence": 0.4948582450548808
+    },
+    {
+      "type": "text",
+      "img_path": "p0157_027_text.png",
+      "bbox": [
+        [
+          289,
+          1384
+        ],
+        [
+          990,
+          1384
+        ],
+        [
+          990,
+          1439
+        ],
+        [
+          289,
+          1439
+        ]
+      ],
+      "score": 0.877094566822052,
+      "y_pos": 1384,
+      "text": "Vị trí: Ở chỗ lõm đầu lông mày",
+      "confidence": 0.9890094362199306
+    },
+    {
+      "type": "text",
+      "img_path": "p0157_022_text.png",
+      "bbox": [
+        [
+          286,
+          1475
+        ],
+        [
+          1503,
+          1475
+        ],
+        [
+          1503,
+          1530
+        ],
+        [
+          286,
+          1530
+        ]
+      ],
+      "score": 0.9027537107467651,
+      "y_pos": 1475,
+      "text": "Cách lấy huyệt: Ở đầu lông mày vào 0,1 thốn (H. 69)",
+      "confidence": 0.99549234363268
+    },
+    {
+      "type": "text",
+      "img_path": "p0157_004_text.png",
+      "bbox": [
+        [
+          282,
+          1568
+        ],
+        [
+          2355,
+          1568
+        ],
+        [
+          2355,
+          1692
+        ],
+        [
+          282,
+          1692
+        ]
+      ],
+      "score": 0.9673096537590027,
+      "y_pos": 1568,
+      "text": "Cách châm: Từ đầu lông mày, châm dưới da, mũi kim hướng ra ngoài hoặc chếch xuống,\nsâu 0,3-0,5 thốn, hoặc kim 3 cạnh chích nặn máu. Không cứu.",
+      "confidence": 0.9945699718782997
+    },
+    {
+      "type": "text",
+      "img_path": "p0157_003_text.png",
+      "bbox": [
+        [
+          280,
+          1731
+        ],
+        [
+          2358,
+          1731
+        ],
+        [
+          2358,
+          1853
+        ],
+        [
+          280,
+          1853
+        ]
+      ],
+      "score": 0.9673507213592529,
+      "y_pos": 1731,
+      "text": "Chủ trị: Đầu đau, hoa mắt, xương ụ mày đau, ra gió chảy nước mắt, đau mắt liệt mặt, giác\nmac có ban trắng.",
+      "confidence": 0.9920442936364671
+    },
+    {
+      "type": "text",
+      "img_path": "p0157_005_text.png",
+      "bbox": [
+        [
+          286,
+          1892
+        ],
+        [
+          2357,
+          1892
+        ],
+        [
+          2357,
+          2018
+        ],
+        [
+          286,
+          2018
+        ]
+      ],
+      "score": 0.9663172960281372,
+      "y_pos": 1892,
+      "text": "Tác dụng phối hợp: Với Ấn đường trị viêm xoang trán; với Đầu duy trị đau đầu và mắt; với\n<i>Tán trúc</i> thấu <i>Ngư yêu</i> trị xương ụ mày đau, mắt đau.",
+      "confidence": 0.9929125352735408
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0157_021_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2058
+        ],
+        [
+          482,
+          2058
+        ],
+        [
+          482,
+          2108
+        ],
+        [
+          226,
+          2108
+        ]
+      ],
+      "score": 0.9116863012313843,
+      "y_pos": 2058,
+      "text": "3. Mi xung",
+      "confidence": 0.9582068224747976
+    },
+    {
+      "type": "text",
+      "img_path": "p0157_016_text.png",
+      "bbox": [
+        [
+          289,
+          2147
+        ],
+        [
+          1733,
+          2147
+        ],
+        [
+          1733,
+          2201
+        ],
+        [
+          289,
+          2201
+        ]
+      ],
+      "score": 0.9238839149475098,
+      "y_pos": 2147,
+      "text": "Vị trí: Từ huyệt <i>Tán trúc</i> thẳng lên vào mép tóc 0,5 thốn. (H. 69).",
+      "confidence": 0.883109564440591
+    },
+    {
+      "type": "text",
+      "img_path": "p0157_012_text.png",
+      "bbox": [
+        [
+          286,
+          2240
+        ],
+        [
+          1603,
+          2240
+        ],
+        [
+          1603,
+          2289
+        ],
+        [
+          286,
+          2289
+        ]
+      ],
+      "score": 0.9318892359733582,
+      "y_pos": 2240,
+      "text": "<b>Cách châm:</b> Châm chếch kim, sâu 0.3-0.5 thốn. Cấm cứu.",
+      "confidence": 0.9843680675615344
+    },
+    {
+      "type": "text",
+      "img_path": "p0157_007_text.png",
+      "bbox": [
+        [
+          286,
+          2332
+        ],
+        [
+          1449,
+          2332
+        ],
+        [
+          1449,
+          2384
+        ],
+        [
+          286,
+          2384
+        ]
+      ],
+      "score": 0.9349991679191589,
+      "y_pos": 2332,
+      "text": "Chủ trị: Đau đầu, choáng váng, bệnh mắt, điên dại.",
+      "confidence": 0.6862431982388864
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0157_024_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2423
+        ],
+        [
+          510,
+          2423
+        ],
+        [
+          510,
+          2468
+        ],
+        [
+          226,
+          2468
+        ]
+      ],
+      "score": 0.8879114985466003,
+      "y_pos": 2423,
+      "text": "4. Khúc sai",
+      "confidence": 0.948523108775799
+    },
+    {
+      "type": "text",
+      "img_path": "p0157_014_text.png",
+      "bbox": [
+        [
+          287,
+          2513
+        ],
+        [
+          2072,
+          2513
+        ],
+        [
+          2072,
+          2567
+        ],
+        [
+          287,
+          2567
+        ]
+      ],
+      "score": 0.9308933615684509,
+      "y_pos": 2513,
+      "text": "Vi trí: Từ huyệt Thần đình ra mỗi bên 1.5 thốn, từ mép tóc vào 0,5 thốn (H. 69).",
+      "confidence": 0.5184687412366634
+    },
+    {
+      "type": "text",
+      "img_path": "p0157_013_text.png",
+      "bbox": [
+        [
+          286,
+          2605
+        ],
+        [
+          1632,
+          2605
+        ],
+        [
+          1632,
+          2656
+        ],
+        [
+          286,
+          2656
+        ]
+      ],
+      "score": 0.9312941431999207,
+      "y_pos": 2605,
+      "text": "Cách châm: Châm chếch kim, sâu 0.3-0.5 thốn. Cứu 3 mồi.",
+      "confidence": 0.7625953387795833
+    },
+    {
+      "type": "text",
+      "img_path": "p0157_010_text.png",
+      "bbox": [
+        [
+          286,
+          2698
+        ],
+        [
+          1673,
+          2698
+        ],
+        [
+          1673,
+          2750
+        ],
+        [
+          286,
+          2750
+        ]
+      ],
+      "score": 0.9337157607078552,
+      "y_pos": 2698,
+      "text": "Chủ trị: Đau phía trước đầu, hoa mắt, tắc mũi, chảy máu mũi.",
+      "confidence": 0.9703439839424626
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0157_023_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2792
+        ],
+        [
+          476,
+          2792
+        ],
+        [
+          476,
+          2840
+        ],
+        [
+          226,
+          2840
+        ]
+      ],
+      "score": 0.8955242037773132,
+      "y_pos": 2792,
+      "text": "5. Ngũ xứ",
+      "confidence": 0.9071083664894104
+    },
+    {
+      "type": "text",
+      "img_path": "p0157_011_text.png",
+      "bbox": [
+        [
+          289,
+          2882
+        ],
+        [
+          1353,
+          2882
+        ],
+        [
+          1353,
+          2934
+        ],
+        [
+          289,
+          2934
+        ]
+      ],
+      "score": 0.9331772923469543,
+      "y_pos": 2882,
+      "text": "Vị trí: Phía sau huyệt Khúc sai 0,5 thốn (H. 69).",
+      "confidence": 0.5794240890764722
+    },
+    {
+      "type": "text",
+      "img_path": "p0157_008_text.png",
+      "bbox": [
+        [
+          286,
+          2973
+        ],
+        [
+          1628,
+          2973
+        ],
+        [
+          1628,
+          3022
+        ],
+        [
+          286,
+          3022
+        ]
+      ],
+      "score": 0.9343141913414001,
+      "y_pos": 2973,
+      "text": "Cách châm: Châm chếch kim, sâu 0.3-0.5 thốn. Cứu 3 mồi.",
+      "confidence": 0.6893411697002879
+    },
+    {
+      "type": "text",
+      "img_path": "p0157_009_text.png",
+      "bbox": [
+        [
+          287,
+          3065
+        ],
+        [
+          1104,
+          3065
+        ],
+        [
+          1104,
+          3117
+        ],
+        [
+          287,
+          3117
+        ]
+      ],
+      "score": 0.9339833855628967,
+      "y_pos": 3065,
+      "text": "Chủ trị: Đau đầu, hoa mắt, điện dại.",
+      "confidence": 0.3999861667030736
+    },
+    {
+      "type": "footer",
+      "img_path": "p0157_020_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9137765765190125,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0157_026_number.png",
+      "bbox": [
+        [
+          2301,
+          3339
+        ],
+        [
+          2350,
+          3339
+        ],
+        [
+          2350,
+          3376
+        ],
+        [
+          2301,
+          3376
+        ]
+      ],
+      "score": 0.877261221408844,
+      "y_pos": 3339,
+      "text": "    \n    \n            \n        \n    \n    \n\n\n    \n        ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0157.png"
+}

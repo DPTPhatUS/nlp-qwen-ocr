@@ -1,0 +1,732 @@
+{
+  "page_num": 234,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0234_005_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9343219995498657,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.723309953652677
+    },
+    {
+      "type": "header",
+      "img_path": "p0234_019_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9227617979049683,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_012_text.png",
+      "bbox": [
+        [
+          286,
+          349
+        ],
+        [
+          1237,
+          349
+        ],
+        [
+          1237,
+          399
+        ],
+        [
+          286,
+          399
+        ]
+      ],
+      "score": 0.9302206635475159,
+      "y_pos": 349,
+      "text": "<b>Cách châm:</b> Châm đứng kim 2 – 2,5 thôn.",
+      "confidence": 0.9700110100564503
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_009_text.png",
+      "bbox": [
+        [
+          286,
+          441
+        ],
+        [
+          859,
+          441
+        ],
+        [
+          859,
+          489
+        ],
+        [
+          286,
+          489
+        ]
+      ],
+      "score": 0.9310075640678406,
+      "y_pos": 441,
+      "text": "<i>Chủ tri:</i> Chi dưới bai liệt.",
+      "confidence": 0.9698155099345792
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0234_025_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          532
+        ],
+        [
+          659,
+          532
+        ],
+        [
+          659,
+          583
+        ],
+        [
+          228,
+          583
+        ]
+      ],
+      "score": 0.9024393558502197,
+      "y_pos": 532,
+      "text": "122. Thâm yêu du",
+      "confidence": 0.9173707200421227
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_011_text.png",
+      "bbox": [
+        [
+          288,
+          623
+        ],
+        [
+          1870,
+          623
+        ],
+        [
+          1870,
+          677
+        ],
+        [
+          288,
+          677
+        ]
+      ],
+      "score": 0.9308972358703613,
+      "y_pos": 623,
+      "text": "Vị trí: Giữa lỗ rách ở mảng xương cùng khoảng huyệt Yêu du. (H.114)",
+      "confidence": 0.9941224049830782
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_018_text.png",
+      "bbox": [
+        [
+          286,
+          715
+        ],
+        [
+          1919,
+          715
+        ],
+        [
+          1919,
+          766
+        ],
+        [
+          286,
+          766
+        ]
+      ],
+      "score": 0.9243892431259155,
+      "y_pos": 715,
+      "text": "<b>Cách châm:</b> Châm chếch lên đâm vào trong ống xương cùng 2 – 3 thốn.",
+      "confidence": 0.9866660586425237
+    },
+    {
+      "type": "image",
+      "img_path": "p0234_000_image.png",
+      "bbox": [
+        [
+          1017,
+          814
+        ],
+        [
+          1568,
+          814
+        ],
+        [
+          1568,
+          1249
+        ],
+        [
+          1017,
+          1249
+        ]
+      ],
+      "score": 0.9769185185432434,
+      "y_pos": 814
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0234_026_figure_title.png",
+      "bbox": [
+        [
+          1193,
+          1332
+        ],
+        [
+          1397,
+          1332
+        ],
+        [
+          1397,
+          1374
+        ],
+        [
+          1193,
+          1374
+        ]
+      ],
+      "score": 0.8899609446525574,
+      "y_pos": 1332,
+      "text": "Hinh    ____",
+      "confidence": 0.6784509062767029
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_008_text.png",
+      "bbox": [
+        [
+          287,
+          1416
+        ],
+        [
+          1455,
+          1416
+        ],
+        [
+          1455,
+          1469
+        ],
+        [
+          287,
+          1469
+        ]
+      ],
+      "score": 0.9310731887817383,
+      "y_pos": 1416,
+      "text": "Chủ trị: Bại liệt gây ra chèn ép, đái la không tự chủ.",
+      "confidence": 0.7226338237524033
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0234_022_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1502
+        ],
+        [
+          592,
+          1502
+        ],
+        [
+          592,
+          1553
+        ],
+        [
+          229,
+          1553
+        ]
+      ],
+      "score": 0.9112208485603333,
+      "y_pos": 1502,
+      "text": "123. Ha tiêu du",
+      "confidence": 0.9305678325540879
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_003_text.png",
+      "bbox": [
+        [
+          285,
+          1588
+        ],
+        [
+          2361,
+          1588
+        ],
+        [
+          2361,
+          1711
+        ],
+        [
+          285,
+          1711
+        ]
+      ],
+      "score": 0.9649932384490967,
+      "y_pos": 1588,
+      "text": "Vị trí: Giữa huyệt <i>Trường cường</i> và <i>Giang môn</i> (lỗ đít) – (Có thuyết cho là ở chỗ <i>Trường</i>\ncường sang ngang 1 thốn tức là huyệt <i>Lý tiện</i>). (H.115).",
+      "confidence": 0.74999613872653
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_015_text.png",
+      "bbox": [
+        [
+          287,
+          1744
+        ],
+        [
+          1207,
+          1744
+        ],
+        [
+          1207,
+          1793
+        ],
+        [
+          287,
+          1793
+        ]
+      ],
+      "score": 0.9273427724838257,
+      "y_pos": 1744,
+      "text": "Cách châm: Châm chếch lên 2 – 3 thốn.",
+      "confidence": 0.44189362877454513
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_016_text.png",
+      "bbox": [
+        [
+          288,
+          1833
+        ],
+        [
+          1014,
+          1833
+        ],
+        [
+          1014,
+          1884
+        ],
+        [
+          288,
+          1884
+        ]
+      ],
+      "score": 0.9261582493782043,
+      "y_pos": 1833,
+      "text": "Chủ trị: Bên giun móc mạn tính.",
+      "confidence": 0.5072668375390949
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0234_020_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          1919
+        ],
+        [
+          826,
+          1919
+        ],
+        [
+          826,
+          1971
+        ],
+        [
+          228,
+          1971
+        ]
+      ],
+      "score": 0.9161365628242493,
+      "y_pos": 1919,
+      "text": "124. Giang môn tứ huyệt",
+      "confidence": 0.9038498711585998
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_007_text.png",
+      "bbox": [
+        [
+          289,
+          2005
+        ],
+        [
+          1513,
+          2005
+        ],
+        [
+          1513,
+          2059
+        ],
+        [
+          289,
+          2059
+        ]
+      ],
+      "score": 0.9316973686218262,
+      "y_pos": 2005,
+      "text": "Vị trí: Trên, dưới, phải, trái lỗ đít đều 0,5 thốn. (H.115)",
+      "confidence": 0.9904597958580392
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_013_text.png",
+      "bbox": [
+        [
+          287,
+          2094
+        ],
+        [
+          1201,
+          2094
+        ],
+        [
+          1201,
+          2143
+        ],
+        [
+          287,
+          2143
+        ]
+      ],
+      "score": 0.929785966873169,
+      "y_pos": 2094,
+      "text": "<b>Cách châm:</b> Châm đứng kim 1 – 2 thôn.",
+      "confidence": 0.9643830388784409
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_004_text.png",
+      "bbox": [
+        [
+          281,
+          2181
+        ],
+        [
+          2357,
+          2181
+        ],
+        [
+          2357,
+          2300
+        ],
+        [
+          281,
+          2300
+        ]
+      ],
+      "score": 0.9649696946144104,
+      "y_pos": 2181,
+      "text": "Chủ trị: Chèn ép thần kinh gây ra đái ỉa không tự chủ, chèn huyệt tại điểm 6 giờ, chữa bệnh\nthần kinh não, điểm 3 – 6 giờ chữa đau thần kinh toạ.",
+      "confidence": 0.9848077618539741
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0234_024_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          2336
+        ],
+        [
+          705,
+          2336
+        ],
+        [
+          705,
+          2382
+        ],
+        [
+          229,
+          2382
+        ]
+      ],
+      "score": 0.9055951833724976,
+      "y_pos": 2336,
+      "text": "125. Kiện tam châm",
+      "confidence": 0.9272302210330963
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_002_text.png",
+      "bbox": [
+        [
+          282,
+          2420
+        ],
+        [
+          2357,
+          2420
+        ],
+        [
+          2357,
+          2539
+        ],
+        [
+          282,
+          2539
+        ]
+      ],
+      "score": 0.9660087823867798,
+      "y_pos": 2420,
+      "text": "Vị trí: 1: Huyệt Kiên ngung. 2: Đầu nếp gấp nách trước lên 1 thốn. 3: Đầu nếp gấp nách sau\nlên 1 thốn.",
+      "confidence": 0.9868562339390798
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_010_text.png",
+      "bbox": [
+        [
+          285,
+          2578
+        ],
+        [
+          1513,
+          2578
+        ],
+        [
+          1513,
+          2628
+        ],
+        [
+          285,
+          2628
+        ]
+      ],
+      "score": 0.9309189915657043,
+      "y_pos": 2578,
+      "text": "Cách châm: Châm đứng hoặc chếch kim 1,5 – 2 thốn.",
+      "confidence": 0.986165417175667
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_006_text.png",
+      "bbox": [
+        [
+          285,
+          2665
+        ],
+        [
+          2076,
+          2665
+        ],
+        [
+          2076,
+          2718
+        ],
+        [
+          285,
+          2718
+        ]
+      ],
+      "score": 0.9338256120681763,
+      "y_pos": 2665,
+      "text": "Chủ tri: Khớp vai và phần mềm quanh khớp vai có bệnh, chi trên tê bại, bại liệt.",
+      "confidence": 0.9718136627499651
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0234_023_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          2754
+        ],
+        [
+          690,
+          2754
+        ],
+        [
+          690,
+          2800
+        ],
+        [
+          229,
+          2800
+        ]
+      ],
+      "score": 0.9062950611114502,
+      "y_pos": 2754,
+      "text": "126. Can tâm châm",
+      "confidence": 0.8723089914572867
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_001_text.png",
+      "bbox": [
+        [
+          283,
+          2838
+        ],
+        [
+          2358,
+          2838
+        ],
+        [
+          2358,
+          2958
+        ],
+        [
+          283,
+          2958
+        ]
+      ],
+      "score": 0.9662516117095947,
+      "y_pos": 2838,
+      "text": "Vị trí: Sau lưng vùng gan, chỗ ấn đau và từ đó sang ngang trái, phải 1 thốn (trái và phải chỗ\nấn đau).",
+      "confidence": 0.9758259539541445
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_017_text.png",
+      "bbox": [
+        [
+          286,
+          2994
+        ],
+        [
+          1249,
+          2994
+        ],
+        [
+          1249,
+          3043
+        ],
+        [
+          286,
+          3043
+        ]
+      ],
+      "score": 0.9257684350013733,
+      "y_pos": 2994,
+      "text": "Cách châm: Châm chếch lên 0.5 – 1 thốn.",
+      "confidence": 0.42363205624789724
+    },
+    {
+      "type": "text",
+      "img_path": "p0234_014_text.png",
+      "bbox": [
+        [
+          287,
+          3084
+        ],
+        [
+          1164,
+          3084
+        ],
+        [
+          1164,
+          3136
+        ],
+        [
+          287,
+          3136
+        ]
+      ],
+      "score": 0.9296256303787231,
+      "y_pos": 3084,
+      "text": "Chủ trị: Gan sưng to và đau vùng gan.",
+      "confidence": 0.7378645019653516
+    },
+    {
+      "type": "footer",
+      "img_path": "p0234_021_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9131914973258972,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0234_027_number.png",
+      "bbox": [
+        [
+          2278,
+          3338
+        ],
+        [
+          2351,
+          3338
+        ],
+        [
+          2351,
+          3378
+        ],
+        [
+          2278,
+          3378
+        ]
+      ],
+      "score": 0.8840060830116272,
+      "y_pos": 3338,
+      "text": "    \n\n    \n\n    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0234.png"
+}

@@ -1,0 +1,422 @@
+{
+  "page_num": 179,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0179_012_header.png",
+      "bbox": [
+        [
+          1172,
+          503
+        ],
+        [
+          1304,
+          503
+        ],
+        [
+          1304,
+          547
+        ],
+        [
+          1172,
+          547
+        ]
+      ],
+      "score": 0.6138425469398499,
+      "y_pos": 503,
+      "text": "    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "doc_title",
+      "img_path": "p0179_015_doc_title.png",
+      "bbox": [
+        [
+          863,
+          636
+        ],
+        [
+          1607,
+          636
+        ],
+        [
+          1607,
+          726
+        ],
+        [
+          863,
+          726
+        ]
+      ],
+      "score": 0.577671468257904,
+      "y_pos": 636,
+      "text": "<b>BÊNH HOC CAN - ĐỞM</b>",
+      "confidence": 0.9697854816913605
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0179_008_paragraph_title.png",
+      "bbox": [
+        [
+          353,
+          917
+        ],
+        [
+          606,
+          917
+        ],
+        [
+          606,
+          980
+        ],
+        [
+          353,
+          980
+        ]
+      ],
+      "score": 0.6907596588134766,
+      "y_pos": 917,
+      "text": "<b>MUC TIÊU</b>",
+      "confidence": 0.9618248442808787
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_013_text.png",
+      "bbox": [
+        [
+          358,
+          1120
+        ],
+        [
+          2128,
+          1120
+        ],
+        [
+          2128,
+          1228
+        ],
+        [
+          358,
+          1228
+        ]
+      ],
+      "score": 0.6093045473098755,
+      "y_pos": 1120,
+      "text": "1. Nêu được tên gọi 8 hội chứng bệnh tạng Can và phủ Đởm do nguyên nhân bên\ntrong và nguyên nhân khác.",
+      "confidence": 0.9957045907904576
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_010_text.png",
+      "bbox": [
+        [
+          351,
+          1254
+        ],
+        [
+          2128,
+          1254
+        ],
+        [
+          2128,
+          1362
+        ],
+        [
+          351,
+          1362
+        ]
+      ],
+      "score": 0.65876704454422,
+      "y_pos": 1254,
+      "text": "2. Giải thích được cơ sở lý luận của các hội chứng (từ nguyên nhân đến cơ chế sinh\nbênh và triêu chứng).",
+      "confidence": 0.9798788352103954
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_014_text.png",
+      "bbox": [
+        [
+          354,
+          1392
+        ],
+        [
+          1351,
+          1392
+        ],
+        [
+          1351,
+          1448
+        ],
+        [
+          354,
+          1448
+        ]
+      ],
+      "score": 0.5865688323974609,
+      "y_pos": 1392,
+      "text": "3. Nêu được pháp trị của 8 hội chứng nói trên.",
+      "confidence": 0.9990841895341873
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_011_text.png",
+      "bbox": [
+        [
+          352,
+          1474
+        ],
+        [
+          2127,
+          1474
+        ],
+        [
+          2127,
+          1585
+        ],
+        [
+          352,
+          1585
+        ]
+      ],
+      "score": 0.6529492139816284,
+      "y_pos": 1474,
+      "text": "4. Nêu được thành phần dược liệu của các bài thuốc và giải thích được cách cấu\ntạo (tác dụng, vai trò của từng vi) của những bài thuốc nêu trên.",
+      "confidence": 0.9928476322108685
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_009_text.png",
+      "bbox": [
+        [
+          351,
+          1611
+        ],
+        [
+          2127,
+          1611
+        ],
+        [
+          2127,
+          1778
+        ],
+        [
+          351,
+          1778
+        ]
+      ],
+      "score": 0.6705474853515625,
+      "y_pos": 1611,
+      "text": "5. Nêu được công thức huyết và giải thích được cách cấu tao (tác dung của huyết)\ncủa công thức huyệt trên dựa theo cách vận dụng du, mộ, nguyên, lạc và ngũ du\nhuyệt cho 6 hôi chứng nói trên.",
+      "confidence": 0.9838038428099098
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0179_002_paragraph_title.png",
+      "bbox": [
+        [
+          348,
+          2068
+        ],
+        [
+          719,
+          2068
+        ],
+        [
+          719,
+          2119
+        ],
+        [
+          348,
+          2119
+        ]
+      ],
+      "score": 0.9363961815834045,
+      "y_pos": 2068,
+      "text": "1. ĐAI CƯƠNG",
+      "confidence": 0.926857488495963
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0179_004_paragraph_title.png",
+      "bbox": [
+        [
+          347,
+          2170
+        ],
+        [
+          1295,
+          2170
+        ],
+        [
+          1295,
+          2219
+        ],
+        [
+          347,
+          2219
+        ]
+      ],
+      "score": 0.9249546527862549,
+      "y_pos": 2170,
+      "text": "1.1. Dựa trên cơ sở hậu thiên bát quái",
+      "confidence": 0.9973613753914833
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_007_text.png",
+      "bbox": [
+        [
+          460,
+          2265
+        ],
+        [
+          2007,
+          2265
+        ],
+        [
+          2007,
+          2316
+        ],
+        [
+          460,
+          2316
+        ]
+      ],
+      "score": 0.8712387084960938,
+      "y_pos": 2265,
+      "text": "Theo Kinh dịch, tạng Can ứng với quẻ Chấn của Hậu thiên bát quái.",
+      "confidence": 0.9997840505927357
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_003_text.png",
+      "bbox": [
+        [
+          457,
+          2347
+        ],
+        [
+          2122,
+          2347
+        ],
+        [
+          2122,
+          2458
+        ],
+        [
+          457,
+          2458
+        ]
+      ],
+      "score": 0.9341455101966858,
+      "y_pos": 2347,
+      "text": "Tượng của quẻ Chấn là tiếng sấm sét, báo hiệu sự xuất hiện của vạn vật,\ncủa sự sống.",
+      "confidence": 0.9950853873430633
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_000_text.png",
+      "bbox": [
+        [
+          406,
+          2491
+        ],
+        [
+          2124,
+          2491
+        ],
+        [
+          2124,
+          2796
+        ],
+        [
+          406,
+          2796
+        ]
+      ],
+      "score": 0.9796894788742065,
+      "y_pos": 2491,
+      "text": "- Là báo hiệu sự đánh thức, khẳng định mùa đông đi qua, mùa xuân tới\nvới sự sống bắt đầu. Do đó tạng Can chủ về mùa xuân, mùa mà vạn vật\ntrỗi dây, cây cỏ bắt đầu xanh tươi, chủ về mộc, chủ về sự sinh. Vì tạng\nThân (ứng với quẻ Khảm) thuộc Thủy, là nguồn gốc của sự sống cho nên\nThận thủy hàm dưỡng Can mộc.",
+      "confidence": 0.9925998939401209
+    },
+    {
+      "type": "text",
+      "img_path": "p0179_001_text.png",
+      "bbox": [
+        [
+          407,
+          2827
+        ],
+        [
+          2123,
+          2827
+        ],
+        [
+          2123,
+          2934
+        ],
+        [
+          407,
+          2934
+        ]
+      ],
+      "score": 0.9489664435386658,
+      "y_pos": 2827,
+      "text": "\n    Quẻ Chấn tượng trưng cho sấm sét, làm chấn động mọi vật, mọi loài. Do\n\nđó Can chủ thinh nô.",
+      "confidence": 0.9895798474692842
+    },
+    {
+      "type": "number",
+      "img_path": "p0179_006_number.png",
+      "bbox": [
+        [
+          353,
+          3110
+        ],
+        [
+          433,
+          3110
+        ],
+        [
+          433,
+          3148
+        ],
+        [
+          353,
+          3148
+        ]
+      ],
+      "score": 0.8747749328613281,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0179_005_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1072,
+          3311
+        ],
+        [
+          1072,
+          3365
+        ],
+        [
+          293,
+          3365
+        ]
+      ],
+      "score": 0.9185282588005066,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.879438819204058
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0179.png"
+}

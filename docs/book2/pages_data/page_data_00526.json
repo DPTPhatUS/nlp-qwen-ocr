@@ -1,0 +1,240 @@
+{
+  "page_num": 526,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0526_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9128571152687073,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0526_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1470,
+          152
+        ],
+        [
+          1470,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.9172142744064331,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9963005375862122
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0526_004_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          324
+        ],
+        [
+          665,
+          324
+        ],
+        [
+          665,
+          380
+        ],
+        [
+          226,
+          380
+        ]
+      ],
+      "score": 0.8181185722351074,
+      "y_pos": 324,
+      "text": "Phần 14. SÁN KHÍ",
+      "confidence": 0.8544835050900778
+    },
+    {
+      "type": "text",
+      "img_path": "p0526_006_text.png",
+      "bbox": [
+        [
+          226,
+          419
+        ],
+        [
+          2068,
+          419
+        ],
+        [
+          2068,
+          479
+        ],
+        [
+          226,
+          479
+        ]
+      ],
+      "score": 0.5254378914833069,
+      "y_pos": 419,
+      "text": "324. Đau sán khí ở rãnh háng: Đề thác huyệt, Cấp mạch, Khúc tuyền, Thái xung.",
+      "confidence": 0.9988764630088324
+    },
+    {
+      "type": "text",
+      "img_path": "p0526_008_text.png",
+      "bbox": [
+        [
+          229,
+          787
+        ],
+        [
+          1500,
+          787
+        ],
+        [
+          1500,
+          841
+        ],
+        [
+          229,
+          841
+        ]
+      ],
+      "score": 0.5073290467262268,
+      "y_pos": 787,
+      "text": "328. Đau sán khí: Khúc tuyền, Cấp mạch, Tam âm giao.",
+      "confidence": 0.9960380086192379
+    },
+    {
+      "type": "text",
+      "img_path": "p0526_007_text.png",
+      "bbox": [
+        [
+          229,
+          880
+        ],
+        [
+          1235,
+          880
+        ],
+        [
+          1235,
+          933
+        ],
+        [
+          229,
+          933
+        ]
+      ],
+      "score": 0.5184036493301392,
+      "y_pos": 880,
+      "text": "329. Sán khí, thiên trụy: Quy lai, Thái xung.",
+      "confidence": 0.9800214031909374
+    },
+    {
+      "type": "text",
+      "img_path": "p0526_005_text.png",
+      "bbox": [
+        [
+          228,
+          971
+        ],
+        [
+          1282,
+          971
+        ],
+        [
+          1282,
+          1024
+        ],
+        [
+          228,
+          1024
+        ]
+      ],
+      "score": 0.541068434715271,
+      "y_pos": 971,
+      "text": "330. Sán khí nổi thành cục: Kỳ môn, Đại đôn.",
+      "confidence": 0.9903822450534158
+    },
+    {
+      "type": "number",
+      "img_path": "p0526_003_number.png",
+      "bbox": [
+        [
+          2319,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2319,
+          3374
+        ]
+      ],
+      "score": 0.8532224893569946,
+      "y_pos": 3337,
+      "text": "    \n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0526_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9066172242164612,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0526.png"
+}

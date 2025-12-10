@@ -1,0 +1,240 @@
+{
+  "page_num": 569,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0569_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9149354696273804,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0569_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1468,
+          152
+        ],
+        [
+          1468,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9187676906585693,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TÂN. KỲ HUYỆT",
+      "confidence": 0.9977769827842713
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0569_004_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          324
+        ],
+        [
+          738,
+          324
+        ],
+        [
+          738,
+          386
+        ],
+        [
+          228,
+          386
+        ]
+      ],
+      "score": 0.6561217308044434,
+      "y_pos": 324,
+      "text": "Phần 16. BÊNH PHỔI",
+      "confidence": 0.8346912711858749
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0569_007_reference_content.png",
+      "bbox": [
+        [
+          232,
+          602
+        ],
+        [
+          1402,
+          602
+        ],
+        [
+          1402,
+          660
+        ],
+        [
+          232,
+          660
+        ]
+      ],
+      "score": 0.573591411113739,
+      "y_pos": 602,
+      "text": "246. Lao phổi: Nạn môn, Lục hoa, Bát hoa, Tứ hoa.",
+      "confidence": 0.9948792913380791
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0569_008_reference_content.png",
+      "bbox": [
+        [
+          231,
+          693
+        ],
+        [
+          1296,
+          693
+        ],
+        [
+          1296,
+          755
+        ],
+        [
+          231,
+          755
+        ]
+      ],
+      "score": 0.5461940765380859,
+      "y_pos": 693,
+      "text": "247. Lao phổi và các loại lao: Kết hạch huyệt.",
+      "confidence": 0.9910886759559313
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0569_005_reference_content.png",
+      "bbox": [
+        [
+          231,
+          782
+        ],
+        [
+          2365,
+          782
+        ],
+        [
+          2365,
+          984
+        ],
+        [
+          231,
+          984
+        ]
+      ],
+      "score": 0.6169096827507019,
+      "y_pos": 782,
+      "text": "248. Viêm phế quản: Định suyễn, Ngoại Định suyễn, Sùng cốt, Nạn môn, Khí suyễn, Cự\nkhuyết du, Lục hoa, Bát hoa, Tứ hoa, Trung tuyền, Tân lặc đầu, Phế nhiệt huyêt, Can\nnhiệt huyệt.",
+      "confidence": 0.9952821037821632
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0569_006_reference_content.png",
+      "bbox": [
+        [
+          230,
+          1200
+        ],
+        [
+          2363,
+          1200
+        ],
+        [
+          2363,
+          1331
+        ],
+        [
+          230,
+          1331
+        ]
+      ],
+      "score": 0.5829082131385803,
+      "y_pos": 1200,
+      "text": "251. Hen: Đàm suyễn huyệt, Xích huyệt, Tân lặc đầu, Tụ tuyền, Nạn môn, Cự khuyết du, Lục\nhoa, Bát hoa, Trung tuyền, Bản môn.",
+      "confidence": 0.9978369317881697
+    },
+    {
+      "type": "number",
+      "img_path": "p0569_003_number.png",
+      "bbox": [
+        [
+          2320,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2320,
+          3374
+        ]
+      ],
+      "score": 0.8597722053527832,
+      "y_pos": 3337,
+      "text": "    \n    \n    \n\n\n\n\n\n\n    \n\n.\n",
+      "confidence": 0.966535243917914
+    },
+    {
+      "type": "footer",
+      "img_path": "p0569_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1325,
+          3341
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.913050651550293,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987242975324955
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0569.png"
+}

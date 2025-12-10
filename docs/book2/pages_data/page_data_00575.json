@@ -1,0 +1,162 @@
+{
+  "page_num": 575,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0575_001_header.png",
+      "bbox": [
+        [
+          1674,
+          144
+        ],
+        [
+          2369,
+          144
+        ],
+        [
+          2369,
+          198
+        ],
+        [
+          1674,
+          198
+        ]
+      ],
+      "score": 0.9099255204200745,
+      "y_pos": 144,
+      "text": "~?    ~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7223383401121412
+    },
+    {
+      "type": "header",
+      "img_path": "p0575_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1467,
+          152
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9178091883659363,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TẬN, KỲ HUYỆT",
+      "confidence": 0.9979400253295898
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0575_004_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          324
+        ],
+        [
+          1195,
+          324
+        ],
+        [
+          1195,
+          382
+        ],
+        [
+          225,
+          382
+        ]
+      ],
+      "score": 0.631219208240509,
+      "y_pos": 324,
+      "text": "Phần 22. KÍ SINH TRÙNG ĐƯỜNG RUỘT",
+      "confidence": 0.8339094247136797
+    },
+    {
+      "type": "text",
+      "img_path": "p0575_005_text.png",
+      "bbox": [
+        [
+          228,
+          603
+        ],
+        [
+          1661,
+          603
+        ],
+        [
+          1661,
+          660
+        ],
+        [
+          228,
+          660
+        ]
+      ],
+      "score": 0.5098329186439514,
+      "y_pos": 603,
+      "text": "292. Bệnh giun móc: Sang Tân môn, Hạ tiêu du, Trung tiêu du.",
+      "confidence": 0.9851151579810727
+    },
+    {
+      "type": "number",
+      "img_path": "p0575_003_number.png",
+      "bbox": [
+        [
+          2316,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3373
+        ],
+        [
+          2316,
+          3373
+        ]
+      ],
+      "score": 0.8593496084213257,
+      "y_pos": 3337,
+      "text": "    \n    \n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0575_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1325,
+          3341
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9020572900772095,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987242975324955
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0575.png"
+}

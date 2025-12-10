@@ -1,0 +1,136 @@
+{
+  "page_num": 2,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0002_004_text.png",
+      "bbox": [
+        [
+          1117,
+          477
+        ],
+        [
+          1361,
+          477
+        ],
+        [
+          1361,
+          548
+        ],
+        [
+          1117,
+          548
+        ]
+      ],
+      "score": 0.6538853049278259,
+      "y_pos": 477,
+      "text": "_    1\n",
+      "confidence": 0.7304110626379648
+    },
+    {
+      "type": "doc_title",
+      "img_path": "p0002_001_doc_title.png",
+      "bbox": [
+        [
+          567,
+          1165
+        ],
+        [
+          1909,
+          1165
+        ],
+        [
+          1909,
+          1606
+        ],
+        [
+          567,
+          1606
+        ]
+      ],
+      "score": 0.7775699496269226,
+      "y_pos": 1165,
+      "text": "BENH HOC\nVÀ ĐIỀU TRI ĐÔNG Y",
+      "confidence": 0.8237926676869393
+    },
+    {
+      "type": "text",
+      "img_path": "p0002_000_text.png",
+      "bbox": [
+        [
+          907,
+          2837
+        ],
+        [
+          1563,
+          2837
+        ],
+        [
+          1563,
+          3010
+        ],
+        [
+          907,
+          3010
+        ]
+      ],
+      "score": 0.9522421956062317,
+      "y_pos": 2837,
+      "text": "NHÀ XUẤT BẢN Y HỌC\nHÀ NÔI - 2007",
+      "confidence": 0.8742595156033834
+    },
+    {
+      "type": "number",
+      "img_path": "p0002_002_number.png",
+      "bbox": [
+        [
+          2099,
+          3114
+        ],
+        [
+          2117,
+          3114
+        ],
+        [
+          2117,
+          3147
+        ],
+        [
+          2099,
+          3147
+        ]
+      ],
+      "score": 0.7328041791915894,
+      "y_pos": 3114,
+      "text": "    \n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "text",
+      "img_path": "p0002_003_text.png",
+      "bbox": [
+        [
+          293,
+          3312
+        ],
+        [
+          1076,
+          3312
+        ],
+        [
+          1076,
+          3366
+        ],
+        [
+          293,
+          3366
+        ]
+      ],
+      "score": 0.6864269971847534,
+      "y_pos": 3312,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.892849258014134
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0002.png"
+}

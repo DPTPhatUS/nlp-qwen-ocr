@@ -1,0 +1,396 @@
+{
+  "page_num": 101,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0101_005_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9241114854812622,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7576541084618795
+    },
+    {
+      "type": "header",
+      "img_path": "p0101_011_header.png",
+      "bbox": [
+        [
+          229,
+          160
+        ],
+        [
+          453,
+          160
+        ],
+        [
+          453,
+          201
+        ],
+        [
+          229,
+          201
+        ]
+      ],
+      "score": 0.9020603895187378,
+      "y_pos": 160,
+      "text": "DU HUYET",
+      "confidence": 0.6098162591457367
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0101_009_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          331
+        ],
+        [
+          1574,
+          331
+        ],
+        [
+          1574,
+          384
+        ],
+        [
+          224,
+          384
+        ]
+      ],
+      "score": 0.9036218523979187,
+      "y_pos": 331,
+      "text": "HUYÊT ĐẶC ĐỊNH (HUYẾT THEO ĐẶC TÍNH NHẤT ĐỊNH)",
+      "confidence": 0.8456556051969528
+    },
+    {
+      "type": "text",
+      "img_path": "p0101_004_text.png",
+      "bbox": [
+        [
+          221,
+          423
+        ],
+        [
+          2358,
+          423
+        ],
+        [
+          2358,
+          608
+        ],
+        [
+          221,
+          608
+        ]
+      ],
+      "score": 0.9732798933982849,
+      "y_pos": 423,
+      "text": "Trong kinh nguyệt có một số huyệt vị có tác dụng trị liệu đặc thù gọi là huyệt đặc định. Do có\nđặc tính nhất định, cho nên nó được quy nạp lại giới thiệu riêng, để trên lâm sàng phát huy tác\ndung được tốt hơn.",
+      "confidence": 0.9975629483527778
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0101_012_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          647
+        ],
+        [
+          600,
+          647
+        ],
+        [
+          600,
+          696
+        ],
+        [
+          226,
+          696
+        ]
+      ],
+      "score": 0.8943023681640625,
+      "y_pos": 647,
+      "text": "A. Nguyên huyệt",
+      "confidence": 0.8712748394292944
+    },
+    {
+      "type": "text",
+      "img_path": "p0101_002_text.png",
+      "bbox": [
+        [
+          271,
+          728
+        ],
+        [
+          2358,
+          728
+        ],
+        [
+          2358,
+          1119
+        ],
+        [
+          271,
+          1119
+        ]
+      ],
+      "score": 0.9838622212409973,
+      "y_pos": 728,
+      "text": "Là chỗ chủ yếu của kinh khí trong các kinh qua lại, những huyệt này hầu hết nằm ở xung\nquanh khớp cổ tay, khớp cổ chân. Do khí của tạng phủ thông qua kinh lạc thường biểu hiện\nở những huyệt này, vì thế nó và tạng phủ coa quan hệ mật thiết vô cùng, mỗi tạng phủ có\nbệnh biến thường thường phản ứng ở nguyên huyệt của kinh đó. Vì thế cho nên người xưa\nđã có câu “Ngũ tạng có bệnh, lấy mười hai nguyên”. Điều đó nói lên rằng nguyên huyệt có\ntác dụng to lớn trong việc chữa bệnh phủ tạng. Huyệt vị của nguyên huyệt ở bảng 5.",
+      "confidence": 0.9992699413642038
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0101_007_figure_title.png",
+      "bbox": [
+        [
+          836,
+          1144
+        ],
+        [
+          1755,
+          1144
+        ],
+        [
+          1755,
+          1191
+        ],
+        [
+          836,
+          1191
+        ]
+      ],
+      "score": 0.9079828262329102,
+      "y_pos": 1144,
+      "text": "Bảng 5 - Huyệt vị và kinh của nguyên huyệt",
+      "confidence": 0.673992625691674
+    },
+    {
+      "type": "table",
+      "img_path": "p0101_001_table.png",
+      "bbox": [
+        [
+          439,
+          1214
+        ],
+        [
+          2151,
+          1214
+        ],
+        [
+          2151,
+          1832
+        ],
+        [
+          439,
+          1832
+        ]
+      ],
+      "score": 0.9884368777275085,
+      "y_pos": 1214,
+      "text": "Tên huyệt    Tên kinh    Tên huyệt    Tên kinh\nThái uyên    Phế kinh    Thần môn    Tâm kinh\nĐại lăng    Tâm bào kinh    Thái bạch    Tỳ kinh\nThái khê    Thận kinh    Thái xung    Can kinh\nUyển cốt    Tiểu trường kinh    Dương trì    Tam tiêu kinh\nHợp cốc    Đại trường kinh    Kinh cốt    Bàng quang kinh\nKhâu khư    Đảm kinh    Xung dương    Vị kinh",
+      "confidence": 0.9128372639544403
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0101_006_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1870
+        ],
+        [
+          513,
+          1870
+        ],
+        [
+          513,
+          1916
+        ],
+        [
+          227,
+          1916
+        ]
+      ],
+      "score": 0.9097606539726257,
+      "y_pos": 1870,
+      "text": "B. Lac huyêt",
+      "confidence": 0.7406984141894749
+    },
+    {
+      "type": "text",
+      "img_path": "p0101_003_text.png",
+      "bbox": [
+        [
+          279,
+          1944
+        ],
+        [
+          2359,
+          1944
+        ],
+        [
+          2359,
+          2174
+        ],
+        [
+          279,
+          2174
+        ]
+      ],
+      "score": 0.9767987728118896,
+      "y_pos": 1944,
+      "text": "\"Lạc\" là ý nghĩa liên lạc, thông qua lạc huyệt có thể làm cho 12 kinh mạch có quan hệ biểu lý\nhai kinh, vì vậy gọi là lạc huyệt. Vì lạc huyệt có tác dụng liên quan, cho nên 12 kinh mạch\nmới thành một vòng đai kín, và dùng vào trị bệnh ở hai kinh biểu lý liên quan có bệnh. 14\nkinh lạc đều có lạc huyệt, riêng tỳ kinh có hai lạc huyệt, gộp lại có 15 lạc huyệt.",
+      "confidence": 0.9745750639100841
+    },
+    {
+      "type": "text",
+      "img_path": "p0101_014_text.png",
+      "bbox": [
+        [
+          284,
+          2209
+        ],
+        [
+          1016,
+          2209
+        ],
+        [
+          1016,
+          2260
+        ],
+        [
+          284,
+          2260
+        ]
+      ],
+      "score": 0.7415214776992798,
+      "y_pos": 2209,
+      "text": "Huyệt vị của lạc huyệt ở bảng 6.",
+      "confidence": 0.9919906942283406
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0101_008_figure_title.png",
+      "bbox": [
+        [
+          878,
+          2279
+        ],
+        [
+          1711,
+          2279
+        ],
+        [
+          1711,
+          2327
+        ],
+        [
+          878,
+          2327
+        ]
+      ],
+      "score": 0.905203640460968,
+      "y_pos": 2279,
+      "text": "Bảng 6 - Huyệt vị và kinh của Lạc huyệt",
+      "confidence": 0.5614439757858835
+    },
+    {
+      "type": "table",
+      "img_path": "p0101_000_table.png",
+      "bbox": [
+        [
+          439,
+          2344
+        ],
+        [
+          2151,
+          2344
+        ],
+        [
+          2151,
+          3143
+        ],
+        [
+          439,
+          3143
+        ]
+      ],
+      "score": 0.9889391660690308,
+      "y_pos": 2344,
+      "text": "Tên huyệt    Tên kinh    Tên huyệt    Tên kinh\nNội quan    Tâm bào kinh    Liệt khuyết    Phế kinh\nThông lý    Tâm kinh    Đại chung    Thận kinh\nCông tôn    Tỳ kinh    Chi chính    Tiếu trường kinh\nLãi câu    Can kinh\nNgoại quan    Tam tiêu kinh    Thiên lịch    Đại trường kinh\nPhi dương    Bàng quang kinh    Quang minh    Đảm kinh\nPhong long    Vị kinh    Trường cường    Đốc mạch\nCưu vỹ    Nhâm mạch    Đại bao    Tỳ kinh đại lạc",
+      "confidence": 0.9222502050906725
+    },
+    {
+      "type": "footer",
+      "img_path": "p0101_010_footer.png",
+      "bbox": [
+        [
+          229,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          229,
+          3387
+        ]
+      ],
+      "score": 0.9024549126625061,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982608286839612
+    },
+    {
+      "type": "number",
+      "img_path": "p0101_013_number.png",
+      "bbox": [
+        [
+          2332,
+          3341
+        ],
+        [
+          2358,
+          3341
+        ],
+        [
+          2358,
+          3377
+        ],
+        [
+          2332,
+          3377
+        ]
+      ],
+      "score": 0.8178470134735107,
+      "y_pos": 3341,
+      "text": "\n    \n    \n\n\n\n\n\n    \n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0101.png"
+}

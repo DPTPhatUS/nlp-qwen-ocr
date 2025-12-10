@@ -1,0 +1,240 @@
+{
+  "page_num": 527,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0527_001_header.png",
+      "bbox": [
+        [
+          1674,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1674,
+          198
+        ]
+      ],
+      "score": 0.9180115461349487,
+      "y_pos": 144,
+      "text": "~?    ~ 7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6846830403757475
+    },
+    {
+      "type": "header",
+      "img_path": "p0527_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9199100136756897,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9977066326141357
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0527_004_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          324
+        ],
+        [
+          1065,
+          324
+        ],
+        [
+          1065,
+          383
+        ],
+        [
+          225,
+          383
+        ]
+      ],
+      "score": 0.837315559387207,
+      "y_pos": 324,
+      "text": "Phần 15. BỆNH TIÊU HÓA, TỲ VẬN",
+      "confidence": 0.995143499225378
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0527_006_reference_content.png",
+      "bbox": [
+        [
+          230,
+          508
+        ],
+        [
+          2361,
+          508
+        ],
+        [
+          2361,
+          641
+        ],
+        [
+          230,
+          641
+        ]
+      ],
+      "score": 0.521420955657959,
+      "y_pos": 508,
+      "text": "332. Tỳ vị hư nhược, cảm thấp thành mệt yếu, mồ hôi ra nhiều, ăn uống trở ngại: Tam lý,\nKhí xung (đều chích máu).",
+      "confidence": 0.7422690294307815
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0527_005_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1223
+        ],
+        [
+          1230,
+          1223
+        ],
+        [
+          1230,
+          1283
+        ],
+        [
+          231,
+          1283
+        ]
+      ],
+      "score": 0.525656521320343,
+      "y_pos": 1223,
+      "text": "339. Phù thũng: Âm lăng tuyền, Thủy phân.",
+      "confidence": 0.981854707695717
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0527_008_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1316
+        ],
+        [
+          1399,
+          1316
+        ],
+        [
+          1399,
+          1377
+        ],
+        [
+          232,
+          1377
+        ]
+      ],
+      "score": 0.5168378949165344,
+      "y_pos": 1316,
+      "text": "340. Các chứng đàm ẩm: Trung quản, Phong long.",
+      "confidence": 0.993023099998633
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0527_007_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1590
+        ],
+        [
+          1273,
+          1590
+        ],
+        [
+          1273,
+          1651
+        ],
+        [
+          231,
+          1651
+        ]
+      ],
+      "score": 0.5210546851158142,
+      "y_pos": 1590,
+      "text": "343. Hay ợ: Thường khâu, U môn, Thông cốc.",
+      "confidence": 0.9983498467640444
+    },
+    {
+      "type": "number",
+      "img_path": "p0527_003_number.png",
+      "bbox": [
+        [
+          2319,
+          3337
+        ],
+        [
+          2369,
+          3337
+        ],
+        [
+          2369,
+          3374
+        ],
+        [
+          2319,
+          3374
+        ]
+      ],
+      "score": 0.8603436946868896,
+      "y_pos": 3337,
+      "text": "    \n    \n\n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0527_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1325,
+          3341
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9177048802375793,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987242975324955
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0527.png"
+}

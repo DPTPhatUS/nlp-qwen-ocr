@@ -1,0 +1,396 @@
+{
+  "page_num": 530,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0530_001_header.png",
+      "bbox": [
+        [
+          1674,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1674,
+          198
+        ]
+      ],
+      "score": 0.9125490188598633,
+      "y_pos": 144,
+      "text": "~?    ~ 7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6846830403757475
+    },
+    {
+      "type": "header",
+      "img_path": "p0530_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9140904545783997,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9977066326141357
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0530_014_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          324
+        ],
+        [
+          966,
+          324
+        ],
+        [
+          966,
+          387
+        ],
+        [
+          227,
+          387
+        ]
+      ],
+      "score": 0.5031209588050842,
+      "y_pos": 324,
+      "text": "Phần 17. BỆNH ĐƯỜNG RUỘT",
+      "confidence": 0.8722892518226917
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0530_009_reference_content.png",
+      "bbox": [
+        [
+          232,
+          509
+        ],
+        [
+          1247,
+          509
+        ],
+        [
+          1247,
+          574
+        ],
+        [
+          232,
+          574
+        ]
+      ],
+      "score": 0.5343772172927856,
+      "y_pos": 509,
+      "text": "384. Bệnh đường ruột: Khúc trì, Túc tam lý.",
+      "confidence": 0.9850522054566277
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0530_010_reference_content.png",
+      "bbox": [
+        [
+          231,
+          600
+        ],
+        [
+          2184,
+          600
+        ],
+        [
+          2184,
+          667
+        ],
+        [
+          231,
+          667
+        ]
+      ],
+      "score": 0.5298011898994446,
+      "y_pos": 600,
+      "text": "385. Bệnh đường ruột, có thể làm tăng giảm nhu động ruột: Thủ tam lý, Túc tam lý.",
+      "confidence": 0.9995869254491415
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0530_006_reference_content.png",
+      "bbox": [
+        [
+          232,
+          692
+        ],
+        [
+          1495,
+          692
+        ],
+        [
+          1495,
+          757
+        ],
+        [
+          232,
+          757
+        ]
+      ],
+      "score": 0.5653972029685974,
+      "y_pos": 692,
+      "text": "386. Rối loạn tiêu hóa: Duy bào, Thiên khu, Túc tam lý.",
+      "confidence": 0.9965560268937496
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0530_005_reference_content.png",
+      "bbox": [
+        [
+          233,
+          784
+        ],
+        [
+          1810,
+          784
+        ],
+        [
+          1810,
+          848
+        ],
+        [
+          233,
+          848
+        ]
+      ],
+      "score": 0.5666748285293579,
+      "y_pos": 784,
+      "text": "387. Nôn mửa, quặn bụng nôn nao (hoắc loạn): Thiên khu, Chi câu.",
+      "confidence": 0.9994440963774016
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0530_007_reference_content.png",
+      "bbox": [
+        [
+          233,
+          876
+        ],
+        [
+          2346,
+          876
+        ],
+        [
+          2346,
+          942
+        ],
+        [
+          233,
+          942
+        ]
+      ],
+      "score": 0.5602880716323853,
+      "y_pos": 876,
+      "text": "388. Viêm đường ruột cấp tính: Thần khuyết, Thiên khu, Thượng quản, Nội quan, Túc tam lý.",
+      "confidence": 0.9978680034260173
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0530_004_reference_content.png",
+      "bbox": [
+        [
+          232,
+          969
+        ],
+        [
+          1852,
+          969
+        ],
+        [
+          1852,
+          1033
+        ],
+        [
+          232,
+          1033
+        ]
+      ],
+      "score": 0.5720457434654236,
+      "y_pos": 969,
+      "text": "389. Viêm đường ruột mạn tính: Công tôn, Nội quan, Tê biên tứ huyệt.",
+      "confidence": 0.9990521047796522
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0530_012_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1059
+        ],
+        [
+          2238,
+          1059
+        ],
+        [
+          2238,
+          1124
+        ],
+        [
+          232,
+          1124
+        ]
+      ],
+      "score": 0.5215417146682739,
+      "y_pos": 1059,
+      "text": "390. Viêm đường ruột mạn tính: Cứu các huyệt: Thần khuyết, Thiên khu, Đại trường du.",
+      "confidence": 0.9987812118474827
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0530_011_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1152
+        ],
+        [
+          1806,
+          1152
+        ],
+        [
+          1806,
+          1216
+        ],
+        [
+          232,
+          1216
+        ]
+      ],
+      "score": 0.5293453931808472,
+      "y_pos": 1152,
+      "text": "391. Viêm ruột mạn tính: Chương môn, Tỳ du, Thiên khu, Túc tam lý.",
+      "confidence": 0.9983640523517833
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0530_008_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1245
+        ],
+        [
+          1517,
+          1245
+        ],
+        [
+          1517,
+          1308
+        ],
+        [
+          233,
+          1308
+        ]
+      ],
+      "score": 0.5598059296607971,
+      "y_pos": 1245,
+      "text": "392. Viêm ruột mạn tính: Quan nguyên, Tỳ du, Thận du.",
+      "confidence": 0.9993334510109642
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0530_013_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1425
+        ],
+        [
+          1330,
+          1425
+        ],
+        [
+          1330,
+          1489
+        ],
+        [
+          232,
+          1489
+        ]
+      ],
+      "score": 0.5043603181838989,
+      "y_pos": 1425,
+      "text": "394. Viêm ruột thừa: Lệ đoài, Lan vĩ, Thiên khu.",
+      "confidence": 0.9725021493434906
+    },
+    {
+      "type": "number",
+      "img_path": "p0530_003_number.png",
+      "bbox": [
+        [
+          2316,
+          3337
+        ],
+        [
+          2364,
+          3337
+        ],
+        [
+          2364,
+          3374
+        ],
+        [
+          2316,
+          3374
+        ]
+      ],
+      "score": 0.8539331555366516,
+      "y_pos": 3337,
+      "text": "\n    \n\n\n\n\n\n\n\n\n\n\n    \n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0530_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9115627408027649,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0530.png"
+}

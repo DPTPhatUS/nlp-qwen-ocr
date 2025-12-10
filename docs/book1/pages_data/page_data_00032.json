@@ -1,0 +1,396 @@
+{
+  "page_num": 32,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0032_010_text.png",
+      "bbox": [
+        [
+          463,
+          448
+        ],
+        [
+          1366,
+          448
+        ],
+        [
+          1366,
+          501
+        ],
+        [
+          463,
+          501
+        ]
+      ],
+      "score": 0.8953095078468323,
+      "y_pos": 448,
+      "text": "Bệnh lý của Dương minh bao gồm 2 thể",
+      "confidence": 0.9966556273008648
+    },
+    {
+      "type": "text",
+      "img_path": "p0032_009_text.png",
+      "bbox": [
+        [
+          408,
+          534
+        ],
+        [
+          1501,
+          534
+        ],
+        [
+          1501,
+          583
+        ],
+        [
+          408,
+          583
+        ]
+      ],
+      "score": 0.9035575985908508,
+      "y_pos": 534,
+      "text": "- Kinh chứng là chỉ nhiệt tà bao phủ toàn thân.",
+      "confidence": 0.7915321515530956
+    },
+    {
+      "type": "text",
+      "img_path": "p0032_005_text.png",
+      "bbox": [
+        [
+          407,
+          618
+        ],
+        [
+          1497,
+          618
+        ],
+        [
+          1497,
+          668
+        ],
+        [
+          407,
+          668
+        ]
+      ],
+      "score": 0.9195380210876465,
+      "y_pos": 618,
+      "text": "- Phủ chứng là chỉ Vị trường táo nhiệt, cầu táo.",
+      "confidence": 0.6771626698970795
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0032_006_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          728
+        ],
+        [
+          1082,
+          728
+        ],
+        [
+          1082,
+          776
+        ],
+        [
+          344,
+          776
+        ]
+      ],
+      "score": 0.9092826247215271,
+      "y_pos": 728,
+      "text": "2.2.2.1. Dương minh kinh chứng",
+      "confidence": 0.9623924531042576
+    },
+    {
+      "type": "text",
+      "img_path": "p0032_003_text.png",
+      "bbox": [
+        [
+          406,
+          821
+        ],
+        [
+          2121,
+          821
+        ],
+        [
+          2121,
+          931
+        ],
+        [
+          406,
+          931
+        ]
+      ],
+      "score": 0.9603716135025024,
+      "y_pos": 821,
+      "text": "- Sốt cao, đổ mồ hôi, khát thích uống nước, tâm phiền, rêu vàng khô, mạch\nhồng đại.",
+      "confidence": 0.8997205367142505
+    },
+    {
+      "type": "text",
+      "img_path": "p0032_008_text.png",
+      "bbox": [
+        [
+          407,
+          963
+        ],
+        [
+          1552,
+          963
+        ],
+        [
+          1552,
+          1013
+        ],
+        [
+          407,
+          1013
+        ]
+      ],
+      "score": 0.9053784012794495,
+      "y_pos": 963,
+      "text": "- Điều tri: thanh nhiệt sinh tân. (Bach hổ thang)",
+      "confidence": 0.418566343831081
+    },
+    {
+      "type": "text",
+      "img_path": "p0032_004_text.png",
+      "bbox": [
+        [
+          462,
+          1047
+        ],
+        [
+          2124,
+          1047
+        ],
+        [
+          2124,
+          1157
+        ],
+        [
+          462,
+          1157
+        ]
+      ],
+      "score": 0.9595467448234558,
+      "y_pos": 1047,
+      "text": "+ Bài thuốc Bạch hổ thang có tác dụng chữa trị bệnh ngoại tà nhập vàc\nlý, thích hợp với trường hợp kinh Dương minh bị nhiệt thậm.",
+      "confidence": 0.9959198972818841
+    },
+    {
+      "type": "text",
+      "img_path": "p0032_011_text.png",
+      "bbox": [
+        [
+          463,
+          1187
+        ],
+        [
+          1749,
+          1187
+        ],
+        [
+          1749,
+          1237
+        ],
+        [
+          463,
+          1237
+        ]
+      ],
+      "score": 0.8847798109054565,
+      "y_pos": 1187,
+      "text": "Kha Vận Bá giải thích bài thuốc Bạch hổ thang như sau:",
+      "confidence": 0.9997815734573773
+    },
+    {
+      "type": "text",
+      "img_path": "p0032_002_text.png",
+      "bbox": [
+        [
+          340,
+          1269
+        ],
+        [
+          2130,
+          1269
+        ],
+        [
+          2130,
+          1666
+        ],
+        [
+          340,
+          1666
+        ]
+      ],
+      "score": 0.9831035137176514,
+      "y_pos": 1269,
+      "text": "\"Thạch cao vị tân hàn; tân có thể giải nhiệt ở cơ nhuc, hàn có thể thắng\nhỏa ở Vi phủ. Tính của hàn là trầm, giáng; vị tân có thể chạy ra ngoài; nó\nđóng vai Quân với vai trò nội ngoại của nó. Tri mẫu khổ nhuân; khổ dùng để\ntả hỏa; nhuân đóng vai tư nhuân táo khí; dùng nó dóng vai Thần. Dùng Cam\nthảo, Cánh mễ điều hòa trung cung, vả lại nó có thể tả hỏa từ trong Thổ. Thổ\nđóng vai ruông nương cày cấy, cả hai hòa hoãn được cái hàn trong hàn dược,\nhóa được cái khổ trong khổ dược...\"",
+      "confidence": 0.994747262228634
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0032_014_figure_title.png",
+      "bbox": [
+        [
+          463,
+          1698
+        ],
+        [
+          1623,
+          1698
+        ],
+        [
+          1623,
+          1748
+        ],
+        [
+          463,
+          1748
+        ]
+      ],
+      "score": 0.6263545751571655,
+      "y_pos": 1698,
+      "text": "+ Phân tích bài thuốc Bạch hổ thang (Phép thanh)",
+      "confidence": 0.9958882427215576
+    },
+    {
+      "type": "table",
+      "img_path": "p0032_001_table.png",
+      "bbox": [
+        [
+          351,
+          1799
+        ],
+        [
+          2124,
+          1799
+        ],
+        [
+          2124,
+          2241
+        ],
+        [
+          351,
+          2241
+        ]
+      ],
+      "score": 0.9885737895965576,
+      "y_pos": 1799,
+      "text": "Vi thuốc    Dươc lý Đông y\nSinh thạch cao    Vị ngọt, cay, tính hàn. Vào 3 kinh Phế, Vị, Tam tiêu. Thanh nhiệt, giáng\nhỏa, trừ phiền, chỉ khát\nTri mẫu    Vi đẳng, lanh. Tư Thân, tả hỏa\nCam thảo    Ngot ôn. Hòa trung bổ thổ. Điều hòa các vi thuốc\nCánh mễ    Ích Vi, sinh tân",
+      "confidence": 0.9088604598409397
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0032_013_figure_title.png",
+      "bbox": [
+        [
+          464,
+          2298
+        ],
+        [
+          1098,
+          2298
+        ],
+        [
+          1098,
+          2350
+        ],
+        [
+          464,
+          2350
+        ]
+      ],
+      "score": 0.6812127828598022,
+      "y_pos": 2298,
+      "text": "+ Công thức huyệt sử dụng",
+      "confidence": 0.9977158683317678
+    },
+    {
+      "type": "table",
+      "img_path": "p0032_000_table.png",
+      "bbox": [
+        [
+          351,
+          2404
+        ],
+        [
+          2124,
+          2404
+        ],
+        [
+          2124,
+          2987
+        ],
+        [
+          351,
+          2987
+        ]
+      ],
+      "score": 0.989177405834198,
+      "y_pos": 2404,
+      "text": "Tên huyệt    Cơ sở lý luận    Tác dụng điều trị\nKhúc trì    Phối hợp Khúc trì, Đại chùy, Hợp cốc là kinh    Ha sốt\nnghiệm để trị cảm sốt\nHợp cốc\nHội của mạch Đốc và 6 dương kinh. Chủ biểu.    Kinh nghiêm hiên nay, phối\nhợp Đại chùy và Khúc trì\nĐại chùy    Mình nóng, mồ hôi tư ra: (tả sau bổ)\nchữa sốt cao\nSợ lạnh, không có mồ hôi: (bổ sau tả)\nThập tuyên    Kỳ huyệt. Kinh nghiệm chữa sốt cao bằng    Ha sốt\ncách thích năn ra ít máu",
+      "confidence": 0.9527491590154616
+    },
+    {
+      "type": "number",
+      "img_path": "p0032_012_number.png",
+      "bbox": [
+        [
+          2069,
+          3111
+        ],
+        [
+          2115,
+          3111
+        ],
+        [
+          2115,
+          3147
+        ],
+        [
+          2069,
+          3147
+        ]
+      ],
+      "score": 0.8481570482254028,
+      "y_pos": 3111,
+      "text": "\n    \n        \n    \n\n\n    ۰\n    \n\n\n",
+      "confidence": 0.9764412641525269
+    },
+    {
+      "type": "footer",
+      "img_path": "p0032_007_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.9067232012748718,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8789173466818673
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0032.png"
+}

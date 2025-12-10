@@ -1,0 +1,422 @@
+{
+  "page_num": 617,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0617_008_header.png",
+      "bbox": [
+        [
+          1674,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          196
+        ],
+        [
+          1674,
+          196
+        ]
+      ],
+      "score": 0.9158111810684204,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7277085834315845
+    },
+    {
+      "type": "header",
+      "img_path": "p0617_010_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9078425765037537,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9946049864475544
+    },
+    {
+      "type": "text",
+      "img_path": "p0617_003_text.png",
+      "bbox": [
+        [
+          298,
+          307
+        ],
+        [
+          2358,
+          307
+        ],
+        [
+          2358,
+          503
+        ],
+        [
+          298,
+          503
+        ]
+      ],
+      "score": 0.9747260212898254,
+      "y_pos": 307,
+      "text": "• Các kinh còn lại có nhiệt độ bên trái và phải không mang dấu là các kinh chỉ có biến đổi\nsinh lý cho phép. Số tương quan trong trường hợp này có thể = 0 hoặc ≠ 0 và có mang\ndấu (+ hoặc -).",
+      "confidence": 0.9795004118989996
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0617_009_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          542
+        ],
+        [
+          1576,
+          542
+        ],
+        [
+          1576,
+          594
+        ],
+        [
+          224,
+          594
+        ]
+      ],
+      "score": 0.9112080931663513,
+      "y_pos": 542,
+      "text": "3. Phân định, đánh giá bệnh lý hay sinh lý cho từng kinh",
+      "confidence": 0.997592046343047
+    },
+    {
+      "type": "text",
+      "img_path": "p0617_007_text.png",
+      "bbox": [
+        [
+          276,
+          633
+        ],
+        [
+          2360,
+          633
+        ],
+        [
+          2360,
+          754
+        ],
+        [
+          276,
+          754
+        ]
+      ],
+      "score": 0.948868989944458,
+      "y_pos": 633,
+      "text": "a. Các kinh đã được xác định là lý (nhiệt hay hàn) đương nhiên là các kinh có bệnh lý\nvà cần phải xử trí.",
+      "confidence": 0.9979764302375869
+    },
+    {
+      "type": "text",
+      "img_path": "p0617_004_text.png",
+      "bbox": [
+        [
+          279,
+          794
+        ],
+        [
+          2360,
+          794
+        ],
+        [
+          2360,
+          991
+        ],
+        [
+          279,
+          991
+        ]
+      ],
+      "score": 0.9722137451171875,
+      "y_pos": 794,
+      "text": "Trong trường hợp này, giá trị tuyệt đối của số tương quan thể hiện mức độ nặng nhẹ của\nbệnh lý (giá trị tuyệt đối càng lớn bệnh lý càng nặng hay là bệnh lý chính), và dấu của số\ntương quan thể hiện bệnh lý thuộc hàn (dấu -) hay nhiệt (dấu +).",
+      "confidence": 0.9961203887345343
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0617_013_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          1028
+        ],
+        [
+          1539,
+          1028
+        ],
+        [
+          1539,
+          1079
+        ],
+        [
+          283,
+          1079
+        ]
+      ],
+      "score": 0.892431378364563,
+      "y_pos": 1028,
+      "text": "b. Các kinh đã được xác đinh là biểu (hàn hay nhiệt)",
+      "confidence": 0.9986035956276788
+    },
+    {
+      "type": "text",
+      "img_path": "p0617_000_text.png",
+      "bbox": [
+        [
+          278,
+          1118
+        ],
+        [
+          2359,
+          1118
+        ],
+        [
+          2359,
+          1809
+        ],
+        [
+          278,
+          1809
+        ]
+      ],
+      "score": 0.9872079491615295,
+      "y_pos": 1118,
+      "text": "Để xác định xem mức độ biểu đã đến mức là bệnh lý hay chưa, ta dựa vào số tương quan\ncủa kinh đó. Được xem là bệnh lý khi giá trị tuyệt đối của số tương quan từ gần bằng cho\nđến lớn hơn sai số giới hạn. Dấu của số tương quan trong trường hợp này, cũng thể hiện\nbệnh lý đó thuộc hàn hay nhiệt. Khi biểu đã đến mức độ bệnh lý nặng (giá trị tuyệt đối của số\ntương quan lớn hơn sai số giới hạn quá nhiều) được gọi là “cận lý nhiệt (hay hàn)” hoặc “cận\nnhiệt (hay hàn)\". Trường hợp giá trị tuyệt đối của số tương quan nhỏ hơn sai số giới hạn\nhoặc = 0 nhưng có nhiệt độ bên trái và phải trái dấu nhau (dấu + và dấu -, khi đó ta thấy độ\ndao động nhiệt của kinh ở cột 12, 12' luôn lớn hơn 2 lần sai số giới hạn) thì cũng được xem\nlà bệnh lý. Kinh có biểu đạt mức bệnh lý cần chú ý theo dõi biến đổi, hoặc nếu cần phải xử trí\nvào đường kinh đó ở bên có biểu.",
+      "confidence": 0.9986564872440213
+    },
+    {
+      "type": "text",
+      "img_path": "p0617_006_text.png",
+      "bbox": [
+        [
+          280,
+          1847
+        ],
+        [
+          2358,
+          1847
+        ],
+        [
+          2358,
+          1972
+        ],
+        [
+          280,
+          1972
+        ]
+      ],
+      "score": 0.9540833234786987,
+      "y_pos": 1847,
+      "text": "Các kinh có biểu nhưng chưa đạt đến mức bệnh lý, được xem là biến đổi sinh lý trong phạm\nvi cho phép.",
+      "confidence": 0.9960504806230939
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0617_011_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          2010
+        ],
+        [
+          1120,
+          2010
+        ],
+        [
+          1120,
+          2063
+        ],
+        [
+          284,
+          2063
+        ]
+      ],
+      "score": 0.9019821286201477,
+      "y_pos": 2010,
+      "text": "c. Các kinh không thuộc biểu và lý",
+      "confidence": 0.9885859307315614
+    },
+    {
+      "type": "text",
+      "img_path": "p0617_002_text.png",
+      "bbox": [
+        [
+          280,
+          2102
+        ],
+        [
+          2359,
+          2102
+        ],
+        [
+          2359,
+          2436
+        ],
+        [
+          280,
+          2436
+        ]
+      ],
+      "score": 0.9813501834869385,
+      "y_pos": 2102,
+      "text": "Đây là các kinh có nhiệt độ bên trái và phải đều không thuộc hàn hay nhiệt (đều không mang\ndấu). Các kinh này không có bệnh lý, biến đổi nhiệt của kinh nằm trong phạm vi biến đổi\nsinh lý cho phép. Số tương quan của các kinh này có giá trị tuyệt đối luôn nhỏ hơn sai số giới\nhạn hoặc =0 và dấu của số tương quan thể hiện biến đổi sinh lý của kinh mang tính hàn hay\nnhiêt.",
+      "confidence": 0.9952750727031621
+    },
+    {
+      "type": "text",
+      "img_path": "p0617_001_text.png",
+      "bbox": [
+        [
+          278,
+          2476
+        ],
+        [
+          2360,
+          2476
+        ],
+        [
+          2360,
+          2816
+        ],
+        [
+          278,
+          2816
+        ]
+      ],
+      "score": 0.9819195866584778,
+      "y_pos": 2476,
+      "text": "Như vậy chỉ số “số tương quan” là một chỉ số quan trọng, dựa vào đó để phân định,\nđã là bệnh lý hay còn ở mức sinh lý, cho biết sự biến đổi của từng kinh và bệnh lý hay\nsinh lý đó thuộc hàn hay nhiệt. Số tương quan sẽ còn được dùng trong việc theo dõi chuyển\nbiến mức độ bệnh lý hay sinh lý trên các kinh của từng người và lập bảng mô hình chỉ số\nnhiệt kinh lạc cho từng bệnh chứng (trình bày trong các phần sau).",
+      "confidence": 0.9969725419675971
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0617_015_paragraph_title.png",
+      "bbox": [
+        [
+          219,
+          2851
+        ],
+        [
+          2359,
+          2851
+        ],
+        [
+          2359,
+          2976
+        ],
+        [
+          219,
+          2976
+        ]
+      ],
+      "score": 0.6331009864807129,
+      "y_pos": 2851,
+      "text": "4. Ví dụ cụ thể Bảng chỉ số nhiệt kinh lạc của người bệnh đầy đủ, có phân định bệnh lý;\nhàn nhiệt, biểu lý",
+      "confidence": 0.9901590033026224
+    },
+    {
+      "type": "text",
+      "img_path": "p0617_005_text.png",
+      "bbox": [
+        [
+          279,
+          3013
+        ],
+        [
+          2358,
+          3013
+        ],
+        [
+          2358,
+          3141
+        ],
+        [
+          279,
+          3141
+        ]
+      ],
+      "score": 0.9583413600921631,
+      "y_pos": 3013,
+      "text": "Ví dụ: Trong ví dụ trên, kết quả của việc phân định đánh giá hàn nhiệt, biểu lý, được thể hiện\nbằng dấu +, - trong bảng, cuối bảng có phần tiểu kết nhận định.",
+      "confidence": 0.992232973047365
+    },
+    {
+      "type": "number",
+      "img_path": "p0617_014_number.png",
+      "bbox": [
+        [
+          2307,
+          3336
+        ],
+        [
+          2355,
+          3336
+        ],
+        [
+          2355,
+          3375
+        ],
+        [
+          2307,
+          3375
+        ]
+      ],
+      "score": 0.8472915291786194,
+      "y_pos": 3336,
+      "text": "    \n    \n\n    \n\n\n\n۰\n٠.\n\n\n\n",
+      "confidence": 0.9374514576047659
+    },
+    {
+      "type": "footer",
+      "img_path": "p0617_012_footer.png",
+      "bbox": [
+        [
+          227,
+          3339
+        ],
+        [
+          1323,
+          3339
+        ],
+        [
+          1323,
+          3388
+        ],
+        [
+          227,
+          3388
+        ]
+      ],
+      "score": 0.897628664970398,
+      "y_pos": 3339,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.998733752178696
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0617.png"
+}

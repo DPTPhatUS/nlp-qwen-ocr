@@ -1,0 +1,682 @@
+{
+  "page_num": 506,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0506_009_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2370,
+          143
+        ],
+        [
+          2370,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9265738725662231,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7452945528285844
+    },
+    {
+      "type": "header",
+      "img_path": "p0506_013_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1449,
+          150
+        ],
+        [
+          1449,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9162682294845581,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỬU",
+      "confidence": 0.9870374363202316
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0506_011_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          330
+        ],
+        [
+          971,
+          330
+        ],
+        [
+          971,
+          379
+        ],
+        [
+          226,
+          379
+        ]
+      ],
+      "score": 0.916679859161377,
+      "y_pos": 330,
+      "text": "75. Việm màng não Nhật Bản B",
+      "confidence": 0.9943691412607829
+    },
+    {
+      "type": "text",
+      "img_path": "p0506_000_text.png",
+      "bbox": [
+        [
+          221,
+          419
+        ],
+        [
+          2359,
+          419
+        ],
+        [
+          2359,
+          688
+        ],
+        [
+          221,
+          688
+        ]
+      ],
+      "score": 0.9813610911369324,
+      "y_pos": 419,
+      "text": "Bệnh viêm màng não Nhật Bản B có tính mùa vụ nghiêm ngặt. Thường phát về mùa hạ khí trời\nnóng nực. Đông y qui về phạm vi ôn bệnh, là do tà thử ôn từ biểu vào lý, thiêu đốt ở giữa phần\nkhí và doanh, phát bệnh tiến triển rất nhanh. Nếu không chữa chạy kịp thời có thể gây ra hội\nchứng nội bế, ngoại thoát<sup>(*)</sup>, để lại những di chứng nghiêm trọng.",
+      "confidence": 0.998413388788869
+    },
+    {
+      "type": "text",
+      "img_path": "p0506_005_text.png",
+      "bbox": [
+        [
+          222,
+          723
+        ],
+        [
+          2361,
+          723
+        ],
+        [
+          2361,
+          849
+        ],
+        [
+          222,
+          849
+        ]
+      ],
+      "score": 0.963610053062439,
+      "y_pos": 723,
+      "text": "Cần chú ý: Bệnh phát rất nhanh với các triệu chứng: Sốt cao, hôn mê, co giật, nếu kiểm tra kỹ\nsẽ thấy cổ cứng, nghiêng lệch.",
+      "confidence": 0.9962323731203613
+    },
+    {
+      "type": "text",
+      "img_path": "p0506_018_text.png",
+      "bbox": [
+        [
+          223,
+          886
+        ],
+        [
+          2297,
+          886
+        ],
+        [
+          2297,
+          940
+        ],
+        [
+          223,
+          940
+        ]
+      ],
+      "score": 0.905411422252655,
+      "y_pos": 886,
+      "text": "Bệnh này cần xử trí cấp cứu bằng Tây y, cách chữa theo Đông y ở đây là để tham khảo khi cần.",
+      "confidence": 0.9996608216711815
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0506_024_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          981
+        ],
+        [
+          572,
+          981
+        ],
+        [
+          572,
+          1025
+        ],
+        [
+          285,
+          1025
+        ]
+      ],
+      "score": 0.8378949761390686,
+      "y_pos": 981,
+      "text": "Cách chữa:",
+      "confidence": 0.8575232823689779
+    },
+    {
+      "type": "text",
+      "img_path": "p0506_023_text.png",
+      "bbox": [
+        [
+          285,
+          1070
+        ],
+        [
+          1414,
+          1070
+        ],
+        [
+          1414,
+          1121
+        ],
+        [
+          285,
+          1121
+        ]
+      ],
+      "score": 0.8550086617469788,
+      "y_pos": 1070,
+      "text": "a. Giai đoạn cấp tính. Triệu chứng và cách chữa:",
+      "confidence": 0.8513003540039062
+    },
+    {
+      "type": "text",
+      "img_path": "p0506_003_text.png",
+      "bbox": [
+        [
+          284,
+          1161
+        ],
+        [
+          2361,
+          1161
+        ],
+        [
+          2361,
+          1283
+        ],
+        [
+          284,
+          1283
+        ]
+      ],
+      "score": 0.9645777940750122,
+      "y_pos": 1161,
+      "text": "\n    Sốt cao, co giật, hôn mê, nôn mửa, thì dùng các phương trị theo các chứng đã giảng ở\n\ncác phần trước mà châm, cứu.",
+      "confidence": 0.9933224245454326
+    },
+    {
+      "type": "text",
+      "img_path": "p0506_020_text.png",
+      "bbox": [
+        [
+          283,
+          1325
+        ],
+        [
+          2332,
+          1325
+        ],
+        [
+          2332,
+          1377
+        ],
+        [
+          283,
+          1377
+        ]
+      ],
+      "score": 0.9019807577133179,
+      "y_pos": 1325,
+      "text": "\n    Nhai nuốt khó khăn, mất tiếng, liệt mặt, khó vận động, xem phần trúng gió, bại biệt mà chữa\n",
+      "confidence": 0.9854965892612425
+    },
+    {
+      "type": "text",
+      "img_path": "p0506_015_text.png",
+      "bbox": [
+        [
+          285,
+          1414
+        ],
+        [
+          1936,
+          1414
+        ],
+        [
+          1936,
+          1468
+        ],
+        [
+          285,
+          1468
+        ]
+      ],
+      "score": 0.9115085005760193,
+      "y_pos": 1414,
+      "text": "\n    Suy hô hấp: châm Hội âm (lưu kim 10 đến 20 phút, vê chuyển một lần).\n",
+      "confidence": 0.9855731434010445
+    },
+    {
+      "type": "text",
+      "img_path": "p0506_004_text.png",
+      "bbox": [
+        [
+          286,
+          1506
+        ],
+        [
+          2360,
+          1506
+        ],
+        [
+          2360,
+          1631
+        ],
+        [
+          286,
+          1631
+        ]
+      ],
+      "score": 0.9640083909034729,
+      "y_pos": 1506,
+      "text": "• Tuần hoàn suy kiệt: Châm <i>Nội quan</i> thấu <i>Gian sử</i> (kích thích mạnh và vê 2 đến 3 phút sau\nđó 10 phút đến 20 phút lại vê một lần). <i>Túc tam lý, Thái khê</i> (châm vê nhẹ, lưu kim).",
+      "confidence": 0.9403564846665532
+    },
+    {
+      "type": "text",
+      "img_path": "p0506_010_text.png",
+      "bbox": [
+        [
+          285,
+          1668
+        ],
+        [
+          1981,
+          1668
+        ],
+        [
+          1981,
+          1721
+        ],
+        [
+          285,
+          1721
+        ]
+      ],
+      "score": 0.9177195429801941,
+      "y_pos": 1668,
+      "text": "• Đờm tắc: Châm Thiên đột, Phong long, Túc tam lý, Nội quan, Liệt khuyết",
+      "confidence": 0.5982823557144886
+    },
+    {
+      "type": "text",
+      "img_path": "p0506_012_text.png",
+      "bbox": [
+        [
+          285,
+          1761
+        ],
+        [
+          1992,
+          1761
+        ],
+        [
+          1992,
+          1814
+        ],
+        [
+          285,
+          1814
+        ]
+      ],
+      "score": 0.9164426326751709,
+      "y_pos": 1761,
+      "text": "\n    Phù não (não úng thủy): Phục lưu, Hợp cốc, Bách hội thấu Tứ thần thông.\n",
+      "confidence": 0.9824000037822527
+    },
+    {
+      "type": "text",
+      "img_path": "p0506_014_text.png",
+      "bbox": [
+        [
+          287,
+          1854
+        ],
+        [
+          1710,
+          1854
+        ],
+        [
+          1710,
+          1907
+        ],
+        [
+          287,
+          1907
+        ]
+      ],
+      "score": 0.9162627458572388,
+      "y_pos": 1854,
+      "text": "\n    Trướng bụng (liệt ruột): Thiên khu, Quan nguyên, Túc tam lý.\n",
+      "confidence": 0.9852831744870474
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0506_025_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          1945
+        ],
+        [
+          1234,
+          1945
+        ],
+        [
+          1234,
+          1997
+        ],
+        [
+          286,
+          1997
+        ]
+      ],
+      "score": 0.7724214196205139,
+      "y_pos": 1945,
+      "text": "b. Giai đoạn cuối và giai đoạn phục hồi",
+      "confidence": 0.9986419983026458
+    },
+    {
+      "type": "text",
+      "img_path": "p0506_007_text.png",
+      "bbox": [
+        [
+          286,
+          2036
+        ],
+        [
+          2362,
+          2036
+        ],
+        [
+          2362,
+          2161
+        ],
+        [
+          286,
+          2161
+        ]
+      ],
+      "score": 0.962399959564209,
+      "y_pos": 2036,
+      "text": "• Cổ cứng, uốn ván, co giật (co giật rất mạnh cứu chữa cũng có kết quả): Đại chùy, Hậu\nkhê, Ủy trung, Nhân trung, Trường cường.",
+      "confidence": 0.9972545211546091
+    },
+    {
+      "type": "text",
+      "img_path": "p0506_002_text.png",
+      "bbox": [
+        [
+          286,
+          2199
+        ],
+        [
+          2362,
+          2199
+        ],
+        [
+          2362,
+          2322
+        ],
+        [
+          286,
+          2322
+        ]
+      ],
+      "score": 0.9661589860916138,
+      "y_pos": 2199,
+      "text": "• Run rảy: Lấy huyệt như phần trên và gia giảm: Thiếu hải thấu Khúc trì, Khích môn, Hậu\nkhê thấu Lao cung, Dương lăng tuyền.",
+      "confidence": 0.9893583985456413
+    },
+    {
+      "type": "text",
+      "img_path": "p0506_001_text.png",
+      "bbox": [
+        [
+          285,
+          2360
+        ],
+        [
+          2359,
+          2360
+        ],
+        [
+          2359,
+          2485
+        ],
+        [
+          285,
+          2485
+        ]
+      ],
+      "score": 0.9662690758705139,
+      "y_pos": 2360,
+      "text": "• Tinh thần hưng phấn, máy động không yên: <i>Nội quan, Thần môn, Túc tam lý, Thông lý,</i>\nTam âm giao, Thái khê, Thái xung.",
+      "confidence": 0.8747342080942222
+    },
+    {
+      "type": "text",
+      "img_path": "p0506_017_text.png",
+      "bbox": [
+        [
+          284,
+          2523
+        ],
+        [
+          2290,
+          2523
+        ],
+        [
+          2290,
+          2578
+        ],
+        [
+          284,
+          2578
+        ]
+      ],
+      "score": 0.9078187346458435,
+      "y_pos": 2523,
+      "text": "\n    Ngu si, đân độn: Bách hội, Tứ thân thông, Ẩn đường, Thông lý, Đại lăng thâu Lao cung.\n",
+      "confidence": 0.9892035507941032
+    },
+    {
+      "type": "text",
+      "img_path": "p0506_008_text.png",
+      "bbox": [
+        [
+          286,
+          2616
+        ],
+        [
+          2358,
+          2616
+        ],
+        [
+          2358,
+          2738
+        ],
+        [
+          286,
+          2738
+        ]
+      ],
+      "score": 0.9601796865463257,
+      "y_pos": 2616,
+      "text": "• Tròng mắt rung động và nhìn lệch: <i>Tán trúc</i> thấu Ngư yêu, Phong trì (lưu kim 15 phút),\nĐồng tử liêu, Tình minh, Hợp cốc.",
+      "confidence": 0.9440943289589097
+    },
+    {
+      "type": "text",
+      "img_path": "p0506_006_text.png",
+      "bbox": [
+        [
+          285,
+          2777
+        ],
+        [
+          2361,
+          2777
+        ],
+        [
+          2361,
+          2902
+        ],
+        [
+          285,
+          2902
+        ]
+      ],
+      "score": 0.9625709056854248,
+      "y_pos": 2777,
+      "text": "• Mờ mắt: Tán trúc thấu Ngư yêu, Tình minh, Hợp cốc, Cầu hậu, châm đứng không vê, Hợp\n<i>cốc, Quang minh, Thái khê</i> (lưu kim 30 phút).",
+      "confidence": 0.992936936624605
+    },
+    {
+      "type": "text",
+      "img_path": "p0506_016_text.png",
+      "bbox": [
+        [
+          285,
+          2939
+        ],
+        [
+          2194,
+          2939
+        ],
+        [
+          2194,
+          2993
+        ],
+        [
+          285,
+          2993
+        ]
+      ],
+      "score": 0.9080623984336853,
+      "y_pos": 2939,
+      "text": "\n    Ý thức lợ mợ: Bách hội, Tứ thần thông, Phong trì, Phong phủ, Đại chùy, Thần môn,\n",
+      "confidence": 0.9843264863176165
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0506_021_footnote.png",
+      "bbox": [
+        [
+          227,
+          3165
+        ],
+        [
+          1537,
+          3165
+        ],
+        [
+          1537,
+          3212
+        ],
+        [
+          227,
+          3212
+        ]
+      ],
+      "score": 0.8841489553451538,
+      "y_pos": 3165,
+      "text": "(*) Nội bế, ngoại thoát: Trong bế tắc mọi hoạt động của tạng khí, ngoài thoát hết khí nóng",
+      "confidence": 0.9952079984156982
+    },
+    {
+      "type": "number",
+      "img_path": "p0506_022_number.png",
+      "bbox": [
+        [
+          2304,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3334
+        ],
+        [
+          2304,
+          3334
+        ]
+      ],
+      "score": 0.8740642666816711,
+      "y_pos": 3300,
+      "text": "    \n            \n            \n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0506_019_footer.png",
+      "bbox": [
+        [
+          228,
+          3309
+        ],
+        [
+          1324,
+          3309
+        ],
+        [
+          1324,
+          3355
+        ],
+        [
+          228,
+          3355
+        ]
+      ],
+      "score": 0.9029616713523865,
+      "y_pos": 3309,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9984300597658697
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0506.png"
+}

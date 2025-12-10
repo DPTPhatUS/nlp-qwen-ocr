@@ -1,0 +1,264 @@
+{
+  "page_num": 86,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0086_004_header.png",
+      "bbox": [
+        [
+          1607,
+          141
+        ],
+        [
+          2376,
+          141
+        ],
+        [
+          2376,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9053874015808105,
+      "y_pos": 141,
+      "text": "_______________________________________\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6394109430589846
+    },
+    {
+      "type": "header",
+      "img_path": "p0086_007_header.png",
+      "bbox": [
+        [
+          235,
+          160
+        ],
+        [
+          448,
+          160
+        ],
+        [
+          448,
+          203
+        ],
+        [
+          235,
+          203
+        ]
+      ],
+      "score": 0.8848570585250854,
+      "y_pos": 160,
+      "text": "KINH LAC",
+      "confidence": 0.7757470607757568
+    },
+    {
+      "type": "image",
+      "img_path": "p0086_001_image.png",
+      "bbox": [
+        [
+          871,
+          335
+        ],
+        [
+          1799,
+          335
+        ],
+        [
+          1799,
+          2129
+        ],
+        [
+          871,
+          2129
+        ]
+      ],
+      "score": 0.9790509939193726,
+      "y_pos": 335
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0086_005_figure_title.png",
+      "bbox": [
+        [
+          647,
+          2221
+        ],
+        [
+          1992,
+          2221
+        ],
+        [
+          1992,
+          2271
+        ],
+        [
+          647,
+          2271
+        ]
+      ],
+      "score": 0.901891827583313,
+      "y_pos": 2221,
+      "text": "Hình 14. Đường tuần hành của kinh Túc thái dương bàng quang",
+      "confidence": 0.8951823261917614
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0086_008_paragraph_title.png",
+      "bbox": [
+        [
+          282,
+          2309
+        ],
+        [
+          1053,
+          2309
+        ],
+        [
+          1053,
+          2363
+        ],
+        [
+          282,
+          2363
+        ]
+      ],
+      "score": 0.8700324892997742,
+      "y_pos": 2309,
+      "text": "8. Túc thiếu âm thận kinh (H.15)",
+      "confidence": 0.9660035564618952
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_000_text.png",
+      "bbox": [
+        [
+          285,
+          2402
+        ],
+        [
+          2358,
+          2402
+        ],
+        [
+          2358,
+          2764
+        ],
+        [
+          285,
+          2764
+        ]
+      ],
+      "score": 0.9815635681152344,
+      "y_pos": 2402,
+      "text": "a. Cấu trúc: Gồm 27 huyệt, hai bên là 54 huyệt. Kinh mạch tuần hành bắt đầu từ phía dưới\nngón chân út, đi chéo vào giữa cgỗ lõm trước lòng bàn chân (Dũng tuyền) qua phía dưới\nchỗ lõm của xương thuyền, qua phía sau của mắt cá chân đi xuống gót chân, từ đó đi lên\ntheo cạnh trong bắp chân, qua cạnh trong hố khoeo sau khớp gối, lên đến phía sau cạnh\ntrong đùi, tiến vào ổ bụng, ven cột sống, thông vào thận, liền sang bàng quang.",
+      "confidence": 0.9912190596454883
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_002_text.png",
+      "bbox": [
+        [
+          337,
+          2802
+        ],
+        [
+          2357,
+          2802
+        ],
+        [
+          2357,
+          2932
+        ],
+        [
+          337,
+          2932
+        ]
+      ],
+      "score": 0.95339435338974,
+      "y_pos": 2802,
+      "text": "Mạch đi thẳng ở thận tạng, hướng từ thận đi lên qua gan và cơ hoành vào phổi, đi lên hai\nbên cạnh hầu, phân bố chỗ cuống lưỡi.",
+      "confidence": 0.9983167828402968
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_003_text.png",
+      "bbox": [
+        [
+          337,
+          2973
+        ],
+        [
+          2356,
+          2973
+        ],
+        [
+          2356,
+          3104
+        ],
+        [
+          337,
+          3104
+        ]
+      ],
+      "score": 0.9521518349647522,
+      "y_pos": 2973,
+      "text": "Mạch nhánh ở phổi. Từ phế tạng phân ra cùng quan hệ vơi tâm trạng, phân chia ra trong\nlồng ngực, cùng nối tiếp với thủ quyết âm tâm bào kinh.",
+      "confidence": 0.9996590905490963
+    },
+    {
+      "type": "footer",
+      "img_path": "p0086_006_footer.png",
+      "bbox": [
+        [
+          227,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.8935179114341736,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.952197735039693
+    },
+    {
+      "type": "number",
+      "img_path": "p0086_009_number.png",
+      "bbox": [
+        [
+          2335,
+          3338
+        ],
+        [
+          2382,
+          3338
+        ],
+        [
+          2382,
+          3373
+        ],
+        [
+          2335,
+          3373
+        ]
+      ],
+      "score": 0.8486620187759399,
+      "y_pos": 3338,
+      "text": "\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0086.png"
+}

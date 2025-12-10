@@ -1,0 +1,318 @@
+{
+  "page_num": 356,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0356_005_header.png",
+      "bbox": [
+        [
+          1678,
+          143
+        ],
+        [
+          2368,
+          143
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1678,
+          196
+        ]
+      ],
+      "score": 0.9276741743087769,
+      "y_pos": 143,
+      "text": "^7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.691928703160513
+    },
+    {
+      "type": "header",
+      "img_path": "p0356_007_header.png",
+      "bbox": [
+        [
+          228,
+          153
+        ],
+        [
+          1055,
+          153
+        ],
+        [
+          1055,
+          198
+        ],
+        [
+          228,
+          198
+        ]
+      ],
+      "score": 0.9165782928466797,
+      "y_pos": 153,
+      "text": "ÔN NHIỆT KINH BIÊN CHỨNG LUÂN TRI",
+      "confidence": 0.9449882047516959
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0356_010_paragraph_title.png",
+      "bbox": [
+        [
+          223,
+          322
+        ],
+        [
+          1243,
+          322
+        ],
+        [
+          1243,
+          375
+        ],
+        [
+          223,
+          375
+        ]
+      ],
+      "score": 0.8715718388557434,
+      "y_pos": 322,
+      "text": "TÓM TẮT CHUNG CÁC LOAI BIÊN CHỨNG",
+      "confidence": 0.9912115471703665
+    },
+    {
+      "type": "text",
+      "img_path": "p0356_009_text.png",
+      "bbox": [
+        [
+          224,
+          420
+        ],
+        [
+          1137,
+          420
+        ],
+        [
+          1137,
+          472
+        ],
+        [
+          224,
+          472
+        ]
+      ],
+      "score": 0.8959091305732727,
+      "y_pos": 420,
+      "text": "Biện chứng của lý luận đông y có 5 loại:",
+      "confidence": 0.9964854887553624
+    },
+    {
+      "type": "text",
+      "img_path": "p0356_006_text.png",
+      "bbox": [
+        [
+          225,
+          509
+        ],
+        [
+          2011,
+          509
+        ],
+        [
+          2011,
+          563
+        ],
+        [
+          225,
+          563
+        ]
+      ],
+      "score": 0.9173818826675415,
+      "y_pos": 509,
+      "text": "1. Bát cương biện chứng: Là lý luận về khái quát tám mặt biểu hiện của bệnh.",
+      "confidence": 0.8383499231093969
+    },
+    {
+      "type": "text",
+      "img_path": "p0356_000_text.png",
+      "bbox": [
+        [
+          222,
+          601
+        ],
+        [
+          2358,
+          601
+        ],
+        [
+          2358,
+          799
+        ],
+        [
+          222,
+          799
+        ]
+      ],
+      "score": 0.9776895046234131,
+      "y_pos": 601,
+      "text": "2. Vệ khí doanh huyết biện chứng luận trị: Là chẩn đoán phân biệt và phép chữa về bệnh\nviêm nhiễm lây lan cấp tính và bệnh dịch thời khí. Dựa vào các mức độ bệnh, ở mỗi mức độ có\nnhững mối liên quan trong phạm vi một số tạng phủ, và chứng tương ứng chủ yếu.",
+      "confidence": 0.9947670245355583
+    },
+    {
+      "type": "text",
+      "img_path": "p0356_002_text.png",
+      "bbox": [
+        [
+          222,
+          834
+        ],
+        [
+          2357,
+          834
+        ],
+        [
+          2357,
+          960
+        ],
+        [
+          222,
+          960
+        ]
+      ],
+      "score": 0.9669668674468994,
+      "y_pos": 834,
+      "text": "3. Lục kinh biện chứng: Là chẩn đoán phân biệt và cách chữa bệnh ở ngoài chi thể, nhũ\nquan, thất khiếu, theo các đường kinh và phủ tạng tương ứng.",
+      "confidence": 0.9984683076905285
+    },
+    {
+      "type": "text",
+      "img_path": "p0356_003_text.png",
+      "bbox": [
+        [
+          221,
+          998
+        ],
+        [
+          2357,
+          998
+        ],
+        [
+          2357,
+          1122
+        ],
+        [
+          221,
+          1122
+        ]
+      ],
+      "score": 0.9650083184242249,
+      "y_pos": 998,
+      "text": "4. Tam tiêu biện chứng: Là chẩn đoán phân biệt và cách chữa về các bệnh chứng nội tạng\ntheo khu vực trên, giữa và dưới (ở ngực, bụng).",
+      "confidence": 0.9931691312377993
+    },
+    {
+      "type": "text",
+      "img_path": "p0356_004_text.png",
+      "bbox": [
+        [
+          222,
+          1159
+        ],
+        [
+          2357,
+          1159
+        ],
+        [
+          2357,
+          1285
+        ],
+        [
+          222,
+          1285
+        ]
+      ],
+      "score": 0.964823842048645,
+      "y_pos": 1159,
+      "text": "5. Tạng phủ biện chứng luận trị: Là chẩn doán phân biệt bệnh thuộc về biện chứng cấp mạn\ncủa từng tạng phủ.",
+      "confidence": 0.9912086236808035
+    },
+    {
+      "type": "text",
+      "img_path": "p0356_001_text.png",
+      "bbox": [
+        [
+          221,
+          1323
+        ],
+        [
+          2357,
+          1323
+        ],
+        [
+          2357,
+          1517
+        ],
+        [
+          221,
+          1517
+        ]
+      ],
+      "score": 0.9741439819335938,
+      "y_pos": 1323,
+      "text": "Bát cương biện chứng là lý luận khái quát cơ bản chung, các loại biện chứng còn lại là phân\nloại cụ thể, chuyên biệt. Tuy vậy, khi tiến hành biện chứng luận trị đều phải tham khảo vận\ndung hỗ trợ nhau.",
+      "confidence": 0.996494311743065
+    },
+    {
+      "type": "footer",
+      "img_path": "p0356_008_footer.png",
+      "bbox": [
+        [
+          229,
+          3338
+        ],
+        [
+          1343,
+          3338
+        ],
+        [
+          1343,
+          3385
+        ],
+        [
+          229,
+          3385
+        ]
+      ],
+      "score": 0.9115588068962097,
+      "y_pos": 3338,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.998405508275302
+    },
+    {
+      "type": "number",
+      "img_path": "p0356_011_number.png",
+      "bbox": [
+        [
+          2295,
+          3339
+        ],
+        [
+          2345,
+          3339
+        ],
+        [
+          2345,
+          3373
+        ],
+        [
+          2295,
+          3373
+        ]
+      ],
+      "score": 0.8655142188072205,
+      "y_pos": 3339,
+      "text": "    \n    \n        \n\n    \n\n\n    \n\n\n\n    \n۰    \n٠.\n\n",
+      "confidence": 0.9558872090031704
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0356.png"
+}

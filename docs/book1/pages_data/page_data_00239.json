@@ -1,0 +1,474 @@
+{
+  "page_num": 239,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0239_010_text.png",
+      "bbox": [
+        [
+          405,
+          450
+        ],
+        [
+          2011,
+          450
+        ],
+        [
+          2011,
+          504
+        ],
+        [
+          405,
+          504
+        ]
+      ],
+      "score": 0.9166972637176514,
+      "y_pos": 450,
+      "text": "- Trời lạnh, ăn đồ sống lạnh bệnh càng tăng. Đại tiện lỏng, phân sống",
+      "confidence": 0.8029372314332237
+    },
+    {
+      "type": "text",
+      "img_path": "p0239_006_text.png",
+      "bbox": [
+        [
+          408,
+          535
+        ],
+        [
+          1442,
+          535
+        ],
+        [
+          1442,
+          586
+        ],
+        [
+          408,
+          586
+        ]
+      ],
+      "score": 0.9277637600898743,
+      "y_pos": 535,
+      "text": "- Lưỡi nhạt, rêu trắng mỏng. Mạch tế nhược.",
+      "confidence": 0.5571442643801371
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0239_004_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          643
+        ],
+        [
+          1209,
+          643
+        ],
+        [
+          1209,
+          695
+        ],
+        [
+          344,
+          695
+        ]
+      ],
+      "score": 0.9345569014549255,
+      "y_pos": 643,
+      "text": "2.2.4. Bệnh cảnh Tây y thường gặp",
+      "confidence": 0.9882789526666914
+    },
+    {
+      "type": "text",
+      "img_path": "p0239_007_text.png",
+      "bbox": [
+        [
+          407,
+          743
+        ],
+        [
+          939,
+          743
+        ],
+        [
+          939,
+          789
+        ],
+        [
+          407,
+          789
+        ]
+      ],
+      "score": 0.9262208342552185,
+      "y_pos": 743,
+      "text": "Viêm đai tràng man.",
+      "confidence": 0.976935863494873
+    },
+    {
+      "type": "text",
+      "img_path": "p0239_002_text.png",
+      "bbox": [
+        [
+          408,
+          825
+        ],
+        [
+          860,
+          825
+        ],
+        [
+          860,
+          872
+        ],
+        [
+          408,
+          872
+        ]
+      ],
+      "score": 0.9384827017784119,
+      "y_pos": 825,
+      "text": "Rối loan hấp thu.",
+      "confidence": 0.9881680168603596
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0239_003_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          933
+        ],
+        [
+          709,
+          933
+        ],
+        [
+          709,
+          984
+        ],
+        [
+          345,
+          984
+        ]
+      ],
+      "score": 0.9368664026260376,
+      "y_pos": 933,
+      "text": "2.2.5. Pháp trị",
+      "confidence": 0.9664543902172762
+    },
+    {
+      "type": "text",
+      "img_path": "p0239_005_text.png",
+      "bbox": [
+        [
+          407,
+          1027
+        ],
+        [
+          1017,
+          1027
+        ],
+        [
+          1017,
+          1078
+        ],
+        [
+          407,
+          1078
+        ]
+      ],
+      "score": 0.9287461638450623,
+      "y_pos": 1027,
+      "text": "Ôn trung kiên Tỳ chỉ tả.",
+      "confidence": 0.9872541725635529
+    },
+    {
+      "type": "text",
+      "img_path": "p0239_009_text.png",
+      "bbox": [
+        [
+          462,
+          1113
+        ],
+        [
+          1743,
+          1113
+        ],
+        [
+          1743,
+          1163
+        ],
+        [
+          462,
+          1163
+        ]
+      ],
+      "score": 0.917245090007782,
+      "y_pos": 1113,
+      "text": "* Phân tích bài thuốc Lý trung thang (Thương hàn luân)",
+      "confidence": 0.9468615353107452
+    },
+    {
+      "type": "text",
+      "img_path": "p0239_016_text.png",
+      "bbox": [
+        [
+          408,
+          1197
+        ],
+        [
+          914,
+          1197
+        ],
+        [
+          914,
+          1242
+        ],
+        [
+          408,
+          1242
+        ]
+      ],
+      "score": 0.7571956515312195,
+      "y_pos": 1197,
+      "text": "Phân tích bài thuốc",
+      "confidence": 0.9921584782146272
+    },
+    {
+      "type": "table",
+      "img_path": "p0239_001_table.png",
+      "bbox": [
+        [
+          352,
+          1299
+        ],
+        [
+          2124,
+          1299
+        ],
+        [
+          2124,
+          1735
+        ],
+        [
+          352,
+          1735
+        ]
+      ],
+      "score": 0.9871288537979126,
+      "y_pos": 1299,
+      "text": "Vi thuốc    Dược lý Đông y\nCan khương    Ôn trung tán hàn. Hồi dương cứu nghịch\nNhân sâm    Ngọt, hơi đắng. Bổ Tâm khí, đại bổ nguyên khí, ích huyết sinh tân\nBach truât    Ngọt, đắng, hơi ấm. Kiện tỳ, táo thấp, liễm hãn\nCam thảo    Ngot, ấm. Bổ Tỳ thổ, bổ trung khí",
+      "confidence": 0.8804232951057799
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0239_013_figure_title.png",
+      "bbox": [
+        [
+          466,
+          1793
+        ],
+        [
+          1039,
+          1793
+        ],
+        [
+          1039,
+          1844
+        ],
+        [
+          466,
+          1844
+        ]
+      ],
+      "score": 0.8247110843658447,
+      "y_pos": 1793,
+      "text": "Công thức huyệt sử dụng",
+      "confidence": 0.9993307375907898
+    },
+    {
+      "type": "table",
+      "img_path": "p0239_000_table.png",
+      "bbox": [
+        [
+          351,
+          1871
+        ],
+        [
+          2125,
+          1871
+        ],
+        [
+          2125,
+          2477
+        ],
+        [
+          351,
+          2477
+        ]
+      ],
+      "score": 0.989062488079071,
+      "y_pos": 1871,
+      "text": "Tên huyệt    Cơ sở lý luận    Tác dụng điều trị\nTrung quản    Mộ huyệt của Vị    Kiện Tỳ, Vị\nTỳ du    Bối du huyệt của Tỳ    Kiện Tỳ\nTúc tam lý    Hợp huyết của Vi    Điều trung khí\nThiên khu    Mộ của Đại trường hoặc huyệt tại chỗ    Chỉ tả\nKhí hải    Bể của khí hoặc huyệt tại chỗ    On trung tro duong\nQuan nguyên    Giao hội của túc tam âm. Mộ của Tiểu trường    Ôn trung",
+      "confidence": 0.9175979976066151
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0239_011_paragraph_title.png",
+      "bbox": [
+        [
+          953,
+          2598
+        ],
+        [
+          1519,
+          2598
+        ],
+        [
+          1519,
+          2657
+        ],
+        [
+          953,
+          2657
+        ]
+      ],
+      "score": 0.9113135933876038,
+      "y_pos": 2598,
+      "text": "TIẾU TRƯỜNG HƯ HÀN",
+      "confidence": 0.9490539163351059
+    },
+    {
+      "type": "text",
+      "img_path": "p0239_017_text.png",
+      "bbox": [
+        [
+          367,
+          2726
+        ],
+        [
+          1836,
+          2726
+        ],
+        [
+          1836,
+          2776
+        ],
+        [
+          367,
+          2776
+        ]
+      ],
+      "score": 0.7128849029541016,
+      "y_pos": 2726,
+      "text": "- Chức năng chủ yếu bị rối loạn là chức năng phân thanh trọc của Tiểu trường",
+      "confidence": 0.9989797587578113
+    },
+    {
+      "type": "text",
+      "img_path": "p0239_012_text.png",
+      "bbox": [
+        [
+          369,
+          2801
+        ],
+        [
+          2104,
+          2801
+        ],
+        [
+          2104,
+          2898
+        ],
+        [
+          369,
+          2898
+        ]
+      ],
+      "score": 0.8259103894233704,
+      "y_pos": 2801,
+      "text": "- Chủ chứng (triệu chứng quan trọng): Tay chân mệt mỏi, lạnh, không có sức. Trời lanh, ăn\nđồ sống lạnh bệnh càng tăng. Đại tiện lỏng, phân sống.",
+      "confidence": 0.9989445583669694
+    },
+    {
+      "type": "text",
+      "img_path": "p0239_015_text.png",
+      "bbox": [
+        [
+          367,
+          2923
+        ],
+        [
+          1843,
+          2923
+        ],
+        [
+          1843,
+          2973
+        ],
+        [
+          367,
+          2973
+        ]
+      ],
+      "score": 0.8104428052902222,
+      "y_pos": 2923,
+      "text": "- Thuốc tiêu biểu trong điều trị bệnh chứng Tiểu trường hư hàn: Lý trung thang",
+      "confidence": 0.999698282033205
+    },
+    {
+      "type": "number",
+      "img_path": "p0239_014_number.png",
+      "bbox": [
+        [
+          351,
+          3109
+        ],
+        [
+          434,
+          3109
+        ],
+        [
+          434,
+          3148
+        ],
+        [
+          351,
+          3148
+        ]
+      ],
+      "score": 0.8232959508895874,
+      "y_pos": 3109,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0239_008_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1072,
+          3311
+        ],
+        [
+          1072,
+          3365
+        ],
+        [
+          294,
+          3365
+        ]
+      ],
+      "score": 0.9193260073661804,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8793089696339198
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0239.png"
+}

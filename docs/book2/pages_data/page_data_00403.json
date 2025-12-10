@@ -1,0 +1,162 @@
+{
+  "page_num": 403,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0403_001_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1678,
+          196
+        ]
+      ],
+      "score": 0.9200612902641296,
+      "y_pos": 142,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7456070706248283
+    },
+    {
+      "type": "header",
+      "img_path": "p0403_002_header.png",
+      "bbox": [
+        [
+          229,
+          147
+        ],
+        [
+          1095,
+          147
+        ],
+        [
+          1095,
+          197
+        ],
+        [
+          229,
+          197
+        ]
+      ],
+      "score": 0.9173197150230408,
+      "y_pos": 147,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SÁNG",
+      "confidence": 0.760153841972351
+    },
+    {
+      "type": "text",
+      "img_path": "p0403_000_text.png",
+      "bbox": [
+        [
+          223,
+          308
+        ],
+        [
+          2360,
+          308
+        ],
+        [
+          2360,
+          430
+        ],
+        [
+          223,
+          430
+        ]
+      ],
+      "score": 0.9479561448097229,
+      "y_pos": 308,
+      "text": "- Đàm trọc vướng ở trong, ngực bứt rứt tức đau, gia <i>Ung bạch</i> 3 đồng cân, <i>Toàn Qua lâu</i> 5\nđồng cân, <i>Pháp Bán hạ</i> 3 đồng cân.",
+      "confidence": 0.9972668071102867
+    },
+    {
+      "type": "text",
+      "img_path": "p0403_004_text.png",
+      "bbox": [
+        [
+          224,
+          469
+        ],
+        [
+          1977,
+          469
+        ],
+        [
+          1977,
+          524
+        ],
+        [
+          224,
+          524
+        ]
+      ],
+      "score": 0.867111086845398,
+      "y_pos": 469,
+      "text": "- Nếu ho khạc đau, ngực sườn trướng đầy, gia <i>Sao Bạch giới tử</i> 1,5 đồng cân.",
+      "confidence": 0.9954340307018424
+    },
+    {
+      "type": "number",
+      "img_path": "p0403_005_number.png",
+      "bbox": [
+        [
+          2306,
+          3335
+        ],
+        [
+          2356,
+          3335
+        ],
+        [
+          2356,
+          3369
+        ],
+        [
+          2306,
+          3369
+        ]
+      ],
+      "score": 0.8556696772575378,
+      "y_pos": 3335,
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0403_003_footer.png",
+      "bbox": [
+        [
+          228,
+          3336
+        ],
+        [
+          1343,
+          3336
+        ],
+        [
+          1343,
+          3383
+        ],
+        [
+          228,
+          3383
+        ]
+      ],
+      "score": 0.9007368087768555,
+      "y_pos": 3336,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9415562085385593
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0403.png"
+}

@@ -1,0 +1,602 @@
+{
+  "page_num": 187,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0187_005_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9293513894081116,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.723309953652677
+    },
+    {
+      "type": "header",
+      "img_path": "p0187_017_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          905,
+          156
+        ],
+        [
+          905,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9154173135757446,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9866287461642561
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0187_012_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          346
+        ],
+        [
+          511,
+          346
+        ],
+        [
+          511,
+          398
+        ],
+        [
+          226,
+          398
+        ]
+      ],
+      "score": 0.9230318665504456,
+      "y_pos": 346,
+      "text": "5. Huyền lư",
+      "confidence": 0.9175205001464257
+    },
+    {
+      "type": "text",
+      "img_path": "p0187_002_text.png",
+      "bbox": [
+        [
+          280,
+          437
+        ],
+        [
+          2355,
+          437
+        ],
+        [
+          2355,
+          563
+        ],
+        [
+          280,
+          563
+        ]
+      ],
+      "score": 0.9660812616348267,
+      "y_pos": 437,
+      "text": "Vị trí: Ở 1/3 phía trên của đường nối huyệt Hàm yếm tới huyệt Khúc phát (Khúc mấn). (H\n87)",
+      "confidence": 0.9544735090299086
+    },
+    {
+      "type": "text",
+      "img_path": "p0187_010_text.png",
+      "bbox": [
+        [
+          285,
+          600
+        ],
+        [
+          1630,
+          600
+        ],
+        [
+          1630,
+          651
+        ],
+        [
+          285,
+          651
+        ]
+      ],
+      "score": 0.9261356592178345,
+      "y_pos": 600,
+      "text": "Cách châm: Châm chếch kim, sâu 0,2-0,3 thốn. Cứu 3 mồi.",
+      "confidence": 0.7581625120681629
+    },
+    {
+      "type": "text",
+      "img_path": "p0187_009_text.png",
+      "bbox": [
+        [
+          286,
+          694
+        ],
+        [
+          1501,
+          694
+        ],
+        [
+          1501,
+          747
+        ],
+        [
+          286,
+          747
+        ]
+      ],
+      "score": 0.9274199604988098,
+      "y_pos": 694,
+      "text": "Chủ tri: Đau bên đầu, thần kinh suy nhược, đau răng.",
+      "confidence": 0.8159592328248201
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0187_020_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          785
+        ],
+        [
+          503,
+          785
+        ],
+        [
+          503,
+          837
+        ],
+        [
+          226,
+          837
+        ]
+      ],
+      "score": 0.9000505805015564,
+      "y_pos": 785,
+      "text": "6. Huyên ly",
+      "confidence": 0.9179196128478417
+    },
+    {
+      "type": "text",
+      "img_path": "p0187_015_text.png",
+      "bbox": [
+        [
+          288,
+          875
+        ],
+        [
+          1928,
+          875
+        ],
+        [
+          1928,
+          930
+        ],
+        [
+          288,
+          930
+        ]
+      ],
+      "score": 0.9202242493629456,
+      "y_pos": 875,
+      "text": "Vị trí: Ở 1/3 dưới đường nối huyệt Hàm yếm tới huyệt Khúc phát. (H. 87)",
+      "confidence": 0.9902875329533668
+    },
+    {
+      "type": "text",
+      "img_path": "p0187_013_text.png",
+      "bbox": [
+        [
+          286,
+          968
+        ],
+        [
+          1632,
+          968
+        ],
+        [
+          1632,
+          1018
+        ],
+        [
+          286,
+          1018
+        ]
+      ],
+      "score": 0.9228245615959167,
+      "y_pos": 968,
+      "text": "Cách châm: Châm chếch kim, sâu 0.3-0.5 thốn. Cứu 3 mồi.",
+      "confidence": 0.7625953387795833
+    },
+    {
+      "type": "text",
+      "img_path": "p0187_006_text.png",
+      "bbox": [
+        [
+          285,
+          1062
+        ],
+        [
+          1709,
+          1062
+        ],
+        [
+          1709,
+          1114
+        ],
+        [
+          285,
+          1114
+        ]
+      ],
+      "score": 0.9283521771430969,
+      "y_pos": 1062,
+      "text": "Chủ trị: Đau bên đầu, thần kinh suy nhược, phù mặt, đau răng.",
+      "confidence": 0.7951749364535013
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0187_019_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1150
+        ],
+        [
+          836,
+          1150
+        ],
+        [
+          836,
+          1203
+        ],
+        [
+          226,
+          1203
+        ]
+      ],
+      "score": 0.9027530550956726,
+      "y_pos": 1150,
+      "text": "7. Khúc mấn (Khúc phát)",
+      "confidence": 0.9596173572540283
+    },
+    {
+      "type": "text",
+      "img_path": "p0187_004_text.png",
+      "bbox": [
+        [
+          284,
+          1242
+        ],
+        [
+          2308,
+          1242
+        ],
+        [
+          2308,
+          1387
+        ],
+        [
+          284,
+          1387
+        ]
+      ],
+      "score": 0.9577155113220215,
+      "y_pos": 1242,
+      "text": "Vị trí: Ngang bằng phía trên vành tai và thẳng đứng với đường trước tai gặp nhau. (H. 87)\nCách châm: Châm chếch kim, sâu 0,3-0,5 thốn. Cứu 3 mồi.",
+      "confidence": 0.8168563282636863
+    },
+    {
+      "type": "text",
+      "img_path": "p0187_016_text.png",
+      "bbox": [
+        [
+          286,
+          1427
+        ],
+        [
+          1756,
+          1427
+        ],
+        [
+          1756,
+          1481
+        ],
+        [
+          286,
+          1481
+        ]
+      ],
+      "score": 0.9191715717315674,
+      "y_pos": 1427,
+      "text": "Chủ trị: Hàm và má sưng đau, khó há miệng, đau đầu, cứng gáy.",
+      "confidence": 0.5623516099793571
+    },
+    {
+      "type": "image",
+      "img_path": "p0187_000_image.png",
+      "bbox": [
+        [
+          574,
+          1520
+        ],
+        [
+          2049,
+          1520
+        ],
+        [
+          2049,
+          2326
+        ],
+        [
+          574,
+          2326
+        ]
+      ],
+      "score": 0.9746331572532654,
+      "y_pos": 1520
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0187_021_figure_title.png",
+      "bbox": [
+        [
+          1207,
+          2406
+        ],
+        [
+          1380,
+          2406
+        ],
+        [
+          1380,
+          2450
+        ],
+        [
+          1207,
+          2450
+        ]
+      ],
+      "score": 0.8898528218269348,
+      "y_pos": 2406,
+      "text": "П",
+      "confidence": 0.6641227453947067
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0187_007_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2489
+        ],
+        [
+          508,
+          2489
+        ],
+        [
+          508,
+          2541
+        ],
+        [
+          225,
+          2541
+        ]
+      ],
+      "score": 0.9282633066177368,
+      "y_pos": 2489,
+      "text": "Suât côc",
+      "confidence": 0.8623213410377503
+    },
+    {
+      "type": "text",
+      "img_path": "p0187_011_text.png",
+      "bbox": [
+        [
+          288,
+          2584
+        ],
+        [
+          1399,
+          2584
+        ],
+        [
+          1399,
+          2638
+        ],
+        [
+          288,
+          2638
+        ]
+      ],
+      "score": 0.9241011142730713,
+      "y_pos": 2584,
+      "text": "Vi trí: Ở phía trên tai, vào trong mép tóc 1,5 thốn.",
+      "confidence": 0.9839467218628636
+    },
+    {
+      "type": "text",
+      "img_path": "p0187_003_text.png",
+      "bbox": [
+        [
+          284,
+          2675
+        ],
+        [
+          2359,
+          2675
+        ],
+        [
+          2359,
+          2800
+        ],
+        [
+          284,
+          2800
+        ]
+      ],
+      "score": 0.9643132090568542,
+      "y_pos": 2675,
+      "text": "Cách lấy huyệt: Ngồi ngay hay nằm nghiêng, từ phía trên vành tai thẳng lên vào trong tóc\n1,5 thốn. (H. 87)",
+      "confidence": 0.913377186098294
+    },
+    {
+      "type": "text",
+      "img_path": "p0187_001_text.png",
+      "bbox": [
+        [
+          282,
+          2837
+        ],
+        [
+          2364,
+          2837
+        ],
+        [
+          2364,
+          2962
+        ],
+        [
+          282,
+          2962
+        ]
+      ],
+      "score": 0.967128336429596,
+      "y_pos": 2837,
+      "text": "Cách châm: Châm dưới da, mũi kim hướng về phía sau tai, hoặc hướng về huyệt Thái\ndương, tiến kim sâu 05-1 thốn. Cứu 3 mồi, hơ 5 phút.",
+      "confidence": 0.9187781986289985
+    },
+    {
+      "type": "text",
+      "img_path": "p0187_008_text.png",
+      "bbox": [
+        [
+          285,
+          3001
+        ],
+        [
+          1763,
+          3001
+        ],
+        [
+          1763,
+          3057
+        ],
+        [
+          285,
+          3057
+        ]
+      ],
+      "score": 0.9275360107421875,
+      "y_pos": 3001,
+      "text": "Chủ trị: Đau bên đầu, mắt sưng đỏ, nôn mửa, đau răng, da sưng.",
+      "confidence": 0.9855337655171752
+    },
+    {
+      "type": "text",
+      "img_path": "p0187_014_text.png",
+      "bbox": [
+        [
+          288,
+          3091
+        ],
+        [
+          1429,
+          3091
+        ],
+        [
+          1429,
+          3149
+        ],
+        [
+          288,
+          3149
+        ]
+      ],
+      "score": 0.9217766523361206,
+      "y_pos": 3091,
+      "text": "Tác dụng phối hợp: Với Đầu duy trị đau nửa đầu.",
+      "confidence": 0.9912859943448281
+    },
+    {
+      "type": "footer",
+      "img_path": "p0187_018_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9142224192619324,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0187_022_number.png",
+      "bbox": [
+        [
+          2301,
+          3339
+        ],
+        [
+          2350,
+          3339
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2301,
+          3377
+        ]
+      ],
+      "score": 0.8693439960479736,
+      "y_pos": 3339,
+      "text": "    \n        \n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0187.png"
+}

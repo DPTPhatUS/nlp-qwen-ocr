@@ -1,0 +1,422 @@
+{
+  "page_num": 75,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0075_008_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9252134561538696,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7254179112967991
+    },
+    {
+      "type": "header",
+      "img_path": "p0075_012_header.png",
+      "bbox": [
+        [
+          231,
+          160
+        ],
+        [
+          442,
+          160
+        ],
+        [
+          442,
+          201
+        ],
+        [
+          231,
+          201
+        ]
+      ],
+      "score": 0.8993908166885376,
+      "y_pos": 160,
+      "text": "KINH LAC",
+      "confidence": 0.793569552898407
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0075_009_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          289
+        ],
+        [
+          768,
+          289
+        ],
+        [
+          768,
+          340
+        ],
+        [
+          226,
+          340
+        ]
+      ],
+      "score": 0.9112347960472107,
+      "y_pos": 289,
+      "text": "MƯỚI HAI KINH MẠCH",
+      "confidence": 0.9682481169700623
+    },
+    {
+      "type": "text",
+      "img_path": "p0075_001_text.png",
+      "bbox": [
+        [
+          278,
+          383
+        ],
+        [
+          2358,
+          383
+        ],
+        [
+          2358,
+          716
+        ],
+        [
+          278,
+          716
+        ]
+      ],
+      "score": 0.9830940961837769,
+      "y_pos": 383,
+      "text": "Mười hai kinh mạch cũng gọi là chính kinh. Vì trong cơ thể có tâm, can, tỳ, phế, thận, tâm\nbào là 6 tạng; có đảm, vị, đại trường, tiểu trường, bàng quang, tam tiêu là 6 phủ, cộng 12\ntạng phủ. Mỗi một tạng phủ đều có một kinh phụ thuộc nó, cộng có 12 kinh nên gọi là chính\nkinh. Tên gọi của chính kinh đều lấy tên tạng phủ của nó mà đặt như tâm kinh, đảm kinh, vị\nkinh v.v...",
+      "confidence": 0.993712653321509
+    },
+    {
+      "type": "text",
+      "img_path": "p0075_002_text.png",
+      "bbox": [
+        [
+          279,
+          758
+        ],
+        [
+          2358,
+          758
+        ],
+        [
+          2358,
+          1025
+        ],
+        [
+          279,
+          1025
+        ]
+      ],
+      "score": 0.9812070727348328,
+      "y_pos": 758,
+      "text": "Theo \"Học thuyết âm dương\" trong Đông y mà nói thì 6 tạng đều thuộc âm: Phế và tỳ là thái\nâm, tâm và thận là thiếu âm, can và tâm bào là quyết âm; sáu phủ đều thuộc dương. Tiểu\ntrường và bàng quang là thái dương, đảm và tam tiêu là thiếu dương, vị và đại trường là\ndương minh.",
+      "confidence": 0.9902480447303551
+    },
+    {
+      "type": "text",
+      "img_path": "p0075_000_text.png",
+      "bbox": [
+        [
+          276,
+          1062
+        ],
+        [
+          2358,
+          1062
+        ],
+        [
+          2358,
+          1822
+        ],
+        [
+          276,
+          1822
+        ]
+      ],
+      "score": 0.9878782629966736,
+      "y_pos": 1062,
+      "text": "Sáu tạng và đường tuần hành của âm kinh thuộc về nó đều ở mặt âm của tứ chi (mặt trong\ncủa chi). Sáu phủ và đường tuần hành của dương kinh thuộc về nó đều ở mặt dương của\nchi (mặt ngoài của chi). Mức độ âm dương nhiều ít của tên đường kinh là do vị trí đường\nkinh trên chi thể có mức độ nhiều ít của mặt dương, âm mà định. Độ lớn dần của âm dương\ntheo chiều hướng vận động chung của vũ trụ, bên trái lớn dần theo chiều ngược kim đồng\nhồ, bên phải lớn dần theo chiều thuận kim đồng hồ. Ở mặt dương từ dương minh, qua thiếu\ndương tới thái dương, ở mặt âm từ thiếu âm, qua quyết âm tới thái âm. Đồng thời, do kinh\nmạch âm dương phân bố ở tứ chi cho nên đường tuần hành ở chi trên gọi là thủ kinh, tất cả\nlà thủ tam âm kinh, thủ tam dương kinh; đường tuần hành ở chi dưới gọi là túc kinh, tất cả là\ntúc tam âm kinh, túc tam dương kinh, gộp chung cả lại là 12 kinh, cho nên thường gọi là 12\nkinh mach chính.",
+      "confidence": 0.9985211255548333
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0075_010_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1867
+        ],
+        [
+          1079,
+          1867
+        ],
+        [
+          1079,
+          1914
+        ],
+        [
+          225,
+          1914
+        ]
+      ],
+      "score": 0.909869372844696,
+      "y_pos": 1867,
+      "text": "A. Đường tuần hành của 12 kinh mạch",
+      "confidence": 0.9572810740084261
+    },
+    {
+      "type": "text",
+      "img_path": "p0075_014_text.png",
+      "bbox": [
+        [
+          282,
+          1960
+        ],
+        [
+          1662,
+          1960
+        ],
+        [
+          1662,
+          2011
+        ],
+        [
+          282,
+          2011
+        ]
+      ],
+      "score": 0.8223318457603455,
+      "y_pos": 1960,
+      "text": "Đường tuần hành của 12 kinh mạch có thể chia ra làm 4 loại:",
+      "confidence": 0.994724588315995
+    },
+    {
+      "type": "text",
+      "img_path": "p0075_004_text.png",
+      "bbox": [
+        [
+          342,
+          2049
+        ],
+        [
+          2359,
+          2049
+        ],
+        [
+          2359,
+          2247
+        ],
+        [
+          342,
+          2247
+        ]
+      ],
+      "score": 0.9728078842163086,
+      "y_pos": 2049,
+      "text": "- Thủ tam âm kinh là thủ thái âm phế kinh, thủ quyết âm tâm bào kinh, thủ thiếu âm tâm\nkinh, cả ba kinh mạch này đều đi từ ngực ra theo mặt âm của chi trên đến đầu chót các\nngón tay.",
+      "confidence": 0.9931295863928508
+    },
+    {
+      "type": "text",
+      "img_path": "p0075_005_text.png",
+      "bbox": [
+        [
+          342,
+          2284
+        ],
+        [
+          2357,
+          2284
+        ],
+        [
+          2357,
+          2476
+        ],
+        [
+          342,
+          2476
+        ]
+      ],
+      "score": 0.9724981784820557,
+      "y_pos": 2284,
+      "text": "- Thủ tam dương kinh là thủ dương minh đại trường kinh, thủ thiếu dương tam tiêu\nkinh, thủ thái dương tiểu trường kinh. Cả ba kinh mạch này đều từ đầu chót ngón tay đi\nven theo mặt dương của chi trên lên đến đầu.",
+      "confidence": 0.9974052194665027
+    },
+    {
+      "type": "text",
+      "img_path": "p0075_003_text.png",
+      "bbox": [
+        [
+          341,
+          2518
+        ],
+        [
+          2358,
+          2518
+        ],
+        [
+          2358,
+          2712
+        ],
+        [
+          341,
+          2712
+        ]
+      ],
+      "score": 0.973904550075531,
+      "y_pos": 2518,
+      "text": "- Túc tam dương kinh là túc dương minh vị kinh, túc thiếu dương đảm kinh, túc thái\ndương bàng quang kinh. Cả ba kinh mạch này đều từ đầu đi qua lưng trên, ven theo\nmặt trước mặt bên và mặt sau của cạnh ngoài chi dưới, xuống đến gót chân.",
+      "confidence": 0.9960322126225819
+    },
+    {
+      "type": "text",
+      "img_path": "p0075_006_text.png",
+      "bbox": [
+        [
+          342,
+          2751
+        ],
+        [
+          2357,
+          2751
+        ],
+        [
+          2357,
+          2945
+        ],
+        [
+          342,
+          2945
+        ]
+      ],
+      "score": 0.9714956879615784,
+      "y_pos": 2751,
+      "text": "- <b>Túc tam âm kinh</b> là túc thái âm tỳ kinh, túc quyết âm can kinh, túc thiếu âm thận kinh.\nCả ba kinh mạch này đều từ đầu ngón chân, ven theo mặt trước, mặt trong và mặt sau\ncủa cạnh trong chi dưới đi lên đến bụng.",
+      "confidence": 0.9942705691313233
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0075_011_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2988
+        ],
+        [
+          1649,
+          2988
+        ],
+        [
+          1649,
+          3037
+        ],
+        [
+          226,
+          3037
+        ]
+      ],
+      "score": 0.9060425162315369,
+      "y_pos": 2988,
+      "text": "B. Thứ tự nối tiếp của các đường kinh và giờ tuần hành kinh khí",
+      "confidence": 0.9994484754709098
+    },
+    {
+      "type": "text",
+      "img_path": "p0075_007_text.png",
+      "bbox": [
+        [
+          270,
+          3077
+        ],
+        [
+          2359,
+          3077
+        ],
+        [
+          2359,
+          3201
+        ],
+        [
+          270,
+          3201
+        ]
+      ],
+      "score": 0.9530114531517029,
+      "y_pos": 3077,
+      "text": "Hoạt động kinh khí phụ thuộc vào hoạt động công năng của tạng phủ, hoạt động công năng\ncủa tạng phủ lại tuân theo một chu trình thời gian trong ngày, người ta đã ghi nhận được chu",
+      "confidence": 0.9992169000467779
+    },
+    {
+      "type": "footer",
+      "img_path": "p0075_013_footer.png",
+      "bbox": [
+        [
+          227,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3386
+        ],
+        [
+          227,
+          3386
+        ]
+      ],
+      "score": 0.8990136384963989,
+      "y_pos": 3333,
+      "text": "Bản quyên: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9311752769182313
+    },
+    {
+      "type": "number",
+      "img_path": "p0075_015_number.png",
+      "bbox": [
+        [
+          2332,
+          3340
+        ],
+        [
+          2357,
+          3340
+        ],
+        [
+          2357,
+          3373
+        ],
+        [
+          2332,
+          3373
+        ]
+      ],
+      "score": 0.8169481158256531,
+      "y_pos": 3340,
+      "text": "        \n    \n    \n\n    \n\n\n\n    \n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0075.png"
+}

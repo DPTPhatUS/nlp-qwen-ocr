@@ -1,0 +1,344 @@
+{
+  "page_num": 666,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0666_003_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9183326363563538,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0666_006_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9099721312522888,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0666_004_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          328
+        ],
+        [
+          836,
+          328
+        ],
+        [
+          836,
+          381
+        ],
+        [
+          225,
+          381
+        ]
+      ],
+      "score": 0.9156436324119568,
+      "y_pos": 328,
+      "text": "5. Bàng quang thấp nhiệt",
+      "confidence": 0.9522285736524142
+    },
+    {
+      "type": "text",
+      "img_path": "p0666_002_text.png",
+      "bbox": [
+        [
+          221,
+          418
+        ],
+        [
+          2358,
+          418
+        ],
+        [
+          2358,
+          614
+        ],
+        [
+          221,
+          614
+        ]
+      ],
+      "score": 0.9737175703048706,
+      "y_pos": 418,
+      "text": "Mô hình chỉ số nhiệt kinh lạc cơ bản: Bàng quang (+BL), Đảm (+BL); nghĩa là kinh Bàng\nquang và Đảm có trạng thái nhiệt bệnh lý. Số tương quan của kinh Bàng quang và Đảm có giá\ntrị tuyệt đối lớn hơn sai số giới hạn và mang dấu +.",
+      "confidence": 0.9987592653690461
+    },
+    {
+      "type": "text",
+      "img_path": "p0666_001_text.png",
+      "bbox": [
+        [
+          277,
+          654
+        ],
+        [
+          2360,
+          654
+        ],
+        [
+          2360,
+          991
+        ],
+        [
+          277,
+          991
+        ]
+      ],
+      "score": 0.9839529395103455,
+      "y_pos": 654,
+      "text": "a. Triệu chứng: Sốt cao hoặc sợ gió, đái dắt, đái vội, đái đau, hoặc đái liên miên, đái tự\nnhiên dứt, nước đái đục, có máu, có cát sỏi, rêu lưỡi vàng hoặc trơn, mạch sác. Thực chất\nnhững chứng kể trên đều thuộc về viêm đường tiết niệu, sỏi đường tiết niệu, viêm cấp tính\ntiền liệt tuyến. Nếu đái ra máu mà không có chứng lở lưỡi, nứt lưỡi cũng thuộc về Bàng\nquang thấp nhiệt mà không phải là Tâm di nhiệt sang Tiểu trường.",
+      "confidence": 0.9988782643705093
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0666_012_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          1030
+        ],
+        [
+          702,
+          1030
+        ],
+        [
+          702,
+          1080
+        ],
+        [
+          286,
+          1080
+        ]
+      ],
+      "score": 0.8047471046447754,
+      "y_pos": 1030,
+      "text": "b. Phương huyệt",
+      "confidence": 0.9917050214374766
+    },
+    {
+      "type": "text",
+      "img_path": "p0666_007_text.png",
+      "bbox": [
+        [
+          298,
+          1119
+        ],
+        [
+          1550,
+          1119
+        ],
+        [
+          1550,
+          1169
+        ],
+        [
+          298,
+          1169
+        ]
+      ],
+      "score": 0.9096498489379883,
+      "y_pos": 1119,
+      "text": "Đái buốt đau, đái ra máu: Tả Liệt khuyết, Côn luận.",
+      "confidence": 0.9891491206187122
+    },
+    {
+      "type": "text",
+      "img_path": "p0666_005_text.png",
+      "bbox": [
+        [
+          300,
+          1213
+        ],
+        [
+          1545,
+          1213
+        ],
+        [
+          1545,
+          1262
+        ],
+        [
+          300,
+          1262
+        ]
+      ],
+      "score": 0.9120685458183289,
+      "y_pos": 1213,
+      "text": "• Đái ra cát sỏi: Bổ Thân du; tả Thủy dạo, Trung cực.",
+      "confidence": 0.7627103567123413
+    },
+    {
+      "type": "text",
+      "img_path": "p0666_008_text.png",
+      "bbox": [
+        [
+          299,
+          1303
+        ],
+        [
+          1542,
+          1303
+        ],
+        [
+          1542,
+          1355
+        ],
+        [
+          299,
+          1355
+        ]
+      ],
+      "score": 0.9009857773780823,
+      "y_pos": 1303,
+      "text": "Viêm cấp tính tiền liệt tuyến: Tả Khúc cốt, Hội âm.",
+      "confidence": 0.6445988978979722
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0666_010_paragraph_title.png",
+      "bbox": [
+        [
+          287,
+          1399
+        ],
+        [
+          999,
+          1399
+        ],
+        [
+          999,
+          1448
+        ],
+        [
+          287,
+          1448
+        ]
+      ],
+      "score": 0.8806343674659729,
+      "y_pos": 1399,
+      "text": "c. Giảng nghĩa phương huyệt",
+      "confidence": 0.9981442319935766
+    },
+    {
+      "type": "text",
+      "img_path": "p0666_000_text.png",
+      "bbox": [
+        [
+          279,
+          1488
+        ],
+        [
+          2360,
+          1488
+        ],
+        [
+          2360,
+          2035
+        ],
+        [
+          279,
+          2035
+        ]
+      ],
+      "score": 0.9874417781829834,
+      "y_pos": 1488,
+      "text": "Viên bàng quang hoặc niệu đạo làm cho đái buốt đau, đái ra máu là do khí hoá ở Bàng\nquang không tốt, tả <i>Liệt khuyết</i> để khí hoá được thuận hoà; tả <i>Côn luân</i> là khử tà nhiệt ở\nBàng quang làm cho khí hoá được dễ mà nước tiểu ra mát, trong. <i>Thận du, Thuỷ đạo</i> là\nnhóm huyệt chữa sỏi Thận và sỏi niệu quản, sỏi Bàng quang đều có hiệu quả. <i>Trung cực</i> là\nmộ huyệt của Bàng quang có tác dụng với mọi chứng của Bàng quang cấp và mãn. Khúc cốt\nlà huyệt đặc trị bệnh ở tiền liệt tuyến; <i>Hội âm</i> trị bệnh ở nhị âm, hai huyệt cùng dùng, ngoài\nviệc trị bệnh ở tiền liệt tuyến còn có sức chữa chứng rối loạn cơ tròn gây ra bí đái ỉa, kể cả\nsau khi khâu đẻ ở âm môn bị viêm nhiễm gây ra bí đái la.",
+      "confidence": 0.9980298385750113
+    },
+    {
+      "type": "number",
+      "img_path": "p0666_011_number.png",
+      "bbox": [
+        [
+          2304,
+          3336
+        ],
+        [
+          2353,
+          3336
+        ],
+        [
+          2353,
+          3373
+        ],
+        [
+          2304,
+          3373
+        ]
+      ],
+      "score": 0.8521489500999451,
+      "y_pos": 3336,
+      "text": "    \n    \n\n\n\n\n\n    \n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0666_009_footer.png",
+      "bbox": [
+        [
+          229,
+          3340
+        ],
+        [
+          1324,
+          3340
+        ],
+        [
+          1324,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9002264738082886,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9989979435812752
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0666.png"
+}

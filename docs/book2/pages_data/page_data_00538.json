@@ -1,0 +1,630 @@
+{
+  "page_num": 538,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0538_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2371,
+          144
+        ],
+        [
+          2371,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.916901171207428,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7566693045553707
+    },
+    {
+      "type": "header",
+      "img_path": "p0538_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.9190511107444763,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9977136671543121
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0538_004_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          324
+        ],
+        [
+          949,
+          324
+        ],
+        [
+          949,
+          387
+        ],
+        [
+          227,
+          387
+        ]
+      ],
+      "score": 0.6321671009063721,
+      "y_pos": 324,
+      "text": "Phần 22. BÊNH HUYẾT MACH",
+      "confidence": 0.7753304059688861
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0538_017_reference_content.png",
+      "bbox": [
+        [
+          230,
+          419
+        ],
+        [
+          1357,
+          419
+        ],
+        [
+          1357,
+          480
+        ],
+        [
+          230,
+          480
+        ]
+      ],
+      "score": 0.5230657458305359,
+      "y_pos": 419,
+      "text": "532. Cao huyết áp: Túc tam lý, Hợp cốc, Khúc trì.",
+      "confidence": 0.995117327746223
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0538_006_reference_content.png",
+      "bbox": [
+        [
+          232,
+          509
+        ],
+        [
+          1456,
+          509
+        ],
+        [
+          1456,
+          573
+        ],
+        [
+          232,
+          573
+        ]
+      ],
+      "score": 0.6109094619750977,
+      "y_pos": 509,
+      "text": "533. Cao huyết áp: Túc tam lý, Khúc trì, Nhân nghinh.",
+      "confidence": 0.9928834037347274
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0538_010_reference_content.png",
+      "bbox": [
+        [
+          232,
+          602
+        ],
+        [
+          1624,
+          602
+        ],
+        [
+          1624,
+          665
+        ],
+        [
+          232,
+          665
+        ]
+      ],
+      "score": 0.587978720664978,
+      "y_pos": 602,
+      "text": "534. Cao huyết áp: Phong trì, Khúc trì, Túc tam lý, Thái xung.",
+      "confidence": 0.9861985268071294
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0538_007_reference_content.png",
+      "bbox": [
+        [
+          233,
+          694
+        ],
+        [
+          1379,
+          694
+        ],
+        [
+          1379,
+          756
+        ],
+        [
+          233,
+          756
+        ]
+      ],
+      "score": 0.6059285998344421,
+      "y_pos": 694,
+      "text": "535. Cao huyết áp: Phong trì, Khúc trì, Túc tam lý.",
+      "confidence": 0.9855834571820385
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0538_005_reference_content.png",
+      "bbox": [
+        [
+          233,
+          785
+        ],
+        [
+          1428,
+          785
+        ],
+        [
+          1428,
+          847
+        ],
+        [
+          233,
+          847
+        ]
+      ],
+      "score": 0.6258677244186401,
+      "y_pos": 785,
+      "text": "536. Cao huyết áp: Hành gian, Túc tam lý, Nội quan.",
+      "confidence": 0.9956257197092164
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0538_013_reference_content.png",
+      "bbox": [
+        [
+          232,
+          875
+        ],
+        [
+          2254,
+          875
+        ],
+        [
+          2254,
+          941
+        ],
+        [
+          232,
+          941
+        ]
+      ],
+      "score": 0.5561419129371643,
+      "y_pos": 875,
+      "text": "537. Nâng huyết áp, kích thích khỏe tim, trị trúng độc bất tỉnh: Dũng tuyền, Túc tam lý.",
+      "confidence": 0.9996638549698724
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0538_011_reference_content.png",
+      "bbox": [
+        [
+          232,
+          966
+        ],
+        [
+          1109,
+          966
+        ],
+        [
+          1109,
+          1031
+        ],
+        [
+          232,
+          1031
+        ]
+      ],
+      "score": 0.5862106084823608,
+      "y_pos": 966,
+      "text": "538. Huyết áp thấp: Nội quan, Tố liêu.",
+      "confidence": 0.9936689719557762
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0538_009_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1058
+        ],
+        [
+          1940,
+          1058
+        ],
+        [
+          1940,
+          1124
+        ],
+        [
+          232,
+          1124
+        ]
+      ],
+      "score": 0.5915713906288147,
+      "y_pos": 1058,
+      "text": "539. Huyết áp thấp: Nhân nghinh, Nhân trung, Thái xung, Nội quan, Tố liêu.",
+      "confidence": 0.9982102387829831
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0538_012_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1153
+        ],
+        [
+          1436,
+          1153
+        ],
+        [
+          1436,
+          1215
+        ],
+        [
+          232,
+          1215
+        ]
+      ],
+      "score": 0.5790343284606934,
+      "y_pos": 1153,
+      "text": "540. Lạc huyết: Khích môn, Khúc trì, Tam dương lạc.",
+      "confidence": 0.9996812219889659
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0538_015_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1244
+        ],
+        [
+          1212,
+          1244
+        ],
+        [
+          1212,
+          1307
+        ],
+        [
+          232,
+          1307
+        ]
+      ],
+      "score": 0.5420719981193542,
+      "y_pos": 1244,
+      "text": "541. Lạc huyết: Ngư tế, Cự cốt, Xích trạch.",
+      "confidence": 0.9935139324929979
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0538_014_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1334
+        ],
+        [
+          1275,
+          1334
+        ],
+        [
+          1275,
+          1398
+        ],
+        [
+          231,
+          1398
+        ]
+      ],
+      "score": 0.5436481833457947,
+      "y_pos": 1334,
+      "text": "542. Lạc huyết: Cự cốt, Khổng tối, Xích trạch.",
+      "confidence": 0.9127195378144582
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0538_008_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1424
+        ],
+        [
+          2360,
+          1424
+        ],
+        [
+          2360,
+          1558
+        ],
+        [
+          231,
+          1558
+        ]
+      ],
+      "score": 0.593981921672821,
+      "y_pos": 1424,
+      "text": "543. Xuất huyết dưới da do nguyên phát tính tiểu cầu giảm: Khúc trì, Đại chùy, Thái xung,\nTúc tam lý, Hợp cốc.",
+      "confidence": 0.9936941131636813
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0538_020_reference_content.png",
+      "bbox": [
+        [
+          229,
+          1588
+        ],
+        [
+          2163,
+          1588
+        ],
+        [
+          2163,
+          1656
+        ],
+        [
+          229,
+          1656
+        ]
+      ],
+      "score": 0.5194363594055176,
+      "y_pos": 1588,
+      "text": "544. Thổ huyết, chảy máu cam, chảy máu chân răng: Tỳ du, Can du, Thượng quản.",
+      "confidence": 0.9995484759535971
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0538_021_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1679
+        ],
+        [
+          1465,
+          1679
+        ],
+        [
+          1465,
+          1745
+        ],
+        [
+          232,
+          1745
+        ]
+      ],
+      "score": 0.5108615756034851,
+      "y_pos": 1679,
+      "text": "545. Huyết hư miệng khát: Khúc trạch, Thiếu thương.",
+      "confidence": 0.999244677570631
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0538_019_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1771
+        ],
+        [
+          2071,
+          1771
+        ],
+        [
+          2071,
+          1836
+        ],
+        [
+          231,
+          1836
+        ]
+      ],
+      "score": 0.5206178426742554,
+      "y_pos": 1771,
+      "text": "546. Viêm tắc động mạch: Tâm du, Cách du, Huyết hải, thủy châm Tam âm giao.",
+      "confidence": 0.9976020269579702
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0538_023_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1863
+        ],
+        [
+          1928,
+          1863
+        ],
+        [
+          1928,
+          1928
+        ],
+        [
+          231,
+          1928
+        ]
+      ],
+      "score": 0.5024524927139282,
+      "y_pos": 1863,
+      "text": "547. Viêm tắc mạch máu: Trung quản, Nội quan, Túc tam lý, Tam âm giao.",
+      "confidence": 0.9908718855844604
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0538_018_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1955
+        ],
+        [
+          1701,
+          1955
+        ],
+        [
+          1701,
+          2018
+        ],
+        [
+          232,
+          2018
+        ]
+      ],
+      "score": 0.5208919048309326,
+      "y_pos": 1955,
+      "text": "548. Thiếu máu: Cách du, Đại chùy, Vị du, Huyết hải, Túc tam lý.",
+      "confidence": 0.9996240409937772
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0538_016_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2047
+        ],
+        [
+          2190,
+          2047
+        ],
+        [
+          2190,
+          2110
+        ],
+        [
+          231,
+          2110
+        ]
+      ],
+      "score": 0.5258886218070984,
+      "y_pos": 2047,
+      "text": "549. Thiếu máu do thiếu chất sắt trong máu: Đại chùy, Cách du, Khúc trì, Túc tam lý.",
+      "confidence": 0.9960659083931945
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0538_022_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2232
+        ],
+        [
+          1811,
+          2232
+        ],
+        [
+          1811,
+          2294
+        ],
+        [
+          232,
+          2294
+        ]
+      ],
+      "score": 0.5107470750808716,
+      "y_pos": 2232,
+      "text": "551. Bạch cầu giảm: Tỳ du, Đại chùy, Túc tam lý, Tam âm giao (cứu).",
+      "confidence": 0.9995275183000426
+    },
+    {
+      "type": "number",
+      "img_path": "p0538_003_number.png",
+      "bbox": [
+        [
+          2317,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2317,
+          3374
+        ]
+      ],
+      "score": 0.8677772879600525,
+      "y_pos": 3337,
+      "text": "    \n            \n    \n\n    \n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0538_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9163475036621094,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0538.png"
+}

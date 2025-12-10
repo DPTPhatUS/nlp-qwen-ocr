@@ -1,0 +1,760 @@
+{
+  "page_num": 395,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0395_005_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          195
+        ],
+        [
+          1678,
+          195
+        ]
+      ],
+      "score": 0.931549072265625,
+      "y_pos": 142,
+      "text": "_______________________________________\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6681458304503134
+    },
+    {
+      "type": "header",
+      "img_path": "p0395_008_header.png",
+      "bbox": [
+        [
+          229,
+          146
+        ],
+        [
+          1096,
+          146
+        ],
+        [
+          1096,
+          197
+        ],
+        [
+          229,
+          197
+        ]
+      ],
+      "score": 0.8996012210845947,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SÀNG",
+      "confidence": 0.9907518233571734
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_025_text.png",
+      "bbox": [
+        [
+          225,
+          304
+        ],
+        [
+          995,
+          304
+        ],
+        [
+          995,
+          360
+        ],
+        [
+          225,
+          360
+        ]
+      ],
+      "score": 0.5809803009033203,
+      "y_pos": 304,
+      "text": "Bài thuốc: Quy tỳ thang gia giảm.",
+      "confidence": 0.9362720574651445
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_026_text.png",
+      "bbox": [
+        [
+          225,
+          396
+        ],
+        [
+          1784,
+          396
+        ],
+        [
+          1784,
+          453
+        ],
+        [
+          225,
+          453
+        ]
+      ],
+      "score": 0.5740363001823425,
+      "y_pos": 396,
+      "text": "Đảng sâm    3 đồng cân,    Bach thược    3 đồng cân,",
+      "confidence": 0.9251582078826733
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_028_text.png",
+      "bbox": [
+        [
+          227,
+          490
+        ],
+        [
+          1784,
+          490
+        ],
+        [
+          1784,
+          546
+        ],
+        [
+          227,
+          546
+        ]
+      ],
+      "score": 0.55207359790802,
+      "y_pos": 490,
+      "text": "Xuyên khung    1 đông cân,    Thuc đia    5 đồng cân,",
+      "confidence": 0.9671869884316737
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_014_text.png",
+      "bbox": [
+        [
+          229,
+          580
+        ],
+        [
+          1782,
+          580
+        ],
+        [
+          1782,
+          638
+        ],
+        [
+          229,
+          638
+        ]
+      ],
+      "score": 0.6772909164428711,
+      "y_pos": 580,
+      "text": "Thuc táo nhân    3 đồng cân hoặc    Dạ giao đẳng 5 đồng cân,",
+      "confidence": 0.9763206485919224
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_013_text.png",
+      "bbox": [
+        [
+          224,
+          672
+        ],
+        [
+          926,
+          672
+        ],
+        [
+          926,
+          726
+        ],
+        [
+          224,
+          726
+        ]
+      ],
+      "score": 0.7689576148986816,
+      "y_pos": 672,
+      "text": "hoặc <i>Bá tử nhân</i>    3 đông cân.",
+      "confidence": 0.9758743789755864
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0395_015_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          766
+        ],
+        [
+          468,
+          766
+        ],
+        [
+          468,
+          817
+        ],
+        [
+          225,
+          817
+        ]
+      ],
+      "score": 0.6505655646324158,
+      "y_pos": 766,
+      "text": "Gia qiam:",
+      "confidence": 0.9096525474028154
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_004_text.png",
+      "bbox": [
+        [
+          224,
+          855
+        ],
+        [
+          2116,
+          855
+        ],
+        [
+          2116,
+          910
+        ],
+        [
+          224,
+          910
+        ]
+      ],
+      "score": 0.9327674508094788,
+      "y_pos": 855,
+      "text": "- Ăn ít, ỉa lỏng, bỏ <i>Thục địa</i>, gia sao <i>Bạch truật</i> 3 đồng cân, <i>Sa nhân xác</i> 1 đồng cân.",
+      "confidence": 0.9720114546437417
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_002_text.png",
+      "bbox": [
+        [
+          223,
+          945
+        ],
+        [
+          2364,
+          945
+        ],
+        [
+          2364,
+          1072
+        ],
+        [
+          223,
+          1072
+        ]
+      ],
+      "score": 0.9714510440826416,
+      "y_pos": 945,
+      "text": "- Phụ nữ băng huyết, lậu huyết, mất máu dẫn đến choáng váng, bỏ Xuyên khung, gia Chích Ô\nđầu 4 đồng cân, <i>A giao</i> 2 đồng cân.",
+      "confidence": 0.954066565894244
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_000_text.png",
+      "bbox": [
+        [
+          221,
+          1111
+        ],
+        [
+          2360,
+          1111
+        ],
+        [
+          2360,
+          1376
+        ],
+        [
+          221,
+          1376
+        ]
+      ],
+      "score": 0.9791766405105591,
+      "y_pos": 1111,
+      "text": "b. Can thận hao tổn: Choáng váng có nguyên nhân ở não, buổi chiều và đêm nặng thêm, làm\nmệt hay suy nghĩ bệnh tăng, tinh thần mệt mỏi, sức nhớ giảm, lưng đau buốt, gối mỏi, di tinh, ù\ntai, ngũ tâm phiền nhiệt, ngủ không yên, gầy mòn, rêu lưỡi ít hoặc chất lưỡi hồng, mạch huyền,\ntế (nhỏ và căng).",
+      "confidence": 0.9951123513729855
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_011_text.png",
+      "bbox": [
+        [
+          224,
+          1415
+        ],
+        [
+          973,
+          1415
+        ],
+        [
+          973,
+          1464
+        ],
+        [
+          224,
+          1464
+        ]
+      ],
+      "score": 0.8416079878807068,
+      "y_pos": 1415,
+      "text": "Cách chữa: Tư dưỡng can thân.",
+      "confidence": 0.5162585627648139
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_012_text.png",
+      "bbox": [
+        [
+          224,
+          1506
+        ],
+        [
+          1220,
+          1506
+        ],
+        [
+          1220,
+          1559
+        ],
+        [
+          224,
+          1559
+        ]
+      ],
+      "score": 0.8174634575843811,
+      "y_pos": 1506,
+      "text": "Bài thuốc: Kỷ cúc địa hoàng hoàn gia giảm.",
+      "confidence": 0.9561751593242992
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_027_text.png",
+      "bbox": [
+        [
+          225,
+          1594
+        ],
+        [
+          1823,
+          1594
+        ],
+        [
+          1823,
+          1654
+        ],
+        [
+          225,
+          1654
+        ]
+      ],
+      "score": 0.5641159415245056,
+      "y_pos": 1594,
+      "text": "Địa hoàng    4 đồng cân,    <i>Chế Ô đầu</i> 4 đồng cân,",
+      "confidence": 0.9728966098620897
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_017_text.png",
+      "bbox": [
+        [
+          231,
+          1689
+        ],
+        [
+          1822,
+          1689
+        ],
+        [
+          1822,
+          1746
+        ],
+        [
+          231,
+          1746
+        ]
+      ],
+      "score": 0.6296234726905823,
+      "y_pos": 1689,
+      "text": "Thù nhuc    3 đồng cân, hoặc dùng    Ngũ vị tử    1 đồng cân,",
+      "confidence": 0.9662488688407571
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_018_text.png",
+      "bbox": [
+        [
+          228,
+          1782
+        ],
+        [
+          1821,
+          1782
+        ],
+        [
+          1821,
+          1836
+        ],
+        [
+          228,
+          1836
+        ]
+      ],
+      "score": 0.6290603876113892,
+      "y_pos": 1782,
+      "text": "Hoài sơn dược    4 đông cân,    Phuc linh    3 đồng cân,",
+      "confidence": 0.95265882778001
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_020_text.png",
+      "bbox": [
+        [
+          228,
+          1873
+        ],
+        [
+          1822,
+          1873
+        ],
+        [
+          1822,
+          1929
+        ],
+        [
+          228,
+          1929
+        ]
+      ],
+      "score": 0.6253251433372498,
+      "y_pos": 1873,
+      "text": "Câu kỷ tử    4 đồng cân,    Cúc hoa    2 đồng cân,",
+      "confidence": 0.964062498490201
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_021_text.png",
+      "bbox": [
+        [
+          226,
+          1963
+        ],
+        [
+          926,
+          1963
+        ],
+        [
+          926,
+          2020
+        ],
+        [
+          226,
+          2020
+        ]
+      ],
+      "score": 0.6078899502754211,
+      "y_pos": 1963,
+      "text": "Đồng tật lê    3 đồng cân.",
+      "confidence": 0.9833043194734132
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0395_024_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2056
+        ],
+        [
+          468,
+          2056
+        ],
+        [
+          468,
+          2109
+        ],
+        [
+          226,
+          2109
+        ]
+      ],
+      "score": 0.5818949341773987,
+      "y_pos": 2056,
+      "text": "Gia giám:",
+      "confidence": 0.8880435228347778
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_003_text.png",
+      "bbox": [
+        [
+          220,
+          2146
+        ],
+        [
+          2355,
+          2146
+        ],
+        [
+          2355,
+          2272
+        ],
+        [
+          220,
+          2272
+        ]
+      ],
+      "score": 0.9706562161445618,
+      "y_pos": 2146,
+      "text": "Đầu xoay mà đau, tai ù, hư dương thận cang, liệu chừng gia Mẫu lệ, Từ thạch mỗi thứ đều 1\nlạng, <i>Quy bản</i> 5 đồng cân.",
+      "confidence": 0.9982271512018184
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_001_text.png",
+      "bbox": [
+        [
+          221,
+          2311
+        ],
+        [
+          2360,
+          2311
+        ],
+        [
+          2360,
+          2576
+        ],
+        [
+          221,
+          2576
+        ]
+      ],
+      "score": 0.9720958471298218,
+      "y_pos": 2311,
+      "text": "c. Phong dương thượng cang: Đầu xoay như ngồi tầu xe, tai ù, đầu trướng đau hoặc đau co\ngiật, tính tình hấp tấp, thường do buồn giận mà choáng váng, đầu đau tăng, nóng bứt rứt, mặt\nđỏ, ngủ nhiều mộng mị, chân tay tê dại, miệng đắng, rêu lưỡi vàng, chất lưỡi hồng, mạch\nhuyền, sác (căng mà nhanh).",
+      "confidence": 0.9990310249044256
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_007_text.png",
+      "bbox": [
+        [
+          225,
+          2616
+        ],
+        [
+          1045,
+          2616
+        ],
+        [
+          1045,
+          2669
+        ],
+        [
+          225,
+          2669
+        ]
+      ],
+      "score": 0.9040306806564331,
+      "y_pos": 2616,
+      "text": "Cách chữa: Dẹp phong dìm dương.",
+      "confidence": 0.8677365653442614
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_010_text.png",
+      "bbox": [
+        [
+          225,
+          2705
+        ],
+        [
+          1227,
+          2705
+        ],
+        [
+          1227,
+          2759
+        ],
+        [
+          225,
+          2759
+        ]
+      ],
+      "score": 0.8735391497612,
+      "y_pos": 2705,
+      "text": "Bài thuốc: Thiên ma câu đẳng âm gia giảm",
+      "confidence": 0.9380507185345605
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_022_text.png",
+      "bbox": [
+        [
+          230,
+          2797
+        ],
+        [
+          1782,
+          2797
+        ],
+        [
+          1782,
+          2854
+        ],
+        [
+          230,
+          2854
+        ]
+      ],
+      "score": 0.6055655479431152,
+      "y_pos": 2797,
+      "text": "Thiên ma    1,5 đồng cân,    Bạch tật lê    3 đồng cân,",
+      "confidence": 0.9701709954784467
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_023_text.png",
+      "bbox": [
+        [
+          230,
+          2889
+        ],
+        [
+          1781,
+          2889
+        ],
+        [
+          1781,
+          2948
+        ],
+        [
+          230,
+          2948
+        ]
+      ],
+      "score": 0.5955914855003357,
+      "y_pos": 2889,
+      "text": "Câu đằng    4 đông cân,    Hoàng câm    3 đồng cân,",
+      "confidence": 0.9733586235896691
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_019_text.png",
+      "bbox": [
+        [
+          228,
+          2982
+        ],
+        [
+          1781,
+          2982
+        ],
+        [
+          1781,
+          3038
+        ],
+        [
+          228,
+          3038
+        ]
+      ],
+      "score": 0.6266880631446838,
+      "y_pos": 2982,
+      "text": "Ha khô thảo    4 đông cân,    Khổ định trà    2 đồng cân,",
+      "confidence": 0.9712468517514375
+    },
+    {
+      "type": "text",
+      "img_path": "p0395_016_text.png",
+      "bbox": [
+        [
+          228,
+          3073
+        ],
+        [
+          1673,
+          3073
+        ],
+        [
+          1673,
+          3129
+        ],
+        [
+          228,
+          3129
+        ]
+      ],
+      "score": 0.6405813694000244,
+      "y_pos": 3073,
+      "text": "Mẫu lê    1 lạng,    Trân châu mẫu    1 lạng.",
+      "confidence": 0.9325922217633988
+    },
+    {
+      "type": "number",
+      "img_path": "p0395_009_number.png",
+      "bbox": [
+        [
+          2306,
+          3335
+        ],
+        [
+          2357,
+          3335
+        ],
+        [
+          2357,
+          3372
+        ],
+        [
+          2306,
+          3372
+        ]
+      ],
+      "score": 0.8888344764709473,
+      "y_pos": 3335,
+      "text": "    \n    \n            \n    \n    \n\n\n\n    \n        \n\n\n\n\n    ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0395_006_footer.png",
+      "bbox": [
+        [
+          228,
+          3336
+        ],
+        [
+          1344,
+          3336
+        ],
+        [
+          1344,
+          3383
+        ],
+        [
+          228,
+          3383
+        ]
+      ],
+      "score": 0.9110321402549744,
+      "y_pos": 3336,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9384669245414015
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0395.png"
+}

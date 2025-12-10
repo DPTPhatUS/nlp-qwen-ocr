@@ -1,0 +1,500 @@
+{
+  "page_num": 38,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0038_010_header.png",
+      "bbox": [
+        [
+          1608,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1608,
+          201
+        ]
+      ],
+      "score": 0.9283857941627502,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7769746666862851
+    },
+    {
+      "type": "header",
+      "img_path": "p0038_013_header.png",
+      "bbox": [
+        [
+          228,
+          155
+        ],
+        [
+          765,
+          155
+        ],
+        [
+          765,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9139320254325867,
+      "y_pos": 155,
+      "text": "BÁT CƯƠNG BIÊN CHÚNG",
+      "confidence": 0.9834744334220886
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0038_014_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          288
+        ],
+        [
+          556,
+          288
+        ],
+        [
+          556,
+          340
+        ],
+        [
+          224,
+          340
+        ]
+      ],
+      "score": 0.913220226764679,
+      "y_pos": 288,
+      "text": "HƯ VÀ THỰC",
+      "confidence": 0.5832335650920868
+    },
+    {
+      "type": "text",
+      "img_path": "p0038_004_text.png",
+      "bbox": [
+        [
+          221,
+          369
+        ],
+        [
+          2357,
+          369
+        ],
+        [
+          2357,
+          567
+        ],
+        [
+          221,
+          567
+        ]
+      ],
+      "score": 0.976718008518219,
+      "y_pos": 369,
+      "text": "Hư, thực, là chỉ sự thịnh suy của chính, tà, nhất loạt mà nói hư là chỉ chính khí của thân người\nbất túc (không đủ) sức đề kháng giảm yếu, thực là chỉ bệnh đến mức tà khí thịnh và tà chính\ntranh nhau rất manh.",
+      "confidence": 0.9973698833978507
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0038_015_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          610
+        ],
+        [
+          541,
+          610
+        ],
+        [
+          541,
+          659
+        ],
+        [
+          225,
+          659
+        ]
+      ],
+      "score": 0.9124364852905273,
+      "y_pos": 610,
+      "text": "A. Hư chứng",
+      "confidence": 0.954725036254296
+    },
+    {
+      "type": "text",
+      "img_path": "p0038_002_text.png",
+      "bbox": [
+        [
+          275,
+          688
+        ],
+        [
+          2359,
+          688
+        ],
+        [
+          2359,
+          941
+        ],
+        [
+          275,
+          941
+        ]
+      ],
+      "score": 0.9781706929206848,
+      "y_pos": 688,
+      "text": "Thường phát sinh sau khi bệnh nặng, bệnh lâu dài, thân thể hư yếu, chính khí bất túc, biểu\nhiện chủ yếu là sắc mặt trắng bủng (trắng có xanh rêu), tinh thần ủy mị, mệt mỏi, thiếu sức,\ntim hồi hộp và ngắn hơi, tự ra mồ hôi, mồ hôi trộm, lưỡi non không rêu, mạch tế nhược vô\nlực, chữa thì dùng phép bố.",
+      "confidence": 0.9816570049814978
+    },
+    {
+      "type": "text",
+      "img_path": "p0038_012_text.png",
+      "bbox": [
+        [
+          280,
+          969
+        ],
+        [
+          2141,
+          969
+        ],
+        [
+          2141,
+          1023
+        ],
+        [
+          280,
+          1023
+        ]
+      ],
+      "score": 0.915537416934967,
+      "y_pos": 969,
+      "text": "Hư chứng có âm hư (hư nhiệt), dương hư (hư hàn), khí hư, huyết hư, ngũ tạng hư.",
+      "confidence": 0.9994239608446757
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0038_011_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1061
+        ],
+        [
+          596,
+          1061
+        ],
+        [
+          596,
+          1111
+        ],
+        [
+          226,
+          1111
+        ]
+      ],
+      "score": 0.9191989898681641,
+      "y_pos": 1061,
+      "text": "B. Thực chứng",
+      "confidence": 0.8482825557390848
+    },
+    {
+      "type": "text",
+      "img_path": "p0038_005_text.png",
+      "bbox": [
+        [
+          265,
+          1139
+        ],
+        [
+          2361,
+          1139
+        ],
+        [
+          2361,
+          1389
+        ],
+        [
+          265,
+          1389
+        ]
+      ],
+      "score": 0.9757124781608582,
+      "y_pos": 1139,
+      "text": "Nhất loạt thực chứng thường thuộc bệnh mới dấy, thế bệnh rất dữ. Đó là do một mặt tà khí\nthịnh (như ngoại cảm tà thịnh, đàm ẩm thủy thấp đình lưu, khí trệ,huyết ứ, tích thực, tích\ntrùng...), một mặt nữa là do sức cơ năng đề kháng của cơ thể vượng thịnh, kết quả của 2\nmặt tà chính đấu tranh dữ dôi.",
+      "confidence": 0.9986325059924188
+    },
+    {
+      "type": "text",
+      "img_path": "p0038_003_text.png",
+      "bbox": [
+        [
+          277,
+          1417
+        ],
+        [
+          2360,
+          1417
+        ],
+        [
+          2360,
+          1670
+        ],
+        [
+          277,
+          1670
+        ]
+      ],
+      "score": 0.977614164352417,
+      "y_pos": 1417,
+      "text": "Đặc điểm lâm sàng của thực chứng là quá trình bệnh nhất loạt rất ngắn, phản ứng của cơ\nthể rất mạnh, tinh thần căng phấn, tiếng cao, khí thô, hoặc sốt cao mặt đỏ, hoặc không sốt\nmà mặt xanh, hoặc đờm dãi tỏa thịnh (vây mạnh), hoặc đau dữ sợ sờ nắn... rêu lưỡi rất dầy,\nmach hồng có sức.",
+      "confidence": 0.9976494579182851
+    },
+    {
+      "type": "text",
+      "img_path": "p0038_018_text.png",
+      "bbox": [
+        [
+          285,
+          1699
+        ],
+        [
+          1190,
+          1699
+        ],
+        [
+          1190,
+          1749
+        ],
+        [
+          285,
+          1749
+        ]
+      ],
+      "score": 0.6810688972473145,
+      "y_pos": 1699,
+      "text": "Thực chứng cũng cấn chia ra hàn nhiệt:",
+      "confidence": 0.9877842351794243
+    },
+    {
+      "type": "text",
+      "img_path": "p0038_007_text.png",
+      "bbox": [
+        [
+          342,
+          1777
+        ],
+        [
+          2357,
+          1777
+        ],
+        [
+          2357,
+          1964
+        ],
+        [
+          342,
+          1964
+        ]
+      ],
+      "score": 0.9711880683898926,
+      "y_pos": 1777,
+      "text": "- Như sưng phổi có mủ, phát sốt miệng khát, henho đau ngực, mủ và đờm vướng đầy,\nlưỡi hồng, rêu lưỡi vàng dầy, mạch hoạt, sác, hữu lực, là lý nhiệt thực chứng. Chữa thì\ndùng phương thuốc thanh nhiệt tả phế.",
+      "confidence": 0.9984165963337132
+    },
+    {
+      "type": "text",
+      "img_path": "p0038_006_text.png",
+      "bbox": [
+        [
+          342,
+          1989
+        ],
+        [
+          2359,
+          1989
+        ],
+        [
+          2359,
+          2175
+        ],
+        [
+          342,
+          2175
+        ]
+      ],
+      "score": 0.9713472127914429,
+      "y_pos": 1989,
+      "text": "- Lại như co thắt ruột, người bệnh có phát thành cơn thành cơn rất đau ở vùng bụng,\nquần quại rên rỉ, tiếng cao, khí thô, mặt xanh, chi lạnh, rêu lưỡi trắng dầy, mạch trầm\nkhẩn, có sức, đó là lý hàn thực chứng chữa thì dùng phương thuốc ôn trung tán hàn.",
+      "confidence": 0.9109950223545186
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0038_009_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2214
+        ],
+        [
+          703,
+          2214
+        ],
+        [
+          703,
+          2266
+        ],
+        [
+          225,
+          2266
+        ]
+      ],
+      "score": 0.929019570350647,
+      "y_pos": 2214,
+      "text": "C. Hư thực hiệp tạp",
+      "confidence": 0.8499325116475424
+    },
+    {
+      "type": "text",
+      "img_path": "p0038_008_text.png",
+      "bbox": [
+        [
+          222,
+          2306
+        ],
+        [
+          2358,
+          2306
+        ],
+        [
+          2358,
+          2429
+        ],
+        [
+          222,
+          2429
+        ]
+      ],
+      "score": 0.9614703059196472,
+      "y_pos": 2306,
+      "text": "Trên lâm sàng thường có trong thực hiệp thực, trong thực có hư, tình hình hư chứng và thực\nchứng cùng tồn tại",
+      "confidence": 0.993593511827614
+    },
+    {
+      "type": "text",
+      "img_path": "p0038_000_text.png",
+      "bbox": [
+        [
+          220,
+          2467
+        ],
+        [
+          2360,
+          2467
+        ],
+        [
+          2360,
+          2802
+        ],
+        [
+          220,
+          2802
+        ]
+      ],
+      "score": 0.9834719896316528,
+      "y_pos": 2467,
+      "text": "Như người bệnh xơ gan hóa bụng có nước, toàn thân gầy mòn, thiếu máu, mệt mỏi không có\nsức, ăn uống giảm, vốn thuộc hư chứng; nhưng lại đồng thời tồn tại nhiều nước ở trong bụng,\nkiêm có khối hòn, sườn bụng đau đớn là chứng trạng của thực chứng, bởi thế nó là chứng hư\nthực hiệp tạp, chữa thì dùng phương pháp công bổ kiêm thí, hoặc trước bổ sau công, trước\ncông sau bố.",
+      "confidence": 0.9975135384314365
+    },
+    {
+      "type": "text",
+      "img_path": "p0038_001_text.png",
+      "bbox": [
+        [
+          220,
+          2837
+        ],
+        [
+          2359,
+          2837
+        ],
+        [
+          2359,
+          3164
+        ],
+        [
+          220,
+          3164
+        ]
+      ],
+      "score": 0.9832898378372192,
+      "y_pos": 2837,
+      "text": "Hư thực chân giả: Bản chất của bệnh tật là hư chứng mà biểu hiện lâm sàng có hình ảnh của\nthực chứng, gọi là giả thực. Giả thực nhất loạt biểu hiện là: Tuy c Tuy có chán ngán không nói,\nnhưng đã nói thì nhiều lời, tiếng cao, khí thô; tuy không muốn ăn nhưng có lúc lại ăn được; tuy\ncó tiết tả (đại tiện), nhưng sau tiết tả lại thấy khoái: Tuy có ngực bụng trướng đầy, nhưng không\ngiống như trướng của thực chứng là trướng không giảm mà ở đây là lúc trướng lúc giảm; tuy",
+      "confidence": 0.9995556264989929
+    },
+    {
+      "type": "footer",
+      "img_path": "p0038_016_footer.png",
+      "bbox": [
+        [
+          227,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.9013523459434509,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.952197735039693
+    },
+    {
+      "type": "number",
+      "img_path": "p0038_017_number.png",
+      "bbox": [
+        [
+          2332,
+          3340
+        ],
+        [
+          2356,
+          3340
+        ],
+        [
+          2356,
+          3373
+        ],
+        [
+          2332,
+          3373
+        ]
+      ],
+      "score": 0.8048273921012878,
+      "y_pos": 3340,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0038.png"
+}

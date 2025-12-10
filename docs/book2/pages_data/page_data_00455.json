@@ -1,0 +1,448 @@
+{
+  "page_num": 455,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0455_006_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          196
+        ],
+        [
+          1675,
+          196
+        ]
+      ],
+      "score": 0.9340896606445312,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7141765639895484
+    },
+    {
+      "type": "header",
+      "img_path": "p0455_012_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9221162796020508,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0455_010_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          331
+        ],
+        [
+          539,
+          331
+        ],
+        [
+          539,
+          378
+        ],
+        [
+          225,
+          378
+        ]
+      ],
+      "score": 0.9237855076789856,
+      "y_pos": 331,
+      "text": "25. Đau lưng",
+      "confidence": 0.9175765940121242
+    },
+    {
+      "type": "text",
+      "img_path": "p0455_001_text.png",
+      "bbox": [
+        [
+          220,
+          418
+        ],
+        [
+          2357,
+          418
+        ],
+        [
+          2357,
+          615
+        ],
+        [
+          220,
+          615
+        ]
+      ],
+      "score": 0.9778980612754822,
+      "y_pos": 418,
+      "text": "Đau lưng chủ yếu là đau một vùng lưng. Nguyên nhân gây bệnh có rất nhiều thường do bị giớ\nlạnh, bị ẩm thấp, bị chấn thương ảnh hưởng đến vướng tắc bên trong hoạc do thận hư, không\nthể nuôi dưỡng gân xương mà gây ra.",
+      "confidence": 0.9990564021612439
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0455_016_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          656
+        ],
+        [
+          571,
+          656
+        ],
+        [
+          571,
+          700
+        ],
+        [
+          284,
+          700
+        ]
+      ],
+      "score": 0.7455801963806152,
+      "y_pos": 656,
+      "text": "Cách chữa:",
+      "confidence": 0.853939284880956
+    },
+    {
+      "type": "text",
+      "img_path": "p0455_011_text.png",
+      "bbox": [
+        [
+          284,
+          745
+        ],
+        [
+          1285,
+          745
+        ],
+        [
+          1285,
+          795
+        ],
+        [
+          284,
+          795
+        ]
+      ],
+      "score": 0.9221194982528687,
+      "y_pos": 745,
+      "text": "• <b>Phương 1:</b> Thân du, Uỷ trung, Thừa sơn.",
+      "confidence": 0.9663085056976839
+    },
+    {
+      "type": "text",
+      "img_path": "p0455_005_text.png",
+      "bbox": [
+        [
+          339,
+          836
+        ],
+        [
+          2064,
+          836
+        ],
+        [
+          2064,
+          888
+        ],
+        [
+          339,
+          888
+        ]
+      ],
+      "score": 0.9346550107002258,
+      "y_pos": 836,
+      "text": "Cả 3 huyệt trên đều dùng hào kim châm đứng, theo tả pháp, lưu kim 30 phút.",
+      "confidence": 0.9989542623883799
+    },
+    {
+      "type": "text",
+      "img_path": "p0455_004_text.png",
+      "bbox": [
+        [
+          341,
+          930
+        ],
+        [
+          1210,
+          930
+        ],
+        [
+          1210,
+          980
+        ],
+        [
+          341,
+          980
+        ]
+      ],
+      "score": 0.939315915107727,
+      "y_pos": 930,
+      "text": "Bệnh đã lâu ngày, châm xong gia cứu.",
+      "confidence": 0.9889739187140214
+    },
+    {
+      "type": "text",
+      "img_path": "p0455_003_text.png",
+      "bbox": [
+        [
+          337,
+          1018
+        ],
+        [
+          2357,
+          1018
+        ],
+        [
+          2357,
+          1142
+        ],
+        [
+          337,
+          1142
+        ]
+      ],
+      "score": 0.9691177010536194,
+      "y_pos": 1018,
+      "text": "Nếu do bong gân hoặc chấn thương mà đau lưng thì dùng kim ba cạnh chích ra máu\nhuyệt <i>Uỷ trung</i>.",
+      "confidence": 0.99339283177335
+    },
+    {
+      "type": "text",
+      "img_path": "p0455_008_text.png",
+      "bbox": [
+        [
+          342,
+          1181
+        ],
+        [
+          1532,
+          1181
+        ],
+        [
+          1532,
+          1232
+        ],
+        [
+          342,
+          1232
+        ]
+      ],
+      "score": 0.9300701022148132,
+      "y_pos": 1181,
+      "text": "Nếu đau lan xuống đùi, chân thâm huyết <i>Hoàn khiêu</i>.",
+      "confidence": 0.9842557476626502
+    },
+    {
+      "type": "text",
+      "img_path": "p0455_007_text.png",
+      "bbox": [
+        [
+          339,
+          1274
+        ],
+        [
+          1936,
+          1274
+        ],
+        [
+          1936,
+          1326
+        ],
+        [
+          339,
+          1326
+        ]
+      ],
+      "score": 0.9325153827667236,
+      "y_pos": 1274,
+      "text": "Đau cứng thắt lưng và lưng trên, châm thêm huyệt Nhân trung, Yêu du.",
+      "confidence": 0.9425498494080135
+    },
+    {
+      "type": "text",
+      "img_path": "p0455_009_text.png",
+      "bbox": [
+        [
+          342,
+          1366
+        ],
+        [
+          1357,
+          1366
+        ],
+        [
+          1357,
+          1416
+        ],
+        [
+          342,
+          1416
+        ]
+      ],
+      "score": 0.9295657873153687,
+      "y_pos": 1366,
+      "text": "Nếu thân hư đau lưng, cứu huyết <i>Mênh môn</i>.",
+      "confidence": 0.9866546326213412
+    },
+    {
+      "type": "text",
+      "img_path": "p0455_000_text.png",
+      "bbox": [
+        [
+          336,
+          1459
+        ],
+        [
+          2360,
+          1459
+        ],
+        [
+          2360,
+          2006
+        ],
+        [
+          336,
+          2006
+        ]
+      ],
+      "score": 0.9871454238891602,
+      "y_pos": 1459,
+      "text": "Giảng nghĩa của phương: Lưng là phủ ngoài của thận, châm cứu <i>Thận du</i> không những\ntrừ khử hàn thấp ở lưng mà còn điều ích thận khí. Mạch bàng quang kẹp cột sống đến tận\nxương cùng, có nhanh sang thận, châm <i>Uỷ trung</i> là thông qua kinh bàng quang mà tác\ndụng vào chỗ đau, lại cùng với <i>Yêu du</i> thông qua đốc mạch mà tuyên dương khí, do đó có\ntác dụng dứt đau. Cạnh ngoài chân, đùi có liên quan đến đảm kinh, vù lấy huyệt Hoàn\nkhiêu để tuyên thông kinh khí mà dứt đau. Nhân trung điều đốc mạch để giải trừ tà khí ở\ndương kinh. Cứu <i>Mệnh môn</i> để bổ chân dương<sup>(*)</sup> ở trong thận, là phương pháp trị gốc về\nthận hư đau lưng.",
+      "confidence": 0.9868548941013435
+    },
+    {
+      "type": "text",
+      "img_path": "p0455_002_text.png",
+      "bbox": [
+        [
+          283,
+          2043
+        ],
+        [
+          2360,
+          2043
+        ],
+        [
+          2360,
+          2310
+        ],
+        [
+          283,
+          2310
+        ]
+      ],
+      "score": 0.976869523525238,
+      "y_pos": 2043,
+      "text": "• Phương 2: Điều sơn. Dùng hoà kim châm thẳng từ huyệt điều khẩu (ở kinh vị) tiến kim\nhướng về huyệt <i>Thừa sơn</i> (bàng quang kinh), vê chuyển cho mũi kim tới dưới da huyệt\nThừa sơn, dùng thủ pháp vê kim, nâng ấn kim, làm cho cảm giác tê buốt lan đến lưng.\nLưu kim 10 phút. Phép này cũng có thể chữa được cánh tay đau.",
+      "confidence": 0.964776487886831
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0455_014_footnote.png",
+      "bbox": [
+        [
+          228,
+          3166
+        ],
+        [
+          796,
+          3166
+        ],
+        [
+          796,
+          3210
+        ],
+        [
+          228,
+          3210
+        ]
+      ],
+      "score": 0.8833642601966858,
+      "y_pos": 3166,
+      "text": "(*) Chân dương: Chân khí về nóng ấm.",
+      "confidence": 0.9891448773835835
+    },
+    {
+      "type": "number",
+      "img_path": "p0455_015_number.png",
+      "bbox": [
+        [
+          2303,
+          3299
+        ],
+        [
+          2352,
+          3299
+        ],
+        [
+          2352,
+          3334
+        ],
+        [
+          2303,
+          3334
+        ]
+      ],
+      "score": 0.8689090013504028,
+      "y_pos": 3299,
+      "text": "    \n    \n    \n\n\n. .    \n    \n\n\n",
+      "confidence": 0.9633236239353816
+    },
+    {
+      "type": "footer",
+      "img_path": "p0455_013_footer.png",
+      "bbox": [
+        [
+          228,
+          3310
+        ],
+        [
+          1323,
+          3310
+        ],
+        [
+          1323,
+          3354
+        ],
+        [
+          228,
+          3354
+        ]
+      ],
+      "score": 0.9183551073074341,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9981425269594733
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0455.png"
+}

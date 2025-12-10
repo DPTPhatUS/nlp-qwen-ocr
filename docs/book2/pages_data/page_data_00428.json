@@ -1,0 +1,474 @@
+{
+  "page_num": 428,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0428_005_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2368,
+          143
+        ],
+        [
+          2368,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9231210947036743,
+      "y_pos": 143,
+      "text": "^7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6913668758102826
+    },
+    {
+      "type": "header",
+      "img_path": "p0428_008_header.png",
+      "bbox": [
+        [
+          229,
+          149
+        ],
+        [
+          1448,
+          149
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9162662625312805,
+      "y_pos": 149,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9855625457488574
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0428_010_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          329
+        ],
+        [
+          386,
+          329
+        ],
+        [
+          386,
+          375
+        ],
+        [
+          226,
+          375
+        ]
+      ],
+      "score": 0.9093533158302307,
+      "y_pos": 329,
+      "text": "•\n1",
+      "confidence": 0.4684040769934654
+    },
+    {
+      "type": "text",
+      "img_path": "p0428_004_text.png",
+      "bbox": [
+        [
+          221,
+          416
+        ],
+        [
+          2361,
+          416
+        ],
+        [
+          2361,
+          545
+        ],
+        [
+          221,
+          545
+        ]
+      ],
+      "score": 0.9559798836708069,
+      "y_pos": 416,
+      "text": "Hen suyễn cũng gọi là bệnh hống. Nguyên nhân gây bệnh rất phức tạp, nói chung do thể lực\nsuy nhược, ngoại cảm phong hàn, hoặc bị bệnh đường hô hấp không chưa tận gốc cho dứt.",
+      "confidence": 0.999582738152409
+    },
+    {
+      "type": "text",
+      "img_path": "p0428_002_text.png",
+      "bbox": [
+        [
+          221,
+          579
+        ],
+        [
+          2360,
+          579
+        ],
+        [
+          2360,
+          776
+        ],
+        [
+          221,
+          776
+        ]
+      ],
+      "score": 0.9697250127792358,
+      "y_pos": 579,
+      "text": "Triệu chứng chủ yếu là thở hít nhanh gấp, đờm khó long, hầu kêu như kéo cưa, nhổ đờm ra\nxong thì dễ chịu. Bệnh nặng thì há miệng so vai, không thể nằm ngay ngắn, cử động dễ ra mồ\nhôi, chân tay lạnh, sức mặt trắng bợt.",
+      "confidence": 0.9969548145983355
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0428_015_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          819
+        ],
+        [
+          570,
+          819
+        ],
+        [
+          570,
+          862
+        ],
+        [
+          285,
+          862
+        ]
+      ],
+      "score": 0.87676602602005,
+      "y_pos": 819,
+      "text": "Cách chữa:",
+      "confidence": 0.8509688675403595
+    },
+    {
+      "type": "text",
+      "img_path": "p0428_006_text.png",
+      "bbox": [
+        [
+          282,
+          905
+        ],
+        [
+          2258,
+          905
+        ],
+        [
+          2258,
+          961
+        ],
+        [
+          282,
+          961
+        ]
+      ],
+      "score": 0.9190385341644287,
+      "y_pos": 905,
+      "text": "Khi phát cơ hen, lấy bình suyễn làm chính, lấy huyệt: Định suyễn, Chiên trung, Nội quan.",
+      "confidence": 0.993536075618532
+    },
+    {
+      "type": "text",
+      "img_path": "p0428_001_text.png",
+      "bbox": [
+        [
+          280,
+          996
+        ],
+        [
+          2358,
+          996
+        ],
+        [
+          2358,
+          1191
+        ],
+        [
+          280,
+          1191
+        ]
+      ],
+      "score": 0.9726185202598572,
+      "y_pos": 996,
+      "text": "Trước hết láy huyệt Định suyễn, dùng phép vê chuyển, làm cho châm cảm lan tỏa xuống\ndưới lưng, mông. Châm Chiên trung, châm dưới da chếch thẳng xuống hơn một thốn, dùng\nphép vê kim.",
+      "confidence": 0.9985670254720662
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0428_013_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          1234
+        ],
+        [
+          522,
+          1234
+        ],
+        [
+          522,
+          1283
+        ],
+        [
+          284,
+          1283
+        ]
+      ],
+      "score": 0.8823399543762207,
+      "y_pos": 1234,
+      "text": "Gia giảm:",
+      "confidence": 0.8402079939842224
+    },
+    {
+      "type": "text",
+      "img_path": "p0428_009_text.png",
+      "bbox": [
+        [
+          282,
+          1323
+        ],
+        [
+          1170,
+          1323
+        ],
+        [
+          1170,
+          1376
+        ],
+        [
+          282,
+          1376
+        ]
+      ],
+      "score": 0.9099128246307373,
+      "y_pos": 1323,
+      "text": "Đờm nhiều gia Phong long, Liệt khuyết.",
+      "confidence": 0.9879226863384247
+    },
+    {
+      "type": "text",
+      "img_path": "p0428_007_text.png",
+      "bbox": [
+        [
+          282,
+          1413
+        ],
+        [
+          1613,
+          1413
+        ],
+        [
+          1613,
+          1467
+        ],
+        [
+          282,
+          1467
+        ]
+      ],
+      "score": 0.9188759922981262,
+      "y_pos": 1413,
+      "text": "Suyễn lâu người yếu, châm thêm Phế du, Thận du, Khí hải.",
+      "confidence": 0.9996183761234941
+    },
+    {
+      "type": "text",
+      "img_path": "p0428_003_text.png",
+      "bbox": [
+        [
+          281,
+          1504
+        ],
+        [
+          2356,
+          1504
+        ],
+        [
+          2356,
+          1629
+        ],
+        [
+          281,
+          1629
+        ]
+      ],
+      "score": 0.9635401964187622,
+      "y_pos": 1504,
+      "text": "Phế khí tức đầy, có thể khêu nặn máu ở Phế du, gia bầu giác, làm cho máu ứ lại ở dưới da\ncó hiệu lực chặn cơn suyễn.",
+      "confidence": 0.9926183759823612
+    },
+    {
+      "type": "text",
+      "img_path": "p0428_000_text.png",
+      "bbox": [
+        [
+          278,
+          1668
+        ],
+        [
+          2358,
+          1668
+        ],
+        [
+          2358,
+          2145
+        ],
+        [
+          278,
+          2145
+        ]
+      ],
+      "score": 0.986308753490448,
+      "y_pos": 1668,
+      "text": "Giảng nghĩa của phương: Phương này lấy bình suyễn<sup>(*)</sup>, khử đờm làm chính. Định suyễn\nlà huyệt kinh nghiệm lâm sàng. Nội quan nới giãn ngực và cơ hoành, phế khí tự giáng. Chiên\ntrung có công hiệu thuận khí hóa đờm thấp. Nếu đờm nhiệt tại phế, cản trở phế khí, tuyên\ngiáng (thông xuống) thất thường nên dùng Phong long, Liệt khuyết để khử đờm, tiết nhiệt.\nNgười yếu cứu Phế du, Thận du, Khí hải để bổ thêm phế khí và thận khí. Phế, thận đầy đủ\nkhí lưc thì trên có thể khỏi, dưới có thể nạp, khí cơ tự thăng giáng bình thường, chứng suyễn\nsẽ tư khỏi.",
+      "confidence": 0.9977725282296603
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0428_017_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          2187
+        ],
+        [
+          1353,
+          2187
+        ],
+        [
+          1353,
+          2241
+        ],
+        [
+          285,
+          2241
+        ]
+      ],
+      "score": 0.5539560317993164,
+      "y_pos": 2187,
+      "text": "Phương huyệt kinh nghiệm đạt hiệu quả cao",
+      "confidence": 0.9988825251889784
+    },
+    {
+      "type": "text",
+      "img_path": "p0428_012_text.png",
+      "bbox": [
+        [
+          287,
+          2278
+        ],
+        [
+          1013,
+          2278
+        ],
+        [
+          1013,
+          2329
+        ],
+        [
+          287,
+          2329
+        ]
+      ],
+      "score": 0.9069119095802307,
+      "y_pos": 2278,
+      "text": "\n    Cứu huyết Linh đài, Côn luân.\n",
+      "confidence": 0.9760603449561379
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0428_014_footnote.png",
+      "bbox": [
+        [
+          228,
+          3165
+        ],
+        [
+          684,
+          3165
+        ],
+        [
+          684,
+          3210
+        ],
+        [
+          228,
+          3210
+        ]
+      ],
+      "score": 0.8808997273445129,
+      "y_pos": 3165,
+      "text": "(*) Bình suyễn: Dẹp cơn suyễn.",
+      "confidence": 0.7882765028625727
+    },
+    {
+      "type": "number",
+      "img_path": "p0428_016_number.png",
+      "bbox": [
+        [
+          2307,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2307,
+          3335
+        ]
+      ],
+      "score": 0.8555201888084412,
+      "y_pos": 3300,
+      "text": "    \n    \n\n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0428_011_footer.png",
+      "bbox": [
+        [
+          228,
+          3310
+        ],
+        [
+          1323,
+          3310
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          228,
+          3355
+        ]
+      ],
+      "score": 0.9080502390861511,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9293094086197188
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0428.png"
+}

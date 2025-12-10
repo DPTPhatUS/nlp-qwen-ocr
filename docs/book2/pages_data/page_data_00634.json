@@ -1,0 +1,370 @@
+{
+  "page_num": 634,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0634_005_header.png",
+      "bbox": [
+        [
+          1674,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1674,
+          197
+        ]
+      ],
+      "score": 0.9226530194282532,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.710203885677315
+    },
+    {
+      "type": "header",
+      "img_path": "p0634_009_header.png",
+      "bbox": [
+        [
+          229,
+          151
+        ],
+        [
+          1171,
+          151
+        ],
+        [
+          1171,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9077517986297607,
+      "y_pos": 151,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "text",
+      "img_path": "p0634_000_text.png",
+      "bbox": [
+        [
+          368,
+          306
+        ],
+        [
+          2359,
+          306
+        ],
+        [
+          2359,
+          504
+        ],
+        [
+          368,
+          504
+        ]
+      ],
+      "score": 0.9782025218009949,
+      "y_pos": 306,
+      "text": "+ Kinh Tâm bào, Can, Tỳ: đều có số tương quan với giá trị tuyệt đối lớn hơn hoặc gần\nbằng sai số giới hạn và mang dấu dương (+). Nghĩa là các kinh Tâm bào, Can, Tỳ đang\nở trạng thái nhiệt bệnh lý, <b>ta ghi</b>: Tâm bào (+BL), Can (+BL), Tỳ (+BL).",
+      "confidence": 0.9987314513634179
+    },
+    {
+      "type": "text",
+      "img_path": "p0634_002_text.png",
+      "bbox": [
+        [
+          370,
+          538
+        ],
+        [
+          2356,
+          538
+        ],
+        [
+          2356,
+          665
+        ],
+        [
+          370,
+          665
+        ]
+      ],
+      "score": 0.9672605991363525,
+      "y_pos": 538,
+      "text": "+ Kinh Phế, Thận: đều có số tương quan mang dấu dương (+). Nghĩa là các kinh Phế,\nThận đang ở trạng thái nhiệt, <b>ta ghi</b>: Phế (+), Thận (+).",
+      "confidence": 0.9979773832133496
+    },
+    {
+      "type": "text",
+      "img_path": "p0634_004_text.png",
+      "bbox": [
+        [
+          281,
+          700
+        ],
+        [
+          2357,
+          700
+        ],
+        [
+          2357,
+          830
+        ],
+        [
+          281,
+          830
+        ]
+      ],
+      "score": 0.9226892590522766,
+      "y_pos": 700,
+      "text": "Mô hình chỉ số nhiệt kinh lạc bệnh chứng thoái hóa đốt sống cổ được đúc kết: Tiểu\ntrường (-BL), Tâm bào (+BL), Can (+BL), Tỳ (+BL), Phế (+), Thận (+).",
+      "confidence": 0.9960656856300498
+    },
+    {
+      "type": "text",
+      "img_path": "p0634_013_text.png",
+      "bbox": [
+        [
+          343,
+          862
+        ],
+        [
+          1398,
+          862
+        ],
+        [
+          1398,
+          918
+        ],
+        [
+          343,
+          918
+        ]
+      ],
+      "score": 0.6736840009689331,
+      "y_pos": 862,
+      "text": "HÒ SƠ BÊNH ÁN - CHỈ SỐ NHIỆT KINH LẠC",
+      "confidence": 0.9761876265207926
+    },
+    {
+      "type": "text",
+      "img_path": "p0634_006_text.png",
+      "bbox": [
+        [
+          344,
+          954
+        ],
+        [
+          950,
+          954
+        ],
+        [
+          950,
+          1008
+        ],
+        [
+          344,
+          1008
+        ]
+      ],
+      "score": 0.9111636281013489,
+      "y_pos": 954,
+      "text": "Ho tên: Nguyễn L., 62 tuổi.",
+      "confidence": 0.9912095953678263
+    },
+    {
+      "type": "text",
+      "img_path": "p0634_003_text.png",
+      "bbox": [
+        [
+          343,
+          1050
+        ],
+        [
+          1340,
+          1050
+        ],
+        [
+          1340,
+          1100
+        ],
+        [
+          343,
+          1100
+        ]
+      ],
+      "score": 0.9316286444664001,
+      "y_pos": 1050,
+      "text": "Thời gian đo: 9 giờ 50 phút, ngày 24/9/1994.",
+      "confidence": 0.9845620484455772
+    },
+    {
+      "type": "text",
+      "img_path": "p0634_007_text.png",
+      "bbox": [
+        [
+          345,
+          1138
+        ],
+        [
+          985,
+          1138
+        ],
+        [
+          985,
+          1192
+        ],
+        [
+          345,
+          1192
+        ]
+      ],
+      "score": 0.910787045955658,
+      "y_pos": 1138,
+      "text": "Nhiệt độ môi trường: 26,2°C",
+      "confidence": 0.9812038499733498
+    },
+    {
+      "type": "text",
+      "img_path": "p0634_012_text.png",
+      "bbox": [
+        [
+          344,
+          1234
+        ],
+        [
+          627,
+          1234
+        ],
+        [
+          627,
+          1283
+        ],
+        [
+          344,
+          1283
+        ]
+      ],
+      "score": 0.7437428832054138,
+      "y_pos": 1234,
+      "text": "Chu kỳ kinh.",
+      "confidence": 0.9803079749856677
+    },
+    {
+      "type": "table",
+      "img_path": "p0634_001_table.png",
+      "bbox": [
+        [
+          409,
+          1331
+        ],
+        [
+          2178,
+          1331
+        ],
+        [
+          2178,
+          2872
+        ],
+        [
+          409,
+          2872
+        ]
+      ],
+      "score": 0.9675741791725159,
+      "y_pos": 1331,
+      "text": "35,4    0,5    35,15    0,08    35,23\n34,9    35,07\nTiểu    -35,0    34,95    -0,2    -34,9    0,1\nTâm    +35,4    35,40    +0,25    +35,4    0\nTam    35,2    35,25    +0,10    +35,3    0,1\nBào    +35,4    35,35    +0,20    +35,3    0,1\nĐại    -35,0    35,15    0    +35,3    0,3\nPhế    +35,3    35,30    +0,15    +35,3    0\n34,7    1,7    33,85    0,28    34,13\n33,0    33,57\nBàng    +34,3    33,65    -0,2    -33,0    1,3\nThận    +34,7    34,15    +0,3    33,6    1,1\nĐảm    +34,2    33,75    -0,1    33,3    0,9\nVį    34,0    34,00    +0,15    34,0    0\nCan    +34,3    34,30    +0,25    +34,3    0\nΤỳ    +34,2    34,1    +0,25    34,0    0,2",
+      "confidence": 0.933178792593553
+    },
+    {
+      "type": "text",
+      "img_path": "p0634_010_text.png",
+      "bbox": [
+        [
+          345,
+          3058
+        ],
+        [
+          1582,
+          3058
+        ],
+        [
+          1582,
+          3114
+        ],
+        [
+          345,
+          3114
+        ]
+      ],
+      "score": 0.8879939317703247,
+      "y_pos": 3058,
+      "text": "Tiểu kết: Thoái hoá đốt sống cổ (có kèm khó quay cổ).",
+      "confidence": 0.9964242447506297
+    },
+    {
+      "type": "number",
+      "img_path": "p0634_011_number.png",
+      "bbox": [
+        [
+          2305,
+          3336
+        ],
+        [
+          2354,
+          3336
+        ],
+        [
+          2354,
+          3373
+        ],
+        [
+          2305,
+          3373
+        ]
+      ],
+      "score": 0.8652752041816711,
+      "y_pos": 3336,
+      "text": "    \n    \n    \n\n\n\n\n    \n    \n\n    \n.    \n    \n    ",
+      "confidence": 0.9746627321709758
+    },
+    {
+      "type": "footer",
+      "img_path": "p0634_008_footer.png",
+      "bbox": [
+        [
+          228,
+          3339
+        ],
+        [
+          1323,
+          3339
+        ],
+        [
+          1323,
+          3388
+        ],
+        [
+          228,
+          3388
+        ]
+      ],
+      "score": 0.9089855551719666,
+      "y_pos": 3339,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9428327072341487
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0634.png"
+}

@@ -1,0 +1,318 @@
+{
+  "page_num": 235,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0235_007_text.png",
+      "bbox": [
+        [
+          462,
+          450
+        ],
+        [
+          1908,
+          450
+        ],
+        [
+          1908,
+          503
+        ],
+        [
+          462,
+          503
+        ]
+      ],
+      "score": 0.7547932267189026,
+      "y_pos": 450,
+      "text": "* Phân tích bài thuốc phục mạch thang (Chích Cam thảo thang)",
+      "confidence": 0.9724928775141316
+    },
+    {
+      "type": "table",
+      "img_path": "p0235_000_table.png",
+      "bbox": [
+        [
+          352,
+          638
+        ],
+        [
+          2124,
+          638
+        ],
+        [
+          2124,
+          1430
+        ],
+        [
+          352,
+          1430
+        ]
+      ],
+      "score": 0.9895862936973572,
+      "y_pos": 638,
+      "text": "Vị thuốc    Dược lý Đông y\nCam thảo    Ngot, ấm. Bổ Tỳ thổ, dưỡng tâm hòa trung\nNhân sâm    Ngọt, hơi đắng. Bổ Tâm khí, đại bổ nguyên khí, ích huyết sinh tân\nĐai táo    Ngot, bình, ích khí bổ Tỳ, trị tâm hư\nQuế chi    On kinh, thông dương\nSinh khương    Giải biểu phát hãn.\nSinh địa    Dưỡng âm, dưỡng huyết\nA giao    Tư âm, bổ huyết\nMach môn    Nhuận Phế, sinh tân dịch\nMa nhân    Ngot, bình. Nhuân trường, lơi niêu, chống nôn",
+      "confidence": 0.8813424060384725
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0235_009_figure_title.png",
+      "bbox": [
+        [
+          409,
+          1513
+        ],
+        [
+          1039,
+          1513
+        ],
+        [
+          1039,
+          1565
+        ],
+        [
+          409,
+          1565
+        ]
+      ],
+      "score": 0.6186881065368652,
+      "y_pos": 1513,
+      "text": "Công thức huyệt sử dụng",
+      "confidence": 0.999286437034607
+    },
+    {
+      "type": "table",
+      "img_path": "p0235_001_table.png",
+      "bbox": [
+        [
+          351,
+          1614
+        ],
+        [
+          2125,
+          1614
+        ],
+        [
+          2125,
+          2087
+        ],
+        [
+          351,
+          2087
+        ]
+      ],
+      "score": 0.9869152903556824,
+      "y_pos": 1614,
+      "text": "Tên huyệt    Cơ sở lý luận    Tác dụng điều trị\nTâm du    Bối du huyệt của Tâm    Dưỡng Tâm an thần\nTỳ du    Bối du huyệt của Tỳ    Kiện Tỳ dưỡng huyết\nCách du    Hội huyệt của huyết    Bổ huyết\nThái bạch    Nguyên huyệt của Tỳ    Kiện Tỳ, Vị\nPhong long    Huyệt lạc của Vị",
+      "confidence": 0.9157376440595116
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0235_006_paragraph_title.png",
+      "bbox": [
+        [
+          1096,
+          2204
+        ],
+        [
+          1382,
+          2204
+        ],
+        [
+          1382,
+          2255
+        ],
+        [
+          1096,
+          2255
+        ]
+      ],
+      "score": 0.8663700222969055,
+      "y_pos": 2204,
+      "text": "TAM    Y HƯ",
+      "confidence": 0.6738976697836603
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_008_text.png",
+      "bbox": [
+        [
+          367,
+          2328
+        ],
+        [
+          2104,
+          2328
+        ],
+        [
+          2104,
+          2424
+        ],
+        [
+          367,
+          2424
+        ]
+      ],
+      "score": 0.6598411798477173,
+      "y_pos": 2328,
+      "text": "- Chức năng chủ yếu bi rối loan là chức năng chủ thần minh của Tâm và chức năng vân\nhóa thủy thấp của Tỳ",
+      "confidence": 0.9972996680175557
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_011_text.png",
+      "bbox": [
+        [
+          367,
+          2524
+        ],
+        [
+          2107,
+          2524
+        ],
+        [
+          2107,
+          2623
+        ],
+        [
+          367,
+          2623
+        ]
+      ],
+      "score": 0.550454318523407,
+      "y_pos": 2524,
+      "text": "- Thuốc tiêu biểu trong điều trị bệnh chứng Tâm Tỳ hư: Quy tỳ thang, Phục mạch thang, Bát\ntrân thang gia giảm",
+      "confidence": 0.9972136794647455
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0235_003_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          2714
+        ],
+        [
+          896,
+          2714
+        ],
+        [
+          896,
+          2759
+        ],
+        [
+          344,
+          2759
+        ]
+      ],
+      "score": 0.9328900575637817,
+      "y_pos": 2714,
+      "text": "2.1.9. Tâm Phế khi hư",
+      "confidence": 0.9780754161917645
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0235_005_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          2812
+        ],
+        [
+          821,
+          2812
+        ],
+        [
+          821,
+          2860
+        ],
+        [
+          345,
+          2860
+        ]
+      ],
+      "score": 0.8856779336929321,
+      "y_pos": 2812,
+      "text": "2.1.9.1. Bênh nguyên",
+      "confidence": 0.9382576400583441
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_002_text.png",
+      "bbox": [
+        [
+          407,
+          2906
+        ],
+        [
+          2119,
+          2906
+        ],
+        [
+          2119,
+          3015
+        ],
+        [
+          407,
+          3015
+        ]
+      ],
+      "score": 0.9636176824569702,
+      "y_pos": 2906,
+      "text": "- Chứng âm hư hỏa vượng, nội hỏa sinh ra, làm tổn hao huyết dịch, hư hỏa\ncàng bốc. Tổn hại Tâm hỏa, hại đến Phế kim.",
+      "confidence": 0.9952705358868246
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_010_text.png",
+      "bbox": [
+        [
+          349,
+          3109
+        ],
+        [
+          432,
+          3109
+        ],
+        [
+          432,
+          3148
+        ],
+        [
+          349,
+          3148
+        ]
+      ],
+      "score": 0.6140840649604797,
+      "y_pos": 3109,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0235_004_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3365
+        ],
+        [
+          293,
+          3365
+        ]
+      ],
+      "score": 0.8929980993270874,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8792689868382045
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0235.png"
+}

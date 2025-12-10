@@ -1,0 +1,370 @@
+{
+  "page_num": 324,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0324_008_header.png",
+      "bbox": [
+        [
+          1608,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          202
+        ],
+        [
+          1608,
+          202
+        ]
+      ],
+      "score": 0.9233555197715759,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7642816684785343
+    },
+    {
+      "type": "header",
+      "img_path": "p0324_009_header.png",
+      "bbox": [
+        [
+          230,
+          155
+        ],
+        [
+          945,
+          155
+        ],
+        [
+          945,
+          204
+        ],
+        [
+          230,
+          204
+        ]
+      ],
+      "score": 0.9155367016792297,
+      "y_pos": 155,
+      "text": "TANG PHỦ BIÊN CHÚNG LUÂN TRI",
+      "confidence": 0.9021184047063192
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0324_011_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          304
+        ],
+        [
+          1340,
+          304
+        ],
+        [
+          1340,
+          359
+        ],
+        [
+          224,
+          359
+        ]
+      ],
+      "score": 0.9127017259597778,
+      "y_pos": 304,
+      "text": "3. Phế nhiệt khái suyễn (phổi nóng mà ho hen)",
+      "confidence": 0.9642279021283413
+    },
+    {
+      "type": "text",
+      "img_path": "p0324_006_text.png",
+      "bbox": [
+        [
+          284,
+          396
+        ],
+        [
+          2356,
+          396
+        ],
+        [
+          2356,
+          592
+        ],
+        [
+          284,
+          592
+        ]
+      ],
+      "score": 0.973215639591217,
+      "y_pos": 396,
+      "text": "a. Triệu chứng: Ho, suyễn gấp, đờm vàng, dẻo đều, hoặc ho nôn máu mủ, mùi hôi tanh,\nhầu họng đau hoặc tức ngực, sợ lạnh phát nóng, lưỡi hồng rêu vàng hoặc vàng trơn,\nmạch sác hoặc hoạt sác (trơn, nhanh).",
+      "confidence": 0.9950163826548496
+    },
+    {
+      "type": "text",
+      "img_path": "p0324_002_text.png",
+      "bbox": [
+        [
+          284,
+          629
+        ],
+        [
+          2359,
+          629
+        ],
+        [
+          2359,
+          969
+        ],
+        [
+          284,
+          969
+        ]
+      ],
+      "score": 0.9818945527076721,
+      "y_pos": 629,
+      "text": "b. Bệnh lý: Phế nhiệt ho suyễn là phế có thực nhiệt; viêm phổi cấp, đờm nhiệt kết dẻo lại,\nphế khí không được tuyên thông, càng thấy ho, suyễn; nếu đàm nhiệt trở tắc, phế mạch\nkhông thư thì thấy tức ngực. Nếu nhiệt thịnh huyết ứ, huyết nhục hủ bại<sup>(*)</sup>, sẽ nôn ra mủ,\nmáu, sốt nóng, rét. Lưỡi hồng, rêu lưỡi vàng trơn, mạch sác hoặc hoạt là tượng lưỡi hoặc\ntương mạch của nhiệt chứng, thực chứng.",
+      "confidence": 0.9922313583114535
+    },
+    {
+      "type": "text",
+      "img_path": "p0324_004_text.png",
+      "bbox": [
+        [
+          286,
+          1006
+        ],
+        [
+          2362,
+          1006
+        ],
+        [
+          2362,
+          1202
+        ],
+        [
+          286,
+          1202
+        ]
+      ],
+      "score": 0.9745187759399414,
+      "y_pos": 1006,
+      "text": "c. Phép chữa: Nên thanh phế hoá đờm, chỉ khái, bình suyễn, dùng Ma hạnh thạch cam\nthang, hoặc <i>Vĩ kinh thang</i>, gia thêm các vị trừ đờm, bài mủ (như <i>Triết bối mẫu</i>, sao <i>Xuyên</i>\nsơn giáp, gia Bồ kết, Bồ công anh<sup>(*)</sup>, Ngư tinh thái<sup>(**)</sup>).",
+      "confidence": 0.979617513915701
+    },
+    {
+      "type": "text",
+      "img_path": "p0324_000_text.png",
+      "bbox": [
+        [
+          326,
+          1238
+        ],
+        [
+          2363,
+          1238
+        ],
+        [
+          2363,
+          1791
+        ],
+        [
+          326,
+          1791
+        ]
+      ],
+      "score": 0.9844841361045837,
+      "y_pos": 1238,
+      "text": "Viêm phế quản cấp, mạn, hen phế quản thuộc phế nhiệt, dùng <i>Ma hạnh thạch cam thang</i>;\nnếu lưỡi hồng, rêu vàng khô, sốt về chiều là phế nhiệt thương tân, thì dùng <i>Tả bạch tán</i>\ngia giảm (hen suyễn gia Ma hoàng, Khổ hạnh nhân; ho dữ gia Triết bối mẫu, Qua lâu).\nChứng nhiệt của viêm phổi thời kỳ đầu và giữa thì dùng Ma hạnh thạch cam thang hoặc\nkết hợp với <i>Vĩ kinh thang</i> gia <i>rau Dấp cá</i>. Giãn phế quản thuộc phế nhiệt chứng dùng <i>Vĩ</i>\nkinh thang gia Bách bộ, Bạch cập. Viêm ổ mủ trong phổi thuộc phế nhiệt, dùng Vĩ kinh\nthang gia Bại tương thảo, rau Dấp cá, Triết bối mẫu, Bồ công anh. Nếu là phế táo ho\nhắng, xem chứng táo của biện chứng về ôn nhiệt bệnh.",
+      "confidence": 0.9798024081394404
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0324_012_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          1824
+        ],
+        [
+          552,
+          1824
+        ],
+        [
+          552,
+          1872
+        ],
+        [
+          224,
+          1872
+        ]
+      ],
+      "score": 0.9118980169296265,
+      "y_pos": 1824,
+      "text": "4. Phế khí hư",
+      "confidence": 0.9758670886357625
+    },
+    {
+      "type": "text",
+      "img_path": "p0324_005_text.png",
+      "bbox": [
+        [
+          285,
+          1916
+        ],
+        [
+          2358,
+          1916
+        ],
+        [
+          2358,
+          2113
+        ],
+        [
+          285,
+          2113
+        ]
+      ],
+      "score": 0.9735085368156433,
+      "y_pos": 1916,
+      "text": "a. Triệu chứng: Ho, thở ngắn hơi, có khi suyễn gấp hoặc thở hít khó khăn, đờm nhiều mà\nlỏng, mệt mỏi, ngại nói, tiếng trầm yếu, sợ lạnh, ra mồ hôi, sắc mặt trắng nhợt, chất lưỡi\nnhạt, mạch hư nhược, ho thấy đau ngực, ven lưỡi có nốt ứ là khí hư kiêm huyết ứ.",
+      "confidence": 0.9987524642900167
+    },
+    {
+      "type": "text",
+      "img_path": "p0324_003_text.png",
+      "bbox": [
+        [
+          283,
+          2148
+        ],
+        [
+          2358,
+          2148
+        ],
+        [
+          2358,
+          2416
+        ],
+        [
+          283,
+          2416
+        ]
+      ],
+      "score": 0.9793044328689575,
+      "y_pos": 2148,
+      "text": "b. Bệnh lý: Phế khí hư, khí bất túc gây ho, ngắn hơi, tiếng nói trầm yếu. Khí hư tất sinh\nđờm, đờm nhiều, lỏng; phế khí bất túc, da không săn, nên sợ lạnh, tự ra mồ hôi. Chất lưỡi\nnhạt, chậm, mạch hư nhược là tượng mạch và tượng lưỡi của chứng hư, sắc mặt trắng\nnhơt chủ về phế khí bất túc.",
+      "confidence": 0.9980285120815837
+    },
+    {
+      "type": "text",
+      "img_path": "p0324_001_text.png",
+      "bbox": [
+        [
+          285,
+          2457
+        ],
+        [
+          2359,
+          2457
+        ],
+        [
+          2359,
+          2930
+        ],
+        [
+          285,
+          2930
+        ]
+      ],
+      "score": 0.9835800528526306,
+      "y_pos": 2457,
+      "text": "c. Phép chữa: Nên ích khí trừ đờm, thường dùng Hoàng kỳ, Đảng sâm, Ngũ vị tử, Tử uyển,\nBán hạ, Hải phù thạch<sup>(***)</sup>, Quất hồng, Chích cam thảo, gia giảm mà chữa. Nếu do các\nbệnh khác làm phế khí hư gây ra thở hít khó khăn thì dùng Ngải cứu huyệt Chiên trung.\nNếu hơ cứu vô hiệu thì cứu trực tiếp, rồi tuỳ chứng mà luận trị. Nếu phế khí hư lại kèm\ntheo ứ huyết thì nên trừ đàm ích khí thêm Tam lăng, Nga truật để hoạt huyết trừ ứ. Nếu\nhuyết ứ lại có thêm máu trong đờm thì gia <i>Bồ hóng bếp, Bách thảo sương (****)</i>, hoặc <i>Than</i>\ntóc rối để cầm máu.",
+      "confidence": 0.9906959438459281
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0324_007_footnote.png",
+      "bbox": [
+        [
+          227,
+          3015
+        ],
+        [
+          1097,
+          3015
+        ],
+        [
+          1097,
+          3209
+        ],
+        [
+          227,
+          3209
+        ]
+      ],
+      "score": 0.9633068442344666,
+      "y_pos": 3015,
+      "text": "(*) Huyết nhục hủ bại: Máu thịt nóng rát.\n(*) Bồ công anh: Rau Diếp dại.\n(**) Ngư tinh thái: Rau Dấp cá.\n(***) Hải phù thạch: Đá bọt biển hay dùng trong nghề sơn mài.\n(*****) Bách thảo sương: Nhọ muội ở đít nồi đun củi.",
+      "confidence": 0.7376482368389244
+    },
+    {
+      "type": "footer",
+      "img_path": "p0324_010_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9144731163978577,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0324_013_number.png",
+      "bbox": [
+        [
+          2304,
+          3338
+        ],
+        [
+          2350,
+          3338
+        ],
+        [
+          2350,
+          3373
+        ],
+        [
+          2304,
+          3373
+        ]
+      ],
+      "score": 0.8520287275314331,
+      "y_pos": 3338,
+      "text": "\n\n    \n\n\n\n\n\n\n    \n\n\n\n\n    \n۰\n٠.\n\n",
+      "confidence": 0.9519803415645253
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0324.png"
+}

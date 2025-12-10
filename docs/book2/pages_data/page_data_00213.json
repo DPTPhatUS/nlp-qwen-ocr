@@ -1,0 +1,448 @@
+{
+  "page_num": 213,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0213_003_header.png",
+      "bbox": [
+        [
+          1607,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9303563237190247,
+      "y_pos": 143,
+      "text": "~ ~ ~\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6999826583833921
+    },
+    {
+      "type": "header",
+      "img_path": "p0213_006_header.png",
+      "bbox": [
+        [
+          228,
+          157
+        ],
+        [
+          906,
+          157
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9196493029594421,
+      "y_pos": 157,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9872237073964086
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0213_005_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          362
+        ],
+        [
+          1218,
+          362
+        ],
+        [
+          1218,
+          420
+        ],
+        [
+          224,
+          420
+        ]
+      ],
+      "score": 0.9196884632110596,
+      "y_pos": 362,
+      "text": "TÊN HUYÊT Ở 6 MACH KỲ KINH CÒN LAI",
+      "confidence": 0.9927420947286818
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0213_015_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          466
+        ],
+        [
+          544,
+          466
+        ],
+        [
+          544,
+          512
+        ],
+        [
+          227,
+          512
+        ]
+      ],
+      "score": 0.8679586052894592,
+      "y_pos": 466,
+      "text": "A. Xung mach",
+      "confidence": 0.8904422010694232
+    },
+    {
+      "type": "text",
+      "img_path": "p0213_000_text.png",
+      "bbox": [
+        [
+          281,
+          553
+        ],
+        [
+          2360,
+          553
+        ],
+        [
+          2360,
+          674
+        ],
+        [
+          281,
+          674
+        ]
+      ],
+      "score": 0.9639278054237366,
+      "y_pos": 553,
+      "text": "Hội âm, Khí xung, Hoành cốt, Đại hách, Khí huyệt, Tứ mãn, Trung chú, Hoang du, Thương\nkhúc, Thach quan, Âm đô.",
+      "confidence": 0.9948919856184674
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0213_013_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          719
+        ],
+        [
+          528,
+          719
+        ],
+        [
+          528,
+          765
+        ],
+        [
+          228,
+          765
+        ]
+      ],
+      "score": 0.9071213006973267,
+      "y_pos": 719,
+      "text": "B. Đới mach",
+      "confidence": 0.9874080832187946
+    },
+    {
+      "type": "text",
+      "img_path": "p0213_007_text.png",
+      "bbox": [
+        [
+          285,
+          811
+        ],
+        [
+          951,
+          811
+        ],
+        [
+          951,
+          859
+        ],
+        [
+          285,
+          859
+        ]
+      ],
+      "score": 0.9140692353248596,
+      "y_pos": 811,
+      "text": "Đới mạch, Ngũ khu, Duy đạo.",
+      "confidence": 0.9981894328676421
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0213_011_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          899
+        ],
+        [
+          607,
+          899
+        ],
+        [
+          607,
+          950
+        ],
+        [
+          228,
+          950
+        ]
+      ],
+      "score": 0.9092007279396057,
+      "y_pos": 899,
+      "text": "C. Âm kiểu mach",
+      "confidence": 0.9242771302952486
+    },
+    {
+      "type": "text",
+      "img_path": "p0213_004_text.png",
+      "bbox": [
+        [
+          288,
+          991
+        ],
+        [
+          971,
+          991
+        ],
+        [
+          971,
+          1039
+        ],
+        [
+          288,
+          1039
+        ]
+      ],
+      "score": 0.9252660274505615,
+      "y_pos": 991,
+      "text": "Chiếu hải, Giao tín, Tình minh.",
+      "confidence": 0.998124482053699
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0213_012_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1085
+        ],
+        [
+          691,
+          1085
+        ],
+        [
+          691,
+          1135
+        ],
+        [
+          227,
+          1135
+        ]
+      ],
+      "score": 0.9080475568771362,
+      "y_pos": 1085,
+      "text": "D. Dương kiểu mạch",
+      "confidence": 0.9950095623731613
+    },
+    {
+      "type": "text",
+      "img_path": "p0213_002_text.png",
+      "bbox": [
+        [
+          284,
+          1174
+        ],
+        [
+          2364,
+          1174
+        ],
+        [
+          2364,
+          1297
+        ],
+        [
+          284,
+          1297
+        ]
+      ],
+      "score": 0.9590590000152588,
+      "y_pos": 1174,
+      "text": "Thân mạch, Bộc tham, Phụ dương, Cư liêu, Nhu hội, Cự cốt, Kiên ngung, Địa thương, Cự\nliêu, Thừa khấp, Tình minh, Phong trì, Phong thủ.",
+      "confidence": 0.9893928128687475
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0213_009_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1339
+        ],
+        [
+          595,
+          1339
+        ],
+        [
+          595,
+          1389
+        ],
+        [
+          226,
+          1389
+        ]
+      ],
+      "score": 0.911030650138855,
+      "y_pos": 1339,
+      "text": "Đ. Am duy mạch",
+      "confidence": 0.4411561153829098
+    },
+    {
+      "type": "text",
+      "img_path": "p0213_008_text.png",
+      "bbox": [
+        [
+          289,
+          1427
+        ],
+        [
+          2089,
+          1427
+        ],
+        [
+          2089,
+          1479
+        ],
+        [
+          289,
+          1479
+        ]
+      ],
+      "score": 0.9119921922683716,
+      "y_pos": 1427,
+      "text": "Trúc tân, Xung môn, Phủ xá, Đai hoành, Phúc ai, Kỳ môn, Thiên đôt, Liêm tuyến.",
+      "confidence": 0.9885238602757453
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0213_014_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1525
+        ],
+        [
+          677,
+          1525
+        ],
+        [
+          677,
+          1571
+        ],
+        [
+          227,
+          1571
+        ]
+      ],
+      "score": 0.9036269187927246,
+      "y_pos": 1525,
+      "text": "E. Dương duy mạch",
+      "confidence": 0.9907975447805304
+    },
+    {
+      "type": "text",
+      "img_path": "p0213_001_text.png",
+      "bbox": [
+        [
+          282,
+          1612
+        ],
+        [
+          2362,
+          1612
+        ],
+        [
+          2362,
+          1735
+        ],
+        [
+          282,
+          1735
+        ]
+      ],
+      "score": 0.9595152139663696,
+      "y_pos": 1612,
+      "text": "Kim môn, Dương giao, Thiên liêu, Nhu du, Kiên tỉnh, Phong trì, Á môn, Phong thủ, Não\nkhông, Thừa linh, Chính doanh, Mục song, Lâm khấp, Dương bạch, Bản thần, Đầu duy.",
+      "confidence": 0.9994566616774206
+    },
+    {
+      "type": "footer",
+      "img_path": "p0213_010_footer.png",
+      "bbox": [
+        [
+          231,
+          3335
+        ],
+        [
+          1437,
+          3335
+        ],
+        [
+          1437,
+          3387
+        ],
+        [
+          231,
+          3387
+        ]
+      ],
+      "score": 0.9100353121757507,
+      "y_pos": 3335,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9464619991914281
+    },
+    {
+      "type": "number",
+      "img_path": "p0213_016_number.png",
+      "bbox": [
+        [
+          2301,
+          3340
+        ],
+        [
+          2350,
+          3340
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2301,
+          3377
+        ]
+      ],
+      "score": 0.8629098534584045,
+      "y_pos": 3340,
+      "text": "\n\n    \n\n\n\n\n\n        \n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0213.png"
+}

@@ -1,0 +1,630 @@
+{
+  "page_num": 9,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0009_007_header.png",
+      "bbox": [
+        [
+          1608,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1608,
+          202
+        ]
+      ],
+      "score": 0.936781108379364,
+      "y_pos": 143,
+      "text": "~ ~ ~\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7141398120494116
+    },
+    {
+      "type": "header",
+      "img_path": "p0009_009_header.png",
+      "bbox": [
+        [
+          228,
+          155
+        ],
+        [
+          1330,
+          155
+        ],
+        [
+          1330,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9281201362609863,
+      "y_pos": 155,
+      "text": "VŨ TRU QUAN VÀ CÁC THUYẾT CƠ BẨN CỦA ĐÔNG Y",
+      "confidence": 0.9956686827871535
+    },
+    {
+      "type": "doc_title",
+      "img_path": "p0009_023_doc_title.png",
+      "bbox": [
+        [
+          658,
+          287
+        ],
+        [
+          1928,
+          287
+        ],
+        [
+          1928,
+          460
+        ],
+        [
+          658,
+          460
+        ]
+      ],
+      "score": 0.6227316856384277,
+      "y_pos": 287,
+      "text": "<b>VŨ TRỤ QUAN</b>\nVÀ CÁC THUYẾT CƠ BẢN CỦA ĐÔNG Y",
+      "confidence": 0.9591992696126301
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0009_020_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          508
+        ],
+        [
+          1293,
+          508
+        ],
+        [
+          1293,
+          559
+        ],
+        [
+          224,
+          559
+        ]
+      ],
+      "score": 0.8349143266677856,
+      "y_pos": 508,
+      "text": "ĐẶC ĐIỂM DƯ ĐỊA CHÍ KHÍ HẬU PHƯƠNG ĐỘNG",
+      "confidence": 0.9321797679110271
+    },
+    {
+      "type": "text",
+      "img_path": "p0009_001_text.png",
+      "bbox": [
+        [
+          274,
+          596
+        ],
+        [
+          2359,
+          596
+        ],
+        [
+          2359,
+          798
+        ],
+        [
+          274,
+          798
+        ]
+      ],
+      "score": 0.9760205745697021,
+      "y_pos": 596,
+      "text": "Phương Đông là một dải đất thuộc bờ tây Thái Bình Dương từ phía nam Trung Quốc đến\nphía bắc Việt Nam. Do năm ở phía đông đại lục địa Âu-Á nên vùng này có tên như trên. Đặc\nđiểm đia dư:",
+      "confidence": 0.9978709497306713
+    },
+    {
+      "type": "text",
+      "img_path": "p0009_012_text.png",
+      "bbox": [
+        [
+          414,
+          836
+        ],
+        [
+          1381,
+          836
+        ],
+        [
+          1381,
+          887
+        ],
+        [
+          414,
+          887
+        ]
+      ],
+      "score": 0.9229820370674133,
+      "y_pos": 836,
+      "text": "Phía đông khu vực là Thái Bình Dương",
+      "confidence": 0.9859156310558319
+    },
+    {
+      "type": "text",
+      "img_path": "p0009_014_text.png",
+      "bbox": [
+        [
+          414,
+          924
+        ],
+        [
+          1919,
+          924
+        ],
+        [
+          1919,
+          977
+        ],
+        [
+          414,
+          977
+        ]
+      ],
+      "score": 0.9199270009994507,
+      "y_pos": 924,
+      "text": "- Phía tây là cao nguyên Hy mã lạp sơn và dãy Thập vạn đại sơn",
+      "confidence": 0.5820746831595898
+    },
+    {
+      "type": "text",
+      "img_path": "p0009_013_text.png",
+      "bbox": [
+        [
+          415,
+          1012
+        ],
+        [
+          1375,
+          1012
+        ],
+        [
+          1375,
+          1061
+        ],
+        [
+          415,
+          1061
+        ]
+      ],
+      "score": 0.9228700995445251,
+      "y_pos": 1012,
+      "text": "Phía nam là vùng nhiệt đới và xích đạo",
+      "confidence": 0.9966014221310615
+    },
+    {
+      "type": "text",
+      "img_path": "p0009_019_text.png",
+      "bbox": [
+        [
+          283,
+          1097
+        ],
+        [
+          1150,
+          1097
+        ],
+        [
+          1150,
+          1148
+        ],
+        [
+          283,
+          1148
+        ]
+      ],
+      "score": 0.880422830581665,
+      "y_pos": 1097,
+      "text": "Phía bắc là vùng hành đới và bắc cực",
+      "confidence": 0.9984235245930521
+    },
+    {
+      "type": "text",
+      "img_path": "p0009_016_text.png",
+      "bbox": [
+        [
+          282,
+          1187
+        ],
+        [
+          1539,
+          1187
+        ],
+        [
+          1539,
+          1237
+        ],
+        [
+          282,
+          1237
+        ]
+      ],
+      "score": 0.9185476303100586,
+      "y_pos": 1187,
+      "text": "Khí hậu Phương Đông phụ thuộc vào địa hình như sau:",
+      "confidence": 0.9911881201672104
+    },
+    {
+      "type": "text",
+      "img_path": "p0009_005_text.png",
+      "bbox": [
+        [
+          413,
+          1272
+        ],
+        [
+          2360,
+          1272
+        ],
+        [
+          2360,
+          1397
+        ],
+        [
+          413,
+          1397
+        ]
+      ],
+      "score": 0.9604671597480774,
+      "y_pos": 1272,
+      "text": "- Khi gió từ hướng đông thổi tới đem theo hơi nước của biển nên không khí có độ ẩm\ncao.",
+      "confidence": 0.9856096087467103
+    },
+    {
+      "type": "text",
+      "img_path": "p0009_002_text.png",
+      "bbox": [
+        [
+          281,
+          1443
+        ],
+        [
+          2358,
+          1443
+        ],
+        [
+          2358,
+          1561
+        ],
+        [
+          281,
+          1561
+        ]
+      ],
+      "score": 0.9669322371482849,
+      "y_pos": 1443,
+      "text": "Khi gió từ hướng tây thổi tới đem theo độ ẩm rất thấp của cao nguyên nên khí hậu trở nên\nhanh khô.",
+      "confidence": 0.9922092864609728
+    },
+    {
+      "type": "text",
+      "img_path": "p0009_003_text.png",
+      "bbox": [
+        [
+          413,
+          1602
+        ],
+        [
+          2358,
+          1602
+        ],
+        [
+          2358,
+          1729
+        ],
+        [
+          413,
+          1729
+        ]
+      ],
+      "score": 0.9659112691879272,
+      "y_pos": 1602,
+      "text": "- Khi gió từ hướng nam thổi tới đem theo hơi nóng của vùng xích đạo về cho nên\nkhông khí nóng nực, oi ả.",
+      "confidence": 0.9952123890044513
+    },
+    {
+      "type": "text",
+      "img_path": "p0009_004_text.png",
+      "bbox": [
+        [
+          413,
+          1763
+        ],
+        [
+          2360,
+          1763
+        ],
+        [
+          2360,
+          1891
+        ],
+        [
+          413,
+          1891
+        ]
+      ],
+      "score": 0.9645713567733765,
+      "y_pos": 1763,
+      "text": "- Khi gió từ hướng bác thổi tới, gió đem theo hơi lạnh của vùng hàn đới và bắc cực\nvề nên không khí lanh lẽo, giá buốt.",
+      "confidence": 0.9949074356739682
+    },
+    {
+      "type": "text",
+      "img_path": "p0009_022_text.png",
+      "bbox": [
+        [
+          283,
+          1937
+        ],
+        [
+          1707,
+          1937
+        ],
+        [
+          1707,
+          1989
+        ],
+        [
+          283,
+          1989
+        ]
+      ],
+      "score": 0.7797213792800903,
+      "y_pos": 1937,
+      "text": "Khí hậu Phương Đông còn phụ thuộc vào từng mùa trong năm:",
+      "confidence": 0.9984114442841482
+    },
+    {
+      "type": "text",
+      "img_path": "p0009_015_text.png",
+      "bbox": [
+        [
+          415,
+          2020
+        ],
+        [
+          1151,
+          2020
+        ],
+        [
+          1151,
+          2070
+        ],
+        [
+          415,
+          2070
+        ]
+      ],
+      "score": 0.9197431802749634,
+      "y_pos": 2020,
+      "text": "Mùa đông rét buốt, trời âm u.",
+      "confidence": 0.99163176936488
+    },
+    {
+      "type": "text",
+      "img_path": "p0009_010_text.png",
+      "bbox": [
+        [
+          414,
+          2102
+        ],
+        [
+          1590,
+          2102
+        ],
+        [
+          1590,
+          2156
+        ],
+        [
+          414,
+          2156
+        ]
+      ],
+      "score": 0.9253392219543457,
+      "y_pos": 2102,
+      "text": "Mùa hạ nóng nực, trời nắng gay gắt, chói chang.",
+      "confidence": 0.9930060019298476
+    },
+    {
+      "type": "text",
+      "img_path": "p0009_008_text.png",
+      "bbox": [
+        [
+          415,
+          2185
+        ],
+        [
+          1607,
+          2185
+        ],
+        [
+          1607,
+          2238
+        ],
+        [
+          415,
+          2238
+        ]
+      ],
+      "score": 0.9296119213104248,
+      "y_pos": 2185,
+      "text": "Mùa xuân ấm áp, ẩm thấp, trời khi nắng, khi mưa.",
+      "confidence": 0.9993020629882813
+    },
+    {
+      "type": "text",
+      "img_path": "p0009_011_text.png",
+      "bbox": [
+        [
+          415,
+          2270
+        ],
+        [
+          1577,
+          2270
+        ],
+        [
+          1577,
+          2323
+        ],
+        [
+          415,
+          2323
+        ]
+      ],
+      "score": 0.9244340062141418,
+      "y_pos": 2270,
+      "text": "Mùa thu mát dịu hanh khô, trời trong, mây trắng.",
+      "confidence": 0.9971084821224213
+    },
+    {
+      "type": "text",
+      "img_path": "p0009_018_text.png",
+      "bbox": [
+        [
+          415,
+          2350
+        ],
+        [
+          1338,
+          2350
+        ],
+        [
+          1338,
+          2401
+        ],
+        [
+          415,
+          2401
+        ]
+      ],
+      "score": 0.9062039852142334,
+      "y_pos": 2350,
+      "text": "Cuối ha đầu thu mưa nhiều, nóng dữ.",
+      "confidence": 0.985009631595096
+    },
+    {
+      "type": "text",
+      "img_path": "p0009_006_text.png",
+      "bbox": [
+        [
+          279,
+          2410
+        ],
+        [
+          2360,
+          2410
+        ],
+        [
+          2360,
+          2548
+        ],
+        [
+          279,
+          2548
+        ]
+      ],
+      "score": 0.9596607685089111,
+      "y_pos": 2410,
+      "text": "Sựu trùng lặp giữa tính chất khí hậu theo mùa và gió theo phương hướng là một đặc điểm\nriêng của vùng phía nam Trung Quốc và bắc Việt Nam.",
+      "confidence": 0.9993282157742446
+    },
+    {
+      "type": "text",
+      "img_path": "p0009_000_text.png",
+      "bbox": [
+        [
+          278,
+          2580
+        ],
+        [
+          2360,
+          2580
+        ],
+        [
+          2360,
+          3157
+        ],
+        [
+          278,
+          3157
+        ]
+      ],
+      "score": 0.983658492565155,
+      "y_pos": 2580,
+      "text": "Ngoài ra, do vị trí vùng này nằm giữa hai khối vật chất lớn là hai nước ở Thái Bình Dương và\nđất liền trên đại lục địa Á-Âu, cả hai khối vật chất này đều nằm phía trên xích đạo. Từ tiết\nxuân phân đến tiết hạ chí, mặt trời dần dần chiếu vuông góc từ xích đạo tới bặc chí tuyến.\nTừ tiết hạ chí tới tiết thu phân, mặt trời lại lần lượt chiếu từ bắc chí tuyến tới xích đạo. Trong\nkhi chịu ảnh hưởng của mặt trời như thế, đại lục địa bị nung nóng lên, còn mặt biển hấp thụ\nnhiệt kém hơn, vì thế có sự chênh lệch nhiệt độ giữa lục địa và đại dương, gây ra hiện tượng\ntràn áp suất từ Thái Bình Dương vào lục địa. Lúc này có gió mùa đông nam, gió mùa sẽ",
+      "confidence": 0.9997791162052092
+    },
+    {
+      "type": "footer",
+      "img_path": "p0009_017_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1433,
+          3333
+        ],
+        [
+          1433,
+          3388
+        ],
+        [
+          228,
+          3388
+        ]
+      ],
+      "score": 0.9066858887672424,
+      "y_pos": 3333,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.998392439113473
+    },
+    {
+      "type": "number",
+      "img_path": "p0009_021_number.png",
+      "bbox": [
+        [
+          2335,
+          3340
+        ],
+        [
+          2353,
+          3340
+        ],
+        [
+          2353,
+          3374
+        ],
+        [
+          2335,
+          3374
+        ]
+      ],
+      "score": 0.7843008637428284,
+      "y_pos": 3340,
+      "text": "    \n    \n\n\n\n    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0009.png"
+}

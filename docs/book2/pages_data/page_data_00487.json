@@ -1,0 +1,370 @@
+{
+  "page_num": 487,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0487_003_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9281848669052124,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0487_005_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9196886420249939,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0487_006_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          328
+        ],
+        [
+          1159,
+          328
+        ],
+        [
+          1159,
+          380
+        ],
+        [
+          225,
+          380
+        ]
+      ],
+      "score": 0.9185830354690552,
+      "y_pos": 328,
+      "text": "56. Đau mắt hỏa bạo phát (đau mắt đỏ)",
+      "confidence": 0.9643754943823203
+    },
+    {
+      "type": "text",
+      "img_path": "p0487_000_text.png",
+      "bbox": [
+        [
+          221,
+          417
+        ],
+        [
+          2359,
+          417
+        ],
+        [
+          2359,
+          686
+        ],
+        [
+          221,
+          686
+        ]
+      ],
+      "score": 0.9813698530197144,
+      "y_pos": 417,
+      "text": "Đau mắt hỏa bạo phát thường gọi là đau mắt đỏ, là một bệnh truyền nhiễm cấp tính. Thường\ndo ngoại cảm phong nhiệt, can đảm hỏa vượng gây ra. Thoạt đầu con mắt tự nhiên sưng,\nnóng, đỏ, đau, sợ nhìn ánh sáng, chảy nước mắt, hai mí mắt dính cứng lại không mở ra được.\nBệnh nặng ổ mắt cũng sưng.",
+      "confidence": 0.9996155540373703
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0487_013_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          727
+        ],
+        [
+          570,
+          727
+        ],
+        [
+          570,
+          770
+        ],
+        [
+          285,
+          770
+        ]
+      ],
+      "score": 0.6785364747047424,
+      "y_pos": 727,
+      "text": "Cách chữa:",
+      "confidence": 0.8581114908059438
+    },
+    {
+      "type": "text",
+      "img_path": "p0487_009_text.png",
+      "bbox": [
+        [
+          284,
+          815
+        ],
+        [
+          1822,
+          815
+        ],
+        [
+          1822,
+          869
+        ],
+        [
+          284,
+          869
+        ]
+      ],
+      "score": 0.9057647585868835,
+      "y_pos": 815,
+      "text": "\n    Phương1: Lây các huyệt Hợp cốc, Thiều thương, Thương dương.\n",
+      "confidence": 0.9721068189424626
+    },
+    {
+      "type": "text",
+      "img_path": "p0487_002_text.png",
+      "bbox": [
+        [
+          313,
+          907
+        ],
+        [
+          2362,
+          907
+        ],
+        [
+          2362,
+          1032
+        ],
+        [
+          313,
+          1032
+        ]
+      ],
+      "score": 0.955295979976654,
+      "y_pos": 907,
+      "text": "Dùng hào kim vê chuyển tiến kim, châm huyệt <i>Hợp cốc</i>, lưu kim 10 phút lại dùng kim 3\ncạnh chích nặn máu. <i>Thiếu thương, Thương dương</i> hoặc gia huyệt <i>Thái xung</i>.",
+      "confidence": 0.9930224588205074
+    },
+    {
+      "type": "text",
+      "img_path": "p0487_011_text.png",
+      "bbox": [
+        [
+          287,
+          1070
+        ],
+        [
+          1064,
+          1070
+        ],
+        [
+          1064,
+          1121
+        ],
+        [
+          287,
+          1121
+        ]
+      ],
+      "score": 0.8829872012138367,
+      "y_pos": 1070,
+      "text": "• <b>Phương 2:</b> Lây huyệt Đại chùy.",
+      "confidence": 0.9547778947012765
+    },
+    {
+      "type": "text",
+      "img_path": "p0487_004_text.png",
+      "bbox": [
+        [
+          340,
+          1161
+        ],
+        [
+          2231,
+          1161
+        ],
+        [
+          2231,
+          1213
+        ],
+        [
+          340,
+          1213
+        ]
+      ],
+      "score": 0.9220873117446899,
+      "y_pos": 1161,
+      "text": "Dùng kim 3 canh chích <i>Đại chùy</i> và hai bên canh ra 0,5 thốn, nặn ra máu một ít máu.",
+      "confidence": 0.9902864805487699
+    },
+    {
+      "type": "text",
+      "img_path": "p0487_007_text.png",
+      "bbox": [
+        [
+          286,
+          1254
+        ],
+        [
+          1920,
+          1254
+        ],
+        [
+          1920,
+          1305
+        ],
+        [
+          286,
+          1305
+        ]
+      ],
+      "score": 0.9167210459709167,
+      "y_pos": 1254,
+      "text": "• Phương 3: Dùng kim 3 canh chích máu ở mạch tím phía sau vành tại.",
+      "confidence": 0.5096814438052799
+    },
+    {
+      "type": "text",
+      "img_path": "p0487_001_text.png",
+      "bbox": [
+        [
+          296,
+          1341
+        ],
+        [
+          2360,
+          1341
+        ],
+        [
+          2360,
+          1609
+        ],
+        [
+          296,
+          1609
+        ]
+      ],
+      "score": 0.9781161546707153,
+      "y_pos": 1341,
+      "text": "Giảng nghĩa của phương: Phương này chủ yếu là thanh tiết phong nhiệt<sup>(*)</sup>, tiêu thũng,\nđịnh thống. Lấy <i>Hợp cốc</i> để tả phong nhiệt. <i>Thương dương</i> để thanh hỏa ở vị. <i>Thiếu</i>\nthương để tiết phế nhiệt. Đại chùy và sau tai nặn máu là để thanh nhiệt ở đầu, mắt, phong\nnhiệt hết là khỏi bệnh.",
+      "confidence": 0.9952910508367266
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0487_010_footnote.png",
+      "bbox": [
+        [
+          228,
+          3166
+        ],
+        [
+          845,
+          3166
+        ],
+        [
+          845,
+          3211
+        ],
+        [
+          228,
+          3211
+        ]
+      ],
+      "score": 0.893216609954834,
+      "y_pos": 3166,
+      "text": "(*) Phong nhiệt: Nóng sốt do phong gây ra",
+      "confidence": 0.9861216919366703
+    },
+    {
+      "type": "number",
+      "img_path": "p0487_012_number.png",
+      "bbox": [
+        [
+          2304,
+          3300
+        ],
+        [
+          2352,
+          3300
+        ],
+        [
+          2352,
+          3334
+        ],
+        [
+          2304,
+          3334
+        ]
+      ],
+      "score": 0.8664092421531677,
+      "y_pos": 3300,
+      "text": "    \n            \n        \n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0487_008_footer.png",
+      "bbox": [
+        [
+          228,
+          3310
+        ],
+        [
+          1323,
+          3310
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          228,
+          3355
+        ]
+      ],
+      "score": 0.9159104824066162,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9293094086197188
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0487.png"
+}

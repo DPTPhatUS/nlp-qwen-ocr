@@ -1,0 +1,864 @@
+{
+  "page_num": 546,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0546_000_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2371,
+          144
+        ],
+        [
+          2371,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.923510730266571,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7566693045553707
+    },
+    {
+      "type": "header",
+      "img_path": "p0546_001_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.920660138130188,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9977136671543121
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_029_reference_content.png",
+      "bbox": [
+        [
+          230,
+          307
+        ],
+        [
+          1768,
+          307
+        ],
+        [
+          1768,
+          368
+        ],
+        [
+          230,
+          368
+        ]
+      ],
+      "score": 0.660020649433136,
+      "y_pos": 307,
+      "text": "704. Chi dưới và ngón tay tê dại: Bát phong, Lăng hậu, Túc tam lý.",
+      "confidence": 0.999415827148101
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_030_reference_content.png",
+      "bbox": [
+        [
+          232,
+          399
+        ],
+        [
+          1050,
+          399
+        ],
+        [
+          1050,
+          458
+        ],
+        [
+          232,
+          458
+        ]
+      ],
+      "score": 0.6551620960235596,
+      "y_pos": 399,
+      "text": "705. Đùi đau: Hậu khê, Hoàn khiêu.",
+      "confidence": 0.9901700566212336
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_020_reference_content.png",
+      "bbox": [
+        [
+          232,
+          489
+        ],
+        [
+          1525,
+          489
+        ],
+        [
+          1525,
+          553
+        ],
+        [
+          232,
+          553
+        ]
+      ],
+      "score": 0.6725304126739502,
+      "y_pos": 489,
+      "text": "706. Đùi đau phong thấp: Cư liêu, Hoàn khiêu, Ủy trung.",
+      "confidence": 0.9994283088466578
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_018_reference_content.png",
+      "bbox": [
+        [
+          233,
+          581
+        ],
+        [
+          1347,
+          581
+        ],
+        [
+          1347,
+          643
+        ],
+        [
+          233,
+          643
+        ]
+      ],
+      "score": 0.6859484314918518,
+      "y_pos": 581,
+      "text": "707. Đùi đau chân tê: Hoàn khiêu, Huyền chung.",
+      "confidence": 0.9995034051438173
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_011_reference_content.png",
+      "bbox": [
+        [
+          233,
+          671
+        ],
+        [
+          1405,
+          671
+        ],
+        [
+          1405,
+          735
+        ],
+        [
+          233,
+          735
+        ]
+      ],
+      "score": 0.6983194351196289,
+      "y_pos": 671,
+      "text": "708. Đùi và chân không có sức: Phong thị, Âm thị.",
+      "confidence": 0.9872052190350551
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_025_reference_content.png",
+      "bbox": [
+        [
+          233,
+          762
+        ],
+        [
+          2142,
+          762
+        ],
+        [
+          2142,
+          828
+        ],
+        [
+          233,
+          828
+        ]
+      ],
+      "score": 0.6687397956848145,
+      "y_pos": 762,
+      "text": "709. Cước khí, phong thấp lở loét đầu chi: Công tôn, Xung dương, cứu Túc tam lý.",
+      "confidence": 0.9995039018189035
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_017_reference_content.png",
+      "bbox": [
+        [
+          234,
+          855
+        ],
+        [
+          1494,
+          855
+        ],
+        [
+          1494,
+          919
+        ],
+        [
+          234,
+          919
+        ]
+      ],
+      "score": 0.6870241165161133,
+      "y_pos": 855,
+      "text": "710. Cước khí: Huyền chung, Túc tam lý, Tam âm giao.",
+      "confidence": 0.9996696456714913
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_004_reference_content.png",
+      "bbox": [
+        [
+          232,
+          947
+        ],
+        [
+          2359,
+          947
+        ],
+        [
+          2359,
+          1078
+        ],
+        [
+          232,
+          1078
+        ]
+      ],
+      "score": 0.8184871077537537,
+      "y_pos": 947,
+      "text": "711. Cước khí, phong một bên người: Hoàn khiêu, Dương lăng tuyền, Dương phụ, Cự hư,\nHa liêm.",
+      "confidence": 0.990468578654177
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_009_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1107
+        ],
+        [
+          1478,
+          1107
+        ],
+        [
+          1478,
+          1176
+        ],
+        [
+          233,
+          1176
+        ]
+      ],
+      "score": 0.7065134644508362,
+      "y_pos": 1107,
+      "text": "712. Đầu gối sưng đau: Khúc tuyền thấu Dương quan.",
+      "confidence": 0.9994169221474574
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_023_reference_content.png",
+      "bbox": [
+        [
+          234,
+          1200
+        ],
+        [
+          1234,
+          1200
+        ],
+        [
+          1234,
+          1267
+        ],
+        [
+          234,
+          1267
+        ]
+      ],
+      "score": 0.6714964509010315,
+      "y_pos": 1200,
+      "text": "713. Khớp gối sưng đau: Tất quan, Độc ty.",
+      "confidence": 0.9992566538411517
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_022_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1290
+        ],
+        [
+          2351,
+          1290
+        ],
+        [
+          2351,
+          1358
+        ],
+        [
+          233,
+          1358
+        ]
+      ],
+      "score": 0.6719431281089783,
+      "y_pos": 1290,
+      "text": "714. Viêm khớp gối: Tất Dương quan thấu Khúc tuyền, Dương lăng tuyền thấu Âm lăng tuyền.",
+      "confidence": 0.9968977769215902
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_006_reference_content.png",
+      "bbox": [
+        [
+          234,
+          1384
+        ],
+        [
+          1609,
+          1384
+        ],
+        [
+          1609,
+          1450
+        ],
+        [
+          234,
+          1450
+        ]
+      ],
+      "score": 0.726636528968811,
+      "y_pos": 1384,
+      "text": "715. Viêm khớp gối: Độc ty, Lương khâu, Dương lăng tuyền.",
+      "confidence": 0.9992294099371312
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_007_reference_content.png",
+      "bbox": [
+        [
+          234,
+          1476
+        ],
+        [
+          1884,
+          1476
+        ],
+        [
+          1884,
+          1542
+        ],
+        [
+          234,
+          1542
+        ]
+      ],
+      "score": 0.714759111404419,
+      "y_pos": 1476,
+      "text": "716. Phong thấp đau đầu gối: Độc ty, Âm lăng tuyền, Dương lăng tuyền.",
+      "confidence": 0.999444304217755
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_027_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1568
+        ],
+        [
+          2010,
+          1568
+        ],
+        [
+          2010,
+          1633
+        ],
+        [
+          233,
+          1633
+        ]
+      ],
+      "score": 0.6616138219833374,
+      "y_pos": 1568,
+      "text": "717. Viêm khớp gối và chi dưới bại liệt: Phong thị, Âm thị, Dương lăng tuyền.",
+      "confidence": 0.9984699185890488
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_012_reference_content.png",
+      "bbox": [
+        [
+          234,
+          1660
+        ],
+        [
+          1469,
+          1660
+        ],
+        [
+          1469,
+          1724
+        ],
+        [
+          234,
+          1724
+        ]
+      ],
+      "score": 0.695551335811615,
+      "y_pos": 1660,
+      "text": "718. Cạnh ngoài bắp chân đau: Dương giao, Côn lôn.",
+      "confidence": 0.99890547646926
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_026_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1751
+        ],
+        [
+          2060,
+          1751
+        ],
+        [
+          2060,
+          1817
+        ],
+        [
+          232,
+          1817
+        ]
+      ],
+      "score": 0.662594199180603,
+      "y_pos": 1751,
+      "text": "719. Cạnh ngoài bắp chân, chi dưới mỏi mệt: Dương lăng tuyền, Huyền chung.",
+      "confidence": 0.9996023248685034
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_015_reference_content.png",
+      "bbox": [
+        [
+          234,
+          1843
+        ],
+        [
+          1483,
+          1843
+        ],
+        [
+          1483,
+          1905
+        ],
+        [
+          234,
+          1905
+        ]
+      ],
+      "score": 0.6924208402633667,
+      "y_pos": 1843,
+      "text": "720. Đau khớp cổ chân: Côn lôn, Tuyệt cốt, Khâu khư.",
+      "confidence": 0.9990563326411777
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_014_reference_content.png",
+      "bbox": [
+        [
+          234,
+          1935
+        ],
+        [
+          1232,
+          1935
+        ],
+        [
+          1232,
+          1994
+        ],
+        [
+          234,
+          1994
+        ]
+      ],
+      "score": 0.6925542950630188,
+      "y_pos": 1935,
+      "text": "721. Đau khớp cổ chân: Kim môn, Côn lôn.",
+      "confidence": 0.9991519280842373
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_008_reference_content.png",
+      "bbox": [
+        [
+          234,
+          2026
+        ],
+        [
+          1467,
+          2026
+        ],
+        [
+          1467,
+          2089
+        ],
+        [
+          234,
+          2089
+        ]
+      ],
+      "score": 0.7088857293128967,
+      "y_pos": 2026,
+      "text": "722. Đau gót chân: Thương khâu, Giải khê, Khâu khư.",
+      "confidence": 0.999143511619208
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_019_reference_content.png",
+      "bbox": [
+        [
+          234,
+          2119
+        ],
+        [
+          1133,
+          2119
+        ],
+        [
+          1133,
+          2179
+        ],
+        [
+          234,
+          2179
+        ]
+      ],
+      "score": 0.6822680234909058,
+      "y_pos": 2119,
+      "text": "723. Đau gót chân: Thừa sơn, Côn lôn.",
+      "confidence": 0.9952574937771528
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_010_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2209
+        ],
+        [
+          2262,
+          2209
+        ],
+        [
+          2262,
+          2275
+        ],
+        [
+          232,
+          2275
+        ]
+      ],
+      "score": 0.7046144604682922,
+      "y_pos": 2209,
+      "text": "724. Di chứng não kiểu gót móng ngựa (nhón gót lên): Căn khẩn, Ủy dương, Lăng hậu.",
+      "confidence": 0.9980231672525406
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_005_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2302
+        ],
+        [
+          2360,
+          2302
+        ],
+        [
+          2360,
+          2433
+        ],
+        [
+          232,
+          2433
+        ]
+      ],
+      "score": 0.7793633937835693,
+      "y_pos": 2302,
+      "text": "725. Di chứng não kiểu gót móng ngựa (nhón gót lên): Căn bình, Hoàn khiêu, Kiện tất,\nLăng hậu, Căn khẩn.",
+      "confidence": 0.9942183165851226
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_028_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2465
+        ],
+        [
+          1155,
+          2465
+        ],
+        [
+          1155,
+          2525
+        ],
+        [
+          233,
+          2525
+        ]
+      ],
+      "score": 0.6603347659111023,
+      "y_pos": 2465,
+      "text": "726. Bàn chân sưng: Thái khê, Côn lôn.",
+      "confidence": 0.9942301258444786
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_024_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2558
+        ],
+        [
+          1114,
+          2558
+        ],
+        [
+          1114,
+          2617
+        ],
+        [
+          233,
+          2617
+        ]
+      ],
+      "score": 0.6713707447052002,
+      "y_pos": 2558,
+      "text": "727. Chân sưng: Côn lôn, Thân mạch.",
+      "confidence": 0.9943585766328348
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_016_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2649
+        ],
+        [
+          2017,
+          2649
+        ],
+        [
+          2017,
+          2710
+        ],
+        [
+          232,
+          2710
+        ]
+      ],
+      "score": 0.6901105642318726,
+      "y_pos": 2649,
+      "text": "728. Mu bàn chân sưng đỏ: Thượng Bát phong, Túc tam lý, Dương lăng tuyến.",
+      "confidence": 0.99670574426651
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_021_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2742
+        ],
+        [
+          1592,
+          2742
+        ],
+        [
+          1592,
+          2800
+        ],
+        [
+          233,
+          2800
+        ]
+      ],
+      "score": 0.6721673011779785,
+      "y_pos": 2742,
+      "text": "729. Bàn chân sưng khó đi: Thái khê, Côn lôn, Thân mạch.",
+      "confidence": 0.9995129293408888
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_032_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2832
+        ],
+        [
+          1586,
+          2832
+        ],
+        [
+          1586,
+          2891
+        ],
+        [
+          233,
+          2891
+        ]
+      ],
+      "score": 0.6387834548950195,
+      "y_pos": 2832,
+      "text": "730. Bước đi khó khăn: Túc tam lý, Trung xung, Thái xung.",
+      "confidence": 0.9993667370181972
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_031_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2924
+        ],
+        [
+          1358,
+          2924
+        ],
+        [
+          1358,
+          2983
+        ],
+        [
+          233,
+          2983
+        ]
+      ],
+      "score": 0.6534323692321777,
+      "y_pos": 2924,
+      "text": "731. Bước đi khó khăn: Trung phong, Thái xung.",
+      "confidence": 0.9993785433471203
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0546_013_reference_content.png",
+      "bbox": [
+        [
+          231,
+          3015
+        ],
+        [
+          1621,
+          3015
+        ],
+        [
+          1621,
+          3075
+        ],
+        [
+          231,
+          3075
+        ]
+      ],
+      "score": 0.6928471922874451,
+      "y_pos": 3015,
+      "text": "732. Ngón chân đau đớn: Nhiên cốc, Thái xung, Dũng tuyền.",
+      "confidence": 0.9991010275937743
+    },
+    {
+      "type": "number",
+      "img_path": "p0546_003_number.png",
+      "bbox": [
+        [
+          2317,
+          3337
+        ],
+        [
+          2366,
+          3337
+        ],
+        [
+          2366,
+          3374
+        ],
+        [
+          2317,
+          3374
+        ]
+      ],
+      "score": 0.8626357913017273,
+      "y_pos": 3337,
+      "text": "    \n    \n    \n\n    \n    \n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0546_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3341
+        ],
+        [
+          1324,
+          3341
+        ],
+        [
+          1324,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.9148069620132446,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987223969315583
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0546.png"
+}

@@ -1,0 +1,500 @@
+{
+  "page_num": 50,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0050_011_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9281732439994812,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.723309953652677
+    },
+    {
+      "type": "header",
+      "img_path": "p0050_015_header.png",
+      "bbox": [
+        [
+          231,
+          155
+        ],
+        [
+          427,
+          155
+        ],
+        [
+          427,
+          198
+        ],
+        [
+          231,
+          198
+        ]
+      ],
+      "score": 0.9010480642318726,
+      "y_pos": 155,
+      "text": "۱    - 4\nА",
+      "confidence": 0.4416655550400416
+    },
+    {
+      "type": "text",
+      "img_path": "p0050_002_text.png",
+      "bbox": [
+        [
+          342,
+          305
+        ],
+        [
+          2358,
+          305
+        ],
+        [
+          2358,
+          502
+        ],
+        [
+          342,
+          502
+        ]
+      ],
+      "score": 0.9779385328292847,
+      "y_pos": 305,
+      "text": "- Sắc lưỡi từ đỏ sẫm chuyển sang đỏ tím mà khô là dấu hiệu chính để chỉ bệnh ôn nhiệt\nphát triển đến huyết phần. Viêm nhiễm nặng khi phát triển đến suy hô hấp và tuần hoàn\ncùng xuất hiện lưỡi tím. Tím mờ là huyết ứ tím nóng mà ẩm là hàn chứng.",
+      "confidence": 0.9988644082064592
+    },
+    {
+      "type": "text",
+      "img_path": "p0050_005_text.png",
+      "bbox": [
+        [
+          344,
+          541
+        ],
+        [
+          2358,
+          541
+        ],
+        [
+          2358,
+          728
+        ],
+        [
+          344,
+          728
+        ]
+      ],
+      "score": 0.9766731858253479,
+      "y_pos": 541,
+      "text": "- Lưỡi xanh lam là chứng nặng của khí huyết cùng suy thoái. Xanh mà sáng bóng, không\nrêu là dự đoán sẽ xấu. Khi hô hấp tuần hoàn suy kiệt, thiếu ôxy nặng, cũng xuất hiện\nlưỡi xanh.",
+      "confidence": 0.9909867916920388
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0050_013_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          773
+        ],
+        [
+          1088,
+          773
+        ],
+        [
+          1088,
+          822
+        ],
+        [
+          284,
+          822
+        ]
+      ],
+      "score": 0.9114667773246765,
+      "y_pos": 773,
+      "text": "2. Hình thái và đông thái của lưỡi",
+      "confidence": 0.9278541886144214
+    },
+    {
+      "type": "text",
+      "img_path": "p0050_009_text.png",
+      "bbox": [
+        [
+          280,
+          864
+        ],
+        [
+          2358,
+          864
+        ],
+        [
+          2358,
+          988
+        ],
+        [
+          280,
+          988
+        ]
+      ],
+      "score": 0.9632573127746582,
+      "y_pos": 864,
+      "text": "Chủ yếu là quan sát các tình trạng thực lưỡi béo, gầy, già, non,khô, ẩm, rãnh nứt và hoạt\nđộng.",
+      "confidence": 0.9978940323158936
+    },
+    {
+      "type": "text",
+      "img_path": "p0050_000_text.png",
+      "bbox": [
+        [
+          279,
+          1027
+        ],
+        [
+          2358,
+          1027
+        ],
+        [
+          2358,
+          1362
+        ],
+        [
+          279,
+          1362
+        ]
+      ],
+      "score": 0.9848088622093201,
+      "y_pos": 1027,
+      "text": "Dáng lưỡi béo mập, hồng nhạt mà ven lưỡi có ngấn răng là hư chứng, hàn chứng. Lưỡi to\nbéo là chứng suy tuyến giáp, đầu chi phình to. Lưỡi to béo mà đỏ sẫm là tâm tỳ có nhiệt.\nDáng lưỡi gầy mỏng, hồng nhạt là khí huyết bất túc. Gầy mỏng mà đỏ sám là tân dịch đã tổn\nthương. Chất lưỡi rắn chắc, thô kệch (ngược với béo mập) là thuộc thực chứng, nhiệt\nchứng.",
+      "confidence": 0.9977040637781271
+    },
+    {
+      "type": "text",
+      "img_path": "p0050_003_text.png",
+      "bbox": [
+        [
+          279,
+          1401
+        ],
+        [
+          2357,
+          1401
+        ],
+        [
+          2357,
+          1595
+        ],
+        [
+          279,
+          1595
+        ]
+      ],
+      "score": 0.9772113561630249,
+      "y_pos": 1401,
+      "text": "Trên lưỡi mọc gai nhọn là nhiệt cực nội kết, gai nhọn càng to, càng nhiều là nhiệt kết càng\nsâu. Sốt cao, tinh hồng nhiệt (sốt đỏ mặt như con tinh tinh), viêm phổi chứng nặng đều thấy\ntrên lưỡi mọc gai.",
+      "confidence": 0.9989848303004405
+    },
+    {
+      "type": "text",
+      "img_path": "p0050_007_text.png",
+      "bbox": [
+        [
+          280,
+          1636
+        ],
+        [
+          2356,
+          1636
+        ],
+        [
+          2356,
+          1756
+        ],
+        [
+          280,
+          1756
+        ]
+      ],
+      "score": 0.9656142592430115,
+      "y_pos": 1636,
+      "text": "Trên lưỡi có vết nứt thường là âm hư hay dinh dưỡng kém, nhưng sốt cao mất nước cũng\nthấy lưỡi nứt. Cá biệt có khi lưỡi nứt là tiên thiên tính.",
+      "confidence": 0.9995202191693838
+    },
+    {
+      "type": "text",
+      "img_path": "p0050_004_text.png",
+      "bbox": [
+        [
+          281,
+          1797
+        ],
+        [
+          2358,
+          1797
+        ],
+        [
+          2358,
+          1994
+        ],
+        [
+          281,
+          1994
+        ]
+      ],
+      "score": 0.9769185185432434,
+      "y_pos": 1797,
+      "text": "Dáng lưỡi khi co duỗi thì rung động, sắc lưỡi hồng nhạt là dương khí bất túc, chứng này thấy\nở bệnh thần kinh suy nhược và thể hư sau khi khỏi ốm. Rung động mà sắc lưỡi hồng tươi là\nâm hư, thường thấy ở can phong nội động, trúng gió và cường tuyến giáp.",
+      "confidence": 0.9963951050302238
+    },
+    {
+      "type": "text",
+      "img_path": "p0050_016_text.png",
+      "bbox": [
+        [
+          282,
+          2032
+        ],
+        [
+          1315,
+          2032
+        ],
+        [
+          1315,
+          2085
+        ],
+        [
+          282,
+          2085
+        ]
+      ],
+      "score": 0.8716474771499634,
+      "y_pos": 2032,
+      "text": "Lưỡi lè ra mà lệch thường là chứng trúng gió.",
+      "confidence": 0.9838749094212309
+    },
+    {
+      "type": "text",
+      "img_path": "p0050_008_text.png",
+      "bbox": [
+        [
+          279,
+          2124
+        ],
+        [
+          2355,
+          2124
+        ],
+        [
+          2355,
+          2248
+        ],
+        [
+          279,
+          2248
+        ]
+      ],
+      "score": 0.9637571573257446,
+      "y_pos": 2124,
+      "text": "Lưỡi cứng, vận động khó khăn, vì vậy mà tiếng nói không rõ là can phong nội động gây ra\nthường là điềm báo trước chứng trúng gió hoặc là di chứng sau khi trúng gió.",
+      "confidence": 0.9965545139139993
+    },
+    {
+      "type": "text",
+      "img_path": "p0050_010_text.png",
+      "bbox": [
+        [
+          280,
+          2284
+        ],
+        [
+          2358,
+          2284
+        ],
+        [
+          2358,
+          2410
+        ],
+        [
+          280,
+          2410
+        ]
+      ],
+      "score": 0.9618851542472839,
+      "y_pos": 2284,
+      "text": "Lưỡi mềm yếu vô lực cũng phát sinh ở tình hình bệnh khác nhau. Lưỡi hồng, khô mà yếu là\nnhiệt thịnh thương âm. Bệnh lâu ngày chất lưỡi trắng nhạt mà yếu là khí huyết đều hư.",
+      "confidence": 0.9994388763585571
+    },
+    {
+      "type": "text",
+      "img_path": "p0050_018_text.png",
+      "bbox": [
+        [
+          284,
+          2446
+        ],
+        [
+          1170,
+          2446
+        ],
+        [
+          1170,
+          2499
+        ],
+        [
+          284,
+          2499
+        ]
+      ],
+      "score": 0.7772307395935059,
+      "y_pos": 2446,
+      "text": "Lưỡi đỏ sẫm mà yếu là âm hao đã cực.",
+      "confidence": 0.9882190258879411
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0050_012_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          2540
+        ],
+        [
+          559,
+          2540
+        ],
+        [
+          559,
+          2585
+        ],
+        [
+          285,
+          2585
+        ]
+      ],
+      "score": 0.9144125580787659,
+      "y_pos": 2540,
+      "text": "3. Rêu lưỡi",
+      "confidence": 0.8886750248762277
+    },
+    {
+      "type": "text",
+      "img_path": "p0050_001_text.png",
+      "bbox": [
+        [
+          279,
+          2631
+        ],
+        [
+          2358,
+          2631
+        ],
+        [
+          2358,
+          2895
+        ],
+        [
+          279,
+          2895
+        ]
+      ],
+      "score": 0.9822084307670593,
+      "y_pos": 2631,
+      "text": "Rêu lưỡi bình thường do vị khí hình thành thì trắng, mỏng, sáng và ẩm. Khi có bệnh rêu lưỡi\nphát sinh các loại biến hóa. Lúc chẩn đoán, quan sát rêu lưỡi chủ yếu là theo màu sắc, tân\ndịch, dầy mỏng. Nhưng cần chú ý oại trừ hiện tượng giả do ăn uống, hoặc do thuốc gây nên\nnhư ăn trầu, ô mai, đâu đen...",
+      "confidence": 0.9977834692943272
+    },
+    {
+      "type": "text",
+      "img_path": "p0050_006_text.png",
+      "bbox": [
+        [
+          343,
+          2934
+        ],
+        [
+          2359,
+          2934
+        ],
+        [
+          2359,
+          3132
+        ],
+        [
+          343,
+          3132
+        ]
+      ],
+      "score": 0.9735733866691589,
+      "y_pos": 2934,
+      "text": "- Rêu trắng đều thuộc hàn chứng, hư chứng (cũng có thuộc nhiệt, thuộc thực). Trắng\nmỏng mà trơn là ngoại cảm phong hàn. Trắng nõn mà trơn là lý hư hàn. Trắng nhẫy mà\nnhẵn là trong có đàm thấp. Trắng như rắc phấn là bệnh ôn dịch. Trong bệnh nhiệt, rêu",
+      "confidence": 0.797260348109928
+    },
+    {
+      "type": "footer",
+      "img_path": "p0050_014_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3386
+        ],
+        [
+          228,
+          3386
+        ]
+      ],
+      "score": 0.9026325345039368,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9360493050431306
+    },
+    {
+      "type": "number",
+      "img_path": "p0050_017_number.png",
+      "bbox": [
+        [
+          2330,
+          3339
+        ],
+        [
+          2355,
+          3339
+        ],
+        [
+          2355,
+          3373
+        ],
+        [
+          2330,
+          3373
+        ]
+      ],
+      "score": 0.8092525005340576,
+      "y_pos": 3339,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0050.png"
+}

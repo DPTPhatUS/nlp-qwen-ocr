@@ -1,0 +1,578 @@
+{
+  "page_num": 380,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0380_010_header.png",
+      "bbox": [
+        [
+          1679,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          195
+        ],
+        [
+          1679,
+          195
+        ]
+      ],
+      "score": 0.9291680455207825,
+      "y_pos": 142,
+      "text": "_______________________________________\nCAM NANG CHAN TRI ĐONG Y",
+      "confidence": 0.6296039422544149
+    },
+    {
+      "type": "header",
+      "img_path": "p0380_013_header.png",
+      "bbox": [
+        [
+          230,
+          146
+        ],
+        [
+          1095,
+          146
+        ],
+        [
+          1095,
+          197
+        ],
+        [
+          230,
+          197
+        ]
+      ],
+      "score": 0.9164090752601624,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SÀNG",
+      "confidence": 0.9910215088299342
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0380_014_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          323
+        ],
+        [
+          867,
+          323
+        ],
+        [
+          867,
+          378
+        ],
+        [
+          224,
+          378
+        ]
+      ],
+      "score": 0.9134240746498108,
+      "y_pos": 323,
+      "text": "TIM THỔN THỨC (hồi hộp)",
+      "confidence": 0.9918098258972168
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0380_016_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          418
+        ],
+        [
+          761,
+          418
+        ],
+        [
+          761,
+          471
+        ],
+        [
+          226,
+          471
+        ]
+      ],
+      "score": 0.894182026386261,
+      "y_pos": 418,
+      "text": "A. Biện chứng luận trị",
+      "confidence": 0.9403136769930521
+    },
+    {
+      "type": "text",
+      "img_path": "p0380_000_text.png",
+      "bbox": [
+        [
+          219,
+          509
+        ],
+        [
+          2361,
+          509
+        ],
+        [
+          2361,
+          1059
+        ],
+        [
+          219,
+          1059
+        ]
+      ],
+      "score": 0.987365186214447,
+      "y_pos": 509,
+      "text": "Tim hồi hộp là bệnh nhân tự thấy tim đập nhanh, mạnh, là chứng tâm hoảng không yên. Đông y\ncho rằng bệnh này phát sinh do thể chất yếu, hoặc bệnh lâu ngày thân thể hư, hoặc ưu tư, sợ\nhãi dẫn đến khí huyết hao tổn, không thể nuôi dưỡng được tim. Hoặc do âm hư hoả vượng,\nnung nấu dịch thành đàm, đàm hoả gộp lại dẫn đến tâm thần không yên, hoặc tâm huyết ứ trệ,\nlàm cho tâm thần bất an. Y học hiện đại gọi là bệnh chức năng tim (như loạn nhịp tim, rối loạn\nthần kinh tim), hoặc bệnh thực thể (như bệnh van tim, hoặc xơ vữa mạch vành), và các bệnh\nkhác như cường tuyến giáp, thiếu máu. Tim mất chức năng điều hoà bao gồm cả chứng trạng\nhồi hộp đánh trống ngực.",
+      "confidence": 0.9992475976138793
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0380_011_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1096
+        ],
+        [
+          902,
+          1096
+        ],
+        [
+          902,
+          1147
+        ],
+        [
+          225,
+          1147
+        ]
+      ],
+      "score": 0.9231125712394714,
+      "y_pos": 1096,
+      "text": "B. Điểm chủ yếu để kiểm tra",
+      "confidence": 0.9161071160743977
+    },
+    {
+      "type": "text",
+      "img_path": "p0380_002_text.png",
+      "bbox": [
+        [
+          226,
+          1189
+        ],
+        [
+          2360,
+          1189
+        ],
+        [
+          2360,
+          1523
+        ],
+        [
+          226,
+          1523
+        ]
+      ],
+      "score": 0.983519971370697,
+      "y_pos": 1189,
+      "text": "1. Chú ý tình hình phát cơn hồi hộp đánh trống ngực, thường xuyên hay thành cơn, có quan\nhệ với các hoạt động tình cảm, tinh thần, khoảng thời gian giữa những cơn hồi hộp. Bệnh\ntim hồi hộp có nguyên nhân thực thể, phần nhiều do gắng sức thì xuất hiện hoặc nặng\nthêm. Bênh tim hồi hộp do thần kinh chức năng thường có quan hệ với kích động (Stress)\ncủa tình cảm, tinh thần.",
+      "confidence": 0.9968169141631897
+    },
+    {
+      "type": "text",
+      "img_path": "p0380_001_text.png",
+      "bbox": [
+        [
+          223,
+          1563
+        ],
+        [
+          2360,
+          1563
+        ],
+        [
+          2360,
+          1900
+        ],
+        [
+          223,
+          1900
+        ]
+      ],
+      "score": 0.9843765497207642,
+      "y_pos": 1563,
+      "text": "2. Chú ý các chứng trạng khác để phân biệt các bệnh dẫn đến tim hồi hộp như: Mất ngủ, nhiều\nmộng mị, choáng đầu, tai ù, mắt hoa, thường thấy ở bệnh rối loạn chức năng thần kinh tim,\nthiếu máu. Thở suyễn, ngắn hơi, ngực bứt rứt, đau ngực, ho hắng, đau khớp hoặc cao\nhuyết áp, có thể thấy ở chứng phong thấp, xơ vữa động mạch, cao huyết áp hoặc bệnh tim\ncó nguốn gốc từ phế.",
+      "confidence": 0.9938519522943728
+    },
+    {
+      "type": "text",
+      "img_path": "p0380_003_text.png",
+      "bbox": [
+        [
+          224,
+          1937
+        ],
+        [
+          2358,
+          1937
+        ],
+        [
+          2358,
+          2132
+        ],
+        [
+          224,
+          2132
+        ]
+      ],
+      "score": 0.9749497175216675,
+      "y_pos": 1937,
+      "text": "3. Kiểm tra chú ý biến động của huyết áp, tiếng tim, sức co bóp cơ tim và nhịp tim, phổi có\ntiếng ran ẩm, gan to hay không, để phân biệt bệnh do cơ năng hay thực thể. Khi cần thiết thì\nphải chiếu điện và làm điện tâm đồ.",
+      "confidence": 0.9883692925733661
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0380_017_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2174
+        ],
+        [
+          558,
+          2174
+        ],
+        [
+          558,
+          2219
+        ],
+        [
+          226,
+          2219
+        ]
+      ],
+      "score": 0.883831262588501,
+      "y_pos": 2174,
+      "text": "C. Cách chữa",
+      "confidence": 0.8915352821350098
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0380_020_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2262
+        ],
+        [
+          543,
+          2262
+        ],
+        [
+          543,
+          2307
+        ],
+        [
+          227,
+          2307
+        ]
+      ],
+      "score": 0.7810410261154175,
+      "y_pos": 2262,
+      "text": "Châm cứu",
+      "confidence": 0.8586393415927887
+    },
+    {
+      "type": "text",
+      "img_path": "p0380_012_text.png",
+      "bbox": [
+        [
+          225,
+          2346
+        ],
+        [
+          1476,
+          2346
+        ],
+        [
+          1476,
+          2399
+        ],
+        [
+          225,
+          2399
+        ]
+      ],
+      "score": 0.9194340109825134,
+      "y_pos": 2346,
+      "text": "a. Thể châm: Thần môn, Nôi quan, Tâm du, Cư khuyết.",
+      "confidence": 0.9101954979716607
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0380_021_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2438
+        ],
+        [
+          468,
+          2438
+        ],
+        [
+          468,
+          2488
+        ],
+        [
+          227,
+          2488
+        ]
+      ],
+      "score": 0.7579769492149353,
+      "y_pos": 2438,
+      "text": "Gia giảm:",
+      "confidence": 0.8738745884461836
+    },
+    {
+      "type": "text",
+      "img_path": "p0380_005_text.png",
+      "bbox": [
+        [
+          226,
+          2523
+        ],
+        [
+          950,
+          2523
+        ],
+        [
+          950,
+          2573
+        ],
+        [
+          226,
+          2573
+        ]
+      ],
+      "score": 0.9382550120353699,
+      "y_pos": 2523,
+      "text": "- Huyết hư: Gia Cách du, Tỳ du.",
+      "confidence": 0.9940734848831639
+    },
+    {
+      "type": "text",
+      "img_path": "p0380_008_text.png",
+      "bbox": [
+        [
+          225,
+          2612
+        ],
+        [
+          1314,
+          2612
+        ],
+        [
+          1314,
+          2663
+        ],
+        [
+          225,
+          2663
+        ]
+      ],
+      "score": 0.9327777028083801,
+      "y_pos": 2612,
+      "text": "- Đàm nhiệt: Gia <i>Dương lăng tuyến, Phong long</i>.",
+      "confidence": 0.9388205492496491
+    },
+    {
+      "type": "text",
+      "img_path": "p0380_007_text.png",
+      "bbox": [
+        [
+          226,
+          2698
+        ],
+        [
+          1417,
+          2698
+        ],
+        [
+          1417,
+          2747
+        ],
+        [
+          226,
+          2747
+        ]
+      ],
+      "score": 0.9332815408706665,
+      "y_pos": 2698,
+      "text": "b. Nhĩ châm: Tâm, Bì chất ha, Giao cảm, Thần môn,",
+      "confidence": 0.5590743270574832
+    },
+    {
+      "type": "text",
+      "img_path": "p0380_004_text.png",
+      "bbox": [
+        [
+          223,
+          2786
+        ],
+        [
+          2356,
+          2786
+        ],
+        [
+          2356,
+          2904
+        ],
+        [
+          223,
+          2904
+        ]
+      ],
+      "score": 0.9610592722892761,
+      "y_pos": 2786,
+      "text": "c. Phụ: Kinh nghiệm chữa bệnh tim do phong thấp của thành phố An Sơn, khu Lập Sơn,\ncông xã Thự Quang số \"6,26\", như sau:",
+      "confidence": 0.9818507041031624
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0380_019_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2941
+        ],
+        [
+          495,
+          2941
+        ],
+        [
+          495,
+          2990
+        ],
+        [
+          227,
+          2990
+        ]
+      ],
+      "score": 0.7958536744117737,
+      "y_pos": 2941,
+      "text": "Chủ huyệt:",
+      "confidence": 0.679544727007548
+    },
+    {
+      "type": "text",
+      "img_path": "p0380_006_text.png",
+      "bbox": [
+        [
+          224,
+          3027
+        ],
+        [
+          1107,
+          3027
+        ],
+        [
+          1107,
+          3078
+        ],
+        [
+          224,
+          3078
+        ]
+      ],
+      "score": 0.9335312247276306,
+      "y_pos": 3027,
+      "text": "Nhóm a: Nôi quan, Gian sử, Thiếu phủ.",
+      "confidence": 0.9991385692205185
+    },
+    {
+      "type": "text",
+      "img_path": "p0380_009_text.png",
+      "bbox": [
+        [
+          224,
+          3116
+        ],
+        [
+          1184,
+          3116
+        ],
+        [
+          1184,
+          3165
+        ],
+        [
+          224,
+          3165
+        ]
+      ],
+      "score": 0.9326435923576355,
+      "y_pos": 3116,
+      "text": "Nhóm b: Nôi quan, Khích môn, Khúc trach.",
+      "confidence": 0.9897105523518154
+    },
+    {
+      "type": "number",
+      "img_path": "p0380_018_number.png",
+      "bbox": [
+        [
+          2306,
+          3334
+        ],
+        [
+          2356,
+          3334
+        ],
+        [
+          2356,
+          3370
+        ],
+        [
+          2306,
+          3370
+        ]
+      ],
+      "score": 0.87010657787323,
+      "y_pos": 3334,
+      "text": "\n    \n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0380_015_footer.png",
+      "bbox": [
+        [
+          228,
+          3336
+        ],
+        [
+          1343,
+          3336
+        ],
+        [
+          1343,
+          3383
+        ],
+        [
+          228,
+          3383
+        ]
+      ],
+      "score": 0.9097331166267395,
+      "y_pos": 3336,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9415562085385593
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0380.png"
+}

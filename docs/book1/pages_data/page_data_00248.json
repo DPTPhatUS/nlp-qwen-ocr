@@ -1,0 +1,552 @@
+{
+  "page_num": 248,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0248_003_text.png",
+      "bbox": [
+        [
+          407,
+          451
+        ],
+        [
+          2122,
+          451
+        ],
+        [
+          2122,
+          558
+        ],
+        [
+          407,
+          558
+        ]
+      ],
+      "score": 0.964991569519043,
+      "y_pos": 451,
+      "text": "- Nhược điểm: khó nhớ, lệ thuộc vào thuốc ngoại nhập, khó vận dụng vì\nbênh cảnh có thể thay đổi.",
+      "confidence": 0.995304127739109
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0248_006_paragraph_title.png",
+      "bbox": [
+        [
+          347,
+          617
+        ],
+        [
+          1031,
+          617
+        ],
+        [
+          1031,
+          667
+        ],
+        [
+          347,
+          667
+        ]
+      ],
+      "score": 0.9257345795631409,
+      "y_pos": 617,
+      "text": "1.2. Theo đối chứng trị liệu",
+      "confidence": 0.9984344323476155
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_005_text.png",
+      "bbox": [
+        [
+          342,
+          712
+        ],
+        [
+          2123,
+          712
+        ],
+        [
+          2123,
+          823
+        ],
+        [
+          342,
+          823
+        ]
+      ],
+      "score": 0.9563714861869812,
+      "y_pos": 712,
+      "text": "Theo phương pháp này, người thầy thuốc cổ truyền chon thuốc điều tri\ndựa vào triệu chứng lâm sàng của bệnh nhân.",
+      "confidence": 0.9996855426402319
+    },
+    {
+      "type": "table",
+      "img_path": "p0248_000_table.png",
+      "bbox": [
+        [
+          351,
+          903
+        ],
+        [
+          2123,
+          903
+        ],
+        [
+          2123,
+          1214
+        ],
+        [
+          351,
+          1214
+        ]
+      ],
+      "score": 0.9876318573951721,
+      "y_pos": 903,
+      "text": "Triêu chứng    Thuốc\nSợ lạnh, phát sốt, không đổ mồ hôi, đau nhức tứ chi.    Quế chi\nHo, hen đờm suyễn.    Tía tô\nĐau đầu, cứng gáy, ngạt mũi.    Bach chỉ",
+      "confidence": 0.9556619106773342
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_020_text.png",
+      "bbox": [
+        [
+          407,
+          1277
+        ],
+        [
+          667,
+          1277
+        ],
+        [
+          667,
+          1324
+        ],
+        [
+          407,
+          1324
+        ]
+      ],
+      "score": 0.6995475888252258,
+      "y_pos": 1277,
+      "text": "↩\n.",
+      "confidence": 0.34163498878479004
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_015_text.png",
+      "bbox": [
+        [
+          461,
+          1363
+        ],
+        [
+          1715,
+          1363
+        ],
+        [
+          1715,
+          1414
+        ],
+        [
+          461,
+          1414
+        ]
+      ],
+      "score": 0.9127516746520996,
+      "y_pos": 1363,
+      "text": "+ Đơn giản, linh hoạt trong việc vận dụng các vị thuốc.",
+      "confidence": 0.9794531150868064
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_016_text.png",
+      "bbox": [
+        [
+          462,
+          1446
+        ],
+        [
+          1268,
+          1446
+        ],
+        [
+          1268,
+          1495
+        ],
+        [
+          462,
+          1495
+        ]
+      ],
+      "score": 0.912273645401001,
+      "y_pos": 1446,
+      "text": "+ Không phải nhớ nhiều bài thuốc.",
+      "confidence": 0.9934343201773507
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_004_text.png",
+      "bbox": [
+        [
+          407,
+          1529
+        ],
+        [
+          2125,
+          1529
+        ],
+        [
+          2125,
+          1637
+        ],
+        [
+          407,
+          1637
+        ]
+      ],
+      "score": 0.9639497399330139,
+      "y_pos": 1529,
+      "text": "- Nhược điểm: do hoàn toàn chạy theo triệu chứng nên dễ sa đà, làm mất\ntính cân đối trong lý pháp phương dược.",
+      "confidence": 0.7202643078012356
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0248_010_paragraph_title.png",
+      "bbox": [
+        [
+          348,
+          1697
+        ],
+        [
+          1145,
+          1697
+        ],
+        [
+          1145,
+          1744
+        ],
+        [
+          348,
+          1744
+        ]
+      ],
+      "score": 0.9203460216522217,
+      "y_pos": 1697,
+      "text": "1.3. Theo kinh nghiêm dân gian",
+      "confidence": 0.8920623976737261
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_002_text.png",
+      "bbox": [
+        [
+          345,
+          1792
+        ],
+        [
+          2124,
+          1792
+        ],
+        [
+          2124,
+          1901
+        ],
+        [
+          345,
+          1901
+        ]
+      ],
+      "score": 0.9658287167549133,
+      "y_pos": 1792,
+      "text": "Phương pháp này sử dụng những kinh nghiệm gia truyền (có khi chỉ là\ntruyền khẩu). Thường gặp trong dân tộc ít người.",
+      "confidence": 0.9994230386398841
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_007_text.png",
+      "bbox": [
+        [
+          461,
+          1932
+        ],
+        [
+          1645,
+          1932
+        ],
+        [
+          1645,
+          1982
+        ],
+        [
+          461,
+          1982
+        ]
+      ],
+      "score": 0.9219220876693726,
+      "y_pos": 1932,
+      "text": "Dùng nồi xông với các loại lá có chứa tinh dầu thơm.",
+      "confidence": 0.9996119351298721
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_014_text.png",
+      "bbox": [
+        [
+          409,
+          2025
+        ],
+        [
+          1539,
+          2025
+        ],
+        [
+          1539,
+          2075
+        ],
+        [
+          409,
+          2075
+        ]
+      ],
+      "score": 0.9138599038124084,
+      "y_pos": 2025,
+      "text": "- Ưu điểm: dễ sử dụng, vận dụng được nam dược.",
+      "confidence": 0.9880154232184092
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_013_text.png",
+      "bbox": [
+        [
+          462,
+          2107
+        ],
+        [
+          1698,
+          2107
+        ],
+        [
+          1698,
+          2160
+        ],
+        [
+          462,
+          2160
+        ]
+      ],
+      "score": 0.9141121506690979,
+      "y_pos": 2107,
+      "text": "Khuyết điểm: không bảo đảm tính lý pháp của Đông y.",
+      "confidence": 0.9996962491071449
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0248_009_paragraph_title.png",
+      "bbox": [
+        [
+          348,
+          2215
+        ],
+        [
+          883,
+          2215
+        ],
+        [
+          883,
+          2260
+        ],
+        [
+          348,
+          2260
+        ]
+      ],
+      "score": 0.9210329651832581,
+      "y_pos": 2215,
+      "text": "1.4. Theo toa căn bản",
+      "confidence": 0.9195172397986703
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_001_text.png",
+      "bbox": [
+        [
+          341,
+          2311
+        ],
+        [
+          2123,
+          2311
+        ],
+        [
+          2123,
+          2592
+        ],
+        [
+          341,
+          2592
+        ]
+      ],
+      "score": 0.9842497706413269,
+      "y_pos": 2311,
+      "text": "Nôi dung bài thuốc theo toa căn bản được dựa theo kinh nghiệm của\nquân dân y trong thời gian kháng chiến. Ngoài 10 -11 vị thuốc dùng để nhuận\ntiểu, nhuận gan, nhuận tràng, nhuận huyết, giải độc cơ thể, kích thích tiêu\nhóa, khai khiếu, việc sử dung toa căn bản còn gia thêm Quế chi, Tía tô, Hành.\nKinh giới, Bach chỉ.",
+      "confidence": 0.9962305059771511
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_017_text.png",
+      "bbox": [
+        [
+          404,
+          2633
+        ],
+        [
+          2020,
+          2633
+        ],
+        [
+          2020,
+          2686
+        ],
+        [
+          404,
+          2686
+        ]
+      ],
+      "score": 0.9074159860610962,
+      "y_pos": 2633,
+      "text": "- Ưu điểm: dễ sử dụng không cần học nhiều, vận dụng được Nam dược.",
+      "confidence": 0.9491730174597572
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_018_text.png",
+      "bbox": [
+        [
+          407,
+          2715
+        ],
+        [
+          745,
+          2715
+        ],
+        [
+          745,
+          2765
+        ],
+        [
+          407,
+          2765
+        ]
+      ],
+      "score": 0.8809691667556763,
+      "y_pos": 2715,
+      "text": "Nhươc điểm",
+      "confidence": 0.9961581776539484
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_008_text.png",
+      "bbox": [
+        [
+          466,
+          2801
+        ],
+        [
+          1446,
+          2801
+        ],
+        [
+          1446,
+          2853
+        ],
+        [
+          466,
+          2853
+        ]
+      ],
+      "score": 0.9217561483383179,
+      "y_pos": 2801,
+      "text": "+ Không thể hiện tính lý pháp của Đông y.",
+      "confidence": 0.9900360578714416
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_011_text.png",
+      "bbox": [
+        [
+          465,
+          2884
+        ],
+        [
+          1305,
+          2884
+        ],
+        [
+          1305,
+          2934
+        ],
+        [
+          465,
+          2934
+        ]
+      ],
+      "score": 0.9187859892845154,
+      "y_pos": 2884,
+      "text": "+ Đôi khi còn dùng quá nhiều thuốc.",
+      "confidence": 0.9851044078130979
+    },
+    {
+      "type": "number",
+      "img_path": "p0248_019_number.png",
+      "bbox": [
+        [
+          2041,
+          3110
+        ],
+        [
+          2120,
+          3110
+        ],
+        [
+          2120,
+          3147
+        ],
+        [
+          2041,
+          3147
+        ]
+      ],
+      "score": 0.8727306127548218,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0248_012_footer.png",
+      "bbox": [
+        [
+          293,
+          3310
+        ],
+        [
+          1072,
+          3310
+        ],
+        [
+          1072,
+          3366
+        ],
+        [
+          293,
+          3366
+        ]
+      ],
+      "score": 0.9160872101783752,
+      "y_pos": 3310,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8713696428707668
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0248.png"
+}

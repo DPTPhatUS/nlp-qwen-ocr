@@ -1,0 +1,292 @@
+{
+  "page_num": 54,
+  "content": [
+    {
+      "type": "figure_title",
+      "img_path": "p0054_010_figure_title.png",
+      "bbox": [
+        [
+          464,
+          451
+        ],
+        [
+          1247,
+          451
+        ],
+        [
+          1247,
+          501
+        ],
+        [
+          464,
+          501
+        ]
+      ],
+      "score": 0.653106153011322,
+      "y_pos": 451,
+      "text": "+ Phân tích bài thuốc: (Pháp hãn)",
+      "confidence": 0.9746426582336426
+    },
+    {
+      "type": "table",
+      "img_path": "p0054_001_table.png",
+      "bbox": [
+        [
+          352,
+          559
+        ],
+        [
+          2125,
+          559
+        ],
+        [
+          2125,
+          1099
+        ],
+        [
+          352,
+          1099
+        ]
+      ],
+      "score": 0.9896315932273865,
+      "y_pos": 559,
+      "text": "Vị thuốc    Dươc lý Đông y\nMa hoàng    Cay, đắng, ôn. Khai thấu lý, làm ra mồ hôi, lợi tiểu tiện\nThạch cao    Vị ngọt, cay, tính hàn. Vào 3 kinh Phế, Vị, Tam tiêu. Thanh nhiệt, giáng hỏa,\ntrừ phiền, chỉ khát\nHanh nhân    Đắng, ấm. Vào Phế, Đại trường. Thông Phế, bình suyễn, nhuận tràng, thông\ntiên, ôn Phế.\nCam thảo    Ngọt, bình. Vào 12 kinh. Bổ trung khí, hóa giải độc.",
+      "confidence": 0.8872904793368651
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0054_009_figure_title.png",
+      "bbox": [
+        [
+          464,
+          1159
+        ],
+        [
+          1098,
+          1159
+        ],
+        [
+          1098,
+          1211
+        ],
+        [
+          464,
+          1211
+        ]
+      ],
+      "score": 0.6751206517219543,
+      "y_pos": 1159,
+      "text": "+ Công thức huyệt sử dụng",
+      "confidence": 0.9977158683317678
+    },
+    {
+      "type": "table",
+      "img_path": "p0054_000_table.png",
+      "bbox": [
+        [
+          352,
+          1258
+        ],
+        [
+          2124,
+          1258
+        ],
+        [
+          2124,
+          2187
+        ],
+        [
+          352,
+          2187
+        ]
+      ],
+      "score": 0.9909539818763733,
+      "y_pos": 1258,
+      "text": "Tên huyệt    Cơ sở lý luận    Tác dụng điều trị\nHôi của mach Đốc và 6 dương kinh, thuần dương nên\nchủ biểu.\nĐại chùy    Giải biểu\nMình nóng, mồ hôi tư ra: tả sau bố\nSơ lanh, không có mồ hôi: bổ sau tả\nKhúc trì    Phối hợp Khúc trì, Đại chùy, Hợp cốc là kinh nghiệm để    Ha sốt\ntri cảm sốt\nHợp cốc\nThái uyên    Du Thổ huyệt/Phế. (Tả hỏa/Phế). Khu phong hóa đờm,    Tri ho\nlý Phế chỉ khái\nĐản trung    Hôi của khí    Trị ho, khó thở\nNghinh    Huyêt tai chỗ    Ngat mũi\nhương",
+      "confidence": 0.9355770657772328
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0054_006_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          2266
+        ],
+        [
+          987,
+          2266
+        ],
+        [
+          987,
+          2316
+        ],
+        [
+          345,
+          2316
+        ]
+      ],
+      "score": 0.9133217334747314,
+      "y_pos": 2266,
+      "text": "5.2.2.2. Nhiệt uất hung cách",
+      "confidence": 0.9640883326530456
+    },
+    {
+      "type": "text",
+      "img_path": "p0054_003_text.png",
+      "bbox": [
+        [
+          407,
+          2364
+        ],
+        [
+          2119,
+          2364
+        ],
+        [
+          2119,
+          2472
+        ],
+        [
+          407,
+          2472
+        ]
+      ],
+      "score": 0.9594611525535583,
+      "y_pos": 2364,
+      "text": "- Triệu chứng: <i>tức ngực</i>, phát sốt từng cơn, thường <i>buồn phiền</i>, khó ngủ\nMạch sác, rêu vàng.",
+      "confidence": 0.9400209373138602
+    },
+    {
+      "type": "text",
+      "img_path": "p0054_004_text.png",
+      "bbox": [
+        [
+          407,
+          2505
+        ],
+        [
+          1564,
+          2505
+        ],
+        [
+          1564,
+          2556
+        ],
+        [
+          407,
+          2556
+        ]
+      ],
+      "score": 0.916321873664856,
+      "y_pos": 2505,
+      "text": "- Pháp trị: thanh thấu uất nhiệt (Chi tử sị thang )",
+      "confidence": 0.6315902032942142
+    },
+    {
+      "type": "text",
+      "img_path": "p0054_008_text.png",
+      "bbox": [
+        [
+          464,
+          2588
+        ],
+        [
+          1301,
+          2588
+        ],
+        [
+          1301,
+          2637
+        ],
+        [
+          464,
+          2637
+        ]
+      ],
+      "score": 0.844573438167572,
+      "y_pos": 2588,
+      "text": "+ Phân tích bài thuốc: (Pháp thanh)",
+      "confidence": 0.9608149786253233
+    },
+    {
+      "type": "table",
+      "img_path": "p0054_002_table.png",
+      "bbox": [
+        [
+          351,
+          2698
+        ],
+        [
+          2124,
+          2698
+        ],
+        [
+          2124,
+          2973
+        ],
+        [
+          351,
+          2973
+        ]
+      ],
+      "score": 0.9838249683380127,
+      "y_pos": 2698,
+      "text": "Vi thuốc    Dươc lý Đông y\nChi tử    Vị đắng, hàn. Vào Tâm, Phế, Tam tiêu. Thanh nhiệt, tả hỏa, lợi tiểu, cầm máu\nÐâu si    Vị đắng, hàn. Vào Phế, Vị, giải biểu, trừ phiền",
+      "confidence": 0.8916152771251734
+    },
+    {
+      "type": "number",
+      "img_path": "p0054_007_number.png",
+      "bbox": [
+        [
+          2070,
+          3111
+        ],
+        [
+          2121,
+          3111
+        ],
+        [
+          2121,
+          3147
+        ],
+        [
+          2070,
+          3147
+        ]
+      ],
+      "score": 0.8669973015785217,
+      "y_pos": 3111,
+      "text": "\n    \n\n\n-\n\n\n    ۰\n\n\n\n\n.    ",
+      "confidence": 0.9033005507662892
+    },
+    {
+      "type": "footer",
+      "img_path": "p0054_005_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.9141915440559387,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8789173466818673
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0054.png"
+}

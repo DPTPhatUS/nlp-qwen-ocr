@@ -1,0 +1,448 @@
+{
+  "page_num": 601,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0601_011_header.png",
+      "bbox": [
+        [
+          1676,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          197
+        ],
+        [
+          1676,
+          197
+        ]
+      ],
+      "score": 0.9187654852867126,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7432162417542367
+    },
+    {
+      "type": "header",
+      "img_path": "p0601_012_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9106894135475159,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "text",
+      "img_path": "p0601_000_text.png",
+      "bbox": [
+        [
+          221,
+          307
+        ],
+        [
+          2359,
+          307
+        ],
+        [
+          2359,
+          1000
+        ],
+        [
+          221,
+          1000
+        ]
+      ],
+      "score": 0.986955463886261,
+      "y_pos": 307,
+      "text": "Tháng 6 năm 2000, Hội Sinh lý học Việt Nam đã tổ chức sinh hoạt khoa học chuyên đề về\nphương pháp này tại Hà Nội. Sau khi tác giả giới thiệu phương pháp, có minh hoạ thực hành\nbằng máy đo và kết quả đo trước nhiều cử toạ, khi kết luận buổi sinh hoạt, Giáo sư Tiến sĩ Đỗ\nCông Huỳnh, Phó chủ tịch Hội Sinh lý học đã tóm tắt ý kiến của ban tổ chức buổi sinh hoạt\nkhoa học với nội dung hoan nghênh phương pháp về các mặt khoa học, giản tiện, khả năng\nứng dụng rộng rãi. Hội Sinh lý học sẽ cùng tác giả giúp đỡ để ngày càng hoàn thiện phương\npháp và tiến tới giới thiệu trong toàn ngành y học cả nước, đồng thời cũng yêu cầu nhóm kỹ sư\nchế tạo máy và viết lập trình chặt chẽ, đầy đủ hơn, hoàn thiện máy tiện thao tác hơn và bảo\nđảm độ chính xác để tiến tới có thể cung cấp máy cho các địa phương sử dụng, góp phần hiện\nđại hoá nền y học cổ truyền Việt Nam, mang bản sắc văn hoá Việt Nam.",
+      "confidence": 0.9997098389659393
+    },
+    {
+      "type": "text",
+      "img_path": "p0601_007_text.png",
+      "bbox": [
+        [
+          221,
+          1034
+        ],
+        [
+          2357,
+          1034
+        ],
+        [
+          2357,
+          1161
+        ],
+        [
+          221,
+          1161
+        ]
+      ],
+      "score": 0.9591231346130371,
+      "y_pos": 1034,
+      "text": "Vì thế, chúng tôi đưa toàn bộ nội dung phương pháp thành một phần trong các phép chẩn bệnh\ncủa bộ sách này, hy vọng được độc giả ứng dụng rộng rãi.",
+      "confidence": 0.9996905557286258
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0601_014_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          1200
+        ],
+        [
+          1795,
+          1200
+        ],
+        [
+          1795,
+          1253
+        ],
+        [
+          224,
+          1253
+        ]
+      ],
+      "score": 0.8628343343734741,
+      "y_pos": 1200,
+      "text": "Các công trình ứng dụng: Phép chấn bệnh bằng nhiệt độ kinh lạc",
+      "confidence": 0.99959553219378
+    },
+    {
+      "type": "text",
+      "img_path": "p0601_002_text.png",
+      "bbox": [
+        [
+          280,
+          1289
+        ],
+        [
+          2301,
+          1289
+        ],
+        [
+          2301,
+          1479
+        ],
+        [
+          280,
+          1479
+        ]
+      ],
+      "score": 0.9728702902793884,
+      "y_pos": 1289,
+      "text": "Phương pháp \"chẩn bệnh bằng nhiệt độ kinh lạc\" đã được Tiến sĩ y khoa Nguyễn Tấn\nPhong, viện Tai – Mũi - Họng trung ương ứng dụng và được các tạp chí khoa học đăng\ntải:",
+      "confidence": 0.9942638153513873
+    },
+    {
+      "type": "text",
+      "img_path": "p0601_010_text.png",
+      "bbox": [
+        [
+          287,
+          1523
+        ],
+        [
+          2301,
+          1523
+        ],
+        [
+          2301,
+          1647
+        ],
+        [
+          287,
+          1647
+        ]
+      ],
+      "score": 0.9487511515617371,
+      "y_pos": 1523,
+      "text": "1. Chẩn đoán nguyên nhân chóng mặt bằng phương pháp đo nhiệt độ kinh lạc - Hội\nnghị Tai – Mũi - Họng và đầu cổ Việt - Pháp lần thứ II (11/1993).",
+      "confidence": 0.9978904526625108
+    },
+    {
+      "type": "text",
+      "img_path": "p0601_008_text.png",
+      "bbox": [
+        [
+          284,
+          1685
+        ],
+        [
+          2303,
+          1685
+        ],
+        [
+          2303,
+          1810
+        ],
+        [
+          284,
+          1810
+        ]
+      ],
+      "score": 0.9587390422821045,
+      "y_pos": 1685,
+      "text": "2. Chẩn đoán nguyên nhân loạn cảm họng bằng phương pháp đo nhiệt kinh lạc -\nHội nghị Tai – Mũi - Họng và đầu cổ Việt - Pháp lần thứ II (11/1993).",
+      "confidence": 0.998982314541677
+    },
+    {
+      "type": "text",
+      "img_path": "p0601_005_text.png",
+      "bbox": [
+        [
+          284,
+          1848
+        ],
+        [
+          2302,
+          1848
+        ],
+        [
+          2302,
+          1971
+        ],
+        [
+          284,
+          1971
+        ]
+      ],
+      "score": 0.9603805541992188,
+      "y_pos": 1848,
+      "text": "3. Chẩn đoán nguyên nhân chóng mặt bằng phương pháp đo nhiệt độ kinh lạc – Hội\nnghi Tai – Mũi - Hong và đầu cổ Việt - Mỹ (3/1997).",
+      "confidence": 0.9972571196772579
+    },
+    {
+      "type": "text",
+      "img_path": "p0601_006_text.png",
+      "bbox": [
+        [
+          283,
+          2011
+        ],
+        [
+          2302,
+          2011
+        ],
+        [
+          2302,
+          2133
+        ],
+        [
+          283,
+          2133
+        ]
+      ],
+      "score": 0.959612250328064,
+      "y_pos": 2011,
+      "text": "4. Một kỹ thuật mới của y học phương Đông trong chẩn đoán bệnh - Hội thảo Tai -\nMũi - Hong của Hôi Tai – Mũi - Hong Hà Nôi.",
+      "confidence": 0.9850671874888149
+    },
+    {
+      "type": "text",
+      "img_path": "p0601_004_text.png",
+      "bbox": [
+        [
+          284,
+          2173
+        ],
+        [
+          2303,
+          2173
+        ],
+        [
+          2303,
+          2298
+        ],
+        [
+          284,
+          2298
+        ]
+      ],
+      "score": 0.9609447717666626,
+      "y_pos": 2173,
+      "text": "5. Chẩn đoán nguyên nhân loạn cảm họng bằng phương pháp đo nhiệt kinh lạc -\nTạp chí thông tin y được học (JORL-No1-4/1996).",
+      "confidence": 0.9761410107860318
+    },
+    {
+      "type": "text",
+      "img_path": "p0601_009_text.png",
+      "bbox": [
+        [
+          284,
+          2335
+        ],
+        [
+          2302,
+          2335
+        ],
+        [
+          2302,
+          2460
+        ],
+        [
+          284,
+          2460
+        ]
+      ],
+      "score": 0.9575445055961609,
+      "y_pos": 2335,
+      "text": "6. Chẩn đoán nguyên nhân loạn cảm họng bằng phương pháp đo nhiệt kinh lạc -\nTạp chí thông tin y được học (JORL-No1-4/1997).",
+      "confidence": 0.9776359868956408
+    },
+    {
+      "type": "text",
+      "img_path": "p0601_003_text.png",
+      "bbox": [
+        [
+          286,
+          2499
+        ],
+        [
+          2302,
+          2499
+        ],
+        [
+          2302,
+          2691
+        ],
+        [
+          286,
+          2691
+        ]
+      ],
+      "score": 0.9658940434455872,
+      "y_pos": 2499,
+      "text": "7. Chẩn đoán nguyên nhân chóng mặt bằng phương pháp đo nhiệt độ các tỉnh\nhuyệt trên các đường kinh – Tạp chí Sinh lý học (Việt Nam Journal Of Physiology\nVolume 4. No1-June 2000).",
+      "confidence": 0.9085481611338703
+    },
+    {
+      "type": "text",
+      "img_path": "p0601_016_text.png",
+      "bbox": [
+        [
+          598,
+          2733
+        ],
+        [
+          2297,
+          2733
+        ],
+        [
+          2297,
+          2784
+        ],
+        [
+          598,
+          2784
+        ]
+      ],
+      "score": 0.6827689409255981,
+      "y_pos": 2733,
+      "text": "<b>Trích biên bản sinh hoat KH</b> của Hôi Sinh lý học Việt Nam ngày 16/6/2000.",
+      "confidence": 0.9944885624082465
+    },
+    {
+      "type": "text",
+      "img_path": "p0601_001_text.png",
+      "bbox": [
+        [
+          221,
+          2824
+        ],
+        [
+          2359,
+          2824
+        ],
+        [
+          2359,
+          3091
+        ],
+        [
+          221,
+          3091
+        ]
+      ],
+      "score": 0.9766721725463867,
+      "y_pos": 2824,
+      "text": "\"Qua hơn hai giờ chúng ta đã nghe lương y Lê Văn Sửu báo cáo về phương pháp chẩn đoán\ntrạng thái của cơ thể và các bệnh dựa trên kết quả đo nhiệt độ các tỉnh huyệt, theo chúng\ntôi là một trong những phương pháp rất có giá trị. Phương pháp cho phép xác định nhanh\nchóng nhiệt độ tại các tỉnh huyệt và chỉ sau 10 phút đã cho các dẫn liệu để có thể dựa vào đó",
+      "confidence": 0.9987894834422621
+    },
+    {
+      "type": "number",
+      "img_path": "p0601_015_number.png",
+      "bbox": [
+        [
+          2329,
+          3338
+        ],
+        [
+          2354,
+          3338
+        ],
+        [
+          2354,
+          3373
+        ],
+        [
+          2329,
+          3373
+        ]
+      ],
+      "score": 0.8107535243034363,
+      "y_pos": 3338,
+      "text": "\n    \n\n\n\n\n\n\n\n    \n    \n\n\n    \n    \n    \n    \n    \n\n    е    ۰.\n",
+      "confidence": 0.9629835053797691
+    },
+    {
+      "type": "footer",
+      "img_path": "p0601_013_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.8946400880813599,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987586095647992
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0601.png"
+}

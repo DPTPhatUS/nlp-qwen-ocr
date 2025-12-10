@@ -1,0 +1,136 @@
+{
+  "page_num": 532,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0532_000_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9168771505355835,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0532_001_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1470,
+          152
+        ],
+        [
+          1470,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.9166062474250793,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9963005375862122
+    },
+    {
+      "type": "text",
+      "img_path": "p0532_004_text.png",
+      "bbox": [
+        [
+          227,
+          1407
+        ],
+        [
+          1942,
+          1407
+        ],
+        [
+          1942,
+          1465
+        ],
+        [
+          227,
+          1465
+        ]
+      ],
+      "score": 0.5220615267753601,
+      "y_pos": 1407,
+      "text": "442. Viêm tuyến tiền liệt: Bàng quang du, Thận du, Khúc cốt, Tam âm giao.",
+      "confidence": 0.9949314721425374
+    },
+    {
+      "type": "number",
+      "img_path": "p0532_003_number.png",
+      "bbox": [
+        [
+          2316,
+          3338
+        ],
+        [
+          2367,
+          3338
+        ],
+        [
+          2367,
+          3374
+        ],
+        [
+          2316,
+          3374
+        ]
+      ],
+      "score": 0.866054117679596,
+      "y_pos": 3338,
+      "text": "    \n            \n    \n    \n\n    \n        \n\n\n\n    \n    \n    \n    \n\n    ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0532_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1325,
+          3341
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9141905307769775,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987242975324955
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0532.png"
+}

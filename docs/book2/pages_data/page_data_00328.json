@@ -1,0 +1,370 @@
+{
+  "page_num": 328,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0328_002_header.png",
+      "bbox": [
+        [
+          1607,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9256005883216858,
+      "y_pos": 143,
+      "text": "~>\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6978494819431078
+    },
+    {
+      "type": "header",
+      "img_path": "p0328_006_header.png",
+      "bbox": [
+        [
+          229,
+          156
+        ],
+        [
+          945,
+          156
+        ],
+        [
+          945,
+          204
+        ],
+        [
+          229,
+          204
+        ]
+      ],
+      "score": 0.9134484529495239,
+      "y_pos": 156,
+      "text": "TANG PHỦ BIÊN CHỨNG LUÂN TRI",
+      "confidence": 0.9022336840629578
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0328_009_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          306
+        ],
+        [
+          1457,
+          306
+        ],
+        [
+          1457,
+          361
+        ],
+        [
+          227,
+          361
+        ]
+      ],
+      "score": 0.8922039866447449,
+      "y_pos": 306,
+      "text": "11. Hoàng cầm hoàng liên thang (Cúc thược thang)",
+      "confidence": 0.9790503656864167
+    },
+    {
+      "type": "text",
+      "img_path": "p0328_004_text.png",
+      "bbox": [
+        [
+          284,
+          398
+        ],
+        [
+          1098,
+          398
+        ],
+        [
+          1098,
+          450
+        ],
+        [
+          284,
+          450
+        ]
+      ],
+      "score": 0.9179917573928833,
+      "y_pos": 398,
+      "text": "Hoàng cầm, Hoàng liên, Xích thược",
+      "confidence": 0.9904276967048645
+    },
+    {
+      "type": "text",
+      "img_path": "p0328_001_text.png",
+      "bbox": [
+        [
+          285,
+          492
+        ],
+        [
+          1043,
+          492
+        ],
+        [
+          1043,
+          543
+        ],
+        [
+          285,
+          543
+        ]
+      ],
+      "score": 0.9261043667793274,
+      "y_pos": 492,
+      "text": "Đương quy, Đại hoàng, Binh lang",
+      "confidence": 0.9907128142588066
+    },
+    {
+      "type": "text",
+      "img_path": "p0328_003_text.png",
+      "bbox": [
+        [
+          285,
+          582
+        ],
+        [
+          1052,
+          582
+        ],
+        [
+          1052,
+          633
+        ],
+        [
+          285,
+          633
+        ]
+      ],
+      "score": 0.9214048385620117,
+      "y_pos": 582,
+      "text": "Cam thảo, Môc hương, Nhục quế.",
+      "confidence": 0.9983721636235714
+    },
+    {
+      "type": "text",
+      "img_path": "p0328_000_text.png",
+      "bbox": [
+        [
+          276,
+          671
+        ],
+        [
+          2360,
+          671
+        ],
+        [
+          2360,
+          1150
+        ],
+        [
+          276,
+          1150
+        ]
+      ],
+      "score": 0.9865500926971436,
+      "y_pos": 671,
+      "text": "Trong sách \"Thường kiến bệnh Trung Y lâm sàng thủ sách\", và \"Trung y học khái yếu\" đều\nkhông có ghi tễ tượng. Trong \"Trung Y phương tễ lâm sàng thủ sách\" có phương <i>Cát c</i>ăn\nHoàng Cầm Hoàng liên thang như sau: Cát căn 3 – 5 đồng cân, Hoàng cầm 3 đồng cân,\nHoàng liên 1 – 3 đồng cân, Cam thảo 1 đồng cân. Phương này vốn để chữa bệnh nhiệt tính\nbiếu chứng chưa giải, tà nhiệt nhập lý, nhiệt hiệp lại làm đi ỉa, thường dùng để chữa các\nchứng viêm ruột cấp tính, khuẩn ly, thân nóng, ỉa chảy (nhiệt tả), nay ghi để tham khảo tễ\nlượng.",
+      "confidence": 0.9627499699531054
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0328_008_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1190
+        ],
+        [
+          802,
+          1190
+        ],
+        [
+          802,
+          1243
+        ],
+        [
+          227,
+          1243
+        ]
+      ],
+      "score": 0.8972485065460205,
+      "y_pos": 1190,
+      "text": "12. Bạch đầu ông thang",
+      "confidence": 0.9501738250255585
+    },
+    {
+      "type": "text",
+      "img_path": "p0328_007_text.png",
+      "bbox": [
+        [
+          286,
+          1281
+        ],
+        [
+          1199,
+          1281
+        ],
+        [
+          1199,
+          1338
+        ],
+        [
+          286,
+          1338
+        ]
+      ],
+      "score": 0.8996849656105042,
+      "y_pos": 1281,
+      "text": "Bạch đầu ông    5 đồng cân đến 1 lạng,",
+      "confidence": 0.9695876373776368
+    },
+    {
+      "type": "text",
+      "img_path": "p0328_011_text.png",
+      "bbox": [
+        [
+          1280,
+          1374
+        ],
+        [
+          1967,
+          1374
+        ],
+        [
+          1967,
+          1429
+        ],
+        [
+          1280,
+          1429
+        ]
+      ],
+      "score": 0.742343008518219,
+      "y_pos": 1374,
+      "text": "Hoàng liên    1 – 2 đồng cân,",
+      "confidence": 0.7838338330095889
+    },
+    {
+      "type": "text",
+      "img_path": "p0328_013_text.png",
+      "bbox": [
+        [
+          287,
+          1374
+        ],
+        [
+          1034,
+          1374
+        ],
+        [
+          1034,
+          1428
+        ],
+        [
+          287,
+          1428
+        ]
+      ],
+      "score": 0.5884844660758972,
+      "y_pos": 1374,
+      "text": "Hoàng bá    1 – 2 đồng cân,",
+      "confidence": 0.8207660440136404
+    },
+    {
+      "type": "text",
+      "img_path": "p0328_012_text.png",
+      "bbox": [
+        [
+          290,
+          1464
+        ],
+        [
+          1032,
+          1464
+        ],
+        [
+          1032,
+          1518
+        ],
+        [
+          290,
+          1518
+        ]
+      ],
+      "score": 0.6396247148513794,
+      "y_pos": 1464,
+      "text": "Tần bì    2 – 4 đông cân.",
+      "confidence": 0.8680028829942732
+    },
+    {
+      "type": "footer",
+      "img_path": "p0328_005_footer.png",
+      "bbox": [
+        [
+          231,
+          3334
+        ],
+        [
+          1438,
+          3334
+        ],
+        [
+          1438,
+          3387
+        ],
+        [
+          231,
+          3387
+        ]
+      ],
+      "score": 0.9151548743247986,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9431507542448224
+    },
+    {
+      "type": "number",
+      "img_path": "p0328_010_number.png",
+      "bbox": [
+        [
+          2304,
+          3338
+        ],
+        [
+          2355,
+          3338
+        ],
+        [
+          2355,
+          3373
+        ],
+        [
+          2304,
+          3373
+        ]
+      ],
+      "score": 0.8705236315727234,
+      "y_pos": 3338,
+      "text": "\n    \n    \n\n\n    \n    \n\n\n\n\n۰.\n    \n۰    \n•\n•    \n",
+      "confidence": 0.9146014222254356
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0328.png"
+}

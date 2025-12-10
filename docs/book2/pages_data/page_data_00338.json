@@ -1,0 +1,526 @@
+{
+  "page_num": 338,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0338_011_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          195
+        ],
+        [
+          1678,
+          195
+        ]
+      ],
+      "score": 0.921276330947876,
+      "y_pos": 142,
+      "text": "_______________________________________\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6681458304503134
+    },
+    {
+      "type": "header",
+      "img_path": "p0338_012_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1055,
+          152
+        ],
+        [
+          1055,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9136725068092346,
+      "y_pos": 152,
+      "text": "ÔN NHIỆT KINH BIÊN CHỨNG LUÂN TRI",
+      "confidence": 0.9413397720881871
+    },
+    {
+      "type": "text",
+      "img_path": "p0338_003_text.png",
+      "bbox": [
+        [
+          337,
+          305
+        ],
+        [
+          2360,
+          305
+        ],
+        [
+          2360,
+          503
+        ],
+        [
+          337,
+          503
+        ]
+      ],
+      "score": 0.9766290783882141,
+      "y_pos": 305,
+      "text": "Bệnh lý: Chứng này là khí phần nhiệt thịnh, cho nên sốt cao mà mặt đỏ, nhiệt ở lý có tân\nthì ra nhiều mồ hôi. Sốt cao ra nhiều mồ hôi thì rất khát, lưỡi vàng khô. Nhiệt nhiễu ở tâm\nthần thì nói mê nhảm, nhiệt cực sinh phong thì co quắp (sốt cao co giật).",
+      "confidence": 0.9519951053189833
+    },
+    {
+      "type": "text",
+      "img_path": "p0338_017_text.png",
+      "bbox": [
+        [
+          341,
+          540
+        ],
+        [
+          1771,
+          540
+        ],
+        [
+          1771,
+          592
+        ],
+        [
+          341,
+          592
+        ]
+      ],
+      "score": 0.8986819386482239,
+      "y_pos": 540,
+      "text": "Phép chữa: Thanh nhiệt sinh tân, thường dùng Bạch hổ thang.",
+      "confidence": 0.5619775203407787
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0338_018_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          632
+        ],
+        [
+          585,
+          632
+        ],
+        [
+          585,
+          684
+        ],
+        [
+          344,
+          684
+        ]
+      ],
+      "score": 0.8299975991249084,
+      "y_pos": 632,
+      "text": "Gia qiảm:",
+      "confidence": 0.8868621967055581
+    },
+    {
+      "type": "text",
+      "img_path": "p0338_001_text.png",
+      "bbox": [
+        [
+          399,
+          723
+        ],
+        [
+          2359,
+          723
+        ],
+        [
+          2359,
+          989
+        ],
+        [
+          399,
+          989
+        ]
+      ],
+      "score": 0.9806888103485107,
+      "y_pos": 723,
+      "text": "- Nếu có kèm tức ngực nặng mình, khát nhưng uống không nhiều, rêu lưỡi trơn là\nkiêm có thấp trọc, phải dùng thêm những vị thuốc thơm tho hoá thấp như Bội lan,\nHoắc hương. Có nói nhảm thì thêm vào Liên kiều, Mạch đông, lá tre non cuộn trong\nnõn. Có co quắp thì thêm vào Địa long, Câu đằng.",
+      "confidence": 0.9671456945866449
+    },
+    {
+      "type": "text",
+      "img_path": "p0338_004_text.png",
+      "bbox": [
+        [
+          402,
+          1026
+        ],
+        [
+          2359,
+          1026
+        ],
+        [
+          2359,
+          1222
+        ],
+        [
+          402,
+          1222
+        ]
+      ],
+      "score": 0.9722892045974731,
+      "y_pos": 1026,
+      "text": "- Nếu tà nhiệt đại thịnh, mồ hôi ra nhiều, mà thấy miệng khát, mạch hồng đại mà vô\nlực là nhiệt thương tâm khí, có thể dùng những vị thuốc ích khí sinh tân như Tây\ndương sâm, Hài nhi sâm, hoặc đổi dùng Vương thị thanh thử ích khí thang.",
+      "confidence": 0.9977519037690898
+    },
+    {
+      "type": "text",
+      "img_path": "p0338_010_text.png",
+      "bbox": [
+        [
+          340,
+          1260
+        ],
+        [
+          2358,
+          1260
+        ],
+        [
+          2358,
+          1381
+        ],
+        [
+          340,
+          1381
+        ]
+      ],
+      "score": 0.9607700109481812,
+      "y_pos": 1260,
+      "text": "Bệnh cảm cúm, viêm não Nhật bản B thường xuất hiện chứng này, có thể theo phép này\nmà chữa.",
+      "confidence": 0.9947892941889309
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0338_014_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1421
+        ],
+        [
+          1387,
+          1421
+        ],
+        [
+          1387,
+          1477
+        ],
+        [
+          344,
+          1477
+        ]
+      ],
+      "score": 0.9069610834121704,
+      "y_pos": 1421,
+      "text": "b. Đàm nhiệt trở phế (đàm nhiệt vây ở phế)",
+      "confidence": 0.9989774863828312
+    },
+    {
+      "type": "text",
+      "img_path": "p0338_009_text.png",
+      "bbox": [
+        [
+          340,
+          1514
+        ],
+        [
+          2357,
+          1514
+        ],
+        [
+          2357,
+          1637
+        ],
+        [
+          340,
+          1637
+        ]
+      ],
+      "score": 0.9620141983032227,
+      "y_pos": 1514,
+      "text": "Chủ chứng: Có đủ đặc trưng bệnh ở khí phần, kiêm thấy ho hắng, đau ngực, đờm vàng\nđặc, khí suyễn, mạch hoạt, sác.",
+      "confidence": 0.9904464544193202
+    },
+    {
+      "type": "text",
+      "img_path": "p0338_005_text.png",
+      "bbox": [
+        [
+          340,
+          1676
+        ],
+        [
+          2360,
+          1676
+        ],
+        [
+          2360,
+          1802
+        ],
+        [
+          340,
+          1802
+        ]
+      ],
+      "score": 0.9667282104492188,
+      "y_pos": 1676,
+      "text": "Bệnh lý: Chứng này là tà nhiệt thương phế, nung đốt tân dịch mà thành đờm vàng. Đàm\nnhiệt vướng ở phế, phế mất tuyên giáng (mất sự thông xuống) thì ho hen đau ngực.",
+      "confidence": 0.9983105005330302
+    },
+    {
+      "type": "text",
+      "img_path": "p0338_006_text.png",
+      "bbox": [
+        [
+          341,
+          1839
+        ],
+        [
+          2361,
+          1839
+        ],
+        [
+          2361,
+          1964
+        ],
+        [
+          341,
+          1964
+        ]
+      ],
+      "score": 0.9653729200363159,
+      "y_pos": 1839,
+      "text": "Phép chữa: Thanh phế tiết nhiệt, hoá đàm bình suyễn. Thường dùng Ma hạnh thạch cam\nthang gia Ngưu bàng tử, Đông qua nhân, Liên kiều, Hoàng cầm.",
+      "confidence": 0.8999581436773966
+    },
+    {
+      "type": "text",
+      "img_path": "p0338_007_text.png",
+      "bbox": [
+        [
+          342,
+          2001
+        ],
+        [
+          2358,
+          2001
+        ],
+        [
+          2358,
+          2123
+        ],
+        [
+          342,
+          2123
+        ]
+      ],
+      "score": 0.9646967053413391,
+      "y_pos": 2001,
+      "text": "Gia giảm: Miệng khát, gia Lô căn, Thiên hoa phấn, tiện bí bụng trướng thì gia Đại hoàng,\nQua lâu nhân.",
+      "confidence": 0.9562470621532864
+    },
+    {
+      "type": "text",
+      "img_path": "p0338_008_text.png",
+      "bbox": [
+        [
+          340,
+          2162
+        ],
+        [
+          2358,
+          2162
+        ],
+        [
+          2358,
+          2284
+        ],
+        [
+          340,
+          2284
+        ]
+      ],
+      "score": 0.9621116518974304,
+      "y_pos": 2162,
+      "text": "Bệnh viêm phế quản cấp tính, viêm lá phổi, có biểu hiện chứng này có thể theo phép này\nmà chữa.",
+      "confidence": 0.9927882927385243
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0338_013_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          2328
+        ],
+        [
+          1400,
+          2328
+        ],
+        [
+          1400,
+          2381
+        ],
+        [
+          343,
+          2381
+        ]
+      ],
+      "score": 0.9114006161689758,
+      "y_pos": 2328,
+      "text": "c. Vị thường thực nhiệt (nhiệt tại trường vị)",
+      "confidence": 0.9950470569285941
+    },
+    {
+      "type": "text",
+      "img_path": "p0338_002_text.png",
+      "bbox": [
+        [
+          338,
+          2416
+        ],
+        [
+          2358,
+          2416
+        ],
+        [
+          2358,
+          2683
+        ],
+        [
+          338,
+          2683
+        ]
+      ],
+      "score": 0.9800276160240173,
+      "y_pos": 2416,
+      "text": "Chủ chứng: Sốt cao hoặc sốt về chiều, đại tiện bế kết hoặc la chảy vàng, hôi, nước lỏng,\nvùng bụng trướng đầy, bụng đau sợ sờ, phiền thao (chân tay vật vã) nói mê nhảm, chân\ntay nhiều mồ hôi, chất lưỡi hồng, rêu lưỡi vàng khô, hoặc đen như than đâm nhọn lên,\nmạch trầm, sác, hữu lực.",
+      "confidence": 0.9569254339398838
+    },
+    {
+      "type": "text",
+      "img_path": "p0338_000_text.png",
+      "bbox": [
+        [
+          338,
+          2722
+        ],
+        [
+          2359,
+          2722
+        ],
+        [
+          2359,
+          3059
+        ],
+        [
+          338,
+          3059
+        ]
+      ],
+      "score": 0.9818613529205322,
+      "y_pos": 2722,
+      "text": "Bệnh lý: Chứng này là tà nhiệt vào lý cùng kết với tích trệ mà thành vị trường thực nhiệt.\nLý nhiệt thịnh thì tân dịch thương, sẽ sốt cao hoặc sốt về chiều, chân tay nhiều mồ hôi,\nlưỡi hồng, rêu lưỡi vàng khô hoặc đen như than mà nhọn gai lên. Nhiệt nhiễu tâm thần thì\nnói nhảm; táo, phân kết lại ở trong ruột, thì vùng bụng trướng tức, bụng đau mà sợ sờ\nnắn, hoặc đại tiện bí kết, hoặc la chảy nước lỏng vàng hội.",
+      "confidence": 0.9985163244493102
+    },
+    {
+      "type": "text",
+      "img_path": "p0338_015_text.png",
+      "bbox": [
+        [
+          341,
+          3098
+        ],
+        [
+          1734,
+          3098
+        ],
+        [
+          1734,
+          3151
+        ],
+        [
+          341,
+          3151
+        ]
+      ],
+      "score": 0.9063085317611694,
+      "y_pos": 3098,
+      "text": "Phép chữa: Tả hạ hết nhiệt, thường dung Đại thừa khí thang.",
+      "confidence": 0.8730835250166596
+    },
+    {
+      "type": "footer",
+      "img_path": "p0338_016_footer.png",
+      "bbox": [
+        [
+          229,
+          3337
+        ],
+        [
+          1343,
+          3337
+        ],
+        [
+          1343,
+          3385
+        ],
+        [
+          229,
+          3385
+        ]
+      ],
+      "score": 0.9052191376686096,
+      "y_pos": 3337,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.998581662492932
+    },
+    {
+      "type": "number",
+      "img_path": "p0338_019_number.png",
+      "bbox": [
+        [
+          2321,
+          3339
+        ],
+        [
+          2345,
+          3339
+        ],
+        [
+          2345,
+          3373
+        ],
+        [
+          2321,
+          3373
+        ]
+      ],
+      "score": 0.8238041996955872,
+      "y_pos": 3339,
+      "text": "\n\n\n    \n\n    \n    \n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0338.png"
+}

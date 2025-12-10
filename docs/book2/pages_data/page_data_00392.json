@@ -1,0 +1,656 @@
+{
+  "page_num": 392,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0392_008_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          195
+        ],
+        [
+          1678,
+          195
+        ]
+      ],
+      "score": 0.9304434061050415,
+      "y_pos": 142,
+      "text": "_______________________________________\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6681458304503134
+    },
+    {
+      "type": "header",
+      "img_path": "p0392_010_header.png",
+      "bbox": [
+        [
+          229,
+          146
+        ],
+        [
+          1095,
+          146
+        ],
+        [
+          1095,
+          196
+        ],
+        [
+          229,
+          196
+        ]
+      ],
+      "score": 0.9173896312713623,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SĂNG",
+      "confidence": 0.9852815968649727
+    },
+    {
+      "type": "text",
+      "img_path": "p0392_001_text.png",
+      "bbox": [
+        [
+          220,
+          305
+        ],
+        [
+          2359,
+          305
+        ],
+        [
+          2359,
+          501
+        ],
+        [
+          220,
+          501
+        ]
+      ],
+      "score": 0.981495201587677,
+      "y_pos": 305,
+      "text": "Hoang đản do tổn thương tế bào gan: Nước tiểu chứa nhiều sắc tố mật và muối mật, màu\nnước tiểu tăng thẫm, xét nghiệm bóng bọt nước tiểu màu vàng. Trong phân, hàm lượng sắc tố\nmật và muối mật không nhất định, hoặc có hướng giảm.",
+      "confidence": 0.9985186936438376
+    },
+    {
+      "type": "text",
+      "img_path": "p0392_004_text.png",
+      "bbox": [
+        [
+          221,
+          538
+        ],
+        [
+          2361,
+          538
+        ],
+        [
+          2361,
+          665
+        ],
+        [
+          221,
+          665
+        ]
+      ],
+      "score": 0.967351496219635,
+      "y_pos": 538,
+      "text": "Hoàng đản do tắc mật: Nước tiểu chứa nhiều sắc tố mật và muối mật, xét nghiệm bóng bọt\nmàu vàng. Trong phân sắc tố mật, muối mật đều giảm hoặc không thấy, phân bạc màu.",
+      "confidence": 0.9994011196712805
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0392_013_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          702
+        ],
+        [
+          560,
+          702
+        ],
+        [
+          560,
+          749
+        ],
+        [
+          226,
+          749
+        ]
+      ],
+      "score": 0.8746755123138428,
+      "y_pos": 702,
+      "text": "C. Cách chữa",
+      "confidence": 0.8892775007656643
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0392_016_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          793
+        ],
+        [
+          670,
+          793
+        ],
+        [
+          670,
+          843
+        ],
+        [
+          227,
+          843
+        ]
+      ],
+      "score": 0.8110215663909912,
+      "y_pos": 793,
+      "text": "1. Bằng châm cứu",
+      "confidence": 0.8684357206026713
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0392_021_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          886
+        ],
+        [
+          533,
+          886
+        ],
+        [
+          533,
+          933
+        ],
+        [
+          227,
+          933
+        ]
+      ],
+      "score": 0.7032158970832825,
+      "y_pos": 886,
+      "text": "Thê châm",
+      "confidence": 0.9968823552131653
+    },
+    {
+      "type": "text",
+      "img_path": "p0392_003_text.png",
+      "bbox": [
+        [
+          224,
+          975
+        ],
+        [
+          2356,
+          975
+        ],
+        [
+          2356,
+          1100
+        ],
+        [
+          224,
+          1100
+        ]
+      ],
+      "score": 0.9701551795005798,
+      "y_pos": 975,
+      "text": "- Dương hoàng: <i>Trung quản, Hợp cốc, Đảm nang</i> huyệt (dưới <i>Dương lăng tuyền</i> 1 thốn),\nDương cương.",
+      "confidence": 0.962747717445547
+    },
+    {
+      "type": "text",
+      "img_path": "p0392_007_text.png",
+      "bbox": [
+        [
+          224,
+          1139
+        ],
+        [
+          1677,
+          1139
+        ],
+        [
+          1677,
+          1192
+        ],
+        [
+          224,
+          1192
+        ]
+      ],
+      "score": 0.9311869740486145,
+      "y_pos": 1139,
+      "text": "- Âm hoàng: Chí dương (cứu), Trung quản, Nội quan, Túc tam lý.",
+      "confidence": 0.9870821041986346
+    },
+    {
+      "type": "text",
+      "img_path": "p0392_015_text.png",
+      "bbox": [
+        [
+          226,
+          1233
+        ],
+        [
+          875,
+          1233
+        ],
+        [
+          875,
+          1283
+        ],
+        [
+          226,
+          1283
+        ]
+      ],
+      "score": 0.814276397228241,
+      "y_pos": 1233,
+      "text": "b. Nhĩ châm: Đảm, Can, Tỳ.",
+      "confidence": 0.9815096408128738
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0392_017_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1323
+        ],
+        [
+          710,
+          1323
+        ],
+        [
+          710,
+          1374
+        ],
+        [
+          225,
+          1374
+        ]
+      ],
+      "score": 0.7961615920066833,
+      "y_pos": 1323,
+      "text": "2. Biện chứng thí trị",
+      "confidence": 0.9625569737475851
+    },
+    {
+      "type": "text",
+      "img_path": "p0392_000_text.png",
+      "bbox": [
+        [
+          220,
+          1413
+        ],
+        [
+          2360,
+          1413
+        ],
+        [
+          2360,
+          1674
+        ],
+        [
+          220,
+          1674
+        ]
+      ],
+      "score": 0.9832705855369568,
+      "y_pos": 1413,
+      "text": "Biện chứng chủ yếu phân ra dương hoàng và âm hoàng, phân biệt thấp nhiệt và hàn thấp khác\nnhau. Nguyên tắc chữa đối với dương hoàng là lấy thanh nhiệt lợi thấp làm chủ và căn cứ vào\nthấp với nhiệt xem bệnh nặng về bên nào để phân biệt xử lý, âm hoàng lấy ôn tỳ hoá thấp làm\nchủ.",
+      "confidence": 0.9957620247654441
+    },
+    {
+      "type": "text",
+      "img_path": "p0392_002_text.png",
+      "bbox": [
+        [
+          222,
+          1719
+        ],
+        [
+          2358,
+          1719
+        ],
+        [
+          2358,
+          1984
+        ],
+        [
+          222,
+          1984
+        ]
+      ],
+      "score": 0.9747142195701599,
+      "y_pos": 1719,
+      "text": "a. Dương hoàng: Mắt vàng, da vàng, nước đái vàng, sườn phải trướng đau, ngực buồn bằn,\nbụng trên có hòn cục, quặn bụng buồn nôn, bụng trướng tức hoặc la táo, thượng vị ấn không\nmềm, sợ mỡ, miệng khô đắng hoặc dẻo, lúc đầu có nóng hoặc rét, rêu lưỡi vàng nhẫy, mạch\nsác hoặc huyền sác (nhanh, căng mà nhanh).",
+      "confidence": 0.9968884616640417
+    },
+    {
+      "type": "text",
+      "img_path": "p0392_014_text.png",
+      "bbox": [
+        [
+          225,
+          2023
+        ],
+        [
+          989,
+          2023
+        ],
+        [
+          989,
+          2073
+        ],
+        [
+          225,
+          2073
+        ]
+      ],
+      "score": 0.8316135406494141,
+      "y_pos": 2023,
+      "text": "Cách chữa: Thanh nhiệt lợi thấp.",
+      "confidence": 0.5273146226125605
+    },
+    {
+      "type": "text",
+      "img_path": "p0392_022_text.png",
+      "bbox": [
+        [
+          224,
+          2114
+        ],
+        [
+          1221,
+          2114
+        ],
+        [
+          1221,
+          2165
+        ],
+        [
+          224,
+          2165
+        ]
+      ],
+      "score": 0.6811386346817017,
+      "y_pos": 2114,
+      "text": "Bài thuốc: Nhân trần tứ linh thang gia giảm.",
+      "confidence": 0.8790417041467584
+    },
+    {
+      "type": "text",
+      "img_path": "p0392_024_text.png",
+      "bbox": [
+        [
+          227,
+          2205
+        ],
+        [
+          1700,
+          2205
+        ],
+        [
+          1700,
+          2262
+        ],
+        [
+          227,
+          2262
+        ]
+      ],
+      "score": 0.609584629535675,
+      "y_pos": 2205,
+      "text": "Nhân trần    1 lạng,    Xích linh    4 đồng cân,",
+      "confidence": 0.9465608388972819
+    },
+    {
+      "type": "text",
+      "img_path": "p0392_023_text.png",
+      "bbox": [
+        [
+          231,
+          2298
+        ],
+        [
+          1700,
+          2298
+        ],
+        [
+          1700,
+          2353
+        ],
+        [
+          231,
+          2353
+        ]
+      ],
+      "score": 0.6652265787124634,
+      "y_pos": 2298,
+      "text": "Trư linh    4 đông cân,    Trach tả    3 đồng cân,",
+      "confidence": 0.9626028166367457
+    },
+    {
+      "type": "text",
+      "img_path": "p0392_020_text.png",
+      "bbox": [
+        [
+          226,
+          2390
+        ],
+        [
+          1713,
+          2390
+        ],
+        [
+          1713,
+          2445
+        ],
+        [
+          226,
+          2445
+        ]
+      ],
+      "score": 0.7126771807670593,
+      "y_pos": 2390,
+      "text": "Xa tiền thảo    4 đông cân,    Hoàng bá    3 đồng cân,",
+      "confidence": 0.9618294476480275
+    },
+    {
+      "type": "text",
+      "img_path": "p0392_019_text.png",
+      "bbox": [
+        [
+          227,
+          2480
+        ],
+        [
+          1844,
+          2480
+        ],
+        [
+          1844,
+          2538
+        ],
+        [
+          227,
+          2538
+        ]
+      ],
+      "score": 0.7132245302200317,
+      "y_pos": 2480,
+      "text": "Bồ công anh    4 đồng cân,    Quảng uất kim    3 đồng cân.",
+      "confidence": 0.9456075994632183
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0392_018_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2573
+        ],
+        [
+          467,
+          2573
+        ],
+        [
+          467,
+          2624
+        ],
+        [
+          226,
+          2624
+        ]
+      ],
+      "score": 0.7687178254127502,
+      "y_pos": 2573,
+      "text": "Gia giảm:",
+      "confidence": 0.8454868251627142
+    },
+    {
+      "type": "text",
+      "img_path": "p0392_006_text.png",
+      "bbox": [
+        [
+          221,
+          2664
+        ],
+        [
+          2360,
+          2664
+        ],
+        [
+          2360,
+          2790
+        ],
+        [
+          221,
+          2790
+        ]
+      ],
+      "score": 0.9669355750083923,
+      "y_pos": 2664,
+      "text": "- Miệng khô tâm phiền, bụng trướng đầy, đại tiện táo, nước tiểu vàng, ít, là nhiệt nặng hơn, có\nthể gia <i>Sơn chi</i> 3 đồng cân, <i>Đại hoàng</i> 3 đồng cân, <i>Kim tiền thảo</i> 1 lạng.",
+      "confidence": 0.9987185337043192
+    },
+    {
+      "type": "text",
+      "img_path": "p0392_005_text.png",
+      "bbox": [
+        [
+          224,
+          2825
+        ],
+        [
+          2357,
+          2825
+        ],
+        [
+          2357,
+          2950
+        ],
+        [
+          224,
+          2950
+        ]
+      ],
+      "score": 0.9671284556388855,
+      "y_pos": 2825,
+      "text": "- Bụng trướng, phân nát, rêu lưỡi trắng nhẫy là thấp tà nặng hơn, gia <i>Thương truật</i> 3 đồng cân,\nXuyên phác 1,5 đồng cân, <i>Trần bì</i> 2 đồng cân.",
+      "confidence": 0.9409544118078185
+    },
+    {
+      "type": "text",
+      "img_path": "p0392_009_text.png",
+      "bbox": [
+        [
+          225,
+          2989
+        ],
+        [
+          2333,
+          2989
+        ],
+        [
+          2333,
+          3043
+        ],
+        [
+          225,
+          3043
+        ]
+      ],
+      "score": 0.9282574653625488,
+      "y_pos": 2989,
+      "text": "- Sườn phải đau hoặc kéo dần lên vai và lưng trên rất dữ, có thể gia <i>Diên hồ sách</i> 3 đồng cân,",
+      "confidence": 0.9976149428751051
+    },
+    {
+      "type": "number",
+      "img_path": "p0392_012_number.png",
+      "bbox": [
+        [
+          2306,
+          3334
+        ],
+        [
+          2357,
+          3334
+        ],
+        [
+          2357,
+          3371
+        ],
+        [
+          2306,
+          3371
+        ]
+      ],
+      "score": 0.8771061301231384,
+      "y_pos": 3334,
+      "text": "    \n    \n            \n    \n    \n\n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0392_011_footer.png",
+      "bbox": [
+        [
+          228,
+          3336
+        ],
+        [
+          1343,
+          3336
+        ],
+        [
+          1343,
+          3383
+        ],
+        [
+          228,
+          3383
+        ]
+      ],
+      "score": 0.9104489684104919,
+      "y_pos": 3336,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9415562085385593
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0392.png"
+}

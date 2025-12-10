@@ -1,0 +1,292 @@
+{
+  "page_num": 536,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0536_000_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9129912257194519,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0536_001_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1470,
+          152
+        ],
+        [
+          1470,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9119703769683838,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9978306674957276
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0536_007_reference_content.png",
+      "bbox": [
+        [
+          228,
+          306
+        ],
+        [
+          1407,
+          306
+        ],
+        [
+          1407,
+          367
+        ],
+        [
+          228,
+          367
+        ]
+      ],
+      "score": 0.6906419396400452,
+      "y_pos": 306,
+      "text": "511. Đau khớp hông: Thừa phù, Dương lăng tuyển.",
+      "confidence": 0.999195393250913
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0536_004_reference_content.png",
+      "bbox": [
+        [
+          231,
+          399
+        ],
+        [
+          2359,
+          399
+        ],
+        [
+          2359,
+          529
+        ],
+        [
+          231,
+          529
+        ]
+      ],
+      "score": 0.7938887476921082,
+      "y_pos": 399,
+      "text": "512. Bong gân cấp tính vùng lưng: Hậu khê, Ân môn, Điểm ấn đau và Hiệp tích huyệt tương\nứng.",
+      "confidence": 0.9862046577175905
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0536_006_reference_content.png",
+      "bbox": [
+        [
+          232,
+          558
+        ],
+        [
+          2337,
+          558
+        ],
+        [
+          2337,
+          623
+        ],
+        [
+          232,
+          623
+        ]
+      ],
+      "score": 0.7046748995780945,
+      "y_pos": 558,
+      "text": "513. Bỏng ở lưng trên lưng dưới: Hậu khê, Nhân trung, Đại chùy, Điều khẩu thấu Thừa sơn.",
+      "confidence": 0.9004863878091176
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0536_008_reference_content.png",
+      "bbox": [
+        [
+          231,
+          652
+        ],
+        [
+          2112,
+          652
+        ],
+        [
+          2112,
+          715
+        ],
+        [
+          231,
+          715
+        ]
+      ],
+      "score": 0.6842604279518127,
+      "y_pos": 652,
+      "text": "514. Viêm xoang chậu mạn tính: Bạch hoàn du, Tử cung, Huyết hải, Tam âm giao.",
+      "confidence": 0.9963044101678873
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0536_009_reference_content.png",
+      "bbox": [
+        [
+          231,
+          743
+        ],
+        [
+          2128,
+          743
+        ],
+        [
+          2128,
+          806
+        ],
+        [
+          231,
+          806
+        ]
+      ],
+      "score": 0.6593495607376099,
+      "y_pos": 743,
+      "text": "515. Viêm xoang chậu mạn tính: Tử cung, Quan nguyên, Huyết hải, Âm lăng tuyền.",
+      "confidence": 0.9976483531296253
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0536_010_reference_content.png",
+      "bbox": [
+        [
+          231,
+          834
+        ],
+        [
+          1440,
+          834
+        ],
+        [
+          1440,
+          898
+        ],
+        [
+          231,
+          898
+        ]
+      ],
+      "score": 0.6582014560699463,
+      "y_pos": 834,
+      "text": "516. Viêm khớp hông: Bễ quan, Ủy trung, Thừa phù.",
+      "confidence": 0.9782975316047668
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0536_005_reference_content.png",
+      "bbox": [
+        [
+          230,
+          926
+        ],
+        [
+          2361,
+          926
+        ],
+        [
+          2361,
+          1124
+        ],
+        [
+          230,
+          1124
+        ]
+      ],
+      "score": 0.7893909811973572,
+      "y_pos": 926,
+      "text": "517. Dinh dưỡng của cơ không tốt do khả năng chuyển hóa hấp thụ kém: Đại trường du,\nBạch hoàn du, Điều khẩu thấu Thừa sơn, Mệnh môn, Dương lăng tuyền thấu Âm lăng\ntuyên.",
+      "confidence": 0.9928235598054588
+    },
+    {
+      "type": "number",
+      "img_path": "p0536_003_number.png",
+      "bbox": [
+        [
+          2316,
+          3338
+        ],
+        [
+          2366,
+          3338
+        ],
+        [
+          2366,
+          3374
+        ],
+        [
+          2316,
+          3374
+        ]
+      ],
+      "score": 0.8526634573936462,
+      "y_pos": 3338,
+      "text": "\n    \n\n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0536_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1325,
+          3341
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9016895294189453,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987242975324955
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0536.png"
+}

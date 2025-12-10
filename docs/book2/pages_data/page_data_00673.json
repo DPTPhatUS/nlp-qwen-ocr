@@ -1,0 +1,370 @@
+{
+  "page_num": 673,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0673_009_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9139764308929443,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0673_010_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9088902473449707,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "text",
+      "img_path": "p0673_005_text.png",
+      "bbox": [
+        [
+          298,
+          307
+        ],
+        [
+          2359,
+          307
+        ],
+        [
+          2359,
+          427
+        ],
+        [
+          298,
+          427
+        ]
+      ],
+      "score": 0.9601998925209045,
+      "y_pos": 307,
+      "text": "\n    Khi nhiệt độ môi trường từ 18 đến 24<sup>0</sup>C, nhiệt độ trung bình của chi trên và chi dưới\n\nchênh lệch từ 2 đến 4<sup>0</sup>C.",
+      "confidence": 0.9686282516590187
+    },
+    {
+      "type": "text",
+      "img_path": "p0673_004_text.png",
+      "bbox": [
+        [
+          298,
+          470
+        ],
+        [
+          2361,
+          470
+        ],
+        [
+          2361,
+          665
+        ],
+        [
+          298,
+          665
+        ]
+      ],
+      "score": 0.9730409979820251,
+      "y_pos": 470,
+      "text": "\n    Khi nhiêt đô môi trường từ 24<sup>0</sup>C trở lên, nhiệt độ môi trường càng cao, chênh lệch giữa\n\nnhiệt độ trung bình của chi trên và chi dưới (Ô 13 của bảng chỉ số nhiệt kinh lạc) càng ít\nđi, khi nhiệt độ môi trường đạt 37<sup>0</sup>C thì chênh lệch này xấp xỉ bằng 0.",
+      "confidence": 0.9663234874262585
+    },
+    {
+      "type": "text",
+      "img_path": "p0673_007_text.png",
+      "bbox": [
+        [
+          299,
+          702
+        ],
+        [
+          2358,
+          702
+        ],
+        [
+          2358,
+          827
+        ],
+        [
+          299,
+          827
+        ]
+      ],
+      "score": 0.9553770422935486,
+      "y_pos": 702,
+      "text": "\n    Khi nhiệt độ môi trường từ 18<sup>0</sup>C trở xuống, nhiệt độ môi trường càng thấp, chênh lệch\n\ngiữa nhiệt độ trung bình của chi trên và chi dưới càng nhiều lên, có khi tới 10<sup>0</sup>C.",
+      "confidence": 0.9867165640640101
+    },
+    {
+      "type": "text",
+      "img_path": "p0673_003_text.png",
+      "bbox": [
+        [
+          221,
+          865
+        ],
+        [
+          2359,
+          865
+        ],
+        [
+          2359,
+          1128
+        ],
+        [
+          221,
+          1128
+        ]
+      ],
+      "score": 0.9801982045173645,
+      "y_pos": 865,
+      "text": "Căn cứ vào tình trạng sinh lý của người bình thường biến đổi theo nhiệt độ môi trường làm\nchuẩn, ta nhìn vào bảng chỉ số nhiệt kinh lạc, so sánh nhiệt độ môi trường và nhiệt độ trung\nbình của chi trên và chi dưới của người bệnh với chênh lệch nhiều ít khác nhau mà nhân định\nnhư sau.",
+      "confidence": 0.9974723763793706
+    },
+    {
+      "type": "text",
+      "img_path": "p0673_000_text.png",
+      "bbox": [
+        [
+          220,
+          1167
+        ],
+        [
+          2359,
+          1167
+        ],
+        [
+          2359,
+          1861
+        ],
+        [
+          220,
+          1861
+        ]
+      ],
+      "score": 0.987403154373169,
+      "y_pos": 1167,
+      "text": "Lấy nhiệt độ môi trường trung bình (từ 18 đến 240C) làm chuẩn thì chênh lệch nhiệt độ trung\nbình giữa hai chi của người bệnh từ 2 đến 40C là mức độ tiêu hao vật chất của cơ thể vừa\nphải, khả năng chống đỡ của cơ thể với bệnh tà còn khoẻ. Nếu ở nhiệt độ môi trường này mà\nchênh lệch nhiệt độ môi trường này mà chênh lệch nhiệt độ trung bình giữa hai chi chỉ từ 00C\nđến 20C là mức độ tiêu hao vật chất của cơ thể quá lớn, khả năng chống đỡ của cơ thể với\nbệnh tà kém, bệnh tình có thể chuyển từ dạng này sang dạng khác nhanh chóng, mạnh mẽ,\ncần chú ý theo dõi. Nhưng khi ở nhiệt độ môi trường này mà chênh lệch nhiệt độ trung bình\ngiữa hai chi lại từ 40C trở lên là mức độ chuyển biến chậm, trì trệ, sức chống đỡ của cơ thể với\nbệnh tà cũng trì trệ, cần nâng đỡ khả năng tự thân của các tạng phủ trong cơ thể, để được linh\nhoạt mạnh mẽ hơn.",
+      "confidence": 0.9967526089813653
+    },
+    {
+      "type": "text",
+      "img_path": "p0673_012_text.png",
+      "bbox": [
+        [
+          223,
+          1900
+        ],
+        [
+          2087,
+          1900
+        ],
+        [
+          2087,
+          1952
+        ],
+        [
+          223,
+          1952
+        ]
+      ],
+      "score": 0.8639705777168274,
+      "y_pos": 1900,
+      "text": "Ở các mức độ nóng, hoặc lạnh của nhiệt độ môi trường khác, ta theo đó mà suy ra.",
+      "confidence": 0.7601831737087994
+    },
+    {
+      "type": "text",
+      "img_path": "p0673_008_text.png",
+      "bbox": [
+        [
+          223,
+          1989
+        ],
+        [
+          2359,
+          1989
+        ],
+        [
+          2359,
+          2114
+        ],
+        [
+          223,
+          2114
+        ]
+      ],
+      "score": 0.9526035785675049,
+      "y_pos": 1989,
+      "text": "Trong khi tổng kết nhiều bảng chỉ số nhiệt kinh lạc tôi nhận thấy giữa nhiệt độ trung bình của\nchi trên và chi dưới phụ thuộc vào chỉ số nhiệt của kinh tâm theo một quy luật như sau:",
+      "confidence": 0.9998099404606926
+    },
+    {
+      "type": "text",
+      "img_path": "p0673_002_text.png",
+      "bbox": [
+        [
+          297,
+          2151
+        ],
+        [
+          2359,
+          2151
+        ],
+        [
+          2359,
+          2489
+        ],
+        [
+          297,
+          2489
+        ]
+      ],
+      "score": 0.9813501834869385,
+      "y_pos": 2151,
+      "text": "\n    Số tương quan của kinh Tâm có giá trị tuyệt đối càng lớn và mang dấu + thì chênh lệch\n\ngiữa nhiệt độ trung bình của chi trên và chi dưới càng nhỏ. Số tương quan của kinh Tâm\ncó giá tri tuyệt đối càng lớn và mang dấu - thì chênh lệch giữa nhiệt độ trung bình của chi\ntrên và chi dưới càng lớn, đó là tình trạng công năng thần kinh cảm giác bình\nthường.",
+      "confidence": 0.9960025151269385
+    },
+    {
+      "type": "text",
+      "img_path": "p0673_001_text.png",
+      "bbox": [
+        [
+          299,
+          2525
+        ],
+        [
+          2359,
+          2525
+        ],
+        [
+          2359,
+          2866
+        ],
+        [
+          299,
+          2866
+        ]
+      ],
+      "score": 0.9816664457321167,
+      "y_pos": 2525,
+      "text": "\n    Nếu thấy số tương quan của kinh Tâm có giá trị tuyệt đối càng lớn và mang dấu + mà\n\nchênh lệch giữa nhiệt độ trung bình của chi trên và chi dưới cũng càng lớn, hoặc như\nthấy số lượng tương quan của kinh Tâm có giá trị tuyệt đối càng lớn và mang dấu - mà\nchênh lệch giữa nhiệt độ trung bình của chi trên và chi dưới lại càng nhỏ, là tình trạng\ncông năng thần kinh cảm giác không bình thường.",
+      "confidence": 0.9945897715604394
+    },
+    {
+      "type": "text",
+      "img_path": "p0673_006_text.png",
+      "bbox": [
+        [
+          221,
+          2904
+        ],
+        [
+          2358,
+          2904
+        ],
+        [
+          2358,
+          3028
+        ],
+        [
+          221,
+          3028
+        ]
+      ],
+      "score": 0.9575921893119812,
+      "y_pos": 2904,
+      "text": "Mối quan hệ giữa nhiệt độ môi trường với mức độ chênh lệch nhiệt độ trung bình của chi trên\nvà chi dưới rất có ý nghĩa để đánh giá tình trạng sinh học ở con người cụ thể.",
+      "confidence": 0.9997076864845009
+    },
+    {
+      "type": "number",
+      "img_path": "p0673_013_number.png",
+      "bbox": [
+        [
+          2305,
+          3337
+        ],
+        [
+          2354,
+          3337
+        ],
+        [
+          2354,
+          3374
+        ],
+        [
+          2305,
+          3374
+        ]
+      ],
+      "score": 0.8410165905952454,
+      "y_pos": 3337,
+      "text": "    \n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0673_011_footer.png",
+      "bbox": [
+        [
+          228,
+          3339
+        ],
+        [
+          1323,
+          3339
+        ],
+        [
+          1323,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.8940344452857971,
+      "y_pos": 3339,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987586095647992
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0673.png"
+}

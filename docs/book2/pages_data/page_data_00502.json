@@ -1,0 +1,318 @@
+{
+  "page_num": 502,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0502_001_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2368,
+          143
+        ],
+        [
+          2368,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9254960417747498,
+      "y_pos": 143,
+      "text": "^7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6913668758102826
+    },
+    {
+      "type": "header",
+      "img_path": "p0502_006_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9181818962097168,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0502_007_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          330
+        ],
+        [
+          876,
+          330
+        ],
+        [
+          876,
+          379
+        ],
+        [
+          227,
+          379
+        ]
+      ],
+      "score": 0.9138081669807434,
+      "y_pos": 330,
+      "text": "71. Di chứng bai liệt trẻ em",
+      "confidence": 0.9402716914812724
+    },
+    {
+      "type": "text",
+      "img_path": "p0502_000_text.png",
+      "bbox": [
+        [
+          222,
+          418
+        ],
+        [
+          2356,
+          418
+        ],
+        [
+          2356,
+          613
+        ],
+        [
+          222,
+          613
+        ]
+      ],
+      "score": 0.9765145778656006,
+      "y_pos": 418,
+      "text": "Chứng trạng bại liệt ở trẻ em là chi trên hoặc chi dưới mềm nhẽo, không thể vận động. Nếu lâu\nngày không khỏi, bắp thịt ngày càng gày đi. Bệnh thường do kinh phong<sup>(*)</sup>, hoặc sốt cao để lại\ndi chứng.",
+      "confidence": 0.9976125469761522
+    },
+    {
+      "type": "text",
+      "img_path": "p0502_009_text.png",
+      "bbox": [
+        [
+          284,
+          653
+        ],
+        [
+          816,
+          653
+        ],
+        [
+          816,
+          704
+        ],
+        [
+          284,
+          704
+        ]
+      ],
+      "score": 0.8793737888336182,
+      "y_pos": 653,
+      "text": "Cách chữa: Lây huyết:",
+      "confidence": 0.5894398767015209
+    },
+    {
+      "type": "text",
+      "img_path": "p0502_004_text.png",
+      "bbox": [
+        [
+          285,
+          745
+        ],
+        [
+          1239,
+          745
+        ],
+        [
+          1239,
+          797
+        ],
+        [
+          285,
+          797
+        ]
+      ],
+      "score": 0.9217627644538879,
+      "y_pos": 745,
+      "text": "\n    Chi trên: Hợp côc, Khúc trì, Kiên ngung.\n",
+      "confidence": 0.976550837357839
+    },
+    {
+      "type": "text",
+      "img_path": "p0502_003_text.png",
+      "bbox": [
+        [
+          284,
+          834
+        ],
+        [
+          1840,
+          834
+        ],
+        [
+          1840,
+          891
+        ],
+        [
+          284,
+          891
+        ]
+      ],
+      "score": 0.9220345616340637,
+      "y_pos": 834,
+      "text": "• Chi dưới: Dương lăng tuyền, Hoàn khiêu, Huyền chung (Tuyệt cốt).",
+      "confidence": 0.9912659140194163
+    },
+    {
+      "type": "text",
+      "img_path": "p0502_002_text.png",
+      "bbox": [
+        [
+          284,
+          928
+        ],
+        [
+          971,
+          928
+        ],
+        [
+          971,
+          977
+        ],
+        [
+          284,
+          977
+        ]
+      ],
+      "score": 0.9244220852851868,
+      "y_pos": 928,
+      "text": "Co rúm thì châm nhiêu, cứu ít.",
+      "confidence": 0.9917307235300541
+    },
+    {
+      "type": "text",
+      "img_path": "p0502_005_text.png",
+      "bbox": [
+        [
+          283,
+          1018
+        ],
+        [
+          1040,
+          1018
+        ],
+        [
+          1040,
+          1067
+        ],
+        [
+          283,
+          1067
+        ]
+      ],
+      "score": 0.9196797013282776,
+      "y_pos": 1018,
+      "text": "Mêm nhẽo thì cứu nhiều, châm ít.",
+      "confidence": 0.983298015945098
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0502_010_footnote.png",
+      "bbox": [
+        [
+          228,
+          3166
+        ],
+        [
+          671,
+          3166
+        ],
+        [
+          671,
+          3211
+        ],
+        [
+          228,
+          3211
+        ]
+      ],
+      "score": 0.8720411062240601,
+      "y_pos": 3166,
+      "text": "(*) Kinh phong: Chứng co giật.",
+      "confidence": 0.8389474991708994
+    },
+    {
+      "type": "number",
+      "img_path": "p0502_011_number.png",
+      "bbox": [
+        [
+          2303,
+          3299
+        ],
+        [
+          2351,
+          3299
+        ],
+        [
+          2351,
+          3334
+        ],
+        [
+          2303,
+          3334
+        ]
+      ],
+      "score": 0.860459566116333,
+      "y_pos": 3299,
+      "text": "\n    ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0502_008_footer.png",
+      "bbox": [
+        [
+          228,
+          3310
+        ],
+        [
+          1323,
+          3310
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          228,
+          3355
+        ]
+      ],
+      "score": 0.9109810590744019,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9293094086197188
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0502.png"
+}

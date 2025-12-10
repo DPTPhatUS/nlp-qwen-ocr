@@ -1,0 +1,136 @@
+{
+  "page_num": 292,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0292_003_header.png",
+      "bbox": [
+        [
+          1610,
+          143
+        ],
+        [
+          2372,
+          143
+        ],
+        [
+          2372,
+          204
+        ],
+        [
+          1610,
+          204
+        ]
+      ],
+      "score": 0.8720359206199646,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.8136087897278014
+    },
+    {
+      "type": "header",
+      "img_path": "p0292_002_header.png",
+      "bbox": [
+        [
+          231,
+          161
+        ],
+        [
+          1347,
+          161
+        ],
+        [
+          1347,
+          202
+        ],
+        [
+          231,
+          202
+        ]
+      ],
+      "score": 0.8845360279083252,
+      "y_pos": 161,
+      "text": "CÁC BẢNG TRA CỦU HUYỆT LIÊN QUAN TRONG CHÂM CỦU",
+      "confidence": 0.6385211421518909
+    },
+    {
+      "type": "table",
+      "img_path": "p0292_000_table.png",
+      "bbox": [
+        [
+          248,
+          296
+        ],
+        [
+          2347,
+          296
+        ],
+        [
+          2347,
+          2839
+        ],
+        [
+          248,
+          2839
+        ]
+      ],
+      "score": 0.9919788837432861,
+      "y_pos": 296,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0292_001_footer.png",
+      "bbox": [
+        [
+          230,
+          3335
+        ],
+        [
+          1434,
+          3335
+        ],
+        [
+          1434,
+          3388
+        ],
+        [
+          230,
+          3388
+        ]
+      ],
+      "score": 0.9105197191238403,
+      "y_pos": 3335,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985975285746017
+    },
+    {
+      "type": "number",
+      "img_path": "p0292_004_number.png",
+      "bbox": [
+        [
+          2330,
+          3340
+        ],
+        [
+          2356,
+          3340
+        ],
+        [
+          2356,
+          3374
+        ],
+        [
+          2330,
+          3374
+        ]
+      ],
+      "score": 0.8175452947616577,
+      "y_pos": 3340,
+      "text": "    \n    \n    \n\n\n\n\n    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0292.png"
+}

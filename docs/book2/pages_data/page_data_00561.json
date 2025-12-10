@@ -1,0 +1,734 @@
+{
+  "page_num": 561,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0561_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9242811799049377,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0561_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1467,
+          152
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.926383376121521,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TẬN, KỲ HUYỆT",
+      "confidence": 0.9979400253295898
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0561_004_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          327
+        ],
+        [
+          732,
+          327
+        ],
+        [
+          732,
+          381
+        ],
+        [
+          226,
+          381
+        ]
+      ],
+      "score": 0.8175519704818726,
+      "y_pos": 327,
+      "text": "Phần 9. BÊNH LƯNG",
+      "confidence": 0.8357842470470228
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_007_text.png",
+      "bbox": [
+        [
+          231,
+          420
+        ],
+        [
+          2362,
+          420
+        ],
+        [
+          2362,
+          544
+        ],
+        [
+          231,
+          544
+        ]
+      ],
+      "score": 0.6309242248535156,
+      "y_pos": 420,
+      "text": "136. Đau lưng: Thành cốt, Hạ Côn luân, Trị chuyển cân, Tuyền sinh túc, Hoàng trung, Hạ cực\ndu.",
+      "confidence": 0.9542110607028007
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_010_text.png",
+      "bbox": [
+        [
+          234,
+          581
+        ],
+        [
+          1075,
+          581
+        ],
+        [
+          1075,
+          638
+        ],
+        [
+          234,
+          638
+        ]
+      ],
+      "score": 0.611580491065979,
+      "y_pos": 581,
+      "text": "137. Đau lưng trên: Phế nhiệt huyệt.",
+      "confidence": 0.9734828268226824
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_012_text.png",
+      "bbox": [
+        [
+          234,
+          672
+        ],
+        [
+          1608,
+          672
+        ],
+        [
+          1608,
+          731
+        ],
+        [
+          234,
+          731
+        ]
+      ],
+      "score": 0.6077417135238647,
+      "y_pos": 672,
+      "text": "138. Đau buốt lưng trên, lưng dưới: Tích tam huyệt, Ấn hạ.",
+      "confidence": 0.999586609005928
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_013_text.png",
+      "bbox": [
+        [
+          236,
+          767
+        ],
+        [
+          1330,
+          767
+        ],
+        [
+          1330,
+          823
+        ],
+        [
+          236,
+          823
+        ]
+      ],
+      "score": 0.5927781462669373,
+      "y_pos": 767,
+      "text": "139. Đau lưng mạn tính: Đĩnh yêu, Khê thượng.",
+      "confidence": 0.999175969590532
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_014_text.png",
+      "bbox": [
+        [
+          236,
+          855
+        ],
+        [
+          1279,
+          855
+        ],
+        [
+          1279,
+          913
+        ],
+        [
+          236,
+          913
+        ]
+      ],
+      "score": 0.5901492834091187,
+      "y_pos": 855,
+      "text": "140. Đau thắt lưng: Phế nhiệt huyệt, Tiếp cốt.",
+      "confidence": 0.999573465436697
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_019_text.png",
+      "bbox": [
+        [
+          236,
+          947
+        ],
+        [
+          1630,
+          947
+        ],
+        [
+          1630,
+          1009
+        ],
+        [
+          236,
+          1009
+        ]
+      ],
+      "score": 0.5605668425559998,
+      "y_pos": 947,
+      "text": "141. Tổn thương phần mềm ở lưng: Yêu nghi, Trung không.",
+      "confidence": 0.9983266989390055
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_023_text.png",
+      "bbox": [
+        [
+          236,
+          1039
+        ],
+        [
+          1446,
+          1039
+        ],
+        [
+          1446,
+          1097
+        ],
+        [
+          236,
+          1097
+        ]
+      ],
+      "score": 0.5590688586235046,
+      "y_pos": 1039,
+      "text": "142. Tổn thương phần mềm ở thắt lưng: Yêu nhỡn.",
+      "confidence": 0.9986608223039277
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_018_text.png",
+      "bbox": [
+        [
+          236,
+          1133
+        ],
+        [
+          1786,
+          1133
+        ],
+        [
+          1786,
+          1190
+        ],
+        [
+          236,
+          1190
+        ]
+      ],
+      "score": 0.5706840753555298,
+      "y_pos": 1133,
+      "text": "143. Bong gân cấp tính thắt lưng: Nữu thương (huyệt Nữu thương).",
+      "confidence": 0.9935290298678658
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_027_text.png",
+      "bbox": [
+        [
+          234,
+          1224
+        ],
+        [
+          1722,
+          1224
+        ],
+        [
+          1722,
+          1280
+        ],
+        [
+          234,
+          1280
+        ]
+      ],
+      "score": 0.528639554977417,
+      "y_pos": 1224,
+      "text": "144. Bệnh tật vùng thắt lưng và xương sống: Giáp tích D11-S2.",
+      "confidence": 0.9987053417024159
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_025_text.png",
+      "bbox": [
+        [
+          234,
+          1317
+        ],
+        [
+          1500,
+          1317
+        ],
+        [
+          1500,
+          1373
+        ],
+        [
+          234,
+          1373
+        ]
+      ],
+      "score": 0.5488672256469727,
+      "y_pos": 1317,
+      "text": "145. Đau thắt lưng và xương cùng: Thập thất chùy hạ.",
+      "confidence": 0.9989352811265875
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_024_text.png",
+      "bbox": [
+        [
+          235,
+          1408
+        ],
+        [
+          1326,
+          1408
+        ],
+        [
+          1326,
+          1465
+        ],
+        [
+          235,
+          1465
+        ]
+      ],
+      "score": 0.5491341948509216,
+      "y_pos": 1408,
+      "text": "146. Đau lưng đùi: Khánh tân trung, Ấn thượng.",
+      "confidence": 0.9731244556605816
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_026_text.png",
+      "bbox": [
+        [
+          235,
+          1499
+        ],
+        [
+          1209,
+          1499
+        ],
+        [
+          1209,
+          1556
+        ],
+        [
+          235,
+          1556
+        ]
+      ],
+      "score": 0.5478931069374084,
+      "y_pos": 1499,
+      "text": "147. Thắt lưng và đùi đau: Ngoại âm liêm.",
+      "confidence": 0.9925684942755588
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_021_text.png",
+      "bbox": [
+        [
+          236,
+          1591
+        ],
+        [
+          1350,
+          1591
+        ],
+        [
+          1350,
+          1649
+        ],
+        [
+          236,
+          1649
+        ]
+      ],
+      "score": 0.5597659945487976,
+      "y_pos": 1591,
+      "text": "148. Viêm cột sống: Tích tam huyệt, Tích phùng.",
+      "confidence": 0.9896884670062941
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_017_text.png",
+      "bbox": [
+        [
+          236,
+          1681
+        ],
+        [
+          953,
+          1681
+        ],
+        [
+          953,
+          1737
+        ],
+        [
+          236,
+          1737
+        ]
+      ],
+      "score": 0.5753151774406433,
+      "y_pos": 1681,
+      "text": "149. Viêm đốt sống: Thận tích.",
+      "confidence": 0.9881207812577486
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_022_text.png",
+      "bbox": [
+        [
+          236,
+          1772
+        ],
+        [
+          1213,
+          1772
+        ],
+        [
+          1213,
+          1830
+        ],
+        [
+          236,
+          1830
+        ]
+      ],
+      "score": 0.5590994954109192,
+      "y_pos": 1772,
+      "text": "150. Viêm dây chẳng đốt sống: Thận tích.",
+      "confidence": 0.9898421764373779
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_020_text.png",
+      "bbox": [
+        [
+          236,
+          1865
+        ],
+        [
+          1538,
+          1865
+        ],
+        [
+          1538,
+          1923
+        ],
+        [
+          236,
+          1923
+        ]
+      ],
+      "score": 0.5599119067192078,
+      "y_pos": 1865,
+      "text": "151. Thắt lưng ngoại thương: Yêu thống 1, Yêu thống 3.",
+      "confidence": 0.9990902266332081
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_016_text.png",
+      "bbox": [
+        [
+          234,
+          1958
+        ],
+        [
+          1893,
+          1958
+        ],
+        [
+          1893,
+          2013
+        ],
+        [
+          234,
+          2013
+        ]
+      ],
+      "score": 0.5801642537117004,
+      "y_pos": 1958,
+      "text": "152. Đau nhức mình mẩy (thống phong): Ngoại khỏa tiêm, Hạ Côn luân.",
+      "confidence": 0.9611838675927424
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_011_text.png",
+      "bbox": [
+        [
+          235,
+          2050
+        ],
+        [
+          992,
+          2050
+        ],
+        [
+          992,
+          2105
+        ],
+        [
+          235,
+          2105
+        ]
+      ],
+      "score": 0.607900857925415,
+      "y_pos": 2050,
+      "text": "153. Viêm tủy sống: Tích phùng.",
+      "confidence": 0.9880356066154711
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_015_text.png",
+      "bbox": [
+        [
+          236,
+          2143
+        ],
+        [
+          1349,
+          2143
+        ],
+        [
+          1349,
+          2197
+        ],
+        [
+          236,
+          2197
+        ]
+      ],
+      "score": 0.5897694230079651,
+      "y_pos": 2143,
+      "text": "154. Viêm màng nhện tủy sống: Tích tam huyệt.",
+      "confidence": 0.9537612618284023
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_008_text.png",
+      "bbox": [
+        [
+          236,
+          2235
+        ],
+        [
+          1417,
+          2235
+        ],
+        [
+          1417,
+          2287
+        ],
+        [
+          236,
+          2287
+        ]
+      ],
+      "score": 0.6230973601341248,
+      "y_pos": 2235,
+      "text": "155. Xơ hóa từng mảng tủy sống: Thượng nhĩ căn.",
+      "confidence": 0.9493328734320037
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_006_text.png",
+      "bbox": [
+        [
+          235,
+          2325
+        ],
+        [
+          1317,
+          2325
+        ],
+        [
+          1317,
+          2380
+        ],
+        [
+          235,
+          2380
+        ]
+      ],
+      "score": 0.6409283876419067,
+      "y_pos": 2325,
+      "text": "156. Các bệnh tật về tủy sống: Tích tam huyệt.",
+      "confidence": 0.9930977200468382
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_009_text.png",
+      "bbox": [
+        [
+          235,
+          2418
+        ],
+        [
+          1024,
+          2418
+        ],
+        [
+          1024,
+          2471
+        ],
+        [
+          235,
+          2471
+        ]
+      ],
+      "score": 0.6178496479988098,
+      "y_pos": 2418,
+      "text": "157. Đau xương cùng: Ngọc điền.",
+      "confidence": 0.9395595951513811
+    },
+    {
+      "type": "text",
+      "img_path": "p0561_005_text.png",
+      "bbox": [
+        [
+          234,
+          2509
+        ],
+        [
+          1232,
+          2509
+        ],
+        [
+          1232,
+          2562
+        ],
+        [
+          234,
+          2562
+        ]
+      ],
+      "score": 0.6498771905899048,
+      "y_pos": 2509,
+      "text": "158. Bệnh tật ở khớp cùng chậu: Yêu căn.",
+      "confidence": 0.998856592746008
+    },
+    {
+      "type": "number",
+      "img_path": "p0561_003_number.png",
+      "bbox": [
+        [
+          2319,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3375
+        ],
+        [
+          2319,
+          3375
+        ]
+      ],
+      "score": 0.8597167730331421,
+      "y_pos": 3337,
+      "text": "    \n    \n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0561_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1324,
+          3341
+        ],
+        [
+          1324,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9163873791694641,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9988651826696576
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0561.png"
+}

@@ -1,0 +1,524 @@
+{
+  "page_num": 122,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0122_007_header.png",
+      "bbox": [
+        [
+          1607,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9226752519607544,
+      "y_pos": 143,
+      "text": "~ ~ ~\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6999826583833921
+    },
+    {
+      "type": "header",
+      "img_path": "p0122_011_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          203
+        ],
+        [
+          228,
+          203
+        ]
+      ],
+      "score": 0.9088428616523743,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "text",
+      "img_path": "p0122_004_text.png",
+      "bbox": [
+        [
+          279,
+          346
+        ],
+        [
+          2356,
+          346
+        ],
+        [
+          2356,
+          472
+        ],
+        [
+          279,
+          472
+        ]
+      ],
+      "score": 0.9564561247825623,
+      "y_pos": 346,
+      "text": "mô cao đầu xương quay. Chỗ đầu ngón trỏ ấn vào xương quay là huyệt, chỗ đó bờ xương\nhơi lõm. (H37)",
+      "confidence": 0.9932521251413753
+    },
+    {
+      "type": "text",
+      "img_path": "p0122_006_text.png",
+      "bbox": [
+        [
+          283,
+          510
+        ],
+        [
+          2358,
+          510
+        ],
+        [
+          2358,
+          635
+        ],
+        [
+          283,
+          635
+        ]
+      ],
+      "score": 0.9505458474159241,
+      "y_pos": 510,
+      "text": "Cách châm: Châm mũi kim hơi chếch về phía khuỷu tay, sâu 0,3-0,5 thốn, cảm giác đau tê\nđến bàn tay hoặc cẳng tay. Cứu 3-7 mồi, hơ 5 phút.",
+      "confidence": 0.9980589826884386
+    },
+    {
+      "type": "text",
+      "img_path": "p0122_005_text.png",
+      "bbox": [
+        [
+          281,
+          670
+        ],
+        [
+          2359,
+          670
+        ],
+        [
+          2359,
+          797
+        ],
+        [
+          281,
+          797
+        ]
+      ],
+      "score": 0.9527746438980103,
+      "y_pos": 670,
+      "text": "Chủ trị: Cảm mạo, ho hắng, đau đầu, đau răng, gáy cổ cứng đau, sưng đau hầu họng, mồm\nmiệng méo lệch, người già đái nhiều.",
+      "confidence": 0.996734658381251
+    },
+    {
+      "type": "text",
+      "img_path": "p0122_013_text.png",
+      "bbox": [
+        [
+          287,
+          834
+        ],
+        [
+          2038,
+          834
+        ],
+        [
+          2038,
+          890
+        ],
+        [
+          287,
+          890
+        ]
+      ],
+      "score": 0.9017237424850464,
+      "y_pos": 834,
+      "text": "<i>Tác dụng phối hợp:</i> Với <i>Hậu khê</i> trị đầu và gáy đau; với Chiếu hải trị ho hen.",
+      "confidence": 0.9917003668662978
+    },
+    {
+      "type": "image",
+      "img_path": "p0122_000_image.png",
+      "bbox": [
+        [
+          562,
+          956
+        ],
+        [
+          2069,
+          956
+        ],
+        [
+          2069,
+          1630
+        ],
+        [
+          562,
+          1630
+        ]
+      ],
+      "score": 0.9718502163887024,
+      "y_pos": 956
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0122_014_figure_title.png",
+      "bbox": [
+        [
+          1132,
+          1729
+        ],
+        [
+          1515,
+          1729
+        ],
+        [
+          1515,
+          1775
+        ],
+        [
+          1132,
+          1775
+        ]
+      ],
+      "score": 0.8957662582397461,
+      "y_pos": 1729,
+      "text": "Hình 37 - Hình 38",
+      "confidence": 0.5594910916529203
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0122_009_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1818
+        ],
+        [
+          485,
+          1818
+        ],
+        [
+          485,
+          1863
+        ],
+        [
+          225,
+          1863
+        ]
+      ],
+      "score": 0.9155527353286743,
+      "y_pos": 1818,
+      "text": "8. Kinh cừ",
+      "confidence": 0.9447450190782547
+    },
+    {
+      "type": "text",
+      "img_path": "p0122_015_text.png",
+      "bbox": [
+        [
+          287,
+          1907
+        ],
+        [
+          1944,
+          1907
+        ],
+        [
+          1944,
+          1964
+        ],
+        [
+          287,
+          1964
+        ]
+      ],
+      "score": 0.8916394114494324,
+      "y_pos": 1907,
+      "text": "<i>Vị trí:</i> Phía trong đầu dưới chỏm xương quay, lằn cổ tay lên 1 thốn. (H38)",
+      "confidence": 0.9895220604035762
+    },
+    {
+      "type": "text",
+      "img_path": "p0122_017_text.png",
+      "bbox": [
+        [
+          285,
+          1998
+        ],
+        [
+          2210,
+          1998
+        ],
+        [
+          2210,
+          2055
+        ],
+        [
+          285,
+          2055
+        ]
+      ],
+      "score": 0.8897610306739807,
+      "y_pos": 1998,
+      "text": "Cách lấy huyệt: Châm đứng hoặc chếch, sâu 0,5-1 thốn, tránh động mạch. Cấm cứu,",
+      "confidence": 0.9945285401226561
+    },
+    {
+      "type": "text",
+      "img_path": "p0122_016_text.png",
+      "bbox": [
+        [
+          285,
+          2091
+        ],
+        [
+          1915,
+          2091
+        ],
+        [
+          1915,
+          2148
+        ],
+        [
+          285,
+          2148
+        ]
+      ],
+      "score": 0.8911115527153015,
+      "y_pos": 2091,
+      "text": "Chủ trị: Ho hắng, hen suyễn, đau ngực, hầu họng sưng đau, cổ tay đau.",
+      "confidence": 0.8075981299642107
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0122_018_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2185
+        ],
+        [
+          548,
+          2185
+        ],
+        [
+          548,
+          2236
+        ],
+        [
+          225,
+          2236
+        ]
+      ],
+      "score": 0.8888105154037476,
+      "y_pos": 2185,
+      "text": "9. Thái uyên:",
+      "confidence": 0.9590617179870605
+    },
+    {
+      "type": "text",
+      "img_path": "p0122_010_text.png",
+      "bbox": [
+        [
+          289,
+          2275
+        ],
+        [
+          1558,
+          2275
+        ],
+        [
+          1558,
+          2330
+        ],
+        [
+          289,
+          2330
+        ]
+      ],
+      "score": 0.9132344126701355,
+      "y_pos": 2275,
+      "text": "Vị trí: Chỗ lõm trên nếp gấp cổ tay, sau mô ngón tay cái.",
+      "confidence": 0.9682954792249001
+    },
+    {
+      "type": "text",
+      "img_path": "p0122_003_text.png",
+      "bbox": [
+        [
+          281,
+          2366
+        ],
+        [
+          2357,
+          2366
+        ],
+        [
+          2357,
+          2494
+        ],
+        [
+          281,
+          2494
+        ]
+      ],
+      "score": 0.9589687585830688,
+      "y_pos": 2366,
+      "text": "Cách lấy huyệt: Ngửa bàn tay, ở chỗ lõm trên nếp gấp thứ nhất cổ tay, chỗ có động mạch\nquay đập. (H38)",
+      "confidence": 0.9905918063645694
+    },
+    {
+      "type": "text",
+      "img_path": "p0122_001_text.png",
+      "bbox": [
+        [
+          283,
+          2531
+        ],
+        [
+          2358,
+          2531
+        ],
+        [
+          2358,
+          2654
+        ],
+        [
+          283,
+          2654
+        ]
+      ],
+      "score": 0.9609268307685852,
+      "y_pos": 2531,
+      "text": "Cách châm: Hướng mũi kim vào phía giữa cổ tay, châm đứng kim, sâu 0,2-0,3 thốn, tránh\nđộng mạch. Cứu 3 mồi.",
+      "confidence": 0.9976954489782535
+    },
+    {
+      "type": "text",
+      "img_path": "p0122_008_text.png",
+      "bbox": [
+        [
+          285,
+          2692
+        ],
+        [
+          1855,
+          2692
+        ],
+        [
+          1855,
+          2748
+        ],
+        [
+          285,
+          2748
+        ]
+      ],
+      "score": 0.9185114502906799,
+      "y_pos": 2692,
+      "text": "Chủ trị: hen, hầu họng sưng, đau ngực, truy mạch, ho hắng, mất ngủ.",
+      "confidence": 0.9850141932998878
+    },
+    {
+      "type": "text",
+      "img_path": "p0122_002_text.png",
+      "bbox": [
+        [
+          282,
+          2785
+        ],
+        [
+          2356,
+          2785
+        ],
+        [
+          2356,
+          2907
+        ],
+        [
+          282,
+          2907
+        ]
+      ],
+      "score": 0.9593035578727722,
+      "y_pos": 2785,
+      "text": "<i>Tác dụng phối hợp:</i> Với <i>Nội quan</i> trị đau ngực, tim đập quá nhanh, với <i>Liệt khuyết</i> trị phong\nđờm, ho hắng.",
+      "confidence": 0.9948560761351164
+    },
+    {
+      "type": "footer",
+      "img_path": "p0122_012_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3388
+        ],
+        [
+          228,
+          3388
+        ]
+      ],
+      "score": 0.9071519374847412,
+      "y_pos": 3334,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.946788766474094
+    },
+    {
+      "type": "number",
+      "img_path": "p0122_019_number.png",
+      "bbox": [
+        [
+          2326,
+          3341
+        ],
+        [
+          2351,
+          3341
+        ],
+        [
+          2351,
+          3378
+        ],
+        [
+          2326,
+          3378
+        ]
+      ],
+      "score": 0.8167739510536194,
+      "y_pos": 3341,
+      "text": "\n    \n    \n    \n\n\n\n\n\n    \n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0122.png"
+}

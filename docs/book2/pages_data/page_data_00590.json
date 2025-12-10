@@ -1,0 +1,188 @@
+{
+  "page_num": 590,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0590_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.906261682510376,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0590_000_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1467,
+          152
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9163818359375,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TÂN, KỲ HUYỆT",
+      "confidence": 0.9972447490692139
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0590_004_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          326
+        ],
+        [
+          897,
+          326
+        ],
+        [
+          897,
+          384
+        ],
+        [
+          227,
+          384
+        ]
+      ],
+      "score": 0.6584701538085938,
+      "y_pos": 326,
+      "text": "Phần 37. BÊNH ĐÔNG KINH",
+      "confidence": 0.9887223601341247
+    },
+    {
+      "type": "text",
+      "img_path": "p0590_005_text.png",
+      "bbox": [
+        [
+          229,
+          420
+        ],
+        [
+          2366,
+          420
+        ],
+        [
+          2366,
+          618
+        ],
+        [
+          229,
+          618
+        ]
+      ],
+      "score": 0.6345222592353821,
+      "y_pos": 420,
+      "text": "367. Động kinh: Thập tuyên, Lý nội đình, Thừa mệnh, Tứ thần thông, Tiếp cốt, Nhị chùy hạ,\nHuyệt Điên bệnh, cứu Thương bạch, Định thần, Yêu kỳ, Sùng cốt, Tân nhất, Hổ biên, Chỉ\nchưởng.",
+      "confidence": 0.9960998687886616
+    },
+    {
+      "type": "text",
+      "img_path": "p0590_006_text.png",
+      "bbox": [
+        [
+          230,
+          652
+        ],
+        [
+          680,
+          652
+        ],
+        [
+          680,
+          707
+        ],
+        [
+          230,
+          707
+        ]
+      ],
+      "score": 0.6141645312309265,
+      "y_pos": 652,
+      "text": "368. <b>Điên:</b> Tiếp cốt.",
+      "confidence": 0.9429495433966318
+    },
+    {
+      "type": "number",
+      "img_path": "p0590_003_number.png",
+      "bbox": [
+        [
+          2318,
+          3337
+        ],
+        [
+          2367,
+          3337
+        ],
+        [
+          2367,
+          3373
+        ],
+        [
+          2318,
+          3373
+        ]
+      ],
+      "score": 0.8602414131164551,
+      "y_pos": 3337,
+      "text": "    \n            \n    \n\n    \n\n    \n\n\n\n\n    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0590_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3340
+        ],
+        [
+          1326,
+          3340
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9006317257881165,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.998831089937462
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0590.png"
+}

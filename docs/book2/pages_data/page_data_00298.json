@@ -1,0 +1,188 @@
+{
+  "page_num": 298,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0298_002_header.png",
+      "bbox": [
+        [
+          1608,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1608,
+          202
+        ]
+      ],
+      "score": 0.9090851545333862,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7639200864803224
+    },
+    {
+      "type": "header",
+      "img_path": "p0298_003_header.png",
+      "bbox": [
+        [
+          229,
+          155
+        ],
+        [
+          624,
+          155
+        ],
+        [
+          624,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9001678228378296,
+      "y_pos": 155,
+      "text": "PHÉP DƯỚNG SINH",
+      "confidence": 0.8680992021280176
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0298_005_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          321
+        ],
+        [
+          425,
+          321
+        ],
+        [
+          425,
+          371
+        ],
+        [
+          225,
+          371
+        ]
+      ],
+      "score": 0.8564561605453491,
+      "y_pos": 321,
+      "text": "۱۱    ١    И",
+      "confidence": 0.44785611165894396
+    },
+    {
+      "type": "text",
+      "img_path": "p0298_000_text.png",
+      "bbox": [
+        [
+          278,
+          416
+        ],
+        [
+          2358,
+          416
+        ],
+        [
+          2358,
+          1326
+        ],
+        [
+          278,
+          1326
+        ]
+      ],
+      "score": 0.9841556549072266,
+      "y_pos": 416,
+      "text": "Tâm là chủ soái của toàn than, đầu đường sinh tử. Tâm sống thì mọi thứ muốn sống, mà\nthần không nhập khí (thần không biến vào hơi thở). Tâm tính thì mọi thứ muốn tĩnh, mà thần\nvới khí hoà hợp nhau (bao bọc nhau). \"Nội kinh\" nói rằng: Tháng hạ, thân người ra phát\ndương khí ra ngoài, dấu âm khí ở trong, là lúc thoát tinh thần, tránh lưu thong (giao hợp nam\nnữ) làm tiết tinh khí. Ba tháng mùa hạ nói chung, khí thiên địa giao nhau, vạn vật hoá thực\n(lớn mạnh), \"đêm nằm dậy sớm, không ngán ban ngày\", làm cho khí không giận giữ, khả\nnăng biến thành tài năng. Đó là ứng với khí mùa hạ, phải dưỡng thành cái đạo như thế. Làm\nngược lại thì tốn thương tâm, đến mùa thu dễ sinh khái ngược (một loại sốt dai dẳng), cho\nnên, người ta thường ngồi yên tĩnh, điều nhịp thở ở tim, ăn nóng, tránh lạnh, thường \"buông\nmi che mắt, đem ánh sang chiếu vào trong, giáng tâm hoả xuống an điền\". (nghĩ như nhìn\nthấy đan điền), làm cho thần và khí hoà hợp nhau. Thái Huyền Dưỡng Sơ viết: Tâm trạng ở\nsâu, đúng là cái gốc của sự nhanh nhay, thần không ngoài chỗ đó, tâm bị lôi kéo ở việc thì\nhoả động ở trong.",
+      "confidence": 0.9935391916819074
+    },
+    {
+      "type": "text",
+      "img_path": "p0298_001_text.png",
+      "bbox": [
+        [
+          279,
+          1360
+        ],
+        [
+          2358,
+          1360
+        ],
+        [
+          2358,
+          1488
+        ],
+        [
+          279,
+          1488
+        ]
+      ],
+      "score": 0.9293050169944763,
+      "y_pos": 1360,
+      "text": "Tâm hoả ở mùa hạ bảo làm chính vượng, mạch vốn hồng, đại. Nếu như mạch hoãn là\nthương thử, đến đêm không nên ăn nhiều, ngủ không nên quạt, vì dễ bị gió độc.",
+      "confidence": 0.9997901657478341
+    },
+    {
+      "type": "footer",
+      "img_path": "p0298_004_footer.png",
+      "bbox": [
+        [
+          230,
+          3333
+        ],
+        [
+          1437,
+          3333
+        ],
+        [
+          1437,
+          3387
+        ],
+        [
+          230,
+          3387
+        ]
+      ],
+      "score": 0.893468976020813,
+      "y_pos": 3333,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9983688143064391
+    },
+    {
+      "type": "number",
+      "img_path": "p0298_006_number.png",
+      "bbox": [
+        [
+          2329,
+          3339
+        ],
+        [
+          2355,
+          3339
+        ],
+        [
+          2355,
+          3373
+        ],
+        [
+          2329,
+          3373
+        ]
+      ],
+      "score": 0.8119021058082581,
+      "y_pos": 3339,
+      "text": "\n\n    \n    \n\n    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0298.png"
+}

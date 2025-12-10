@@ -1,0 +1,916 @@
+{
+  "page_num": 548,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0548_001_header.png",
+      "bbox": [
+        [
+          1674,
+          144
+        ],
+        [
+          2371,
+          144
+        ],
+        [
+          2371,
+          199
+        ],
+        [
+          1674,
+          199
+        ]
+      ],
+      "score": 0.9152930974960327,
+      "y_pos": 144,
+      "text": "~ 2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7309123698089803
+    },
+    {
+      "type": "header",
+      "img_path": "p0548_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9190382361412048,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9977066326141357
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0548_033_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          325
+        ],
+        [
+          884,
+          325
+        ],
+        [
+          884,
+          388
+        ],
+        [
+          226,
+          388
+        ]
+      ],
+      "score": 0.5805176496505737,
+      "y_pos": 325,
+      "text": "Phần 29. BỆNH PHỤ KHOA",
+      "confidence": 0.8450800776481628
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_032_reference_content.png",
+      "bbox": [
+        [
+          230,
+          418
+        ],
+        [
+          1548,
+          418
+        ],
+        [
+          1548,
+          484
+        ],
+        [
+          230,
+          484
+        ]
+      ],
+      "score": 0.5893986225128174,
+      "y_pos": 418,
+      "text": "744. Bế kinh: Trung cực, Thận du, Hợp cốc, Tam âm giao.",
+      "confidence": 0.9946155244844002
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_031_reference_content.png",
+      "bbox": [
+        [
+          233,
+          508
+        ],
+        [
+          1244,
+          508
+        ],
+        [
+          1244,
+          573
+        ],
+        [
+          233,
+          573
+        ]
+      ],
+      "score": 0.6290660500526428,
+      "y_pos": 508,
+      "text": "745. Bế kinh: Can du, Khí hải, Tam âm giao.",
+      "confidence": 0.993657852543725
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_029_reference_content.png",
+      "bbox": [
+        [
+          233,
+          599
+        ],
+        [
+          1328,
+          599
+        ],
+        [
+          1328,
+          666
+        ],
+        [
+          233,
+          666
+        ]
+      ],
+      "score": 0.6489344835281372,
+      "y_pos": 599,
+      "text": "746. Bế kinh: Huyết hải, Hợp cốc, Tam âm giao.",
+      "confidence": 0.9993992534776529
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_023_reference_content.png",
+      "bbox": [
+        [
+          233,
+          691
+        ],
+        [
+          1862,
+          691
+        ],
+        [
+          1862,
+          759
+        ],
+        [
+          233,
+          759
+        ]
+      ],
+      "score": 0.6864712238311768,
+      "y_pos": 691,
+      "text": "747. Kinh nguyệt quá nhiều: Ẩn bạch, Khí hải, Huyết hải, Tam âm giao.",
+      "confidence": 0.9965683868233587
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_024_reference_content.png",
+      "bbox": [
+        [
+          234,
+          784
+        ],
+        [
+          1487,
+          784
+        ],
+        [
+          1487,
+          850
+        ],
+        [
+          234,
+          850
+        ]
+      ],
+      "score": 0.6856513023376465,
+      "y_pos": 784,
+      "text": "748. Kinh nguyệt quá nhiều: Hành gian, Tam âm giao.",
+      "confidence": 0.9979614289301746
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_013_reference_content.png",
+      "bbox": [
+        [
+          234,
+          875
+        ],
+        [
+          1839,
+          875
+        ],
+        [
+          1839,
+          944
+        ],
+        [
+          234,
+          944
+        ]
+      ],
+      "score": 0.7078726887702942,
+      "y_pos": 875,
+      "text": "749. Kinh nguyệt quá nhiều: Đại đôn, Ẩn bạch (cứu bằng cỏ bấc đèn).",
+      "confidence": 0.9994852914326433
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_022_reference_content.png",
+      "bbox": [
+        [
+          234,
+          967
+        ],
+        [
+          1540,
+          967
+        ],
+        [
+          1540,
+          1033
+        ],
+        [
+          234,
+          1033
+        ]
+      ],
+      "score": 0.6887776255607605,
+      "y_pos": 967,
+      "text": "750. Tử cung xuất huyết: Ẩn bạch, Huyết hải, Thần môn.",
+      "confidence": 0.9967368159975324
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_027_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1059
+        ],
+        [
+          1272,
+          1059
+        ],
+        [
+          1272,
+          1126
+        ],
+        [
+          233,
+          1126
+        ]
+      ],
+      "score": 0.6682974696159363,
+      "y_pos": 1059,
+      "text": "751. Dạ con xuất huyết: Trung cực, Tử cung.",
+      "confidence": 0.9877886546982659
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_006_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1150
+        ],
+        [
+          2245,
+          1150
+        ],
+        [
+          2245,
+          1221
+        ],
+        [
+          231,
+          1221
+        ]
+      ],
+      "score": 0.7187525033950806,
+      "y_pos": 1150,
+      "text": "752. Công năng tính tử cung xuất huyết: Quan nguyên, Ẩn bạch, Huyết hải, Túc tam lý.",
+      "confidence": 0.9994650060354278
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_004_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1244
+        ],
+        [
+          2360,
+          1244
+        ],
+        [
+          2360,
+          1377
+        ],
+        [
+          232,
+          1377
+        ]
+      ],
+      "score": 0.790393054485321,
+      "y_pos": 1244,
+      "text": "753. Công năng tính tử cung xuất huyết: Thượng liêu, Túc tam lý, Tam âm giao, Huyết hải,\nTử cung, Khí hải, Quan nguyên.",
+      "confidence": 0.9991391674098041
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_014_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1403
+        ],
+        [
+          2202,
+          1403
+        ],
+        [
+          2202,
+          1474
+        ],
+        [
+          231,
+          1474
+        ]
+      ],
+      "score": 0.703368067741394,
+      "y_pos": 1403,
+      "text": "754. Công năng tính tử cung xuất huyết: Khí hải du, Thập thất chùy hạ, Tam âm giao.",
+      "confidence": 0.9995453392758089
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_026_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1496
+        ],
+        [
+          1455,
+          1496
+        ],
+        [
+          1455,
+          1565
+        ],
+        [
+          233,
+          1565
+        ]
+      ],
+      "score": 0.6740242838859558,
+      "y_pos": 1496,
+      "text": "755. Kinh nguyệt không đều: Thủy tuyền, Thiên khu.",
+      "confidence": 0.9990544640100919
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_005_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1588
+        ],
+        [
+          1714,
+          1588
+        ],
+        [
+          1714,
+          1657
+        ],
+        [
+          233,
+          1657
+        ]
+      ],
+      "score": 0.7242429852485657,
+      "y_pos": 1588,
+      "text": "756. Kinh nguyệt không đều: Trung đô, Tam âm giao, Huyết hải.",
+      "confidence": 0.9995454407873607
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_015_reference_content.png",
+      "bbox": [
+        [
+          235,
+          1680
+        ],
+        [
+          1714,
+          1680
+        ],
+        [
+          1714,
+          1748
+        ],
+        [
+          235,
+          1748
+        ]
+      ],
+      "score": 0.7026384472846985,
+      "y_pos": 1680,
+      "text": "757. Kinh nguyệt không đều: Trung cực, Tử cung, Tam âm giao.",
+      "confidence": 0.9882346708928386
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_016_reference_content.png",
+      "bbox": [
+        [
+          235,
+          1772
+        ],
+        [
+          1671,
+          1772
+        ],
+        [
+          1671,
+          1839
+        ],
+        [
+          235,
+          1839
+        ]
+      ],
+      "score": 0.7020837068557739,
+      "y_pos": 1772,
+      "text": "758. Kinh nguyệt không đều: Khí hải, Huyết hải, Tam âm giao.",
+      "confidence": 0.9990310332467479
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_018_reference_content.png",
+      "bbox": [
+        [
+          234,
+          1863
+        ],
+        [
+          1409,
+          1863
+        ],
+        [
+          1409,
+          1931
+        ],
+        [
+          234,
+          1931
+        ]
+      ],
+      "score": 0.6995512247085571,
+      "y_pos": 1863,
+      "text": "759. Kinh nguyệt không đều: Đới mạch, Huyết hải.",
+      "confidence": 0.9995517313480378
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_028_reference_content.png",
+      "bbox": [
+        [
+          234,
+          1954
+        ],
+        [
+          1341,
+          1954
+        ],
+        [
+          1341,
+          2022
+        ],
+        [
+          234,
+          2022
+        ]
+      ],
+      "score": 0.6612218022346497,
+      "y_pos": 1954,
+      "text": "760. Kinh nguyệt không đều: Địa cơ, Huyết hải.",
+      "confidence": 0.9991829146941503
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_011_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2046
+        ],
+        [
+          2119,
+          2046
+        ],
+        [
+          2119,
+          2115
+        ],
+        [
+          233,
+          2115
+        ]
+      ],
+      "score": 0.7121647000312805,
+      "y_pos": 2046,
+      "text": "761. Kinh nguyệt không đều: Quy lai, Trung cực, Khúc cốt, Tử cung, Tam âm giao.",
+      "confidence": 0.999630163481206
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_008_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2138
+        ],
+        [
+          1660,
+          2138
+        ],
+        [
+          1660,
+          2208
+        ],
+        [
+          233,
+          2208
+        ]
+      ],
+      "score": 0.717043936252594,
+      "y_pos": 2138,
+      "text": "762. Kinh nguyệt không đều: Địa cơ, Khí huyệt, Tam âm giao.",
+      "confidence": 0.9992799768682386
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_012_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2229
+        ],
+        [
+          1779,
+          2229
+        ],
+        [
+          1779,
+          2297
+        ],
+        [
+          232,
+          2297
+        ]
+      ],
+      "score": 0.7120480537414551,
+      "y_pos": 2229,
+      "text": "763. Kinh nguyệt không đều: Địa cơ, Tam âm giao, hoặc Huyết hải.",
+      "confidence": 0.9989906964880048
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_020_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2322
+        ],
+        [
+          2167,
+          2322
+        ],
+        [
+          2167,
+          2389
+        ],
+        [
+          232,
+          2389
+        ]
+      ],
+      "score": 0.6898093223571777,
+      "y_pos": 2322,
+      "text": "764. Kinh nguyệt không đều, bế kinh: Khí hải, Trung cực, Trung quản, Tam âm giao.",
+      "confidence": 0.9933523822979755
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_030_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2413
+        ],
+        [
+          1599,
+          2413
+        ],
+        [
+          1599,
+          2483
+        ],
+        [
+          232,
+          2483
+        ]
+      ],
+      "score": 0.642320990562439,
+      "y_pos": 2413,
+      "text": "765. Khí hư quá nhiều: Tử cung, Trung cực, Âm lăng tuyền.",
+      "confidence": 0.994611970448898
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_034_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2503
+        ],
+        [
+          935,
+          2503
+        ],
+        [
+          935,
+          2572
+        ],
+        [
+          232,
+          2572
+        ]
+      ],
+      "score": 0.5493597984313965,
+      "y_pos": 2503,
+      "text": "766. Khí hư: Khí hải, Ủy trung.",
+      "confidence": 0.9991205406911445
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_025_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2595
+        ],
+        [
+          1922,
+          2595
+        ],
+        [
+          1922,
+          2664
+        ],
+        [
+          232,
+          2664
+        ]
+      ],
+      "score": 0.6768847107887268,
+      "y_pos": 2595,
+      "text": "767. Nhiều khí hư: Đới mạch, Bạch hoàn du, Âm lăng tuyền, Tam âm giao.",
+      "confidence": 0.9996089165409406
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_019_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2689
+        ],
+        [
+          1749,
+          2689
+        ],
+        [
+          1749,
+          2755
+        ],
+        [
+          233,
+          2755
+        ]
+      ],
+      "score": 0.6929649114608765,
+      "y_pos": 2689,
+      "text": "768. Đau bụng hành kinh: Thiên khu, Tam âm giao, Quan nguyên.",
+      "confidence": 0.9932892473917159
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_010_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2780
+        ],
+        [
+          2072,
+          2780
+        ],
+        [
+          2072,
+          2845
+        ],
+        [
+          233,
+          2845
+        ]
+      ],
+      "score": 0.714653491973877,
+      "y_pos": 2780,
+      "text": "769. Đau bụng hành kinh: Thập thất chùy hạ, Trung cực, Tam âm giao, Thái khê.",
+      "confidence": 0.9958464359935326
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_021_reference_content.png",
+      "bbox": [
+        [
+          234,
+          2873
+        ],
+        [
+          1610,
+          2873
+        ],
+        [
+          1610,
+          2937
+        ],
+        [
+          234,
+          2937
+        ]
+      ],
+      "score": 0.6894720792770386,
+      "y_pos": 2873,
+      "text": "770. Đau bụng hành kinh: Khí hải, Trung cực, Tam âm giao.",
+      "confidence": 0.9963935643939649
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_009_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2965
+        ],
+        [
+          1547,
+          2965
+        ],
+        [
+          1547,
+          3029
+        ],
+        [
+          233,
+          3029
+        ]
+      ],
+      "score": 0.7162007093429565,
+      "y_pos": 2965,
+      "text": "771. Đau bụng hành kinh: Khí hải, Hành gian, Trung cực.",
+      "confidence": 0.9985142810302868
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_007_reference_content.png",
+      "bbox": [
+        [
+          233,
+          3055
+        ],
+        [
+          1913,
+          3055
+        ],
+        [
+          1913,
+          3122
+        ],
+        [
+          233,
+          3122
+        ]
+      ],
+      "score": 0.7177327871322632,
+      "y_pos": 3055,
+      "text": "772. Bụng dưới rắn đau, kinh nguyệt không thông: Đới mạch, Hiệp khê.",
+      "confidence": 0.708980291230338
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0548_017_reference_content.png",
+      "bbox": [
+        [
+          232,
+          3149
+        ],
+        [
+          1590,
+          3149
+        ],
+        [
+          1590,
+          3210
+        ],
+        [
+          232,
+          3210
+        ]
+      ],
+      "score": 0.7016827464103699,
+      "y_pos": 3149,
+      "text": "773. Đau bụng hành kinh: Quan nguyên du, Can du, Tỳ du.",
+      "confidence": 0.9957405516975805
+    },
+    {
+      "type": "number",
+      "img_path": "p0548_003_number.png",
+      "bbox": [
+        [
+          2318,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2318,
+          3374
+        ]
+      ],
+      "score": 0.8626685738563538,
+      "y_pos": 3337,
+      "text": "    \n            \n        \n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0548_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3341
+        ],
+        [
+          1325,
+          3341
+        ],
+        [
+          1325,
+          3390
+        ],
+        [
+          228,
+          3390
+        ]
+      ],
+      "score": 0.9017898440361023,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987002341252453
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0548.png"
+}

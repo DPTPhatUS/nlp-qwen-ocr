@@ -1,0 +1,266 @@
+{
+  "page_num": 105,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0105_003_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2370,
+          142
+        ],
+        [
+          2370,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9261490702629089,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7425119263075647
+    },
+    {
+      "type": "header",
+      "img_path": "p0105_007_header.png",
+      "bbox": [
+        [
+          230,
+          159
+        ],
+        [
+          453,
+          159
+        ],
+        [
+          453,
+          201
+        ],
+        [
+          230,
+          201
+        ]
+      ],
+      "score": 0.8999624252319336,
+      "y_pos": 159,
+      "text": "DU HUYET",
+      "confidence": 0.6226022601127624
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0105_008_figure_title.png",
+      "bbox": [
+        [
+          901,
+          346
+        ],
+        [
+          1687,
+          346
+        ],
+        [
+          1687,
+          398
+        ],
+        [
+          901,
+          398
+        ]
+      ],
+      "score": 0.8908789753913879,
+      "y_pos": 346,
+      "text": "Bảng 12 - Bảng lục phủ hạ hợp huyệt",
+      "confidence": 0.9933372800414627
+    },
+    {
+      "type": "table",
+      "img_path": "p0105_002_table.png",
+      "bbox": [
+        [
+          435,
+          447
+        ],
+        [
+          2151,
+          447
+        ],
+        [
+          2151,
+          993
+        ],
+        [
+          435,
+          993
+        ]
+      ],
+      "score": 0.9525649547576904,
+      "y_pos": 447,
+      "text": "Vi    = Túc tam lý\nĐại trường    = Thượng cư hự    Trên túc dương minh\nTiểu trường    = Hạ cư hự\nBàng quang    = Uy trung    Trên túc thái dương\nTam tiêu    = Úy dương\nĐảm    = Dương lăng tuyền    Trên túc thiếu dương",
+      "confidence": 0.8802913545151309
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0105_006_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1061
+        ],
+        [
+          827,
+          1061
+        ],
+        [
+          827,
+          1110
+        ],
+        [
+          225,
+          1110
+        ]
+      ],
+      "score": 0.9017257690429688,
+      "y_pos": 1061,
+      "text": "H. Bát mạch giao hội huyệt",
+      "confidence": 0.9174098266022546
+    },
+    {
+      "type": "text",
+      "img_path": "p0105_001_text.png",
+      "bbox": [
+        [
+          276,
+          1149
+        ],
+        [
+          2359,
+          1149
+        ],
+        [
+          2359,
+          1417
+        ],
+        [
+          276,
+          1417
+        ]
+      ],
+      "score": 0.9804376363754272,
+      "y_pos": 1149,
+      "text": "Là 8 huyệt vị ở tứ chi thông với 8 mạch kỳ kinh. Kỳ kinh bát mạch tuy không tuần hành tất cả\ntrên tứ chi, nhưng do chúng có quan hệ giao hội với 12 kinh mạch, cho nên huyệt vị ở vùng\ntứ chi đều có thông với kỳ kinh, trên mặt điều trị thích ứng, có quan hệ tới bệnh chứng của\nkỳ kinh.Bát mạch giao hội huyệt ở chi trên và chi dưới, khi ứng dụng thường phải phối hợp.",
+      "confidence": 0.9995845656707136
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0105_005_figure_title.png",
+      "bbox": [
+        [
+          507,
+          1457
+        ],
+        [
+          2141,
+          1457
+        ],
+        [
+          2141,
+          1509
+        ],
+        [
+          507,
+          1509
+        ]
+      ],
+      "score": 0.9070236086845398,
+      "y_pos": 1457,
+      "text": "Bảng 13 - Bảng phối hợp bát mạch giao hội huyệt và tác dụng của nó như sau",
+      "confidence": 0.998991630579296
+    },
+    {
+      "type": "table",
+      "img_path": "p0105_000_table.png",
+      "bbox": [
+        [
+          279,
+          1557
+        ],
+        [
+          2313,
+          1557
+        ],
+        [
+          2313,
+          2316
+        ],
+        [
+          279,
+          2316
+        ]
+      ],
+      "score": 0.9876204133033752,
+      "y_pos": 1557,
+      "text": "Bản kinh    Bát huyệt    Thông bát mạch    Chủ trị\nTúc thái âm    Công tôn    Xung mạch    Tim, ngực, dạ dày\nThủ quyết âm    Nội quan    Âm duy\nThủ thái dương    Hậu khê    Đốc mạch    Khoé mắt trong, háy cổ, tai, vai\nTúc thái dương    Thân mạch    Dương kiểu mạch    và cánh tay trên, tiểu trường,\nbàng quang\nTúc thiếu dương    Túc lâm khấp    Đới mạch    Khóe mắt ngoài, sau tai, má, cố\nThủ thiếu dương    Ngoại quan    Dương duy mạch    vai\nThủ thái âm    Liệt khuyết    Nhâm mạch    Hệ phế, hầu họng, ngực cách\nTúc thiếu âm    Chiếu hải    Âm kiểu mạch",
+      "confidence": 0.9490421058842011
+    },
+    {
+      "type": "footer",
+      "img_path": "p0105_004_footer.png",
+      "bbox": [
+        [
+          232,
+          3334
+        ],
+        [
+          1437,
+          3334
+        ],
+        [
+          1437,
+          3387
+        ],
+        [
+          232,
+          3387
+        ]
+      ],
+      "score": 0.911896288394928,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985722427098256
+    },
+    {
+      "type": "number",
+      "img_path": "p0105_009_number.png",
+      "bbox": [
+        [
+          2338,
+          3340
+        ],
+        [
+          2382,
+          3340
+        ],
+        [
+          2382,
+          3377
+        ],
+        [
+          2338,
+          3377
+        ]
+      ],
+      "score": 0.8586393594741821,
+      "y_pos": 3340,
+      "text": "    \n\n    \n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0105.png"
+}

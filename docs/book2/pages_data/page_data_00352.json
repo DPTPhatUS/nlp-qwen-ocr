@@ -1,0 +1,240 @@
+{
+  "page_num": 352,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0352_000_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1678,
+          196
+        ]
+      ],
+      "score": 0.9213818907737732,
+      "y_pos": 142,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7456070706248283
+    },
+    {
+      "type": "header",
+      "img_path": "p0352_001_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1054,
+          152
+        ],
+        [
+          1054,
+          198
+        ],
+        [
+          228,
+          198
+        ]
+      ],
+      "score": 0.9127984642982483,
+      "y_pos": 152,
+      "text": "ÔN NHIỆT KINH BIÊN CHỨNG LUÂN TRI",
+      "confidence": 0.9426784055573599
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0352_003_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          317
+        ],
+        [
+          671,
+          317
+        ],
+        [
+          671,
+          368
+        ],
+        [
+          343,
+          368
+        ]
+      ],
+      "score": 0.8859541416168213,
+      "y_pos": 317,
+      "text": "i. O mai hoàn",
+      "confidence": 0.9951866388320922
+    },
+    {
+      "type": "table",
+      "img_path": "p0352_005_table.png",
+      "bbox": [
+        [
+          439,
+          434
+        ],
+        [
+          1987,
+          434
+        ],
+        [
+          1987,
+          1326
+        ],
+        [
+          439,
+          1326
+        ]
+      ],
+      "score": 0.7042744159698486,
+      "y_pos": 434,
+      "text": "Tên vị    Tễ lượng hoàn    Tễ lượng thang\nÔ mai nhục,    9 lạng,    5 quả,\nHoàng liên,    16 lạng,    3 đồng cân,\nHoàng bá,    6 lạng,    3 đồng cân,\nNhân sâm hoặc Đảng sâm,    6 lạng,    3 đồng cân,\nDương quy,    4 lang,    3 đồng cân,\nChế phụ tử,    6 lạng,    2 đồng cân,\nQuế chi,    6 lạng,    2 đồng cân,\nSao Xuyên tiêu,    4 lang,    2 đồng cân,\nCan khương,    10 lạng,    2 đồng cân,\nTế tân,    6 lang,    1 đồng cân.",
+      "confidence": 0.9785916972205707
+    },
+    {
+      "type": "text",
+      "img_path": "p0352_006_text.png",
+      "bbox": [
+        [
+          222,
+          1365
+        ],
+        [
+          2356,
+          1365
+        ],
+        [
+          2356,
+          1496
+        ],
+        [
+          222,
+          1496
+        ]
+      ],
+      "score": 0.6945855617523193,
+      "y_pos": 1365,
+      "text": "Cách chế hoàn tễ: Ô mai nhục dùng giấm 50% ngâm 1 đêm, giã nát, hòa vào số thuốc còn lại\ngiã đều, sấy hoặc phơi khô, nghiền thành bột nhỏ mịn, thêm mật làm viên.",
+      "confidence": 0.9986439987077369
+    },
+    {
+      "type": "text",
+      "img_path": "p0352_008_text.png",
+      "bbox": [
+        [
+          222,
+          1527
+        ],
+        [
+          1699,
+          1527
+        ],
+        [
+          1699,
+          1590
+        ],
+        [
+          222,
+          1590
+        ]
+      ],
+      "score": 0.6123020648956299,
+      "y_pos": 1527,
+      "text": "Mỗi lần uống 3 đồng cân, ngày uống 1 – 3 lần, uống lúc đói bụng.",
+      "confidence": 0.9959117390892722
+    },
+    {
+      "type": "text",
+      "img_path": "p0352_007_text.png",
+      "bbox": [
+        [
+          224,
+          1619
+        ],
+        [
+          1369,
+          1619
+        ],
+        [
+          1369,
+          1678
+        ],
+        [
+          224,
+          1678
+        ]
+      ],
+      "score": 0.6730927228927612,
+      "y_pos": 1619,
+      "text": "Tễ lượng thang tế ghi trên là của Nam Khai Y viện.",
+      "confidence": 0.9933237135410309
+    },
+    {
+      "type": "footer",
+      "img_path": "p0352_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3337
+        ],
+        [
+          1342,
+          3337
+        ],
+        [
+          1342,
+          3385
+        ],
+        [
+          229,
+          3385
+        ]
+      ],
+      "score": 0.9122310876846313,
+      "y_pos": 3337,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9389067382182715
+    },
+    {
+      "type": "number",
+      "img_path": "p0352_004_number.png",
+      "bbox": [
+        [
+          2296,
+          3338
+        ],
+        [
+          2345,
+          3338
+        ],
+        [
+          2345,
+          3373
+        ],
+        [
+          2296,
+          3373
+        ]
+      ],
+      "score": 0.8589928150177002,
+      "y_pos": 3338,
+      "text": "    \n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0352.png"
+}

@@ -1,0 +1,188 @@
+{
+  "page_num": 97,
+  "content": [
+    {
+      "type": "table",
+      "img_path": "p0097_000_table.png",
+      "bbox": [
+        [
+          351,
+          444
+        ],
+        [
+          2124,
+          444
+        ],
+        [
+          2124,
+          1162
+        ],
+        [
+          351,
+          1162
+        ]
+      ],
+      "score": 0.9894586801528931,
+      "y_pos": 444,
+      "text": "Vị thuốc    Dược lý Đông y\nChi tử    Đắng, lạnh. Thanh nhiệt, giáng hỏa, thanh huyết nhiệt\nĐan bì    Ngot, đắng, lạnh. Thanh nhiệt, lương huyết, hoạt huyết\nLiên kiều    Đẳng, lanh. Thanh nhiệt, giải độc\nHuyền sâm    Đẳng, măn, lanh. Thanh nhiệt, lương huyết, giải độc\nTrúc diệp    Ngot, lanh. Thanh Tâm hỏa, lơi tiểu, trừ phiền\nCát cánh    Ngọt, đắng, cay, bình. Thông khí Phế, tiêu đờm, dẫn thuốc lên\nCam thảo    Ngot, bình. Điều hòa và dẫn thuốc",
+      "confidence": 0.9033578882376444
+    },
+    {
+      "type": "text",
+      "img_path": "p0097_002_text.png",
+      "bbox": [
+        [
+          342,
+          1254
+        ],
+        [
+          2126,
+          1254
+        ],
+        [
+          2126,
+          1679
+        ],
+        [
+          342,
+          1679
+        ]
+      ],
+      "score": 0.9853076934814453,
+      "y_pos": 1254,
+      "text": "Phương thuốc này chính là hợp bài Bạch hổ thang, Tê giác địa hoàng\nthang, Hoàng liên giải độc thang rồi gia giảm mà thành. Trong phương có\nThach cao, Tri mẫu thanh đại nhiệt ở phần khí, bảo vệ tân dịch. Hoàng cầm,\nHoàng liên, Chi tử để tả hỏa nhiệt ở Tam tiêu. Tê giác, Sinh địa, Xích thược,\nĐan bì để thanh nhiệt giải độc lương huyết tán tà. Liên kiều, Huyền sâm để\ngiải các hỏa phù du. Trúc diệp, Cát cánh để đưa thuốc đi lên. Cam thảo để\nđiều hòa các vi thuốc.",
+      "confidence": 0.9964187286790543
+    },
+    {
+      "type": "text",
+      "img_path": "p0097_003_text.png",
+      "bbox": [
+        [
+          342,
+          1717
+        ],
+        [
+          2125,
+          1717
+        ],
+        [
+          2125,
+          1891
+        ],
+        [
+          342,
+          1891
+        ]
+      ],
+      "score": 0.9721388220787048,
+      "y_pos": 1717,
+      "text": "Có thể sử dụng bài An cung ngưu hoàng hoàn (ôn bệnh điều biên) gồm Tê\ngiác, Xa hương, Ngưu hoàng, Băng phiến, Hoàng cầm, Hùng hoàng, Hoàng\nliên, Chu sa, Uất kim, Chi tử.",
+      "confidence": 0.9968252976825379
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0097_006_figure_title.png",
+      "bbox": [
+        [
+          467,
+          1927
+        ],
+        [
+          1243,
+          1927
+        ],
+        [
+          1243,
+          1980
+        ],
+        [
+          467,
+          1980
+        ]
+      ],
+      "score": 0.8427918553352356,
+      "y_pos": 1927,
+      "text": "+ Công thức huyệt có thể sử dụng",
+      "confidence": 0.9988255868939793
+    },
+    {
+      "type": "table",
+      "img_path": "p0097_001_table.png",
+      "bbox": [
+        [
+          352,
+          2026
+        ],
+        [
+          2124,
+          2026
+        ],
+        [
+          2124,
+          2864
+        ],
+        [
+          352,
+          2864
+        ]
+      ],
+      "score": 0.9883534908294678,
+      "y_pos": 2026,
+      "text": "Tên huyệt    Cơ sở lý luận    Tác dụng điều trị\nTam âm giao    Giao hôi huyệt của 3 kinh âm/chân    Tư âm\nĐại chùy    Hội của mạch Đốc và 6 dương kinh, chủ biểu.    Thanh nhiệt\nMình nóng, mồ hôi tự ra (tả)\nSợ lạnh, không có mồ hôi (bổ)\nKhúc trì, Thập    Phối hợp Khúc trì, Đại chùy, Thập tuyên, Hợp    Thanh nhiệt\ntuyên, Hợp cốc    cốc là kinh nghiệm để trị sốt cao\nPhuc Iuu    Kinh Kim huyêt/Thân    Tư âm bổ Thân\nĐiều hòa và sơ thông huyền phủ (lỗ chân\nlông)    Tri chứng đạo hãn\nBách hôi    Thanh thần chí, tiết nhiệt    Tri chúng nói nhảm, lơ mơ",
+      "confidence": 0.9419909609871171
+    },
+    {
+      "type": "number",
+      "img_path": "p0097_005_number.png",
+      "bbox": [
+        [
+          351,
+          3111
+        ],
+        [
+          404,
+          3111
+        ],
+        [
+          404,
+          3148
+        ],
+        [
+          351,
+          3148
+        ]
+      ],
+      "score": 0.8591662645339966,
+      "y_pos": 3111,
+      "text": "\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0097_004_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3365
+        ],
+        [
+          293,
+          3365
+        ]
+      ],
+      "score": 0.9010724425315857,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8792689868382045
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0097.png"
+}

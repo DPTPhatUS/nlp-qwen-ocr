@@ -1,0 +1,292 @@
+{
+  "page_num": 116,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0116_004_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9295568466186523,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7576541084618795
+    },
+    {
+      "type": "header",
+      "img_path": "p0116_005_header.png",
+      "bbox": [
+        [
+          229,
+          155
+        ],
+        [
+          601,
+          155
+        ],
+        [
+          601,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9125184416770935,
+      "y_pos": 155,
+      "text": "CÁCH CHẨM CỦU",
+      "confidence": 0.7693752845128378
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0116_006_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          368
+        ],
+        [
+          639,
+          368
+        ],
+        [
+          639,
+          419
+        ],
+        [
+          284,
+          419
+        ]
+      ],
+      "score": 0.9068753719329834,
+      "y_pos": 368,
+      "text": "2. Chú ý sư cô",
+      "confidence": 0.9551190659403801
+    },
+    {
+      "type": "text",
+      "img_path": "p0116_000_text.png",
+      "bbox": [
+        [
+          280,
+          461
+        ],
+        [
+          2355,
+          461
+        ],
+        [
+          2355,
+          655
+        ],
+        [
+          280,
+          655
+        ]
+      ],
+      "score": 0.9771662950515747,
+      "y_pos": 461,
+      "text": "Lượng máu không nên cho ra quá nhiều. Đối với người bệnh mà cơ địa dễ chảy máu, thì\ncấm dùng cách chích này. Dùng kim ba cạnh chích máu chỉ thích hợp với loại bệnh nhiệt.\nbệnh viêm a-mi-đan, các bệnh ứ huyết làm sưng đỏ cục bộ.",
+      "confidence": 0.9994992341988426
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0116_007_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          699
+        ],
+        [
+          900,
+          699
+        ],
+        [
+          900,
+          745
+        ],
+        [
+          226,
+          745
+        ]
+      ],
+      "score": 0.9059725999832153,
+      "y_pos": 699,
+      "text": "M. Kim châm da (bì phu châm)",
+      "confidence": 0.921531452735265
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0116_010_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          786
+        ],
+        [
+          1323,
+          786
+        ],
+        [
+          1323,
+          836
+        ],
+        [
+          286,
+          836
+        ]
+      ],
+      "score": 0.574359655380249,
+      "y_pos": 786,
+      "text": "1. Thao tác châm da nói chung có hai phần",
+      "confidence": 0.9596083025599635
+    },
+    {
+      "type": "text",
+      "img_path": "p0116_002_text.png",
+      "bbox": [
+        [
+          285,
+          878
+        ],
+        [
+          2357,
+          878
+        ],
+        [
+          2357,
+          998
+        ],
+        [
+          285,
+          998
+        ]
+      ],
+      "score": 0.9613634943962097,
+      "y_pos": 878,
+      "text": "a. Vùng gõ kim là trên đường kinh bàng quang thuộc khu vực trên lưng. Cũng có thể gõ trên\ncác kinh khác và cuc bô.",
+      "confidence": 0.9954261383512517
+    },
+    {
+      "type": "text",
+      "img_path": "p0116_003_text.png",
+      "bbox": [
+        [
+          284,
+          1041
+        ],
+        [
+          2357,
+          1041
+        ],
+        [
+          2357,
+          1164
+        ],
+        [
+          284,
+          1164
+        ]
+      ],
+      "score": 0.9611638188362122,
+      "y_pos": 1041,
+      "text": "b. Sức gõ là dùng sức của cổ tay, theo thứ tự mà gõ, khoảng cách gõ đều đặn, người bệnh\nthấy hơi đau thì dừng.",
+      "confidence": 0.9974159148246161
+    },
+    {
+      "type": "text",
+      "img_path": "p0116_001_text.png",
+      "bbox": [
+        [
+          279,
+          1200
+        ],
+        [
+          2357,
+          1200
+        ],
+        [
+          2357,
+          1396
+        ],
+        [
+          279,
+          1396
+        ]
+      ],
+      "score": 0.9716249108314514,
+      "y_pos": 1200,
+      "text": "2. Đề phòng sự cố: Không được gõ lúc nặng lúc nhẹ, đề phòng máu ra nhiều. Phép này phù\nhợp với bệnh thần kinh suy nhược, bệnh đường ruột mạn tính, viêm da do thần kinh, bệnh\nthần kinh ngoại biên.",
+      "confidence": 0.9683924627948027
+    },
+    {
+      "type": "footer",
+      "img_path": "p0116_008_footer.png",
+      "bbox": [
+        [
+          231,
+          3335
+        ],
+        [
+          1437,
+          3335
+        ],
+        [
+          1437,
+          3387
+        ],
+        [
+          231,
+          3387
+        ]
+      ],
+      "score": 0.9037017822265625,
+      "y_pos": 3335,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9464619991914281
+    },
+    {
+      "type": "number",
+      "img_path": "p0116_009_number.png",
+      "bbox": [
+        [
+          2300,
+          3339
+        ],
+        [
+          2343,
+          3339
+        ],
+        [
+          2343,
+          3377
+        ],
+        [
+          2300,
+          3377
+        ]
+      ],
+      "score": 0.8408392667770386,
+      "y_pos": 3339,
+      "text": "    \n    \n    \n    \n    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0116.png"
+}

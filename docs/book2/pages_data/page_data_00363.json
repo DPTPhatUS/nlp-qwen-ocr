@@ -1,0 +1,656 @@
+{
+  "page_num": 363,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0363_007_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          195
+        ],
+        [
+          1678,
+          195
+        ]
+      ],
+      "score": 0.9372318983078003,
+      "y_pos": 142,
+      "text": "_______________________________________\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6681458304503134
+    },
+    {
+      "type": "header",
+      "img_path": "p0363_010_header.png",
+      "bbox": [
+        [
+          229,
+          146
+        ],
+        [
+          1096,
+          146
+        ],
+        [
+          1096,
+          197
+        ],
+        [
+          229,
+          197
+        ]
+      ],
+      "score": 0.9224733114242554,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SÀNG",
+      "confidence": 0.9907518233571734
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0363_013_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          308
+        ],
+        [
+          560,
+          308
+        ],
+        [
+          560,
+          354
+        ],
+        [
+          225,
+          354
+        ]
+      ],
+      "score": 0.8994106650352478,
+      "y_pos": 308,
+      "text": "C. Cách chữa",
+      "confidence": 0.8853677766663688
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0363_017_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          395
+        ],
+        [
+          628,
+          395
+        ],
+        [
+          628,
+          449
+        ],
+        [
+          226,
+          449
+        ]
+      ],
+      "score": 0.8200626969337463,
+      "y_pos": 395,
+      "text": "1. Xử lý cấp cứu",
+      "confidence": 0.9929878910382589
+    },
+    {
+      "type": "text",
+      "img_path": "p0363_002_text.png",
+      "bbox": [
+        [
+          222,
+          487
+        ],
+        [
+          2358,
+          487
+        ],
+        [
+          2358,
+          679
+        ],
+        [
+          222,
+          679
+        ]
+      ],
+      "score": 0.9777418971061707,
+      "y_pos": 487,
+      "text": "a. Đặt người bệnh nằm ngửa, để đầu quay sang một bên, nếu lưỡi co vào trong cần lấy kẹp lôi\nra để tránh tắc thở, giữ vòm miệng cho sạch sẽ, phải kịp thời hút đờm. Nếu có răng giả thì tháo\nra.",
+      "confidence": 0.9934040564270218
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0363_024_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          724
+        ],
+        [
+          839,
+          724
+        ],
+        [
+          839,
+          773
+        ],
+        [
+          227,
+          773
+        ]
+      ],
+      "score": 0.6555567979812622,
+      "y_pos": 724,
+      "text": "b. Chữa bằng châm cứu:",
+      "confidence": 0.9148773451646169
+    },
+    {
+      "type": "text",
+      "img_path": "p0363_009_text.png",
+      "bbox": [
+        [
+          222,
+          815
+        ],
+        [
+          1313,
+          815
+        ],
+        [
+          1313,
+          868
+        ],
+        [
+          222,
+          868
+        ]
+      ],
+      "score": 0.9233037829399109,
+      "y_pos": 815,
+      "text": "Lấy huyệt: Nhân trung, Trung xung, Dũng tuyền.",
+      "confidence": 0.994079497953256
+    },
+    {
+      "type": "text",
+      "img_path": "p0363_008_text.png",
+      "bbox": [
+        [
+          223,
+          907
+        ],
+        [
+          1486,
+          907
+        ],
+        [
+          1486,
+          960
+        ],
+        [
+          223,
+          960
+        ]
+      ],
+      "score": 0.9361046552658081,
+      "y_pos": 907,
+      "text": "Phát sốt thì gia <i>Hợp cốc</i>, đờm nhiều thì gia <i>Phong long</i>.",
+      "confidence": 0.9889076010125583
+    },
+    {
+      "type": "text",
+      "img_path": "p0363_005_text.png",
+      "bbox": [
+        [
+          222,
+          997
+        ],
+        [
+          2359,
+          997
+        ],
+        [
+          2359,
+          1121
+        ],
+        [
+          222,
+          1121
+        ]
+      ],
+      "score": 0.9663022756576538,
+      "y_pos": 997,
+      "text": "c. Trong trường hợp thiếu khí như: Hô hấp khác thường, sắc mặt trắng bợt hoặc tím tái, phải\nkịp thời làm hộ hấp nhân tạo, có điều kiện thì cho thở ô-xy.",
+      "confidence": 0.9982081496266908
+    },
+    {
+      "type": "text",
+      "img_path": "p0363_011_text.png",
+      "bbox": [
+        [
+          224,
+          1160
+        ],
+        [
+          2097,
+          1160
+        ],
+        [
+          2097,
+          1212
+        ],
+        [
+          224,
+          1212
+        ]
+      ],
+      "score": 0.9209072589874268,
+      "y_pos": 1160,
+      "text": "d. Quan sát các diễn biến của bênh: Nhịp thở, mạch, huyết áp, sắc mặt, thần chí.",
+      "confidence": 0.994679603634811
+    },
+    {
+      "type": "text",
+      "img_path": "p0363_000_text.png",
+      "bbox": [
+        [
+          222,
+          1250
+        ],
+        [
+          2359,
+          1250
+        ],
+        [
+          2359,
+          1447
+        ],
+        [
+          222,
+          1447
+        ]
+      ],
+      "score": 0.9797704219818115,
+      "y_pos": 1250,
+      "text": "đ. Tăng cường công tác hộ lý: Chú ý giữ ấm cho người bệnh và luôn luôn thay đổi tư thế tay\nchân của người bệnh để tránh mắc thêm chứng viêm phổi và lở loét. Nếu nuốt khó khăn thì cần\nphải cho ăn bằng sông qua đường mũi.",
+      "confidence": 0.9927324641525551
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0363_014_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          1485
+        ],
+        [
+          1215,
+          1485
+        ],
+        [
+          1215,
+          1538
+        ],
+        [
+          224,
+          1538
+        ]
+      ],
+      "score": 0.8972870111465454,
+      "y_pos": 1485,
+      "text": "2. Biện chứng thí trị (điều trị theo chứng)",
+      "confidence": 0.8996436383989123
+    },
+    {
+      "type": "text",
+      "img_path": "p0363_001_text.png",
+      "bbox": [
+        [
+          222,
+          1574
+        ],
+        [
+          2359,
+          1574
+        ],
+        [
+          2359,
+          1768
+        ],
+        [
+          222,
+          1768
+        ]
+      ],
+      "score": 0.9785484075546265,
+      "y_pos": 1574,
+      "text": "Hôn mê phần lớn là thực chứng của nhiệt đàm bế ở trong, cho nên phép chữa phải lấy thanh\nnhiệt, hòa đàm, khai khiếu làm chính. Nếu do chứng bế chuyển sang chứng thoát thì phải trị\ntheo cách cứu thoát.",
+      "confidence": 0.9981876535190354
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0363_022_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1809
+        ],
+        [
+          1098,
+          1809
+        ],
+        [
+          1098,
+          1863
+        ],
+        [
+          225,
+          1863
+        ]
+      ],
+      "score": 0.7215856909751892,
+      "y_pos": 1809,
+      "text": "Thang tễ thường dùng các vị thuốc:",
+      "confidence": 0.9975991066959169
+    },
+    {
+      "type": "text",
+      "img_path": "p0363_015_text.png",
+      "bbox": [
+        [
+          231,
+          1901
+        ],
+        [
+          1007,
+          1901
+        ],
+        [
+          1007,
+          1955
+        ],
+        [
+          231,
+          1955
+        ]
+      ],
+      "score": 0.8700127601623535,
+      "y_pos": 1901,
+      "text": "Thạch xương bồ tươi 3 đồng cân,",
+      "confidence": 0.996744181170608
+    },
+    {
+      "type": "text",
+      "img_path": "p0363_018_text.png",
+      "bbox": [
+        [
+          226,
+          1991
+        ],
+        [
+          1826,
+          1991
+        ],
+        [
+          1826,
+          2048
+        ],
+        [
+          226,
+          2048
+        ]
+      ],
+      "score": 0.819837749004364,
+      "y_pos": 1991,
+      "text": "Quảng uất kim    3 đồng cân,    Chích Viễn chí    1,5 đồng cân,",
+      "confidence": 0.9641287052621826
+    },
+    {
+      "type": "text",
+      "img_path": "p0363_020_text.png",
+      "bbox": [
+        [
+          226,
+          2085
+        ],
+        [
+          1785,
+          2085
+        ],
+        [
+          1785,
+          2140
+        ],
+        [
+          226,
+          2140
+        ]
+      ],
+      "score": 0.8070031404495239,
+      "y_pos": 2085,
+      "text": "Liên kiều tâm    3 đồng cân,    Liên tử tâm    1 đồng cân,",
+      "confidence": 0.9631041801128633
+    },
+    {
+      "type": "text",
+      "img_path": "p0363_016_text.png",
+      "bbox": [
+        [
+          230,
+          2176
+        ],
+        [
+          1006,
+          2176
+        ],
+        [
+          1006,
+          2230
+        ],
+        [
+          230,
+          2230
+        ]
+      ],
+      "score": 0.826209306716919,
+      "y_pos": 2176,
+      "text": "Thiên trúc hoàng    3 đồng cân.",
+      "confidence": 0.974792758623759
+    },
+    {
+      "type": "text",
+      "img_path": "p0363_004_text.png",
+      "bbox": [
+        [
+          223,
+          2267
+        ],
+        [
+          2364,
+          2267
+        ],
+        [
+          2364,
+          2393
+        ],
+        [
+          223,
+          2393
+        ]
+      ],
+      "score": 0.9677908420562744,
+      "y_pos": 2267,
+      "text": "- Nếu đàm thịnh, hôn mê bất tỉnh, rêu lưỡi đục mà nhầy, gia <i>Trần đảm tinh</i> 1,5 đồng cân; <i>Trúc</i>\n<i>lịch bán hạ</i> 3 đồng cân.",
+      "confidence": 0.9906106889360526
+    },
+    {
+      "type": "text",
+      "img_path": "p0363_023_text.png",
+      "bbox": [
+        [
+          225,
+          2430
+        ],
+        [
+          2359,
+          2430
+        ],
+        [
+          2359,
+          2486
+        ],
+        [
+          225,
+          2486
+        ]
+      ],
+      "score": 0.6707590222358704,
+      "y_pos": 2430,
+      "text": "- Nhiệt thịnh cao nhiễu, vật vã, nói nhảm, gia <i>Hoàng liên</i> 1,5 đồng cân; <i>Hắc sơn chi</i> 3 đồng cân.",
+      "confidence": 0.9953791918140826
+    },
+    {
+      "type": "text",
+      "img_path": "p0363_021_text.png",
+      "bbox": [
+        [
+          224,
+          2522
+        ],
+        [
+          2361,
+          2522
+        ],
+        [
+          2361,
+          2648
+        ],
+        [
+          224,
+          2648
+        ]
+      ],
+      "score": 0.7564215660095215,
+      "y_pos": 2522,
+      "text": "- Phủ thực, bụng trướng đau, bí ỉa, nói nhảm, rêu lưỡi vàng xác và khô, gia Đại hoàng 4 đồng\ncân hậu hạ (cho vào sau), <i>Mang tiêu</i> 3 đồng cân, lúc uống mới đổ vào.",
+      "confidence": 0.9976769285474686
+    },
+    {
+      "type": "text",
+      "img_path": "p0363_006_text.png",
+      "bbox": [
+        [
+          221,
+          2683
+        ],
+        [
+          2360,
+          2683
+        ],
+        [
+          2360,
+          2807
+        ],
+        [
+          221,
+          2807
+        ]
+      ],
+      "score": 0.9654693603515625,
+      "y_pos": 2683,
+      "text": "Đồng thời phải phối hợp với thuốc đã chế sẵn để cấp cứu, phân biệt các chứng khác nhau để\nchon dùng thuốc.",
+      "confidence": 0.9943008152847617
+    },
+    {
+      "type": "text",
+      "img_path": "p0363_003_text.png",
+      "bbox": [
+        [
+          222,
+          2847
+        ],
+        [
+          2361,
+          2847
+        ],
+        [
+          2361,
+          3042
+        ],
+        [
+          222,
+          3042
+        ]
+      ],
+      "score": 0.9726583361625671,
+      "y_pos": 2847,
+      "text": "a. Nhiệt bế: Tình chí không rõ ràng, kèm sốt cao, múa may, nói nhảm, mặt đỏ, hơi thở thô,\nhoặc có kinh quyết (cứng đơ), chất lưỡi đỏ tía, rêu lưỡi vàng hoặc đen xác, mạch hồng xác\n(nhanh mà rất to).",
+      "confidence": 0.9258428796743736
+    },
+    {
+      "type": "number",
+      "img_path": "p0363_019_number.png",
+      "bbox": [
+        [
+          2332,
+          3335
+        ],
+        [
+          2357,
+          3335
+        ],
+        [
+          2357,
+          3369
+        ],
+        [
+          2332,
+          3369
+        ]
+      ],
+      "score": 0.8110395669937134,
+      "y_pos": 3335,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0363_012_footer.png",
+      "bbox": [
+        [
+          228,
+          3336
+        ],
+        [
+          1343,
+          3336
+        ],
+        [
+          1343,
+          3383
+        ],
+        [
+          228,
+          3383
+        ]
+      ],
+      "score": 0.9066571593284607,
+      "y_pos": 3336,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9415562085385593
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0363.png"
+}

@@ -1,0 +1,344 @@
+{
+  "page_num": 667,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0667_007_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2370,
+          143
+        ],
+        [
+          2370,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9162601232528687,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7452945528285844
+    },
+    {
+      "type": "header",
+      "img_path": "p0667_008_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1172,
+          152
+        ],
+        [
+          1172,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9106075763702393,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BÁNG NHIỆT ĐÔ KINH LẠC",
+      "confidence": 0.9933017049080286
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0667_010_paragraph_title.png",
+      "bbox": [
+        [
+          221,
+          324
+        ],
+        [
+          2358,
+          324
+        ],
+        [
+          2358,
+          450
+        ],
+        [
+          221,
+          450
+        ]
+      ],
+      "score": 0.8827657103538513,
+      "y_pos": 324,
+      "text": "NHỮNG NHẬN ĐỊNH CHỦ ĐẠO TRONG VIỆC PHÂN TÍCH DIỄN GIẢI CÁC CHỈ SỐ NHIỆT\nKINH LAC",
+      "confidence": 0.8859320809988126
+    },
+    {
+      "type": "text",
+      "img_path": "p0667_003_text.png",
+      "bbox": [
+        [
+          221,
+          490
+        ],
+        [
+          2361,
+          490
+        ],
+        [
+          2361,
+          829
+        ],
+        [
+          221,
+          829
+        ]
+      ],
+      "score": 0.9813449382781982,
+      "y_pos": 490,
+      "text": "Trải qua nhiều năm miệt mài thực hành lâm sàng phép chẩn bệnh bằng nhiệt độ kinh lạc, đọc\nvà phân tích diễn giải các bảng chỉ số nhiệt kinh lạc để đưa ra nhận định chẩn đoán, tôi đúc kết\nđược những nhận định mang tính chủ đạo để hướng đến chẩn đoán xác định. Như đã trình bày\ntrong các phần trước, mọi nhận định đều dựa trên chỉ số nhiệt quan trọng nhất: Số tương quan,\nnhững nhận định chủ đạo này cũng vậy; dựa vào <b>số tương quan</b> của kinh.",
+      "confidence": 0.9986926280269455
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0667_011_paragraph_title.png",
+      "bbox": [
+        [
+          223,
+          866
+        ],
+        [
+          2118,
+          866
+        ],
+        [
+          2118,
+          919
+        ],
+        [
+          223,
+          919
+        ]
+      ],
+      "score": 0.8772521615028381,
+      "y_pos": 866,
+      "text": "A. Chú ý số tương quan của kinh Đảm: Nhận định vai trò, ảnh hưởng của Đảm",
+      "confidence": 0.9990489021937052
+    },
+    {
+      "type": "text",
+      "img_path": "p0667_002_text.png",
+      "bbox": [
+        [
+          220,
+          957
+        ],
+        [
+          2359,
+          957
+        ],
+        [
+          2359,
+          1294
+        ],
+        [
+          220,
+          1294
+        ]
+      ],
+      "score": 0.9819153547286987,
+      "y_pos": 957,
+      "text": "Trong lý luận của Tạng phủ biện chứng luận trị cổ truyền cho rằng chứng của Đảm thường là\nĐảm nhiệt và còn nói bệnh ở Can thường ảnh hưởng đến Đảm do Can và Đảm có quan hệ\nbiểu lý, lại ở sát nhau, cho nên khi chữa bệnh thường phải chữa cả hai một lúc. Nhưng ở đây,\ntôi nhấn mạnh và coi trọng vai trò ảnh hưởng của Đảm trong mọi trạng thái, mức độ biến hóa\ncủa âm dương trong cơ thể con người. Nhận định của tôi dựa trên ba lẽ:",
+      "confidence": 0.9995729587969748
+    },
+    {
+      "type": "text",
+      "img_path": "p0667_000_text.png",
+      "bbox": [
+        [
+          296,
+          1332
+        ],
+        [
+          2361,
+          1332
+        ],
+        [
+          2361,
+          1883
+        ],
+        [
+          296,
+          1883
+        ]
+      ],
+      "score": 0.9858019948005676,
+      "y_pos": 1332,
+      "text": "\n    Trong Tạng phủ biện chứng luận trị cổ truyền không có nói về Đảm hàn, nhưng trong\n\ncác tài liệu rải rác đều có nhận định rằng hàn thì ngưng, hàn thì thống, bất thông tắc\nthống. Đảm hàn thì khí trệ, khí trệ thì huyết ứ. Do đó khi đọc các chỉ số nhiệt và quan sát\ntriệu chứng ở người bệnh, tôi nhận thấy tính hệ thống trong những lý luận nằm rải rắc\nnày, có gắn với Đảm hàn mà mô hình chỉ số nhiệt kinh lạc là: Đảm (-BL), nghĩa là Đảm\nhàn bệnh lý (số tương quan của kinh Đảm có giá trị tuyệt đối lớn hơn sai số giới hạn và\nmang dấu -). Mô hình chỉ số nhiệt kinh lạc này có thể thấy được ở mọi loại bệnh hàn\nchứng, thấp chứng.",
+      "confidence": 0.997288630566186
+    },
+    {
+      "type": "text",
+      "img_path": "p0667_004_text.png",
+      "bbox": [
+        [
+          299,
+          1919
+        ],
+        [
+          2361,
+          1919
+        ],
+        [
+          2361,
+          2111
+        ],
+        [
+          299,
+          2111
+        ]
+      ],
+      "score": 0.9676998853683472,
+      "y_pos": 1919,
+      "text": "\n    Quan sát những biểu hiện ở người bệnh thuộc hai nhóm bệnh chứng khác nhau là Thận\n\ndương hư và Thận âm hư tôi nhận thấy chỉ số nhiệt có những biểu hiện tương ứng như\nsau:",
+      "confidence": 0.9897814823941508
+    },
+    {
+      "type": "text",
+      "img_path": "p0667_005_text.png",
+      "bbox": [
+        [
+          363,
+          2154
+        ],
+        [
+          2359,
+          2154
+        ],
+        [
+          2359,
+          2348
+        ],
+        [
+          363,
+          2348
+        ]
+      ],
+      "score": 0.9643617868423462,
+      "y_pos": 2154,
+      "text": "+ Ở Thận dương hư (mình hàn, chi lạnh, phân lỏng nhão, di tinh, liệt dương, tứ chi vô\nlực, trí nhớ giảm sút) có mô hình chỉ số nhiệt kinh lạc cơ bản là: Thận (+), Đảm (-BL),\nnghĩa là Thận nhiệt, Đảm hàn bệnh lý.",
+      "confidence": 0.9994915553636176
+    },
+    {
+      "type": "text",
+      "img_path": "p0667_006_text.png",
+      "bbox": [
+        [
+          368,
+          2385
+        ],
+        [
+          2361,
+          2385
+        ],
+        [
+          2361,
+          2582
+        ],
+        [
+          368,
+          2582
+        ]
+      ],
+      "score": 0.9604657292366028,
+      "y_pos": 2385,
+      "text": "+ Ở Thận âm hư (mình gầy, da nóng, sốt về chiều, tình dục cang tiến, ít ngủ) có mô hình\nchỉ số nhiệt kinh lạc cơ bản là: Thận (+), Đảm (+BL), nghĩa là Thận nhiệt, Đảm nhiệt\nbệnh lý.",
+      "confidence": 0.9981885953025736
+    },
+    {
+      "type": "text",
+      "img_path": "p0667_001_text.png",
+      "bbox": [
+        [
+          298,
+          2619
+        ],
+        [
+          2361,
+          2619
+        ],
+        [
+          2361,
+          3173
+        ],
+        [
+          298,
+          3173
+        ]
+      ],
+      "score": 0.9832792282104492,
+      "y_pos": 2619,
+      "text": "\n    Quan sát hệ thống huyệt vùng lưng trên thuộc Kinh Bàng quang, ở đường trong là Bốn\n\ndu, đường này chỉ về tác dụng của huyệt đối với tạng phủ bên trong tương ứng như:\nPhế du, Quyết âm du, Tâm du, Can du, Đảm du, Tỳ du, Vị du... và đường ngoài cùng\nkhe liên sườn chỉ về tác dụng của huyệt đối với ảnh hưởng của bệnh biến ở tạng phủ đó\nđã vượt ra ngoài phạm vi nội bộ mà sang các tạng phủ khác hoặc biểu hiện ở các công\nnăng khác như: phía ngoài <i>Phế du</i> là <i>Phách hộ</i> (cửa ngõ của vía) chỉ về tác dụng đối với\nbệnh của Phế đã biểu hiện ra ở dáng vẻ bên ngoài Quyết âm du là Cao hoang du (đáp\nứng yêu cầu của vùng Cao hoang ở khoảng trống dưới tim) chỉ về tác dụng đối với bệnh",
+      "confidence": 0.9973193969721798
+    },
+    {
+      "type": "number",
+      "img_path": "p0667_012_number.png",
+      "bbox": [
+        [
+          2304,
+          3336
+        ],
+        [
+          2354,
+          3336
+        ],
+        [
+          2354,
+          3373
+        ],
+        [
+          2304,
+          3373
+        ]
+      ],
+      "score": 0.8499962687492371,
+      "y_pos": 3336,
+      "text": "    \n            \n        \n\n    \n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0667_009_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1324,
+          3340
+        ],
+        [
+          1324,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.8916863799095154,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9988329028183559
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0667.png"
+}

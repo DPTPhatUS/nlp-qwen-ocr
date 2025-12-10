@@ -1,0 +1,448 @@
+{
+  "page_num": 53,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0053_010_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9249494671821594,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7254179112967991
+    },
+    {
+      "type": "header",
+      "img_path": "p0053_015_header.png",
+      "bbox": [
+        [
+          231,
+          155
+        ],
+        [
+          427,
+          155
+        ],
+        [
+          427,
+          199
+        ],
+        [
+          231,
+          199
+        ]
+      ],
+      "score": 0.8971219658851624,
+      "y_pos": 155,
+      "text": "    - 4\nА    N",
+      "confidence": 0.5859711915254593
+    },
+    {
+      "type": "text",
+      "img_path": "p0053_009_text.png",
+      "bbox": [
+        [
+          280,
+          302
+        ],
+        [
+          2358,
+          302
+        ],
+        [
+          2358,
+          421
+        ],
+        [
+          280,
+          421
+        ]
+      ],
+      "score": 0.9648497104644775,
+      "y_pos": 302,
+      "text": "nó có liên quan tới nội tại của bệnh tật, và sơ bộ đã rút ra một số quy luật, khái quát làm mẩy\nđiểm để cùng tham khảo.",
+      "confidence": 0.9991112774794864
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0053_011_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          456
+        ],
+        [
+          1502,
+          456
+        ],
+        [
+          1502,
+          508
+        ],
+        [
+          285,
+          508
+        ]
+      ],
+      "score": 0.9183500409126282,
+      "y_pos": 456,
+      "text": "a. Những nhân tố làm thay đổi thể và chất cái lưỡi",
+      "confidence": 0.9991080531707177
+    },
+    {
+      "type": "text",
+      "img_path": "p0053_003_text.png",
+      "bbox": [
+        [
+          341,
+          543
+        ],
+        [
+          2359,
+          543
+        ],
+        [
+          2359,
+          797
+        ],
+        [
+          341,
+          797
+        ]
+      ],
+      "score": 0.9793989658355713,
+      "y_pos": 543,
+      "text": "- Màu sắc của chất lưỡi biến hóa và hình thái tuần hoàn máu ở lưỡi có quan hệ mật\nthiết. Khi thiếu máu và phù nề ở các tổ chức thì sắc lưỡi biến thành nhạt. Khi sung\nhuyết hoặc huyết quản tăng sinh thì sắc lưỡi đậm thêm. Xuất huyết hoặc thiếu ôxy đến\nmức tăng hoàn nguyên hồng cầu non thì sắc lưỡi xanh tím.",
+      "confidence": 0.9992349670332435
+    },
+    {
+      "type": "text",
+      "img_path": "p0053_006_text.png",
+      "bbox": [
+        [
+          342,
+          830
+        ],
+        [
+          2358,
+          830
+        ],
+        [
+          2358,
+          1018
+        ],
+        [
+          342,
+          1018
+        ]
+      ],
+      "score": 0.9739325046539307,
+      "y_pos": 830,
+      "text": "- Chất lưỡi phì nộn chủ yếu là do dưỡng trấp giảm, phù nề ở tổ chức lưỡi tạo thành. Nếu\ndo phù nề hoặc giảm trương lực cơ thì lưỡi to ra hoặc mềm nhẽo, ép vào lợi thì thành\nngấn răng.",
+      "confidence": 0.9987200114874842
+    },
+    {
+      "type": "text",
+      "img_path": "p0053_001_text.png",
+      "bbox": [
+        [
+          342,
+          1053
+        ],
+        [
+          2358,
+          1053
+        ],
+        [
+          2358,
+          1300
+        ],
+        [
+          342,
+          1300
+        ]
+      ],
+      "score": 0.9796816110610962,
+      "y_pos": 1053,
+      "text": "- Chất lưỡi khô là do bài tiết nước bọt giảm, hoặc có kèm theo lượng nước trong nước\nbọt giảm gây ra. Người bệnh âm hư thường có cường giao cảm, thần kinh phó giao\ncảm bị ức chế làm thay đổi chất và lượng của việc bài tiết nước bọt, làm cho chất lưỡi\nkhô.",
+      "confidence": 0.9958260585788252
+    },
+    {
+      "type": "text",
+      "img_path": "p0053_008_text.png",
+      "bbox": [
+        [
+          345,
+          1338
+        ],
+        [
+          2358,
+          1338
+        ],
+        [
+          2358,
+          1524
+        ],
+        [
+          345,
+          1524
+        ]
+      ],
+      "score": 0.9729599952697754,
+      "y_pos": 1338,
+      "text": "- Rãnh nứt trên lưỡi xuất hiện là do nhũ đầu của lưỡi dung hợp tạo thành lỗ rãnh. Có ng-\nười cho rằng nó có quan hệ với việc niêm mạc lưỡi co rút. Mặt lưỡi sáng bóng là do\nniêm mac trên da lưỡi co rút tao thành. '",
+      "confidence": 0.9982600130369056
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0053_012_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          1562
+        ],
+        [
+          1076,
+          1562
+        ],
+        [
+          1076,
+          1607
+        ],
+        [
+          286,
+          1607
+        ]
+      ],
+      "score": 0.9125086665153503,
+      "y_pos": 1562,
+      "text": "b. Nhân tố của biến hoá rêu lưỡi",
+      "confidence": 0.9979347972308888
+    },
+    {
+      "type": "text",
+      "img_path": "p0053_005_text.png",
+      "bbox": [
+        [
+          344,
+          1647
+        ],
+        [
+          2357,
+          1647
+        ],
+        [
+          2357,
+          1831
+        ],
+        [
+          344,
+          1831
+        ]
+      ],
+      "score": 0.9741199016571045,
+      "y_pos": 1647,
+      "text": "- Rêu lưỡi bình thường là do sừng hóa chỏm chót của nhũ đầu và trong lỗ rỗng không\nngừng làm rơi sừng hóa da, ti khuẩn, bột nhỏ của đồ ăn, tế bào thấm xuất cùng với n-\nước bot cấu thành.",
+      "confidence": 0.9979129904880432
+    },
+    {
+      "type": "text",
+      "img_path": "p0053_004_text.png",
+      "bbox": [
+        [
+          342,
+          1869
+        ],
+        [
+          2357,
+          1869
+        ],
+        [
+          2357,
+          2052
+        ],
+        [
+          342,
+          2052
+        ]
+      ],
+      "score": 0.9750317931175232,
+      "y_pos": 1869,
+      "text": "- Rêu lưỡi biến dày là do sau khi bị bệnh, kém ăn, hoạt động của lưỡi giảm bớt ma sát,\nhoặc do phát sốt, mất nước, phân bố nước bọt kém, ảnh hưởng đến tác dụng làm sạch\ncủa lưỡi đưa đến mớ nhũ đầu dài ra.",
+      "confidence": 0.99938619913496
+    },
+    {
+      "type": "text",
+      "img_path": "p0053_007_text.png",
+      "bbox": [
+        [
+          341,
+          2088
+        ],
+        [
+          2359,
+          2088
+        ],
+        [
+          2359,
+          2275
+        ],
+        [
+          341,
+          2275
+        ]
+      ],
+      "score": 0.9729622602462769,
+      "y_pos": 2088,
+      "text": "- Rêu lưỡi từ trắng biến sang vàng là do mớ nhũ đầu tăng sinh, sừng hóa tăng mạnh, tế\nbào ẩm ướt, huyết quản giãn to và. chứa lượng khuẩn nhiều gây nên. Nó có quan hệ\nlớn với chứng viêm nhiễm, phát sốt và công năng tiêu hóa rối loạn.",
+      "confidence": 0.9981631344344919
+    },
+    {
+      "type": "text",
+      "img_path": "p0053_000_text.png",
+      "bbox": [
+        [
+          343,
+          2309
+        ],
+        [
+          2359,
+          2309
+        ],
+        [
+          2359,
+          2629
+        ],
+        [
+          343,
+          2629
+        ]
+      ],
+      "score": 0.9826516509056091,
+      "y_pos": 2309,
+      "text": "- Sắc rêu lưỡi biến thành đen là bởi mớ nhú đầu trắng sinh quá nhiều, làm xuất hiện sắc\nđen trong tế bào sừng hóa và sắc đen độc tố của khuẩn tăng thêm gây nên. Bệnh lý lúc\nnày đã lan sang tầng dưới của niêm mạc. Sốt cao mất nước, viêm nhiễm, chất độc kích\nthích, công năng dạ dày và ruột rối loạn, nhiễm độc khuẩn dùng thuốc kháng sinh diện\nrộng kéo dài đều có quan hệ mật thiết với việc sinh ra rêu lưỡi đen.",
+      "confidence": 0.9996261797994583
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0053_013_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          2669
+        ],
+        [
+          1401,
+          2669
+        ],
+        [
+          1401,
+          2720
+        ],
+        [
+          284,
+          2720
+        ]
+      ],
+      "score": 0.9112426042556763,
+      "y_pos": 2669,
+      "text": "c. Chất lưỡi biến hóa và quan hệ của bệnh tật.",
+      "confidence": 0.9980296144882838
+    },
+    {
+      "type": "text",
+      "img_path": "p0053_002_text.png",
+      "bbox": [
+        [
+          343,
+          2763
+        ],
+        [
+          2358,
+          2763
+        ],
+        [
+          2358,
+          3045
+        ],
+        [
+          343,
+          3045
+        ]
+      ],
+      "score": 0.9795442223548889,
+      "y_pos": 2763,
+      "text": "- Biến hóa của hình tượng cái lưỡi đều phản ánh sự nặng nhẹ và tiến triển của bệnh\ntình. Chất lưỡi hồng nhạt, rêu lưỡi trắng mỏng hoặc vàng mỏng, ẩm hay hơi nhẫy, đều\nthuộc bệnh tình rất nhẹ. Chất lưỡi hồng sẫm, tím chàm, rêu lưỡi vàng dày, sạm đen,\nliềm nhẽo, khô khan, rất khô hoặc sáng sủa không rêu đều thuộc bệnh tình rất nặng.",
+      "confidence": 0.9985033520776518
+    },
+    {
+      "type": "footer",
+      "img_path": "p0053_014_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9029311537742615,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985454925950968
+    },
+    {
+      "type": "number",
+      "img_path": "p0053_016_number.png",
+      "bbox": [
+        [
+          2307,
+          3337
+        ],
+        [
+          2355,
+          3337
+        ],
+        [
+          2355,
+          3374
+        ],
+        [
+          2307,
+          3374
+        ]
+      ],
+      "score": 0.855579137802124,
+      "y_pos": 3337,
+      "text": "    \n\n    \n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0053.png"
+}

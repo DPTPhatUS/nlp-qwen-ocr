@@ -1,0 +1,264 @@
+{
+  "page_num": 87,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0087_004_header.png",
+      "bbox": [
+        [
+          1606,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          202
+        ],
+        [
+          1606,
+          202
+        ]
+      ],
+      "score": 0.9199596643447876,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7400914178717704
+    },
+    {
+      "type": "header",
+      "img_path": "p0087_007_header.png",
+      "bbox": [
+        [
+          230,
+          160
+        ],
+        [
+          442,
+          160
+        ],
+        [
+          442,
+          202
+        ],
+        [
+          230,
+          202
+        ]
+      ],
+      "score": 0.8958054780960083,
+      "y_pos": 160,
+      "text": "KINH LAC",
+      "confidence": 0.7318128407001495
+    },
+    {
+      "type": "text",
+      "img_path": "p0087_003_text.png",
+      "bbox": [
+        [
+          282,
+          312
+        ],
+        [
+          2356,
+          312
+        ],
+        [
+          2356,
+          440
+        ],
+        [
+          282,
+          440
+        ]
+      ],
+      "score": 0.9596458673477173,
+      "y_pos": 312,
+      "text": "b. Quan hệ tạng phủ: Kinh này đi từ chân lên đến ngực, thuộc thận, đường lạc sạng bàng\nquang. Có thêm quan hệ trực tiếp với can, phế, tâm.",
+      "confidence": 0.9908331009762211
+    },
+    {
+      "type": "text",
+      "img_path": "p0087_001_text.png",
+      "bbox": [
+        [
+          286,
+          480
+        ],
+        [
+          2357,
+          480
+        ],
+        [
+          2357,
+          687
+        ],
+        [
+          286,
+          687
+        ]
+      ],
+      "score": 0.9724035859107971,
+      "y_pos": 480,
+      "text": "c. Chủ trị: Đái dầm, đái són, di tinh, liệt dương, kinh nguyệt không đều, ho ra máu, hen, lưỡi\nkhô, hầu họng sưng đau, đau lưng, phù thũng, xương sống và phía sau cạnh trong đùi\nđau, mệt mỏi không có sức, lòng bàn tay nóng.",
+      "confidence": 0.9985793995086264
+    },
+    {
+      "type": "image",
+      "img_path": "p0087_000_image.png",
+      "bbox": [
+        [
+          783,
+          738
+        ],
+        [
+          1905,
+          738
+        ],
+        [
+          1905,
+          2610
+        ],
+        [
+          783,
+          2610
+        ]
+      ],
+      "score": 0.9806143045425415,
+      "y_pos": 738
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0087_005_figure_title.png",
+      "bbox": [
+        [
+          779,
+          2716
+        ],
+        [
+          1920,
+          2716
+        ],
+        [
+          1920,
+          2765
+        ],
+        [
+          779,
+          2765
+        ]
+      ],
+      "score": 0.9040577411651611,
+      "y_pos": 2716,
+      "text": "Hình 15. Đường tuần hành của kinh Túc thiếu âm thận",
+      "confidence": 0.9379626310096597
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0087_009_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          2804
+        ],
+        [
+          1158,
+          2804
+        ],
+        [
+          1158,
+          2859
+        ],
+        [
+          283,
+          2859
+        ]
+      ],
+      "score": 0.7890570759773254,
+      "y_pos": 2804,
+      "text": "9. Thủ quyết âm tâm bào kinh (H.16)",
+      "confidence": 0.9567041993141174
+    },
+    {
+      "type": "text",
+      "img_path": "p0087_002_text.png",
+      "bbox": [
+        [
+          285,
+          2897
+        ],
+        [
+          2357,
+          2897
+        ],
+        [
+          2357,
+          3106
+        ],
+        [
+          285,
+          3106
+        ]
+      ],
+      "score": 0.9711319804191589,
+      "y_pos": 2897,
+      "text": "a. Cấu trúc: Gồm 9 huyệt, cả hai bên là 18 huyệt. Kinh mạch tuần hành bắt đầu từ trong\nngực ra, lại vào tới tâm bào lạc, hướng xuống, qua cơ hoành xuống bụng, liên quan đến\nthượng tiêu, trung tiêu, hạ tiêu.",
+      "confidence": 0.9990253957744653
+    },
+    {
+      "type": "footer",
+      "img_path": "p0087_006_footer.png",
+      "bbox": [
+        [
+          227,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.9007980823516846,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.952197735039693
+    },
+    {
+      "type": "number",
+      "img_path": "p0087_008_number.png",
+      "bbox": [
+        [
+          2335,
+          3338
+        ],
+        [
+          2383,
+          3338
+        ],
+        [
+          2383,
+          3374
+        ],
+        [
+          2335,
+          3374
+        ]
+      ],
+      "score": 0.8566697835922241,
+      "y_pos": 3338,
+      "text": "\n\n_\n\n\n\n\n    \n\n\n\n\n۰.\n\n\n\n",
+      "confidence": 0.9555667597386572
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0087.png"
+}

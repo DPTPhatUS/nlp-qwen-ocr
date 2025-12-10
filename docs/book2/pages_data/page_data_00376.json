@@ -1,0 +1,396 @@
+{
+  "page_num": 376,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0376_006_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1678,
+          196
+        ]
+      ],
+      "score": 0.9222143888473511,
+      "y_pos": 142,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7456070706248283
+    },
+    {
+      "type": "header",
+      "img_path": "p0376_008_header.png",
+      "bbox": [
+        [
+          228,
+          146
+        ],
+        [
+          1095,
+          146
+        ],
+        [
+          1095,
+          197
+        ],
+        [
+          228,
+          197
+        ]
+      ],
+      "score": 0.9069591760635376,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SÁNG",
+      "confidence": 0.7286194511822291
+    },
+    {
+      "type": "text",
+      "img_path": "p0376_011_text.png",
+      "bbox": [
+        [
+          225,
+          303
+        ],
+        [
+          1816,
+          303
+        ],
+        [
+          1816,
+          359
+        ],
+        [
+          225,
+          359
+        ]
+      ],
+      "score": 0.9012351036071777,
+      "y_pos": 303,
+      "text": "Nước ngó sen tươi, uống lượng nhiều chữa thổ huyết, khái huyết.",
+      "confidence": 0.9980152661983783
+    },
+    {
+      "type": "text",
+      "img_path": "p0376_004_text.png",
+      "bbox": [
+        [
+          223,
+          393
+        ],
+        [
+          2360,
+          393
+        ],
+        [
+          2360,
+          517
+        ],
+        [
+          223,
+          517
+        ]
+      ],
+      "score": 0.9648730158805847,
+      "y_pos": 393,
+      "text": "- Rễ cây Mã đầu lan, giã lấy nước, mỗi lần uống nửa bát, đổ nước sôi vào uống, chữa chảy\nmáu mũi.",
+      "confidence": 0.9161876635418997
+    },
+    {
+      "type": "text",
+      "img_path": "p0376_002_text.png",
+      "bbox": [
+        [
+          222,
+          559
+        ],
+        [
+          2360,
+          559
+        ],
+        [
+          2360,
+          753
+        ],
+        [
+          222,
+          753
+        ]
+      ],
+      "score": 0.9776424169540405,
+      "y_pos": 559,
+      "text": "- Đậu tằm tươi lấy vỏ hoặc cành lá từ 3 đến 4 lạng (khô thì dùng 1 đến 2 lạng), sắc đặc lấy\nmột bát, hoặc lấy cành, lá, hoa <i>đậu tằm trắng</i> giã nát, lấy một chén nước đổ cho uống ngày 2\nlần, để chữa khái huyết, thổ huyết, ỉa ra máu.",
+      "confidence": 0.9964201857168434
+    },
+    {
+      "type": "text",
+      "img_path": "p0376_003_text.png",
+      "bbox": [
+        [
+          222,
+          792
+        ],
+        [
+          2360,
+          792
+        ],
+        [
+          2360,
+          915
+        ],
+        [
+          222,
+          915
+        ]
+      ],
+      "score": 0.9665414094924927,
+      "y_pos": 792,
+      "text": "- Hạn liên thảo (cỏ nhọ nồi) 8 đồng cân, Xa tiền thảo (cỏ mã đề) 1 lạng (tươi thì gấp đôi), sắc\nuống <b>tri đái ra máu.</b>",
+      "confidence": 0.9766282995977148
+    },
+    {
+      "type": "text",
+      "img_path": "p0376_007_text.png",
+      "bbox": [
+        [
+          224,
+          955
+        ],
+        [
+          2151,
+          955
+        ],
+        [
+          2151,
+          1008
+        ],
+        [
+          224,
+          1008
+        ]
+      ],
+      "score": 0.9138343334197998,
+      "y_pos": 955,
+      "text": "<i>Tử châu thảo</i> 1 đến 2 lang, sắc uống, <b>tri họ ra máu, chảy máu mũi, và ỉa ra máu</b>.",
+      "confidence": 0.990114756191478
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0376_013_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          1046
+        ],
+        [
+          1118,
+          1046
+        ],
+        [
+          1118,
+          1099
+        ],
+        [
+          224,
+          1099
+        ]
+      ],
+      "score": 0.8854702711105347,
+      "y_pos": 1046,
+      "text": "D. Phụ: Xuất huyết dưới da (tử điến)",
+      "confidence": 0.9956689633821186
+    },
+    {
+      "type": "text",
+      "img_path": "p0376_001_text.png",
+      "bbox": [
+        [
+          220,
+          1137
+        ],
+        [
+          2359,
+          1137
+        ],
+        [
+          2359,
+          1550
+        ],
+        [
+          220,
+          1550
+        ]
+      ],
+      "score": 0.9859046339988708,
+      "y_pos": 1137,
+      "text": "Điểm xuất huyết hoặc quầng xuất huyết dưới da và niêm mạc đều gọi là tử điến (quầng tím).\nBệnh này chủ yếu bao gồm quầng tím do giảm tiểu cầu và quầng tím do dị ứng. Trước kia, trên\nlâm sàng chia làm hai loại: Nguyên phát và thứ phát. Thứ phát là do các bệnh truyền nhiễm,\nthiếu máu dẫn đến. Những đặc điểm giúp chuẩn đoán phân biệt giữa quầng tím do giảm tiểu\ncầu nguyên phát và quầng tím do dị ứng được trình bày ở bảng 26. (Đến khi chữa bệnh, có thể\ntham khảo biện chứng thí trị ở huyết chứng để tiến hành xử lý).",
+      "confidence": 0.999548888665927
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0376_009_figure_title.png",
+      "bbox": [
+        [
+          721,
+          1584
+        ],
+        [
+          1866,
+          1584
+        ],
+        [
+          1866,
+          1637
+        ],
+        [
+          721,
+          1637
+        ]
+      ],
+      "score": 0.9061824679374695,
+      "y_pos": 1584,
+      "text": "Bảng 26 - Phân biệt chẩn đoán xuất huyết dưới da",
+      "confidence": 0.9966569578647614
+    },
+    {
+      "type": "table",
+      "img_path": "p0376_000_table.png",
+      "bbox": [
+        [
+          229,
+          1689
+        ],
+        [
+          2362,
+          1689
+        ],
+        [
+          2362,
+          2427
+        ],
+        [
+          229,
+          2427
+        ]
+      ],
+      "score": 0.9897819757461548,
+      "y_pos": 1689,
+      "text": "Tên bệnh\nTiểu cầu nguyên phát giảm    Dị ứng\nChứng trạng\nvà kiểm tra\nVùng xuất huyết    Thường thấy ở da, kết mạc, nội Thường thấy ở mặt duỗi của tứ\ntạng.    chi.\nHình thái của quầng tím    Thường thấy xuất huyết dạng điểm, kèm theo có nốt sần rõ rệt.\nĐiểm thũng huyết, ban ứ.\nXét nghiệm kiểm tra    Tiểu cầu giảm, thời gian máu chảy    Số lượng tiểu cầu và thời gian máu đông đều bình thường.\nmáu đông kéo dài.",
+      "confidence": 0.9599187504758859
+    },
+    {
+      "type": "text",
+      "img_path": "p0376_005_text.png",
+      "bbox": [
+        [
+          221,
+          2463
+        ],
+        [
+          2361,
+          2463
+        ],
+        [
+          2361,
+          2590
+        ],
+        [
+          221,
+          2590
+        ]
+      ],
+      "score": 0.9544639587402344,
+      "y_pos": 2463,
+      "text": "Chứng quầng tím do giảm tiểu cầu có thể dùng liệu pháp chôn chỉ để chữa, hiện nay quan sát\ntrên lâm sàng thấy có kết quả nhất định.",
+      "confidence": 0.9985031379274947
+    },
+    {
+      "type": "text",
+      "img_path": "p0376_012_text.png",
+      "bbox": [
+        [
+          222,
+          2627
+        ],
+        [
+          1303,
+          2627
+        ],
+        [
+          1303,
+          2681
+        ],
+        [
+          222,
+          2681
+        ]
+      ],
+      "score": 0.8970083594322205,
+      "y_pos": 2627,
+      "text": "Lấy các huyệt: Tỳ du, Can du, Vị du, Túc tam lý.",
+      "confidence": 0.997474011182785
+    },
+    {
+      "type": "number",
+      "img_path": "p0376_014_number.png",
+      "bbox": [
+        [
+          2306,
+          3334
+        ],
+        [
+          2357,
+          3334
+        ],
+        [
+          2357,
+          3372
+        ],
+        [
+          2306,
+          3372
+        ]
+      ],
+      "score": 0.8649540543556213,
+      "y_pos": 3334,
+      "text": "    \n\n        \n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0376_010_footer.png",
+      "bbox": [
+        [
+          228,
+          3336
+        ],
+        [
+          1342,
+          3336
+        ],
+        [
+          1342,
+          3383
+        ],
+        [
+          228,
+          3383
+        ]
+      ],
+      "score": 0.904987096786499,
+      "y_pos": 3336,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.937709501329458
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0376.png"
+}

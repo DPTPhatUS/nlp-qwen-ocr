@@ -1,0 +1,682 @@
+{
+  "page_num": 677,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0677_012_header.png",
+      "bbox": [
+        [
+          1737,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          193
+        ],
+        [
+          1737,
+          193
+        ]
+      ],
+      "score": 0.9316584467887878,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.813524454832077
+    },
+    {
+      "type": "header",
+      "img_path": "p0677_017_header.png",
+      "bbox": [
+        [
+          230,
+          148
+        ],
+        [
+          772,
+          148
+        ],
+        [
+          772,
+          195
+        ],
+        [
+          230,
+          195
+        ]
+      ],
+      "score": 0.9236888885498047,
+      "y_pos": 148,
+      "text": "PHU LUC: LIËT KË HUYËT",
+      "confidence": 0.8261118605732918
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0677_009_paragraph_title.png",
+      "bbox": [
+        [
+          247,
+          324
+        ],
+        [
+          1400,
+          324
+        ],
+        [
+          1400,
+          376
+        ],
+        [
+          247,
+          376
+        ]
+      ],
+      "score": 0.9334866404533386,
+      "y_pos": 324,
+      "text": "II. CÁC HUYẾT KHÁC NHAU NHƯNG CÙNG TÊN",
+      "confidence": 0.9102192401885987
+    },
+    {
+      "type": "text",
+      "img_path": "p0677_000_text.png",
+      "bbox": [
+        [
+          222,
+          419
+        ],
+        [
+          2358,
+          419
+        ],
+        [
+          2358,
+          608
+        ],
+        [
+          222,
+          608
+        ]
+      ],
+      "score": 0.9795233011245728,
+      "y_pos": 419,
+      "text": "Trích từ sách \"Kim huyệt tiện lãm\" của Vương Dã Phong, Thượng Hải khoa học kỹ thuật xuất\nbản xã và sách \"Châm cứu đại thành\" của Dương Kế Châu, Nhân dân vệ sinh xuất bản xã, Bắc\nKinh.",
+      "confidence": 0.9917878887640735
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0677_019_paragraph_title.png",
+      "bbox": [
+        [
+          287,
+          653
+        ],
+        [
+          564,
+          653
+        ],
+        [
+          564,
+          703
+        ],
+        [
+          287,
+          703
+        ]
+      ],
+      "score": 0.9050305485725403,
+      "y_pos": 653,
+      "text": "_    Lâm khấp",
+      "confidence": 0.7798005789518356
+    },
+    {
+      "type": "text",
+      "img_path": "p0677_011_text.png",
+      "bbox": [
+        [
+          344,
+          743
+        ],
+        [
+          1094,
+          743
+        ],
+        [
+          1094,
+          794
+        ],
+        [
+          344,
+          794
+        ]
+      ],
+      "score": 0.9316951632499695,
+      "y_pos": 743,
+      "text": "+ Đầu lâm khấp, thuộc kinh Đảm.",
+      "confidence": 0.9084896824576638
+    },
+    {
+      "type": "text",
+      "img_path": "p0677_002_text.png",
+      "bbox": [
+        [
+          346,
+          837
+        ],
+        [
+          1085,
+          837
+        ],
+        [
+          1085,
+          886
+        ],
+        [
+          346,
+          886
+        ]
+      ],
+      "score": 0.9367660880088806,
+      "y_pos": 837,
+      "text": "+ Túc lâm khấp, thuộc kinh Đảm.",
+      "confidence": 0.9621474399711146
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0677_023_paragraph_title.png",
+      "bbox": [
+        [
+          287,
+          928
+        ],
+        [
+          555,
+          928
+        ],
+        [
+          555,
+          975
+        ],
+        [
+          287,
+          975
+        ]
+      ],
+      "score": 0.873185396194458,
+      "y_pos": 928,
+      "text": "Khiêu âm    - ^",
+      "confidence": 0.6845182374119758
+    },
+    {
+      "type": "text",
+      "img_path": "p0677_013_text.png",
+      "bbox": [
+        [
+          345,
+          1019
+        ],
+        [
+          1093,
+          1019
+        ],
+        [
+          1093,
+          1067
+        ],
+        [
+          345,
+          1067
+        ]
+      ],
+      "score": 0.9311692118644714,
+      "y_pos": 1019,
+      "text": "+ Đầu khiểu âm. thuộc kinh Đảm.",
+      "confidence": 0.8678236368930701
+    },
+    {
+      "type": "text",
+      "img_path": "p0677_007_text.png",
+      "bbox": [
+        [
+          345,
+          1113
+        ],
+        [
+          1084,
+          1113
+        ],
+        [
+          1084,
+          1159
+        ],
+        [
+          345,
+          1159
+        ]
+      ],
+      "score": 0.934380054473877,
+      "y_pos": 1113,
+      "text": "+ <i>Túc khiệu âm</i>, thuộc kinh Đảm,",
+      "confidence": 0.9746593918119159
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0677_024_paragraph_title.png",
+      "bbox": [
+        [
+          287,
+          1204
+        ],
+        [
+          584,
+          1204
+        ],
+        [
+          584,
+          1253
+        ],
+        [
+          287,
+          1253
+        ]
+      ],
+      "score": 0.8666099905967712,
+      "y_pos": 1204,
+      "text": "Thông cốc",
+      "confidence": 0.8410772789608348
+    },
+    {
+      "type": "text",
+      "img_path": "p0677_004_text.png",
+      "bbox": [
+        [
+          345,
+          1295
+        ],
+        [
+          1320,
+          1295
+        ],
+        [
+          1320,
+          1345
+        ],
+        [
+          345,
+          1345
+        ]
+      ],
+      "score": 0.9360675811767578,
+      "y_pos": 1295,
+      "text": "+ Phúc thông cốc, ổ bung, thuộc kinh Thân.",
+      "confidence": 0.9845717589963566
+    },
+    {
+      "type": "text",
+      "img_path": "p0677_010_text.png",
+      "bbox": [
+        [
+          345,
+          1389
+        ],
+        [
+          1445,
+          1389
+        ],
+        [
+          1445,
+          1439
+        ],
+        [
+          345,
+          1439
+        ]
+      ],
+      "score": 0.9327146410942078,
+      "y_pos": 1389,
+      "text": "+ Túc thông cốc, ở chân, thuộc kinh Bàng quang.",
+      "confidence": 0.9457900803916308
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0677_020_paragraph_title.png",
+      "bbox": [
+        [
+          288,
+          1484
+        ],
+        [
+          629,
+          1484
+        ],
+        [
+          629,
+          1529
+        ],
+        [
+          288,
+          1529
+        ]
+      ],
+      "score": 0.8992242813110352,
+      "y_pos": 1484,
+      "text": "- Dương quan",
+      "confidence": 0.8062618374824524
+    },
+    {
+      "type": "text",
+      "img_path": "p0677_015_text.png",
+      "bbox": [
+        [
+          346,
+          1571
+        ],
+        [
+          1171,
+          1571
+        ],
+        [
+          1171,
+          1620
+        ],
+        [
+          346,
+          1620
+        ]
+      ],
+      "score": 0.9280730485916138,
+      "y_pos": 1571,
+      "text": "+ Yêu dương quan, thuộc mạch Đốc.",
+      "confidence": 0.9327825784683228
+    },
+    {
+      "type": "text",
+      "img_path": "p0677_014_text.png",
+      "bbox": [
+        [
+          347,
+          1662
+        ],
+        [
+          768,
+          1662
+        ],
+        [
+          768,
+          1713
+        ],
+        [
+          347,
+          1713
+        ]
+      ],
+      "score": 0.9310188889503479,
+      "y_pos": 1662,
+      "text": "+ Bối dương quan.",
+      "confidence": 0.9625165493864762
+    },
+    {
+      "type": "text",
+      "img_path": "p0677_003_text.png",
+      "bbox": [
+        [
+          345,
+          1754
+        ],
+        [
+          1142,
+          1754
+        ],
+        [
+          1142,
+          1804
+        ],
+        [
+          345,
+          1804
+        ]
+      ],
+      "score": 0.9365649223327637,
+      "y_pos": 1754,
+      "text": "+ Tất dương quan, thuộc kinh Đảm.",
+      "confidence": 0.9454897863524301
+    },
+    {
+      "type": "text",
+      "img_path": "p0677_016_text.png",
+      "bbox": [
+        [
+          347,
+          1848
+        ],
+        [
+          777,
+          1848
+        ],
+        [
+          777,
+          1897
+        ],
+        [
+          347,
+          1897
+        ]
+      ],
+      "score": 0.9274266958236694,
+      "y_pos": 1848,
+      "text": "+ Túc dương quan.",
+      "confidence": 0.9492112304034986
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0677_022_paragraph_title.png",
+      "bbox": [
+        [
+          288,
+          1939
+        ],
+        [
+          491,
+          1939
+        ],
+        [
+          491,
+          1987
+        ],
+        [
+          288,
+          1987
+        ]
+      ],
+      "score": 0.8858855366706848,
+      "y_pos": 1939,
+      "text": "am    IV",
+      "confidence": 0.7871578137079874
+    },
+    {
+      "type": "text",
+      "img_path": "p0677_008_text.png",
+      "bbox": [
+        [
+          346,
+          2030
+        ],
+        [
+          1153,
+          2030
+        ],
+        [
+          1153,
+          2080
+        ],
+        [
+          346,
+          2080
+        ]
+      ],
+      "score": 0.9339645504951477,
+      "y_pos": 2030,
+      "text": "+ Thủ tam lý, thuộc kinh Đại trường.",
+      "confidence": 0.9862413124034279
+    },
+    {
+      "type": "text",
+      "img_path": "p0677_005_text.png",
+      "bbox": [
+        [
+          347,
+          2122
+        ],
+        [
+          954,
+          2122
+        ],
+        [
+          954,
+          2169
+        ],
+        [
+          347,
+          2169
+        ]
+      ],
+      "score": 0.9346687197685242,
+      "y_pos": 2122,
+      "text": "+ Túc tam lý, thuộc kinh Vi.",
+      "confidence": 0.9594123323758443
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0677_021_paragraph_title.png",
+      "bbox": [
+        [
+          287,
+          2214
+        ],
+        [
+          484,
+          2214
+        ],
+        [
+          484,
+          2263
+        ],
+        [
+          287,
+          2263
+        ]
+      ],
+      "score": 0.8916747570037842,
+      "y_pos": 2214,
+      "text": "Naũ lý",
+      "confidence": 0.8799892291426659
+    },
+    {
+      "type": "text",
+      "img_path": "p0677_001_text.png",
+      "bbox": [
+        [
+          346,
+          2306
+        ],
+        [
+          1151,
+          2306
+        ],
+        [
+          1151,
+          2355
+        ],
+        [
+          346,
+          2355
+        ]
+      ],
+      "score": 0.9372502565383911,
+      "y_pos": 2306,
+      "text": "+ Thủ ngũ lý, thuộc kinh Đại trường.",
+      "confidence": 0.9852625962934995
+    },
+    {
+      "type": "text",
+      "img_path": "p0677_006_text.png",
+      "bbox": [
+        [
+          346,
+          2397
+        ],
+        [
+          1001,
+          2397
+        ],
+        [
+          1001,
+          2445
+        ],
+        [
+          346,
+          2445
+        ]
+      ],
+      "score": 0.9344587326049805,
+      "y_pos": 2397,
+      "text": "+ <i>Túc ngũ lý</i>, thuộc kinh Can.",
+      "confidence": 0.9786516951792168
+    },
+    {
+      "type": "footer",
+      "img_path": "p0677_018_footer.png",
+      "bbox": [
+        [
+          230,
+          3342
+        ],
+        [
+          1324,
+          3342
+        ],
+        [
+          1324,
+          3388
+        ],
+        [
+          230,
+          3388
+        ]
+      ],
+      "score": 0.9141934514045715,
+      "y_pos": 3342,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9986721479667807
+    },
+    {
+      "type": "number",
+      "img_path": "p0677_025_number.png",
+      "bbox": [
+        [
+          2331,
+          3364
+        ],
+        [
+          2355,
+          3364
+        ],
+        [
+          2355,
+          3400
+        ],
+        [
+          2331,
+          3400
+        ]
+      ],
+      "score": 0.8096731305122375,
+      "y_pos": 3364,
+      "text": "\n    \n    \n    \n\n\n\n\n. .    \n    \n\n                ٠\n    \n    ",
+      "confidence": 0.9494649052619935
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0677.png"
+}

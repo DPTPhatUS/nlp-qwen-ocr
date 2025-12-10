@@ -1,0 +1,240 @@
+{
+  "page_num": 498,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0498_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2369,
+          144
+        ],
+        [
+          2369,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9179157614707947,
+      "y_pos": 144,
+      "text": "~ 2    ~ 7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6485285695110049
+    },
+    {
+      "type": "header",
+      "img_path": "p0498_002_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1449,
+          150
+        ],
+        [
+          1449,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9153948426246643,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BÊNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9958260162518575
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0498_005_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          329
+        ],
+        [
+          1169,
+          329
+        ],
+        [
+          1169,
+          382
+        ],
+        [
+          226,
+          382
+        ]
+      ],
+      "score": 0.8883811235427856,
+      "y_pos": 329,
+      "text": "67. Quáng gà (bệnh võng mạc đáy mắt)",
+      "confidence": 0.9874165748295031
+    },
+    {
+      "type": "text",
+      "img_path": "p0498_000_text.png",
+      "bbox": [
+        [
+          222,
+          418
+        ],
+        [
+          2360,
+          418
+        ],
+        [
+          2360,
+          545
+        ],
+        [
+          222,
+          545
+        ]
+      ],
+      "score": 0.9558824300765991,
+      "y_pos": 418,
+      "text": "Ban ngày sức nhìn như người bình thường, đến gần tối sức nhìn giảm đi, chỉ thấy lờ mờ, ngày\nhôm sau lại khôi phục bình thường.",
+      "confidence": 0.9954278413540146
+    },
+    {
+      "type": "text",
+      "img_path": "p0498_006_text.png",
+      "bbox": [
+        [
+          281,
+          582
+        ],
+        [
+          2266,
+          582
+        ],
+        [
+          2266,
+          638
+        ],
+        [
+          281,
+          638
+        ]
+      ],
+      "score": 0.8647409677505493,
+      "y_pos": 582,
+      "text": "<b>Cách chữa:</b> Lấy huyệt <i>Tình minh</i> (châm), <i>Can du</i> (cứu), <i>Túc tam lý, Quang minh</i> (châm).",
+      "confidence": 0.9941993637751507
+    },
+    {
+      "type": "text",
+      "img_path": "p0498_008_text.png",
+      "bbox": [
+        [
+          284,
+          676
+        ],
+        [
+          1358,
+          676
+        ],
+        [
+          1358,
+          730
+        ],
+        [
+          284,
+          730
+        ]
+      ],
+      "score": 0.8173495531082153,
+      "y_pos": 676,
+      "text": "Phương huyệt kinh nghiệm đạt hiệu quả cao",
+      "confidence": 0.9989814106808153
+    },
+    {
+      "type": "text",
+      "img_path": "p0498_004_text.png",
+      "bbox": [
+        [
+          286,
+          767
+        ],
+        [
+          826,
+          767
+        ],
+        [
+          826,
+          817
+        ],
+        [
+          286,
+          817
+        ]
+      ],
+      "score": 0.8899255990982056,
+      "y_pos": 767,
+      "text": "Thiên trụ, Dương lão.",
+      "confidence": 0.9760437426359757
+    },
+    {
+      "type": "number",
+      "img_path": "p0498_007_number.png",
+      "bbox": [
+        [
+          2304,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2304,
+          3335
+        ]
+      ],
+      "score": 0.8596712946891785,
+      "y_pos": 3300,
+      "text": "    \n            \n    \n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0498_003_footer.png",
+      "bbox": [
+        [
+          229,
+          3310
+        ],
+        [
+          1324,
+          3310
+        ],
+        [
+          1324,
+          3355
+        ],
+        [
+          229,
+          3355
+        ]
+      ],
+      "score": 0.8996034860610962,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985551654167895
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0498.png"
+}

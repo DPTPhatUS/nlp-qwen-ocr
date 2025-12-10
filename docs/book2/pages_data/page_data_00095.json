@@ -1,0 +1,422 @@
+{
+  "page_num": 95,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0095_004_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9339503049850464,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7254179112967991
+    },
+    {
+      "type": "header",
+      "img_path": "p0095_013_header.png",
+      "bbox": [
+        [
+          231,
+          160
+        ],
+        [
+          442,
+          160
+        ],
+        [
+          442,
+          201
+        ],
+        [
+          231,
+          201
+        ]
+      ],
+      "score": 0.9057977199554443,
+      "y_pos": 160,
+      "text": "KINH LAC",
+      "confidence": 0.793569552898407
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0095_006_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          303
+        ],
+        [
+          689,
+          303
+        ],
+        [
+          689,
+          356
+        ],
+        [
+          285,
+          356
+        ]
+      ],
+      "score": 0.920977771282196,
+      "y_pos": 303,
+      "text": "5. Âm kiểu mach",
+      "confidence": 0.9556283950805664
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_001_text.png",
+      "bbox": [
+        [
+          339,
+          394
+        ],
+        [
+          2358,
+          394
+        ],
+        [
+          2358,
+          581
+        ],
+        [
+          339,
+          581
+        ]
+      ],
+      "score": 0.9772220253944397,
+      "y_pos": 394,
+      "text": "Cũng là một kinh mạch được tách ra từ túc thiếu âm thận, bắt đầu từ phía sau huyệt\nNhiên cốc, đi thẳng lên đến cạnh trong đùi, vào cơ quan sinh dục, lên phía trong ổ bụng,\nnối ra ở phía trước động mạch <i>Nhân nghinh</i> rồi nhập vào khoé mắt trong.",
+      "confidence": 0.9977906719086662
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_005_text.png",
+      "bbox": [
+        [
+          341,
+          615
+        ],
+        [
+          1842,
+          615
+        ],
+        [
+          1842,
+          667
+        ],
+        [
+          341,
+          667
+        ]
+      ],
+      "score": 0.9226231575012207,
+      "y_pos": 615,
+      "text": "Chủ trị: Chân bai ra ngoài (ngoại phiên) liệt thần kinh khoeo trong.",
+      "confidence": 0.5970904869692666
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0095_011_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          708
+        ],
+        [
+          780,
+          708
+        ],
+        [
+          780,
+          757
+        ],
+        [
+          285,
+          757
+        ]
+      ],
+      "score": 0.9107980132102966,
+      "y_pos": 708,
+      "text": "6. Dương kiểu mach",
+      "confidence": 0.9971932739019393
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_002_text.png",
+      "bbox": [
+        [
+          339,
+          794
+        ],
+        [
+          2356,
+          794
+        ],
+        [
+          2356,
+          907
+        ],
+        [
+          339,
+          907
+        ]
+      ],
+      "score": 0.964499831199646,
+      "y_pos": 794,
+      "text": "Bắt đầu từ giữa gót chân, ven theo mắt cá ngoài đi lên tới huyệt <i>Phong trì</i> túc thiếu dương\nđảm kinh.",
+      "confidence": 0.9931831050599336
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_010_text.png",
+      "bbox": [
+        [
+          342,
+          949
+        ],
+        [
+          1211,
+          949
+        ],
+        [
+          1211,
+          1001
+        ],
+        [
+          342,
+          1001
+        ]
+      ],
+      "score": 0.9126347303390503,
+      "y_pos": 949,
+      "text": "Chủ trị: Chân bai vào trong (nội phiên)",
+      "confidence": 0.9613147072675752
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0095_009_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          1038
+        ],
+        [
+          678,
+          1038
+        ],
+        [
+          678,
+          1090
+        ],
+        [
+          286,
+          1090
+        ]
+      ],
+      "score": 0.915159285068512,
+      "y_pos": 1038,
+      "text": "7. Am duy mach",
+      "confidence": 0.9299889504909515
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_003_text.png",
+      "bbox": [
+        [
+          338,
+          1128
+        ],
+        [
+          2355,
+          1128
+        ],
+        [
+          2355,
+          1245
+        ],
+        [
+          338,
+          1245
+        ]
+      ],
+      "score": 0.9570798873901367,
+      "y_pos": 1128,
+      "text": "Bắt đầu từ chỗ các âm kinh giao hội, men theo cạnh trong đùi, bụng dưới, ven theo sườn\nlên đến hai bên hong.",
+      "confidence": 0.9969368036321029
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_007_text.png",
+      "bbox": [
+        [
+          344,
+          1283
+        ],
+        [
+          725,
+          1283
+        ],
+        [
+          725,
+          1329
+        ],
+        [
+          344,
+          1329
+        ]
+      ],
+      "score": 0.9206223487854004,
+      "y_pos": 1283,
+      "text": "Chủ tri: Đau tim.",
+      "confidence": 0.6896755632601286
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0095_008_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          1375
+        ],
+        [
+          767,
+          1375
+        ],
+        [
+          767,
+          1424
+        ],
+        [
+          285,
+          1424
+        ]
+      ],
+      "score": 0.9179902672767639,
+      "y_pos": 1375,
+      "text": "8. Dương duy mạch",
+      "confidence": 0.9949605935498288
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_000_text.png",
+      "bbox": [
+        [
+          338,
+          1460
+        ],
+        [
+          2358,
+          1460
+        ],
+        [
+          2358,
+          1646
+        ],
+        [
+          338,
+          1646
+        ]
+      ],
+      "score": 0.9775899052619934,
+      "y_pos": 1460,
+      "text": "Bắt đầu từ chỗ các dương kinh giao hội, ven theo cạnh ngoài đầu gối, bụng dưới, bên\ncạnh, ven sườn lên đến vai và khuỷu tay, đi qua phía trước vai, đi vào sau vai, lên phía\nsau tai, xuống đến trán.",
+      "confidence": 0.9985535833840397
+    },
+    {
+      "type": "text",
+      "img_path": "p0095_014_text.png",
+      "bbox": [
+        [
+          346,
+          1683
+        ],
+        [
+          773,
+          1683
+        ],
+        [
+          773,
+          1734
+        ],
+        [
+          346,
+          1734
+        ]
+      ],
+      "score": 0.8814106583595276,
+      "y_pos": 1683,
+      "text": "Chủ tri: Hàn nhiệt.",
+      "confidence": 0.6082316239674886
+    },
+    {
+      "type": "footer",
+      "img_path": "p0095_012_footer.png",
+      "bbox": [
+        [
+          231,
+          3334
+        ],
+        [
+          1436,
+          3334
+        ],
+        [
+          1436,
+          3387
+        ],
+        [
+          231,
+          3387
+        ]
+      ],
+      "score": 0.9084100127220154,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9433465678736849
+    },
+    {
+      "type": "number",
+      "img_path": "p0095_015_number.png",
+      "bbox": [
+        [
+          2333,
+          3338
+        ],
+        [
+          2382,
+          3338
+        ],
+        [
+          2382,
+          3373
+        ],
+        [
+          2333,
+          3373
+        ]
+      ],
+      "score": 0.8707247376441956,
+      "y_pos": 3338,
+      "text": "    \n    \n            \n\n    \n\n\n\n    \n\n\n\n    \n۰    \n٠.\n\n",
+      "confidence": 0.959461303284535
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0095.png"
+}

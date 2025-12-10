@@ -1,0 +1,578 @@
+{
+  "page_num": 445,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0445_008_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9277724027633667,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0445_017_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9165647625923157,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0445_014_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          330
+        ],
+        [
+          550,
+          330
+        ],
+        [
+          550,
+          378
+        ],
+        [
+          226,
+          378
+        ]
+      ],
+      "score": 0.9218165278434753,
+      "y_pos": 330,
+      "text": "17. Tiêu chảy",
+      "confidence": 0.9163411736488343
+    },
+    {
+      "type": "text",
+      "img_path": "p0445_000_text.png",
+      "bbox": [
+        [
+          220,
+          418
+        ],
+        [
+          2358,
+          418
+        ],
+        [
+          2358,
+          752
+        ],
+        [
+          220,
+          752
+        ]
+      ],
+      "score": 0.985332190990448,
+      "y_pos": 418,
+      "text": "Tiêu chảy còn gọi là \"thác dạ\". Nếu số lần ỉa tăng lên nhiều, phân lỏng hoặc có lẫn nước dính\nthì gọi là tiêu chảy. Rất nhiều bệnh có thể gây ra tiêu chảy, thường là do ăn uống không cẩn\nthân, ăn nhiều đồ ăn tươi sống, hoặc không sạch sẽ, hoặc bị lạnh. Trên lâm sàng chia ra 2 loại:\nTiêu chảy cấp tính và tiêu chảy mạn tính. Ngoài ra có một loại gần sáng la chảy cũng thuộc về\nloai man tính.",
+      "confidence": 0.987567603350786
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0445_016_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          795
+        ],
+        [
+          787,
+          795
+        ],
+        [
+          787,
+          846
+        ],
+        [
+          285,
+          846
+        ]
+      ],
+      "score": 0.9209572076797485,
+      "y_pos": 795,
+      "text": "a. Tiêu chảy cấp tính",
+      "confidence": 0.9590179168659708
+    },
+    {
+      "type": "text",
+      "img_path": "p0445_003_text.png",
+      "bbox": [
+        [
+          279,
+          885
+        ],
+        [
+          2358,
+          885
+        ],
+        [
+          2358,
+          1077
+        ],
+        [
+          279,
+          1077
+        ]
+      ],
+      "score": 0.9778214693069458,
+      "y_pos": 885,
+      "text": "Phát bệnh rất nhanh, đau bụng, mỗi ngày là mấy lần, hoặc nhiều lần, phân lỏng màu vàng\nnhạt, hoặc có nước trong, có lẫn nhiều thức ăn chưa tiêu hóa được, tiểu tiện ít, đỏ, có thể\nđau đầu và sốt nhe.",
+      "confidence": 0.9977386604694716
+    },
+    {
+      "type": "text",
+      "img_path": "p0445_012_text.png",
+      "bbox": [
+        [
+          342,
+          1120
+        ],
+        [
+          1651,
+          1120
+        ],
+        [
+          1651,
+          1170
+        ],
+        [
+          342,
+          1170
+        ]
+      ],
+      "score": 0.9243338704109192,
+      "y_pos": 1120,
+      "text": "Cách chữa: Lấy huyết Trung quản, Thiên khu, Túc tam lý.",
+      "confidence": 0.5289025881834197
+    },
+    {
+      "type": "text",
+      "img_path": "p0445_013_text.png",
+      "bbox": [
+        [
+          343,
+          1212
+        ],
+        [
+          2070,
+          1212
+        ],
+        [
+          2070,
+          1262
+        ],
+        [
+          343,
+          1262
+        ]
+      ],
+      "score": 0.9231818318367004,
+      "y_pos": 1212,
+      "text": "Ba huyệt trên dùng hào kim vệ chuyển tiên kim theo tả pháp, lưu kim 20 phút",
+      "confidence": 0.9948176555819326
+    },
+    {
+      "type": "text",
+      "img_path": "p0445_011_text.png",
+      "bbox": [
+        [
+          343,
+          1303
+        ],
+        [
+          1430,
+          1303
+        ],
+        [
+          1430,
+          1355
+        ],
+        [
+          343,
+          1355
+        ]
+      ],
+      "score": 0.9245381951332092,
+      "y_pos": 1303,
+      "text": "Bung đau nhiều gia cứu Thần khuyết cách muối.",
+      "confidence": 0.984463133710496
+    },
+    {
+      "type": "text",
+      "img_path": "p0445_001_text.png",
+      "bbox": [
+        [
+          337,
+          1395
+        ],
+        [
+          2358,
+          1395
+        ],
+        [
+          2358,
+          1731
+        ],
+        [
+          337,
+          1731
+        ]
+      ],
+      "score": 0.985271692276001,
+      "y_pos": 1395,
+      "text": "Giảng nghĩa của phương: Lấy tăng cường công năng của trường, vị là chính. Trung\nquản là mộ huyệt của kinh vị. Thiên khu là mộ huyệt của kinh đại trường, vì vậy lấy hai\nhuyệt này có công năng diều hòa vị, trường, làm chi vị, trường khôi phục chuyển hóa bình\nthường, dinh dưỡng được bổ sung, tăng cường sức chống trị bệnh, tiêu chảy tự dứt.\nChâm Túc tam lý để khôi phục công năng của tỳ, vị.",
+      "confidence": 0.9983495048560798
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0445_018_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          1772
+        ],
+        [
+          808,
+          1772
+        ],
+        [
+          808,
+          1820
+        ],
+        [
+          285,
+          1820
+        ]
+      ],
+      "score": 0.9094188809394836,
+      "y_pos": 1772,
+      "text": "b. Tiêu chảy man tính",
+      "confidence": 0.8025079110394353
+    },
+    {
+      "type": "text",
+      "img_path": "p0445_002_text.png",
+      "bbox": [
+        [
+          282,
+          1861
+        ],
+        [
+          2360,
+          1861
+        ],
+        [
+          2360,
+          2050
+        ],
+        [
+          282,
+          2050
+        ]
+      ],
+      "score": 0.978325366973877,
+      "y_pos": 1861,
+      "text": "Bệnh phát chậm tiêu chảy lâu không khỏi, mỗi ngày số lần la ít nhưng ăn xong một tí thì la.\nSức ăn giảm dần, bụng đau âm ỉ, ỉa ra đồ chưa tiêu, lẫn nước dẻo hoặc giống như nước\nmů.",
+      "confidence": 0.9652271731665722
+    },
+    {
+      "type": "text",
+      "img_path": "p0445_015_text.png",
+      "bbox": [
+        [
+          341,
+          2094
+        ],
+        [
+          1942,
+          2094
+        ],
+        [
+          1942,
+          2147
+        ],
+        [
+          341,
+          2147
+        ]
+      ],
+      "score": 0.9215629696846008,
+      "y_pos": 2094,
+      "text": "Cách chữa: Lấy huyệt Trung quản, Thiên khu, Tỳ du, Vị du, Túc tam lý.",
+      "confidence": 0.665095565184741
+    },
+    {
+      "type": "text",
+      "img_path": "p0445_010_text.png",
+      "bbox": [
+        [
+          342,
+          2188
+        ],
+        [
+          1144,
+          2188
+        ],
+        [
+          1144,
+          2238
+        ],
+        [
+          342,
+          2238
+        ]
+      ],
+      "score": 0.9245753288269043,
+      "y_pos": 2188,
+      "text": "Các huyệt trên đều cứu cách gừng.",
+      "confidence": 0.9912246891430446
+    },
+    {
+      "type": "text",
+      "img_path": "p0445_007_text.png",
+      "bbox": [
+        [
+          341,
+          2277
+        ],
+        [
+          1383,
+          2277
+        ],
+        [
+          1383,
+          2329
+        ],
+        [
+          341,
+          2329
+        ]
+      ],
+      "score": 0.9287135601043701,
+      "y_pos": 2277,
+      "text": "Nếu phân có lẫn ít máu thì gia cứu Mênh môn.",
+      "confidence": 0.9805191366568856
+    },
+    {
+      "type": "text",
+      "img_path": "p0445_004_text.png",
+      "bbox": [
+        [
+          337,
+          2370
+        ],
+        [
+          2359,
+          2370
+        ],
+        [
+          2359,
+          2565
+        ],
+        [
+          337,
+          2565
+        ]
+      ],
+      "score": 0.9772393703460693,
+      "y_pos": 2370,
+      "text": "Giảng nghĩa của phương: Trung quản, Thiên khu và Túc tam lý châm bổ và cứu làm cho\ncông năng của tỳ, vị được khôi phục bình thường. Tỳ du, Vị du làm mạnh thêm công năng\nvận hóa của tỳ, tăng cường sức đề kháng.",
+      "confidence": 0.9919665473272191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0445_019_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          2604
+        ],
+        [
+          766,
+          2604
+        ],
+        [
+          766,
+          2656
+        ],
+        [
+          284,
+          2656
+        ]
+      ],
+      "score": 0.9076409339904785,
+      "y_pos": 2604,
+      "text": "c. Gần sáng la chảy",
+      "confidence": 0.9598150792576018
+    },
+    {
+      "type": "text",
+      "img_path": "p0445_006_text.png",
+      "bbox": [
+        [
+          281,
+          2694
+        ],
+        [
+          2356,
+          2694
+        ],
+        [
+          2356,
+          2818
+        ],
+        [
+          281,
+          2818
+        ]
+      ],
+      "score": 0.9652207493782043,
+      "y_pos": 2694,
+      "text": "Là một loại tiêu chảy mạn tính. Khi trời gần sáng, bụng dưới đau, kế theo đó là đi ỉa 1 lần,\nbung lạnh, có khi bung trướng, chân lạnh.",
+      "confidence": 0.9936897215691018
+    },
+    {
+      "type": "text",
+      "img_path": "p0445_009_text.png",
+      "bbox": [
+        [
+          341,
+          2857
+        ],
+        [
+          1821,
+          2857
+        ],
+        [
+          1821,
+          2909
+        ],
+        [
+          341,
+          2909
+        ]
+      ],
+      "score": 0.9251807332038879,
+      "y_pos": 2857,
+      "text": "Cách chữa: Lấy huyệt Chiếu hải, Khí hải, Thận du, Quan nguyên.",
+      "confidence": 0.5894375741481781
+    },
+    {
+      "type": "text",
+      "img_path": "p0445_005_text.png",
+      "bbox": [
+        [
+          338,
+          2948
+        ],
+        [
+          2358,
+          2948
+        ],
+        [
+          2358,
+          3146
+        ],
+        [
+          338,
+          3146
+        ]
+      ],
+      "score": 0.9757525324821472,
+      "y_pos": 2948,
+      "text": "Dùng hào kim châm Chiếu hải, Khí hải, Thận du, đều dùng bổ pháp, lưu kim 30 phút. Thời\ngian lưu kim vê chuyển 3 lần. Mỗi ngày hoặc cách ngày châm một lần. Khí hải và Thận du\nchâm xong gia cứu Quan nguyên cứu cách gừng.",
+      "confidence": 0.9951093859960753
+    },
+    {
+      "type": "number",
+      "img_path": "p0445_021_number.png",
+      "bbox": [
+        [
+          2303,
+          3300
+        ],
+        [
+          2352,
+          3300
+        ],
+        [
+          2352,
+          3335
+        ],
+        [
+          2303,
+          3335
+        ]
+      ],
+      "score": 0.862419843673706,
+      "y_pos": 3300,
+      "text": "\n    \n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0445_020_footer.png",
+      "bbox": [
+        [
+          228,
+          3309
+        ],
+        [
+          1323,
+          3309
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          228,
+          3355
+        ]
+      ],
+      "score": 0.9029712080955505,
+      "y_pos": 3309,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9293094086197188
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0445.png"
+}

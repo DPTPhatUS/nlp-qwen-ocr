@@ -1,0 +1,188 @@
+{
+  "page_num": 7,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0007_000_text.png",
+      "bbox": [
+        [
+          341,
+          449
+        ],
+        [
+          2125,
+          449
+        ],
+        [
+          2125,
+          735
+        ],
+        [
+          341,
+          735
+        ]
+      ],
+      "score": 0.9806217551231384,
+      "y_pos": 449,
+      "text": "Để giúp sinh viên phân tích được cụ thể vai trò của thuốc và huyệt trong\ntừng phương pháp trị liệu, chúng tôi có dành thêm ở phần cuối của quyển sách\nnày những cách kê đơn thuốc Đông y, qua đó các bạn sinh viên có thể dễ dàng\nhiểu được vị trí, vai trò quan trong (theo thứ tự Quân, Thần, Tá, Sứ) của từng\nvi thuốc, của từng huyệt sử dụng trong trị liệu của Đông y học.",
+      "confidence": 0.9976818916465172
+    },
+    {
+      "type": "text",
+      "img_path": "p0007_003_text.png",
+      "bbox": [
+        [
+          342,
+          763
+        ],
+        [
+          2125,
+          763
+        ],
+        [
+          2125,
+          932
+        ],
+        [
+          342,
+          932
+        ]
+      ],
+      "score": 0.964512825012207,
+      "y_pos": 763,
+      "text": "Đồng thời, quyển sách này cũng tập họp những điểm quan trọng cần ghi\nnhớ, xếp vào những ô có đánh dấu, nhằm giúp sinh viên có thể nhanh chóng\nkiểm tra lại những điểm mấu chốt, quan trọng của những nội dung học tập.",
+      "confidence": 0.9951161606047911
+    },
+    {
+      "type": "text",
+      "img_path": "p0007_001_text.png",
+      "bbox": [
+        [
+          342,
+          962
+        ],
+        [
+          2124,
+          962
+        ],
+        [
+          2124,
+          1243
+        ],
+        [
+          342,
+          1243
+        ]
+      ],
+      "score": 0.9752503633499146,
+      "y_pos": 962,
+      "text": "Tất cả các bài giảng môn bệnh học và điều trị đều có kèm theo phần câu\nhỏi trắc nghiệm (tự ôn tập) giúp sinh viên tự học. Những bài giảng lý thuyết\nnày sẽ được minh hoa trên thực tế tại các cơ sở thực tập y học cổ truyền (Cơ sở\n3-Bênh viên Đai học Y Dược TP. Hồ Chí Minh, Viên y dược học dân tộc TP. Hồ\nChí Minh, Bệnh viện y học dân tộc TP. Hồ Chí Minh...).",
+      "confidence": 0.9930634427384412
+    },
+    {
+      "type": "text",
+      "img_path": "p0007_002_text.png",
+      "bbox": [
+        [
+          341,
+          1274
+        ],
+        [
+          2122,
+          1274
+        ],
+        [
+          2122,
+          1500
+        ],
+        [
+          341,
+          1500
+        ]
+      ],
+      "score": 0.969170331954956,
+      "y_pos": 1274,
+      "text": "Khoa y hoc cổ truyền, Đại học Y Dược TP. Hồ Chí Minh rất mọng được\ncác bạn sinh viên tham khảo kỹ lời giới thiệu của quyển sách này trước khi\ntham gia vào quá trình học tập môn học và rất mọng được sự đóng góp ý kiến\ncủa các ban sinh viên và các đồng nghiệp.",
+      "confidence": 0.9954020280284496
+    },
+    {
+      "type": "text",
+      "img_path": "p0007_006_text.png",
+      "bbox": [
+        [
+          1275,
+          1612
+        ],
+        [
+          2022,
+          1612
+        ],
+        [
+          2022,
+          1757
+        ],
+        [
+          1275,
+          1757
+        ]
+      ],
+      "score": 0.6944539546966553,
+      "y_pos": 1612,
+      "text": "THAY MẶT NHỮNG TÁC GIẢ\nPGS. TS. PHAN QUAN CHÍ HIẾU",
+      "confidence": 0.8024225881986919
+    },
+    {
+      "type": "number",
+      "img_path": "p0007_005_number.png",
+      "bbox": [
+        [
+          352,
+          3112
+        ],
+        [
+          379,
+          3112
+        ],
+        [
+          379,
+          3148
+        ],
+        [
+          352,
+          3148
+        ]
+      ],
+      "score": 0.7931093573570251,
+      "y_pos": 3112,
+      "text": "    \n    \n    \n\n\n    \n\n\n\n    \n    \n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0007_004_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1075,
+          3311
+        ],
+        [
+          1075,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.8975892663002014,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8916404400553022
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0007.png"
+}

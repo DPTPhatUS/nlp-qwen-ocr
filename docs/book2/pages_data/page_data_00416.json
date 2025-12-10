@@ -1,0 +1,604 @@
+{
+  "page_num": 416,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0416_012_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          195
+        ],
+        [
+          1678,
+          195
+        ]
+      ],
+      "score": 0.9266220927238464,
+      "y_pos": 142,
+      "text": "_______________________________________\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6681458304503134
+    },
+    {
+      "type": "header",
+      "img_path": "p0416_016_header.png",
+      "bbox": [
+        [
+          230,
+          146
+        ],
+        [
+          1095,
+          146
+        ],
+        [
+          1095,
+          196
+        ],
+        [
+          230,
+          196
+        ]
+      ],
+      "score": 0.9153859615325928,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SĂNG",
+      "confidence": 0.9871476462909153
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0416_013_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          324
+        ],
+        [
+          850,
+          324
+        ],
+        [
+          850,
+          380
+        ],
+        [
+          225,
+          380
+        ]
+      ],
+      "score": 0.9227980375289917,
+      "y_pos": 324,
+      "text": "CHỨNG LIỆT (nuy chứng)",
+      "confidence": 0.980458897848924
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0416_019_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          418
+        ],
+        [
+          761,
+          418
+        ],
+        [
+          761,
+          471
+        ],
+        [
+          226,
+          471
+        ]
+      ],
+      "score": 0.8962969183921814,
+      "y_pos": 418,
+      "text": "A. Biện chứng luận trị",
+      "confidence": 0.9403136769930521
+    },
+    {
+      "type": "text",
+      "img_path": "p0416_006_text.png",
+      "bbox": [
+        [
+          221,
+          509
+        ],
+        [
+          2359,
+          509
+        ],
+        [
+          2359,
+          634
+        ],
+        [
+          221,
+          634
+        ]
+      ],
+      "score": 0.9649811387062073,
+      "y_pos": 509,
+      "text": "Nuy chứng còn có tên là Nuy bích (liệt mềm) làm chứng gân mạch ở chi thể nhẽo ra, tay chân\nmềm yếu không có sức, không thể vận động được.",
+      "confidence": 0.996314044771851
+    },
+    {
+      "type": "text",
+      "img_path": "p0416_002_text.png",
+      "bbox": [
+        [
+          221,
+          669
+        ],
+        [
+          2360,
+          669
+        ],
+        [
+          2360,
+          866
+        ],
+        [
+          221,
+          866
+        ]
+      ],
+      "score": 0.9783298373222351,
+      "y_pos": 669,
+      "text": "Nó giống như một số bệnh bại liệt mà y học hiện đại cho rằng do thần kinh vận động và cơ bắp\nbị tổn thương gây ra, thường do viêm dây thần kinh, di chứng bại liệt, tê bại có tính chu kỳ,\nchứng nhược cơ và bênh teo cơ.",
+      "confidence": 0.9992415821208254
+    },
+    {
+      "type": "text",
+      "img_path": "p0416_000_text.png",
+      "bbox": [
+        [
+          219,
+          906
+        ],
+        [
+          2360,
+          906
+        ],
+        [
+          2360,
+          1314
+        ],
+        [
+          219,
+          1314
+        ]
+      ],
+      "score": 0.9857089519500732,
+      "y_pos": 906,
+      "text": "Đông y cho rằng nguyên nhân bệnh có 2 loại: Một là do ngoại tà gây nên, thường thấy trong\nhoặc sau khi bị bệnh ôn nhiệt (sốt bại liệt), tà nhiệt làm thương âm của phế và vị, làm cho\nkhông thể vận chuyển tân dịch đi tưới rải, nuôi mềm gân mạch, hoặc do bị cảm thấp nhiệt,\nngấm vào gân mạch làm cho bắp thịt mềm nhẽo không cử động được. Hai là do nội thương,\nthường thấy ở người gầy yếu sau khi bị bệnh, can, thận hao tổn, tinh huyết không đủ, không\nthể nuôi mềm cơ bắp gân xương.",
+      "confidence": 0.9897390446194221
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0416_014_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1349
+        ],
+        [
+          903,
+          1349
+        ],
+        [
+          903,
+          1400
+        ],
+        [
+          225,
+          1400
+        ]
+      ],
+      "score": 0.9212203621864319,
+      "y_pos": 1349,
+      "text": "B. Điểm chủ vếu để kiểm tra",
+      "confidence": 0.9115834277251671
+    },
+    {
+      "type": "text",
+      "img_path": "p0416_003_text.png",
+      "bbox": [
+        [
+          222,
+          1443
+        ],
+        [
+          2359,
+          1443
+        ],
+        [
+          2359,
+          1639
+        ],
+        [
+          222,
+          1639
+        ]
+      ],
+      "score": 0.9762648940086365,
+      "y_pos": 1443,
+      "text": "1. Chi trên hoặc chi dưới, một bên hoặc hai bên mềm yếu không có sức, vận động khó, thậm\nchí bại liệt, lâu ngày thì teo cơ. Kiểm tra bên chi thể bị bệnh thấy vận động mất tự chủ, trương\nlực cơ giảm, phản xạ gân xương giảm hoặc mất, kèm theo teo cơ.",
+      "confidence": 0.9982622989121817
+    },
+    {
+      "type": "text",
+      "img_path": "p0416_001_text.png",
+      "bbox": [
+        [
+          220,
+          1674
+        ],
+        [
+          2359,
+          1674
+        ],
+        [
+          2359,
+          2008
+        ],
+        [
+          220,
+          2008
+        ]
+      ],
+      "score": 0.984171450138092,
+      "y_pos": 1674,
+      "text": "2. Hỏi về tiền sử đã bị bại liệt lần nào chưa? Trước khi tê bại có bị sốt hoặc các bệnh khác\nkhông? Hỏi rõ chứng trạng kèm theo. Kiểm tra hệ thần kinh xem có bị tê bại cơ bắp ở các nơi\nkhác, hoặc những rối loạn cảm giác hay không? Để giúp cho chẩn đoán, khi cần thiết có thể\nlàm xét nghiệm máu và chọc dò tủy sống. Nếu tê bại có chu kỳ, cần đi hàm lượng kali để chẩn\nđoán xác minh.",
+      "confidence": 0.9986509047463266
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0416_015_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2053
+        ],
+        [
+          559,
+          2053
+        ],
+        [
+          559,
+          2098
+        ],
+        [
+          225,
+          2098
+        ]
+      ],
+      "score": 0.9203600883483887,
+      "y_pos": 2053,
+      "text": "C. Cách chữa",
+      "confidence": 0.8993360017027173
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0416_018_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2142
+        ],
+        [
+          669,
+          2142
+        ],
+        [
+          669,
+          2194
+        ],
+        [
+          227,
+          2194
+        ]
+      ],
+      "score": 0.902572751045227,
+      "y_pos": 2142,
+      "text": "1. Bằng châm cứu",
+      "confidence": 0.9323940773804983
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0416_021_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2237
+        ],
+        [
+          533,
+          2237
+        ],
+        [
+          533,
+          2283
+        ],
+        [
+          227,
+          2283
+        ]
+      ],
+      "score": 0.8723567724227905,
+      "y_pos": 2237,
+      "text": "Thê châm",
+      "confidence": 0.9948190212249756
+    },
+    {
+      "type": "text",
+      "img_path": "p0416_011_text.png",
+      "bbox": [
+        [
+          223,
+          2325
+        ],
+        [
+          1914,
+          2325
+        ],
+        [
+          1914,
+          2378
+        ],
+        [
+          223,
+          2378
+        ]
+      ],
+      "score": 0.929232656955719,
+      "y_pos": 2325,
+      "text": "- Đài kiên, Tri than 2, Tri than 3, Khúc trì thấu Thiếu hải, tri chi trên bai liệt.",
+      "confidence": 0.9741876931751475
+    },
+    {
+      "type": "text",
+      "img_path": "p0416_010_text.png",
+      "bbox": [
+        [
+          225,
+          2416
+        ],
+        [
+          1712,
+          2416
+        ],
+        [
+          1712,
+          2471
+        ],
+        [
+          225,
+          2471
+        ]
+      ],
+      "score": 0.9307344555854797,
+      "y_pos": 2416,
+      "text": "- <b>Nếu cổ tay rũ xuống</b> thì gia <i>Dương lão, Hợp cốc</i> thấu <i>Lao cung</i>.",
+      "confidence": 0.9850109857572636
+    },
+    {
+      "type": "text",
+      "img_path": "p0416_004_text.png",
+      "bbox": [
+        [
+          222,
+          2509
+        ],
+        [
+          2363,
+          2509
+        ],
+        [
+          2363,
+          2632
+        ],
+        [
+          222,
+          2632
+        ]
+      ],
+      "score": 0.9684323072433472,
+      "y_pos": 2509,
+      "text": "- Trị chi dưới bại liệt: Yêu Dương quan, Hoàn khiêu, Mại bộ, Tứ cường, Dương lăng tuyền\nthấu <i>Âm lăng tuyền, Tam âm giao</i>.",
+      "confidence": 0.986648653330428
+    },
+    {
+      "type": "text",
+      "img_path": "p0416_009_text.png",
+      "bbox": [
+        [
+          225,
+          2670
+        ],
+        [
+          2055,
+          2670
+        ],
+        [
+          2055,
+          2723
+        ],
+        [
+          225,
+          2723
+        ]
+      ],
+      "score": 0.9315169453620911,
+      "y_pos": 2670,
+      "text": "- <b>Nếu cổ chân bai vào trong</b>, gia <i>Tri than 5, Khấu khư</i> thấu <i>Chiếu hải, Thái xung</i>.",
+      "confidence": 0.9877428906885061
+    },
+    {
+      "type": "text",
+      "img_path": "p0416_008_text.png",
+      "bbox": [
+        [
+          226,
+          2763
+        ],
+        [
+          1687,
+          2763
+        ],
+        [
+          1687,
+          2817
+        ],
+        [
+          226,
+          2817
+        ]
+      ],
+      "score": 0.9330446720123291,
+      "y_pos": 2763,
+      "text": "- Nếu cổ chân bai ra ngoài, gia Thương khâu, Củ ngoại thương.",
+      "confidence": 0.9907252996686905
+    },
+    {
+      "type": "text",
+      "img_path": "p0416_007_text.png",
+      "bbox": [
+        [
+          225,
+          2856
+        ],
+        [
+          1673,
+          2856
+        ],
+        [
+          1673,
+          2910
+        ],
+        [
+          225,
+          2910
+        ]
+      ],
+      "score": 0.9333650469779968,
+      "y_pos": 2856,
+      "text": "<b>b. Nhĩ châm:</b> Bì chất hạ, Chẩm, Thần môn, bộ phận tương ứng.",
+      "confidence": 0.9890325116732764
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0416_022_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2948
+        ],
+        [
+          712,
+          2948
+        ],
+        [
+          712,
+          2999
+        ],
+        [
+          226,
+          2999
+        ]
+      ],
+      "score": 0.84846431016922,
+      "y_pos": 2948,
+      "text": "2. Biện chứng thí trị",
+      "confidence": 0.9681944251060486
+    },
+    {
+      "type": "text",
+      "img_path": "p0416_005_text.png",
+      "bbox": [
+        [
+          223,
+          3039
+        ],
+        [
+          2355,
+          3039
+        ],
+        [
+          2355,
+          3165
+        ],
+        [
+          223,
+          3165
+        ]
+      ],
+      "score": 0.9658903479576111,
+      "y_pos": 3039,
+      "text": "Biện chứng phải chia rõ hư, thực. Hư chứng có phế tỳ tâm thương, và can thận khuyết hư.\nThực chứng do thấp nhiệt ngấm vào. Trên lâm sàng thường thấy âm hư và thấp nhiệt.",
+      "confidence": 0.9980426602689891
+    },
+    {
+      "type": "number",
+      "img_path": "p0416_020_number.png",
+      "bbox": [
+        [
+          2306,
+          3334
+        ],
+        [
+          2357,
+          3334
+        ],
+        [
+          2357,
+          3371
+        ],
+        [
+          2306,
+          3371
+        ]
+      ],
+      "score": 0.8724846839904785,
+      "y_pos": 3334,
+      "text": "    \n    \n        \n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0416_017_footer.png",
+      "bbox": [
+        [
+          228,
+          3336
+        ],
+        [
+          1343,
+          3336
+        ],
+        [
+          1343,
+          3383
+        ],
+        [
+          228,
+          3383
+        ]
+      ],
+      "score": 0.9051105380058289,
+      "y_pos": 3336,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9415562085385593
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0416.png"
+}

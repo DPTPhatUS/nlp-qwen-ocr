@@ -1,0 +1,110 @@
+{
+  "page_num": 8,
+  "content": [
+    {
+      "type": "paragraph_title",
+      "img_path": "p0008_002_paragraph_title.png",
+      "bbox": [
+        [
+          1094,
+          501
+        ],
+        [
+          1380,
+          501
+        ],
+        [
+          1380,
+          584
+        ],
+        [
+          1094,
+          584
+        ]
+      ],
+      "score": 0.8108533024787903,
+      "y_pos": 501,
+      "text": "<b>MUC LUC</b>",
+      "confidence": 0.9439916827461936
+    },
+    {
+      "type": "content",
+      "img_path": "p0008_000_content.png",
+      "bbox": [
+        [
+          346,
+          752
+        ],
+        [
+          2127,
+          752
+        ],
+        [
+          2127,
+          3033
+        ],
+        [
+          346,
+          3033
+        ]
+      ],
+      "score": 0.9868533611297607,
+      "y_pos": 752,
+      "text": "CHƯƠNG I. BỆNH CHỨNG DO NGOẠI NHÂN    9\nBài 1. Bệnh học ngoại cảm    PGS.TS. Phan Quan Chí Hiếu    9\n1. Đại cương    9\n2. Phân loại bệnh ngoại cảm    10\nCâu hỏi ôn tập    17\nĐáp án    20\nBài 2. Bệnh học ngoại cảm Thương hàn    PGS.TS. Phan Quan Chí Hiếu    21\n1. Đại cương    21\n2. Bệnh học ngoại cảm thương hàn\n(lục kinh hình chứng)    25\nCâu hỏi ôn tập    42\nĐáp án    45\nBài 3. Bệnh ngoại cảm Ôn bệnh    PGS.TS. Phan Quan Chí Hiếu    46\n1. Đại cương    46\n2. Nguyên nhân gây bệnh    47\n3. Sinh bệnh lý của ngoại cảm ôn bệnh    47\n4. Những điểm khác nhau giữa ngoại\ncảm ôn bệnh và ngoại cảm thương hàn    48\n5. Bệnh học và điều trị    49\nCâu hỏi ôn tập    63\nĐáp án    67\nBài 4. Bệnh ngoại cảm Lục dâm    PGS.TS. Phan Quan Chí Hiếu    68\n1. Đại cương    68\n2. Những chứng bệnh thường gặp    68\n3. Phu luc    98\nCâu hỏi ôn tập    102\nĐáp án    107\nCHƯƠNG II. BỆNH DO NỘI NHÂN VÀ NGUYÊN NHÂN KHÁC    118\nBài 5. Bệnh học Phế - Đại trường    ThS. Ngô Anh Dũng    118\n1. Đại cương    118\n2. Những hội chứng bệnh Phế - Đại trường    119",
+      "confidence": 0.9465729479981263
+    },
+    {
+      "type": "number",
+      "img_path": "p0008_003_number.png",
+      "bbox": [
+        [
+          2099,
+          3113
+        ],
+        [
+          2121,
+          3113
+        ],
+        [
+          2121,
+          3148
+        ],
+        [
+          2099,
+          3148
+        ]
+      ],
+      "score": 0.696883499622345,
+      "y_pos": 3113,
+      "text": "\n        \n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0008_001_footer.png",
+      "bbox": [
+        [
+          293,
+          3310
+        ],
+        [
+          1074,
+          3310
+        ],
+        [
+          1074,
+          3366
+        ],
+        [
+          293,
+          3366
+        ]
+      ],
+      "score": 0.8974448442459106,
+      "y_pos": 3310,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8805461287498474
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0008.png"
+}

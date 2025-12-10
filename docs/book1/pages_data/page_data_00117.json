@@ -1,0 +1,266 @@
+{
+  "page_num": 117,
+  "content": [
+    {
+      "type": "figure_title",
+      "img_path": "p0117_008_figure_title.png",
+      "bbox": [
+        [
+          465,
+          450
+        ],
+        [
+          1212,
+          450
+        ],
+        [
+          1212,
+          501
+        ],
+        [
+          465,
+          501
+        ]
+      ],
+      "score": 0.6161778569221497,
+      "y_pos": 450,
+      "text": "+ Phân tích bài thuốc: (Pháp bổ)",
+      "confidence": 0.9702833505237803
+    },
+    {
+      "type": "table",
+      "img_path": "p0117_000_table.png",
+      "bbox": [
+        [
+          352,
+          553
+        ],
+        [
+          2125,
+          553
+        ],
+        [
+          2125,
+          1375
+        ],
+        [
+          352,
+          1375
+        ]
+      ],
+      "score": 0.9877238273620605,
+      "y_pos": 553,
+      "text": "Vị thuốc    Dược lý Đông y\nThục địa    Ngot, hơi ôn. Nuôi Thân dưỡng âm, bổ Thân, bổ huyết\nHoài sơn    Ngọt, bình. Bổ Tỳ, Vị, bổ Phế, Thận, sinh tân chỉ khát\nSơn thù    Chua, sáp, hơi ôn. Ôn bổ Can, Thận, sáp tinh chỉ hãn\nĐơn bì    Cay, đẳng, hơi hàn. Thanh huyết nhiệt, tán ứ huyết. Chữa nhiệt nhập doanh\nphân\nPhuc linh    Ngọt, nhạt, bình. Lợi thủy, thẩm thấp, bổ Tỳ định Tâm\nTrạch tả    Ngọt, nhạt, mát. Thanh tả thấp nhiệt ở Bàng quang\nNgũ vị tử    Vị chua ấm, qui Phế, Thận, Tâm; có tác dụng liễm Phế, tư Thận, sinh tân\nMach môn    Vị ngọt đắng hơi hàn, qui kinh Tỳ Vị Tâm, có tác dụng dưỡng Phế nhuận âm",
+      "confidence": 0.9298188081392715
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0117_009_figure_title.png",
+      "bbox": [
+        [
+          464,
+          1458
+        ],
+        [
+          1098,
+          1458
+        ],
+        [
+          1098,
+          1510
+        ],
+        [
+          464,
+          1510
+        ]
+      ],
+      "score": 0.6015537977218628,
+      "y_pos": 1458,
+      "text": "+ Công thức huyệt sử dụng",
+      "confidence": 0.9977158683317678
+    },
+    {
+      "type": "table",
+      "img_path": "p0117_001_table.png",
+      "bbox": [
+        [
+          352,
+          1559
+        ],
+        [
+          2125,
+          1559
+        ],
+        [
+          2125,
+          2297
+        ],
+        [
+          352,
+          2297
+        ]
+      ],
+      "score": 0.986076831817627,
+      "y_pos": 1559,
+      "text": "Tên huyệt    Cơ sở lý luận    Tác dụng điều trị\nPhế du    Bối du huyệt của Phế và Thận sử dụng    Có tác dung tư dưỡng Phế âm\ntheo nguyên tắc dương dẫn âm;\nThận du    Ích thủy tráng hỏa\nDu huyệt của Thân ở lưng\nKèm chữa chứng đau lưng\nThái uyên    Phối hợp nguyên huyệt của Phế và lạc    Dưỡng Phế âm.\nhuyêt Đai trường\nThiên lich\nPhục lưu    Kinh Kim huyệt/Thận⇒Bổ mẫu ⇒Bổ    Bổ Thân âm ⇒chữa chứng\nThân thủy    đao hãn\nTam âm giao    Giao hội huyệt của 3 kinh âm/chân    Tư âm",
+      "confidence": 0.9324002790284482
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0117_004_paragraph_title.png",
+      "bbox": [
+        [
+          1014,
+          2438
+        ],
+        [
+          1460,
+          2438
+        ],
+        [
+          1460,
+          2500
+        ],
+        [
+          1014,
+          2500
+        ]
+      ],
+      "score": 0.8477252125740051,
+      "y_pos": 2438,
+      "text": "PHÊ THÂN ÂM HƯ",
+      "confidence": 0.8514839932322502
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_005_text.png",
+      "bbox": [
+        [
+          369,
+          2621
+        ],
+        [
+          2104,
+          2621
+        ],
+        [
+          2104,
+          2718
+        ],
+        [
+          369,
+          2718
+        ]
+      ],
+      "score": 0.8077346086502075,
+      "y_pos": 2621,
+      "text": "- Chức năng chủ yếu bị rối loạn là chức năng chủ khí của Phế, chức năng nạp khí, chức\nnăng tàng tinh và chức năng chủ cốt tủy của Thân",
+      "confidence": 0.9977690779135144
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_006_text.png",
+      "bbox": [
+        [
+          369,
+          2744
+        ],
+        [
+          2103,
+          2744
+        ],
+        [
+          2103,
+          2842
+        ],
+        [
+          369,
+          2842
+        ]
+      ],
+      "score": 0.7939512133598328,
+      "y_pos": 2744,
+      "text": "- Triệu chứng quan trọng của Phế, Thận âm hư: ho, đờm dính, đau nhức khớp xương, dấu\nsuy nhươc.",
+      "confidence": 0.9931558798565421
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_007_text.png",
+      "bbox": [
+        [
+          367,
+          2865
+        ],
+        [
+          1802,
+          2865
+        ],
+        [
+          1802,
+          2917
+        ],
+        [
+          367,
+          2917
+        ]
+      ],
+      "score": 0.6771247982978821,
+      "y_pos": 2865,
+      "text": "- Thuốc tiêu biểu trong điều trị bệnh chứng Phế, Thận âm hư: Bát tiên thang",
+      "confidence": 0.9996370595770997
+    },
+    {
+      "type": "number",
+      "img_path": "p0117_003_number.png",
+      "bbox": [
+        [
+          353,
+          3110
+        ],
+        [
+          434,
+          3110
+        ],
+        [
+          434,
+          3148
+        ],
+        [
+          353,
+          3148
+        ]
+      ],
+      "score": 0.8783647418022156,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0117_002_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3365
+        ],
+        [
+          294,
+          3365
+        ]
+      ],
+      "score": 0.9238053560256958,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8839524439402989
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0117.png"
+}

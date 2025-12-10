@@ -1,0 +1,604 @@
+{
+  "page_num": 434,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0434_011_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9276828169822693,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0434_016_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1449,
+          150
+        ],
+        [
+          1449,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9183118343353271,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỬU",
+      "confidence": 0.9870374363202316
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0434_014_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          329
+        ],
+        [
+          475,
+          329
+        ],
+        [
+          475,
+          375
+        ],
+        [
+          225,
+          375
+        ]
+      ],
+      "score": 0.922062873840332,
+      "y_pos": 329,
+      "text": "8. Hôn mê",
+      "confidence": 0.8984349153258584
+    },
+    {
+      "type": "text",
+      "img_path": "p0434_003_text.png",
+      "bbox": [
+        [
+          221,
+          418
+        ],
+        [
+          2358,
+          418
+        ],
+        [
+          2358,
+          544
+        ],
+        [
+          221,
+          544
+        ]
+      ],
+      "score": 0.9673089981079102,
+      "y_pos": 418,
+      "text": "Hôn mê là trạng thái bệnh đã nghiêm trọng, không những mất hẳn tri giác mà có biểu hiện ngủ\nmê mệt rất sâu, dùng các loại kim châm đều không có phản ứng.",
+      "confidence": 0.999274394311358
+    },
+    {
+      "type": "text",
+      "img_path": "p0434_001_text.png",
+      "bbox": [
+        [
+          222,
+          579
+        ],
+        [
+          2360,
+          579
+        ],
+        [
+          2360,
+          848
+        ],
+        [
+          222,
+          848
+        ]
+      ],
+      "score": 0.9826316833496094,
+      "y_pos": 579,
+      "text": "Nguyên nhân của hôn mê rất nhiều: Bệnh ở não, ngộ độc thuốc, sốt cao và một số bệnh nặng\nđều dẫn đến hôn mê. Đông y cho rằng hôn mê thường do: Khí, huyết, đàm, thực, thử nhiệt gây\nra, khí cơ đột nhiên nghịch loạn. Nếu khí hư bất túc, thì khí hãm không thể đi, thanh dương\nkhông thể thăng tán, do đó cũng dễ đột nhiên gây ra hôn mê.",
+      "confidence": 0.9992776344123436
+    },
+    {
+      "type": "text",
+      "img_path": "p0434_002_text.png",
+      "bbox": [
+        [
+          221,
+          887
+        ],
+        [
+          2359,
+          887
+        ],
+        [
+          2359,
+          1152
+        ],
+        [
+          221,
+          1152
+        ]
+      ],
+      "score": 0.9824365377426147,
+      "y_pos": 887,
+      "text": "Trên lâm sàng thường chia ra làm hai loại: Thực chứng và hư chứng. Ngoài việc tiến hành\nchữa theo nguyên nhân ra, cần phải hết sức nhanh chóng làm người bệnh tỉnh lại và giảm nhẹ\nchứng trạng. Một số bệnh có chứng hôn mê có thể kết hợp phương dưới mà chữa. Khi cần\nthiết phải kết hợp Đông, Tây y để cứu chữa.",
+      "confidence": 0.999450510344112
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0434_017_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          1194
+        ],
+        [
+          647,
+          1194
+        ],
+        [
+          647,
+          1244
+        ],
+        [
+          286,
+          1244
+        ]
+      ],
+      "score": 0.9166045188903809,
+      "y_pos": 1194,
+      "text": "a. Thực chứng",
+      "confidence": 0.9643553137779236
+    },
+    {
+      "type": "text",
+      "img_path": "p0434_007_text.png",
+      "bbox": [
+        [
+          280,
+          1282
+        ],
+        [
+          2360,
+          1282
+        ],
+        [
+          2360,
+          1404
+        ],
+        [
+          280,
+          1404
+        ]
+      ],
+      "score": 0.963221549987793,
+      "y_pos": 1282,
+      "text": "Đột nhiên quay đơ, thần thức không rõ ràng, hàm răng cắn chặt, chân tay co rúm, mình mẩy\nphát sốt hoặc không sốt.",
+      "confidence": 0.9977277498724114
+    },
+    {
+      "type": "text",
+      "img_path": "p0434_015_text.png",
+      "bbox": [
+        [
+          342,
+          1444
+        ],
+        [
+          1646,
+          1444
+        ],
+        [
+          1646,
+          1496
+        ],
+        [
+          342,
+          1496
+        ]
+      ],
+      "score": 0.9197510480880737,
+      "y_pos": 1444,
+      "text": "Cách chữa: Lấy huyệt Nhân trung, Nội quan, Dũng tuyển.",
+      "confidence": 0.5688182232635361
+    },
+    {
+      "type": "text",
+      "img_path": "p0434_004_text.png",
+      "bbox": [
+        [
+          340,
+          1536
+        ],
+        [
+          2360,
+          1536
+        ],
+        [
+          2360,
+          1658
+        ],
+        [
+          340,
+          1658
+        ]
+      ],
+      "score": 0.9666515588760376,
+      "y_pos": 1536,
+      "text": "Trước hết lấy kim to đâm vào Nhân trung, dùng hào kim châm vào huyệt Nội quan, Dũng\ntuyền để cấp cứu lai.",
+      "confidence": 0.7661294235902674
+    },
+    {
+      "type": "text",
+      "img_path": "p0434_005_text.png",
+      "bbox": [
+        [
+          340,
+          1697
+        ],
+        [
+          2359,
+          1697
+        ],
+        [
+          2359,
+          1824
+        ],
+        [
+          340,
+          1824
+        ]
+      ],
+      "score": 0.9666323065757751,
+      "y_pos": 1697,
+      "text": "Nếu huyết áp tụt xuống thấp thì cứu <i>Bách hội</i>, châm <i>Thái khê</i> thường làm cho huyết áp\ntrở lại bình thường và có thể duy trì được một vài giờ, điều này rất có ý nghĩa cứu nạn.",
+      "confidence": 0.996524959973777
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0434_021_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          1862
+        ],
+        [
+          583,
+          1862
+        ],
+        [
+          583,
+          1913
+        ],
+        [
+          343,
+          1913
+        ]
+      ],
+      "score": 0.773124635219574,
+      "y_pos": 1862,
+      "text": "Gia qiám:",
+      "confidence": 0.8476552313024347
+    },
+    {
+      "type": "text",
+      "img_path": "p0434_013_text.png",
+      "bbox": [
+        [
+          344,
+          1955
+        ],
+        [
+          1036,
+          1955
+        ],
+        [
+          1036,
+          2005
+        ],
+        [
+          344,
+          2005
+        ]
+      ],
+      "score": 0.9230723977088928,
+      "y_pos": 1955,
+      "text": "+ Đờm nhiêu, gia <i>Phong long</i>.",
+      "confidence": 0.9550060741603374
+    },
+    {
+      "type": "text",
+      "img_path": "p0434_009_text.png",
+      "bbox": [
+        [
+          345,
+          2045
+        ],
+        [
+          1178,
+          2045
+        ],
+        [
+          1178,
+          2095
+        ],
+        [
+          345,
+          2095
+        ]
+      ],
+      "score": 0.9289475083351135,
+      "y_pos": 2045,
+      "text": "+ Sốt cao, gia Đai chuỳ, Thập tuyên.",
+      "confidence": 0.9698207754837839
+    },
+    {
+      "type": "text",
+      "img_path": "p0434_008_text.png",
+      "bbox": [
+        [
+          343,
+          2137
+        ],
+        [
+          1938,
+          2137
+        ],
+        [
+          1938,
+          2189
+        ],
+        [
+          343,
+          2189
+        ]
+      ],
+      "score": 0.9291187524795532,
+      "y_pos": 2137,
+      "text": "+ Co quắp, gia <i>Tứ quan</i> (cả hai <i>Hợp cốc</i>, hai <i>Thái xung</i> gọi là tứ quan).",
+      "confidence": 0.9924084697014246
+    },
+    {
+      "type": "text",
+      "img_path": "p0434_000_text.png",
+      "bbox": [
+        [
+          338,
+          2229
+        ],
+        [
+          2362,
+          2229
+        ],
+        [
+          2362,
+          2634
+        ],
+        [
+          338,
+          2634
+        ]
+      ],
+      "score": 0.9864641427993774,
+      "y_pos": 2229,
+      "text": "Giảng nghĩa của phương: Phương này chủ yếu là thanh não, tỉnh thần. Châm <i>Nhân</i>\ntrung để tỉnh thần, thần thức tỉnh lại thì bệnh cũng giảm nhẹ. <i>Nội quan</i> là Lạc huyệt củ tâm\nbào lac, cũng để thanh tâm, an thần. <i>Dũng tuyền</i> tư thủy giáng nghịch khí. <i>Phong long</i> trừ\nđờm, đờm mất thì khí cơ thêm thông suốt, thần được thanh. Đại chùy tiết nhiệt. Thập\ntuyên thông khí 12 kinh và có tác dụng tỉnh thần tiết nhiệt, nhiệt mất thì thần an. Gia <i>Tú</i>\n<i>quan</i> để chữa co quắp.",
+      "confidence": 0.9918559034601522
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0434_022_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          2676
+        ],
+        [
+          1419,
+          2676
+        ],
+        [
+          1419,
+          2727
+        ],
+        [
+          344,
+          2727
+        ]
+      ],
+      "score": 0.6889497637748718,
+      "y_pos": 2676,
+      "text": "Phương huyệt kinh nghiệm đạt hiệu quả cao",
+      "confidence": 0.9644905356473701
+    },
+    {
+      "type": "text",
+      "img_path": "p0434_012_text.png",
+      "bbox": [
+        [
+          344,
+          2764
+        ],
+        [
+          1841,
+          2764
+        ],
+        [
+          1841,
+          2818
+        ],
+        [
+          344,
+          2818
+        ]
+      ],
+      "score": 0.9234963655471802,
+      "y_pos": 2764,
+      "text": "+ Chích Nhĩ tiêm nặn máu để giảm đạm huyết, chống hôn mê gan.",
+      "confidence": 0.9974059935600038
+    },
+    {
+      "type": "text",
+      "img_path": "p0434_010_text.png",
+      "bbox": [
+        [
+          344,
+          2857
+        ],
+        [
+          1540,
+          2857
+        ],
+        [
+          1540,
+          2909
+        ],
+        [
+          344,
+          2909
+        ]
+      ],
+      "score": 0.9281322956085205,
+      "y_pos": 2857,
+      "text": "+ Tả Suất cốc, để giảm ngộ độc axêtôn do say rượu.",
+      "confidence": 0.9936468853400304
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0434_018_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          2951
+        ],
+        [
+          597,
+          2951
+        ],
+        [
+          597,
+          3002
+        ],
+        [
+          286,
+          3002
+        ]
+      ],
+      "score": 0.9085665941238403,
+      "y_pos": 2951,
+      "text": "b. Hư chứng",
+      "confidence": 0.8648260648433979
+    },
+    {
+      "type": "text",
+      "img_path": "p0434_006_text.png",
+      "bbox": [
+        [
+          282,
+          3041
+        ],
+        [
+          2356,
+          3041
+        ],
+        [
+          2356,
+          3165
+        ],
+        [
+          282,
+          3165
+        ]
+      ],
+      "score": 0.965760350227356,
+      "y_pos": 3041,
+      "text": "Đột nhiên quay đơ, thần thức không rõ ràng, sắc mặt trắng bợt, mồ hôi vã ra, bàn tay xòe ra,\nmiệng há, đái dầm, chân tay mát lạnh, thở ra yếu.",
+      "confidence": 0.9996798851674529
+    },
+    {
+      "type": "number",
+      "img_path": "p0434_020_number.png",
+      "bbox": [
+        [
+          2308,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2308,
+          3335
+        ]
+      ],
+      "score": 0.8632341027259827,
+      "y_pos": 3300,
+      "text": "    \n    \n\n\n    \n\n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0434_019_footer.png",
+      "bbox": [
+        [
+          228,
+          3309
+        ],
+        [
+          1323,
+          3309
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          228,
+          3355
+        ]
+      ],
+      "score": 0.9028935432434082,
+      "y_pos": 3309,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9293094086197188
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0434.png"
+}

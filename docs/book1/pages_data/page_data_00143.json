@@ -1,0 +1,786 @@
+{
+  "page_num": 143,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0143_026_text.png",
+      "bbox": [
+        [
+          512,
+          450
+        ],
+        [
+          1159,
+          450
+        ],
+        [
+          1159,
+          502
+        ],
+        [
+          512,
+          502
+        ]
+      ],
+      "score": 0.8340845108032227,
+      "y_pos": 450,
+      "text": "B. Thanh nhiệt lương huyết",
+      "confidence": 0.9754505561930793
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_027_text.png",
+      "bbox": [
+        [
+          514,
+          531
+        ],
+        [
+          1063,
+          531
+        ],
+        [
+          1063,
+          585
+        ],
+        [
+          514,
+          585
+        ]
+      ],
+      "score": 0.8156223893165588,
+      "y_pos": 531,
+      "text": "C. Kiện Tỳ nhiếp huyết",
+      "confidence": 0.9759937326113383
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_024_text.png",
+      "bbox": [
+        [
+          514,
+          616
+        ],
+        [
+          1072,
+          616
+        ],
+        [
+          1072,
+          668
+        ],
+        [
+          514,
+          668
+        ]
+      ],
+      "score": 0.8371293544769287,
+      "y_pos": 616,
+      "text": "D. Kiện Tỳ dưỡng huyết",
+      "confidence": 0.9674468487501144
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_025_text.png",
+      "bbox": [
+        [
+          515,
+          700
+        ],
+        [
+          1084,
+          700
+        ],
+        [
+          1084,
+          750
+        ],
+        [
+          515,
+          750
+        ]
+      ],
+      "score": 0.8368749022483826,
+      "y_pos": 700,
+      "text": "E. Dưỡng âm sinh huyết",
+      "confidence": 0.9832633808255196
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_018_text.png",
+      "bbox": [
+        [
+          463,
+          781
+        ],
+        [
+          2003,
+          781
+        ],
+        [
+          2003,
+          835
+        ],
+        [
+          463,
+          835
+        ]
+      ],
+      "score": 0.8699551820755005,
+      "y_pos": 781,
+      "text": "8. Những triệu chứng nào sau đây có thể gặp trong HC Tỳ dương hư",
+      "confidence": 0.999465856588248
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_023_text.png",
+      "bbox": [
+        [
+          514,
+          863
+        ],
+        [
+          1682,
+          863
+        ],
+        [
+          1682,
+          914
+        ],
+        [
+          514,
+          914
+        ]
+      ],
+      "score": 0.8443876504898071,
+      "y_pos": 863,
+      "text": "A. Đầy bụng, ăn kém, tiêu chảy, mệt mỏi, đoản khí",
+      "confidence": 0.9951549347709207
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_019_text.png",
+      "bbox": [
+        [
+          511,
+          946
+        ],
+        [
+          1731,
+          946
+        ],
+        [
+          1731,
+          998
+        ],
+        [
+          511,
+          998
+        ]
+      ],
+      "score": 0.869533896446228,
+      "y_pos": 946,
+      "text": "B. Đầy bụng, ăn kém, tiêu chảy, đoản khí, đờm loãng",
+      "confidence": 0.9995762672064439
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_015_text.png",
+      "bbox": [
+        [
+          511,
+          1029
+        ],
+        [
+          1771,
+          1029
+        ],
+        [
+          1771,
+          1081
+        ],
+        [
+          511,
+          1081
+        ]
+      ],
+      "score": 0.8812680244445801,
+      "y_pos": 1029,
+      "text": "C. Đầy bụng, ăn kém, tiêu chảy, sợ lạnh, tay chân lạnh",
+      "confidence": 0.9993060220565114
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_020_text.png",
+      "bbox": [
+        [
+          511,
+          1112
+        ],
+        [
+          1769,
+          1112
+        ],
+        [
+          1769,
+          1164
+        ],
+        [
+          511,
+          1164
+        ]
+      ],
+      "score": 0.8659382462501526,
+      "y_pos": 1112,
+      "text": "D. Đầy bụng, ăn kém, tiêu chảy, bụng chướng, mệt mỏi",
+      "confidence": 0.9996131470909825
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_021_text.png",
+      "bbox": [
+        [
+          513,
+          1195
+        ],
+        [
+          1820,
+          1195
+        ],
+        [
+          1820,
+          1248
+        ],
+        [
+          513,
+          1248
+        ]
+      ],
+      "score": 0.8562487959861755,
+      "y_pos": 1195,
+      "text": "E. Đầy bụng, ăn kém, tiêu chảy, bụng chướng, phù thũng",
+      "confidence": 0.9997481522815568
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0143_003_paragraph_title.png",
+      "bbox": [
+        [
+          346,
+          1306
+        ],
+        [
+          961,
+          1306
+        ],
+        [
+          961,
+          1366
+        ],
+        [
+          346,
+          1366
+        ]
+      ],
+      "score": 0.9225289225578308,
+      "y_pos": 1306,
+      "text": "B. CAU HOI NHAN QUA",
+      "confidence": 0.6987834317343575
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_002_text.png",
+      "bbox": [
+        [
+          343,
+          1416
+        ],
+        [
+          2125,
+          1416
+        ],
+        [
+          2125,
+          1521
+        ],
+        [
+          343,
+          1521
+        ]
+      ],
+      "score": 0.9413859248161316,
+      "y_pos": 1416,
+      "text": "1. a- Trong Tỳ khí hư bất kiện vận, có triệu chứng tay chân mỏi rũ không\ncó sức bởi vì:",
+      "confidence": 0.9944153536312483
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_000_text.png",
+      "bbox": [
+        [
+          343,
+          1554
+        ],
+        [
+          2125,
+          1554
+        ],
+        [
+          2125,
+          1662
+        ],
+        [
+          343,
+          1662
+        ]
+      ],
+      "score": 0.9557607769966125,
+      "y_pos": 1554,
+      "text": "b- Tỳ khí hư không vận hóa thủy cốc thành khí, huyết để nuôi dưỡng cơ\nnhuc tứ chi",
+      "confidence": 0.9718872918338713
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_012_text.png",
+      "bbox": [
+        [
+          510,
+          1696
+        ],
+        [
+          1718,
+          1696
+        ],
+        [
+          1718,
+          1746
+        ],
+        [
+          510,
+          1746
+        ]
+      ],
+      "score": 0.8997890949249268,
+      "y_pos": 1696,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.9931119972804807
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_013_text.png",
+      "bbox": [
+        [
+          510,
+          1776
+        ],
+        [
+          1808,
+          1776
+        ],
+        [
+          1808,
+          1829
+        ],
+        [
+          510,
+          1829
+        ]
+      ],
+      "score": 0.898364782333374,
+      "y_pos": 1776,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.9942819752863475
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_005_text.png",
+      "bbox": [
+        [
+          511,
+          1859
+        ],
+        [
+          993,
+          1859
+        ],
+        [
+          993,
+          1909
+        ],
+        [
+          511,
+          1909
+        ]
+      ],
+      "score": 0.9133833050727844,
+      "y_pos": 1859,
+      "text": "C. Nếu a đúng, b sai",
+      "confidence": 0.9720106368715112
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_006_text.png",
+      "bbox": [
+        [
+          512,
+          1942
+        ],
+        [
+          994,
+          1942
+        ],
+        [
+          994,
+          1993
+        ],
+        [
+          512,
+          1993
+        ]
+      ],
+      "score": 0.9127302765846252,
+      "y_pos": 1942,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9827262244441293
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_009_text.png",
+      "bbox": [
+        [
+          515,
+          2025
+        ],
+        [
+          945,
+          2025
+        ],
+        [
+          945,
+          2071
+        ],
+        [
+          515,
+          2071
+        ]
+      ],
+      "score": 0.907379150390625,
+      "y_pos": 2025,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.9644105746632531
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_001_text.png",
+      "bbox": [
+        [
+          341,
+          2108
+        ],
+        [
+          2123,
+          2108
+        ],
+        [
+          2123,
+          2272
+        ],
+        [
+          341,
+          2272
+        ]
+      ],
+      "score": 0.9464835524559021,
+      "y_pos": 2108,
+      "text": "2.a- Trong bài Tứ quân gia Trư linh, Trạch tả trị chứng Tỳ khí hư bất\nkiên vân gồm Nhân sâm, Bach truật, Bach linh, Cam thảo, Trư linh, Trach tả.\nVi Nhân sâm làm quân bởi vì:",
+      "confidence": 0.980420391151552
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_017_text.png",
+      "bbox": [
+        [
+          461,
+          2306
+        ],
+        [
+          1186,
+          2306
+        ],
+        [
+          1186,
+          2355
+        ],
+        [
+          461,
+          2355
+        ]
+      ],
+      "score": 0.876179039478302,
+      "y_pos": 2306,
+      "text": "b- Nhân sâm đai bổ nguyên khí",
+      "confidence": 0.9628929764993729
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_016_text.png",
+      "bbox": [
+        [
+          510,
+          2389
+        ],
+        [
+          1717,
+          2389
+        ],
+        [
+          1717,
+          2439
+        ],
+        [
+          510,
+          2439
+        ]
+      ],
+      "score": 0.8790078163146973,
+      "y_pos": 2389,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.9936823766186552
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_014_text.png",
+      "bbox": [
+        [
+          510,
+          2472
+        ],
+        [
+          1808,
+          2472
+        ],
+        [
+          1808,
+          2524
+        ],
+        [
+          510,
+          2524
+        ]
+      ],
+      "score": 0.8936569690704346,
+      "y_pos": 2472,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.9959420295698302
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_004_text.png",
+      "bbox": [
+        [
+          512,
+          2554
+        ],
+        [
+          994,
+          2554
+        ],
+        [
+          994,
+          2603
+        ],
+        [
+          512,
+          2603
+        ]
+      ],
+      "score": 0.9150179028511047,
+      "y_pos": 2554,
+      "text": "C. Nếu a đúng, b sai",
+      "confidence": 0.9734536544843153
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_010_text.png",
+      "bbox": [
+        [
+          512,
+          2636
+        ],
+        [
+          994,
+          2636
+        ],
+        [
+          994,
+          2686
+        ],
+        [
+          512,
+          2686
+        ]
+      ],
+      "score": 0.9062846899032593,
+      "y_pos": 2636,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9827262244441293
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_008_text.png",
+      "bbox": [
+        [
+          515,
+          2718
+        ],
+        [
+          945,
+          2718
+        ],
+        [
+          945,
+          2766
+        ],
+        [
+          515,
+          2766
+        ]
+      ],
+      "score": 0.9085273146629333,
+      "y_pos": 2718,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.973795405455998
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_029_text.png",
+      "bbox": [
+        [
+          462,
+          2801
+        ],
+        [
+          2092,
+          2801
+        ],
+        [
+          2092,
+          2854
+        ],
+        [
+          462,
+          2854
+        ]
+      ],
+      "score": 0.5627009272575378,
+      "y_pos": 2801,
+      "text": "3.a- Trong HC Tỳ khí hư hạ hãm, có triệu chứng sa giãn các tạng phủ bởi vì:",
+      "confidence": 0.9915055903521451
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_028_text.png",
+      "bbox": [
+        [
+          463,
+          2885
+        ],
+        [
+          1397,
+          2885
+        ],
+        [
+          1397,
+          2934
+        ],
+        [
+          463,
+          2934
+        ]
+      ],
+      "score": 0.7687069773674011,
+      "y_pos": 2885,
+      "text": "b- Tỳ khí hư thì khí trệ, đưa đến huyết ứ",
+      "confidence": 0.9743171736251476
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_011_text.png",
+      "bbox": [
+        [
+          511,
+          2968
+        ],
+        [
+          1715,
+          2968
+        ],
+        [
+          1715,
+          3019
+        ],
+        [
+          511,
+          3019
+        ]
+      ],
+      "score": 0.9018881916999817,
+      "y_pos": 2968,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.9968283839945523
+    },
+    {
+      "type": "number",
+      "img_path": "p0143_022_number.png",
+      "bbox": [
+        [
+          353,
+          3110
+        ],
+        [
+          433,
+          3110
+        ],
+        [
+          433,
+          3148
+        ],
+        [
+          353,
+          3148
+        ]
+      ],
+      "score": 0.848901629447937,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0143_007_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.9102799892425537,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8789173466818673
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0143.png"
+}

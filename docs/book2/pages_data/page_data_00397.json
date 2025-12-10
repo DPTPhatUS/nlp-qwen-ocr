@@ -1,0 +1,526 @@
+{
+  "page_num": 397,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0397_008_header.png",
+      "bbox": [
+        [
+          1679,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          195
+        ],
+        [
+          1679,
+          195
+        ]
+      ],
+      "score": 0.9195606112480164,
+      "y_pos": 142,
+      "text": "_______________________________________\nCAM NANG CHAN TRI ĐONG Y",
+      "confidence": 0.6296039422544149
+    },
+    {
+      "type": "header",
+      "img_path": "p0397_012_header.png",
+      "bbox": [
+        [
+          230,
+          146
+        ],
+        [
+          1095,
+          146
+        ],
+        [
+          1095,
+          196
+        ],
+        [
+          230,
+          196
+        ]
+      ],
+      "score": 0.9131810665130615,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SĂNG",
+      "confidence": 0.9871476462909153
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0397_015_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          323
+        ],
+        [
+          463,
+          323
+        ],
+        [
+          463,
+          370
+        ],
+        [
+          224,
+          370
+        ]
+      ],
+      "score": 0.9022691249847412,
+      "y_pos": 323,
+      "text": "ĐÀU ĐẦU",
+      "confidence": 0.9247054192754958
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0397_017_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          418
+        ],
+        [
+          759,
+          418
+        ],
+        [
+          759,
+          471
+        ],
+        [
+          225,
+          471
+        ]
+      ],
+      "score": 0.8986404538154602,
+      "y_pos": 418,
+      "text": "A. Biện chứng luận trị",
+      "confidence": 0.9372444078326225
+    },
+    {
+      "type": "text",
+      "img_path": "p0397_000_text.png",
+      "bbox": [
+        [
+          220,
+          509
+        ],
+        [
+          2359,
+          509
+        ],
+        [
+          2359,
+          1054
+        ],
+        [
+          220,
+          1054
+        ]
+      ],
+      "score": 0.9868531227111816,
+      "y_pos": 509,
+      "text": "Triệu chứng đau đầu trên lâm sàng, có thể do bệnh của vùng đầu như bệnh sọ não, bệnh của\nngũ quan, hoặc bệnh lây cấp tính, bệnh tim mạch, bệnh tinh thần, thần kinh gây ra. Y học\nPhương Đông cho rằng do ngoại cảm lục dâm xâm phạm vào não, do tình cảm biến động làm\ncan dương thiên cang, hoặc khí huyết, âm tinh bất túc, không thể lên để dưỡng não, chấn\nthương sọ não, hoặc huyết ứ đình trệ, v.v... đều có thể sinh ra đau đầu. Trọng điểm của thiên\nnày là lấy đau đầu trong tạp bệnh của nội thương làm chủ. Nếu như viêm nhiễm cấp tính hoặc\nbệnh bệnh ở ngũ quan mà kèm đau đầu, ta phải chẩn đoán và điều trị đúng, bệnh hết thì chứng\nđau đầu tư hết.",
+      "confidence": 0.9992508329685135
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0397_010_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          1095
+        ],
+        [
+          903,
+          1095
+        ],
+        [
+          903,
+          1147
+        ],
+        [
+          224,
+          1147
+        ]
+      ],
+      "score": 0.9185149669647217,
+      "y_pos": 1095,
+      "text": "B. Điểm chủ yếu để kiểm tra",
+      "confidence": 0.9215093727769523
+    },
+    {
+      "type": "text",
+      "img_path": "p0397_001_text.png",
+      "bbox": [
+        [
+          221,
+          1188
+        ],
+        [
+          2359,
+          1188
+        ],
+        [
+          2359,
+          1526
+        ],
+        [
+          221,
+          1526
+        ]
+      ],
+      "score": 0.9833695292472839,
+      "y_pos": 1188,
+      "text": "1. Vùng đau trên đầu: Đau đầu trước trán thường do bệnh ở mắt, mũi, họng, thiếu máu hoặc\nsốt cao. Đau một bên đầu thường do bệnh tai, thiên đầu thống. Đỉnh đầu đau thường do thần\nkinh chức năng. Vùng gáy đau thường gặp cao huyết áp và khối u não. Đau toàn đầu hoặc nơi\nđau không nhất định, thường thấy do sang chấn tinh thần, xơ hoá động mạch não, thần kinh\nsuy nhược hoặc việm nhiễm hệ thần kinh trung ương.",
+      "confidence": 0.9994132742464032
+    },
+    {
+      "type": "text",
+      "img_path": "p0397_002_text.png",
+      "bbox": [
+        [
+          221,
+          1561
+        ],
+        [
+          2360,
+          1561
+        ],
+        [
+          2360,
+          1831
+        ],
+        [
+          221,
+          1831
+        ]
+      ],
+      "score": 0.9808709025382996,
+      "y_pos": 1561,
+      "text": "2. Thời gian đau: Buổi chiều hoặc tối đêm đau dữ dội, thường là do bệnh ở mắt, sáng sớm đến\ngần trưa đau dữ mà thường là viêm xoang mũi. Đau liên tục không dứt, thường là khối u não.\nNếu vùng sọ có tiền sử chấn thương, cần nghĩ đến chứng chấn động não. Có lúc đau lúc dừng\nthường là thiên đầu thống.",
+      "confidence": 0.9987568879282838
+    },
+    {
+      "type": "text",
+      "img_path": "p0397_003_text.png",
+      "bbox": [
+        [
+          221,
+          1868
+        ],
+        [
+          2360,
+          1868
+        ],
+        [
+          2360,
+          2134
+        ],
+        [
+          221,
+          2134
+        ]
+      ],
+      "score": 0.9802833199501038,
+      "y_pos": 1868,
+      "text": "3. Chú ý đến đau đầu và chứng trạng kèm theo. Thiên đầu thống thường kèm theo có quặn\nbụng nôn mửa. U não, thường nôn đi, mửa lại. Thần kinh suy nhược thì kèm mất ngủ. Bệnh\nvùng mắt, thường thấy giảm thị lực. Bệnh ở tai, mũi thường có chảy nước cục bộ. Bệnh viêm\nnhiễm sẽ có sốt, nếu kèm nôn mửa, phải nghĩ đến ảnh hưởng tới hệ thần kinh trung ương.",
+      "confidence": 0.9991270719926337
+    },
+    {
+      "type": "text",
+      "img_path": "p0397_004_text.png",
+      "bbox": [
+        [
+          221,
+          2170
+        ],
+        [
+          2358,
+          2170
+        ],
+        [
+          2358,
+          2297
+        ],
+        [
+          221,
+          2297
+        ]
+      ],
+      "score": 0.9573937058448792,
+      "y_pos": 2170,
+      "text": "Phải đo thân nhiệt (kẹp sốt), đo huyết áp, kiểm tra kỹ các giác quan mắt, tai, mũi, họng, để chẩn\nđoán đúng.",
+      "confidence": 0.9988542655953253
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0397_013_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2336
+        ],
+        [
+          558,
+          2336
+        ],
+        [
+          558,
+          2382
+        ],
+        [
+          225,
+          2382
+        ]
+      ],
+      "score": 0.9124812483787537,
+      "y_pos": 2336,
+      "text": "C. Cách chữa",
+      "confidence": 0.897042989730835
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0397_016_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2426
+        ],
+        [
+          668,
+          2426
+        ],
+        [
+          668,
+          2476
+        ],
+        [
+          226,
+          2476
+        ]
+      ],
+      "score": 0.8991587162017822,
+      "y_pos": 2426,
+      "text": "1. Bằng châm cứu",
+      "confidence": 0.8805607226159837
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0397_018_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2519
+        ],
+        [
+          532,
+          2519
+        ],
+        [
+          532,
+          2566
+        ],
+        [
+          226,
+          2566
+        ]
+      ],
+      "score": 0.8881084322929382,
+      "y_pos": 2519,
+      "text": "Thê châm",
+      "confidence": 0.997500228881836
+    },
+    {
+      "type": "text",
+      "img_path": "p0397_009_text.png",
+      "bbox": [
+        [
+          224,
+          2611
+        ],
+        [
+          1677,
+          2611
+        ],
+        [
+          1677,
+          2662
+        ],
+        [
+          224,
+          2662
+        ]
+      ],
+      "score": 0.9187526702880859,
+      "y_pos": 2611,
+      "text": "- Đau phía trước trán: <i>Tán trúc</i> thấu <i>Ngư yêu, Hợp cốc, Nôi đình</i>.",
+      "confidence": 0.9858928535665784
+    },
+    {
+      "type": "text",
+      "img_path": "p0397_007_text.png",
+      "bbox": [
+        [
+          225,
+          2703
+        ],
+        [
+          1476,
+          2703
+        ],
+        [
+          1476,
+          2754
+        ],
+        [
+          225,
+          2754
+        ]
+      ],
+      "score": 0.9208613634109497,
+      "y_pos": 2703,
+      "text": "- Đau ở 2 bên cạnh: Thái dương, Ngoại quan, Hiệp khê.",
+      "confidence": 0.9967296286062761
+    },
+    {
+      "type": "text",
+      "img_path": "p0397_005_text.png",
+      "bbox": [
+        [
+          226,
+          2795
+        ],
+        [
+          1105,
+          2795
+        ],
+        [
+          1105,
+          2844
+        ],
+        [
+          226,
+          2844
+        ]
+      ],
+      "score": 0.9263916611671448,
+      "y_pos": 2795,
+      "text": "- Đau ở đỉnh đầu: Bách hôi, Hành gian.",
+      "confidence": 0.9978259027004241
+    },
+    {
+      "type": "text",
+      "img_path": "p0397_006_text.png",
+      "bbox": [
+        [
+          225,
+          2887
+        ],
+        [
+          1336,
+          2887
+        ],
+        [
+          1336,
+          2938
+        ],
+        [
+          225,
+          2938
+        ]
+      ],
+      "score": 0.9215356111526489,
+      "y_pos": 2887,
+      "text": "- Đau ở sau não: Phong trì, Kinh cốt, Ngoại quan.",
+      "confidence": 0.9930579989564186
+    },
+    {
+      "type": "text",
+      "img_path": "p0397_011_text.png",
+      "bbox": [
+        [
+          224,
+          2977
+        ],
+        [
+          2163,
+          2977
+        ],
+        [
+          2163,
+          3030
+        ],
+        [
+          224,
+          3030
+        ]
+      ],
+      "score": 0.9176182150840759,
+      "y_pos": 2977,
+      "text": "<b>b. Nhĩ châm:</b> Bì chất hạ, Thần môn, vùng tương ứng (<i>gáy, trán, thái dương, đỉnh đầu</i>).",
+      "confidence": 0.9879032525751326
+    },
+    {
+      "type": "number",
+      "img_path": "p0397_019_number.png",
+      "bbox": [
+        [
+          2306,
+          3335
+        ],
+        [
+          2352,
+          3335
+        ],
+        [
+          2352,
+          3369
+        ],
+        [
+          2306,
+          3369
+        ]
+      ],
+      "score": 0.8503397703170776,
+      "y_pos": 3335,
+      "text": "\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0397_014_footer.png",
+      "bbox": [
+        [
+          228,
+          3336
+        ],
+        [
+          1343,
+          3336
+        ],
+        [
+          1343,
+          3383
+        ],
+        [
+          228,
+          3383
+        ]
+      ],
+      "score": 0.9042760133743286,
+      "y_pos": 3336,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9415562085385593
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0397.png"
+}

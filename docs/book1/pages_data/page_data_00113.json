@@ -1,0 +1,422 @@
+{
+  "page_num": 113,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0113_002_text.png",
+      "bbox": [
+        [
+          406,
+          450
+        ],
+        [
+          2126,
+          450
+        ],
+        [
+          2126,
+          560
+        ],
+        [
+          406,
+          560
+        ]
+      ],
+      "score": 0.963114321231842,
+      "y_pos": 450,
+      "text": "- Hai gò má đỏ. Sắc mặt hồng, người bứt rứt. Sốt hoặc cảm giác nóng, sốt\nvề chiều hoặc về đêm, lòng bàn tay nóng.",
+      "confidence": 0.7043925732604325
+    },
+    {
+      "type": "text",
+      "img_path": "p0113_009_text.png",
+      "bbox": [
+        [
+          406,
+          592
+        ],
+        [
+          1969,
+          592
+        ],
+        [
+          1969,
+          642
+        ],
+        [
+          406,
+          642
+        ]
+      ],
+      "score": 0.9131692051887512,
+      "y_pos": 592,
+      "text": "- Đao hãn, táo bón. Nước tiểu sẫm màu (vàng đỏ hoặc đuc), tiểu sẻn.",
+      "confidence": 0.9895503520965576
+    },
+    {
+      "type": "text",
+      "img_path": "p0113_008_text.png",
+      "bbox": [
+        [
+          407,
+          678
+        ],
+        [
+          1811,
+          678
+        ],
+        [
+          1811,
+          727
+        ],
+        [
+          407,
+          727
+        ]
+      ],
+      "score": 0.9159482717514038,
+      "y_pos": 678,
+      "text": "- Lưỡi khô đỏ, rêu trắng khô. Mach nhanh nhỏ, tế sác, vô lực.",
+      "confidence": 0.9813607547964368
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0113_007_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          785
+        ],
+        [
+          1175,
+          785
+        ],
+        [
+          1175,
+          835
+        ],
+        [
+          344,
+          835
+        ]
+      ],
+      "score": 0.9206300377845764,
+      "y_pos": 785,
+      "text": "2.1.1.4. Bệnh cảnh Tây y thường gặp",
+      "confidence": 0.9697687368135195
+    },
+    {
+      "type": "text",
+      "img_path": "p0113_010_text.png",
+      "bbox": [
+        [
+          464,
+          880
+        ],
+        [
+          1128,
+          880
+        ],
+        [
+          1128,
+          931
+        ],
+        [
+          464,
+          931
+        ]
+      ],
+      "score": 0.911035418510437,
+      "y_pos": 880,
+      "text": "Lao phổi. Hen phế quản mạn",
+      "confidence": 0.9959934481552669
+    },
+    {
+      "type": "text",
+      "img_path": "p0113_003_text.png",
+      "bbox": [
+        [
+          408,
+          962
+        ],
+        [
+          1007,
+          962
+        ],
+        [
+          1007,
+          1014
+        ],
+        [
+          408,
+          1014
+        ]
+      ],
+      "score": 0.925574779510498,
+      "y_pos": 962,
+      "text": "Ung thư phế quản phổi.",
+      "confidence": 0.9772563104828199
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0113_004_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          1072
+        ],
+        [
+          722,
+          1072
+        ],
+        [
+          722,
+          1121
+        ],
+        [
+          345,
+          1121
+        ]
+      ],
+      "score": 0.9215593338012695,
+      "y_pos": 1072,
+      "text": "2.1.1.5. Pháp tri",
+      "confidence": 0.9594516377700003
+    },
+    {
+      "type": "text",
+      "img_path": "p0113_006_text.png",
+      "bbox": [
+        [
+          464,
+          1166
+        ],
+        [
+          816,
+          1166
+        ],
+        [
+          816,
+          1213
+        ],
+        [
+          464,
+          1213
+        ]
+      ],
+      "score": 0.9206955432891846,
+      "y_pos": 1166,
+      "text": "Dưỡng Phế âm.",
+      "confidence": 0.9450911204020183
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0113_005_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          1274
+        ],
+        [
+          824,
+          1274
+        ],
+        [
+          824,
+          1323
+        ],
+        [
+          345,
+          1323
+        ]
+      ],
+      "score": 0.9208553433418274,
+      "y_pos": 1274,
+      "text": "2.1.1.6. Phương dược",
+      "confidence": 0.9686008041555231
+    },
+    {
+      "type": "text",
+      "img_path": "p0113_013_text.png",
+      "bbox": [
+        [
+          407,
+          1370
+        ],
+        [
+          1489,
+          1370
+        ],
+        [
+          1489,
+          1420
+        ],
+        [
+          407,
+          1420
+        ]
+      ],
+      "score": 0.8237124085426331,
+      "y_pos": 1370,
+      "text": "- Nhất âm tiễn gia giảm (Cảnh Nhac toàn thư)",
+      "confidence": 0.526333282823148
+    },
+    {
+      "type": "text",
+      "img_path": "p0113_014_text.png",
+      "bbox": [
+        [
+          464,
+          1450
+        ],
+        [
+          1380,
+          1450
+        ],
+        [
+          1380,
+          1500
+        ],
+        [
+          464,
+          1500
+        ]
+      ],
+      "score": 0.7652209401130676,
+      "y_pos": 1450,
+      "text": "+ Phân tích bài thuốc: (Pháp bổ -thanh)",
+      "confidence": 0.9640708463947948
+    },
+    {
+      "type": "table",
+      "img_path": "p0113_000_table.png",
+      "bbox": [
+        [
+          352,
+          1564
+        ],
+        [
+          2124,
+          1564
+        ],
+        [
+          2124,
+          2261
+        ],
+        [
+          352,
+          2261
+        ]
+      ],
+      "score": 0.9899605512619019,
+      "y_pos": 1564,
+      "text": "Vi thuốc    Dược lý Đông y\nMach môn    Ngọt, hơi đẳng, hơi lạnh vào Phế, Vị. Hạ sốt, nhuận Phế, sinh tân\nSinh địa    Đắng, hàn, vào Tâm, Can, Thân. Thanh nhiệt, lương huyết, dưỡng âm, sinh tân\nĐia cốt bì    Ngọt, hơi đắng, tính hàn vào Can, Thận, Phế. Thanh Phế nhiệt, chỉ khái,\nchữa Can uất hỏa gây huyễn vựng, điều trị cốt chưng, ra mồ hôi\nBach thược    Đắng, chua, lạnh, vào Can, Tỳ, Phế. Liễm âm, dưỡng huyết, lợi thủy\nTri mẫu    Đắng, lanh. Tư Thận, bổ thủy tả hỏa, hạ thủy, ích khí\nCam thảo    Ngọt, bình, vào 12 kinh. Bổ trung khí, hòa hoãn, giải độc",
+      "confidence": 0.915304257255075
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0113_015_figure_title.png",
+      "bbox": [
+        [
+          463,
+          2344
+        ],
+        [
+          1098,
+          2344
+        ],
+        [
+          1098,
+          2396
+        ],
+        [
+          463,
+          2396
+        ]
+      ],
+      "score": 0.5604894757270813,
+      "y_pos": 2344,
+      "text": "+ Công thức huyệt sử dụng",
+      "confidence": 0.9975306104730677
+    },
+    {
+      "type": "table",
+      "img_path": "p0113_001_table.png",
+      "bbox": [
+        [
+          351,
+          2444
+        ],
+        [
+          2123,
+          2444
+        ],
+        [
+          2123,
+          3008
+        ],
+        [
+          351,
+          3008
+        ]
+      ],
+      "score": 0.9882036447525024,
+      "y_pos": 2444,
+      "text": "Tên huyệt    Cơ sở lý luận    Tác dụng điều trị\nThái uyên    Nguyên huyêt của Phế    Bổ Phế\nThiên lich    Lac huyêt của Đai trường\nTam âm giao    Giao hội huyệt của 3 kinh âm ở chân. Huyệt    Bổ âm\nđặc hiệu bổ âm\nPhế du    Du huyêt của Phế    Bổ Phế âm\nThận du    Du huyêt của Thân    Bổ Thân âm",
+      "confidence": 0.923896005624475
+    },
+    {
+      "type": "number",
+      "img_path": "p0113_012_number.png",
+      "bbox": [
+        [
+          353,
+          3110
+        ],
+        [
+          433,
+          3110
+        ],
+        [
+          433,
+          3148
+        ],
+        [
+          353,
+          3148
+        ]
+      ],
+      "score": 0.8734562993049622,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0113_011_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1074,
+          3311
+        ],
+        [
+          1074,
+          3366
+        ],
+        [
+          293,
+          3366
+        ]
+      ],
+      "score": 0.893120527267456,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8805461287498474
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0113.png"
+}

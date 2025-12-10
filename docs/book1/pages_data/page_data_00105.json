@@ -1,0 +1,214 @@
+{
+  "page_num": 105,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0105_006_text.png",
+      "bbox": [
+        [
+          470,
+          922
+        ],
+        [
+          1476,
+          922
+        ],
+        [
+          1476,
+          978
+        ],
+        [
+          470,
+          978
+        ]
+      ],
+      "score": 0.5337458848953247,
+      "y_pos": 922,
+      "text": "10. Nguyên nhân của HC Vị nhiệt ủng thịnh",
+      "confidence": 0.9995346110920573
+    },
+    {
+      "type": "text",
+      "img_path": "p0105_005_text.png",
+      "bbox": [
+        [
+          470,
+          1404
+        ],
+        [
+          1600,
+          1404
+        ],
+        [
+          1600,
+          1459
+        ],
+        [
+          470,
+          1459
+        ]
+      ],
+      "score": 0.5480373501777649,
+      "y_pos": 1404,
+      "text": "11. Những triệu chứng của HC Vị nhiệt ủng thịnh",
+      "confidence": 0.9995514263912123
+    },
+    {
+      "type": "text",
+      "img_path": "p0105_007_text.png",
+      "bbox": [
+        [
+          514,
+          1486
+        ],
+        [
+          2128,
+          1486
+        ],
+        [
+          2128,
+          1597
+        ],
+        [
+          514,
+          1597
+        ]
+      ],
+      "score": 0.5114932060241699,
+      "y_pos": 1486,
+      "text": "A. Miệng khô, khát nước, cầu táo, tiểu sẻn, môi lưỡi đỏ, rong kinh, rong\nhuyết",
+      "confidence": 0.9894350226129498
+    },
+    {
+      "type": "text",
+      "img_path": "p0105_004_text.png",
+      "bbox": [
+        [
+          512,
+          2040
+        ],
+        [
+          1090,
+          2040
+        ],
+        [
+          1090,
+          2423
+        ],
+        [
+          512,
+          2423
+        ]
+      ],
+      "score": 0.7711310386657715,
+      "y_pos": 2040,
+      "text": "A. Dưỡng vị sinh tân\nB. Thanh Vị nhuận táo\nC. Tư âm thanh nhiệt\nD. Thanh Vị lương huyết\nE. Thanh Vị tả hỏa",
+      "confidence": 0.9686051496215489
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0105_002_paragraph_title.png",
+      "bbox": [
+        [
+          346,
+          2481
+        ],
+        [
+          873,
+          2481
+        ],
+        [
+          873,
+          2541
+        ],
+        [
+          346,
+          2541
+        ]
+      ],
+      "score": 0.8146133422851562,
+      "y_pos": 2481,
+      "text": "CAU HOI NHAN QUA",
+      "confidence": 0.6239465607537164
+    },
+    {
+      "type": "text",
+      "img_path": "p0105_003_text.png",
+      "bbox": [
+        [
+          466,
+          2585
+        ],
+        [
+          2112,
+          2585
+        ],
+        [
+          2112,
+          2973
+        ],
+        [
+          466,
+          2973
+        ]
+      ],
+      "score": 0.8094677329063416,
+      "y_pos": 2585,
+      "text": "1. a. Trong HC Hàn thấp khốn Tỳ, có triệu chứng bụng đầy chướng bởi vì\nb. Tính chất của hàn thấp tà là làm cho khí của Vị bị trở trệ\nA. Nếu a đúng, b đúng, a và b có liên quan nhân quả\nB. Nếu a đúng, b đúng, a và b không liên quan nhân quả\nC. Nếu a đúng, b sai",
+      "confidence": 0.9843947615629137
+    },
+    {
+      "type": "number",
+      "img_path": "p0105_001_number.png",
+      "bbox": [
+        [
+          353,
+          3110
+        ],
+        [
+          430,
+          3110
+        ],
+        [
+          430,
+          3149
+        ],
+        [
+          353,
+          3149
+        ]
+      ],
+      "score": 0.8277907371520996,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0105_000_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1074,
+          3311
+        ],
+        [
+          1074,
+          3367
+        ],
+        [
+          294,
+          3367
+        ]
+      ],
+      "score": 0.9138943552970886,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8891090188707624
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0105.png"
+}

@@ -1,0 +1,368 @@
+{
+  "page_num": 276,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0276_002_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2371,
+          142
+        ],
+        [
+          2371,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9265074729919434,
+      "y_pos": 142,
+      "text": "~7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7259912952071145
+    },
+    {
+      "type": "header",
+      "img_path": "p0276_003_header.png",
+      "bbox": [
+        [
+          229,
+          156
+        ],
+        [
+          905,
+          156
+        ],
+        [
+          905,
+          202
+        ],
+        [
+          229,
+          202
+        ]
+      ],
+      "score": 0.9181039333343506,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6954749863723229
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0276_006_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          348
+        ],
+        [
+          560,
+          348
+        ],
+        [
+          560,
+          393
+        ],
+        [
+          227,
+          393
+        ]
+      ],
+      "score": 0.8985625505447388,
+      "y_pos": 348,
+      "text": "343. Bản môn",
+      "confidence": 0.9730590411594936
+    },
+    {
+      "type": "text",
+      "img_path": "p0276_001_text.png",
+      "bbox": [
+        [
+          290,
+          439
+        ],
+        [
+          1321,
+          439
+        ],
+        [
+          1321,
+          494
+        ],
+        [
+          290,
+          494
+        ]
+      ],
+      "score": 0.9272778630256653,
+      "y_pos": 439,
+      "text": "Vị trí: Phía trong huyệt Ngư tế 1 thốn. (H.136)",
+      "confidence": 0.5695487942014422
+    },
+    {
+      "type": "image",
+      "img_path": "p0276_000_image.png",
+      "bbox": [
+        [
+          812,
+          538
+        ],
+        [
+          1778,
+          538
+        ],
+        [
+          1778,
+          2441
+        ],
+        [
+          812,
+          2441
+        ]
+      ],
+      "score": 0.9636866450309753,
+      "y_pos": 538
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0276_010_figure_title.png",
+      "bbox": [
+        [
+          1195,
+          2522
+        ],
+        [
+          1393,
+          2522
+        ],
+        [
+          1393,
+          2564
+        ],
+        [
+          1195,
+          2564
+        ]
+      ],
+      "score": 0.8856128454208374,
+      "y_pos": 2522,
+      "text": "<b>Hình 136</b>",
+      "confidence": 0.946133573849996
+    },
+    {
+      "type": "text",
+      "img_path": "p0276_012_text.png",
+      "bbox": [
+        [
+          288,
+          2610
+        ],
+        [
+          1365,
+          2610
+        ],
+        [
+          1365,
+          2662
+        ],
+        [
+          288,
+          2662
+        ]
+      ],
+      "score": 0.7422136664390564,
+      "y_pos": 2610,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3 - 0,5 thốn",
+      "confidence": 0.990819541008576
+    },
+    {
+      "type": "text",
+      "img_path": "p0276_013_text.png",
+      "bbox": [
+        [
+          289,
+          2702
+        ],
+        [
+          889,
+          2702
+        ],
+        [
+          889,
+          2752
+        ],
+        [
+          289,
+          2752
+        ]
+      ],
+      "score": 0.7095961570739746,
+      "y_pos": 2702,
+      "text": "Chủ tri: Hen, viêm amidan",
+      "confidence": 0.4126571107793737
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0276_008_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2793
+        ],
+        [
+          662,
+          2793
+        ],
+        [
+          662,
+          2840
+        ],
+        [
+          227,
+          2840
+        ]
+      ],
+      "score": 0.8908118605613708,
+      "y_pos": 2793,
+      "text": "344. Thủ kim môn",
+      "confidence": 0.9090961946381463
+    },
+    {
+      "type": "text",
+      "img_path": "p0276_009_text.png",
+      "bbox": [
+        [
+          291,
+          2884
+        ],
+        [
+          1396,
+          2884
+        ],
+        [
+          1396,
+          2937
+        ],
+        [
+          291,
+          2937
+        ]
+      ],
+      "score": 0.8858270049095154,
+      "y_pos": 2884,
+      "text": "Vị trí: Giữa nếp gấp cổ tay lên 3 - 4 thốn. (H.136)",
+      "confidence": 0.9921250118399566
+    },
+    {
+      "type": "text",
+      "img_path": "p0276_011_text.png",
+      "bbox": [
+        [
+          288,
+          2975
+        ],
+        [
+          1337,
+          2975
+        ],
+        [
+          1337,
+          3027
+        ],
+        [
+          288,
+          3027
+        ]
+      ],
+      "score": 0.8807468414306641,
+      "y_pos": 2975,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 1 - 1,5 thôn.",
+      "confidence": 0.9789725725955152
+    },
+    {
+      "type": "text",
+      "img_path": "p0276_005_text.png",
+      "bbox": [
+        [
+          287,
+          3068
+        ],
+        [
+          1090,
+          3068
+        ],
+        [
+          1090,
+          3122
+        ],
+        [
+          287,
+          3122
+        ]
+      ],
+      "score": 0.9127318263053894,
+      "y_pos": 3068,
+      "text": "Chủ trị: lao hạch ở cổ (tràng nhạc).",
+      "confidence": 0.9648084765986392
+    },
+    {
+      "type": "footer",
+      "img_path": "p0276_004_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3386
+        ],
+        [
+          228,
+          3386
+        ]
+      ],
+      "score": 0.9150542616844177,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9235246552611297
+    },
+    {
+      "type": "number",
+      "img_path": "p0276_007_number.png",
+      "bbox": [
+        [
+          2279,
+          3337
+        ],
+        [
+          2350,
+          3337
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2279,
+          3377
+        ]
+      ],
+      "score": 0.8929189443588257,
+      "y_pos": 3337,
+      "text": "\n    \n\n\n    \n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0276.png"
+}

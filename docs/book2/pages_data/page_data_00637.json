@@ -1,0 +1,630 @@
+{
+  "page_num": 637,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0637_013_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9266006946563721,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0637_017_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9174239635467529,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "text",
+      "img_path": "p0637_008_text.png",
+      "bbox": [
+        [
+          280,
+          307
+        ],
+        [
+          2359,
+          307
+        ],
+        [
+          2359,
+          433
+        ],
+        [
+          280,
+          433
+        ]
+      ],
+      "score": 0.9615474343299866,
+      "y_pos": 307,
+      "text": "Mô hình chỉ số nhiệt kinh lạc: Tiểu trường (-BL), Tâm bào (+BL), Can (+BL), Tỳ (+BL), Phế\n(+), Thận (+).",
+      "confidence": 0.9852879151783802
+    },
+    {
+      "type": "text",
+      "img_path": "p0637_009_text.png",
+      "bbox": [
+        [
+          280,
+          469
+        ],
+        [
+          2358,
+          469
+        ],
+        [
+          2358,
+          589
+        ],
+        [
+          280,
+          589
+        ]
+      ],
+      "score": 0.9568653702735901,
+      "y_pos": 469,
+      "text": "Bảng quy nạp mô hình chỉ số nhiệt kinh lạc bệnh rối loạn tinh thần do căng thẳng tình\nduc.",
+      "confidence": 0.9813638615539704
+    },
+    {
+      "type": "text",
+      "img_path": "p0637_003_text.png",
+      "bbox": [
+        [
+          281,
+          632
+        ],
+        [
+          2361,
+          632
+        ],
+        [
+          2361,
+          755
+        ],
+        [
+          281,
+          755
+        ]
+      ],
+      "score": 0.9666528701782227,
+      "y_pos": 632,
+      "text": "Trong bảng này quy nạp chỉ số nhiệt của ba bệnh nhân, lứa tuổi khác nhau, ngày đo khác\nnhau. Ta nhận thấy những điểm chung ở ba bệnh nhân như sau:",
+      "confidence": 0.9995645441159318
+    },
+    {
+      "type": "text",
+      "img_path": "p0637_001_text.png",
+      "bbox": [
+        [
+          299,
+          793
+        ],
+        [
+          2359,
+          793
+        ],
+        [
+          2359,
+          988
+        ],
+        [
+          299,
+          988
+        ]
+      ],
+      "score": 0.9763690829277039,
+      "y_pos": 793,
+      "text": "• Kinh Can, Tỳ: điều có số tương quan với giá trị tuyệt đối lớn hơn hoặc gần sai số giới\nhạn và mang dấu dương (+). Nghĩa là kinh Can, Tỳ đang ở trạng thái nhiệt bệnh lý:\n(+BL).",
+      "confidence": 0.9933174527247322
+    },
+    {
+      "type": "text",
+      "img_path": "p0637_005_text.png",
+      "bbox": [
+        [
+          299,
+          1026
+        ],
+        [
+          2359,
+          1026
+        ],
+        [
+          2359,
+          1154
+        ],
+        [
+          299,
+          1154
+        ]
+      ],
+      "score": 0.9640818238258362,
+      "y_pos": 1026,
+      "text": "\n    Kinh Bàng quang: đều có số tương quan với giá trị tuyệt đối lớn hơn sai số giới hạn và\n\nmang dấu âm (-). Nghĩa là kinh Bàng quang đang ở trạng thái hàn bệnh lý: (-BL).",
+      "confidence": 0.9925109803072149
+    },
+    {
+      "type": "text",
+      "img_path": "p0637_006_text.png",
+      "bbox": [
+        [
+          297,
+          1189
+        ],
+        [
+          2361,
+          1189
+        ],
+        [
+          2361,
+          1316
+        ],
+        [
+          297,
+          1316
+        ]
+      ],
+      "score": 0.9629135131835938,
+      "y_pos": 1189,
+      "text": "\n    Kinh Đại trường, Phé, Đảm: đều có số tương quan mang dấu dương (+), nghĩa là các\n\nkinh Đại trường, Phế, Đảm đang ở trạng thái nhiệt: (+)",
+      "confidence": 0.9916899439218552
+    },
+    {
+      "type": "text",
+      "img_path": "p0637_022_text.png",
+      "bbox": [
+        [
+          287,
+          1352
+        ],
+        [
+          784,
+          1352
+        ],
+        [
+          784,
+          1400
+        ],
+        [
+          287,
+          1400
+        ]
+      ],
+      "score": 0.6509235501289368,
+      "y_pos": 1352,
+      "text": "Phân tích chi tiết hơn:",
+      "confidence": 0.9725889992713929
+    },
+    {
+      "type": "text",
+      "img_path": "p0637_004_text.png",
+      "bbox": [
+        [
+          283,
+          1443
+        ],
+        [
+          2358,
+          1443
+        ],
+        [
+          2358,
+          1569
+        ],
+        [
+          283,
+          1569
+        ]
+      ],
+      "score": 0.9657852649688721,
+      "y_pos": 1443,
+      "text": "Bệnh nhân Đoàn Quang T.: Còn tỉnh táo hơn nên các kinh Đại trường, Phế, Vị có số tương\nquan dương với giá trị tuyệt đối nhỏ, tức là Đại trường (+), Phế (+), Vị (+).",
+      "confidence": 0.9995268704058866
+    },
+    {
+      "type": "text",
+      "img_path": "p0637_000_text.png",
+      "bbox": [
+        [
+          298,
+          1607
+        ],
+        [
+          2360,
+          1607
+        ],
+        [
+          2360,
+          1804
+        ],
+        [
+          298,
+          1804
+        ]
+      ],
+      "score": 0.9765111804008484,
+      "y_pos": 1607,
+      "text": "• Bệnh nhân Ngô Quang Đ.: Có biểu hiện hoang tưởng nói lung tung, đi lung tung, ở các\nkinh Đại trường, Phế, Đảm, Vị có số tương quan dương với giá trị tuyệt đối lớn hơn sai\nsố giới hạn, tức là Đại trường (+BL), Phế (+BL), Đảm (+BL), Vị (+BL).",
+      "confidence": 0.997333176073063
+    },
+    {
+      "type": "text",
+      "img_path": "p0637_002_text.png",
+      "bbox": [
+        [
+          299,
+          1839
+        ],
+        [
+          2360,
+          1839
+        ],
+        [
+          2360,
+          2034
+        ],
+        [
+          299,
+          2034
+        ]
+      ],
+      "score": 0.976364016532898,
+      "y_pos": 1839,
+      "text": "• Bệnh nhân Lương Bá N.: Có biểu hiện trầm uất nên ở các kinh Tiểu trường, Tâm có số\ntương quan âm với giá trị tuyệt đối lớn hơn sai số giới hạn, tức là Tiểu trường (-BL), Tâm\n(-BL).",
+      "confidence": 0.9871876949628354
+    },
+    {
+      "type": "text",
+      "img_path": "p0637_007_text.png",
+      "bbox": [
+        [
+          281,
+          2072
+        ],
+        [
+          2357,
+          2072
+        ],
+        [
+          2357,
+          2196
+        ],
+        [
+          281,
+          2196
+        ]
+      ],
+      "score": 0.9615938067436218,
+      "y_pos": 2072,
+      "text": "Có điều đáng chú ý là cả ba bệnh nhân này đều có số tương quan (trị số có mang dấu) của\nkinh Tâm bào lớn hơn số tương quan của kinh Tâm.",
+      "confidence": 0.9995071202114727
+    },
+    {
+      "type": "text",
+      "img_path": "p0637_016_text.png",
+      "bbox": [
+        [
+          298,
+          2236
+        ],
+        [
+          1868,
+          2236
+        ],
+        [
+          1868,
+          2287
+        ],
+        [
+          298,
+          2287
+        ]
+      ],
+      "score": 0.9207839369773865,
+      "y_pos": 2236,
+      "text": "Đoàn Quang T.: Số tương quan: Kinh Tâm: - 0,05, Tâm bào: + 0,2.",
+      "confidence": 0.9960573985026433
+    },
+    {
+      "type": "text",
+      "img_path": "p0637_015_text.png",
+      "bbox": [
+        [
+          299,
+          2328
+        ],
+        [
+          1848,
+          2328
+        ],
+        [
+          1848,
+          2380
+        ],
+        [
+          299,
+          2380
+        ]
+      ],
+      "score": 0.9244686365127563,
+      "y_pos": 2328,
+      "text": "Ngô Quang Đ.: Số tương quan: Kinh Tâm: -0,05, Tâm bào: +0,35.",
+      "confidence": 0.9736644966261727
+    },
+    {
+      "type": "text",
+      "img_path": "p0637_014_text.png",
+      "bbox": [
+        [
+          298,
+          2419
+        ],
+        [
+          1749,
+          2419
+        ],
+        [
+          1749,
+          2471
+        ],
+        [
+          298,
+          2471
+        ]
+      ],
+      "score": 0.9264780282974243,
+      "y_pos": 2419,
+      "text": "Lương Bá N.: Số tương quan: Kinh Tâm: -0,2, Tâm bào: -0,1.",
+      "confidence": 0.9497628192106883
+    },
+    {
+      "type": "text",
+      "img_path": "p0637_019_text.png",
+      "bbox": [
+        [
+          279,
+          2509
+        ],
+        [
+          2360,
+          2509
+        ],
+        [
+          2360,
+          2706
+        ],
+        [
+          279,
+          2706
+        ]
+      ],
+      "score": 0.9086083769798279,
+      "y_pos": 2509,
+      "text": "Mô hình chỉ số nhiệt kinh lạc bệnh chứng rối loạn tinh thần do căng thẳng tình dục\nđược đúc kết: Can (+BL), Tỳ (+BL), Bàng quang (-BL), Đại trường (+), Phế (+), Đảm (+), số\ntương quan (trị số có mang dấu) của kinh Tâm bào lớn hơn của kinhTâm.",
+      "confidence": 0.9973482914677317
+    },
+    {
+      "type": "text",
+      "img_path": "p0637_023_text.png",
+      "bbox": [
+        [
+          342,
+          2743
+        ],
+        [
+          1397,
+          2743
+        ],
+        [
+          1397,
+          2795
+        ],
+        [
+          342,
+          2795
+        ]
+      ],
+      "score": 0.5798879265785217,
+      "y_pos": 2743,
+      "text": "HÒ SƠ BÊNH ÁN - CHỈ SỐ NHIỆT KINH LẠC",
+      "confidence": 0.9822930005880502
+    },
+    {
+      "type": "text",
+      "img_path": "p0637_011_text.png",
+      "bbox": [
+        [
+          341,
+          2835
+        ],
+        [
+          1078,
+          2835
+        ],
+        [
+          1078,
+          2885
+        ],
+        [
+          341,
+          2885
+        ]
+      ],
+      "score": 0.9287378191947937,
+      "y_pos": 2835,
+      "text": "Ho tên: Đoàn Quang T., 28 tuổi.",
+      "confidence": 0.9961391253904863
+    },
+    {
+      "type": "text",
+      "img_path": "p0637_010_text.png",
+      "bbox": [
+        [
+          341,
+          2928
+        ],
+        [
+          1367,
+          2928
+        ],
+        [
+          1367,
+          2980
+        ],
+        [
+          341,
+          2980
+        ]
+      ],
+      "score": 0.9307226538658142,
+      "y_pos": 2928,
+      "text": "Thời gian đo: 10 giờ 30 phút, ngày 12/5/1994.",
+      "confidence": 0.9873145133891004
+    },
+    {
+      "type": "text",
+      "img_path": "p0637_012_text.png",
+      "bbox": [
+        [
+          342,
+          3018
+        ],
+        [
+          993,
+          3018
+        ],
+        [
+          993,
+          3070
+        ],
+        [
+          342,
+          3070
+        ]
+      ],
+      "score": 0.9278597235679626,
+      "y_pos": 3018,
+      "text": "Nhiệt đô môi trường: 29,8°C.",
+      "confidence": 0.9776173571745554
+    },
+    {
+      "type": "text",
+      "img_path": "p0637_018_text.png",
+      "bbox": [
+        [
+          344,
+          3113
+        ],
+        [
+          626,
+          3113
+        ],
+        [
+          626,
+          3163
+        ],
+        [
+          344,
+          3163
+        ]
+      ],
+      "score": 0.9169064164161682,
+      "y_pos": 3113,
+      "text": "Chu kỳ kinh.",
+      "confidence": 0.9806435917104993
+    },
+    {
+      "type": "number",
+      "img_path": "p0637_021_number.png",
+      "bbox": [
+        [
+          2305,
+          3336
+        ],
+        [
+          2354,
+          3336
+        ],
+        [
+          2354,
+          3373
+        ],
+        [
+          2305,
+          3373
+        ]
+      ],
+      "score": 0.8645343780517578,
+      "y_pos": 3336,
+      "text": "    \n            \n        \n\n\n        \n    \n.    .\n    \n",
+      "confidence": 0.9458687135151455
+    },
+    {
+      "type": "footer",
+      "img_path": "p0637_020_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3388
+        ],
+        [
+          228,
+          3388
+        ]
+      ],
+      "score": 0.9066864848136902,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985950510456877
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0637.png"
+}

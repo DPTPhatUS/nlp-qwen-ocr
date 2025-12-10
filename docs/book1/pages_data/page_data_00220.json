@@ -1,0 +1,266 @@
+{
+  "page_num": 220,
+  "content": [
+    {
+      "type": "figure_title",
+      "img_path": "p0220_009_figure_title.png",
+      "bbox": [
+        [
+          409,
+          451
+        ],
+        [
+          921,
+          451
+        ],
+        [
+          921,
+          498
+        ],
+        [
+          409,
+          498
+        ]
+      ],
+      "score": 0.5808311104774475,
+      "y_pos": 451,
+      "text": "Phân tích bài thuốc.",
+      "confidence": 0.9947218271819028
+    },
+    {
+      "type": "table",
+      "img_path": "p0220_001_table.png",
+      "bbox": [
+        [
+          350,
+          545
+        ],
+        [
+          2125,
+          545
+        ],
+        [
+          2125,
+          938
+        ],
+        [
+          350,
+          938
+        ]
+      ],
+      "score": 0.9879856705665588,
+      "y_pos": 545,
+      "text": "Vi thuốc    Dược lý Đông y\nMông thạch    Truc lão đàm tích tu\nTrầm hương    Cay, ấm. Thăng giáng các khí, bổ nguyên dương, hạ đàm\nHoàng cầm    Đắng, lanh. Tả Phế, thanh Tâm\nĐại hoàng    Đắng, lạnh. Tả nhiệt, khử trừ thực tích",
+      "confidence": 0.9071379625957393
+    },
+    {
+      "type": "text",
+      "img_path": "p0220_002_text.png",
+      "bbox": [
+        [
+          342,
+          964
+        ],
+        [
+          2125,
+          964
+        ],
+        [
+          2125,
+          1191
+        ],
+        [
+          342,
+          1191
+        ]
+      ],
+      "score": 0.9750231504440308,
+      "y_pos": 964,
+      "text": "Mông thach tính rất manh, có khả năng truc đàm tích ẩm phục, Trầm\nhương điều đạt khí cơ, Hoàng cầm khổ hàn, thanh hỏa ở thương tiêu thanh trừ\nnguồn gốc của đàm, Đại hoàng khổ hàn, đặng dịch thực tích, mở đường đi\nxuống, Tác dụng chung của bài là giáng hỏa trục đàm.",
+      "confidence": 0.9978130362965569
+    },
+    {
+      "type": "text",
+      "img_path": "p0220_004_text.png",
+      "bbox": [
+        [
+          342,
+          1219
+        ],
+        [
+          2125,
+          1219
+        ],
+        [
+          2125,
+          1324
+        ],
+        [
+          342,
+          1324
+        ]
+      ],
+      "score": 0.9610027074813843,
+      "y_pos": 1219,
+      "text": "Nhìn chung, sức thuốc mạnh, người sức yếu, và phụ nữ có mang không\ndùng để tránh tổn thương đến chính khí.",
+      "confidence": 0.9931781997682374
+    },
+    {
+      "type": "text",
+      "img_path": "p0220_007_text.png",
+      "bbox": [
+        [
+          461,
+          1353
+        ],
+        [
+          1590,
+          1353
+        ],
+        [
+          1590,
+          1403
+        ],
+        [
+          461,
+          1403
+        ]
+      ],
+      "score": 0.749148964881897,
+      "y_pos": 1353,
+      "text": "* Phân tích bài Tử tuyết đan (Hòa tễ cuc phương).",
+      "confidence": 0.9898403029815823
+    },
+    {
+      "type": "text",
+      "img_path": "p0220_003_text.png",
+      "bbox": [
+        [
+          343,
+          1431
+        ],
+        [
+          2124,
+          1431
+        ],
+        [
+          2124,
+          1596
+        ],
+        [
+          343,
+          1596
+        ]
+      ],
+      "score": 0.9720778465270996,
+      "y_pos": 1431,
+      "text": "Tác dụng: thanh nhiệt giải độc, trấn kinh, khai khiếu. Chủ trị: nhiệt tà\nhãm ở bên trong, tráng nhiệt, phiền táo, hôn cuồng, nói nhảm, miệng khát,\nmôi khô, tiểu đỏ. Sốt cao, co giật.",
+      "confidence": 0.9974253987979603
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0220_008_figure_title.png",
+      "bbox": [
+        [
+          465,
+          1631
+        ],
+        [
+          913,
+          1631
+        ],
+        [
+          913,
+          1675
+        ],
+        [
+          465,
+          1675
+        ]
+      ],
+      "score": 0.7325955033302307,
+      "y_pos": 1631,
+      "text": "Phân tích bài thuốc",
+      "confidence": 0.9913935036886306
+    },
+    {
+      "type": "table",
+      "img_path": "p0220_000_table.png",
+      "bbox": [
+        [
+          350,
+          1733
+        ],
+        [
+          2124,
+          1733
+        ],
+        [
+          2124,
+          3014
+        ],
+        [
+          350,
+          3014
+        ]
+      ],
+      "score": 0.9908449053764343,
+      "y_pos": 1733,
+      "text": "Vị thuốc    Dược lý Đông y\nHoàng kim    Trong trấn an thần, tả nhiệt ở Tâm, Can\nHàn thủy thạch    Tả hỏa các kinh, lợi thủy\nTừ thạch    Cay, lanh. Bình Can, tiềm dương\nHoạt thạch    Ngọt, lạnh. Khử thấp nhiệt ở Bàng Quang\nThạch cao    Ngọt, cay, lạnh. Thanh nhiệt, tả hỏa, trừ phiền chỉ khát\nTê giác    Đẳng, nhạt, mát. Thanh Tâm, bình Can\nLinh dương giác    Đẳng, nhạt, mát. Thanh Tâm, bình Can\nMộc hương    Cay, đẳng, ấm. Hành khí chỉ thống, kiện Tỳ\nTrầm hương    Cay, ấm. Ích khí hóa đàm, thăng giáng các khí\nHuyền sâm    Đắng, mặn, hơi lạnh. Thanh nhiệt lương huyết, giáng hỏa\nThăng ma    Ngọt, cay, lạnh. Thăng dương, giải độc\n<b>Đinh hương</b>    Ôn Vi điều khí\nCam thảo    Điều hòa các vị thuốc\nPhác tiêu    Mặn, đắng, lạnh. Tiêu tích, tả nhiệt, nhuận táo\nMang tiêu    Mặn, lạnh. Trừ đàm, nhuận tràng\nSa hương    Cay, ấm. Khai khiếu, thông kinh lạc, trừ uế\nChu sa    Ngọt, lạnh. An thần, trấn kinh, giải độc",
+      "confidence": 0.9173619404221376
+    },
+    {
+      "type": "number",
+      "img_path": "p0220_006_number.png",
+      "bbox": [
+        [
+          2042,
+          3110
+        ],
+        [
+          2121,
+          3110
+        ],
+        [
+          2121,
+          3147
+        ],
+        [
+          2042,
+          3147
+        ]
+      ],
+      "score": 0.8743798732757568,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0220_005_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.90943443775177,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8789173466818673
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0220.png"
+}

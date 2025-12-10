@@ -1,0 +1,630 @@
+{
+  "page_num": 646,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0646_011_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9333816766738892,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0646_017_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.920788586139679,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9946049864475544
+    },
+    {
+      "type": "text",
+      "img_path": "p0646_005_text.png",
+      "bbox": [
+        [
+          298,
+          306
+        ],
+        [
+          2359,
+          306
+        ],
+        [
+          2359,
+          425
+        ],
+        [
+          298,
+          425
+        ]
+      ],
+      "score": 0.968329131603241,
+      "y_pos": 306,
+      "text": "• Tâm khí hư: Thấy mệt mỏi, uể oải, sắc mặt trắng bợt, hay thở dài, lưỡi béo non, ngắn\nhơi.",
+      "confidence": 0.9889841431921178
+    },
+    {
+      "type": "text",
+      "img_path": "p0646_003_text.png",
+      "bbox": [
+        [
+          299,
+          471
+        ],
+        [
+          2360,
+          471
+        ],
+        [
+          2360,
+          592
+        ],
+        [
+          299,
+          592
+        ]
+      ],
+      "score": 0.9698705077171326,
+      "y_pos": 471,
+      "text": "• Tâm dương hư: mình hàn chi lạnh, khó chịu vùng tim, đau tim, mạch tế, nhược hoặc\nkết, đại (kết đại là loạn nhịp).",
+      "confidence": 0.7379469703935108
+    },
+    {
+      "type": "text",
+      "img_path": "p0646_002_text.png",
+      "bbox": [
+        [
+          297,
+          632
+        ],
+        [
+          2359,
+          632
+        ],
+        [
+          2359,
+          755
+        ],
+        [
+          297,
+          755
+        ]
+      ],
+      "score": 0.9707773923873901,
+      "y_pos": 632,
+      "text": "• Tâm dương hư suy (hư thoát): mồ hôi ra dầm dề, tứ chi rất lạnh, môi xanh tím, hơi\nthở, hít đều nhỏ yếu, có khi choáng váng hôn mê, mạch nhỏ như muốn mất.",
+      "confidence": 0.8694789715489488
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0646_022_paragraph_title.png",
+      "bbox": [
+        [
+          287,
+          795
+        ],
+        [
+          983,
+          795
+        ],
+        [
+          983,
+          844
+        ],
+        [
+          287,
+          844
+        ]
+      ],
+      "score": 0.8885105848312378,
+      "y_pos": 795,
+      "text": "Mô hình chỉ số nhiệt kinh lạc",
+      "confidence": 0.9991511048809174
+    },
+    {
+      "type": "text",
+      "img_path": "p0646_014_text.png",
+      "bbox": [
+        [
+          298,
+          887
+        ],
+        [
+          1621,
+          887
+        ],
+        [
+          1621,
+          939
+        ],
+        [
+          298,
+          939
+        ]
+      ],
+      "score": 0.9312514662742615,
+      "y_pos": 887,
+      "text": "Tâm khí hư: Tâm (-BL), Tỳ (-), Phế (+), Tiếu trường (-).",
+      "confidence": 0.9835871797183464
+    },
+    {
+      "type": "text",
+      "img_path": "p0646_012_text.png",
+      "bbox": [
+        [
+          300,
+          980
+        ],
+        [
+          1780,
+          980
+        ],
+        [
+          1780,
+          1032
+        ],
+        [
+          300,
+          1032
+        ]
+      ],
+      "score": 0.9330384135246277,
+      "y_pos": 980,
+      "text": "Tâm dương hư: Tâm (-BL), Đảm (-), Thận (-), Bàng quang (-).",
+      "confidence": 0.9893607458130258
+    },
+    {
+      "type": "text",
+      "img_path": "p0646_004_text.png",
+      "bbox": [
+        [
+          299,
+          1069
+        ],
+        [
+          2361,
+          1069
+        ],
+        [
+          2361,
+          1193
+        ],
+        [
+          299,
+          1193
+        ]
+      ],
+      "score": 0.9696332812309265,
+      "y_pos": 1069,
+      "text": "• Tâm dương hư suy: Tiểu trường (-), Tâm (-BL), Tam tiêu (-) Tâm bào (-), Đại trường (-\n), Phế (+).",
+      "confidence": 0.9783097390429976
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0646_021_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          1235
+        ],
+        [
+          702,
+          1235
+        ],
+        [
+          702,
+          1283
+        ],
+        [
+          286,
+          1283
+        ]
+      ],
+      "score": 0.8953657150268555,
+      "y_pos": 1235,
+      "text": "b. Phương huyết",
+      "confidence": 0.9892965134452371
+    },
+    {
+      "type": "text",
+      "img_path": "p0646_015_text.png",
+      "bbox": [
+        [
+          284,
+          1324
+        ],
+        [
+          1897,
+          1324
+        ],
+        [
+          1897,
+          1376
+        ],
+        [
+          284,
+          1376
+        ]
+      ],
+      "score": 0.9306762218475342,
+      "y_pos": 1324,
+      "text": "- Tâm khí hư: Bố Thần môn, Chi chính, Tuy du, Tỳ du, Ý xá, Túc Tam lý.",
+      "confidence": 0.9068009224202898
+    },
+    {
+      "type": "text",
+      "img_path": "p0646_013_text.png",
+      "bbox": [
+        [
+          285,
+          1416
+        ],
+        [
+          1703,
+          1416
+        ],
+        [
+          1703,
+          1467
+        ],
+        [
+          285,
+          1467
+        ]
+      ],
+      "score": 0.9316359758377075,
+      "y_pos": 1416,
+      "text": "- Tâm dương hư: Như trên và thêm bổ Đảm du, Dương cương.",
+      "confidence": 0.9588696391418062
+    },
+    {
+      "type": "text",
+      "img_path": "p0646_010_text.png",
+      "bbox": [
+        [
+          285,
+          1505
+        ],
+        [
+          1497,
+          1505
+        ],
+        [
+          1497,
+          1560
+        ],
+        [
+          285,
+          1560
+        ]
+      ],
+      "score": 0.9345630407333374,
+      "y_pos": 1505,
+      "text": "+ Nếu hư thoát, cần cấp cứu như chứng choáng ngất.",
+      "confidence": 0.9331291489876233
+    },
+    {
+      "type": "text",
+      "img_path": "p0646_001_text.png",
+      "bbox": [
+        [
+          280,
+          1597
+        ],
+        [
+          2358,
+          1597
+        ],
+        [
+          2358,
+          1792
+        ],
+        [
+          280,
+          1792
+        ]
+      ],
+      "score": 0.979502260684967,
+      "y_pos": 1597,
+      "text": "+ Nếu Tâm dương hư lâu dài, có dấu hiệu suy tim, thấp tim (tim to ra) thì dùng phương\nhuyệt: Tả Đại chuỳ, Trung phủ. Bổ Chiên trung, Du phủ, Thái khê, Côn luân. Sau đó dùng\ntoàn bộ phương huyệt kể trên.",
+      "confidence": 0.9922576293866113
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0646_019_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          1835
+        ],
+        [
+          999,
+          1835
+        ],
+        [
+          999,
+          1885
+        ],
+        [
+          283,
+          1885
+        ]
+      ],
+      "score": 0.9157230257987976,
+      "y_pos": 1835,
+      "text": "c. Giảng nghĩa phương huyệt",
+      "confidence": 0.998378546073519
+    },
+    {
+      "type": "text",
+      "img_path": "p0646_000_text.png",
+      "bbox": [
+        [
+          280,
+          1921
+        ],
+        [
+          2359,
+          1921
+        ],
+        [
+          2359,
+          2330
+        ],
+        [
+          280,
+          2330
+        ]
+      ],
+      "score": 0.9870137572288513,
+      "y_pos": 1921,
+      "text": "Bổ Thần môn, Chi chính là cặp nguyên lạc biểu lý, bổ Tâm có Tiểu trường giúp sức, nhóm\nhuyệt này làm tăng nguồn men tiêu hoá, tăng khả năng hấp thụ dinh dưỡng. Tuy du, Tỳ du,\nÝ xá, có tác dụng làm khoẻ công năng của tuyến tuỵ, tăng khả năng vận hoá của Tỳ. Đảm\ndu, Dương cương làm tăng dương khí, tăng khả năng sát khuẩn đường ruột và ký sinh trùng\nđường ruột. Đại chuỳ, Trung phủ, Chiên trung, Du phủ là nhóm huyệt kinh nghiệm trị thấp tim\ncó hiệu quả.",
+      "confidence": 0.9937304645119034
+    },
+    {
+      "type": "text",
+      "img_path": "p0646_018_text.png",
+      "bbox": [
+        [
+          286,
+          2368
+        ],
+        [
+          2266,
+          2368
+        ],
+        [
+          2266,
+          2421
+        ],
+        [
+          286,
+          2421
+        ]
+      ],
+      "score": 0.9190925359725952,
+      "y_pos": 2368,
+      "text": "Thái khê, Côn luân làm tăng thân nhiệt hỗ trợ cho tuần hoàn huyết dịch được thông thấu.",
+      "confidence": 0.9953211458881249
+    },
+    {
+      "type": "text",
+      "img_path": "p0646_009_text.png",
+      "bbox": [
+        [
+          279,
+          2460
+        ],
+        [
+          2361,
+          2460
+        ],
+        [
+          2361,
+          2586
+        ],
+        [
+          279,
+          2586
+        ]
+      ],
+      "score": 0.9637311697006226,
+      "y_pos": 2460,
+      "text": "Tổng lực nhóm huyệt làm tăng dinh dưỡng, nguồn hậu thiên nhiên của huyết dịch, huyết tốt\nthì công năng và nhiệt lượng của Tâm tăng, Tâm dương sung túc.",
+      "confidence": 0.9997135252691806
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0646_016_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2624
+        ],
+        [
+          660,
+          2624
+        ],
+        [
+          660,
+          2670
+        ],
+        [
+          225,
+          2670
+        ]
+      ],
+      "score": 0.9215251803398132,
+      "y_pos": 2624,
+      "text": "2. Tâm âm bất túc",
+      "confidence": 0.9158696375395122
+    },
+    {
+      "type": "text",
+      "img_path": "p0646_006_text.png",
+      "bbox": [
+        [
+          221,
+          2716
+        ],
+        [
+          2358,
+          2716
+        ],
+        [
+          2358,
+          2840
+        ],
+        [
+          221,
+          2840
+        ]
+      ],
+      "score": 0.9681678414344788,
+      "y_pos": 2716,
+      "text": "Mô hình chỉ số nhiệt kinh lạc cơ bản: Tâm (+BL), nghĩa là kinh tâm có trạng thái nhiệt bệnh\nlý. Số tương quan của kinh Tâm có giá tuyệt đối lớn hơn sai số giới hạn và mang dấu +.",
+      "confidence": 0.9986371283627908
+    },
+    {
+      "type": "text",
+      "img_path": "p0646_007_text.png",
+      "bbox": [
+        [
+          280,
+          2878
+        ],
+        [
+          2358,
+          2878
+        ],
+        [
+          2358,
+          3003
+        ],
+        [
+          280,
+          3003
+        ]
+      ],
+      "score": 0.9674134254455566,
+      "y_pos": 2878,
+      "text": "a. Triệu chứng: Chia ra làm hai loại: Tâm âm hư và Tâm huyết hư đều hồi hộp, khó chịu\nvùng tim, sợ hãi, mất ngủ, hay quên. Trong đó:",
+      "confidence": 0.9080636711127457
+    },
+    {
+      "type": "text",
+      "img_path": "p0646_008_text.png",
+      "bbox": [
+        [
+          298,
+          3039
+        ],
+        [
+          2360,
+          3039
+        ],
+        [
+          2360,
+          3163
+        ],
+        [
+          298,
+          3163
+        ]
+      ],
+      "score": 0.9662352204322815,
+      "y_pos": 3039,
+      "text": "• Tâm âm hư: sốt nhẹ, mồ hôi trộm, miệng khô, đầu lưỡi hồng, rêu lưỡi trắng mỏng, hoặc\nkhông rêu, mạch tế, sác.",
+      "confidence": 0.9955468921550921
+    },
+    {
+      "type": "number",
+      "img_path": "p0646_023_number.png",
+      "bbox": [
+        [
+          2305,
+          3337
+        ],
+        [
+          2353,
+          3337
+        ],
+        [
+          2353,
+          3374
+        ],
+        [
+          2305,
+          3374
+        ]
+      ],
+      "score": 0.8592793345451355,
+      "y_pos": 3337,
+      "text": "    \n\n\n    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0646_020_footer.png",
+      "bbox": [
+        [
+          227,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3388
+        ],
+        [
+          227,
+          3388
+        ]
+      ],
+      "score": 0.9092187881469727,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985032610173495
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0646.png"
+}

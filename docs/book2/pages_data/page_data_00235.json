@@ -1,0 +1,786 @@
+{
+  "page_num": 235,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0235_006_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9366128444671631,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.723309953652677
+    },
+    {
+      "type": "header",
+      "img_path": "p0235_020_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.913044273853302,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0235_029_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          347
+        ],
+        [
+          1648,
+          347
+        ],
+        [
+          1648,
+          400
+        ],
+        [
+          225,
+          400
+        ]
+      ],
+      "score": 0.734035074710846,
+      "y_pos": 347,
+      "text": "127. Triệt than hoãn kinh điểm (điểm ấn thì hoãn giải co giật).",
+      "confidence": 0.9974191711499141
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_000_text.png",
+      "bbox": [
+        [
+          274,
+          437
+        ],
+        [
+          2359,
+          437
+        ],
+        [
+          2359,
+          775
+        ],
+        [
+          274,
+          775
+        ]
+      ],
+      "score": 0.9840786457061768,
+      "y_pos": 437,
+      "text": "Vị trí: Điểm hoãn kinh chữa chứng co giật bại liệt gấp khúc thường ở mặt gấp của chi dưới\nvà mảng xương cùng. Co giật duỗi thẳng, điểm hoãn kinh thường ở bụng và mặt duỗi của\nchi dưới; người có kèm cả co giật khép vào thì điểm co hoãn kinh ở bụng và kèm trong đùi.\nNgoài ra loại duỗi thẳng hình có kèm co rút thu vào, có thể tìm điểm hoãn kinh ở đầu chót chi\nbai liêt.",
+      "confidence": 0.9971488206740486
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_011_text.png",
+      "bbox": [
+        [
+          286,
+          815
+        ],
+        [
+          1758,
+          815
+        ],
+        [
+          1758,
+          865
+        ],
+        [
+          286,
+          865
+        ]
+      ],
+      "score": 0.9286507368087769,
+      "y_pos": 815,
+      "text": "<b>Cách châm:</b> Thuỷ châm, điện châm, bầu giác, bó thuốc, dán cao.",
+      "confidence": 0.9864850695316608
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_003_text.png",
+      "bbox": [
+        [
+          286,
+          907
+        ],
+        [
+          1526,
+          907
+        ],
+        [
+          1526,
+          961
+        ],
+        [
+          286,
+          961
+        ]
+      ],
+      "score": 0.9398133754730225,
+      "y_pos": 907,
+      "text": "Chủ trị: Bị chấn thương gây co giật và chèn ép bại liệt.",
+      "confidence": 0.9830551147460938
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0235_019_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1002
+        ],
+        [
+          669,
+          1002
+        ],
+        [
+          669,
+          1049
+        ],
+        [
+          227,
+          1049
+        ]
+      ],
+      "score": 0.9132251739501953,
+      "y_pos": 1002,
+      "text": "D. Huyệt ở chi dưới",
+      "confidence": 0.8879645182972863
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0235_023_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1087
+        ],
+        [
+          536,
+          1087
+        ],
+        [
+          536,
+          1135
+        ],
+        [
+          229,
+          1135
+        ]
+      ],
+      "score": 0.9075748324394226,
+      "y_pos": 1087,
+      "text": "128. Hố biên",
+      "confidence": 0.9411081203392574
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_008_text.png",
+      "bbox": [
+        [
+          289,
+          1180
+        ],
+        [
+          1571,
+          1180
+        ],
+        [
+          1571,
+          1235
+        ],
+        [
+          289,
+          1235
+        ]
+      ],
+      "score": 0.9323244690895081,
+      "y_pos": 1180,
+      "text": "Vị trí: Ở giữa huyệt <i>Tam gian</i> và huyệt <i>Hợp cốc</i>. (H.117).",
+      "confidence": 0.9746973553011494
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_009_text.png",
+      "bbox": [
+        [
+          286,
+          1272
+        ],
+        [
+          1763,
+          1272
+        ],
+        [
+          1763,
+          1323
+        ],
+        [
+          286,
+          1323
+        ]
+      ],
+      "score": 0.9309309124946594,
+      "y_pos": 1272,
+      "text": "<b>Cách châm:</b> Mũi kim hướng về huyệt <i>Hậu khệ</i> sậu 1,5 – 2,5 thốn.",
+      "confidence": 0.9851400794377968
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_005_text.png",
+      "bbox": [
+        [
+          287,
+          1365
+        ],
+        [
+          1344,
+          1365
+        ],
+        [
+          1344,
+          1418
+        ],
+        [
+          287,
+          1418
+        ]
+      ],
+      "score": 0.9370615482330322,
+      "y_pos": 1365,
+      "text": "Chủ trị: Động kinh, thần kinh phân liệt, hysteri.",
+      "confidence": 0.5921931617400226
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0235_022_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1457
+        ],
+        [
+          635,
+          1457
+        ],
+        [
+          635,
+          1508
+        ],
+        [
+          229,
+          1508
+        ]
+      ],
+      "score": 0.9092537760734558,
+      "y_pos": 1457,
+      "text": "129. Chỉ chưởng",
+      "confidence": 0.9151813422932344
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_002_text.png",
+      "bbox": [
+        [
+          282,
+          1549
+        ],
+        [
+          2358,
+          1549
+        ],
+        [
+          2358,
+          1672
+        ],
+        [
+          282,
+          1672
+        ]
+      ],
+      "score": 0.9659019112586975,
+      "y_pos": 1549,
+      "text": "Vị trí: Khe ngón giữa và ngón nhẫn, phía lòng bàn tay, sát phía ngón giữa, ngang khớp\nxương bàn. (H.116)",
+      "confidence": 0.8443538622780777
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_007_text.png",
+      "bbox": [
+        [
+          287,
+          1711
+        ],
+        [
+          1350,
+          1711
+        ],
+        [
+          1350,
+          1760
+        ],
+        [
+          287,
+          1760
+        ]
+      ],
+      "score": 0.9354391694068909,
+      "y_pos": 1711,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 1 – 1,5 thôn.",
+      "confidence": 0.9713992704736426
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_012_text.png",
+      "bbox": [
+        [
+          285,
+          1802
+        ],
+        [
+          1599,
+          1802
+        ],
+        [
+          1599,
+          1855
+        ],
+        [
+          285,
+          1855
+        ]
+      ],
+      "score": 0.9264433979988098,
+      "y_pos": 1802,
+      "text": "Chủ trị: Mất ngủ, hay quên, động kinh, thần kinh phân liệt.",
+      "confidence": 0.72653992449651
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0235_017_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1892
+        ],
+        [
+          650,
+          1892
+        ],
+        [
+          650,
+          1945
+        ],
+        [
+          229,
+          1945
+        ]
+      ],
+      "score": 0.9167569875717163,
+      "y_pos": 1892,
+      "text": "130. Nội Hợp cốc",
+      "confidence": 0.9528944657908546
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_028_text.png",
+      "bbox": [
+        [
+          288,
+          1985
+        ],
+        [
+          2285,
+          1985
+        ],
+        [
+          2285,
+          2041
+        ],
+        [
+          288,
+          2041
+        ]
+      ],
+      "score": 0.8675573468208313,
+      "y_pos": 1985,
+      "text": "Vị trí: Nắm bàn tay, đầu khe ngòn tay trỏ và ngón giữa chiếu xuống lòng bàn tay. (H.116)",
+      "confidence": 0.4095570590760973
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_027_text.png",
+      "bbox": [
+        [
+          287,
+          2075
+        ],
+        [
+          1669,
+          2075
+        ],
+        [
+          1669,
+          2129
+        ],
+        [
+          287,
+          2129
+        ]
+      ],
+      "score": 0.8787071704864502,
+      "y_pos": 2075,
+      "text": "<i>Cách châm:</i> Hướng về phía <i>Hợp cốc</i>, châm sâu 1 – 1,5 thốn.",
+      "confidence": 0.9766627973125827
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_025_text.png",
+      "bbox": [
+        [
+          288,
+          2166
+        ],
+        [
+          642,
+          2166
+        ],
+        [
+          642,
+          2220
+        ],
+        [
+          288,
+          2220
+        ]
+      ],
+      "score": 0.8933331370353699,
+      "y_pos": 2166,
+      "text": "Chủ tri: Sái cổ.",
+      "confidence": 0.8330733544296689
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0235_021_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          2259
+        ],
+        [
+          608,
+          2259
+        ],
+        [
+          608,
+          2311
+        ],
+        [
+          229,
+          2311
+        ]
+      ],
+      "score": 0.9123795032501221,
+      "y_pos": 2259,
+      "text": "131. Thống linh",
+      "confidence": 0.8512500840074876
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_014_text.png",
+      "bbox": [
+        [
+          287,
+          2350
+        ],
+        [
+          2017,
+          2350
+        ],
+        [
+          2017,
+          2406
+        ],
+        [
+          287,
+          2406
+        ]
+      ],
+      "score": 0.9199652075767517,
+      "y_pos": 2350,
+      "text": "Vị trí: Ở mu bàn tay khe xương bàn 3 – 4 sau khớp ngón bàn 1 thốn. (H.117)",
+      "confidence": 0.9897501256905104
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_010_text.png",
+      "bbox": [
+        [
+          286,
+          2442
+        ],
+        [
+          1603,
+          2442
+        ],
+        [
+          1603,
+          2494
+        ],
+        [
+          286,
+          2494
+        ]
+      ],
+      "score": 0.9287277460098267,
+      "y_pos": 2442,
+      "text": "<b>Cách châm:</b> Châm chếch về phía cổ tay, sâu 1 – 1,5 thốn.",
+      "confidence": 0.9765958988060386
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_004_text.png",
+      "bbox": [
+        [
+          287,
+          2537
+        ],
+        [
+          1194,
+          2537
+        ],
+        [
+          1194,
+          2589
+        ],
+        [
+          287,
+          2589
+        ]
+      ],
+      "score": 0.9380785822868347,
+      "y_pos": 2537,
+      "text": "Chủ trị: Đau đầu, đau răng, đau dạ dày.",
+      "confidence": 0.45893599783501976
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0235_016_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          2626
+        ],
+        [
+          596,
+          2626
+        ],
+        [
+          596,
+          2677
+        ],
+        [
+          229,
+          2677
+        ]
+      ],
+      "score": 0.9173662662506104,
+      "y_pos": 2626,
+      "text": "132. Nha thống",
+      "confidence": 0.9291627965867519
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_001_text.png",
+      "bbox": [
+        [
+          281,
+          2718
+        ],
+        [
+          2357,
+          2718
+        ],
+        [
+          2357,
+          2845
+        ],
+        [
+          281,
+          2845
+        ]
+      ],
+      "score": 0.9667134881019592,
+      "y_pos": 2718,
+      "text": "Vị trí: Ở trong lòng bàn tay, giữa khe xương bàn 3 – 4; sau khớp bàn ngón 0,5 thốn, cách\nlàn ngang ngón tay 1 thốn. (H.116).",
+      "confidence": 0.9884169088738101
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_013_text.png",
+      "bbox": [
+        [
+          285,
+          2882
+        ],
+        [
+          1392,
+          2882
+        ],
+        [
+          1392,
+          2934
+        ],
+        [
+          285,
+          2934
+        ]
+      ],
+      "score": 0.9239687919616699,
+      "y_pos": 2882,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3 - 0,5 thốn.",
+      "confidence": 0.9829931436701024
+    },
+    {
+      "type": "text",
+      "img_path": "p0235_015_text.png",
+      "bbox": [
+        [
+          288,
+          2975
+        ],
+        [
+          700,
+          2975
+        ],
+        [
+          700,
+          3026
+        ],
+        [
+          288,
+          3026
+        ]
+      ],
+      "score": 0.9196991324424744,
+      "y_pos": 2975,
+      "text": "Chủ trị: đau răng.",
+      "confidence": 0.4140915751457214
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0235_024_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          3065
+        ],
+        [
+          634,
+          3065
+        ],
+        [
+          634,
+          3117
+        ],
+        [
+          229,
+          3117
+        ]
+      ],
+      "score": 0.8967946171760559,
+      "y_pos": 3065,
+      "text": "133. Ngược môn",
+      "confidence": 0.912020705640316
+    },
+    {
+      "type": "footer",
+      "img_path": "p0235_018_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9134325981140137,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0235_026_number.png",
+      "bbox": [
+        [
+          2278,
+          3338
+        ],
+        [
+          2351,
+          3338
+        ],
+        [
+          2351,
+          3377
+        ],
+        [
+          2278,
+          3377
+        ]
+      ],
+      "score": 0.8848633170127869,
+      "y_pos": 3338,
+      "text": "        \n\n    \n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0235.png"
+}

@@ -1,0 +1,500 @@
+{
+  "page_num": 24,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0024_008_header.png",
+      "bbox": [
+        [
+          1608,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1608,
+          201
+        ]
+      ],
+      "score": 0.9283993244171143,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7769746666862851
+    },
+    {
+      "type": "header",
+      "img_path": "p0024_009_header.png",
+      "bbox": [
+        [
+          228,
+          154
+        ],
+        [
+          744,
+          154
+        ],
+        [
+          744,
+          203
+        ],
+        [
+          228,
+          203
+        ]
+      ],
+      "score": 0.9080618023872375,
+      "y_pos": 154,
+      "text": "HOC THUYẾT TANG PHỦ",
+      "confidence": 0.6473782743726458
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0024_018_paragraph_title.png",
+      "bbox": [
+        [
+          891,
+          314
+        ],
+        [
+          1694,
+          314
+        ],
+        [
+          1694,
+          388
+        ],
+        [
+          891,
+          388
+        ]
+      ],
+      "score": 0.6149383783340454,
+      "y_pos": 314,
+      "text": "HOC THUYẾT TANG PHỦ",
+      "confidence": 0.5563328379676455
+    },
+    {
+      "type": "text",
+      "img_path": "p0024_000_text.png",
+      "bbox": [
+        [
+          221,
+          437
+        ],
+        [
+          2360,
+          437
+        ],
+        [
+          2360,
+          794
+        ],
+        [
+          221,
+          794
+        ]
+      ],
+      "score": 0.983639121055603,
+      "y_pos": 437,
+      "text": "Học thuyết Tạng Phủ là một bộ phận quan trọng cấu thành lý luận của Đông y. Học thuyết này\nxuất phát từ quan điểm cơ thể hoàn chỉnh, cho rằng mọi biểu hiện sinh lý, bệnh lý của ngũ tạng,\nlục phủ đều thông qua hệ thống kinh lạc đưa đến các tổ chức cơ quan toàn thân, kết thành một\nchỉnh thể hữu cơ. Giữa tạng, phủ (ngũ tạng, lục phủ) về mặt sinh lý, cũng có tương hỗ giữ gìn,\ntương hỗ ức chế, khi sinh bệnh cùng nhau ảnh hưởng, cùng nhau chuyển hóa.",
+      "confidence": 0.9997781411825516
+    },
+    {
+      "type": "text",
+      "img_path": "p0024_015_text.png",
+      "bbox": [
+        [
+          224,
+          831
+        ],
+        [
+          1129,
+          831
+        ],
+        [
+          1129,
+          885
+        ],
+        [
+          224,
+          885
+        ]
+      ],
+      "score": 0.8295976519584656,
+      "y_pos": 831,
+      "text": "Ngũ tạng: Tâm - Can - Tỳ - Phế - Thận.",
+      "confidence": 0.9276285156607628
+    },
+    {
+      "type": "text",
+      "img_path": "p0024_011_text.png",
+      "bbox": [
+        [
+          223,
+          927
+        ],
+        [
+          1822,
+          927
+        ],
+        [
+          1822,
+          982
+        ],
+        [
+          223,
+          982
+        ]
+      ],
+      "score": 0.8981409668922424,
+      "y_pos": 927,
+      "text": "Lục phủ: Đảm - Vị - Đại trường - Tiểu trường - Bàng quang - Tam tiêu.",
+      "confidence": 0.9944512273224306
+    },
+    {
+      "type": "text",
+      "img_path": "p0024_002_text.png",
+      "bbox": [
+        [
+          221,
+          1023
+        ],
+        [
+          2359,
+          1023
+        ],
+        [
+          2359,
+          1306
+        ],
+        [
+          221,
+          1306
+        ]
+      ],
+      "score": 0.9790821075439453,
+      "y_pos": 1023,
+      "text": "Khái niệm Đông y về công năng của lục phủ, ngũ tạng cơ bản cũng giống như. Tây y nhưng có\nnhững điểm khác rất lớn, ví dụ như Tây y không có tạng khí tương ứng vớ Tam tiêu, do đó\nchúng ta không thể nghĩ đơn giản mà đem khái niệm tạng khí của Đông y so với Tây y, đem\ntạng khí của Tây y gán vào Đông y được.",
+      "confidence": 0.9994167283963722
+    },
+    {
+      "type": "text",
+      "img_path": "p0024_004_text.png",
+      "bbox": [
+        [
+          222,
+          1345
+        ],
+        [
+          2360,
+          1345
+        ],
+        [
+          2360,
+          1549
+        ],
+        [
+          222,
+          1549
+        ]
+      ],
+      "score": 0.9735369682312012,
+      "y_pos": 1345,
+      "text": "Cơ sở của học thuyết Tạng Phủ là thực tiễn lâm sàng lâu dài mà phát triển thành lý luận, vì vậy\nnó có ý nghĩa chỉ đạo trọng yếu về chẩn trị bệnh tật trong Đông y. Tuy nhiên, trong đó có một\nsố vấn đề mà bản chất chưa được rõ ràng, cần được chỉnh lý, nâng cao lên một bước.",
+      "confidence": 0.9995991384696921
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0024_014_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1577
+        ],
+        [
+          1211,
+          1577
+        ],
+        [
+          1211,
+          1627
+        ],
+        [
+          225,
+          1627
+        ]
+      ],
+      "score": 0.8870564103126526,
+      "y_pos": 1577,
+      "text": "SINH LÝ VÀ BÊNH CHỦ YẾU CỦA TANG PHỦ",
+      "confidence": 0.9971093849131936
+    },
+    {
+      "type": "text",
+      "img_path": "p0024_007_text.png",
+      "bbox": [
+        [
+          280,
+          1662
+        ],
+        [
+          2359,
+          1662
+        ],
+        [
+          2359,
+          1787
+        ],
+        [
+          280,
+          1787
+        ]
+      ],
+      "score": 0.9497597813606262,
+      "y_pos": 1662,
+      "text": "Cơ thể con người là chinh thể, giữa ngũ tạng và lục phủ có mối quan hệ phức tạp. Chúng có\ncông năng riêng, song lại phối hợp chặt chẽ với nhau. Chức năng của chúng là:",
+      "confidence": 0.9994256046969464
+    },
+    {
+      "type": "text",
+      "img_path": "p0024_006_text.png",
+      "bbox": [
+        [
+          277,
+          1817
+        ],
+        [
+          2359,
+          1817
+        ],
+        [
+          2359,
+          2013
+        ],
+        [
+          277,
+          2013
+        ]
+      ],
+      "score": 0.9604871869087219,
+      "y_pos": 1817,
+      "text": "Ngũ tạng chứa giữ Tinh khí. Lục phủ hấp thụ thủy cốc, phân biệt trong đục, đào thải cặn bã.\nNgoài ra còn có Não - Tủy - Xương - Mạch - Mật - Dạ con, có những chức năng gần giống\nvới Tạng và Phủ nên được phân riêng thành một loại gọi là: \"Phủ kỳ hằng\" (phủ lạ thường).",
+      "confidence": 0.9985422062832003
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0024_013_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2054
+        ],
+        [
+          758,
+          2054
+        ],
+        [
+          758,
+          2105
+        ],
+        [
+          227,
+          2105
+        ]
+      ],
+      "score": 0.8901672959327698,
+      "y_pos": 2054,
+      "text": "A. Tâm và tiểu trường",
+      "confidence": 0.9630560460297958
+    },
+    {
+      "type": "text",
+      "img_path": "p0024_005_text.png",
+      "bbox": [
+        [
+          275,
+          2138
+        ],
+        [
+          2359,
+          2138
+        ],
+        [
+          2359,
+          2332
+        ],
+        [
+          275,
+          2332
+        ]
+      ],
+      "score": 0.9705033898353577,
+      "y_pos": 2138,
+      "text": "Tâm là chủ soái của lục phủ, ngũ tạng con người, nó có địa vị đứng đầu trong các tạng phủ.\nCác tạng phủ khác đều hoạt động hợp đồng, điều hòa với Tâm, cho nên Tâm là chủ soái của\nlục phủ, ngũ tạng.",
+      "confidence": 0.9981088483281174
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0024_017_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          2363
+        ],
+        [
+          997,
+          2363
+        ],
+        [
+          997,
+          2414
+        ],
+        [
+          286,
+          2414
+        ]
+      ],
+      "score": 0.7526177167892456,
+      "y_pos": 2363,
+      "text": "1. Sinh lý và bệnh lý tạng tâm",
+      "confidence": 0.9396151322871447
+    },
+    {
+      "type": "text",
+      "img_path": "p0024_001_text.png",
+      "bbox": [
+        [
+          283,
+          2446
+        ],
+        [
+          2360,
+          2446
+        ],
+        [
+          2360,
+          2783
+        ],
+        [
+          283,
+          2783
+        ]
+      ],
+      "score": 0.9819120168685913,
+      "y_pos": 2446,
+      "text": "a. Tâm chủ thần chí: Tâm chủ quản các hoạt động tinh thần, ý thức, tư duy, tương đương\nvới hoạt động tinh thần, thần kinh cao cấp. Nếu công năng chủ thần chí của Tâm bình\nthường thì tinh thần của con người bình thường, tỉnh táo, thần chí rõ ràng. Nếu như Tâm\nkhông bình thường thi phát sinh những bệnh chứng như: Hồi hộp, thổn thức, sợ hãi, hay\nquên, mất ngủ, phát cuồng, cời cợt không ngừng, hôn mê, nói nhảm.",
+      "confidence": 0.9981529546375233
+    },
+    {
+      "type": "text",
+      "img_path": "p0024_003_text.png",
+      "bbox": [
+        [
+          284,
+          2810
+        ],
+        [
+          2360,
+          2810
+        ],
+        [
+          2360,
+          3079
+        ],
+        [
+          284,
+          3079
+        ]
+      ],
+      "score": 0.9755022525787354,
+      "y_pos": 2810,
+      "text": "b. Tâm chủ huyết mạch: Tâm và mạch vốn nối liền với nhau. Huyết dịch có thể tuần hoàn\ntrong mạch quản là nhờ vào khí của Tâm thôi động. Tâm khí mạnh, trực tiếp ảnh hưởng\nđến vận hành của máu, vì vậy nó thể hiện trên mạch chẩn. Tâm khí bất túc, mạch sẽ nhỏ,\nyếu, vô lực. Khí đến không đều, mạch luật không chỉnh, loạn nhịp (gọi là Súc, Kết, Đại).",
+      "confidence": 0.9989056015407823
+    },
+    {
+      "type": "text",
+      "img_path": "p0024_012_text.png",
+      "bbox": [
+        [
+          285,
+          3110
+        ],
+        [
+          2046,
+          3110
+        ],
+        [
+          2046,
+          3161
+        ],
+        [
+          285,
+          3161
+        ]
+      ],
+      "score": 0.8904346227645874,
+      "y_pos": 3110,
+      "text": "c. Tâm kỳ hoa khai khiếu ở lưỡi, ở mặt (thấy rõ Tâm thế hiện ở lưỡi, ở mặt):",
+      "confidence": 0.9931640594433515
+    },
+    {
+      "type": "footer",
+      "img_path": "p0024_010_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9018823504447937,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0024_016_number.png",
+      "bbox": [
+        [
+          2335,
+          3340
+        ],
+        [
+          2353,
+          3340
+        ],
+        [
+          2353,
+          3373
+        ],
+        [
+          2335,
+          3373
+        ]
+      ],
+      "score": 0.7812790274620056,
+      "y_pos": 3340,
+      "text": "    \n    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0024.png"
+}

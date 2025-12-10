@@ -1,0 +1,422 @@
+{
+  "page_num": 547,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0547_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9212785363197327,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0547_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1470,
+          152
+        ],
+        [
+          1470,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.9219442009925842,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9963005375862122
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0547_004_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          325
+        ],
+        [
+          848,
+          325
+        ],
+        [
+          848,
+          380
+        ],
+        [
+          226,
+          380
+        ]
+      ],
+      "score": 0.85460364818573,
+      "y_pos": 325,
+      "text": "Phần 28. BÊNH ĐÀN ÔNG",
+      "confidence": 0.991272641264874
+    },
+    {
+      "type": "text",
+      "img_path": "p0547_015_text.png",
+      "bbox": [
+        [
+          228,
+          421
+        ],
+        [
+          1470,
+          421
+        ],
+        [
+          1470,
+          476
+        ],
+        [
+          228,
+          476
+        ]
+      ],
+      "score": 0.5725364089012146,
+      "y_pos": 421,
+      "text": "733. Viêm tinh hoàn: Ngũ khu, Khúc tuyền, Thái xung.",
+      "confidence": 0.9938337372408973
+    },
+    {
+      "type": "text",
+      "img_path": "p0547_009_text.png",
+      "bbox": [
+        [
+          230,
+          510
+        ],
+        [
+          1744,
+          510
+        ],
+        [
+          1744,
+          566
+        ],
+        [
+          230,
+          566
+        ]
+      ],
+      "score": 0.6125012636184692,
+      "y_pos": 510,
+      "text": "734. Viêm tinh hoàn, đau sán khí: Lãi câu, Thái xung, Khúc tuyền.",
+      "confidence": 0.9991155791638503
+    },
+    {
+      "type": "text",
+      "img_path": "p0547_007_text.png",
+      "bbox": [
+        [
+          232,
+          604
+        ],
+        [
+          1167,
+          604
+        ],
+        [
+          1167,
+          657
+        ],
+        [
+          232,
+          657
+        ]
+      ],
+      "score": 0.6204476952552795,
+      "y_pos": 604,
+      "text": "735. Tinh hoàn co lên: Ngũ khu, Quy lai.",
+      "confidence": 0.9850138936723981
+    },
+    {
+      "type": "text",
+      "img_path": "p0547_014_text.png",
+      "bbox": [
+        [
+          231,
+          696
+        ],
+        [
+          1405,
+          696
+        ],
+        [
+          1405,
+          748
+        ],
+        [
+          231,
+          748
+        ]
+      ],
+      "score": 0.5885315537452698,
+      "y_pos": 696,
+      "text": "736. Sa tinh hoàn một bên: Quan nguyên, Đại đôn.",
+      "confidence": 0.9860246706008912
+    },
+    {
+      "type": "text",
+      "img_path": "p0547_013_text.png",
+      "bbox": [
+        [
+          232,
+          788
+        ],
+        [
+          1486,
+          788
+        ],
+        [
+          1486,
+          841
+        ],
+        [
+          232,
+          841
+        ]
+      ],
+      "score": 0.5989091396331787,
+      "y_pos": 788,
+      "text": "737. Đau âm bộ và sưng ở dưới: Chí thất, Bào hoang.",
+      "confidence": 0.9990028019221324
+    },
+    {
+      "type": "text",
+      "img_path": "p0547_011_text.png",
+      "bbox": [
+        [
+          231,
+          880
+        ],
+        [
+          1173,
+          880
+        ],
+        [
+          1173,
+          932
+        ],
+        [
+          231,
+          932
+        ]
+      ],
+      "score": 0.6028172969818115,
+      "y_pos": 880,
+      "text": "738. Di tinh: Quan nguyên, Tam âm giao.",
+      "confidence": 0.9914602957120756
+    },
+    {
+      "type": "text",
+      "img_path": "p0547_005_text.png",
+      "bbox": [
+        [
+          232,
+          972
+        ],
+        [
+          1426,
+          972
+        ],
+        [
+          1426,
+          1025
+        ],
+        [
+          232,
+          1025
+        ]
+      ],
+      "score": 0.6259412169456482,
+      "y_pos": 972,
+      "text": "739. Di tinh: Trung cực, Quan nguyên, Tam âm giao.",
+      "confidence": 0.9896589448818793
+    },
+    {
+      "type": "text",
+      "img_path": "p0547_010_text.png",
+      "bbox": [
+        [
+          231,
+          1064
+        ],
+        [
+          1195,
+          1064
+        ],
+        [
+          1195,
+          1115
+        ],
+        [
+          231,
+          1115
+        ]
+      ],
+      "score": 0.6054528951644897,
+      "y_pos": 1064,
+      "text": "740. Mộng tinh, di tinh: Tâm du, Thận du.",
+      "confidence": 0.9757704388263614
+    },
+    {
+      "type": "text",
+      "img_path": "p0547_006_text.png",
+      "bbox": [
+        [
+          231,
+          1155
+        ],
+        [
+          2024,
+          1155
+        ],
+        [
+          2024,
+          1209
+        ],
+        [
+          231,
+          1209
+        ]
+      ],
+      "score": 0.623468816280365,
+      "y_pos": 1155,
+      "text": "741. Di tinh, liệt dương: Quan nguyên thấu Khúc cốt, Túc tam lý, Tam âm giao.",
+      "confidence": 0.9980190441578249
+    },
+    {
+      "type": "text",
+      "img_path": "p0547_012_text.png",
+      "bbox": [
+        [
+          230,
+          1246
+        ],
+        [
+          2016,
+          1246
+        ],
+        [
+          2016,
+          1302
+        ],
+        [
+          230,
+          1302
+        ]
+      ],
+      "score": 0.6023568511009216,
+      "y_pos": 1246,
+      "text": "742. Di tinh, liệt dương, xuất tinh sớm: Trung cực, Hoành cốt, Âm lăng tuyền.",
+      "confidence": 0.9992261098909981
+    },
+    {
+      "type": "text",
+      "img_path": "p0547_008_text.png",
+      "bbox": [
+        [
+          230,
+          1337
+        ],
+        [
+          1282,
+          1337
+        ],
+        [
+          1282,
+          1392
+        ],
+        [
+          230,
+          1392
+        ]
+      ],
+      "score": 0.6171480417251587,
+      "y_pos": 1337,
+      "text": "743. Di tinh, bạch trọc: Khí hải, Tam âm giao.",
+      "confidence": 0.9916339802245299
+    },
+    {
+      "type": "number",
+      "img_path": "p0547_003_number.png",
+      "bbox": [
+        [
+          2318,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3373
+        ],
+        [
+          2318,
+          3373
+        ]
+      ],
+      "score": 0.8637067079544067,
+      "y_pos": 3337,
+      "text": "    \n            \n        \n    \n    \n    \n    \n        \n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0547_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9132001399993896,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0547.png"
+}

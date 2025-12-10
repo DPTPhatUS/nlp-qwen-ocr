@@ -1,0 +1,446 @@
+{
+  "page_num": 202,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0202_005_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9322378635406494,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7254179112967991
+    },
+    {
+      "type": "header",
+      "img_path": "p0202_011_header.png",
+      "bbox": [
+        [
+          228,
+          155
+        ],
+        [
+          905,
+          155
+        ],
+        [
+          905,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9171730875968933,
+      "y_pos": 155,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9866287461642561
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0202_008_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          342
+        ],
+        [
+          489,
+          342
+        ],
+        [
+          489,
+          399
+        ],
+        [
+          226,
+          399
+        ]
+      ],
+      "score": 0.9300535917282104,
+      "y_pos": 342,
+      "text": "7. Am giao",
+      "confidence": 0.9231072068214417
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_010_text.png",
+      "bbox": [
+        [
+          288,
+          436
+        ],
+        [
+          1614,
+          436
+        ],
+        [
+          1614,
+          495
+        ],
+        [
+          288,
+          495
+        ]
+      ],
+      "score": 0.9286373853683472,
+      "y_pos": 436,
+      "text": "Vị trí: Thẳng rốn xuống 1 thốn, nằm ngửa lấy huyệt (H. 97)",
+      "confidence": 0.6861140191555023
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_013_text.png",
+      "bbox": [
+        [
+          286,
+          530
+        ],
+        [
+          1614,
+          530
+        ],
+        [
+          1614,
+          582
+        ],
+        [
+          286,
+          582
+        ]
+      ],
+      "score": 0.9142746329307556,
+      "y_pos": 530,
+      "text": "Cách châm: Châm đứng kim, sâu 1,5-2,5 thốn. Cứu 7 mồi.",
+      "confidence": 0.9945209271141461
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_000_text.png",
+      "bbox": [
+        [
+          281,
+          622
+        ],
+        [
+          2353,
+          622
+        ],
+        [
+          2353,
+          746
+        ],
+        [
+          281,
+          746
+        ]
+      ],
+      "score": 0.9681596755981445,
+      "y_pos": 622,
+      "text": "Chủ trị: Viêm niệu đạo, viêm nội mạc tử cung, kinh nguyệt không đều, đau bụng sau đẻ,\nsản dịch không đứt, ngứa âm hộ, đau sán khí.",
+      "confidence": 0.9943924803381738
+    },
+    {
+      "type": "image",
+      "img_path": "p0202_002_image.png",
+      "bbox": [
+        [
+          599,
+          824
+        ],
+        [
+          2032,
+          824
+        ],
+        [
+          2032,
+          2291
+        ],
+        [
+          599,
+          2291
+        ]
+      ],
+      "score": 0.9578525424003601,
+      "y_pos": 824
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0202_016_figure_title.png",
+      "bbox": [
+        [
+          1237,
+          2404
+        ],
+        [
+          1410,
+          2404
+        ],
+        [
+          1410,
+          2448
+        ],
+        [
+          1237,
+          2448
+        ]
+      ],
+      "score": 0.8203179240226746,
+      "y_pos": 2404,
+      "text": "ır    Г",
+      "confidence": 0.5892521018783252
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0202_007_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2487
+        ],
+        [
+          598,
+          2487
+        ],
+        [
+          598,
+          2541
+        ],
+        [
+          225,
+          2541
+        ]
+      ],
+      "score": 0.9301465749740601,
+      "y_pos": 2487,
+      "text": "8. Thần khuyết",
+      "confidence": 0.9484455212950706
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_006_text.png",
+      "bbox": [
+        [
+          288,
+          2582
+        ],
+        [
+          1416,
+          2582
+        ],
+        [
+          1416,
+          2638
+        ],
+        [
+          288,
+          2638
+        ]
+      ],
+      "score": 0.9316195249557495,
+      "y_pos": 2582,
+      "text": "Vị trí: Chính giữa rốn, nằm ngửa lấy huyệt (H. 97)",
+      "confidence": 0.5429719995993835
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_004_text.png",
+      "bbox": [
+        [
+          286,
+          2674
+        ],
+        [
+          1825,
+          2674
+        ],
+        [
+          1825,
+          2724
+        ],
+        [
+          286,
+          2724
+        ]
+      ],
+      "score": 0.9370898604393005,
+      "y_pos": 2674,
+      "text": "<b>Cách châm:</b> Cầm châm. Cứu cách muối, từ 5-15 mối hoặc hơn nữa.",
+      "confidence": 0.9865582278141609
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_003_text.png",
+      "bbox": [
+        [
+          295,
+          2766
+        ],
+        [
+          2096,
+          2766
+        ],
+        [
+          2096,
+          2820
+        ],
+        [
+          295,
+          2820
+        ]
+      ],
+      "score": 0.93887859582901,
+      "y_pos": 2766,
+      "text": "Chủ trị: Sôi bụng, đau bụng, la chảy, ly trúng gió hư thoát, choáng váng sau đẻ.",
+      "confidence": 0.9547969313656411
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_009_text.png",
+      "bbox": [
+        [
+          300,
+          2858
+        ],
+        [
+          2184,
+          2858
+        ],
+        [
+          2184,
+          2912
+        ],
+        [
+          300,
+          2912
+        ]
+      ],
+      "score": 0.928892195224762,
+      "y_pos": 2858,
+      "text": "Tác dụng phối hợp: Với Khí hải, Quan nguyên, Tam âm giao, trị trúng gió hư thoát",
+      "confidence": 0.9921680423544674
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0202_014_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2949
+        ],
+        [
+          555,
+          2949
+        ],
+        [
+          555,
+          3001
+        ],
+        [
+          225,
+          3001
+        ]
+      ],
+      "score": 0.9065847396850586,
+      "y_pos": 2949,
+      "text": "9. Thuỷ phân",
+      "confidence": 0.9491553732327053
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_001_text.png",
+      "bbox": [
+        [
+          281,
+          3039
+        ],
+        [
+          2358,
+          3039
+        ],
+        [
+          2358,
+          3166
+        ],
+        [
+          281,
+          3166
+        ]
+      ],
+      "score": 0.9675897359848022,
+      "y_pos": 3039,
+      "text": "Vị trí: Giữa rốn thẳng lên 1 thốn, nằm ngửa lấy huyệt, phụ nữ có thai trên 5 tháng không\nchâm (H. 97)",
+      "confidence": 0.9349895255906241
+    },
+    {
+      "type": "footer",
+      "img_path": "p0202_012_footer.png",
+      "bbox": [
+        [
+          227,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3386
+        ],
+        [
+          227,
+          3386
+        ]
+      ],
+      "score": 0.916522741317749,
+      "y_pos": 3333,
+      "text": "Bản quyên: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9311752769182313
+    },
+    {
+      "type": "number",
+      "img_path": "p0202_015_number.png",
+      "bbox": [
+        [
+          2300,
+          3339
+        ],
+        [
+          2350,
+          3339
+        ],
+        [
+          2350,
+          3376
+        ],
+        [
+          2300,
+          3376
+        ]
+      ],
+      "score": 0.877329409122467,
+      "y_pos": 3339,
+      "text": "    \n    \n            \n    \n    \n\n    \n\n\n    \n        ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0202.png"
+}

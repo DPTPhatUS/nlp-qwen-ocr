@@ -1,0 +1,266 @@
+{
+  "page_num": 345,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0345_005_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1678,
+          196
+        ]
+      ],
+      "score": 0.9181758761405945,
+      "y_pos": 142,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7456070706248283
+    },
+    {
+      "type": "header",
+      "img_path": "p0345_007_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1055,
+          152
+        ],
+        [
+          1055,
+          198
+        ],
+        [
+          228,
+          198
+        ]
+      ],
+      "score": 0.9114134311676025,
+      "y_pos": 152,
+      "text": "ÔN NHIỆT KINH BIÊN CHỨNG LUÂN TRI",
+      "confidence": 0.9449882047516959
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0345_006_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          304
+        ],
+        [
+          1416,
+          304
+        ],
+        [
+          1416,
+          359
+        ],
+        [
+          224,
+          359
+        ]
+      ],
+      "score": 0.913358747959137,
+      "y_pos": 304,
+      "text": "C. Tóm tắt vệ khí doanh huyết biện chứng luận trị",
+      "confidence": 0.9982063594986411
+    },
+    {
+      "type": "text",
+      "img_path": "p0345_001_text.png",
+      "bbox": [
+        [
+          220,
+          396
+        ],
+        [
+          2359,
+          396
+        ],
+        [
+          2359,
+          1230
+        ],
+        [
+          220,
+          1230
+        ]
+      ],
+      "score": 0.9875099658966064,
+      "y_pos": 396,
+      "text": "Bài này giới thiệu lý luận biện chứng trị liệu bệnh sốt thời khí (ôn nhiệt bệnh) với 4 yếu điểm vệ,\nkhí, doanh, huyết, và phương pháp biện chứng trị liệu của 4 giai đoạn bệnh sốt thời khí. Về mặt\nbiện chứng, thiệt chẩn chiếm địa vị trọng yếu. Xem biến hóa rêu lưỡi có thể phân riêng ra vùng\nbệnh ở vệ phần hoặc khí phần, đồng thời có thể lấy để phán đoán tân dịch còn hay mất. Xem\nbiến hóa chất lưỡi có thể phân riêng ra bệnh tại doanh phần hoặc huyết phần, đồng thời có thể\nbiện rõ âm dịch thịnh hay suy. Đối với bệnh sốt thời khí, trong các giai đoạn khác nhau có xuất\nhiện chứng trạng như phát sốt, miệng khát, ra mồ hôi, ban chẩn, bạch ám, hôn mê, co quắp...\nkhi học tập cần tiến hành so sánh phân biệt biết được những đặc điểm riêng khác nhau của nó,\nsẽ có giúp đỡ rất nhiều cho chẩn đoán. Nắm lấy mặt phát sốt mà nói, có phát sốt mà sợ lạnh,\nphát sốt đêm nặng hơn, sốt nóng lòng bàn chân bàn tay, đêm sốt sớm mát là nhiều loại hình\nsốt khác nhau. Loại hình sốt khác nhau thì chẩn đoán bệnh chứng và trị liệu cũng khác nhau.\nCần kết hợp Tây y để xử trí.",
+      "confidence": 0.9986195927535045
+    },
+    {
+      "type": "text",
+      "img_path": "p0345_002_text.png",
+      "bbox": [
+        [
+          221,
+          1267
+        ],
+        [
+          2358,
+          1267
+        ],
+        [
+          2358,
+          1606
+        ],
+        [
+          221,
+          1606
+        ]
+      ],
+      "score": 0.9816509485244751,
+      "y_pos": 1267,
+      "text": "Về mặt trị liệu, cần chú ý đến đặc trưng \"nhiệt hóa\" là đặc trưng chung của bệnh sốt thời khí.\nNgoài phong hàn biểu chứng và chứng vong dương ra, bệnh đó nhất loạt cấm dùng vị thuốc\ntân, ôn, nhiệt. Nhiệt tà dễ thương âm, lúc chữa tất cần bảo họ âm dịch từng giờ, từng phút.\nThấp tà dễ thương dương khí, trị bệnh có thấp rõ ràng, không thể dùng quá mức loại thuốc khổ,\nhàn (đắng, lạnh) và không thể dùng nhầm thuốc béo bổ.",
+      "confidence": 0.9983784817139358
+    },
+    {
+      "type": "text",
+      "img_path": "p0345_003_text.png",
+      "bbox": [
+        [
+          222,
+          1643
+        ],
+        [
+          2357,
+          1643
+        ],
+        [
+          2357,
+          1769
+        ],
+        [
+          222,
+          1769
+        ]
+      ],
+      "score": 0.9552835822105408,
+      "y_pos": 1643,
+      "text": "Nay đem các yếu điểm biện chứng luận trị về vệ, khí, doanh, huyết quy nạp lại thành bảng như\nsau, (bảng 23).",
+      "confidence": 0.9870994495360812
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0345_004_figure_title.png",
+      "bbox": [
+        [
+          222,
+          1804
+        ],
+        [
+          2358,
+          1804
+        ],
+        [
+          2358,
+          1930
+        ],
+        [
+          222,
+          1930
+        ]
+      ],
+      "score": 0.9264783263206482,
+      "y_pos": 1804,
+      "text": "Bảng 23: Bảng yếu điểm biện chứng luận trị về vệ khí doanh huyết trong bệnh sốt thời khí (ôn\nnhiệt bệnh)",
+      "confidence": 0.9942686039277653
+    },
+    {
+      "type": "table",
+      "img_path": "p0345_000_table.png",
+      "bbox": [
+        [
+          229,
+          1980
+        ],
+        [
+          2360,
+          1980
+        ],
+        [
+          2360,
+          3173
+        ],
+        [
+          229,
+          3173
+        ]
+      ],
+      "score": 0.9910112619400024,
+      "y_pos": 1980,
+      "text": "Bệnh phần vệ    Bệnh phần khí    Bệnh phần    Bệnh phần huyết\ndoanh\nBát cương biện    Biểu    Lý    Lý    Lý\nchứng\nNơi có bệnh biến    Phế vệ, tứ chi đầu    Phế, tỳ, vị, đại    Tâm, can    Tâm, can, thận\nmặt, mũi họng    trường, đảm\nChủ chứng    Rêu lưỡi trắng,    Lưỡi hồng, rêu    Lưỡi đỏ tía, ít rêu    Lưỡi tía tím,\nmạch phù, phát    lưỡi vàng, mạch    hoặc không rêu,    không rêu, mạch\nsốt sợ lạnh, đầu    hồng sác, hoặc    mạch trầm tế sác,    tế sác, phát sốt về\nđau, mình đau,    mạch trầm thực,    phát sốt về đêm    đêm nặng dữ, ban\nmũi tắc, ho hắng,    phát sốt không sợ    nặng dữ, ban    chẩn rõ rệt, thần\nchứng trạng phế    lạnh, tiện bí, vàng    chẩn ẩn hiện, thần    mờ mệt, co quắp,\nvê    da, ho hắng, là    trí nửa hôn trầm,    các loại xuất\nchứng của lục phủ    nói nhảm, hoặc co    huyết, chứng\nvà phế, tỳ.    quắp là chứng    trạng của chân âm\ntrạng của tâm,    hao tốn.\ncan.\nPhép chữa    Giải biểu thanh    Thanh khí hóa    Thanh doanh khái    Lương huyết chỉ\nnhiệt, tuyên phế    thấp, tả hạ, hòa    khiếu, tức phong.    huyết, tư âm, tức\ngiải, sinh tân.    phong.",
+      "confidence": 0.971897043078404
+    },
+    {
+      "type": "footer",
+      "img_path": "p0345_008_footer.png",
+      "bbox": [
+        [
+          228,
+          3337
+        ],
+        [
+          1342,
+          3337
+        ],
+        [
+          1342,
+          3386
+        ],
+        [
+          228,
+          3386
+        ]
+      ],
+      "score": 0.9003990888595581,
+      "y_pos": 3337,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9352578644482594
+    },
+    {
+      "type": "number",
+      "img_path": "p0345_009_number.png",
+      "bbox": [
+        [
+          2296,
+          3338
+        ],
+        [
+          2346,
+          3338
+        ],
+        [
+          2346,
+          3374
+        ],
+        [
+          2296,
+          3374
+        ]
+      ],
+      "score": 0.8547824621200562,
+      "y_pos": 3338,
+      "text": "    \n\n\n\n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0345.png"
+}

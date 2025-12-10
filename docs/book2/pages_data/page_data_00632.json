@@ -1,0 +1,474 @@
+{
+  "page_num": 632,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0632_009_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9288113713264465,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0632_013_header.png",
+      "bbox": [
+        [
+          229,
+          151
+        ],
+        [
+          1171,
+          151
+        ],
+        [
+          1171,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.916756272315979,
+      "y_pos": 151,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "text",
+      "img_path": "p0632_000_text.png",
+      "bbox": [
+        [
+          277,
+          305
+        ],
+        [
+          2359,
+          305
+        ],
+        [
+          2359,
+          1070
+        ],
+        [
+          277,
+          1070
+        ]
+      ],
+      "score": 0.9881672263145447,
+      "y_pos": 305,
+      "text": "Như vậy, chỉ số được xem xét để tìm tính quy luật là số tương quan của các kinh. Chỉ số này\nthể hiện đầy đủ nhất tính chất, trạng thái công năng của kinh, nên quy luật của số tương\nquan cũng là quy luật trạng thái công năng của các kinh đặc trưng cho từng bệnh chứng.\nNhững số tương quan của những kinh nhất định mang tính quy luật đặc trưng cho bệnh\nchứng hợp thành những nét đại thể gọi là Mô hình chỉ số nhiệt kinh lạc bệnh chứng. Một\nmô hình chỉ số nhiệt của bệnh chứng phải được đúc kết, rút ra từ thực tế lâm sàng phong\nphú, bằng cách lập bảng quy nạp mô hình chỉ số nhiệt kinh lạc cho từng bệnh chứng. Ra đời\ntừ thực tế lâm sàng, mô hình chỉ số nhiệt kinh lạc bệnh chứng trở lại giúp xác định chẩn\nđoán trên lâm sàng. Bảng qui nạp mô hình chỉ số nhiệt kinh lạc bệnh chứng được phát triển\nvà sửa đổi từ bảng diễn biến chỉ số nhiệt kinh lạc của từng người hay cũng là từ bảng liệt kê\nchỉ số nhiệt kinh lạc của nhiều người có cùng bệnh chứng.",
+      "confidence": 0.9995882394194873
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0632_014_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1107
+        ],
+        [
+          2141,
+          1107
+        ],
+        [
+          2141,
+          1160
+        ],
+        [
+          225,
+          1160
+        ]
+      ],
+      "score": 0.9152023196220398,
+      "y_pos": 1107,
+      "text": "D. Cách lập Bảng quy nạp mô hình chỉ số nhiệt bệnh chứng và thiết lập mô hình",
+      "confidence": 0.9991801592368114
+    },
+    {
+      "type": "text",
+      "img_path": "p0632_004_text.png",
+      "bbox": [
+        [
+          268,
+          1197
+        ],
+        [
+          2359,
+          1197
+        ],
+        [
+          2359,
+          1320
+        ],
+        [
+          268,
+          1320
+        ]
+      ],
+      "score": 0.9593753218650818,
+      "y_pos": 1197,
+      "text": "Mỗi thầy thuốc đều có thể tự tổng kết và lập bảng qui nạp mô hình chỉ số nhiệt bệnh chứng\nđể tìm ra mô hình chỉ số nhiệt của bệnh chứng.",
+      "confidence": 0.9993177289382005
+    },
+    {
+      "type": "text",
+      "img_path": "p0632_001_text.png",
+      "bbox": [
+        [
+          276,
+          1360
+        ],
+        [
+          2359,
+          1360
+        ],
+        [
+          2359,
+          1627
+        ],
+        [
+          276,
+          1627
+        ]
+      ],
+      "score": 0.9818993806838989,
+      "y_pos": 1360,
+      "text": "Khi ta có từ 3 trở lên, hồ sơ bệnh án chỉ số nhiệt kinh lạc của 3 người bệnh khác nhau những\ncó cùng một chứng bệnh chủ yếu giống nhau, ta lấy tất cả các số tương quan của các kinh\nvà vài chỉ số liên quan từ các hồ sơ đó, đưa vào bảng qui nạp mô hình chỉ số nhiệt kinh lạc\nbệnh chứng (gọi tắt là bảng C), theo mẫu sau: (trang 861).",
+      "confidence": 0.9995976240986112
+    },
+    {
+      "type": "text",
+      "img_path": "p0632_003_text.png",
+      "bbox": [
+        [
+          280,
+          1662
+        ],
+        [
+          2358,
+          1662
+        ],
+        [
+          2358,
+          1788
+        ],
+        [
+          280,
+          1788
+        ]
+      ],
+      "score": 0.9641305804252625,
+      "y_pos": 1662,
+      "text": "Tất nhiên nếu ta có càng nhiều bảng chỉ số nhiệt kinh lạc của nhiều người thì giá trị tiêu biểu\ncủa mô hình càng cao.",
+      "confidence": 0.9953011869983468
+    },
+    {
+      "type": "text",
+      "img_path": "p0632_017_text.png",
+      "bbox": [
+        [
+          281,
+          1829
+        ],
+        [
+          2360,
+          1829
+        ],
+        [
+          2360,
+          1947
+        ],
+        [
+          281,
+          1947
+        ]
+      ],
+      "score": 0.8034940361976624,
+      "y_pos": 1829,
+      "text": "Bảng qui nạp mô hình chỉ số nhiệt kinh lạc bệnh chứng gồm có 21 cột dọc được ghi như\nsau:",
+      "confidence": 0.9928859572770984
+    },
+    {
+      "type": "text",
+      "img_path": "p0632_010_text.png",
+      "bbox": [
+        [
+          299,
+          1989
+        ],
+        [
+          759,
+          1989
+        ],
+        [
+          759,
+          2039
+        ],
+        [
+          299,
+          2039
+        ]
+      ],
+      "score": 0.9257422685623169,
+      "y_pos": 1989,
+      "text": "Côt 1: Số thứ tư.",
+      "confidence": 0.973297981839431
+    },
+    {
+      "type": "text",
+      "img_path": "p0632_011_text.png",
+      "bbox": [
+        [
+          301,
+          2084
+        ],
+        [
+          1010,
+          2084
+        ],
+        [
+          1010,
+          2131
+        ],
+        [
+          301,
+          2131
+        ]
+      ],
+      "score": 0.9255423545837402,
+      "y_pos": 2084,
+      "text": "Côt 2: Ho và tên bênh nhân.",
+      "confidence": 0.9598467822732597
+    },
+    {
+      "type": "text",
+      "img_path": "p0632_012_text.png",
+      "bbox": [
+        [
+          302,
+          2172
+        ],
+        [
+          646,
+          2172
+        ],
+        [
+          646,
+          2222
+        ],
+        [
+          302,
+          2222
+        ]
+      ],
+      "score": 0.9251558184623718,
+      "y_pos": 2172,
+      "text": "Côt 3: Tuổi.",
+      "confidence": 0.990077691418784
+    },
+    {
+      "type": "text",
+      "img_path": "p0632_008_text.png",
+      "bbox": [
+        [
+          300,
+          2265
+        ],
+        [
+          1577,
+          2265
+        ],
+        [
+          1577,
+          2317
+        ],
+        [
+          300,
+          2317
+        ]
+      ],
+      "score": 0.930324137210846,
+      "y_pos": 2265,
+      "text": "Cột 4: Giờ, ngày, tháng , năm lấy số đo nhiệt kinh lạc.",
+      "confidence": 0.952482591595566
+    },
+    {
+      "type": "text",
+      "img_path": "p0632_007_text.png",
+      "bbox": [
+        [
+          301,
+          2359
+        ],
+        [
+          997,
+          2359
+        ],
+        [
+          997,
+          2408
+        ],
+        [
+          301,
+          2408
+        ]
+      ],
+      "score": 0.9316093921661377,
+      "y_pos": 2359,
+      "text": "Côt 5: Nhiệt đô môi trường.",
+      "confidence": 0.9532418066057665
+    },
+    {
+      "type": "text",
+      "img_path": "p0632_006_text.png",
+      "bbox": [
+        [
+          299,
+          2448
+        ],
+        [
+          2019,
+          2448
+        ],
+        [
+          2019,
+          2502
+        ],
+        [
+          299,
+          2502
+        ]
+      ],
+      "score": 0.932431697845459,
+      "y_pos": 2448,
+      "text": "\n    Cột 6: Nhiệt độ cao nhất và thấp nhất của chi trên (lấy ở Ô1 và 2 bảng A).\n",
+      "confidence": 0.9857405424118042
+    },
+    {
+      "type": "text",
+      "img_path": "p0632_005_text.png",
+      "bbox": [
+        [
+          300,
+          2539
+        ],
+        [
+          1564,
+          2539
+        ],
+        [
+          1564,
+          2592
+        ],
+        [
+          300,
+          2592
+        ]
+      ],
+      "score": 0.9328533411026001,
+      "y_pos": 2539,
+      "text": "Cột 7: Sai số giới hạn của chi trên (lấy ở Ô5 bảng A).",
+      "confidence": 0.9982106877224786
+    },
+    {
+      "type": "text",
+      "img_path": "p0632_002_text.png",
+      "bbox": [
+        [
+          299,
+          2630
+        ],
+        [
+          2358,
+          2630
+        ],
+        [
+          2358,
+          2756
+        ],
+        [
+          299,
+          2756
+        ]
+      ],
+      "score": 0.9647786021232605,
+      "y_pos": 2630,
+      "text": "\n    Từ cột 8 đến cột số 13 là số tương quan (gồm giá trị tuyệt đối và dấu) của các kinh chi\n\ntrên lần lượt từ Tiểu, Tâm, Tam, Bào, Đại đến Phế (lấy ở cột 8 bảng A).",
+      "confidence": 0.9920455779140105
+    },
+    {
+      "type": "number",
+      "img_path": "p0632_016_number.png",
+      "bbox": [
+        [
+          2305,
+          3336
+        ],
+        [
+          2354,
+          3336
+        ],
+        [
+          2354,
+          3373
+        ],
+        [
+          2305,
+          3373
+        ]
+      ],
+      "score": 0.8634544014930725,
+      "y_pos": 3336,
+      "text": "    \n            \n            \n\n    \n            \n            \n.    \n    \n    ",
+      "confidence": 0.9783141552298157
+    },
+    {
+      "type": "footer",
+      "img_path": "p0632_015_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3388
+        ],
+        [
+          228,
+          3388
+        ]
+      ],
+      "score": 0.9113713502883911,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985950510456877
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0632.png"
+}

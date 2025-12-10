@@ -1,0 +1,368 @@
+{
+  "page_num": 250,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0250_003_header.png",
+      "bbox": [
+        [
+          1611,
+          141
+        ],
+        [
+          2376,
+          141
+        ],
+        [
+          2376,
+          202
+        ],
+        [
+          1611,
+          202
+        ]
+      ],
+      "score": 0.9218044877052307,
+      "y_pos": 141,
+      "text": "~?    ~ 7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6610881077155234
+    },
+    {
+      "type": "header",
+      "img_path": "p0250_006_header.png",
+      "bbox": [
+        [
+          229,
+          155
+        ],
+        [
+          907,
+          155
+        ],
+        [
+          907,
+          201
+        ],
+        [
+          229,
+          201
+        ]
+      ],
+      "score": 0.9126816987991333,
+      "y_pos": 155,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9881776160207288
+    },
+    {
+      "type": "image",
+      "img_path": "p0250_000_image.png",
+      "bbox": [
+        [
+          831,
+          377
+        ],
+        [
+          1738,
+          377
+        ],
+        [
+          1738,
+          2342
+        ],
+        [
+          831,
+          2342
+        ]
+      ],
+      "score": 0.9770431518554688,
+      "y_pos": 377
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0250_009_figure_title.png",
+      "bbox": [
+        [
+          1195,
+          2451
+        ],
+        [
+          1393,
+          2451
+        ],
+        [
+          1393,
+          2494
+        ],
+        [
+          1195,
+          2494
+        ]
+      ],
+      "score": 0.8912824988365173,
+      "y_pos": 2451,
+      "text": "<b>Hình 123</b>",
+      "confidence": 0.9479055851697922
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0250_011_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2535
+        ],
+        [
+          909,
+          2535
+        ],
+        [
+          909,
+          2585
+        ],
+        [
+          226,
+          2585
+        ]
+      ],
+      "score": 0.8830676078796387,
+      "y_pos": 2535,
+      "text": "209. Khoan cữu (Thoát cữu)",
+      "confidence": 0.8813158571720123
+    },
+    {
+      "type": "text",
+      "img_path": "p0250_005_text.png",
+      "bbox": [
+        [
+          290,
+          2621
+        ],
+        [
+          1602,
+          2621
+        ],
+        [
+          1602,
+          2675
+        ],
+        [
+          290,
+          2675
+        ]
+      ],
+      "score": 0.917829155921936,
+      "y_pos": 2621,
+      "text": "Vị trí: Mấu động lớn xương đùi thẳng lên 0,5 thốn. (H.123)",
+      "confidence": 0.9941234409809112
+    },
+    {
+      "type": "text",
+      "img_path": "p0250_004_text.png",
+      "bbox": [
+        [
+          288,
+          2710
+        ],
+        [
+          1151,
+          2710
+        ],
+        [
+          1151,
+          2760
+        ],
+        [
+          288,
+          2760
+        ]
+      ],
+      "score": 0.920143187046051,
+      "y_pos": 2710,
+      "text": "<b>Cách châm:</b> Châm đứng 1,5 – 2 thôn.",
+      "confidence": 0.9600037885339636
+    },
+    {
+      "type": "text",
+      "img_path": "p0250_001_text.png",
+      "bbox": [
+        [
+          286,
+          2796
+        ],
+        [
+          1541,
+          2796
+        ],
+        [
+          1541,
+          2850
+        ],
+        [
+          286,
+          2850
+        ]
+      ],
+      "score": 0.9281041622161865,
+      "y_pos": 2796,
+      "text": "Chủ trị: Trẻ em bị di chứng bại liệt, khớp hông lỏng lẻo.",
+      "confidence": 0.5198162167759265
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0250_008_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2885
+        ],
+        [
+          652,
+          2885
+        ],
+        [
+          652,
+          2935
+        ],
+        [
+          226,
+          2935
+        ]
+      ],
+      "score": 0.8951581716537476,
+      "y_pos": 2885,
+      "text": "210. Cường khoá",
+      "confidence": 0.925114631652832
+    },
+    {
+      "type": "text",
+      "img_path": "p0250_012_text.png",
+      "bbox": [
+        [
+          289,
+          2970
+        ],
+        [
+          1823,
+          2970
+        ],
+        [
+          1823,
+          3026
+        ],
+        [
+          289,
+          3026
+        ]
+      ],
+      "score": 0.8770270943641663,
+      "y_pos": 2970,
+      "text": "Vị trí: Dưới mẫu chuyển động lớn 2 thốn, bờ sau xương đùi. (H.123)",
+      "confidence": 0.9959953155587701
+    },
+    {
+      "type": "text",
+      "img_path": "p0250_013_text.png",
+      "bbox": [
+        [
+          288,
+          3060
+        ],
+        [
+          1307,
+          3060
+        ],
+        [
+          1307,
+          3111
+        ],
+        [
+          288,
+          3111
+        ]
+      ],
+      "score": 0.8713948726654053,
+      "y_pos": 3060,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 3 – 4 thốn.",
+      "confidence": 0.9739385022057427
+    },
+    {
+      "type": "text",
+      "img_path": "p0250_002_text.png",
+      "bbox": [
+        [
+          288,
+          3148
+        ],
+        [
+          845,
+          3148
+        ],
+        [
+          845,
+          3200
+        ],
+        [
+          288,
+          3200
+        ]
+      ],
+      "score": 0.9240836501121521,
+      "y_pos": 3148,
+      "text": "Chủ trị: Liệt do chèn ép.",
+      "confidence": 0.6652719775835673
+    },
+    {
+      "type": "footer",
+      "img_path": "p0250_007_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3386
+        ],
+        [
+          228,
+          3386
+        ]
+      ],
+      "score": 0.9121208190917969,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9235246552611297
+    },
+    {
+      "type": "number",
+      "img_path": "p0250_010_number.png",
+      "bbox": [
+        [
+          2279,
+          3338
+        ],
+        [
+          2347,
+          3338
+        ],
+        [
+          2347,
+          3377
+        ],
+        [
+          2279,
+          3377
+        ]
+      ],
+      "score": 0.8875256776809692,
+      "y_pos": 3338,
+      "text": "        \n\n    \n    \n    \n\n        \n\n\n    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0250.png"
+}

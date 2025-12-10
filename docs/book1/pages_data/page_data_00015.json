@@ -1,0 +1,630 @@
+{
+  "page_num": 15,
+  "content": [
+    {
+      "type": "paragraph_title",
+      "img_path": "p0015_018_paragraph_title.png",
+      "bbox": [
+        [
+          409,
+          452
+        ],
+        [
+          940,
+          452
+        ],
+        [
+          940,
+          504
+        ],
+        [
+          409,
+          504
+        ]
+      ],
+      "score": 0.8485435247421265,
+      "y_pos": 452,
+      "text": "Nhiệt kết Đại trường",
+      "confidence": 0.9861920394680717
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_006_text.png",
+      "bbox": [
+        [
+          462,
+          529
+        ],
+        [
+          2122,
+          529
+        ],
+        [
+          2122,
+          637
+        ],
+        [
+          462,
+          637
+        ]
+      ],
+      "score": 0.9579835534095764,
+      "y_pos": 529,
+      "text": "+ Triệu chứng chính sốt cơn, đau bụng, bụng trướng, chối nắn, táo bón\nhoặc nhiệt kết bàng lưu",
+      "confidence": 0.9928931134183643
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_013_text.png",
+      "bbox": [
+        [
+          462,
+          666
+        ],
+        [
+          1926,
+          666
+        ],
+        [
+          1926,
+          716
+        ],
+        [
+          462,
+          716
+        ]
+      ],
+      "score": 0.9151892066001892,
+      "y_pos": 666,
+      "text": "+ Thường gặp trong táo bón cấp tính của những bệnh có sốt cao.",
+      "confidence": 0.9915653960779309
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_004_text.png",
+      "bbox": [
+        [
+          462,
+          745
+        ],
+        [
+          2122,
+          745
+        ],
+        [
+          2122,
+          850
+        ],
+        [
+          462,
+          850
+        ]
+      ],
+      "score": 0.9603211879730225,
+      "y_pos": 745,
+      "text": "+ Bệnh cảnh này tương tự như H/C Dương minh trong cách biện luận\ntheo Thương hàn luân.",
+      "confidence": 0.9984465627605893
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0015_016_paragraph_title.png",
+      "bbox": [
+        [
+          408,
+          883
+        ],
+        [
+          952,
+          883
+        ],
+        [
+          952,
+          932
+        ],
+        [
+          408,
+          932
+        ]
+      ],
+      "score": 0.8971462249755859,
+      "y_pos": 883,
+      "text": "Nhiệt bức Đại trường",
+      "confidence": 0.9976259280334819
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_000_text.png",
+      "bbox": [
+        [
+          463,
+          965
+        ],
+        [
+          2125,
+          965
+        ],
+        [
+          2125,
+          1129
+        ],
+        [
+          463,
+          1129
+        ]
+      ],
+      "score": 0.971367597579956,
+      "y_pos": 965,
+      "text": "+ Triêu chứng chính sốt, khát nước, đau bụng, ruột sôi, tiêu phân vàng\nnát, hoặc nhầy nhớt, hâu môn nóng đỏ, mặt đỏ, tay chân nóng, lưỡi đỏ,\nrêu vàng.",
+      "confidence": 0.9977127235161437
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_003_text.png",
+      "bbox": [
+        [
+          463,
+          1163
+        ],
+        [
+          2123,
+          1163
+        ],
+        [
+          2123,
+          1270
+        ],
+        [
+          463,
+          1270
+        ]
+      ],
+      "score": 0.9604299068450928,
+      "y_pos": 1163,
+      "text": "+ Thường gặp trong tất cả những trường hợp tiêu chảy nhiễm trùng,\nviêm da dày -ruột cấp, ngộ độc thức ăn.",
+      "confidence": 0.9900356283459526
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0015_017_paragraph_title.png",
+      "bbox": [
+        [
+          409,
+          1305
+        ],
+        [
+          900,
+          1305
+        ],
+        [
+          900,
+          1353
+        ],
+        [
+          409,
+          1353
+        ]
+      ],
+      "score": 0.8622780442237854,
+      "y_pos": 1305,
+      "text": "Đai trường hàn kết",
+      "confidence": 0.9817324340343475
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_007_text.png",
+      "bbox": [
+        [
+          463,
+          1386
+        ],
+        [
+          2123,
+          1386
+        ],
+        [
+          2123,
+          1496
+        ],
+        [
+          463,
+          1496
+        ]
+      ],
+      "score": 0.9566059708595276,
+      "y_pos": 1386,
+      "text": "+ Bung đau nhiều, chối nắn, đầy trướng, miệng nhạt, táo bón. Mặt trắng,\nmôi nhợt, tay chân mát, lưỡi trắng, ít rêu. Mạch trầm, huyền.",
+      "confidence": 0.9986927294036465
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_010_text.png",
+      "bbox": [
+        [
+          464,
+          1527
+        ],
+        [
+          1748,
+          1527
+        ],
+        [
+          1748,
+          1578
+        ],
+        [
+          464,
+          1578
+        ]
+      ],
+      "score": 0.9183171987533569,
+      "y_pos": 1527,
+      "text": "+ Thường gặp trong tất cả những trường hợp bí đại tiện.",
+      "confidence": 0.9924537633594713
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0015_021_paragraph_title.png",
+      "bbox": [
+        [
+          409,
+          1612
+        ],
+        [
+          772,
+          1612
+        ],
+        [
+          772,
+          1663
+        ],
+        [
+          409,
+          1663
+        ]
+      ],
+      "score": 0.7681851387023926,
+      "y_pos": 1612,
+      "text": "Vị thấp nhiệt",
+      "confidence": 0.9446810404459636
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_002_text.png",
+      "bbox": [
+        [
+          463,
+          1694
+        ],
+        [
+          2127,
+          1694
+        ],
+        [
+          2127,
+          1861
+        ],
+        [
+          463,
+          1861
+        ]
+      ],
+      "score": 0.9695001840591431,
+      "y_pos": 1694,
+      "text": "+ Triệu chứng chính miệng đắng, khát nước mà không dám uống. Sốt hoặc\ncó cảm giác nóng, sốt cơn. Đau thượng vị, buồn nôn, nôn mửa, trướng\nbụng, tiêu chảy. Tay chân nặng nề, cảm giác nặng nề toàn thân.",
+      "confidence": 0.9911924282573262
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_012_text.png",
+      "bbox": [
+        [
+          462,
+          1888
+        ],
+        [
+          1848,
+          1888
+        ],
+        [
+          1848,
+          1940
+        ],
+        [
+          462,
+          1940
+        ]
+      ],
+      "score": 0.9152364730834961,
+      "y_pos": 1888,
+      "text": "+ Thường gặp trong nhiễm trùng ruột, viêm dạ dày ruột cấp.",
+      "confidence": 0.9942803631226221
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0015_020_paragraph_title.png",
+      "bbox": [
+        [
+          409,
+          1969
+        ],
+        [
+          889,
+          1969
+        ],
+        [
+          889,
+          2018
+        ],
+        [
+          409,
+          2018
+        ]
+      ],
+      "score": 0.7751740217208862,
+      "y_pos": 1969,
+      "text": "Vị nhiệt ủng thịnh",
+      "confidence": 0.9742604076862336
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_008_text.png",
+      "bbox": [
+        [
+          467,
+          2042
+        ],
+        [
+          2124,
+          2042
+        ],
+        [
+          2124,
+          2148
+        ],
+        [
+          467,
+          2148
+        ]
+      ],
+      "score": 0.9538707137107849,
+      "y_pos": 2042,
+      "text": "+ Triệu chứng chính miệng khô khát, môi nứt nẻ, dễ đói, sôi ruột, chảy\nmáu nướu răng, đai tiên bí kết, tiểu, sẻn đỏ.",
+      "confidence": 0.9995381371789649
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_015_text.png",
+      "bbox": [
+        [
+          469,
+          2175
+        ],
+        [
+          1419,
+          2175
+        ],
+        [
+          1419,
+          2226
+        ],
+        [
+          469,
+          2226
+        ]
+      ],
+      "score": 0.912998378276825,
+      "y_pos": 2175,
+      "text": "+ Thường gặp trong sốt phát ban, herpes.",
+      "confidence": 0.9902181185427166
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0015_022_paragraph_title.png",
+      "bbox": [
+        [
+          409,
+          2254
+        ],
+        [
+          934,
+          2254
+        ],
+        [
+          934,
+          2302
+        ],
+        [
+          409,
+          2302
+        ]
+      ],
+      "score": 0.748914361000061,
+      "y_pos": 2254,
+      "text": "Can Đởm thấp nhiệt",
+      "confidence": 0.9616190522909165
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_001_text.png",
+      "bbox": [
+        [
+          469,
+          2337
+        ],
+        [
+          2125,
+          2337
+        ],
+        [
+          2125,
+          2500
+        ],
+        [
+          469,
+          2500
+        ]
+      ],
+      "score": 0.9706535339355469,
+      "y_pos": 2337,
+      "text": "+ Triệu chứng chính sốt cao rét run, hàn nhiệt vãng lai, vàng da, miệng\nđắng, chán ăn, mất ngon miệng. Đau bụng thượng vị, đau lan hông\nsườn, buồn nôn, nôn mửa thức ăn chưa tiêu.",
+      "confidence": 0.9976774902337393
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_005_text.png",
+      "bbox": [
+        [
+          464,
+          2534
+        ],
+        [
+          2125,
+          2534
+        ],
+        [
+          2125,
+          2641
+        ],
+        [
+          464,
+          2641
+        ]
+      ],
+      "score": 0.9583119750022888,
+      "y_pos": 2534,
+      "text": "+ Thường gặp trong viêm gan cấp, viêm ống mật, túi mật, viêm phần\nphụ, viêm sinh duc.",
+      "confidence": 0.994838813622962
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_023_text.png",
+      "bbox": [
+        [
+          408,
+          2674
+        ],
+        [
+          1533,
+          2674
+        ],
+        [
+          1533,
+          2726
+        ],
+        [
+          408,
+          2726
+        ]
+      ],
+      "score": 0.6171633005142212,
+      "y_pos": 2674,
+      "text": "- Nhiệt kết Bàng quang (thấp nhiệt Bàng quang)",
+      "confidence": 0.5497581573824087
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_009_text.png",
+      "bbox": [
+        [
+          463,
+          2756
+        ],
+        [
+          2125,
+          2756
+        ],
+        [
+          2125,
+          2867
+        ],
+        [
+          463,
+          2867
+        ]
+      ],
+      "score": 0.9520543217658997,
+      "y_pos": 2756,
+      "text": "+ Triệu chứng chính tiểu vàng, tiểu máu, tiểu gắt, bụng dưới trướng\nđầy, mót đái mà đái không hết, đái đục (chứng lâm lậu).",
+      "confidence": 0.9967468646216446
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_011_text.png",
+      "bbox": [
+        [
+          463,
+          2899
+        ],
+        [
+          1975,
+          2899
+        ],
+        [
+          1975,
+          2952
+        ],
+        [
+          463,
+          2952
+        ]
+      ],
+      "score": 0.9161245226860046,
+      "y_pos": 2899,
+      "text": "+ Thường gặp trong viêm bàng quang cấp, nhiễm trùng niệu thấp.",
+      "confidence": 0.9962452864274383
+    },
+    {
+      "type": "number",
+      "img_path": "p0015_019_number.png",
+      "bbox": [
+        [
+          353,
+          3112
+        ],
+        [
+          404,
+          3112
+        ],
+        [
+          404,
+          3148
+        ],
+        [
+          353,
+          3148
+        ]
+      ],
+      "score": 0.833391010761261,
+      "y_pos": 3112,
+      "text": "    \n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0015_014_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3366
+        ],
+        [
+          293,
+          3366
+        ]
+      ],
+      "score": 0.9135782718658447,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8738532049315316
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0015.png"
+}

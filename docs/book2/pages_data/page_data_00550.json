@@ -1,0 +1,838 @@
+{
+  "page_num": 550,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0550_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2371,
+          144
+        ],
+        [
+          2371,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9185768365859985,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7566693045553707
+    },
+    {
+      "type": "header",
+      "img_path": "p0550_000_header.png",
+      "bbox": [
+        [
+          228,
+          151
+        ],
+        [
+          1471,
+          151
+        ],
+        [
+          1471,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.9206512570381165,
+      "y_pos": 151,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9977066326141357
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0550_018_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          322
+        ],
+        [
+          825,
+          322
+        ],
+        [
+          825,
+          383
+        ],
+        [
+          226,
+          383
+        ]
+      ],
+      "score": 0.6250513195991516,
+      "y_pos": 322,
+      "text": "Phần 30. GÂY TÊ ĐỂ MỔ",
+      "confidence": 0.9943512056184851
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_031_reference_content.png",
+      "bbox": [
+        [
+          229,
+          417
+        ],
+        [
+          1315,
+          417
+        ],
+        [
+          1315,
+          482
+        ],
+        [
+          229,
+          482
+        ]
+      ],
+      "score": 0.5264832973480225,
+      "y_pos": 417,
+      "text": "803. Gây tê để mổ ở ngực: Hợp cốc, Nội quan.",
+      "confidence": 0.999269521754721
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_027_reference_content.png",
+      "bbox": [
+        [
+          232,
+          507
+        ],
+        [
+          1515,
+          507
+        ],
+        [
+          1515,
+          574
+        ],
+        [
+          232,
+          574
+        ]
+      ],
+      "score": 0.5915225744247437,
+      "y_pos": 507,
+      "text": "804. Gây tê để mổ vùng ngực: Tý nhu thấu Kiên ngung.",
+      "confidence": 0.9953357687702885
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_016_reference_content.png",
+      "bbox": [
+        [
+          232,
+          599
+        ],
+        [
+          1388,
+          599
+        ],
+        [
+          1388,
+          664
+        ],
+        [
+          232,
+          664
+        ]
+      ],
+      "score": 0.6356428265571594,
+      "y_pos": 599,
+      "text": "805. Chích mủ ngón tay cái: Hợp cốc, Liệt khuyết.",
+      "confidence": 0.9992844976630866
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_015_reference_content.png",
+      "bbox": [
+        [
+          232,
+          692
+        ],
+        [
+          1328,
+          692
+        ],
+        [
+          1328,
+          756
+        ],
+        [
+          232,
+          756
+        ]
+      ],
+      "score": 0.6370980739593506,
+      "y_pos": 692,
+      "text": "806. Chích mủ ngón tay trỏ: Hợp cốc, Nhị gian.",
+      "confidence": 0.9853354183336099
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_006_reference_content.png",
+      "bbox": [
+        [
+          232,
+          783
+        ],
+        [
+          1506,
+          783
+        ],
+        [
+          1506,
+          846
+        ],
+        [
+          232,
+          846
+        ]
+      ],
+      "score": 0.6889757513999939,
+      "y_pos": 783,
+      "text": "807. Chích ở mu bàn tay: Khúc trì, Chi câu, Liệt khuyết.",
+      "confidence": 0.9996565148748201
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_005_reference_content.png",
+      "bbox": [
+        [
+          233,
+          876
+        ],
+        [
+          1597,
+          876
+        ],
+        [
+          1597,
+          939
+        ],
+        [
+          233,
+          939
+        ]
+      ],
+      "score": 0.6914406418800354,
+      "y_pos": 876,
+      "text": "808. Chích ở cổ tay: Hợp cốc, Ngoại quan, Tý nhu, Khúc trì.",
+      "confidence": 0.9690154605224485
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_004_reference_content.png",
+      "bbox": [
+        [
+          233,
+          967
+        ],
+        [
+          1600,
+          967
+        ],
+        [
+          1600,
+          1032
+        ],
+        [
+          233,
+          1032
+        ]
+      ],
+      "score": 0.7041380405426025,
+      "y_pos": 967,
+      "text": "809. Chích khối u ở cẳng tay: Hợp cốc, Nội quan, Thông lý.",
+      "confidence": 0.9784336338440577
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_008_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1058
+        ],
+        [
+          1787,
+          1058
+        ],
+        [
+          1787,
+          1123
+        ],
+        [
+          232,
+          1123
+        ]
+      ],
+      "score": 0.6794909238815308,
+      "y_pos": 1058,
+      "text": "810. Chích mủ ở cẳng tay: Hợp cốc, Liệt khuyết, Khổng tối, Khúc trì.",
+      "confidence": 0.9853869233812604
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_010_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1151
+        ],
+        [
+          1762,
+          1151
+        ],
+        [
+          1762,
+          1216
+        ],
+        [
+          231,
+          1216
+        ]
+      ],
+      "score": 0.6628576517105103,
+      "y_pos": 1151,
+      "text": "811. Chích mủ ở khuỷu tay: Hợp cốc, Chi câu, Khúc trì, Xích trạch.",
+      "confidence": 0.975184432723943
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_011_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1244
+        ],
+        [
+          1660,
+          1244
+        ],
+        [
+          1660,
+          1309
+        ],
+        [
+          231,
+          1309
+        ]
+      ],
+      "score": 0.6602628827095032,
+      "y_pos": 1244,
+      "text": "812. Chích mủ ở khớp vai: Kiên trung du, Tý nhu, Kiên ngung.",
+      "confidence": 0.917350362385473
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_007_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1334
+        ],
+        [
+          2364,
+          1334
+        ],
+        [
+          2364,
+          1466
+        ],
+        [
+          231,
+          1466
+        ]
+      ],
+      "score": 0.6878581047058105,
+      "y_pos": 1334,
+      "text": "813. Cắt khâu ngón chân cái: Túc tam lý, Quang minh, Thái khê, Thái xung, Dương lăng\ntuyền.",
+      "confidence": 0.9943006717881491
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_026_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1495
+        ],
+        [
+          2291,
+          1495
+        ],
+        [
+          2291,
+          1629
+        ],
+        [
+          231,
+          1629
+        ]
+      ],
+      "score": 0.5916794538497925,
+      "y_pos": 1495,
+      "text": "814. Cắt lọc chỗ rắn cắn ở ngón cái chân: Túc tâm lý, Âm lằng tuyền, Thái xung, Tam âm\ngiao.",
+      "confidence": 0.8076861275771221
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_020_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1657
+        ],
+        [
+          2004,
+          1657
+        ],
+        [
+          2004,
+          1725
+        ],
+        [
+          231,
+          1725
+        ]
+      ],
+      "score": 0.6224662661552429,
+      "y_pos": 1657,
+      "text": "815. Chích mủ ở gầm bàn chân: Dũng tuyền, Côn luân, Thừa sơn, Thái xung.",
+      "confidence": 0.9996842331177479
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_029_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1750
+        ],
+        [
+          2030,
+          1750
+        ],
+        [
+          2030,
+          1815
+        ],
+        [
+          231,
+          1815
+        ]
+      ],
+      "score": 0.552693784236908,
+      "y_pos": 1750,
+      "text": "816. Chích mủ gót chân: Thừa sơn, Chiếu hải, Dũng tuyền, Hợp cốc, Côn luân.",
+      "confidence": 0.9995555521605851
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_025_reference_content.png",
+      "bbox": [
+        [
+          230,
+          1841
+        ],
+        [
+          2277,
+          1841
+        ],
+        [
+          2277,
+          1974
+        ],
+        [
+          230,
+          1974
+        ]
+      ],
+      "score": 0.6037402153015137,
+      "y_pos": 1841,
+      "text": "817. Cắt khối u ở trước xương chày: Giải khê, Khâu khư, Phong long, Dương lăng tuyền,\nTam âm giao.",
+      "confidence": 0.9887867607115133
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_019_reference_content.png",
+      "bbox": [
+        [
+          230,
+          2002
+        ],
+        [
+          2010,
+          2002
+        ],
+        [
+          2010,
+          2071
+        ],
+        [
+          230,
+          2071
+        ]
+      ],
+      "score": 0.6231341361999512,
+      "y_pos": 2002,
+      "text": "818. Cắt khâu bọng chân: Túc tam lý, Thái xung, Côn luân, Dương lăng tuyền.",
+      "confidence": 0.9996893792957454
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_009_reference_content.png",
+      "bbox": [
+        [
+          230,
+          2095
+        ],
+        [
+          2330,
+          2095
+        ],
+        [
+          2330,
+          2229
+        ],
+        [
+          230,
+          2229
+        ]
+      ],
+      "score": 0.6652757525444031,
+      "y_pos": 2095,
+      "text": "819. Cắt bỏ chỗ sưng bao gân đầu cơ ở mu bàn chân: Túc tam lý, Tam âm giao, Côn luân,\nThái khê, Thái xung.",
+      "confidence": 0.9880068293123534
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_014_reference_content.png",
+      "bbox": [
+        [
+          230,
+          2255
+        ],
+        [
+          1800,
+          2255
+        ],
+        [
+          1800,
+          2325
+        ],
+        [
+          230,
+          2325
+        ]
+      ],
+      "score": 0.6383373141288757,
+      "y_pos": 2255,
+      "text": "820. Lấy dị vật ở đùi: Túc tam lý, Bễ quan, Quan nguyên, Đại hoành.",
+      "confidence": 0.9990174062010171
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_021_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2350
+        ],
+        [
+          1894,
+          2350
+        ],
+        [
+          1894,
+          2414
+        ],
+        [
+          231,
+          2414
+        ]
+      ],
+      "score": 0.6200635433197021,
+      "y_pos": 2350,
+      "text": "821. Chích mủ ở đùi: Hiệp khê, Tam âm giao, Côn luân, Khúc trì, Phủ xá.",
+      "confidence": 0.9996521178990194
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_024_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2441
+        ],
+        [
+          1328,
+          2441
+        ],
+        [
+          1328,
+          2506
+        ],
+        [
+          232,
+          2506
+        ]
+      ],
+      "score": 0.6082996726036072,
+      "y_pos": 2441,
+      "text": "822. Mổ đỉnh đầu: Hợp cốc, Đầu duy, Phong trì.",
+      "confidence": 0.9817632449169954
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_023_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2533
+        ],
+        [
+          1377,
+          2533
+        ],
+        [
+          1377,
+          2598
+        ],
+        [
+          231,
+          2598
+        ]
+      ],
+      "score": 0.6105796694755554,
+      "y_pos": 2533,
+      "text": "823. Mổ gáy, chẩm: Hợp cốc, Nội quan, Phong trì.",
+      "confidence": 0.9994684851169586
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_022_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2626
+        ],
+        [
+          1767,
+          2626
+        ],
+        [
+          1767,
+          2690
+        ],
+        [
+          231,
+          2690
+        ]
+      ],
+      "score": 0.6153780817985535,
+      "y_pos": 2626,
+      "text": "824. Mổ trán: Hợp cốc, Thái dương, Dương bạch, Tán túc, Ngư yêu.",
+      "confidence": 0.9969765471689629
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_013_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2718
+        ],
+        [
+          1567,
+          2718
+        ],
+        [
+          1567,
+          2780
+        ],
+        [
+          231,
+          2780
+        ]
+      ],
+      "score": 0.6383375525474548,
+      "y_pos": 2718,
+      "text": "825. Mổ ụ mày: Hợp cốc, Thái dương, Ấn đường, Ngư yêu.",
+      "confidence": 0.9321629873343876
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_030_reference_content.png",
+      "bbox": [
+        [
+          230,
+          2809
+        ],
+        [
+          2197,
+          2809
+        ],
+        [
+          2197,
+          2873
+        ],
+        [
+          230,
+          2873
+        ]
+      ],
+      "score": 0.5413268208503723,
+      "y_pos": 2809,
+      "text": "826. Mổ má: Hợp cốc, Quyền liệu, Thái dương, Tứ bạch, Giáp xa, Hạ quan, Địa thương.",
+      "confidence": 0.7947116536252639
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_028_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2901
+        ],
+        [
+          1733,
+          2901
+        ],
+        [
+          1733,
+          2964
+        ],
+        [
+          231,
+          2964
+        ]
+      ],
+      "score": 0.5853841304779053,
+      "y_pos": 2901,
+      "text": "827. Mổ cơ thái dương: Hợp cốc, Thái dương, Ngư yêu, Hạ quan.",
+      "confidence": 0.9979051124481928
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_017_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2992
+        ],
+        [
+          1235,
+          2992
+        ],
+        [
+          1235,
+          3055
+        ],
+        [
+          232,
+          3055
+        ]
+      ],
+      "score": 0.6271188855171204,
+      "y_pos": 2992,
+      "text": "828. Mổ môi: Hợp cốc, Địa thương, Giáp xa.",
+      "confidence": 0.9993385713208806
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0550_012_reference_content.png",
+      "bbox": [
+        [
+          230,
+          3082
+        ],
+        [
+          1196,
+          3082
+        ],
+        [
+          1196,
+          3143
+        ],
+        [
+          230,
+          3143
+        ]
+      ],
+      "score": 0.6401960849761963,
+      "y_pos": 3082,
+      "text": "829. Mổ tai: Hợp cốc, Ngoại quan, É minh.",
+      "confidence": 0.9994768306266429
+    },
+    {
+      "type": "number",
+      "img_path": "p0550_003_number.png",
+      "bbox": [
+        [
+          2317,
+          3338
+        ],
+        [
+          2364,
+          3338
+        ],
+        [
+          2364,
+          3375
+        ],
+        [
+          2317,
+          3375
+        ]
+      ],
+      "score": 0.8520264625549316,
+      "y_pos": 3338,
+      "text": "\n\n\n\n\n\n٠.\n\n    \n",
+      "confidence": 0.9566050971096213
+    },
+    {
+      "type": "footer",
+      "img_path": "p0550_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3340
+        ],
+        [
+          1324,
+          3340
+        ],
+        [
+          1324,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9157599806785583,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9989979435812752
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0550.png"
+}

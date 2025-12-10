@@ -1,0 +1,864 @@
+{
+  "page_num": 540,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0540_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2371,
+          144
+        ],
+        [
+          2371,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9164811372756958,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7566693045553707
+    },
+    {
+      "type": "header",
+      "img_path": "p0540_000_header.png",
+      "bbox": [
+        [
+          228,
+          151
+        ],
+        [
+          1471,
+          151
+        ],
+        [
+          1471,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9232449531555176,
+      "y_pos": 151,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9977076780796051
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0540_032_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          324
+        ],
+        [
+          1187,
+          324
+        ],
+        [
+          1187,
+          386
+        ],
+        [
+          226,
+          386
+        ]
+      ],
+      "score": 0.5531013011932373,
+      "y_pos": 324,
+      "text": "Phần 24. BỆNH TINH THẦN, THẦN KINH",
+      "confidence": 0.9939440968963835
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_028_reference_content.png",
+      "bbox": [
+        [
+          230,
+          417
+        ],
+        [
+          1538,
+          417
+        ],
+        [
+          1538,
+          484
+        ],
+        [
+          230,
+          484
+        ]
+      ],
+      "score": 0.5920540690422058,
+      "y_pos": 417,
+      "text": "578. Mất ngủ: É minh, Ấn đường, Nội quan, Tam âm giao.",
+      "confidence": 0.9951224433524268
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_017_reference_content.png",
+      "bbox": [
+        [
+          232,
+          508
+        ],
+        [
+          1319,
+          508
+        ],
+        [
+          1319,
+          574
+        ],
+        [
+          232,
+          574
+        ]
+      ],
+      "score": 0.6316823959350586,
+      "y_pos": 508,
+      "text": "579. Mất ngủ: An miên, Nội quan, Tam âm giao.",
+      "confidence": 0.9954531547871042
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_019_reference_content.png",
+      "bbox": [
+        [
+          233,
+          599
+        ],
+        [
+          1465,
+          599
+        ],
+        [
+          1465,
+          665
+        ],
+        [
+          233,
+          665
+        ]
+      ],
+      "score": 0.6302810311317444,
+      "y_pos": 599,
+      "text": "580. Mất ngủ: Đại lăng, Bách hội, Ấn đường, Thái khê.",
+      "confidence": 0.9983226927843961
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_022_reference_content.png",
+      "bbox": [
+        [
+          233,
+          691
+        ],
+        [
+          1044,
+          691
+        ],
+        [
+          1044,
+          757
+        ],
+        [
+          233,
+          757
+        ]
+      ],
+      "score": 0.6212998628616333,
+      "y_pos": 691,
+      "text": "581. Hồi hộp: Giải khê, Dương cốc.",
+      "confidence": 0.9992150134510465
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_015_reference_content.png",
+      "bbox": [
+        [
+          233,
+          783
+        ],
+        [
+          983,
+          783
+        ],
+        [
+          983,
+          849
+        ],
+        [
+          233,
+          849
+        ]
+      ],
+      "score": 0.6474600434303284,
+      "y_pos": 783,
+      "text": "582. Mộng mị: Ẩn bạch, Lệ đoài.",
+      "confidence": 0.9988503456115723
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_013_reference_content.png",
+      "bbox": [
+        [
+          233,
+          874
+        ],
+        [
+          1432,
+          874
+        ],
+        [
+          1432,
+          942
+        ],
+        [
+          233,
+          942
+        ]
+      ],
+      "score": 0.6735584735870361,
+      "y_pos": 874,
+      "text": "583. Tâm hoảng hốt: Cự khuyết, Thiên tỉnh, Tâm du.",
+      "confidence": 0.998983057645651
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_010_reference_content.png",
+      "bbox": [
+        [
+          233,
+          967
+        ],
+        [
+          1278,
+          967
+        ],
+        [
+          1278,
+          1033
+        ],
+        [
+          233,
+          1033
+        ]
+      ],
+      "score": 0.6893380880355835,
+      "y_pos": 967,
+      "text": "584. Lười nói ham nằm: Thông lý, Thái xung.",
+      "confidence": 0.9994052502844069
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_005_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1059
+        ],
+        [
+          1285,
+          1059
+        ],
+        [
+          1285,
+          1124
+        ],
+        [
+          233,
+          1124
+        ]
+      ],
+      "score": 0.7091977596282959,
+      "y_pos": 1059,
+      "text": "585. Lười nói ham nằm: Đại chung, Thông lý.",
+      "confidence": 0.9995757328139411
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_011_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1150
+        ],
+        [
+          1647,
+          1150
+        ],
+        [
+          1647,
+          1218
+        ],
+        [
+          233,
+          1218
+        ]
+      ],
+      "score": 0.6867139935493469,
+      "y_pos": 1150,
+      "text": "586. Thần kinh suy nhược: Thiếu hải, An miên, Tam âm giao.",
+      "confidence": 0.9988291124502818
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_008_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1243
+        ],
+        [
+          1453,
+          1243
+        ],
+        [
+          1453,
+          1309
+        ],
+        [
+          233,
+          1309
+        ]
+      ],
+      "score": 0.6944822072982788,
+      "y_pos": 1243,
+      "text": "587. Thần kinh suy nhược: Thần môn, Tam âm giao.",
+      "confidence": 0.9893740618228912
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_009_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1333
+        ],
+        [
+          1615,
+          1333
+        ],
+        [
+          1615,
+          1401
+        ],
+        [
+          232,
+          1401
+        ]
+      ],
+      "score": 0.6917150020599365,
+      "y_pos": 1333,
+      "text": "588. Thần kinh suy nhược: Tâm du, Cự khuyết (thủy châm).",
+      "confidence": 0.9992244644411679
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_012_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1424
+        ],
+        [
+          1795,
+          1424
+        ],
+        [
+          1795,
+          1492
+        ],
+        [
+          233,
+          1492
+        ]
+      ],
+      "score": 0.684391975402832,
+      "y_pos": 1424,
+      "text": "589. Thần kinh suy nhược: Quyết âm du, Tâm du, Can du, Thận du.",
+      "confidence": 0.9996855763288645
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_014_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1516
+        ],
+        [
+          1746,
+          1516
+        ],
+        [
+          1746,
+          1585
+        ],
+        [
+          233,
+          1585
+        ]
+      ],
+      "score": 0.6559246182441711,
+      "y_pos": 1516,
+      "text": "590. Rối loạn thần kinh thực vật: Dương trì, Nội quan, Túc tam lý.",
+      "confidence": 0.9995693099849364
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_031_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1608
+        ],
+        [
+          2201,
+          1608
+        ],
+        [
+          2201,
+          1676
+        ],
+        [
+          231,
+          1676
+        ]
+      ],
+      "score": 0.5622982978820801,
+      "y_pos": 1608,
+      "text": "591. Bệnh thần kinh chức năng (bệnh Hysteria): Nhân trung, Hợp cốc thấu Lao cung.",
+      "confidence": 0.999564591660557
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_027_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1699
+        ],
+        [
+          1968,
+          1699
+        ],
+        [
+          1968,
+          1768
+        ],
+        [
+          232,
+          1768
+        ]
+      ],
+      "score": 0.5938946604728699,
+      "y_pos": 1699,
+      "text": "592. Bệnh tâm tạng có nguồn gốc tại phế: Tâm du, Thần môn, Phong long.",
+      "confidence": 0.9972850978374481
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_004_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1792
+        ],
+        [
+          2363,
+          1792
+        ],
+        [
+          2363,
+          1928
+        ],
+        [
+          231,
+          1928
+        ]
+      ],
+      "score": 0.725042462348938,
+      "y_pos": 1792,
+      "text": "593. Thần kinh thất thường, cao huyết áp, trẻ em kinh phong, chứng co giật, run rẩy:\nHợp cốc, Thái xung (Tứ quan).",
+      "confidence": 0.9989840030357163
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_024_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1952
+        ],
+        [
+          2260,
+          1952
+        ],
+        [
+          2260,
+          2020
+        ],
+        [
+          232,
+          2020
+        ]
+      ],
+      "score": 0.6156969666481018,
+      "y_pos": 1952,
+      "text": "594. Thần kinh phân liệt: Đầu duy, và Hợp cốc thấu Hậu khê, Thái xung thấu Dũng tuyền.",
+      "confidence": 0.9994748112830248
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_021_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2046
+        ],
+        [
+          1755,
+          2046
+        ],
+        [
+          1755,
+          2113
+        ],
+        [
+          233,
+          2113
+        ]
+      ],
+      "score": 0.6292438507080078,
+      "y_pos": 2046,
+      "text": "595. Thần kinh phân liệt: An miên, Nhân trung, Đại chùy, Đào đạo.",
+      "confidence": 0.9969412488723869
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_026_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2137
+        ],
+        [
+          2130,
+          2137
+        ],
+        [
+          2130,
+          2205
+        ],
+        [
+          232,
+          2205
+        ]
+      ],
+      "score": 0.5967631936073303,
+      "y_pos": 2137,
+      "text": "596. Thần kinh phân liệt: Cự khuyết, Phong trì thấu Phong trì, Nội quan, Túc tam lý.",
+      "confidence": 0.9994304374206898
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_029_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2231
+        ],
+        [
+          2218,
+          2231
+        ],
+        [
+          2218,
+          2296
+        ],
+        [
+          231,
+          2296
+        ]
+      ],
+      "score": 0.5861319303512573,
+      "y_pos": 2231,
+      "text": "597. <b>Thần kinh phân liệt:</b> Đại chùy, Đào đạo, Nhị chùy hạ (tức huyệt vô danh), <i>Thân trụ.</i>",
+      "confidence": 0.9920617047176566
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_030_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2322
+        ],
+        [
+          1599,
+          2322
+        ],
+        [
+          1599,
+          2389
+        ],
+        [
+          232,
+          2389
+        ]
+      ],
+      "score": 0.5853541493415833,
+      "y_pos": 2322,
+      "text": "598. Di chứng não ngu dại: Não thanh, Phong trì, Đại chùy.",
+      "confidence": 0.9916516860326131
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_007_reference_content.png",
+      "bbox": [
+        [
+          230,
+          2414
+        ],
+        [
+          2366,
+          2414
+        ],
+        [
+          2366,
+          2547
+        ],
+        [
+          230,
+          2547
+        ]
+      ],
+      "score": 0.6955129504203796,
+      "y_pos": 2414,
+      "text": "599. Di chứng não (do chấn thương) gây ra ngu ngốc: Á môn, Hưng phấn, Nhân trung, Túc\ntam lý.",
+      "confidence": 0.9954124021119084
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_023_reference_content.png",
+      "bbox": [
+        [
+          229,
+          2575
+        ],
+        [
+          1935,
+          2575
+        ],
+        [
+          1935,
+          2644
+        ],
+        [
+          229,
+          2644
+        ]
+      ],
+      "score": 0.6192341446876526,
+      "y_pos": 2575,
+      "text": "600. Bệnh lãnh cảm: Dũng tuyền, Nhân trung, Lao cung, huyệt Hưng phấn.",
+      "confidence": 0.9991323782338036
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_025_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2667
+        ],
+        [
+          1961,
+          2667
+        ],
+        [
+          1961,
+          2734
+        ],
+        [
+          232,
+          2734
+        ]
+      ],
+      "score": 0.5984001755714417,
+      "y_pos": 2667,
+      "text": "601. Điên giản (động kinh thể trầm uất): Chiếu hải, Cự khuyết, Phong long.",
+      "confidence": 0.9968611817610892
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_016_reference_content.png",
+      "bbox": [
+        [
+          230,
+          2757
+        ],
+        [
+          2100,
+          2757
+        ],
+        [
+          2100,
+          2825
+        ],
+        [
+          230,
+          2825
+        ]
+      ],
+      "score": 0.6320621967315674,
+      "y_pos": 2757,
+      "text": "602. Điên giản (động kinh thể trầm uất): Phong trì, Yêu kỳ, Nhân trung, Nội quan.",
+      "confidence": 0.9977403498557676
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_020_reference_content.png",
+      "bbox": [
+        [
+          230,
+          2849
+        ],
+        [
+          2127,
+          2849
+        ],
+        [
+          2127,
+          2917
+        ],
+        [
+          230,
+          2917
+        ]
+      ],
+      "score": 0.6300218105316162,
+      "y_pos": 2849,
+      "text": "603. Điên giản (động kinh thể trầm uất): Á môn, Nhân trung, Hậu khê, Phong long.",
+      "confidence": 0.9970951262043743
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_018_reference_content.png",
+      "bbox": [
+        [
+          230,
+          2942
+        ],
+        [
+          2345,
+          2942
+        ],
+        [
+          2345,
+          3010
+        ],
+        [
+          230,
+          3010
+        ]
+      ],
+      "score": 0.6314706802368164,
+      "y_pos": 2942,
+      "text": "604. Điện giản (động kinh thể trầm uất): Cự khuyết, Đại chùy, Nhân trung, Yêu kỳ, Nội quan.",
+      "confidence": 0.9979519324917947
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0540_006_reference_content.png",
+      "bbox": [
+        [
+          229,
+          3034
+        ],
+        [
+          2362,
+          3034
+        ],
+        [
+          2362,
+          3165
+        ],
+        [
+          229,
+          3165
+        ]
+      ],
+      "score": 0.7001206874847412,
+      "y_pos": 3034,
+      "text": "605. Điên giản (động kinh thể trầm uất): Châm Yêu kỳ, Điên giản huyệt và dùng kim 3 cạnh\nchích ra máu xung quanh <i>Trường cường</i> cách 0,3 thốn.",
+      "confidence": 0.9960004477488874
+    },
+    {
+      "type": "number",
+      "img_path": "p0540_003_number.png",
+      "bbox": [
+        [
+          2317,
+          3337
+        ],
+        [
+          2364,
+          3337
+        ],
+        [
+          2364,
+          3375
+        ],
+        [
+          2317,
+          3375
+        ]
+      ],
+      "score": 0.8545411229133606,
+      "y_pos": 3337,
+      "text": "\n    \n\n\n\n\n\n        ۰\n٠.\n\n\n\n\n",
+      "confidence": 0.9411782078883227
+    },
+    {
+      "type": "footer",
+      "img_path": "p0540_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3340
+        ],
+        [
+          1324,
+          3340
+        ],
+        [
+          1324,
+          3390
+        ],
+        [
+          229,
+          3390
+        ]
+      ],
+      "score": 0.9119039177894592,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9988965392112732
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0540.png"
+}

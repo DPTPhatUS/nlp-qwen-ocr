@@ -1,0 +1,188 @@
+{
+  "page_num": 44,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0044_006_text.png",
+      "bbox": [
+        [
+          510,
+          531
+        ],
+        [
+          1192,
+          531
+        ],
+        [
+          1192,
+          917
+        ],
+        [
+          510,
+          917
+        ]
+      ],
+      "score": 0.5007222294807434,
+      "y_pos": 531,
+      "text": "A. Ma hoàng thang\nB. Quế chi thang\nC. Ma hanh thach cam thang\nD. Ngũ linh tán\nE. Đế dương thang",
+      "confidence": 0.9527763461702268
+    },
+    {
+      "type": "text",
+      "img_path": "p0044_002_text.png",
+      "bbox": [
+        [
+          472,
+          948
+        ],
+        [
+          1812,
+          948
+        ],
+        [
+          1812,
+          1414
+        ],
+        [
+          472,
+          1414
+        ]
+      ],
+      "score": 0.7286758422851562,
+      "y_pos": 948,
+      "text": "4. Triệu chứng của H/C Dương minh phủ chứng\nA. Phát sốt, đổ mồ hôi, sợ gió lạnh, mạch phù hoãn\nB. Phát sốt, đổ mồ hôi, sợ nóng, khát nước, tâm phiền\nC. Phát sốt, đổ mồ hôi, cầu táo, bụng đầy đau, tâm phiền\nD. Phát sốt, không đổ mồ hôi, mạch phù khẩn\nE. Phát sốt, bứt rứt, bụng dưới đau, tiểu tiện tự lợi",
+      "confidence": 0.9979646461431017
+    },
+    {
+      "type": "text",
+      "img_path": "p0044_004_text.png",
+      "bbox": [
+        [
+          512,
+          1525
+        ],
+        [
+          745,
+          1525
+        ],
+        [
+          745,
+          1906
+        ],
+        [
+          512,
+          1906
+        ]
+      ],
+      "score": 0.7080458998680115,
+      "y_pos": 1525,
+      "text": "A. Hãn\nB. Thổ\nC. Ha\nD. Hòa\nE. Thanh",
+      "confidence": 0.8902130485432489
+    },
+    {
+      "type": "text",
+      "img_path": "p0044_005_text.png",
+      "bbox": [
+        [
+          491,
+          1941
+        ],
+        [
+          1801,
+          1941
+        ],
+        [
+          1801,
+          2406
+        ],
+        [
+          491,
+          2406
+        ]
+      ],
+      "score": 0.5879227519035339,
+      "y_pos": 1941,
+      "text": "5. Triệu chứng của H/C Thái âm\nA. Bung đầy chướng, đau. Tiện khó\nB. Đau thượng vị, cầu táo\nC. Ho, đau ngực, khạc đờm trắng trong\nD. Đầy bung, ói mửa, tiêu chảy\nE. Đau bụng quặn thắt, ói mửa, tiêu chảy phân tóe vàng",
+      "confidence": 0.9826421163146454
+    },
+    {
+      "type": "text",
+      "img_path": "p0044_003_text.png",
+      "bbox": [
+        [
+          512,
+          2518
+        ],
+        [
+          1116,
+          2518
+        ],
+        [
+          1116,
+          2903
+        ],
+        [
+          512,
+          2903
+        ]
+      ],
+      "score": 0.717690110206604,
+      "y_pos": 2518,
+      "text": "A. Lý trung thang\nB. Cát căn cầm liên thang\nC. Đại thừa khí thang\nD. Điều vị thừa khí thang\nE. Tứ nghịch thang",
+      "confidence": 0.9704239204039725
+    },
+    {
+      "type": "number",
+      "img_path": "p0044_001_number.png",
+      "bbox": [
+        [
+          2070,
+          3112
+        ],
+        [
+          2123,
+          3112
+        ],
+        [
+          2123,
+          3147
+        ],
+        [
+          2070,
+          3147
+        ]
+      ],
+      "score": 0.8521574139595032,
+      "y_pos": 3112,
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0044_000_footer.png",
+      "bbox": [
+        [
+          294,
+          3312
+        ],
+        [
+          1074,
+          3312
+        ],
+        [
+          1074,
+          3367
+        ],
+        [
+          294,
+          3367
+        ]
+      ],
+      "score": 0.9099546670913696,
+      "y_pos": 3312,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8891090188707624
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0044.png"
+}

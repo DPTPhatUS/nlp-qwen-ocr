@@ -1,0 +1,604 @@
+{
+  "page_num": 649,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0649_008_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9268608689308167,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0649_013_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.9157506823539734,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9946049864475544
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0649_021_paragraph_title.png",
+      "bbox": [
+        [
+          220,
+          304
+        ],
+        [
+          2359,
+          304
+        ],
+        [
+          2359,
+          428
+        ],
+        [
+          220,
+          428
+        ]
+      ],
+      "score": 0.796866774559021,
+      "y_pos": 304,
+      "text": "6. Tâm hoả thượng viêm (tâm hoả cang thịnh), Tâm di nhiệt sang Tiểu trường (tiểu\ntrường thực nhiệt)",
+      "confidence": 0.9692674382794194
+    },
+    {
+      "type": "text",
+      "img_path": "p0649_005_text.png",
+      "bbox": [
+        [
+          221,
+          462
+        ],
+        [
+          2358,
+          462
+        ],
+        [
+          2358,
+          585
+        ],
+        [
+          221,
+          585
+        ]
+      ],
+      "score": 0.9659151434898376,
+      "y_pos": 462,
+      "text": "Mô hình chỉ số nhiệt kinh lạc cơ bản: Tâm (+BL). Nghĩa là kinh Tâm có trạng thái nhiệt bệnh\nlý. Số tương quan của kinh Tâm có giá trị tuyệt đối lớn hơn sai số giưới hạn và mang dấu +.",
+      "confidence": 0.9995226770318963
+    },
+    {
+      "type": "text",
+      "img_path": "p0649_002_text.png",
+      "bbox": [
+        [
+          277,
+          623
+        ],
+        [
+          2361,
+          623
+        ],
+        [
+          2361,
+          810
+        ],
+        [
+          277,
+          810
+        ]
+      ],
+      "score": 0.9794633388519287,
+      "y_pos": 623,
+      "text": "a. Triệu chứng: Miệng lưỡi sinh mụn nhọt (hay mọc tái phát). Khó chịu trong tim, khát, tiểu\ntiện vàng ít, hoặc đái liên miên, đái buốt, đái ra máu, đầu lưỡi hồng, rêu lưỡi vàng hoặc\ntrắng, mach sác.",
+      "confidence": 0.9964061545052002
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0649_020_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          849
+        ],
+        [
+          982,
+          849
+        ],
+        [
+          982,
+          900
+        ],
+        [
+          284,
+          900
+        ]
+      ],
+      "score": 0.7985146641731262,
+      "y_pos": 849,
+      "text": "Mô hình chỉ số nhiệt kinh lạc",
+      "confidence": 0.9981158683376927
+    },
+    {
+      "type": "text",
+      "img_path": "p0649_006_text.png",
+      "bbox": [
+        [
+          296,
+          938
+        ],
+        [
+          2356,
+          938
+        ],
+        [
+          2356,
+          1059
+        ],
+        [
+          296,
+          1059
+        ]
+      ],
+      "score": 0.9636131525039673,
+      "y_pos": 938,
+      "text": "• <b>Tâm hoả cang thịnh:</b> Tâm (+BL), Tâm bào (+), Tam tiêu (+), Đảm (+), Vị (+), Can (+),\nPhế (+).",
+      "confidence": 0.9702237267507596
+    },
+    {
+      "type": "text",
+      "img_path": "p0649_015_text.png",
+      "bbox": [
+        [
+          295,
+          1098
+        ],
+        [
+          2327,
+          1098
+        ],
+        [
+          2327,
+          1152
+        ],
+        [
+          295,
+          1152
+        ]
+      ],
+      "score": 0.9135370850563049,
+      "y_pos": 1098,
+      "text": "<b>Tâm di nhiệt sang Tiếu trường:</b> Tâm (+BL), Tâm bào (+), Tiếu trường (+), Bàng quang (+).",
+      "confidence": 0.995942187833262
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0649_022_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          1188
+        ],
+        [
+          703,
+          1188
+        ],
+        [
+          703,
+          1238
+        ],
+        [
+          286,
+          1238
+        ]
+      ],
+      "score": 0.7960110306739807,
+      "y_pos": 1188,
+      "text": "b. Phương huyệt",
+      "confidence": 0.9913342209423289
+    },
+    {
+      "type": "text",
+      "img_path": "p0649_009_text.png",
+      "bbox": [
+        [
+          297,
+          1278
+        ],
+        [
+          2021,
+          1278
+        ],
+        [
+          2021,
+          1327
+        ],
+        [
+          297,
+          1327
+        ]
+      ],
+      "score": 0.9259382486343384,
+      "y_pos": 1278,
+      "text": "<b>Tâm hoả cang thinh:</b> Tả Thân môn, Nôi đình, Chích: Kim tân, Ngọc dịch,",
+      "confidence": 0.9921610861608426
+    },
+    {
+      "type": "text",
+      "img_path": "p0649_010_text.png",
+      "bbox": [
+        [
+          297,
+          1365
+        ],
+        [
+          2129,
+          1365
+        ],
+        [
+          2129,
+          1417
+        ],
+        [
+          297,
+          1417
+        ]
+      ],
+      "score": 0.9230709075927734,
+      "y_pos": 1365,
+      "text": "<b>Tâm di nhiệt sang Tiểu trường:</b> Chích Thiếu trạch. Tả: Liệt khuyết, Côn luận.",
+      "confidence": 0.9934258081018925
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0649_017_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          1458
+        ],
+        [
+          1001,
+          1458
+        ],
+        [
+          1001,
+          1508
+        ],
+        [
+          286,
+          1508
+        ]
+      ],
+      "score": 0.8830917477607727,
+      "y_pos": 1458,
+      "text": "c. Giảng nghĩa phương huyệt",
+      "confidence": 0.9981022024976796
+    },
+    {
+      "type": "text",
+      "img_path": "p0649_004_text.png",
+      "bbox": [
+        [
+          280,
+          1545
+        ],
+        [
+          2358,
+          1545
+        ],
+        [
+          2358,
+          1733
+        ],
+        [
+          280,
+          1733
+        ]
+      ],
+      "score": 0.9754825830459595,
+      "y_pos": 1545,
+      "text": "Tả <i>Thần môn, Nội đình</i> vì Tâm hoả cang thịnh thường kết hợp với Vị hoả gây ra nứt lưỡi,\nsưng lưỡi, mọc mụn ở lưỡi và trong vòm miệng. Chích <i>Kim tân, Ngọc dịch</i> là kinh nghiệm\nchữa lưỡi sưng đau rất hiệu quả.",
+      "confidence": 0.9967870632808872
+    },
+    {
+      "type": "text",
+      "img_path": "p0649_000_text.png",
+      "bbox": [
+        [
+          277,
+          1772
+        ],
+        [
+          2362,
+          1772
+        ],
+        [
+          2362,
+          2102
+        ],
+        [
+          277,
+          2102
+        ]
+      ],
+      "score": 0.9838653206825256,
+      "y_pos": 1772,
+      "text": "Chích <i>Thiếu trạch</i> là tỉnh huyệt của kinh Thái dương Tiểu trường, tỉnh huyệt có thể chữa\nsưng đau ở những nơi trên đường kinh ấy. Bàng quang và Tiểu trường đều là Thái dương,\nkhí tà vào Thái dương kinh thì Tiểu trường và Bàng quang cùng có bệnh, nên chích <i>Thiếu</i>\ntrạch có thể trừ nhiệt cả 2 kinh. Tả Liệt khuyết, Côn luân để trị chứng nhiệt đã làm cho khí\nkhông hoá được, khí không hoá thì Bàng quang viêm, nước tiểu có máu và đái buốt, đái đau.",
+      "confidence": 0.99775815247211
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0649_012_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2136
+        ],
+        [
+          818,
+          2136
+        ],
+        [
+          818,
+          2187
+        ],
+        [
+          227,
+          2187
+        ]
+      ],
+      "score": 0.9198300242424011,
+      "y_pos": 2136,
+      "text": "7. Tiểu trường khí thống",
+      "confidence": 0.967255915586765
+    },
+    {
+      "type": "text",
+      "img_path": "p0649_001_text.png",
+      "bbox": [
+        [
+          277,
+          2225
+        ],
+        [
+          2360,
+          2225
+        ],
+        [
+          2360,
+          2481
+        ],
+        [
+          277,
+          2481
+        ]
+      ],
+      "score": 0.9798930883407593,
+      "y_pos": 2225,
+      "text": "Tiểu trường khí thống còn gọi là sán khí. Ở đây khoanh lại một vài chứng trong bảy thứ sán\nkhí. Chứng đau bụng dưới cấp, đau xiên sang vùng lưng (không phải là chứng đau của sỏi\nđường tiết niệu) lan xuống bộ phận sinh dục thuộc về đau mạc treo nội tạng bụng dưới và\nđau do sa sinh duc.",
+      "confidence": 0.9867239646232069
+    },
+    {
+      "type": "text",
+      "img_path": "p0649_003_text.png",
+      "bbox": [
+        [
+          279,
+          2522
+        ],
+        [
+          2360,
+          2522
+        ],
+        [
+          2360,
+          2711
+        ],
+        [
+          279,
+          2711
+        ]
+      ],
+      "score": 0.9769977331161499,
+      "y_pos": 2522,
+      "text": "Mô hình chỉ số nhiệt kinh lạc cơ bản: Tiểu trường (+BL), nghĩa là kinh Tiểu trường có\ntrạng thái nhiệt bệnh lý. Số tương quan của kinh Tiểu trường có giá trị tuyệt đối lớn hơn sai\nsố giới hạn và mang dấu +.",
+      "confidence": 0.9989069623905316
+    },
+    {
+      "type": "text",
+      "img_path": "p0649_007_text.png",
+      "bbox": [
+        [
+          281,
+          2750
+        ],
+        [
+          2357,
+          2750
+        ],
+        [
+          2357,
+          2870
+        ],
+        [
+          281,
+          2870
+        ]
+      ],
+      "score": 0.9611415266990662,
+      "y_pos": 2750,
+      "text": "a. Triệu chứng: Đau bụng dưới cấp, đau xiên sang vùng lưng, lan xuống bộ phận sinh dục,\nrêu lưỡi trắng, mạch trầm, huyền hoặc huyền khẩn.",
+      "confidence": 0.9965137087397965
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0649_019_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          2910
+        ],
+        [
+          714,
+          2910
+        ],
+        [
+          714,
+          2959
+        ],
+        [
+          286,
+          2959
+        ]
+      ],
+      "score": 0.8426883816719055,
+      "y_pos": 2910,
+      "text": "b. Phương huyệt:",
+      "confidence": 0.9903659555647109
+    },
+    {
+      "type": "text",
+      "img_path": "p0649_011_text.png",
+      "bbox": [
+        [
+          283,
+          2998
+        ],
+        [
+          1327,
+          2998
+        ],
+        [
+          1327,
+          3049
+        ],
+        [
+          283,
+          3049
+        ]
+      ],
+      "score": 0.920122504234314,
+      "y_pos": 2998,
+      "text": "Cứu: Tam giác pháp. Chích nặn máu: Đại đôn.",
+      "confidence": 0.9730516367488438
+    },
+    {
+      "type": "text",
+      "img_path": "p0649_014_text.png",
+      "bbox": [
+        [
+          286,
+          3086
+        ],
+        [
+          1009,
+          3086
+        ],
+        [
+          1009,
+          3137
+        ],
+        [
+          286,
+          3137
+        ]
+      ],
+      "score": 0.9156665205955505,
+      "y_pos": 3086,
+      "text": "Tả: Khí hải, Thái xung, Nôi đình.",
+      "confidence": 0.995131380217416
+    },
+    {
+      "type": "number",
+      "img_path": "p0649_018_number.png",
+      "bbox": [
+        [
+          2305,
+          3336
+        ],
+        [
+          2353,
+          3336
+        ],
+        [
+          2353,
+          3374
+        ],
+        [
+          2305,
+          3374
+        ]
+      ],
+      "score": 0.8627999424934387,
+      "y_pos": 3336,
+      "text": "    \n    \n\n\n\n\n\n۰.\n\n\n",
+      "confidence": 0.964398748599566
+    },
+    {
+      "type": "footer",
+      "img_path": "p0649_016_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3388
+        ],
+        [
+          228,
+          3388
+        ]
+      ],
+      "score": 0.9033754467964172,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985950510456877
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0649.png"
+}

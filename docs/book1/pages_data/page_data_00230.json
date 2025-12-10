@@ -1,0 +1,448 @@
+{
+  "page_num": 230,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0230_009_text.png",
+      "bbox": [
+        [
+          463,
+          448
+        ],
+        [
+          1360,
+          448
+        ],
+        [
+          1360,
+          504
+        ],
+        [
+          463,
+          504
+        ]
+      ],
+      "score": 0.8980686664581299,
+      "y_pos": 448,
+      "text": "Những bài thuốc Đông y có thể sử dụng",
+      "confidence": 0.9977930218745501
+    },
+    {
+      "type": "text",
+      "img_path": "p0230_011_text.png",
+      "bbox": [
+        [
+          408,
+          528
+        ],
+        [
+          824,
+          528
+        ],
+        [
+          824,
+          575
+        ],
+        [
+          408,
+          575
+        ]
+      ],
+      "score": 0.8925768136978149,
+      "y_pos": 528,
+      "text": "Chân vũ thang.",
+      "confidence": 0.9686302319169044
+    },
+    {
+      "type": "text",
+      "img_path": "p0230_008_text.png",
+      "bbox": [
+        [
+          409,
+          603
+        ],
+        [
+          823,
+          603
+        ],
+        [
+          823,
+          651
+        ],
+        [
+          409,
+          651
+        ]
+      ],
+      "score": 0.9149801731109619,
+      "y_pos": 603,
+      "text": "Độc sâm thang.",
+      "confidence": 0.987032987177372
+    },
+    {
+      "type": "text",
+      "img_path": "p0230_005_text.png",
+      "bbox": [
+        [
+          410,
+          673
+        ],
+        [
+          932,
+          673
+        ],
+        [
+          932,
+          725
+        ],
+        [
+          410,
+          725
+        ]
+      ],
+      "score": 0.9219815135002136,
+      "y_pos": 673,
+      "text": "Luc vi hồi dương ẩm",
+      "confidence": 0.9870321069444928
+    },
+    {
+      "type": "text",
+      "img_path": "p0230_006_text.png",
+      "bbox": [
+        [
+          410,
+          752
+        ],
+        [
+          1049,
+          752
+        ],
+        [
+          1049,
+          802
+        ],
+        [
+          410,
+          802
+        ]
+      ],
+      "score": 0.9215496778488159,
+      "y_pos": 752,
+      "text": "Hồi dương cấp cứu thang.",
+      "confidence": 0.996206521987915
+    },
+    {
+      "type": "text",
+      "img_path": "p0230_004_text.png",
+      "bbox": [
+        [
+          465,
+          827
+        ],
+        [
+          1166,
+          827
+        ],
+        [
+          1166,
+          876
+        ],
+        [
+          465,
+          876
+        ]
+      ],
+      "score": 0.926469624042511,
+      "y_pos": 827,
+      "text": "* Phân tích bài <i>Chân vũ thang</i>",
+      "confidence": 0.9599345994718147
+    },
+    {
+      "type": "text",
+      "img_path": "p0230_003_text.png",
+      "bbox": [
+        [
+          463,
+          900
+        ],
+        [
+          1421,
+          900
+        ],
+        [
+          1421,
+          953
+        ],
+        [
+          463,
+          953
+        ]
+      ],
+      "score": 0.9280124306678772,
+      "y_pos": 900,
+      "text": "Xem phần hội chứng Quyết âm hàn quyết.",
+      "confidence": 0.9992343455553054
+    },
+    {
+      "type": "text",
+      "img_path": "p0230_010_text.png",
+      "bbox": [
+        [
+          463,
+          973
+        ],
+        [
+          1385,
+          973
+        ],
+        [
+          1385,
+          1026
+        ],
+        [
+          463,
+          1026
+        ]
+      ],
+      "score": 0.8969519138336182,
+      "y_pos": 973,
+      "text": "Phân tích bài thuốc Lục vị hồi dương ẩm",
+      "confidence": 0.9989436646787132
+    },
+    {
+      "type": "text",
+      "img_path": "p0230_014_text.png",
+      "bbox": [
+        [
+          410,
+          1050
+        ],
+        [
+          926,
+          1050
+        ],
+        [
+          926,
+          1096
+        ],
+        [
+          410,
+          1096
+        ]
+      ],
+      "score": 0.8667683005332947,
+      "y_pos": 1050,
+      "text": "Phân tích bài thuốc:",
+      "confidence": 0.9900250191038306
+    },
+    {
+      "type": "table",
+      "img_path": "p0230_000_table.png",
+      "bbox": [
+        [
+          350,
+          1150
+        ],
+        [
+          2124,
+          1150
+        ],
+        [
+          2124,
+          1789
+        ],
+        [
+          350,
+          1789
+        ]
+      ],
+      "score": 0.99085533618927,
+      "y_pos": 1150,
+      "text": "Vi thuốc    Dược lý Đông y\nNhân sâm    Ngọt, hơi đắng. Bổ Tâm khí, đại bổ nguyên khí, ích huyết sinh tân\nPhụ tử chế    Cay, ngọt, rất nóng. Bổ Mệnh môn hỏa, kiện Tỳ\n<b>Đương quy</b>    Ngọt, cay, ấm. Bổ huyết, hành huyết\nĐan sâm    Đẳng, lạnh. Hoạt huyết, khử ứ\nNhục quế    Cay, ngot, rất nóng. Bổ Mênh môn hỏa, kiên Tỳ, dẫn thuốc\nNhục thung dung    Ngọt, mặn, ấm. ôn bổ Thận dương, nhận trường\nBa kích    Cay, đắng, ấm. Ôn Thận dương",
+      "confidence": 0.9185631527485646
+    },
+    {
+      "type": "text",
+      "img_path": "p0230_016_text.png",
+      "bbox": [
+        [
+          464,
+          1818
+        ],
+        [
+          1165,
+          1818
+        ],
+        [
+          1165,
+          1868
+        ],
+        [
+          464,
+          1868
+        ]
+      ],
+      "score": 0.6512688398361206,
+      "y_pos": 1818,
+      "text": "* Phân tích bài Đôc sâm thang",
+      "confidence": 0.937131320276568
+    },
+    {
+      "type": "text",
+      "img_path": "p0230_002_text.png",
+      "bbox": [
+        [
+          343,
+          1901
+        ],
+        [
+          2123,
+          1901
+        ],
+        [
+          2123,
+          2011
+        ],
+        [
+          343,
+          2011
+        ]
+      ],
+      "score": 0.9662862420082092,
+      "y_pos": 1901,
+      "text": "Chỉ có độc vị Nhân sâm. Vị Nhân sâm ngọt hơi đắng, tính bình. Tác\ndụng: ích khí dưỡng Tâm, ôn dương hoạt huyết.",
+      "confidence": 0.9972450916598281
+    },
+    {
+      "type": "text",
+      "img_path": "p0230_012_text.png",
+      "bbox": [
+        [
+          460,
+          2042
+        ],
+        [
+          2021,
+          2042
+        ],
+        [
+          2021,
+          2093
+        ],
+        [
+          460,
+          2093
+        ]
+      ],
+      "score": 0.8748381733894348,
+      "y_pos": 2042,
+      "text": "* Phân tích bài thuốc Hồi dương cứu cấp thang (Thương hàn lục thư)",
+      "confidence": 0.9969270290697322
+    },
+    {
+      "type": "text",
+      "img_path": "p0230_015_text.png",
+      "bbox": [
+        [
+          410,
+          2126
+        ],
+        [
+          914,
+          2126
+        ],
+        [
+          914,
+          2171
+        ],
+        [
+          410,
+          2171
+        ]
+      ],
+      "score": 0.6891508102416992,
+      "y_pos": 2126,
+      "text": "Phân tích bài thuốc",
+      "confidence": 0.9923675514402843
+    },
+    {
+      "type": "table",
+      "img_path": "p0230_001_table.png",
+      "bbox": [
+        [
+          350,
+          2229
+        ],
+        [
+          2125,
+          2229
+        ],
+        [
+          2125,
+          3023
+        ],
+        [
+          350,
+          3023
+        ]
+      ],
+      "score": 0.9905593395233154,
+      "y_pos": 2229,
+      "text": "Vị thuốc    Dược lý Đông y\nPhụ tử chế    Cay, ngọt, rất nóng. Bổ Mệnh môn hỏa, kiện Tỳ\nCan khương    Ôn trung tán hàn. Hồi dương cứu nghịch\nNhục quế    Cay, ngọt, rất nóng. Bổ Mệnh môn hỏa, kiện Tỳ, dẫn thuốc\nNhân sâm    Ngọt, hơi đắng. Bổ Tâm khí, đại bổ nguyên khí, ích huyết sinh tân\nBach truât    Ngọt, đẳng, hơi ấm. Kiện Tỳ, táo thấp, liễm hãn\nPhuc linh    Ngot, bình. Lợi tiểu thẩm thấp, kiện Tỳ, an thần\nNgũ vị tử    Măn, chua, ấm. Liễm hãn, cố tinh\nTrần bì    Cay, ấm. Hòa khí, tiêu đàm\nCam thảo    Ngọt, ấm. Bổ Tỳ thổ, bổ trung khí",
+      "confidence": 0.9017549019234388
+    },
+    {
+      "type": "number",
+      "img_path": "p0230_013_number.png",
+      "bbox": [
+        [
+          2043,
+          3109
+        ],
+        [
+          2121,
+          3109
+        ],
+        [
+          2121,
+          3146
+        ],
+        [
+          2043,
+          3146
+        ]
+      ],
+      "score": 0.873563289642334,
+      "y_pos": 3109,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0230_007_footer.png",
+      "bbox": [
+        [
+          294,
+          3310
+        ],
+        [
+          1072,
+          3310
+        ],
+        [
+          1072,
+          3365
+        ],
+        [
+          294,
+          3365
+        ]
+      ],
+      "score": 0.9186936020851135,
+      "y_pos": 3310,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8793089696339198
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0230.png"
+}

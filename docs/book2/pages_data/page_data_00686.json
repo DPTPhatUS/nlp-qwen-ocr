@@ -1,0 +1,474 @@
+{
+  "page_num": 686,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0686_000_header.png",
+      "bbox": [
+        [
+          1736,
+          142
+        ],
+        [
+          2370,
+          142
+        ],
+        [
+          2370,
+          194
+        ],
+        [
+          1736,
+          194
+        ]
+      ],
+      "score": 0.9173667430877686,
+      "y_pos": 142,
+      "text": "CẨM NANG CHẨN TRI ĐÔNG Y",
+      "confidence": 0.9590293169021606
+    },
+    {
+      "type": "header",
+      "img_path": "p0686_002_header.png",
+      "bbox": [
+        [
+          229,
+          149
+        ],
+        [
+          772,
+          149
+        ],
+        [
+          772,
+          195
+        ],
+        [
+          229,
+          195
+        ]
+      ],
+      "score": 0.9137164950370789,
+      "y_pos": 149,
+      "text": "PHU LUC: LIËT KË HUYËT",
+      "confidence": 0.8250436211625735
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0686_003_paragraph_title.png",
+      "bbox": [
+        [
+          249,
+          325
+        ],
+        [
+          868,
+          325
+        ],
+        [
+          868,
+          380
+        ],
+        [
+          249,
+          380
+        ]
+      ],
+      "score": 0.8602546453475952,
+      "y_pos": 325,
+      "text": "IV. MƯỜI BA QUỶ HUYẾT",
+      "confidence": 0.9878392996995345
+    },
+    {
+      "type": "text",
+      "img_path": "p0686_015_text.png",
+      "bbox": [
+        [
+          288,
+          420
+        ],
+        [
+          1442,
+          420
+        ],
+        [
+          1442,
+          474
+        ],
+        [
+          288,
+          474
+        ]
+      ],
+      "score": 0.6441749334335327,
+      "y_pos": 420,
+      "text": "Châm <i>Quỷ cung</i>, tức <i>Nhân trung</i>, vào 3 phân.",
+      "confidence": 0.9873702985545
+    },
+    {
+      "type": "text",
+      "img_path": "p0686_006_text.png",
+      "bbox": [
+        [
+          285,
+          512
+        ],
+        [
+          1435,
+          512
+        ],
+        [
+          1435,
+          566
+        ],
+        [
+          285,
+          566
+        ]
+      ],
+      "score": 0.7065531015396118,
+      "y_pos": 512,
+      "text": "2.    Châm <i>Quỷ tín</i>, tức <i>Thiếu thương</i>, vào 3 phân.",
+      "confidence": 0.9832269653779309
+    },
+    {
+      "type": "text",
+      "img_path": "p0686_005_text.png",
+      "bbox": [
+        [
+          286,
+          604
+        ],
+        [
+          1333,
+          604
+        ],
+        [
+          1333,
+          657
+        ],
+        [
+          286,
+          657
+        ]
+      ],
+      "score": 0.7281379699707031,
+      "y_pos": 604,
+      "text": "3.    Châm <b>Quỷ luỹ</b>, tức <i>Ấn bạch</i>, vào 2 phân.",
+      "confidence": 0.9609494556983311
+    },
+    {
+      "type": "text",
+      "img_path": "p0686_007_text.png",
+      "bbox": [
+        [
+          285,
+          696
+        ],
+        [
+          1347,
+          696
+        ],
+        [
+          1347,
+          747
+        ],
+        [
+          285,
+          747
+        ]
+      ],
+      "score": 0.6980085372924805,
+      "y_pos": 696,
+      "text": "4.    Châm <b>Quỷ tâm</b>, tức Đại lăng, vào 5 phân.",
+      "confidence": 0.9713014842465866
+    },
+    {
+      "type": "text",
+      "img_path": "p0686_013_text.png",
+      "bbox": [
+        [
+          286,
+          788
+        ],
+        [
+          1549,
+          788
+        ],
+        [
+          1549,
+          841
+        ],
+        [
+          286,
+          841
+        ]
+      ],
+      "score": 0.6538951396942139,
+      "y_pos": 788,
+      "text": "5.    Châm <b>Quỷ lộ</b>, tức <i>Thân mạch</i> (kim to), vào 3 phân.",
+      "confidence": 0.9858220672165906
+    },
+    {
+      "type": "text",
+      "img_path": "p0686_017_text.png",
+      "bbox": [
+        [
+          287,
+          880
+        ],
+        [
+          1447,
+          880
+        ],
+        [
+          1447,
+          932
+        ],
+        [
+          287,
+          932
+        ]
+      ],
+      "score": 0.6188687086105347,
+      "y_pos": 880,
+      "text": "6.    Châm <b>Quỷ chấm</b>, tức <i>Phong phủ</i>, vào 2 phân.",
+      "confidence": 0.9812997537301786
+    },
+    {
+      "type": "text",
+      "img_path": "p0686_014_text.png",
+      "bbox": [
+        [
+          288,
+          972
+        ],
+        [
+          1365,
+          972
+        ],
+        [
+          1365,
+          1024
+        ],
+        [
+          288,
+          1024
+        ]
+      ],
+      "score": 0.6454314589500427,
+      "y_pos": 972,
+      "text": "1.    Châm <b>Quỷ sàng</b>, tức <i>Giáp xa</i>, vào 5 phân.",
+      "confidence": 0.7795346366034615
+    },
+    {
+      "type": "text",
+      "img_path": "p0686_016_text.png",
+      "bbox": [
+        [
+          288,
+          1064
+        ],
+        [
+          1398,
+          1064
+        ],
+        [
+          1398,
+          1115
+        ],
+        [
+          288,
+          1115
+        ]
+      ],
+      "score": 0.6428315043449402,
+      "y_pos": 1064,
+      "text": "8.    Châm <b>Quỷ thị</b>, tức <i>Thừa tương</i>, vào 3 phân.",
+      "confidence": 0.9861257711412214
+    },
+    {
+      "type": "text",
+      "img_path": "p0686_012_text.png",
+      "bbox": [
+        [
+          288,
+          1156
+        ],
+        [
+          1387,
+          1156
+        ],
+        [
+          1387,
+          1208
+        ],
+        [
+          288,
+          1208
+        ]
+      ],
+      "score": 0.6621794700622559,
+      "y_pos": 1156,
+      "text": "9.    Châm <b>Quỷ quật</b>, tức <i>Lao cung</i>, vào 2 phân.",
+      "confidence": 0.9850665503653927
+    },
+    {
+      "type": "text",
+      "img_path": "p0686_009_text.png",
+      "bbox": [
+        [
+          290,
+          1245
+        ],
+        [
+          1508,
+          1245
+        ],
+        [
+          1508,
+          1300
+        ],
+        [
+          290,
+          1300
+        ]
+      ],
+      "score": 0.6780828237533569,
+      "y_pos": 1245,
+      "text": "10. Châm <b>Quỷ đường</b>, tức <i>Thượng tinh</i>, vào 2 phân.",
+      "confidence": 0.9555087442751284
+    },
+    {
+      "type": "text",
+      "img_path": "p0686_008_text.png",
+      "bbox": [
+        [
+          290,
+          1336
+        ],
+        [
+          1894,
+          1336
+        ],
+        [
+          1894,
+          1392
+        ],
+        [
+          290,
+          1392
+        ]
+      ],
+      "score": 0.6819029450416565,
+      "y_pos": 1336,
+      "text": "11. Châm <i>Quỷ tàng</i>, nam là <i>Hội âm</i>, nữ là <i>Ngọc môn đầu</i>, vào 3 phân.",
+      "confidence": 0.9849731554723766
+    },
+    {
+      "type": "text",
+      "img_path": "p0686_011_text.png",
+      "bbox": [
+        [
+          290,
+          1428
+        ],
+        [
+          1635,
+          1428
+        ],
+        [
+          1635,
+          1484
+        ],
+        [
+          290,
+          1484
+        ]
+      ],
+      "score": 0.6629595756530762,
+      "y_pos": 1428,
+      "text": "12. Châm Quỷ thoái, tức Khúc trì (hoả châm), vào 5 phân.",
+      "confidence": 0.9908406621423261
+    },
+    {
+      "type": "text",
+      "img_path": "p0686_010_text.png",
+      "bbox": [
+        [
+          290,
+          1520
+        ],
+        [
+          1811,
+          1520
+        ],
+        [
+          1811,
+          1573
+        ],
+        [
+          290,
+          1573
+        ]
+      ],
+      "score": 0.6774172186851501,
+      "y_pos": 1520,
+      "text": "13. Châm <b>Quỷ phong</b>, ở giữa đường khâu dưới lưỡi, đâm ra máu.",
+      "confidence": 0.9732643687166274
+    },
+    {
+      "type": "footer",
+      "img_path": "p0686_001_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1325,
+          3341
+        ],
+        [
+          1325,
+          3388
+        ],
+        [
+          229,
+          3388
+        ]
+      ],
+      "score": 0.9155399203300476,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9986451020780599
+    },
+    {
+      "type": "number",
+      "img_path": "p0686_004_number.png",
+      "bbox": [
+        [
+          2308,
+          3362
+        ],
+        [
+          2355,
+          3362
+        ],
+        [
+          2355,
+          3401
+        ],
+        [
+          2308,
+          3401
+        ]
+      ],
+      "score": 0.8590269684791565,
+      "y_pos": 3362,
+      "text": "    \n    \n\n\n        \n\n\n٠.\n\n\n\n\n\n\n\n\n\n",
+      "confidence": 0.9776525869965553
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0686.png"
+}

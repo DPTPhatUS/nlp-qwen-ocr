@@ -1,0 +1,188 @@
+{
+  "page_num": 65,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0065_005_text.png",
+      "bbox": [
+        [
+          464,
+          450
+        ],
+        [
+          1674,
+          450
+        ],
+        [
+          1674,
+          505
+        ],
+        [
+          464,
+          505
+        ]
+      ],
+      "score": 0.5718035101890564,
+      "y_pos": 450,
+      "text": "3. Vị trí xuất hiện triệu chứng của ôn bệnh ở Vệ phận",
+      "confidence": 0.9994509794495322
+    },
+    {
+      "type": "text",
+      "img_path": "p0065_006_text.png",
+      "bbox": [
+        [
+          513,
+          532
+        ],
+        [
+          860,
+          532
+        ],
+        [
+          860,
+          915
+        ],
+        [
+          513,
+          915
+        ]
+      ],
+      "score": 0.5105411410331726,
+      "y_pos": 532,
+      "text": "A. Hung cách\nB. Phế\nC. Vi\nD. Trường phủ\nE. Tâm bào",
+      "confidence": 0.9575575943929808
+    },
+    {
+      "type": "text",
+      "img_path": "p0065_004_text.png",
+      "bbox": [
+        [
+          514,
+          1539
+        ],
+        [
+          858,
+          1539
+        ],
+        [
+          858,
+          1923
+        ],
+        [
+          514,
+          1923
+        ]
+      ],
+      "score": 0.6225850582122803,
+      "y_pos": 1539,
+      "text": "A. Hung cách\nB. Vi\nC. Trường phủ\nD. Phế\nE. Tâm bào",
+      "confidence": 0.9589739786159426
+    },
+    {
+      "type": "text",
+      "img_path": "p0065_003_text.png",
+      "bbox": [
+        [
+          514,
+          2036
+        ],
+        [
+          969,
+          2036
+        ],
+        [
+          969,
+          2421
+        ],
+        [
+          514,
+          2421
+        ]
+      ],
+      "score": 0.6727122068405151,
+      "y_pos": 2036,
+      "text": "A. Sốt cao\nB. Ho, đau ngưc\nC. Cầu táo\nD. Lơ mơ, nói nhảm\nE. Dấu xuất huyết",
+      "confidence": 0.9601710986457496
+    },
+    {
+      "type": "text",
+      "img_path": "p0065_002_text.png",
+      "bbox": [
+        [
+          513,
+          2531
+        ],
+        [
+          972,
+          2531
+        ],
+        [
+          972,
+          2914
+        ],
+        [
+          513,
+          2914
+        ]
+      ],
+      "score": 0.7581031322479248,
+      "y_pos": 2531,
+      "text": "A. Co giât\nB. Sốt cao\nC. Người mệt mỏi\nD. Cầu táo bón\nE. Lơ mơ, nói nhảm",
+      "confidence": 0.9521966696778932
+    },
+    {
+      "type": "number",
+      "img_path": "p0065_001_number.png",
+      "bbox": [
+        [
+          351,
+          3111
+        ],
+        [
+          404,
+          3111
+        ],
+        [
+          404,
+          3149
+        ],
+        [
+          351,
+          3149
+        ]
+      ],
+      "score": 0.8101614713668823,
+      "y_pos": 3111,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0065_000_footer.png",
+      "bbox": [
+        [
+          294,
+          3312
+        ],
+        [
+          1075,
+          3312
+        ],
+        [
+          1075,
+          3367
+        ],
+        [
+          294,
+          3367
+        ]
+      ],
+      "score": 0.9063315391540527,
+      "y_pos": 3312,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.889214095047542
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0065.png"
+}

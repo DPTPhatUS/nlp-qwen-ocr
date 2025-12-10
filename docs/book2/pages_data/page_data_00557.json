@@ -1,0 +1,162 @@
+{
+  "page_num": 557,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0557_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          199
+        ],
+        [
+          1675,
+          199
+        ]
+      ],
+      "score": 0.9085224866867065,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7576648993861108
+    },
+    {
+      "type": "header",
+      "img_path": "p0557_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1467,
+          152
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9135128855705261,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TẬN, KỲ HUYỆT",
+      "confidence": 0.9979400253295898
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0557_004_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          326
+        ],
+        [
+          694,
+          326
+        ],
+        [
+          694,
+          385
+        ],
+        [
+          227,
+          385
+        ]
+      ],
+      "score": 0.6937137246131897,
+      "y_pos": 326,
+      "text": "Phần 5. BÊNH MĂT",
+      "confidence": 0.7805691063404083
+    },
+    {
+      "type": "text",
+      "img_path": "p0557_005_text.png",
+      "bbox": [
+        [
+          229,
+          354
+        ],
+        [
+          2344,
+          354
+        ],
+        [
+          2344,
+          846
+        ],
+        [
+          229,
+          846
+        ]
+      ],
+      "score": 0.5331220030784607,
+      "y_pos": 354,
+      "text": "Phan 5. BENH MAI\n81. Liệt mặt: Giáp nội, Khiên chính, Tán tiếu, Ngư vĩ, Yến khẩu, Tỵ lưu, Thái dương, Địa hợp.\n82. Thần kinh mặt tê bại và co rút: Giáp Thừa tương, Ngư yêu.\n83. Mặt co giật: Ngư vĩ, Tán tiếu.\n84. Đau thần kinh tam thoa: Giáp thừa tương, Thái dương, Tỵ lưu, Yến khẩu.\n85. Quai bị: Khiên chính, Quang thái, É minh, Tam thương.",
+      "confidence": 0.9298778275950759
+    },
+    {
+      "type": "number",
+      "img_path": "p0557_003_number.png",
+      "bbox": [
+        [
+          2343,
+          3338
+        ],
+        [
+          2368,
+          3338
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2343,
+          3374
+        ]
+      ],
+      "score": 0.8183838725090027,
+      "y_pos": 3338,
+      "text": "\n    \n    \n\n\n\n        ١\n    \n\n\n\n    \n\n    ",
+      "confidence": 0.9717687240668705
+    },
+    {
+      "type": "footer",
+      "img_path": "p0557_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.8971891403198242,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0557.png"
+}

@@ -1,0 +1,838 @@
+{
+  "page_num": 251,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0251_004_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2370,
+          142
+        ],
+        [
+          2370,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9443643093109131,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7643194177321025
+    },
+    {
+      "type": "header",
+      "img_path": "p0251_008_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.924507737159729,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0251_015_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          346
+        ],
+        [
+          532,
+          346
+        ],
+        [
+          532,
+          396
+        ],
+        [
+          226,
+          396
+        ]
+      ],
+      "score": 0.9184241890907288,
+      "y_pos": 346,
+      "text": "211. Toa cốt",
+      "confidence": 0.9593028724193573
+    },
+    {
+      "type": "text",
+      "img_path": "p0251_023_text.png",
+      "bbox": [
+        [
+          288,
+          437
+        ],
+        [
+          1986,
+          437
+        ],
+        [
+          1986,
+          496
+        ],
+        [
+          288,
+          496
+        ]
+      ],
+      "score": 0.9120535254478455,
+      "y_pos": 437,
+      "text": "Vị trí: Ở giữa mấu động lớn và xương cụt đuôi, rồi lùi xuống 1 thốn. (H.121)",
+      "confidence": 0.991942184857833
+    },
+    {
+      "type": "text",
+      "img_path": "p0251_019_text.png",
+      "bbox": [
+        [
+          287,
+          532
+        ],
+        [
+          1309,
+          532
+        ],
+        [
+          1309,
+          582
+        ],
+        [
+          287,
+          582
+        ]
+      ],
+      "score": 0.915759801864624,
+      "y_pos": 532,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 2 – 3 thôn.",
+      "confidence": 0.9753954582744174
+    },
+    {
+      "type": "text",
+      "img_path": "p0251_005_text.png",
+      "bbox": [
+        [
+          288,
+          624
+        ],
+        [
+          1270,
+          624
+        ],
+        [
+          1270,
+          674
+        ],
+        [
+          288,
+          674
+        ]
+      ],
+      "score": 0.9295830130577087,
+      "y_pos": 624,
+      "text": "Chủ tri: Đau thần kinh toa, chi dưới bai liệt.",
+      "confidence": 0.7980748775104681
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0251_013_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          715
+        ],
+        [
+          691,
+          715
+        ],
+        [
+          691,
+          766
+        ],
+        [
+          226,
+          766
+        ]
+      ],
+      "score": 0.9191567897796631,
+      "y_pos": 715,
+      "text": "212. Khoả tứ huyệt",
+      "confidence": 0.9613892138004303
+    },
+    {
+      "type": "text",
+      "img_path": "p0251_012_text.png",
+      "bbox": [
+        [
+          283,
+          806
+        ],
+        [
+          1447,
+          806
+        ],
+        [
+          1447,
+          859
+        ],
+        [
+          283,
+          859
+        ]
+      ],
+      "score": 0.9200474619865417,
+      "y_pos": 806,
+      "text": "Vị trí: Mắt cá trong, ngoài và Cân kiện hạ, Giải khê.",
+      "confidence": 0.9980028900233182
+    },
+    {
+      "type": "text",
+      "img_path": "p0251_006_text.png",
+      "bbox": [
+        [
+          284,
+          897
+        ],
+        [
+          1693,
+          897
+        ],
+        [
+          1693,
+          952
+        ],
+        [
+          284,
+          952
+        ]
+      ],
+      "score": 0.9255109429359436,
+      "y_pos": 897,
+      "text": "Cách châm: Châm đứng kim lấy phản ứng làm mức nông sâu.",
+      "confidence": 0.998421217265882
+    },
+    {
+      "type": "text",
+      "img_path": "p0251_027_text.png",
+      "bbox": [
+        [
+          286,
+          990
+        ],
+        [
+          711,
+          990
+        ],
+        [
+          711,
+          1043
+        ],
+        [
+          286,
+          1043
+        ]
+      ],
+      "score": 0.9051079154014587,
+      "y_pos": 990,
+      "text": "Chủ trị: Liệt cứng.",
+      "confidence": 0.8521447635832287
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0251_026_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          1082
+        ],
+        [
+          721,
+          1082
+        ],
+        [
+          721,
+          1130
+        ],
+        [
+          228,
+          1130
+        ]
+      ],
+      "score": 0.9061011075973511,
+      "y_pos": 1082,
+      "text": "213. Khoả tam châm",
+      "confidence": 0.9510298609733582
+    },
+    {
+      "type": "text",
+      "img_path": "p0251_014_text.png",
+      "bbox": [
+        [
+          286,
+          1173
+        ],
+        [
+          1153,
+          1173
+        ],
+        [
+          1153,
+          1222
+        ],
+        [
+          286,
+          1222
+        ]
+      ],
+      "score": 0.918622612953186,
+      "y_pos": 1173,
+      "text": "Vi trí: Là Côn luân, Thái khê, Giải khê.",
+      "confidence": 0.8650701287246886
+    },
+    {
+      "type": "text",
+      "img_path": "p0251_010_text.png",
+      "bbox": [
+        [
+          284,
+          1266
+        ],
+        [
+          1455,
+          1266
+        ],
+        [
+          1455,
+          1317
+        ],
+        [
+          284,
+          1317
+        ]
+      ],
+      "score": 0.9215652942657471,
+      "y_pos": 1266,
+      "text": "Cách châm: Châm đứng kim có phản ứng làm mức.",
+      "confidence": 0.9942594373479803
+    },
+    {
+      "type": "text",
+      "img_path": "p0251_016_text.png",
+      "bbox": [
+        [
+          286,
+          1358
+        ],
+        [
+          698,
+          1358
+        ],
+        [
+          698,
+          1410
+        ],
+        [
+          286,
+          1410
+        ]
+      ],
+      "score": 0.918315589427948,
+      "y_pos": 1358,
+      "text": "Chủ trị: Liệt cứng",
+      "confidence": 0.8709172010421753
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0251_031_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1448
+        ],
+        [
+          677,
+          1448
+        ],
+        [
+          677,
+          1496
+        ],
+        [
+          227,
+          1496
+        ]
+      ],
+      "score": 0.8779016137123108,
+      "y_pos": 1448,
+      "text": "214. Tất tam châm",
+      "confidence": 0.9555454787455107
+    },
+    {
+      "type": "text",
+      "img_path": "p0251_022_text.png",
+      "bbox": [
+        [
+          283,
+          1538
+        ],
+        [
+          1893,
+          1538
+        ],
+        [
+          1893,
+          1593
+        ],
+        [
+          283,
+          1593
+        ]
+      ],
+      "score": 0.9122200608253479,
+      "y_pos": 1538,
+      "text": "Vị trí: Là cả 2 huyệt <i>Tất nhỡn</i> và <i>Dương lăng tuyền</i> thấu Âm lăng tuyền.",
+      "confidence": 0.9852865706933173
+    },
+    {
+      "type": "text",
+      "img_path": "p0251_009_text.png",
+      "bbox": [
+        [
+          284,
+          1632
+        ],
+        [
+          1306,
+          1632
+        ],
+        [
+          1306,
+          1681
+        ],
+        [
+          284,
+          1681
+        ]
+      ],
+      "score": 0.9226595759391785,
+      "y_pos": 1632,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 2 – 3 thôn.",
+      "confidence": 0.9839472982618543
+    },
+    {
+      "type": "text",
+      "img_path": "p0251_007_text.png",
+      "bbox": [
+        [
+          284,
+          1722
+        ],
+        [
+          1060,
+          1722
+        ],
+        [
+          1060,
+          1776
+        ],
+        [
+          284,
+          1776
+        ]
+      ],
+      "score": 0.9254623055458069,
+      "y_pos": 1722,
+      "text": "Chủ trị: Viêm khớp gối, liệt cứng.",
+      "confidence": 0.9854411217901442
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0251_021_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1813
+        ],
+        [
+          1137,
+          1813
+        ],
+        [
+          1137,
+          1867
+        ],
+        [
+          225,
+          1867
+        ]
+      ],
+      "score": 0.9123427867889404,
+      "y_pos": 1813,
+      "text": "215. Lan vĩ (Triệt than 3, Kiện vị điểm)",
+      "confidence": 0.9981219995589483
+    },
+    {
+      "type": "text",
+      "img_path": "p0251_017_text.png",
+      "bbox": [
+        [
+          290,
+          1907
+        ],
+        [
+          1393,
+          1907
+        ],
+        [
+          1393,
+          1960
+        ],
+        [
+          290,
+          1960
+        ]
+      ],
+      "score": 0.9180501699447632,
+      "y_pos": 1907,
+      "text": "<i>Vị trí:</i> Phía dưới huyệt <i>Túc lam lý</i> 2 thốn. (H.120)",
+      "confidence": 0.9850049806492669
+    },
+    {
+      "type": "text",
+      "img_path": "p0251_011_text.png",
+      "bbox": [
+        [
+          287,
+          1998
+        ],
+        [
+          1285,
+          1998
+        ],
+        [
+          1285,
+          2049
+        ],
+        [
+          287,
+          2049
+        ]
+      ],
+      "score": 0.921298086643219,
+      "y_pos": 1998,
+      "text": "<b>Cách châm:</b> Châm đứng kim 1,5 – 2,5 thôn.",
+      "confidence": 0.9680918929251757
+    },
+    {
+      "type": "text",
+      "img_path": "p0251_002_text.png",
+      "bbox": [
+        [
+          282,
+          2089
+        ],
+        [
+          2358,
+          2089
+        ],
+        [
+          2358,
+          2213
+        ],
+        [
+          282,
+          2213
+        ]
+      ],
+      "score": 0.9647062420845032,
+      "y_pos": 2089,
+      "text": "Chủ trị: Viêm ruột thừa cấp tính (chỉ tham khảo, nên xử trí theo Tây y), chi dưới bại liệt, bàn\nchân thống xuống, tiêu hoá kém.",
+      "confidence": 0.9950855098564675
+    },
+    {
+      "type": "text",
+      "img_path": "p0251_003_text.png",
+      "bbox": [
+        [
+          284,
+          2251
+        ],
+        [
+          2359,
+          2251
+        ],
+        [
+          2359,
+          2376
+        ],
+        [
+          284,
+          2376
+        ]
+      ],
+      "score": 0.9643562436103821,
+      "y_pos": 2251,
+      "text": "<i>Tác dụng phối hợp:</i> Với <i>A thị huyệt</i> ở bên phải bụng dưới, <i>Túc tam lý</i>, trị viêm ruột thừa\nđơn thuần (chỉ tham khảo, nên xử trí theo Tây y).",
+      "confidence": 0.9934690341030481
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0251_025_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2414
+        ],
+        [
+          1487,
+          2414
+        ],
+        [
+          1487,
+          2468
+        ],
+        [
+          226,
+          2468
+        ]
+      ],
+      "score": 0.9068066477775574,
+      "y_pos": 2414,
+      "text": "216. Não thanh (Túc hạ thuỳ điểm, Thượng Giải khê)",
+      "confidence": 0.9990557386324956
+    },
+    {
+      "type": "text",
+      "img_path": "p0251_024_text.png",
+      "bbox": [
+        [
+          287,
+          2506
+        ],
+        [
+          2082,
+          2506
+        ],
+        [
+          2082,
+          2562
+        ],
+        [
+          287,
+          2562
+        ]
+      ],
+      "score": 0.9117542505264282,
+      "y_pos": 2506,
+      "text": "Vị trí: Ở trên huyệt Giải khê 2 thốn, bờ ngoài (cạnh ngoài) xương chày. (H. 120)",
+      "confidence": 0.9865240432867189
+    },
+    {
+      "type": "text",
+      "img_path": "p0251_028_text.png",
+      "bbox": [
+        [
+          287,
+          2598
+        ],
+        [
+          1242,
+          2598
+        ],
+        [
+          1242,
+          2649
+        ],
+        [
+          287,
+          2649
+        ]
+      ],
+      "score": 0.902458667755127,
+      "y_pos": 2598,
+      "text": "<b>Cách châm:</b> Châm đứng kim 0,5 – 1 thôn.",
+      "confidence": 0.9684223532676697
+    },
+    {
+      "type": "text",
+      "img_path": "p0251_001_text.png",
+      "bbox": [
+        [
+          282,
+          2689
+        ],
+        [
+          2357,
+          2689
+        ],
+        [
+          2357,
+          2813
+        ],
+        [
+          282,
+          2813
+        ]
+      ],
+      "score": 0.9654929041862488,
+      "y_pos": 2689,
+      "text": "Chủ trị: Ham ngủ nhiều, di chứng não ngu dại đần độn, đầu xoay, hay quên, trẻ em di chứng\nnão bàn chân thống xuống.",
+      "confidence": 0.9923545131243774
+    },
+    {
+      "type": "text",
+      "img_path": "p0251_018_text.png",
+      "bbox": [
+        [
+          288,
+          2853
+        ],
+        [
+          1733,
+          2853
+        ],
+        [
+          1733,
+          2907
+        ],
+        [
+          288,
+          2907
+        ]
+      ],
+      "score": 0.9179837703704834,
+      "y_pos": 2853,
+      "text": "Tác dụng phụ: Với Phong trì, Đại chuỳ trị di chứng não ngu dại.",
+      "confidence": 0.9947837939629188
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0251_029_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2942
+        ],
+        [
+          697,
+          2942
+        ],
+        [
+          697,
+          2996
+        ],
+        [
+          227,
+          2996
+        ]
+      ],
+      "score": 0.8989875912666321,
+      "y_pos": 2942,
+      "text": "217. Ngoại Âm liêm",
+      "confidence": 0.9288854449987411
+    },
+    {
+      "type": "text",
+      "img_path": "p0251_000_text.png",
+      "bbox": [
+        [
+          285,
+          3034
+        ],
+        [
+          2362,
+          3034
+        ],
+        [
+          2362,
+          3161
+        ],
+        [
+          285,
+          3161
+        ]
+      ],
+      "score": 0.9655717015266418,
+      "y_pos": 3034,
+      "text": "<b>Vị trí:</b> Dưới dây chằng rãnh háng hơn 1 bề ngang ngón tay, phía trên và ngoài huyệt Âm\n<i>liêm</i>, cạnh ngoài động mạch đùi. (H.120)",
+      "confidence": 0.9872000886757861
+    },
+    {
+      "type": "footer",
+      "img_path": "p0251_020_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9156755208969116,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0251_030_number.png",
+      "bbox": [
+        [
+          2279,
+          3338
+        ],
+        [
+          2351,
+          3338
+        ],
+        [
+          2351,
+          3377
+        ],
+        [
+          2279,
+          3377
+        ]
+      ],
+      "score": 0.8957816362380981,
+      "y_pos": 3338,
+      "text": "        \n    \n\n    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0251.png"
+}

@@ -1,0 +1,212 @@
+{
+  "page_num": 91,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0091_004_header.png",
+      "bbox": [
+        [
+          1610,
+          141
+        ],
+        [
+          2376,
+          141
+        ],
+        [
+          2376,
+          202
+        ],
+        [
+          1610,
+          202
+        ]
+      ],
+      "score": 0.898815929889679,
+      "y_pos": 141,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.8065375352189654
+    },
+    {
+      "type": "header",
+      "img_path": "p0091_006_header.png",
+      "bbox": [
+        [
+          235,
+          160
+        ],
+        [
+          449,
+          160
+        ],
+        [
+          449,
+          203
+        ],
+        [
+          235,
+          203
+        ]
+      ],
+      "score": 0.8759944438934326,
+      "y_pos": 160,
+      "text": "KINH LAC",
+      "confidence": 0.8504815220832824
+    },
+    {
+      "type": "image",
+      "img_path": "p0091_001_image.png",
+      "bbox": [
+        [
+          816,
+          304
+        ],
+        [
+          1900,
+          304
+        ],
+        [
+          1900,
+          2331
+        ],
+        [
+          816,
+          2331
+        ]
+      ],
+      "score": 0.9749900698661804,
+      "y_pos": 304
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0091_003_figure_title.png",
+      "bbox": [
+        [
+          742,
+          2396
+        ],
+        [
+          1955,
+          2396
+        ],
+        [
+          1955,
+          2445
+        ],
+        [
+          742,
+          2445
+        ]
+      ],
+      "score": 0.9010584354400635,
+      "y_pos": 2396,
+      "text": "Hình 18. Đường tuần hành của kinh Túc thiếu dương đảm",
+      "confidence": 0.9978476210073991
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0091_002_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          2483
+        ],
+        [
+          1078,
+          2483
+        ],
+        [
+          1078,
+          2538
+        ],
+        [
+          284,
+          2538
+        ]
+      ],
+      "score": 0.9016850590705872,
+      "y_pos": 2483,
+      "text": "12. Túc quyết âm tam kinh (H.19)",
+      "confidence": 0.9422410814201131
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_000_text.png",
+      "bbox": [
+        [
+          286,
+          2572
+        ],
+        [
+          2357,
+          2572
+        ],
+        [
+          2357,
+          3127
+        ],
+        [
+          286,
+          3127
+        ]
+      ],
+      "score": 0.9831626415252686,
+      "y_pos": 2572,
+      "text": "a. Cấu trúc: Gồm 14 huyệt, hai bên là 28 huyệt. Kinh mạch tuần hành bắt đầu từ cạnh ngoài\ngóc móng ngón cái đi lên hướng mu bàn chân, qua phía trước mắt cá trong khoảng hơn\nmột thốn, đi lên qua huyệt Tam âm giao đến chỗ cách mắt cá trong 3 thốn thì giao nhau\nvới kinh thúc thái âm tỳ rồi đi theo phía sau kinh thúc thái âm tỳ lên đến cạnh trong đầu\ngối, ven theo cạnh trong đùi lên đến gồ mu, vòng qua âm, dương vật đến bụng dưới, đị\ntheo cạnh dạ dày, vào tới can tạng và cùng nối liền với đảm, kế tiếp xuyên qua cơ hoành\nđến xương sườn lên ven khí quản, cạnh sau hầu tiến vào trong mũi, sang hố mắt, hướng\nlên ra trước trán hợp lại với đốc mạch ở đỉnh đầu.",
+      "confidence": 0.9775414998459048
+    },
+    {
+      "type": "footer",
+      "img_path": "p0091_005_footer.png",
+      "bbox": [
+        [
+          227,
+          3333
+        ],
+        [
+          1431,
+          3333
+        ],
+        [
+          1431,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.8932854533195496,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985721471174708
+    },
+    {
+      "type": "number",
+      "img_path": "p0091_007_number.png",
+      "bbox": [
+        [
+          2335,
+          3338
+        ],
+        [
+          2382,
+          3338
+        ],
+        [
+          2382,
+          3373
+        ],
+        [
+          2335,
+          3373
+        ]
+      ],
+      "score": 0.8428866863250732,
+      "y_pos": 3338,
+      "text": "    \n\n\n\n\n\n.\n\n\n\n\n\n\n\n",
+      "confidence": 0.9653129996731877
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0091.png"
+}

@@ -1,0 +1,266 @@
+{
+  "page_num": 558,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0558_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9116629362106323,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0558_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1467,
+          152
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9153571724891663,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TẬN, KỲ HUYỆT",
+      "confidence": 0.9979400253295898
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0558_004_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          325
+        ],
+        [
+          694,
+          325
+        ],
+        [
+          694,
+          384
+        ],
+        [
+          227,
+          384
+        ]
+      ],
+      "score": 0.6601080894470215,
+      "y_pos": 325,
+      "text": "Phần 6. BÊNH ĐẦU",
+      "confidence": 0.8376337190469106
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0558_008_reference_content.png",
+      "bbox": [
+        [
+          232,
+          508
+        ],
+        [
+          1105,
+          508
+        ],
+        [
+          1105,
+          572
+        ],
+        [
+          232,
+          572
+        ]
+      ],
+      "score": 0.5231805443763733,
+      "y_pos": 508,
+      "text": "87. Đầu ngoại thương: Yêu thống 1.",
+      "confidence": 0.9990774790445963
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0558_007_reference_content.png",
+      "bbox": [
+        [
+          232,
+          601
+        ],
+        [
+          1212,
+          601
+        ],
+        [
+          1212,
+          663
+        ],
+        [
+          232,
+          663
+        ]
+      ],
+      "score": 0.5308288931846619,
+      "y_pos": 601,
+      "text": "88. Đỉnh đầu đau trướng: Tứ thần thông.",
+      "confidence": 0.999075694781978
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0558_005_reference_content.png",
+      "bbox": [
+        [
+          232,
+          694
+        ],
+        [
+          1054,
+          694
+        ],
+        [
+          1054,
+          752
+        ],
+        [
+          232,
+          752
+        ]
+      ],
+      "score": 0.542921781539917,
+      "y_pos": 694,
+      "text": "89. Đau sau đầu: Tân thức, Trì hạ.",
+      "confidence": 0.9967464622524049
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0558_009_reference_content.png",
+      "bbox": [
+        [
+          231,
+          785
+        ],
+        [
+          1022,
+          785
+        ],
+        [
+          1022,
+          844
+        ],
+        [
+          231,
+          844
+        ]
+      ],
+      "score": 0.514654278755188,
+      "y_pos": 785,
+      "text": "90. Đau một bên đầu: Lạc chẩm.",
+      "confidence": 0.9898098893463612
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0558_006_reference_content.png",
+      "bbox": [
+        [
+          229,
+          969
+        ],
+        [
+          2363,
+          969
+        ],
+        [
+          2363,
+          1100
+        ],
+        [
+          229,
+          1100
+        ]
+      ],
+      "score": 0.5350736379623413,
+      "y_pos": 969,
+      "text": "92. Đau đầu: Túc tâm, Phong nham, Ấn thượng, Bát tà, Thượng bát tà, Bát phong, Thượng\nbát phong, Mục minh, An miên, Dung hậu, É minh, Thống linh, Ấn đường, Thái dương.",
+      "confidence": 0.8637254031604883
+    },
+    {
+      "type": "number",
+      "img_path": "p0558_003_number.png",
+      "bbox": [
+        [
+          2343,
+          3339
+        ],
+        [
+          2368,
+          3339
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2343,
+          3374
+        ]
+      ],
+      "score": 0.8128582239151001,
+      "y_pos": 3339,
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0558_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9070234298706055,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0558.png"
+}

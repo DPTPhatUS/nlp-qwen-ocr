@@ -1,0 +1,526 @@
+{
+  "page_num": 616,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0616_006_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          196
+        ],
+        [
+          1675,
+          196
+        ]
+      ],
+      "score": 0.932239294052124,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7141765639895484
+    },
+    {
+      "type": "header",
+      "img_path": "p0616_008_header.png",
+      "bbox": [
+        [
+          229,
+          151
+        ],
+        [
+          1172,
+          151
+        ],
+        [
+          1172,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.917854905128479,
+      "y_pos": 151,
+      "text": "PHÉP CHẨN BẾNH BÁNG NHIỆT ĐÔ KINH LẠC",
+      "confidence": 0.9933017049080286
+    },
+    {
+      "type": "text",
+      "img_path": "p0616_018_text.png",
+      "bbox": [
+        [
+          285,
+          305
+        ],
+        [
+          943,
+          305
+        ],
+        [
+          943,
+          357
+        ],
+        [
+          285,
+          357
+        ]
+      ],
+      "score": 0.570752739906311,
+      "y_pos": 305,
+      "text": "Biểu đồ minh hoa như sau:",
+      "confidence": 0.960495235743346
+    },
+    {
+      "type": "text",
+      "img_path": "p0616_013_text.png",
+      "bbox": [
+        [
+          285,
+          397
+        ],
+        [
+          1022,
+          397
+        ],
+        [
+          1022,
+          451
+        ],
+        [
+          285,
+          451
+        ]
+      ],
+      "score": 0.7271366119384766,
+      "y_pos": 397,
+      "text": "Ô1, 1': Nhiệt độ cao nhất của chi",
+      "confidence": 0.8156234468732562
+    },
+    {
+      "type": "text",
+      "img_path": "p0616_019_text.png",
+      "bbox": [
+        [
+          1316,
+          558
+        ],
+        [
+          1834,
+          558
+        ],
+        [
+          1834,
+          618
+        ],
+        [
+          1316,
+          618
+        ]
+      ],
+      "score": 0.5569437146186829,
+      "y_pos": 558,
+      "text": "Phạm vi là nhiệt, dấu +",
+      "confidence": 0.9913059067726135
+    },
+    {
+      "type": "text",
+      "img_path": "p0616_015_text.png",
+      "bbox": [
+        [
+          285,
+          650
+        ],
+        [
+          1058,
+          650
+        ],
+        [
+          1058,
+          707
+        ],
+        [
+          285,
+          707
+        ]
+      ],
+      "score": 0.676767110824585,
+      "y_pos": 650,
+      "text": "Ô6, 6': Mốc nhiệt độ giới hạn nhiệt",
+      "confidence": 0.9967852927543022
+    },
+    {
+      "type": "text",
+      "img_path": "p0616_017_text.png",
+      "bbox": [
+        [
+          1314,
+          769
+        ],
+        [
+          2129,
+          769
+        ],
+        [
+          2129,
+          886
+        ],
+        [
+          1314,
+          886
+        ]
+      ],
+      "score": 0.6198498606681824,
+      "y_pos": 769,
+      "text": "Phạm vi là biến đổi sinh lý cho phép,\nkhông có dấu",
+      "confidence": 0.9977328547518769
+    },
+    {
+      "type": "text",
+      "img_path": "p0616_014_text.png",
+      "bbox": [
+        [
+          286,
+          771
+        ],
+        [
+          1053,
+          771
+        ],
+        [
+          1053,
+          825
+        ],
+        [
+          286,
+          825
+        ]
+      ],
+      "score": 0.7075862884521484,
+      "y_pos": 771,
+      "text": "Ô4, 4': Nhiệt đô trung bình của chi",
+      "confidence": 0.7224931878012579
+    },
+    {
+      "type": "text",
+      "img_path": "p0616_012_text.png",
+      "bbox": [
+        [
+          286,
+          888
+        ],
+        [
+          1035,
+          888
+        ],
+        [
+          1035,
+          943
+        ],
+        [
+          286,
+          943
+        ]
+      ],
+      "score": 0.7385371923446655,
+      "y_pos": 888,
+      "text": "Ô7, 7': Mốc nhiệt độ giới hạn hàn",
+      "confidence": 0.9962375351360866
+    },
+    {
+      "type": "text",
+      "img_path": "p0616_016_text.png",
+      "bbox": [
+        [
+          1316,
+          1068
+        ],
+        [
+          1794,
+          1068
+        ],
+        [
+          1794,
+          1127
+        ],
+        [
+          1316,
+          1127
+        ]
+      ],
+      "score": 0.6300417184829712,
+      "y_pos": 1068,
+      "text": "Phạm vi là hàn, dấu -",
+      "confidence": 0.9851942917575007
+    },
+    {
+      "type": "text",
+      "img_path": "p0616_011_text.png",
+      "bbox": [
+        [
+          284,
+          1140
+        ],
+        [
+          1037,
+          1140
+        ],
+        [
+          1037,
+          1196
+        ],
+        [
+          284,
+          1196
+        ]
+      ],
+      "score": 0.8627926111221313,
+      "y_pos": 1140,
+      "text": "Ô2, 2': Nhiệt độ thấp nhất của chi",
+      "confidence": 0.5676009108622869
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0616_007_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          1324
+        ],
+        [
+          1062,
+          1324
+        ],
+        [
+          1062,
+          1379
+        ],
+        [
+          284,
+          1379
+        ]
+      ],
+      "score": 0.9219488501548767,
+      "y_pos": 1324,
+      "text": "b. Tiêu chuẩn phân định biểu, lý",
+      "confidence": 0.9984048534842098
+    },
+    {
+      "type": "text",
+      "img_path": "p0616_003_text.png",
+      "bbox": [
+        [
+          281,
+          1416
+        ],
+        [
+          2359,
+          1416
+        ],
+        [
+          2359,
+          1612
+        ],
+        [
+          281,
+          1612
+        ]
+      ],
+      "score": 0.9772297739982605,
+      "y_pos": 1416,
+      "text": "Sau khi đã phân định hàn (đánh dấu -), nhiệt (đánh dấu +) hay là biến đổi sinh lý cho phép\n(không đánh dấu) cho các chỉ số nhiệt độ bên trái và bên phải của các kinh, dựa vào đó ta\nphân định biểu, lý cho kinh đó.",
+      "confidence": 0.9985661795388315
+    },
+    {
+      "type": "text",
+      "img_path": "p0616_004_text.png",
+      "bbox": [
+        [
+          298,
+          1650
+        ],
+        [
+          2360,
+          1650
+        ],
+        [
+          2360,
+          1848
+        ],
+        [
+          298,
+          1848
+        ]
+      ],
+      "score": 0.97691410779953,
+      "y_pos": 1650,
+      "text": "• Được xác định là lý khi nhiệt độ bên trái và phải của kinh đó đều có mang dấu và phải\ncùng dấu (đều là hàn hoặc nhiệt); tương ứng theo đó là lý hàn (cùng mang dấu - là hàn)\nhay lý nhiệt (cùng mang dấu + là nhiệt).",
+      "confidence": 0.9956670605263614
+    },
+    {
+      "type": "text",
+      "img_path": "p0616_005_text.png",
+      "bbox": [
+        [
+          358,
+          1883
+        ],
+        [
+          2360,
+          1883
+        ],
+        [
+          2360,
+          2080
+        ],
+        [
+          358,
+          2080
+        ]
+      ],
+      "score": 0.9698693156242371,
+      "y_pos": 1883,
+      "text": "+ Trong trường hợp này, số tương quan (cột 10, 10’) của kinh luôn mang dấu trùng với\ndấu của nhiệt độ bên trái và phải của kinh (để thể hiện hàn hay nhiệt), giá trị tuyệt đối\ncủa số tương quan (trị số không có dấu) luôn lớn hơn sai số giới hạn (Ô5, 5’).",
+      "confidence": 0.9994656030857586
+    },
+    {
+      "type": "text",
+      "img_path": "p0616_001_text.png",
+      "bbox": [
+        [
+          298,
+          2119
+        ],
+        [
+          2361,
+          2119
+        ],
+        [
+          2361,
+          2382
+        ],
+        [
+          298,
+          2382
+        ]
+      ],
+      "score": 0.9817954897880554,
+      "y_pos": 2119,
+      "text": "• Được xác đinh là biểu khi chỉ có một trong hai bên nhiệt độ bên trái hoặc phải của kinh\nmang dấu (+ hoặc - và bên còn lại không mang dấu) hoặc cả hai bên nhiệtđộ bên trái và\nphải đều mang dấu nhưng phải khác dấu (một bên dấu + và một bên dấu -). Và để xác\nđinh là biểu hàn hay biểu nhiệt ta căn cứ như sau:",
+      "confidence": 0.9975560005324117
+    },
+    {
+      "type": "text",
+      "img_path": "p0616_002_text.png",
+      "bbox": [
+        [
+          358,
+          2421
+        ],
+        [
+          2360,
+          2421
+        ],
+        [
+          2360,
+          2688
+        ],
+        [
+          358,
+          2688
+        ]
+      ],
+      "score": 0.9783576726913452,
+      "y_pos": 2421,
+      "text": "+ Trường hợp chỉ có một trong hai bên nhiệt độ bên trái hoặc phải mang dấu, dựa vào\ndấu này ta xác định biểu hàn (dấu -) hay biểu nhiệt (dấu +). Cũng cần phân biệt rõ, biểu\nđó thuộc bên có nhiệt độ mang dấu. Số tương quan trong trường hợp này luôn ≠ 0 vì có\ndấu trùng với dấu của nhiệt độ có mang dấu.",
+      "confidence": 0.9979841877509673
+    },
+    {
+      "type": "text",
+      "img_path": "p0616_000_text.png",
+      "bbox": [
+        [
+          368,
+          2725
+        ],
+        [
+          2360,
+          2725
+        ],
+        [
+          2360,
+          3065
+        ],
+        [
+          368,
+          3065
+        ]
+      ],
+      "score": 0.9833714365959167,
+      "y_pos": 2725,
+      "text": "+ Trường hợp cả hai bên nhiệt độ bên trái và phải của kinh đều mang dấu nhưng khác\ndấu, ta dựa vào dấu của số tương quan để xác định biểu hàn (dấu -) hay biểu nhiệt (dấu\n+). Biểu này thuộc về bên nào của nhiệt độ mang dấu trùng với dấu của số tương quan.\nNếu số tương quan = 0, trong trường hợp này kinh có đồng thời biểu hàn (thuộc bên có\nnhiệt độ mang dấu-) và biểu nhiệt (thuộc bên có nhiệt độ mang dấu+).",
+      "confidence": 0.9966770083295439
+    },
+    {
+      "type": "number",
+      "img_path": "p0616_010_number.png",
+      "bbox": [
+        [
+          2307,
+          3336
+        ],
+        [
+          2354,
+          3336
+        ],
+        [
+          2354,
+          3374
+        ],
+        [
+          2307,
+          3374
+        ]
+      ],
+      "score": 0.863571047782898,
+      "y_pos": 3336,
+      "text": "    \n    \n\n\n\n٠.\n",
+      "confidence": 0.9472213817967309
+    },
+    {
+      "type": "footer",
+      "img_path": "p0616_009_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3388
+        ],
+        [
+          228,
+          3388
+        ]
+      ],
+      "score": 0.9096190929412842,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985950510456877
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0616.png"
+}

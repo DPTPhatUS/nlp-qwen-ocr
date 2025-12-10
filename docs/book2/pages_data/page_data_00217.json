@@ -1,0 +1,654 @@
+{
+  "page_num": 217,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0217_002_header.png",
+      "bbox": [
+        [
+          1606,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1606,
+          202
+        ]
+      ],
+      "score": 0.9228123426437378,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7490854408769381
+    },
+    {
+      "type": "header",
+      "img_path": "p0217_013_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          905,
+          156
+        ],
+        [
+          905,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9067003130912781,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9866287461642561
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0217_011_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          349
+        ],
+        [
+          913,
+          349
+        ],
+        [
+          913,
+          401
+        ],
+        [
+          226,
+          401
+        ]
+      ],
+      "score": 0.9090062975883484,
+      "y_pos": 349,
+      "text": "17. Thượng lung (Trị lung 3)",
+      "confidence": 0.9913841346899669
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_005_text.png",
+      "bbox": [
+        [
+          284,
+          440
+        ],
+        [
+          1456,
+          440
+        ],
+        [
+          1456,
+          494
+        ],
+        [
+          284,
+          494
+        ]
+      ],
+      "score": 0.9176240563392639,
+      "y_pos": 440,
+      "text": "Vị trí: Ở giữa huyệt <i>Thính cung</i> và Nhĩ môn. (H.108)",
+      "confidence": 0.9941413673487577
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_008_text.png",
+      "bbox": [
+        [
+          283,
+          532
+        ],
+        [
+          1882,
+          532
+        ],
+        [
+          1882,
+          583
+        ],
+        [
+          283,
+          583
+        ]
+      ],
+      "score": 0.9116882085800171,
+      "y_pos": 532,
+      "text": "<b>Cách châm:</b> Bảo bệnh nhân há miệng, châm đứng kim, sâu 1 – 2 thốn.",
+      "confidence": 0.9855711391006691
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_009_text.png",
+      "bbox": [
+        [
+          284,
+          621
+        ],
+        [
+          906,
+          621
+        ],
+        [
+          906,
+          672
+        ],
+        [
+          284,
+          672
+        ]
+      ],
+      "score": 0.9094720482826233,
+      "y_pos": 621,
+      "text": "Chủ tri: Tai điếc, câm điếc.",
+      "confidence": 0.8988895992437999
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0217_021_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          715
+        ],
+        [
+          922,
+          715
+        ],
+        [
+          922,
+          767
+        ],
+        [
+          229,
+          767
+        ]
+      ],
+      "score": 0.8393231630325317,
+      "y_pos": 715,
+      "text": "18. Thính huyệt (Lung huyệt)",
+      "confidence": 0.8901359836260477
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_015_text.png",
+      "bbox": [
+        [
+          289,
+          807
+        ],
+        [
+          1487,
+          807
+        ],
+        [
+          1487,
+          860
+        ],
+        [
+          289,
+          860
+        ]
+      ],
+      "score": 0.9008241891860962,
+      "y_pos": 807,
+      "text": "Vị trí: Ở giữa Thính cung và huyệt Thính hội. (H.108)",
+      "confidence": 0.986414395679127
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_023_text.png",
+      "bbox": [
+        [
+          286,
+          898
+        ],
+        [
+          2259,
+          898
+        ],
+        [
+          2259,
+          951
+        ],
+        [
+          286,
+          951
+        ]
+      ],
+      "score": 0.6809601783752441,
+      "y_pos": 898,
+      "text": "<b>Cách châm:</b> Bảo bệnh nhân há miệng châm đứng kim, sâu 1 – 2 thốn. Cứu 5 – 10 phút.",
+      "confidence": 0.9870381933801314
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_024_text.png",
+      "bbox": [
+        [
+          289,
+          989
+        ],
+        [
+          711,
+          989
+        ],
+        [
+          711,
+          1042
+        ],
+        [
+          289,
+          1042
+        ]
+      ],
+      "score": 0.5091055035591125,
+      "y_pos": 989,
+      "text": "Chủ trị: Câm điếc.",
+      "confidence": 0.826914033293724
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0217_017_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1082
+        ],
+        [
+          696,
+          1082
+        ],
+        [
+          696,
+          1134
+        ],
+        [
+          229,
+          1134
+        ]
+      ],
+      "score": 0.8760364651679993,
+      "y_pos": 1082,
+      "text": "19. Thính lung gian",
+      "confidence": 0.8769305007798331
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_012_text.png",
+      "bbox": [
+        [
+          285,
+          1172
+        ],
+        [
+          1421,
+          1172
+        ],
+        [
+          1421,
+          1226
+        ],
+        [
+          285,
+          1226
+        ]
+      ],
+      "score": 0.9089881181716919,
+      "y_pos": 1172,
+      "text": "Vị trí: Ở giữa Thính cung và Thính huyệt. (H. 108)",
+      "confidence": 0.9935525529659711
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_019_text.png",
+      "bbox": [
+        [
+          280,
+          1264
+        ],
+        [
+          2269,
+          1264
+        ],
+        [
+          2269,
+          1407
+        ],
+        [
+          280,
+          1407
+        ]
+      ],
+      "score": 0.8632075786590576,
+      "y_pos": 1264,
+      "text": "Cách châm: Bảo bệnh nhân há miệng, châm đứng kim, sâu 1 – 2 thốn. Cứu 5 – 10 phút.\nChủ tri: Tai điếc.",
+      "confidence": 0.8743411766631262
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0217_016_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1449
+        ],
+        [
+          561,
+          1449
+        ],
+        [
+          561,
+          1495
+        ],
+        [
+          226,
+          1495
+        ]
+      ],
+      "score": 0.8810532689094543,
+      "y_pos": 1449,
+      "text": "20. Thính linh",
+      "confidence": 0.7868052683770657
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_004_text.png",
+      "bbox": [
+        [
+          288,
+          1540
+        ],
+        [
+          1501,
+          1540
+        ],
+        [
+          1501,
+          1593
+        ],
+        [
+          288,
+          1593
+        ]
+      ],
+      "score": 0.9199662208557129,
+      "y_pos": 1540,
+      "text": "Vị trí: Ở giữa huyệt Thính hội và Thính huyệt. (H.108)",
+      "confidence": 0.988816862659795
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_010_text.png",
+      "bbox": [
+        [
+          285,
+          1632
+        ],
+        [
+          1925,
+          1632
+        ],
+        [
+          1925,
+          1684
+        ],
+        [
+          285,
+          1684
+        ]
+      ],
+      "score": 0.9092531800270081,
+      "y_pos": 1632,
+      "text": "Cách châm: Bảo bệnh nhân há miệng, châm đứng kim, sâu 1,5 – 2 thốn.",
+      "confidence": 0.9883729007796965
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_014_text.png",
+      "bbox": [
+        [
+          286,
+          1722
+        ],
+        [
+          1029,
+          1722
+        ],
+        [
+          1029,
+          1774
+        ],
+        [
+          286,
+          1774
+        ]
+      ],
+      "score": 0.9036252498626709,
+      "y_pos": 1722,
+      "text": "Chủ tri: Tai ù, tai điếc, câm điếc.",
+      "confidence": 0.7399278524759654
+    },
+    {
+      "type": "image",
+      "img_path": "p0217_000_image.png",
+      "bbox": [
+        [
+          560,
+          1852
+        ],
+        [
+          2025,
+          1852
+        ],
+        [
+          2025,
+          2596
+        ],
+        [
+          560,
+          2596
+        ]
+      ],
+      "score": 0.9689489006996155,
+      "y_pos": 1852
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0217_022_figure_title.png",
+      "bbox": [
+        [
+          1072,
+          2681
+        ],
+        [
+          1516,
+          2681
+        ],
+        [
+          1516,
+          2724
+        ],
+        [
+          1072,
+          2724
+        ]
+      ],
+      "score": 0.7398966550827026,
+      "y_pos": 2681,
+      "text": "Hình 108 – Hình 109",
+      "confidence": 0.6914012063117254
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0217_020_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2767
+        ],
+        [
+          1049,
+          2767
+        ],
+        [
+          1049,
+          2819
+        ],
+        [
+          225,
+          2819
+        ]
+      ],
+      "score": 0.8529609441757202,
+      "y_pos": 2767,
+      "text": "21. Thính thông (Trị lung tân số 8)",
+      "confidence": 0.913046028162982
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_001_text.png",
+      "bbox": [
+        [
+          289,
+          2860
+        ],
+        [
+          1305,
+          2860
+        ],
+        [
+          1305,
+          2913
+        ],
+        [
+          289,
+          2913
+        ]
+      ],
+      "score": 0.9267128109931946,
+      "y_pos": 2860,
+      "text": "Vị trí: Dưới huyệt <i>Thính hội</i> 0,2 thốn. (H.108)",
+      "confidence": 0.9753395402431488
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_003_text.png",
+      "bbox": [
+        [
+          287,
+          2952
+        ],
+        [
+          1663,
+          2952
+        ],
+        [
+          1663,
+          3003
+        ],
+        [
+          287,
+          3003
+        ]
+      ],
+      "score": 0.9227378368377686,
+      "y_pos": 2952,
+      "text": "Cách châm: Hơi há miệng, châm đứng kim, sâu 1,5 – 2 thốn.",
+      "confidence": 0.9856811347654311
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_007_text.png",
+      "bbox": [
+        [
+          288,
+          3043
+        ],
+        [
+          677,
+          3043
+        ],
+        [
+          677,
+          3093
+        ],
+        [
+          288,
+          3093
+        ]
+      ],
+      "score": 0.9120754599571228,
+      "y_pos": 3043,
+      "text": "Chủ tri: Tai điếc.",
+      "confidence": 0.7343267589807511
+    },
+    {
+      "type": "footer",
+      "img_path": "p0217_006_footer.png",
+      "bbox": [
+        [
+          227,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.9144992232322693,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982534973126538
+    },
+    {
+      "type": "number",
+      "img_path": "p0217_018_number.png",
+      "bbox": [
+        [
+          2301,
+          3339
+        ],
+        [
+          2350,
+          3339
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2301,
+          3377
+        ]
+      ],
+      "score": 0.8748005628585815,
+      "y_pos": 3339,
+      "text": "    \n    \n        \n\n\n\n\n    \n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0217.png"
+}

@@ -1,0 +1,214 @@
+{
+  "page_num": 573,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0573_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9085049629211426,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0573_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1467,
+          152
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9179902672767639,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TẬN, KỲ HUYỆT",
+      "confidence": 0.9979400253295898
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0573_004_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          325
+        ],
+        [
+          916,
+          325
+        ],
+        [
+          916,
+          382
+        ],
+        [
+          226,
+          382
+        ]
+      ],
+      "score": 0.6693221926689148,
+      "y_pos": 325,
+      "text": "Phần 20. BÊNH VÙNG BUNG",
+      "confidence": 0.7775709414482117
+    },
+    {
+      "type": "text",
+      "img_path": "p0573_007_text.png",
+      "bbox": [
+        [
+          229,
+          603
+        ],
+        [
+          1066,
+          603
+        ],
+        [
+          1066,
+          657
+        ],
+        [
+          229,
+          657
+        ]
+      ],
+      "score": 0.5098140835762024,
+      "y_pos": 603,
+      "text": "277. Đau bụng dưới: Đề thác huyệt.",
+      "confidence": 0.9988184736834632
+    },
+    {
+      "type": "text",
+      "img_path": "p0573_005_text.png",
+      "bbox": [
+        [
+          228,
+          695
+        ],
+        [
+          1336,
+          695
+        ],
+        [
+          1336,
+          749
+        ],
+        [
+          228,
+          749
+        ]
+      ],
+      "score": 0.5309362411499023,
+      "y_pos": 695,
+      "text": "278. Đau co thắt bụng dưới: Duy hào, Khí môn.",
+      "confidence": 0.9993717962122978
+    },
+    {
+      "type": "text",
+      "img_path": "p0573_006_text.png",
+      "bbox": [
+        [
+          229,
+          787
+        ],
+        [
+          1355,
+          787
+        ],
+        [
+          1355,
+          840
+        ],
+        [
+          229,
+          840
+        ]
+      ],
+      "score": 0.5239977836608887,
+      "y_pos": 787,
+      "text": "279. Bệnh nội tạng trong bụng: Giáp tích D5-L5.",
+      "confidence": 0.9505105663319023
+    },
+    {
+      "type": "number",
+      "img_path": "p0573_003_number.png",
+      "bbox": [
+        [
+          2316,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3373
+        ],
+        [
+          2316,
+          3373
+        ]
+      ],
+      "score": 0.8645749092102051,
+      "y_pos": 3337,
+      "text": "    \n        \n    \n\n\n        \n    \n\n    \n    \n    \n    \n    ۰\n\n۰\n",
+      "confidence": 0.9586832746863365
+    },
+    {
+      "type": "footer",
+      "img_path": "p0573_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1325,
+          3341
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9065731763839722,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987242975324955
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0573.png"
+}

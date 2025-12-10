@@ -1,0 +1,110 @@
+{
+  "page_num": 174,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0174_002_text.png",
+      "bbox": [
+        [
+          513,
+          456
+        ],
+        [
+          1064,
+          456
+        ],
+        [
+          1064,
+          761
+        ],
+        [
+          513,
+          761
+        ]
+      ],
+      "score": 0.5824279189109802,
+      "y_pos": 456,
+      "text": "B. Ăn uống thất thường\nC. Tình chí bất thường\nD. Phòng duc quá đô\nE. Lao tổn",
+      "confidence": 0.9593897438829854
+    },
+    {
+      "type": "text",
+      "img_path": "p0174_003_text.png",
+      "bbox": [
+        [
+          513,
+          2360
+        ],
+        [
+          1082,
+          2360
+        ],
+        [
+          1082,
+          2745
+        ],
+        [
+          513,
+          2745
+        ]
+      ],
+      "score": 0.5267777442932129,
+      "y_pos": 2360,
+      "text": "A. Mệt mỏi\nB. Tay chân lạnh giá\nC. Ho hen\nD. Đau nhức khắp người\nE. Bút rút vật vã",
+      "confidence": 0.9618551910113681
+    },
+    {
+      "type": "number",
+      "img_path": "p0174_001_number.png",
+      "bbox": [
+        [
+          2043,
+          3110
+        ],
+        [
+          2122,
+          3110
+        ],
+        [
+          2122,
+          3148
+        ],
+        [
+          2043,
+          3148
+        ]
+      ],
+      "score": 0.8536076545715332,
+      "y_pos": 3110,
+      "text": "\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0174_000_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1074,
+          3311
+        ],
+        [
+          1074,
+          3367
+        ],
+        [
+          294,
+          3367
+        ]
+      ],
+      "score": 0.9156400561332703,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8891090188707624
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0174.png"
+}

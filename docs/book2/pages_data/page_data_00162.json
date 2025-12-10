@@ -1,0 +1,760 @@
+{
+  "page_num": 162,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0162_008_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9344134330749512,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7643314777385621
+    },
+    {
+      "type": "header",
+      "img_path": "p0162_009_header.png",
+      "bbox": [
+        [
+          228,
+          155
+        ],
+        [
+          905,
+          155
+        ],
+        [
+          905,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9169837832450867,
+      "y_pos": 155,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9866287461642561
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0162_014_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          349
+        ],
+        [
+          444,
+          349
+        ],
+        [
+          444,
+          397
+        ],
+        [
+          226,
+          397
+        ]
+      ],
+      "score": 0.9080086350440979,
+      "y_pos": 349,
+      "text": "21. Vi du",
+      "confidence": 0.6998312852599404
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_024_text.png",
+      "bbox": [
+        [
+          289,
+          437
+        ],
+        [
+          1611,
+          437
+        ],
+        [
+          1611,
+          495
+        ],
+        [
+          289,
+          495
+        ]
+      ],
+      "score": 0.8776983618736267,
+      "y_pos": 437,
+      "text": "Vị trí: Dưới đốt sống lưng 12 sang ngang mỗi bên 1,5 thốn",
+      "confidence": 0.9972860156479528
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_023_text.png",
+      "bbox": [
+        [
+          287,
+          530
+        ],
+        [
+          1597,
+          530
+        ],
+        [
+          1597,
+          587
+        ],
+        [
+          287,
+          587
+        ]
+      ],
+      "score": 0.8931679129600525,
+      "y_pos": 530,
+      "text": "Cách lấy huyệt: Ngồi ngay hay nằm sấp lấy huyệt (H. 68)",
+      "confidence": 0.7123752748757078
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_012_text.png",
+      "bbox": [
+        [
+          286,
+          623
+        ],
+        [
+          1990,
+          623
+        ],
+        [
+          1990,
+          675
+        ],
+        [
+          286,
+          675
+        ]
+      ],
+      "score": 0.9089285731315613,
+      "y_pos": 623,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3-0,5 thốn. Cứu 5 mồi, hơ từ 5-20 phút.",
+      "confidence": 0.9913230183189863
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_021_text.png",
+      "bbox": [
+        [
+          286,
+          716
+        ],
+        [
+          2184,
+          716
+        ],
+        [
+          2184,
+          770
+        ],
+        [
+          286,
+          770
+        ]
+      ],
+      "score": 0.9000162482261658,
+      "y_pos": 716,
+      "text": "Chủ trị: Trướng bụng, sôi bụng, đau dạ dày, nôn mửa, la chảy, sa dạ dày, viêm gan.",
+      "confidence": 0.9820092128855842
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_025_text.png",
+      "bbox": [
+        [
+          288,
+          807
+        ],
+        [
+          2106,
+          807
+        ],
+        [
+          2106,
+          863
+        ],
+        [
+          288,
+          863
+        ]
+      ],
+      "score": 0.8735647201538086,
+      "y_pos": 807,
+      "text": "Tác dụng phối hợp: Với Tỳ du, Trung quản, Túc tam lý trị viêm dạ dày mạn tính.",
+      "confidence": 0.9920327294617891
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0162_015_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          898
+        ],
+        [
+          605,
+          898
+        ],
+        [
+          605,
+          945
+        ],
+        [
+          227,
+          945
+        ]
+      ],
+      "score": 0.9078072905540466,
+      "y_pos": 898,
+      "text": "22. Tam tiêu du",
+      "confidence": 0.863562590935651
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_006_text.png",
+      "bbox": [
+        [
+          282,
+          987
+        ],
+        [
+          2358,
+          987
+        ],
+        [
+          2358,
+          1115
+        ],
+        [
+          282,
+          1115
+        ]
+      ],
+      "score": 0.9371525645256042,
+      "y_pos": 987,
+      "text": "Vị trí: Dưới đốt lưng 13 (đốt thắt lưng số 1) sang ngang mỗi bên 1,5 thốn. Ngồi ngay hay\nnằm sấp lấy huyệt (H. 68).",
+      "confidence": 0.9954528757977107
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_004_text.png",
+      "bbox": [
+        [
+          282,
+          1149
+        ],
+        [
+          2356,
+          1149
+        ],
+        [
+          2356,
+          1274
+        ],
+        [
+          282,
+          1274
+        ]
+      ],
+      "score": 0.9441907405853271,
+      "y_pos": 1149,
+      "text": "Cách châm: Châm đứng kim, hay hơi chếch kim xuống dưới, sâu 0,5-0,8 thốn. Cứu 3-5 mồi,\nhơ 5-10 phút.",
+      "confidence": 0.9651192449710586
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_020_text.png",
+      "bbox": [
+        [
+          287,
+          1315
+        ],
+        [
+          1168,
+          1315
+        ],
+        [
+          1168,
+          1369
+        ],
+        [
+          287,
+          1369
+        ]
+      ],
+      "score": 0.9011902809143066,
+      "y_pos": 1315,
+      "text": "Chủ trị: Đái dầm, ỉa chảy, ly, đau lưng.",
+      "confidence": 0.7561574706009456
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_026_text.png",
+      "bbox": [
+        [
+          287,
+          1406
+        ],
+        [
+          2310,
+          1406
+        ],
+        [
+          2310,
+          1463
+        ],
+        [
+          287,
+          1463
+        ]
+      ],
+      "score": 0.8670754432678223,
+      "y_pos": 1406,
+      "text": "<i>Tác dụng phối hợp:</i> Với <i>Khí hải, Đại trường du, Túc tam lý</i> chữa viêm thận cấp, mạn tính.",
+      "confidence": 0.9919562448737442
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0162_016_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1498
+        ],
+        [
+          523,
+          1498
+        ],
+        [
+          523,
+          1548
+        ],
+        [
+          227,
+          1548
+        ]
+      ],
+      "score": 0.9069738984107971,
+      "y_pos": 1498,
+      "text": "23. Thân du",
+      "confidence": 0.9283781005786016
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_003_text.png",
+      "bbox": [
+        [
+          283,
+          1586
+        ],
+        [
+          2359,
+          1586
+        ],
+        [
+          2359,
+          1715
+        ],
+        [
+          283,
+          1715
+        ]
+      ],
+      "score": 0.9516933560371399,
+      "y_pos": 1586,
+      "text": "Vị trí: Dưới đốt lưng 14 (đốt thắt lưng số 2) sang ngang mỗi bên 1,5 thốn, Ngồi ngay hay\nnằm sấp lấy huyệt (H. 68).",
+      "confidence": 0.9960886447439118
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_027_text.png",
+      "bbox": [
+        [
+          285,
+          1751
+        ],
+        [
+          1983,
+          1751
+        ],
+        [
+          1983,
+          1805
+        ],
+        [
+          285,
+          1805
+        ]
+      ],
+      "score": 0.86655592918396,
+      "y_pos": 1751,
+      "text": "Cách châm: Châm đứng kim, sâu 0,5-0,8 thốn. Cứu 5 mồi, hơ từ 5-20 phút",
+      "confidence": 0.9948046166035864
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_005_text.png",
+      "bbox": [
+        [
+          283,
+          1843
+        ],
+        [
+          2358,
+          1843
+        ],
+        [
+          2358,
+          1969
+        ],
+        [
+          283,
+          1969
+        ]
+      ],
+      "score": 0.9393405318260193,
+      "y_pos": 1843,
+      "text": "Chủ trị: Sáng sớm la chảy (ngũ canh tiết), lưng và cột sống đau, đái dầm, di tinh, liệt dương,\ntai ù, phù thũng, kinh nguyệt không đều, đau bụng hành kinh, bế kinh, đái ra máu, khí hư.",
+      "confidence": 0.9929338827824745
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_007_text.png",
+      "bbox": [
+        [
+          284,
+          2005
+        ],
+        [
+          2363,
+          2005
+        ],
+        [
+          2363,
+          2129
+        ],
+        [
+          284,
+          2129
+        ]
+      ],
+      "score": 0.935739278793335,
+      "y_pos": 2005,
+      "text": "Tác dụng phối hợp: Với Mệnh môn, Tâm âm giao trị liệt dương, di tinh, đái dầm; với Tâm\ndu trị bệnh đái nhiều ở người già.",
+      "confidence": 0.9921656268827542
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0162_010_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2169
+        ],
+        [
+          566,
+          2169
+        ],
+        [
+          566,
+          2214
+        ],
+        [
+          227,
+          2214
+        ]
+      ],
+      "score": 0.9095269441604614,
+      "y_pos": 2169,
+      "text": "24. Khí hải du",
+      "confidence": 0.954197596758604
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_002_text.png",
+      "bbox": [
+        [
+          282,
+          2256
+        ],
+        [
+          2360,
+          2256
+        ],
+        [
+          2360,
+          2385
+        ],
+        [
+          282,
+          2385
+        ]
+      ],
+      "score": 0.9538062810897827,
+      "y_pos": 2256,
+      "text": "Vị trí: Dưới đốt sống lưng 15 (đốt thắt lưng số 3) sang ngang 1,5 thốn. Ngồi ngay hay nằm\nsấp lấy huyệt (H. 68).",
+      "confidence": 0.9961575073746098
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_019_text.png",
+      "bbox": [
+        [
+          285,
+          2421
+        ],
+        [
+          1572,
+          2421
+        ],
+        [
+          1572,
+          2474
+        ],
+        [
+          285,
+          2474
+        ]
+      ],
+      "score": 0.9025602340698242,
+      "y_pos": 2421,
+      "text": "Cách châm: Châm đứng kim, sâu 1-1,5 thốn. Cứu 5 mồi.",
+      "confidence": 0.9945629824090887
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_022_text.png",
+      "bbox": [
+        [
+          288,
+          2516
+        ],
+        [
+          781,
+          2516
+        ],
+        [
+          781,
+          2568
+        ],
+        [
+          288,
+          2568
+        ]
+      ],
+      "score": 0.8940269351005554,
+      "y_pos": 2516,
+      "text": "Chủ trị: Đau lưng, trĩ.",
+      "confidence": 0.4859605515003204
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0162_018_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2607
+        ],
+        [
+          662,
+          2607
+        ],
+        [
+          662,
+          2658
+        ],
+        [
+          226,
+          2658
+        ]
+      ],
+      "score": 0.9041702747344971,
+      "y_pos": 2607,
+      "text": "25. Đại trường du",
+      "confidence": 0.9567026464562667
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_000_text.png",
+      "bbox": [
+        [
+          282,
+          2695
+        ],
+        [
+          2359,
+          2695
+        ],
+        [
+          2359,
+          2823
+        ],
+        [
+          282,
+          2823
+        ]
+      ],
+      "score": 0.9583351016044617,
+      "y_pos": 2695,
+      "text": "Vị trí: Dưới đốt sống lưng 16 (đốt thắt lưng 4) sang ngang mỗi bên 1,5 thốn. Ngồi ngay ngắn\nhay nằm sấp lấy huyệt (H. 68).",
+      "confidence": 0.9957861981044214
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_017_text.png",
+      "bbox": [
+        [
+          284,
+          2860
+        ],
+        [
+          1931,
+          2860
+        ],
+        [
+          1931,
+          2913
+        ],
+        [
+          284,
+          2913
+        ]
+      ],
+      "score": 0.9053635597229004,
+      "y_pos": 2860,
+      "text": "Cách châm: Châm đứng kim, sâu 0,5-1 thốn. Cứu 3-5 mồi, hơ 5-10 phút.",
+      "confidence": 0.9933046638965607
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_013_text.png",
+      "bbox": [
+        [
+          286,
+          2954
+        ],
+        [
+          1157,
+          2954
+        ],
+        [
+          1157,
+          3005
+        ],
+        [
+          286,
+          3005
+        ]
+      ],
+      "score": 0.9085486531257629,
+      "y_pos": 2954,
+      "text": "Chủ trị: Đau lưng, la chảy, ly, táo bón.",
+      "confidence": 0.6347544306800479
+    },
+    {
+      "type": "text",
+      "img_path": "p0162_001_text.png",
+      "bbox": [
+        [
+          281,
+          3044
+        ],
+        [
+          2361,
+          3044
+        ],
+        [
+          2361,
+          3169
+        ],
+        [
+          281,
+          3169
+        ]
+      ],
+      "score": 0.9576587677001953,
+      "y_pos": 3044,
+      "text": "<b>Tác dụng phối hợp:</b> Với <i>Túc tam lý</i> trị ỉa chảy, đau bụng; với <i>Mệnh môn</i> hoặc <i>Dương quan</i>\ntrị đau lưng.",
+      "confidence": 0.8952154788531754
+    },
+    {
+      "type": "footer",
+      "img_path": "p0162_011_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9092977046966553,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0162_028_number.png",
+      "bbox": [
+        [
+          2301,
+          3340
+        ],
+        [
+          2351,
+          3340
+        ],
+        [
+          2351,
+          3377
+        ],
+        [
+          2301,
+          3377
+        ]
+      ],
+      "score": 0.8616046905517578,
+      "y_pos": 3340,
+      "text": "    \n    \n    \n\n\n\n    \n\n\n    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0162.png"
+}

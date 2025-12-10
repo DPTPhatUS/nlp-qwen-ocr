@@ -1,0 +1,578 @@
+{
+  "page_num": 389,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0389_011_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1678,
+          196
+        ]
+      ],
+      "score": 0.9229830503463745,
+      "y_pos": 142,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7456070706248283
+    },
+    {
+      "type": "header",
+      "img_path": "p0389_015_header.png",
+      "bbox": [
+        [
+          228,
+          147
+        ],
+        [
+          1096,
+          147
+        ],
+        [
+          1096,
+          197
+        ],
+        [
+          228,
+          197
+        ]
+      ],
+      "score": 0.8993173241615295,
+      "y_pos": 147,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SẮNG",
+      "confidence": 0.7547288009098598
+    },
+    {
+      "type": "text",
+      "img_path": "p0389_012_text.png",
+      "bbox": [
+        [
+          226,
+          309
+        ],
+        [
+          1282,
+          309
+        ],
+        [
+          1282,
+          360
+        ],
+        [
+          226,
+          360
+        ]
+      ],
+      "score": 0.921912670135498,
+      "y_pos": 309,
+      "text": "- Thuộc hàn: <i>Trung quản</i>, châm xong phải cứu.",
+      "confidence": 0.9609676239391168
+    },
+    {
+      "type": "text",
+      "img_path": "p0389_010_text.png",
+      "bbox": [
+        [
+          225,
+          398
+        ],
+        [
+          1374,
+          398
+        ],
+        [
+          1374,
+          451
+        ],
+        [
+          225,
+          451
+        ]
+      ],
+      "score": 0.9259054660797119,
+      "y_pos": 398,
+      "text": "- Can vị bất hoà: Gia <i>Dương lăng tuyền, Thái xung</i>.",
+      "confidence": 0.9316781648883113
+    },
+    {
+      "type": "text",
+      "img_path": "p0389_009_text.png",
+      "bbox": [
+        [
+          227,
+          491
+        ],
+        [
+          1083,
+          491
+        ],
+        [
+          1083,
+          542
+        ],
+        [
+          227,
+          542
+        ]
+      ],
+      "score": 0.9325647950172424,
+      "y_pos": 491,
+      "text": "- Tỳ hư: Gia cứu <i>Chương môn, Tỳ du.</i>",
+      "confidence": 0.9292490803278409
+    },
+    {
+      "type": "text",
+      "img_path": "p0389_014_text.png",
+      "bbox": [
+        [
+          226,
+          582
+        ],
+        [
+          1190,
+          582
+        ],
+        [
+          1190,
+          633
+        ],
+        [
+          226,
+          633
+        ]
+      ],
+      "score": 0.9047436714172363,
+      "y_pos": 582,
+      "text": "b. Nhĩ châm: Vi, Tỳ, Giao cảm, Thần môn.",
+      "confidence": 0.65028477424667
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0389_017_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          674
+        ],
+        [
+          713,
+          674
+        ],
+        [
+          713,
+          725
+        ],
+        [
+          226,
+          725
+        ]
+      ],
+      "score": 0.7887762784957886,
+      "y_pos": 674,
+      "text": "2. Biện chứng thí trị",
+      "confidence": 0.9708292562028636
+    },
+    {
+      "type": "text",
+      "img_path": "p0389_008_text.png",
+      "bbox": [
+        [
+          222,
+          764
+        ],
+        [
+          2359,
+          764
+        ],
+        [
+          2359,
+          889
+        ],
+        [
+          222,
+          889
+        ]
+      ],
+      "score": 0.9661652445793152,
+      "y_pos": 764,
+      "text": "Nhằm vào bệnh lý chủ yếu của bệnh, cách chữa phải hoà vị giáng nghịch là chủ yếu, kiêm phân\nbiệt chứng hư, thực hàn, nhiệt khác nhau, gia giảm mà chữa.",
+      "confidence": 0.9957792743706901
+    },
+    {
+      "type": "text",
+      "img_path": "p0389_018_text.png",
+      "bbox": [
+        [
+          225,
+          926
+        ],
+        [
+          1217,
+          926
+        ],
+        [
+          1217,
+          978
+        ],
+        [
+          225,
+          978
+        ]
+      ],
+      "score": 0.7733361721038818,
+      "y_pos": 926,
+      "text": "Bài thuốc: Tiểu bán hạ gia Phục linh thang.",
+      "confidence": 0.9425965123706394
+    },
+    {
+      "type": "text",
+      "img_path": "p0389_021_text.png",
+      "bbox": [
+        [
+          228,
+          1018
+        ],
+        [
+          1700,
+          1018
+        ],
+        [
+          1700,
+          1073
+        ],
+        [
+          228,
+          1073
+        ]
+      ],
+      "score": 0.6333746910095215,
+      "y_pos": 1018,
+      "text": "Bán ha    3 đồng cân,    Sinh khương    3 đồng cân,",
+      "confidence": 0.9515651634965951
+    },
+    {
+      "type": "text",
+      "img_path": "p0389_020_text.png",
+      "bbox": [
+        [
+          228,
+          1111
+        ],
+        [
+          1697,
+          1111
+        ],
+        [
+          1697,
+          1165
+        ],
+        [
+          228,
+          1165
+        ]
+      ],
+      "score": 0.6460999846458435,
+      "y_pos": 1111,
+      "text": "Phuc linh    3 đông cân,    Trần bì    3 đồng cân.",
+      "confidence": 0.9299203759607828
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0389_019_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1203
+        ],
+        [
+          467,
+          1203
+        ],
+        [
+          467,
+          1254
+        ],
+        [
+          227,
+          1254
+        ]
+      ],
+      "score": 0.7654531598091125,
+      "y_pos": 1203,
+      "text": "Gia giám:",
+      "confidence": 0.8762465010989796
+    },
+    {
+      "type": "text",
+      "img_path": "p0389_001_text.png",
+      "bbox": [
+        [
+          223,
+          1295
+        ],
+        [
+          2360,
+          1295
+        ],
+        [
+          2360,
+          1489
+        ],
+        [
+          223,
+          1489
+        ]
+      ],
+      "score": 0.9774887561798096,
+      "y_pos": 1295,
+      "text": "a. Do ngoại cảm phong hàn kiêm sợ lạnh, phát sốt, buồn bằn trong ngực, bụng trướng, rêu lưỡi\nmỏng, mạch phù (sờ nhẹ đã thấy, ấn nặng thì mất), thì gia: <i>Hoắc hương</i> 3 đồng cân, <i>Tử tô</i> 3\nđồng cân, <i>Xuyên phác</i> 1,5 đồng cân.",
+      "confidence": 0.9917536913925874
+    },
+    {
+      "type": "text",
+      "img_path": "p0389_004_text.png",
+      "bbox": [
+        [
+          222,
+          1526
+        ],
+        [
+          2361,
+          1526
+        ],
+        [
+          2361,
+          1722
+        ],
+        [
+          222,
+          1722
+        ]
+      ],
+      "score": 0.9763363599777222,
+      "y_pos": 1526,
+      "text": "b. Do ngoại cảm thử thấp có kiêm thấy ngực buồn bằn, bụng trên đầy tức, bứt rứt, miệng khát,\nrêu lưỡi mỏng và vàng trơn, gia <i>Hoắc hương</i> 3 đồng cân, <i>Bội lan</i> 3 đồng cân, <i>Hoàng liên</i> 8\nphần, <i>Trúc nhự</i> 3 đồng cân.",
+      "confidence": 0.8355434319696217
+    },
+    {
+      "type": "text",
+      "img_path": "p0389_003_text.png",
+      "bbox": [
+        [
+          223,
+          1760
+        ],
+        [
+          2366,
+          1760
+        ],
+        [
+          2366,
+          1955
+        ],
+        [
+          223,
+          1955
+        ]
+      ],
+      "score": 0.9766864776611328,
+      "y_pos": 1760,
+      "text": "c. Do ăn uống đình trệ, nôn ra đồ ăn chua hôi, bụng trên trướng đầy, ợ hơi nóng, phân lỏng\nhoặc táo, rêu lưỡi vàng trơn, mạch hoạt gia <i>Tiêu lục khúc</i> 3 đồng cân, <i>Sơn tra</i> 3 đồng cân, <i>Lai</i>\n<i>phục tử</i> 3 đồng cân.",
+      "confidence": 0.9453030866056933
+    },
+    {
+      "type": "text",
+      "img_path": "p0389_007_text.png",
+      "bbox": [
+        [
+          224,
+          1992
+        ],
+        [
+          2357,
+          1992
+        ],
+        [
+          2357,
+          2117
+        ],
+        [
+          224,
+          2117
+        ]
+      ],
+      "score": 0.9662535190582275,
+      "y_pos": 1992,
+      "text": "d. Nếu bụng trướng rất dữ hoặc kèm có đau bụng, phân táo bón, lại gia Chỉ thực 3 đồng cân,\nSinh đại hoàng 3 đồng cân.",
+      "confidence": 0.9179269817675123
+    },
+    {
+      "type": "text",
+      "img_path": "p0389_002_text.png",
+      "bbox": [
+        [
+          223,
+          2156
+        ],
+        [
+          2360,
+          2156
+        ],
+        [
+          2360,
+          2351
+        ],
+        [
+          223,
+          2351
+        ]
+      ],
+      "score": 0.9774252772331238,
+      "y_pos": 2156,
+      "text": "đ. Do đàm ẩm nội đình mà nôn nước trong hoặc đờm dãi, bụng trên buồn bằn không muốn ăn,\nđầu choáng, hồi hộp, rêu lưỡi trắng trơn, mạch hoạt, gia <i>Quế chi</i> 1 đồng cân, <i>Bạch truật</i> 3 đồng\ncân, <i>Xuyên phác</i> 1,5 đồng cân.",
+      "confidence": 0.9948701916932517
+    },
+    {
+      "type": "text",
+      "img_path": "p0389_006_text.png",
+      "bbox": [
+        [
+          222,
+          2391
+        ],
+        [
+          2361,
+          2391
+        ],
+        [
+          2361,
+          2586
+        ],
+        [
+          222,
+          2586
+        ]
+      ],
+      "score": 0.9757673144340515,
+      "y_pos": 2391,
+      "text": "e. Do Can khí phạm vị mà ợ chua, ợ nóng, bụng trên và sườn trướng đau, buồn bằn bứt rứt\nkhông thư, miệng khô đắng, ven lưỡi hồng, rêu lưỡi mỏng trơn, mạch huyền, gia: <i>Tô ngạnh</i> 3\nđồng cân, <i>Hoàng liên</i> 5 phân đến 1 đồng cân, <i>Ngô thù</i> 5 phân.",
+      "confidence": 0.9975569160458474
+    },
+    {
+      "type": "text",
+      "img_path": "p0389_000_text.png",
+      "bbox": [
+        [
+          221,
+          2622
+        ],
+        [
+          2362,
+          2622
+        ],
+        [
+          2362,
+          2890
+        ],
+        [
+          221,
+          2890
+        ]
+      ],
+      "score": 0.9816173315048218,
+      "y_pos": 2622,
+      "text": "g. Nếu do Tỳ vị hư hàn mà sắc mặt trắng bợt, mệt mỏi không có sức, chân tay không ấm, bụng\ntrên lạnh, nôn ra nước trong và ít đồ ăn, khi nôn, khi dừng, phân lỏng nát, chất lưỡi nhạt, rêu\nlưỡi trơn, mạch tế, thì bỏ <i>Sinh khương</i>, gia <i>Đảng sâm</i> 3 đồng cân, <i>Bạch truật</i> 3 đồng cân, <i>Can</i>\nkhương 1 đồng cân, <i>Chế phụ tử phiến</i> 1,5 đồng cân, <i>Chích cam thảo</i> 1 đồng cân.",
+      "confidence": 0.9958868841961263
+    },
+    {
+      "type": "text",
+      "img_path": "p0389_005_text.png",
+      "bbox": [
+        [
+          223,
+          2926
+        ],
+        [
+          2363,
+          2926
+        ],
+        [
+          2363,
+          3123
+        ],
+        [
+          223,
+          3123
+        ]
+      ],
+      "score": 0.9760836362838745,
+      "y_pos": 2926,
+      "text": "h. Do Vị âm bất túc, miệng khô, họng khan, nôn khan, đến bữa không muốn ăn, bí ỉa, lưỡi đỏ ít\nbọt, mạch tế, sác, bỏ <i>Sinh khương</i>, gia <i>Bắc sa sâm</i> 3 đồng cân, <i>Mạch môn</i> 3 đồng cân, <i>Thạch</i>\nhộc 3 đồng cân, <i>Trúc nhự</i> 3 đồng cân, <i>Chích cam thảo</i> 1 đồng cân.",
+      "confidence": 0.8896320846371361
+    },
+    {
+      "type": "number",
+      "img_path": "p0389_016_number.png",
+      "bbox": [
+        [
+          2306,
+          3335
+        ],
+        [
+          2357,
+          3335
+        ],
+        [
+          2357,
+          3371
+        ],
+        [
+          2306,
+          3371
+        ]
+      ],
+      "score": 0.8753523826599121,
+      "y_pos": 3335,
+      "text": "    \n    \n        \n    \n    \n    \n    \n    \n    \n    ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0389_013_footer.png",
+      "bbox": [
+        [
+          228,
+          3336
+        ],
+        [
+          1343,
+          3336
+        ],
+        [
+          1343,
+          3383
+        ],
+        [
+          228,
+          3383
+        ]
+      ],
+      "score": 0.9056878089904785,
+      "y_pos": 3336,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9415562085385593
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0389.png"
+}

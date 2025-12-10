@@ -1,0 +1,316 @@
+{
+  "page_num": 88,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0088_005_header.png",
+      "bbox": [
+        [
+          1606,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          202
+        ],
+        [
+          1606,
+          202
+        ]
+      ],
+      "score": 0.9182983636856079,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7400914178717704
+    },
+    {
+      "type": "header",
+      "img_path": "p0088_008_header.png",
+      "bbox": [
+        [
+          230,
+          159
+        ],
+        [
+          442,
+          159
+        ],
+        [
+          442,
+          202
+        ],
+        [
+          230,
+          202
+        ]
+      ],
+      "score": 0.8907462358474731,
+      "y_pos": 159,
+      "text": "KINH LAC",
+      "confidence": 0.6718200981616974
+    },
+    {
+      "type": "text",
+      "img_path": "p0088_002_text.png",
+      "bbox": [
+        [
+          338,
+          311
+        ],
+        [
+          2358,
+          311
+        ],
+        [
+          2358,
+          517
+        ],
+        [
+          338,
+          517
+        ]
+      ],
+      "score": 0.9700700640678406,
+      "y_pos": 311,
+      "text": "Mạch nhánh ở ngực, từ trong ngực phân bố ra xương sườn, đến dưới hố nách, đi ra giữa\ncạnh trong cánh tay, vào giữa khớp khuỷu tay, ra cẳng tay, ở giữa cơ gấp cổ tay, cơ quan\nvà cơ dài tiến vào giữa lòng bàn tay, ven theo cạnh trong ngón giữa ra đầu ngón tay.",
+      "confidence": 0.9991836548467631
+    },
+    {
+      "type": "text",
+      "img_path": "p0088_003_text.png",
+      "bbox": [
+        [
+          338,
+          555
+        ],
+        [
+          2359,
+          555
+        ],
+        [
+          2359,
+          688
+        ],
+        [
+          338,
+          688
+        ]
+      ],
+      "score": 0.9571612477302551,
+      "y_pos": 555,
+      "text": "Phân nhánh ở giữa long bàn tay, từ huyệt lao cung phân ra ven theo ngón tay đeo nhẫn\n(ngón 4), ở cạnh ngoài ngón (huyệt Quan xung).",
+      "confidence": 0.9977826764590518
+    },
+    {
+      "type": "text",
+      "img_path": "p0088_010_text.png",
+      "bbox": [
+        [
+          282,
+          727
+        ],
+        [
+          2309,
+          727
+        ],
+        [
+          2309,
+          781
+        ],
+        [
+          282,
+          781
+        ]
+      ],
+      "score": 0.7661144137382507,
+      "y_pos": 727,
+      "text": "b. Quan hệ tạng phủ: Kinh này đi từ ngực ra, thuộc về tâm bào, đường lạc sang tam tiêu,",
+      "confidence": 0.39603717039140424
+    },
+    {
+      "type": "text",
+      "img_path": "p0088_004_text.png",
+      "bbox": [
+        [
+          284,
+          823
+        ],
+        [
+          2358,
+          823
+        ],
+        [
+          2358,
+          953
+        ],
+        [
+          284,
+          953
+        ]
+      ],
+      "score": 0.9245467782020569,
+      "y_pos": 823,
+      "text": "c. Chủ trị: Lòng bàn tay phát nóng, cẳng tay và khớp khuỷu co rút, hố nách sưng, sườn\nngực đầy tức, tim đập mạnh, mặt đỏ.",
+      "confidence": 0.9965793246362253
+    },
+    {
+      "type": "image",
+      "img_path": "p0088_001_image.png",
+      "bbox": [
+        [
+          822,
+          1000
+        ],
+        [
+          1892,
+          1000
+        ],
+        [
+          1892,
+          2346
+        ],
+        [
+          822,
+          2346
+        ]
+      ],
+      "score": 0.9738215804100037,
+      "y_pos": 1000
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0088_006_figure_title.png",
+      "bbox": [
+        [
+          733,
+          2460
+        ],
+        [
+          1964,
+          2460
+        ],
+        [
+          1964,
+          2511
+        ],
+        [
+          733,
+          2511
+        ]
+      ],
+      "score": 0.9031096696853638,
+      "y_pos": 2460,
+      "text": "Hình 16. Đường tuần hành của kinh Thủ quyết âm tâm bào",
+      "confidence": 0.916994646191597
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0088_011_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          2548
+        ],
+        [
+          1262,
+          2548
+        ],
+        [
+          1262,
+          2602
+        ],
+        [
+          284,
+          2602
+        ]
+      ],
+      "score": 0.7549499869346619,
+      "y_pos": 2548,
+      "text": "10. Thủ thiếu dương tam tiêu kinh (H.17)",
+      "confidence": 0.9976828963983626
+    },
+    {
+      "type": "text",
+      "img_path": "p0088_000_text.png",
+      "bbox": [
+        [
+          284,
+          2643
+        ],
+        [
+          2358,
+          2643
+        ],
+        [
+          2358,
+          3152
+        ],
+        [
+          284,
+          3152
+        ]
+      ],
+      "score": 0.9848132729530334,
+      "y_pos": 2643,
+      "text": "a. Cấu trúc: Gồm 23 huyệt, hai bên là 46 huyệt. Kinh mạch tuần hành từ đầu cạnh ngón\nngoài ngón tay đeo nhẫn (<i>Quan xung</i>), đi lên giữa khe xương bàn 4 – 5 trên mu bàn tay,\nven theo lên giữa cổ tay, tiếp tục đi lên phía ngoài cẳng tay, giữa xương trụ và xương\nquay, đi lên qua mỏm khuỷu, lên cạnh ngoài cánh tay đến vai, giao hội với túc thiếu\ndương đảm kinh ở mặt sau, phía trước tiến vào lõm vai, phân bố xuống giữa hai vú, mạch\nkhí chia ra nối liền với tâm bào, hướng xuống qua cơ hoành, từ ngực đến bụng, vào tới\nthượng tiêu, trung tiêu, hạ tiêu.",
+      "confidence": 0.9967877385053538
+    },
+    {
+      "type": "footer",
+      "img_path": "p0088_007_footer.png",
+      "bbox": [
+        [
+          227,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.8929976224899292,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.952197735039693
+    },
+    {
+      "type": "number",
+      "img_path": "p0088_009_number.png",
+      "bbox": [
+        [
+          2335,
+          3338
+        ],
+        [
+          2383,
+          3338
+        ],
+        [
+          2383,
+          3374
+        ],
+        [
+          2335,
+          3374
+        ]
+      ],
+      "score": 0.85071861743927,
+      "y_pos": 3338,
+      "text": "    \n\n\n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0088.png"
+}

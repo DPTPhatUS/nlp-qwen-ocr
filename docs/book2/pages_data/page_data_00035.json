@@ -1,0 +1,162 @@
+{
+  "page_num": 35,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0035_002_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9187228083610535,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7576541084618795
+    },
+    {
+      "type": "header",
+      "img_path": "p0035_003_header.png",
+      "bbox": [
+        [
+          228,
+          155
+        ],
+        [
+          764,
+          155
+        ],
+        [
+          764,
+          201
+        ],
+        [
+          228,
+          201
+        ]
+      ],
+      "score": 0.9085883498191833,
+      "y_pos": 155,
+      "text": "BÁT CƯƠNG BIÊN CHỨNG",
+      "confidence": 0.9848193797198209
+    },
+    {
+      "type": "text",
+      "img_path": "p0035_001_text.png",
+      "bbox": [
+        [
+          279,
+          301
+        ],
+        [
+          2358,
+          301
+        ],
+        [
+          2358,
+          488
+        ],
+        [
+          279,
+          488
+        ]
+      ],
+      "score": 0.9687772989273071,
+      "y_pos": 301,
+      "text": "mà biểu chứng, chua giải, tà đã chuyển vào lý; hai là vốn có bệnh nội thương, lại mới bị\nbệnh ngoại cảm. Cái trước, nên giải cả biểu và lý một lúc (song giải), cái sau, phải trị trước\nbệnh ngoại cảm mới mắc.",
+      "confidence": 0.9969644985872286
+    },
+    {
+      "type": "text",
+      "img_path": "p0035_000_text.png",
+      "bbox": [
+        [
+          279,
+          511
+        ],
+        [
+          2359,
+          511
+        ],
+        [
+          2359,
+          769
+        ],
+        [
+          279,
+          769
+        ]
+      ],
+      "score": 0.9742493033409119,
+      "y_pos": 511,
+      "text": "Yếu điểm để phân biệt biểu chứng và lý chứng: Nhất loạt bệnh sốt chủ yếu phải phân biệt\nrõ phát sốtlà không kèm hay có kem sợ lạnh, chất lưỡi là nhạt hay là hồng, mạch tượng là\nphù hay là trầm. Phát sốt không sợ lạnh, lưỡi hồng, rêu lưỡi vàng, mạch trầm (hoặc sác),\nthuộc lý chứng.",
+      "confidence": 0.9969264565261264
+    },
+    {
+      "type": "footer",
+      "img_path": "p0035_004_footer.png",
+      "bbox": [
+        [
+          230,
+          3334
+        ],
+        [
+          1436,
+          3334
+        ],
+        [
+          1436,
+          3387
+        ],
+        [
+          230,
+          3387
+        ]
+      ],
+      "score": 0.9009294509887695,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9399857813457273
+    },
+    {
+      "type": "number",
+      "img_path": "p0035_005_number.png",
+      "bbox": [
+        [
+          2333,
+          3340
+        ],
+        [
+          2357,
+          3340
+        ],
+        [
+          2357,
+          3373
+        ],
+        [
+          2333,
+          3373
+        ]
+      ],
+      "score": 0.8057234883308411,
+      "y_pos": 3340,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0035.png"
+}

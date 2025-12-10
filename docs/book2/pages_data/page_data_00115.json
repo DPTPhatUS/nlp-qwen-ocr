@@ -1,0 +1,422 @@
+{
+  "page_num": 115,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0115_007_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9276465773582458,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7254179112967991
+    },
+    {
+      "type": "header",
+      "img_path": "p0115_013_header.png",
+      "bbox": [
+        [
+          229,
+          153
+        ],
+        [
+          601,
+          153
+        ],
+        [
+          601,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9087510108947754,
+      "y_pos": 153,
+      "text": "CÁCH CHÂM CỬU",
+      "confidence": 0.9809228261311849
+    },
+    {
+      "type": "text",
+      "img_path": "p0115_002_text.png",
+      "bbox": [
+        [
+          277,
+          348
+        ],
+        [
+          2358,
+          348
+        ],
+        [
+          2358,
+          683
+        ],
+        [
+          277,
+          683
+        ]
+      ],
+      "score": 0.9839216470718384,
+      "y_pos": 348,
+      "text": "được, dùng một cây kim khác châm vào lân cận, hoặc hơi xa huyệt vị một ít, kim vào rồi thì\nnâng ấn mấy cái, làm cho cơ tại chỗ mềm ra và có thể rút cây kim trước đó vốn khó rút ra.\nNếu như người bệnh sợ đau không muốn châm thêm một kim nữa, thì người thầy thuốc\ndùng móng tay bấm xung quanh chỗ kim mấy cái, làm cho mất trạng thái cương tụ cơ bắp,\ncũng dễ rút kim ra.",
+      "confidence": 0.9969026085243259
+    },
+    {
+      "type": "text",
+      "img_path": "p0115_001_text.png",
+      "bbox": [
+        [
+          277,
+          722
+        ],
+        [
+          2358,
+          722
+        ],
+        [
+          2358,
+          1198
+        ],
+        [
+          277,
+          1198
+        ]
+      ],
+      "score": 0.9864450097084045,
+      "y_pos": 722,
+      "text": "Có trường hợp khi rút kim ra gần hết, chỉ còn dính rất ít phần mũi kim ở mặt da, hoặc mũi\nkim ra khỏi mặt da nhưng còn dính theo một sợi dai dẳng, không thể lôi kim ra được. Đó là\ntrường hợp chất dịch trong tổ chức cơ thể vùng kinh mạch không bình thường, nên khi rút\nkim dịch bám theo mũi kim đã bị keo hoá. Gặp trường hợp như thế, tuyệt đối cấm không\nđược lôi mạnh hoặc dùng dao kéo cắt rời ra, mà phải lấy miếng bông gòn thấm ướt cồn hoặc\nnước đã đun sôi để âm ấm đặt vào mũi kim, đợi mấy giây cho chất keo bị hoá lỏng, mũi kim\ntư sẽ rời ra.",
+      "confidence": 0.9986779858766903
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0115_009_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1243
+        ],
+        [
+          591,
+          1243
+        ],
+        [
+          591,
+          1291
+        ],
+        [
+          225,
+          1291
+        ]
+      ],
+      "score": 0.9169568419456482,
+      "y_pos": 1243,
+      "text": "K. Xử lý say kim",
+      "confidence": 0.9287209212779999
+    },
+    {
+      "type": "text",
+      "img_path": "p0115_004_text.png",
+      "bbox": [
+        [
+          278,
+          1331
+        ],
+        [
+          2358,
+          1331
+        ],
+        [
+          2358,
+          1525
+        ],
+        [
+          278,
+          1525
+        ]
+      ],
+      "score": 0.9740720391273499,
+      "y_pos": 1331,
+      "text": "Hiện tượng say kim thường xảy ra ở những bệnh nhân mới châm lần đầu, ở người có tâm lý\nsợ đau, người trước khi châm bị quá mệt, quá đói, quá no, hoặc cũng do khi châm làm thủ\npháp quá mạnh.",
+      "confidence": 0.9978853484801503
+    },
+    {
+      "type": "text",
+      "img_path": "p0115_003_text.png",
+      "bbox": [
+        [
+          278,
+          1561
+        ],
+        [
+          2358,
+          1561
+        ],
+        [
+          2358,
+          1758
+        ],
+        [
+          278,
+          1758
+        ]
+      ],
+      "score": 0.9761644601821899,
+      "y_pos": 1561,
+      "text": "Chứng trạng của say kim là: Sau khi cắm kim, người bệnh thấy váng đầu, hoa mắt, nôn\nnao, buồn nôn. Nặng hơn thì thấy sắc mặt trắng bợt, chân tay lạnh toát, trên mình ra mồ hôi\nlạnh, thậm chí té ngã, mất tri giác.",
+      "confidence": 0.9753854118525095
+    },
+    {
+      "type": "text",
+      "img_path": "p0115_000_text.png",
+      "bbox": [
+        [
+          276,
+          1796
+        ],
+        [
+          2359,
+          1796
+        ],
+        [
+          2359,
+          2278
+        ],
+        [
+          276,
+          2278
+        ]
+      ],
+      "score": 0.9867129325866699,
+      "y_pos": 1796,
+      "text": "Phương pháp xử lý: Khi thấy bệnh nhân có hiện tượng say kim, phải ngừng ngay việc tiến\nkim, tốt nhất là rút hết kim. Say kim nhẹ thì đợi một lát cho uống nước ấm cũng có thể tự\nphục hồi bình thường. Nặng thì rút hết kim ra, đặt người bệnh nằm ngay ngắn, ngang bằng,\ndùng ngón tay cái bấm huyệt <i>Nhân trung</i>, làm cho người bệnh có cảm giác đau đớn, nhanh\ntỉnh lại, cho bệnh nhân uống thêm nước ấm nóng.Nếu thấy mạch ngừng đập thì dùng kim\nchâm huyệt <i>Nhân trung, Thái xung</i> và hô hấp nhân tạo đến khi thấy mạch chuyển lại mới\nnghỉ. Để nằm yên một lúc, cho uống nước đường ấm nóng sẽ từ từ trở lại bình thường.",
+      "confidence": 0.9984449659864179
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0115_011_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2318
+        ],
+        [
+          932,
+          2318
+        ],
+        [
+          932,
+          2367
+        ],
+        [
+          225,
+          2367
+        ]
+      ],
+      "score": 0.9103314876556396,
+      "y_pos": 2318,
+      "text": "L. Kim ba cạnh (tam lăng châm)",
+      "confidence": 0.9058522861450911
+    },
+    {
+      "type": "text",
+      "img_path": "p0115_010_text.png",
+      "bbox": [
+        [
+          283,
+          2406
+        ],
+        [
+          2009,
+          2406
+        ],
+        [
+          2009,
+          2459
+        ],
+        [
+          283,
+          2459
+        ]
+      ],
+      "score": 0.9159063696861267,
+      "y_pos": 2406,
+      "text": "Thao tác kim ba cạnh là lấy việc chích nhanh, nhẹ, cho ra máu làm đặc điểm.",
+      "confidence": 0.9945271239652262
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0115_015_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          2499
+        ],
+        [
+          700,
+          2499
+        ],
+        [
+          700,
+          2544
+        ],
+        [
+          286,
+          2544
+        ]
+      ],
+      "score": 0.8136155009269714,
+      "y_pos": 2499,
+      "text": "1. Có ba thao tác",
+      "confidence": 0.8857878948512831
+    },
+    {
+      "type": "text",
+      "img_path": "p0115_006_text.png",
+      "bbox": [
+        [
+          283,
+          2588
+        ],
+        [
+          2130,
+          2588
+        ],
+        [
+          2130,
+          2641
+        ],
+        [
+          283,
+          2641
+        ]
+      ],
+      "score": 0.9281318783760071,
+      "y_pos": 2588,
+      "text": "a. Chích điểm: lấy việc nhanh nhe, chích điểm ở huyệt vi cho ra máu làm mức đô.",
+      "confidence": 0.9557110225712812
+    },
+    {
+      "type": "text",
+      "img_path": "p0115_005_text.png",
+      "bbox": [
+        [
+          284,
+          2681
+        ],
+        [
+          2355,
+          2681
+        ],
+        [
+          2355,
+          2805
+        ],
+        [
+          284,
+          2805
+        ]
+      ],
+      "score": 0.962620735168457,
+      "y_pos": 2681,
+      "text": "b. Chích tán: Là chích nhanh nhe, chích nhiều điểm ở một vùng, lấy ra máu làm mức độ,\nthường dùng ở các bệnh biến cục bộ ứ huyết sưng đỏ.",
+      "confidence": 0.9823499313535258
+    },
+    {
+      "type": "text",
+      "img_path": "p0115_008_text.png",
+      "bbox": [
+        [
+          284,
+          2844
+        ],
+        [
+          1571,
+          2844
+        ],
+        [
+          1571,
+          2896
+        ],
+        [
+          284,
+          2896
+        ]
+      ],
+      "score": 0.9248344302177429,
+      "y_pos": 2844,
+      "text": "c. Chích rach: Rach phá da ở cục bô bênh biến là được.",
+      "confidence": 0.8776794065322194
+    },
+    {
+      "type": "footer",
+      "img_path": "p0115_012_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3386
+        ],
+        [
+          228,
+          3386
+        ]
+      ],
+      "score": 0.9099423885345459,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9235246552611297
+    },
+    {
+      "type": "number",
+      "img_path": "p0115_014_number.png",
+      "bbox": [
+        [
+          2300,
+          3339
+        ],
+        [
+          2346,
+          3339
+        ],
+        [
+          2346,
+          3376
+        ],
+        [
+          2300,
+          3376
+        ]
+      ],
+      "score": 0.8560563325881958,
+      "y_pos": 3339,
+      "text": "    \n\n    \n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0115.png"
+}

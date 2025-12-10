@@ -1,0 +1,266 @@
+{
+  "page_num": 533,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0533_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2371,
+          144
+        ],
+        [
+          2371,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9216296076774597,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7566693045553707
+    },
+    {
+      "type": "header",
+      "img_path": "p0533_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.9243330359458923,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9977136671543121
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0533_004_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          324
+        ],
+        [
+          1069,
+          324
+        ],
+        [
+          1069,
+          383
+        ],
+        [
+          225,
+          383
+        ]
+      ],
+      "score": 0.7001240253448486,
+      "y_pos": 324,
+      "text": "Phần 19. BÊNH VÙNG BUNG DƯỚI",
+      "confidence": 0.8397783199946086
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0533_006_reference_content.png",
+      "bbox": [
+        [
+          231,
+          970
+        ],
+        [
+          1488,
+          970
+        ],
+        [
+          1488,
+          1030
+        ],
+        [
+          231,
+          1030
+        ]
+      ],
+      "score": 0.5284916162490845,
+      "y_pos": 970,
+      "text": "449. Đau bụng táo bón: Đại lăng, Ngoại quan, Chi câu.",
+      "confidence": 0.9952875484119762
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0533_005_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1152
+        ],
+        [
+          1217,
+          1152
+        ],
+        [
+          1217,
+          1214
+        ],
+        [
+          232,
+          1214
+        ]
+      ],
+      "score": 0.5365122556686401,
+      "y_pos": 1152,
+      "text": "451. Đau bụng kết tụ: Nội quan, Chiếu hải.",
+      "confidence": 0.9955888458273627
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0533_007_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1244
+        ],
+        [
+          1607,
+          1244
+        ],
+        [
+          1607,
+          1307
+        ],
+        [
+          231,
+          1307
+        ]
+      ],
+      "score": 0.5172597765922546,
+      "y_pos": 1244,
+      "text": "452. Đau vùng quanh rốn: Thần khuyết, Thủy phân, Khí hải.",
+      "confidence": 0.998411523083509
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0533_009_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1336
+        ],
+        [
+          1468,
+          1336
+        ],
+        [
+          1468,
+          1400
+        ],
+        [
+          232,
+          1400
+        ]
+      ],
+      "score": 0.5009132623672485,
+      "y_pos": 1336,
+      "text": "453. Tập quán táo bón: Đại hoành, Dương lăng tuyền.",
+      "confidence": 0.9970391741338765
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0533_008_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1519
+        ],
+        [
+          987,
+          1519
+        ],
+        [
+          987,
+          1579
+        ],
+        [
+          231,
+          1579
+        ]
+      ],
+      "score": 0.5024267435073853,
+      "y_pos": 1519,
+      "text": "455. Khó ia: Thừa sơn, Thái khê.",
+      "confidence": 0.9963844786672031
+    },
+    {
+      "type": "number",
+      "img_path": "p0533_003_number.png",
+      "bbox": [
+        [
+          2316,
+          3337
+        ],
+        [
+          2367,
+          3337
+        ],
+        [
+          2367,
+          3374
+        ],
+        [
+          2316,
+          3374
+        ]
+      ],
+      "score": 0.863556444644928,
+      "y_pos": 3337,
+      "text": "    \n    \n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0533_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3341
+        ],
+        [
+          1323,
+          3341
+        ],
+        [
+          1323,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.9118530750274658,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987793992150504
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0533.png"
+}

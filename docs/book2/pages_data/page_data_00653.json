@@ -1,0 +1,578 @@
+{
+  "page_num": 653,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0653_008_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.92024827003479,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0653_012_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9097228646278381,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "text",
+      "img_path": "p0653_001_text.png",
+      "bbox": [
+        [
+          279,
+          309
+        ],
+        [
+          2360,
+          309
+        ],
+        [
+          2360,
+          573
+        ],
+        [
+          279,
+          573
+        ]
+      ],
+      "score": 0.9822776317596436,
+      "y_pos": 309,
+      "text": "a. Triệu chứng: Mặt vàng bệch, vùng dạ dày đầy hoặc bụng chướng đau, ưa chườm, ưa\nnắn, miệng ứa nước trong, ăn không ngon, phân nát hoặc là lỏng kéo dài, biếng nhác yếu\nđuối, tứ chi lạnh, nước tiểu nhiều mà trong, hoặc đái ít mà phù thũng, bắp thịt gầy mòn, lưỡi\nnhạt, rêu lưỡi trắng nhuận, mạch hơi chậm hoặc yếu.",
+      "confidence": 0.9971525304517812
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0653_014_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          611
+        ],
+        [
+          982,
+          611
+        ],
+        [
+          982,
+          662
+        ],
+        [
+          284,
+          662
+        ]
+      ],
+      "score": 0.8976801037788391,
+      "y_pos": 611,
+      "text": "Mô hình chỉ số nhiệt kinh lạc",
+      "confidence": 0.9980013582014269
+    },
+    {
+      "type": "text",
+      "img_path": "p0653_005_text.png",
+      "bbox": [
+        [
+          280,
+          703
+        ],
+        [
+          2357,
+          703
+        ],
+        [
+          2357,
+          829
+        ],
+        [
+          280,
+          829
+        ]
+      ],
+      "score": 0.9628087282180786,
+      "y_pos": 703,
+      "text": "Tỳ (-BL), Vị (-), Tiểu trường (-), Tam tiêu (-), Phế (+), Tâm (+), Đảm (-), Can (-), Thận (+),\nBàng quang (-).",
+      "confidence": 0.9832539753623161
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0653_015_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          867
+        ],
+        [
+          701,
+          867
+        ],
+        [
+          701,
+          919
+        ],
+        [
+          284,
+          919
+        ]
+      ],
+      "score": 0.8958028554916382,
+      "y_pos": 867,
+      "text": "b. Phương huyệt",
+      "confidence": 0.992393483133877
+    },
+    {
+      "type": "text",
+      "img_path": "p0653_018_text.png",
+      "bbox": [
+        [
+          281,
+          956
+        ],
+        [
+          2349,
+          956
+        ],
+        [
+          2349,
+          1010
+        ],
+        [
+          281,
+          1010
+        ]
+      ],
+      "score": 0.8939647674560547,
+      "y_pos": 956,
+      "text": "Bổ: Thần môn, Chi chính, Tụy du, Tỳ du, Ý xá, Trung quản, Nội quan, Túc Tam lý, Thái bạch,",
+      "confidence": 0.9894122656272806
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0653_019_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          1052
+        ],
+        [
+          999,
+          1052
+        ],
+        [
+          999,
+          1102
+        ],
+        [
+          285,
+          1102
+        ]
+      ],
+      "score": 0.8876761794090271,
+      "y_pos": 1052,
+      "text": "c. Giảng nghĩa phương huyệt",
+      "confidence": 0.9980489940478884
+    },
+    {
+      "type": "text",
+      "img_path": "p0653_000_text.png",
+      "bbox": [
+        [
+          277,
+          1141
+        ],
+        [
+          2361,
+          1141
+        ],
+        [
+          2361,
+          1618
+        ],
+        [
+          277,
+          1618
+        ]
+      ],
+      "score": 0.9863722920417786,
+      "y_pos": 1141,
+      "text": "Tỳ dương hư thực chất là công năng của tuyến Tụy giảm làm cho công năng của Trường, Vị\ngiảm, làm cho dạ dày chướng đau, ăn không ngon, phân nát, yếu đuối, mạch hơi chậm hoặc\nyếu. Bổ <i>Tụy du ,Tỳ du, Ý xá,</i> là làm cho công năng của Tụy mạnh thêm; <i>Trung quản, Nội</i>\nquan, Túc Tam lý là bộ huyệt bổ Tỳ, Vị truyền thống thường dùng; Thần môn, Chi chính là\ncặp biểu lý nguyên lạc của Tâm và Tiểu trường, có tác dụng tăng hấp thụ dinh dưỡng cung\ncấp cho Tâm huyết, có tác dụng bồi bổ toàn thân, trong đó có chức năng tuyến tụy và năng\nvận hoá của Tỳ vị.",
+      "confidence": 0.9976953496199795
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0653_010_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          1658
+        ],
+        [
+          581,
+          1658
+        ],
+        [
+          581,
+          1708
+        ],
+        [
+          224,
+          1708
+        ]
+      ],
+      "score": 0.9150509834289551,
+      "y_pos": 1658,
+      "text": "2. Tỳ Vi khí hư",
+      "confidence": 0.9507873058319092
+    },
+    {
+      "type": "text",
+      "img_path": "p0653_003_text.png",
+      "bbox": [
+        [
+          221,
+          1748
+        ],
+        [
+          2359,
+          1748
+        ],
+        [
+          2359,
+          1942
+        ],
+        [
+          221,
+          1942
+        ]
+      ],
+      "score": 0.9740462303161621,
+      "y_pos": 1748,
+      "text": "Mô hình chỉ số nhiệt kinh lạc cơ bản: Tỳ (-BL), Vị (-BL); nghĩa là kinh Tỳ và Vị có trạng thái\nhàn bệnh lý. Số tương quan của kinh Tỳ và Vị có giá trị tuyệt đối lớn hơn sai số giới hạn và\nmang dấu -.",
+      "confidence": 0.9947703663072769
+    },
+    {
+      "type": "text",
+      "img_path": "p0653_002_text.png",
+      "bbox": [
+        [
+          278,
+          1982
+        ],
+        [
+          2362,
+          1982
+        ],
+        [
+          2362,
+          2249
+        ],
+        [
+          278,
+          2249
+        ]
+      ],
+      "score": 0.9806200265884399,
+      "y_pos": 1982,
+      "text": "a. Triệu chứng: Mặt vàng, uể oải, ăn uống không biết ngon, bụng trên đau hoặc buồn bằn,\nthích nắn bóp, bụng chướng, thở có rên, nôn chua, phân nát, lưỡi nhạt, chậm và có ngấn\nrăng, rêu lưỡi trắng, mạch hư. Nếu tiếng nói trầm, ngắn hơi, cử động có cảm giác khí trụt\nxuống, hoặc sa dạ dày, sa thận, sa dạ con, là phần khí càng hư, gọi là trung khí hạ hãm.",
+      "confidence": 0.9982541951853812
+    },
+    {
+      "type": "text",
+      "img_path": "p0653_009_text.png",
+      "bbox": [
+        [
+          279,
+          2285
+        ],
+        [
+          2098,
+          2285
+        ],
+        [
+          2098,
+          2338
+        ],
+        [
+          279,
+          2338
+        ]
+      ],
+      "score": 0.9182925820350647,
+      "y_pos": 2285,
+      "text": "Nếu như Tỳ, Vi đều hư, có thể xuất hiện các chứng xuất huyết hoặc phát sốt cao.",
+      "confidence": 0.9991804250964412
+    },
+    {
+      "type": "text",
+      "img_path": "p0653_007_text.png",
+      "bbox": [
+        [
+          279,
+          2379
+        ],
+        [
+          2362,
+          2379
+        ],
+        [
+          2362,
+          2503
+        ],
+        [
+          279,
+          2503
+        ]
+      ],
+      "score": 0.9602792859077454,
+      "y_pos": 2379,
+      "text": "Nếu như Tỳ, Vị khí hư, Can khí phạm Vị sẽ đau vùng dạ dày, sườn bụng chướng đau, ợ\nchua hoặc sôi bụng, ỉa chảy, rêu lưỡi trắng trơn, mạch huyền, đây là chứng Can Vị bất hoà.",
+      "confidence": 0.9997282996156694
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0653_017_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          2541
+        ],
+        [
+          982,
+          2541
+        ],
+        [
+          982,
+          2592
+        ],
+        [
+          283,
+          2592
+        ]
+      ],
+      "score": 0.894356906414032,
+      "y_pos": 2541,
+      "text": "Mô hình chỉ số nhiệt kinh lạc",
+      "confidence": 0.9980617030974357
+    },
+    {
+      "type": "text",
+      "img_path": "p0653_004_text.png",
+      "bbox": [
+        [
+          281,
+          2632
+        ],
+        [
+          2358,
+          2632
+        ],
+        [
+          2358,
+          2758
+        ],
+        [
+          281,
+          2758
+        ]
+      ],
+      "score": 0.9640457034111023,
+      "y_pos": 2632,
+      "text": "Tỳ (-BL), Vị (-BL), Tiểu trường (-), Tam tiêu (-), Tâm (+), Phế (+), Tâm bào (+), Đảm (+), Can\n(+), Thận (-).",
+      "confidence": 0.9879309500878055
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0653_016_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          2798
+        ],
+        [
+          701,
+          2798
+        ],
+        [
+          701,
+          2847
+        ],
+        [
+          285,
+          2847
+        ]
+      ],
+      "score": 0.8946143388748169,
+      "y_pos": 2798,
+      "text": "b. Phương huyệt",
+      "confidence": 0.9916683260132285
+    },
+    {
+      "type": "text",
+      "img_path": "p0653_011_text.png",
+      "bbox": [
+        [
+          281,
+          2887
+        ],
+        [
+          2257,
+          2887
+        ],
+        [
+          2257,
+          2940
+        ],
+        [
+          281,
+          2940
+        ]
+      ],
+      "score": 0.9111528396606445,
+      "y_pos": 2887,
+      "text": "Bổ: Tỳ du, Vị du, Trung quản, Quan nguyên, Tam âm giao, Khí hải, Túc tam lý, Nội quan",
+      "confidence": 0.9649760284643064
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0653_020_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          2982
+        ],
+        [
+          1000,
+          2982
+        ],
+        [
+          1000,
+          3032
+        ],
+        [
+          285,
+          3032
+        ]
+      ],
+      "score": 0.8871310353279114,
+      "y_pos": 2982,
+      "text": "c. Giảng nghĩa phương huyệt",
+      "confidence": 0.9982134720374798
+    },
+    {
+      "type": "text",
+      "img_path": "p0653_006_text.png",
+      "bbox": [
+        [
+          282,
+          3067
+        ],
+        [
+          2361,
+          3067
+        ],
+        [
+          2361,
+          3193
+        ],
+        [
+          282,
+          3193
+        ]
+      ],
+      "score": 0.9604041576385498,
+      "y_pos": 3067,
+      "text": "Bổ các huyệt <i>Tỳ du, Vị du, Trung quản</i> là trực tiếp bổ vào công năng của Tỳ, Vị, bổ <i>Quan</i>\nnguyên, Khí hải, Túc tam lý là bồi bổ vào khí cơ toàn thân, trong đó Quan nguyên đại bổ",
+      "confidence": 0.9973649818014088
+    },
+    {
+      "type": "number",
+      "img_path": "p0653_021_number.png",
+      "bbox": [
+        [
+          2305,
+          3337
+        ],
+        [
+          2354,
+          3337
+        ],
+        [
+          2354,
+          3374
+        ],
+        [
+          2305,
+          3374
+        ]
+      ],
+      "score": 0.8585768342018127,
+      "y_pos": 3337,
+      "text": "    \n\n\n\n.\n۰.    \n۰.\n\n\n\n",
+      "confidence": 0.8902327005679791
+    },
+    {
+      "type": "footer",
+      "img_path": "p0653_013_footer.png",
+      "bbox": [
+        [
+          227,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3389
+        ],
+        [
+          227,
+          3389
+        ]
+      ],
+      "score": 0.8992831707000732,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987236002706131
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0653.png"
+}

@@ -1,0 +1,214 @@
+{
+  "page_num": 494,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0494_000_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2370,
+          143
+        ],
+        [
+          2370,
+          199
+        ],
+        [
+          1675,
+          199
+        ]
+      ],
+      "score": 0.9075741171836853,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7582894765904972
+    },
+    {
+      "type": "header",
+      "img_path": "p0494_001_header.png",
+      "bbox": [
+        [
+          230,
+          150
+        ],
+        [
+          1449,
+          150
+        ],
+        [
+          1449,
+          199
+        ],
+        [
+          230,
+          199
+        ]
+      ],
+      "score": 0.9075015783309937,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9955690239484494
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0494_003_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          330
+        ],
+        [
+          476,
+          330
+        ],
+        [
+          476,
+          376
+        ],
+        [
+          227,
+          376
+        ]
+      ],
+      "score": 0.8802366852760315,
+      "y_pos": 330,
+      "text": "63. Di tinh",
+      "confidence": 0.92413002711076
+    },
+    {
+      "type": "abstract",
+      "img_path": "p0494_006_abstract.png",
+      "bbox": [
+        [
+          223,
+          417
+        ],
+        [
+          2361,
+          417
+        ],
+        [
+          2361,
+          622
+        ],
+        [
+          223,
+          622
+        ]
+      ],
+      "score": 0.6556126475334167,
+      "y_pos": 417,
+      "text": "Di tinh chia làm 2 loại: Có mộng mà không xuất tinh và không mộng mà tự ra. Có mộng mà xuất\ntinh là trong khi ngủ nằm mê thấy giao tiếp với đàn bà mà phóng tinh. Loại này rất dễ chữa.\nKhông mộng mà tinh tự ra thì rất khó chữa.",
+      "confidence": 0.9970943797446493
+    },
+    {
+      "type": "text",
+      "img_path": "p0494_007_text.png",
+      "bbox": [
+        [
+          284,
+          652
+        ],
+        [
+          2064,
+          652
+        ],
+        [
+          2064,
+          711
+        ],
+        [
+          284,
+          711
+        ]
+      ],
+      "score": 0.6196341514587402,
+      "y_pos": 652,
+      "text": "Cách chữa: Lấy huyệt Khí hải, Quan nguyên, Tam âm giao, Chí thất làm chính.",
+      "confidence": 0.997948973209827
+    },
+    {
+      "type": "text",
+      "img_path": "p0494_005_text.png",
+      "bbox": [
+        [
+          284,
+          743
+        ],
+        [
+          2223,
+          743
+        ],
+        [
+          2223,
+          803
+        ],
+        [
+          284,
+          803
+        ]
+      ],
+      "score": 0.7922614216804504,
+      "y_pos": 743,
+      "text": "Gia giảm: Có mộng, gia <i>Tâm du, Thần môn</i> (châm bổ). Không mộng, gia cứu <i>Thận du</i>.",
+      "confidence": 0.891848458963282
+    },
+    {
+      "type": "number",
+      "img_path": "p0494_004_number.png",
+      "bbox": [
+        [
+          2305,
+          3299
+        ],
+        [
+          2353,
+          3299
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2305,
+          3335
+        ]
+      ],
+      "score": 0.8478072285652161,
+      "y_pos": 3299,
+      "text": "    \n\n\n\n    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0494_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3309
+        ],
+        [
+          1325,
+          3309
+        ],
+        [
+          1325,
+          3356
+        ],
+        [
+          228,
+          3356
+        ]
+      ],
+      "score": 0.8855512142181396,
+      "y_pos": 3309,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985580084458837
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0494.png"
+}

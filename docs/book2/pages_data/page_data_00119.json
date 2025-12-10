@@ -1,0 +1,394 @@
+{
+  "page_num": 119,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0119_004_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9218926429748535,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7576541084618795
+    },
+    {
+      "type": "header",
+      "img_path": "p0119_007_header.png",
+      "bbox": [
+        [
+          230,
+          154
+        ],
+        [
+          601,
+          154
+        ],
+        [
+          601,
+          200
+        ],
+        [
+          230,
+          200
+        ]
+      ],
+      "score": 0.9092296957969666,
+      "y_pos": 154,
+      "text": "CÁCH CHÂM CỨU",
+      "confidence": 0.9777893463770548
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0119_005_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          345
+        ],
+        [
+          821,
+          345
+        ],
+        [
+          821,
+          400
+        ],
+        [
+          284,
+          400
+        ]
+      ],
+      "score": 0.9133371710777283,
+      "y_pos": 345,
+      "text": "3. Cứu bằng điếu ngải",
+      "confidence": 0.9802900138108627
+    },
+    {
+      "type": "text",
+      "img_path": "p0119_001_text.png",
+      "bbox": [
+        [
+          278,
+          436
+        ],
+        [
+          2359,
+          436
+        ],
+        [
+          2359,
+          849
+        ],
+        [
+          278,
+          849
+        ]
+      ],
+      "score": 0.985062837600708,
+      "y_pos": 436,
+      "text": "Lấy điếu ngải đốt một đầu, chiếu thẳng diểm than lửa trên đầu điếu ngải vuông góc với huyệt\nvị mà hơ. Căn cứ vào cảm giác của người bệnh mà hơ xa hay hơ gần mặt da, hoặc tuần tự\nnâng ra xa, lại đưa vào gần theo nhịp, sao cho cảm giác không rát mà chỉ nóng ấm là đủ.\nMỗi lần cứu từ 5 đến 30 phút, đến khi có cảm giác chỗ đó nóng ấm dễ chịu, và có một vầng\nửng hồng thì thôi cứu. Cách cứu này rất tốt và phù hợp với bệnh mạn tính, rối loạn tiêu hoá,\nphong hàn đau đớn và tê bại cục bộ.(H33).",
+      "confidence": 0.9983213489141582
+    },
+    {
+      "type": "image",
+      "img_path": "p0119_010_image.png",
+      "bbox": [
+        [
+          625,
+          887
+        ],
+        [
+          1921,
+          887
+        ],
+        [
+          1921,
+          1619
+        ],
+        [
+          625,
+          1619
+        ]
+      ],
+      "score": 0.900448203086853,
+      "y_pos": 887
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0119_008_figure_title.png",
+      "bbox": [
+        [
+          885,
+          1717
+        ],
+        [
+          1701,
+          1717
+        ],
+        [
+          1701,
+          1765
+        ],
+        [
+          885,
+          1765
+        ]
+      ],
+      "score": 0.9055090546607971,
+      "y_pos": 1717,
+      "text": "Hình 33-34. Hơ điều ngải - Ôn kim cứu",
+      "confidence": 0.9910241915629461
+    },
+    {
+      "type": "text",
+      "img_path": "p0119_000_text.png",
+      "bbox": [
+        [
+          278,
+          1805
+        ],
+        [
+          2357,
+          1805
+        ],
+        [
+          2357,
+          2215
+        ],
+        [
+          278,
+          2215
+        ]
+      ],
+      "score": 0.9853011965751648,
+      "y_pos": 1805,
+      "text": "4. Ôn châm cứu: Cũng còn gọi là ôn châm, hoặc gọi là cứu cán kim hay ôn kim cứu. Khi lưu\nkim, lấy ngải nhung vê thành cục khoảng bằng hạt táo, bó vào cán kim mà đốt, lửa của ngải\nchuyền nhiệt theo thân kim vào huyệt. Số mồi ngải nhiều hay ít căn cứ vào bệnh tình mà\nđịnh. Để tránh than ngải hoặc tàn hương rơi xuống bỏng da, trước đo lấy một miếng giấy dày\nlàm thành miếng tròn có lỗ thủng ở giữa đỡ dưới quanh thân kim để hứng những tàn lỡ rơi\nxuống. (H34)",
+      "confidence": 0.9744240162256562
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0119_011_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          2251
+        ],
+        [
+          837,
+          2251
+        ],
+        [
+          837,
+          2304
+        ],
+        [
+          284,
+          2304
+        ]
+      ],
+      "score": 0.8933312296867371,
+      "y_pos": 2251,
+      "text": "5. Chú ý sự cố khi cứu",
+      "confidence": 0.9741382797559103
+    },
+    {
+      "type": "text",
+      "img_path": "p0119_002_text.png",
+      "bbox": [
+        [
+          285,
+          2342
+        ],
+        [
+          2359,
+          2342
+        ],
+        [
+          2359,
+          2468
+        ],
+        [
+          285,
+          2468
+        ]
+      ],
+      "score": 0.9588771462440491,
+      "y_pos": 2342,
+      "text": "a. Khi cứu cần đặt tư thế người bệnh thật tốt, dặn người bệnh không được giẫy động, để\ntránh bỏng da.",
+      "confidence": 0.9936309008097106
+    },
+    {
+      "type": "text",
+      "img_path": "p0119_014_text.png",
+      "bbox": [
+        [
+          283,
+          2507
+        ],
+        [
+          2338,
+          2507
+        ],
+        [
+          2338,
+          2563
+        ],
+        [
+          283,
+          2563
+        ]
+      ],
+      "score": 0.8047143816947937,
+      "y_pos": 2507,
+      "text": "b. Không để than ngải hoặc tàn hương rơi xuống gây bỏng da hoặc cháy quần áo, đệm, ga.",
+      "confidence": 0.9928300360387022
+    },
+    {
+      "type": "text",
+      "img_path": "p0119_012_text.png",
+      "bbox": [
+        [
+          285,
+          2597
+        ],
+        [
+          2358,
+          2597
+        ],
+        [
+          2358,
+          2724
+        ],
+        [
+          285,
+          2724
+        ]
+      ],
+      "score": 0.8917641043663025,
+      "y_pos": 2597,
+      "text": "c. Khi cứu cách gừng, cách tỏi rất dễ bị nổi phồng ở huyệt vị, cần chú ý thay những lát gừng,\ntỏi. Nếu nổi phồng thì lấy kim chích nước ra, dán băng dính lại để đề phòng nhiễm trùng.",
+      "confidence": 0.9978701982407542
+    },
+    {
+      "type": "text",
+      "img_path": "p0119_003_text.png",
+      "bbox": [
+        [
+          285,
+          2762
+        ],
+        [
+          2359,
+          2762
+        ],
+        [
+          2359,
+          2881
+        ],
+        [
+          285,
+          2881
+        ]
+      ],
+      "score": 0.9548395276069641,
+      "y_pos": 2762,
+      "text": "d. Khu vực mặt, khu vực ngũ quan, trên mạch máu lớn và lân cận kết mạc thì không nên\nCứu.",
+      "confidence": 0.9285744460978249
+    },
+    {
+      "type": "text",
+      "img_path": "p0119_006_text.png",
+      "bbox": [
+        [
+          285,
+          2925
+        ],
+        [
+          1463,
+          2925
+        ],
+        [
+          1463,
+          2978
+        ],
+        [
+          285,
+          2978
+        ]
+      ],
+      "score": 0.9101786613464355,
+      "y_pos": 2925,
+      "text": "đ. Bệnh thực chứng, nhiệt chứng thì không nên cứu.",
+      "confidence": 0.66935001542935
+    },
+    {
+      "type": "footer",
+      "img_path": "p0119_009_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9005483388900757,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985454925950968
+    },
+    {
+      "type": "number",
+      "img_path": "p0119_013_number.png",
+      "bbox": [
+        [
+          2300,
+          3340
+        ],
+        [
+          2347,
+          3340
+        ],
+        [
+          2347,
+          3377
+        ],
+        [
+          2300,
+          3377
+        ]
+      ],
+      "score": 0.8442066311836243,
+      "y_pos": 3340,
+      "text": "\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0119.png"
+}

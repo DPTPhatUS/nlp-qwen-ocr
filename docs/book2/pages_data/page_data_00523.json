@@ -1,0 +1,162 @@
+{
+  "page_num": 523,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0523_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9163963794708252,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0523_000_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9182084202766418,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.997708330154419
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0523_004_reference_content.png",
+      "bbox": [
+        [
+          229,
+          579
+        ],
+        [
+          2363,
+          579
+        ],
+        [
+          2363,
+          712
+        ],
+        [
+          229,
+          712
+        ]
+      ],
+      "score": 0.5650761127471924,
+      "y_pos": 579,
+      "text": "291. Lao phổi: Phế du thấu Thiên trụ, Đại chùy thấu Kết hạch huyệt, Chiên trung thấu Ngọc\nđường hoặc Hoa cái, Xích trạch, Túc tam lý.",
+      "confidence": 0.9979490723438169
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0523_005_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1109
+        ],
+        [
+          1455,
+          1109
+        ],
+        [
+          1455,
+          1170
+        ],
+        [
+          231,
+          1170
+        ]
+      ],
+      "score": 0.5041369795799255,
+      "y_pos": 1109,
+      "text": "296. Hen suyễn: Cao hoang du, Thiên đột, Suyễn tức.",
+      "confidence": 0.9969780602545109
+    },
+    {
+      "type": "number",
+      "img_path": "p0523_003_number.png",
+      "bbox": [
+        [
+          2319,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2319,
+          3374
+        ]
+      ],
+      "score": 0.8556762933731079,
+      "y_pos": 3337,
+      "text": "    \n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0523_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.912712574005127,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0523.png"
+}

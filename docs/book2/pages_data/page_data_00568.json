@@ -1,0 +1,292 @@
+{
+  "page_num": 568,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0568_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9137340784072876,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0568_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1467,
+          152
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9176000356674194,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TẬN, KỲ HUYỆT",
+      "confidence": 0.9979400253295898
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0568_004_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          326
+        ],
+        [
+          700,
+          326
+        ],
+        [
+          700,
+          383
+        ],
+        [
+          226,
+          383
+        ]
+      ],
+      "score": 0.782069742679596,
+      "y_pos": 326,
+      "text": "Phần 15. BÊNH TIM",
+      "confidence": 0.7882375058374906
+    },
+    {
+      "type": "text",
+      "img_path": "p0568_005_text.png",
+      "bbox": [
+        [
+          228,
+          420
+        ],
+        [
+          2357,
+          420
+        ],
+        [
+          2357,
+          546
+        ],
+        [
+          228,
+          546
+        ]
+      ],
+      "score": 0.5937014222145081,
+      "y_pos": 420,
+      "text": "235. Hồi hộp: Ngạch trung, An miên 1, An miên 2, Huyền trung, Ưng thượng, Hạ hiệp bạch,\nKhích thượng, Tiểu thiên tâm.",
+      "confidence": 0.9986435439371466
+    },
+    {
+      "type": "text",
+      "img_path": "p0568_008_text.png",
+      "bbox": [
+        [
+          231,
+          673
+        ],
+        [
+          913,
+          673
+        ],
+        [
+          913,
+          730
+        ],
+        [
+          231,
+          730
+        ]
+      ],
+      "score": 0.5115401148796082,
+      "y_pos": 673,
+      "text": "237. Bệnh tim: Cự khuyết du.",
+      "confidence": 0.9682962318261464
+    },
+    {
+      "type": "text",
+      "img_path": "p0568_010_text.png",
+      "bbox": [
+        [
+          230,
+          948
+        ],
+        [
+          1842,
+          948
+        ],
+        [
+          1842,
+          1006
+        ],
+        [
+          230,
+          1006
+        ]
+      ],
+      "score": 0.5102735757827759,
+      "y_pos": 948,
+      "text": "240. Bệnh tim do phong thấp: Hạ Hiệp bạch, Tiếu thiên tâm, Thận tân.",
+      "confidence": 0.9588890135288238
+    },
+    {
+      "type": "text",
+      "img_path": "p0568_009_text.png",
+      "bbox": [
+        [
+          230,
+          1042
+        ],
+        [
+          1052,
+          1042
+        ],
+        [
+          1052,
+          1093
+        ],
+        [
+          230,
+          1093
+        ]
+      ],
+      "score": 0.5111275315284729,
+      "y_pos": 1042,
+      "text": "241. Bứt rứt: An miên 3, An miên 4.",
+      "confidence": 0.9745275088258691
+    },
+    {
+      "type": "text",
+      "img_path": "p0568_007_text.png",
+      "bbox": [
+        [
+          229,
+          1133
+        ],
+        [
+          1086,
+          1133
+        ],
+        [
+          1086,
+          1188
+        ],
+        [
+          229,
+          1188
+        ]
+      ],
+      "score": 0.5129362344741821,
+      "y_pos": 1133,
+      "text": "242. Tim đập quá chậm: Hưng phần.",
+      "confidence": 0.9704397780554636
+    },
+    {
+      "type": "text",
+      "img_path": "p0568_006_text.png",
+      "bbox": [
+        [
+          227,
+          1225
+        ],
+        [
+          1787,
+          1225
+        ],
+        [
+          1787,
+          1280
+        ],
+        [
+          227,
+          1280
+        ]
+      ],
+      "score": 0.5615065693855286,
+      "y_pos": 1225,
+      "text": "243. Viêm tắc động mạch: Mạch căn, Thượng Khúc tuyền, Tân sinh.",
+      "confidence": 0.9993672059132502
+    },
+    {
+      "type": "number",
+      "img_path": "p0568_003_number.png",
+      "bbox": [
+        [
+          2319,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2319,
+          3374
+        ]
+      ],
+      "score": 0.8536922335624695,
+      "y_pos": 3337,
+      "text": "    \n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0568_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9092982411384583,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0568.png"
+}

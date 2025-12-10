@@ -1,0 +1,708 @@
+{
+  "page_num": 67,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0067_007_header.png",
+      "bbox": [
+        [
+          1606,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1606,
+          201
+        ]
+      ],
+      "score": 0.9400953650474548,
+      "y_pos": 142,
+      "text": "_______________________________________\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6523312898618834
+    },
+    {
+      "type": "header",
+      "img_path": "p0067_022_header.png",
+      "bbox": [
+        [
+          231,
+          154
+        ],
+        [
+          427,
+          154
+        ],
+        [
+          427,
+          199
+        ],
+        [
+          231,
+          199
+        ]
+      ],
+      "score": 0.9071253538131714,
+      "y_pos": 154,
+      "text": "Δ    V",
+      "confidence": 0.648697592318058
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_005_text.png",
+      "bbox": [
+        [
+          280,
+          310
+        ],
+        [
+          2357,
+          310
+        ],
+        [
+          2357,
+          439
+        ],
+        [
+          280,
+          439
+        ]
+      ],
+      "score": 0.9679071307182312,
+      "y_pos": 310,
+      "text": "Tâm chuyển xuất lượng của mạch phù là tăng thêm, mà đàn tính trở lực của huyết quản lại\ngiảm thấp. Ở điện tâm đồ cho thấy:",
+      "confidence": 0.9993258702676842
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_020_text.png",
+      "bbox": [
+        [
+          346,
+          469
+        ],
+        [
+          1119,
+          469
+        ],
+        [
+          1119,
+          521
+        ],
+        [
+          346,
+          521
+        ]
+      ],
+      "score": 0.9203890562057495,
+      "y_pos": 469,
+      "text": "Mạch trâm: điện áp giảm xuông",
+      "confidence": 0.9801637741827196
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_009_text.png",
+      "bbox": [
+        [
+          345,
+          555
+        ],
+        [
+          1306,
+          555
+        ],
+        [
+          1306,
+          604
+        ],
+        [
+          345,
+          604
+        ]
+      ],
+      "score": 0.9349981546401978,
+      "y_pos": 555,
+      "text": "Mach trì: Thực tính tâm đông quá châm.",
+      "confidence": 0.9819942250847816
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_011_text.png",
+      "bbox": [
+        [
+          345,
+          638
+        ],
+        [
+          1357,
+          638
+        ],
+        [
+          1357,
+          688
+        ],
+        [
+          345,
+          688
+        ]
+      ],
+      "score": 0.9332424998283386,
+      "y_pos": 638,
+      "text": "Mạch sác: Thực tính tâm động quá nhanh.",
+      "confidence": 0.9662433571931792
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_004_text.png",
+      "bbox": [
+        [
+          343,
+          718
+        ],
+        [
+          2360,
+          718
+        ],
+        [
+          2360,
+          844
+        ],
+        [
+          343,
+          844
+        ]
+      ],
+      "score": 0.9684628248214722,
+      "y_pos": 718,
+      "text": "- Mạch hư, nhược, vô lực, đa số do chuyển huyết lượng giảm ít, huyết quản trở lực giảm\nthấp, huyết áp rất thấp.",
+      "confidence": 0.9986030329670106
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_018_text.png",
+      "bbox": [
+        [
+          344,
+          873
+        ],
+        [
+          1147,
+          873
+        ],
+        [
+          1147,
+          927
+        ],
+        [
+          344,
+          927
+        ]
+      ],
+      "score": 0.9253574013710022,
+      "y_pos": 873,
+      "text": "Mạch nhược: Điện áp giảm thấp.",
+      "confidence": 0.9985369388014078
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_003_text.png",
+      "bbox": [
+        [
+          343,
+          954
+        ],
+        [
+          2360,
+          954
+        ],
+        [
+          2360,
+          1080
+        ],
+        [
+          343,
+          1080
+        ]
+      ],
+      "score": 0.9690818786621094,
+      "y_pos": 954,
+      "text": "- Mạch tế mà có lực, phần nhiều là huyết quản trở lực tăng cao mà tâm chuyển huyết\nlượng giảm ít.",
+      "confidence": 0.9970454274721089
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_002_text.png",
+      "bbox": [
+        [
+          343,
+          1107
+        ],
+        [
+          2358,
+          1107
+        ],
+        [
+          2358,
+          1304
+        ],
+        [
+          343,
+          1304
+        ]
+      ],
+      "score": 0.9796923398971558,
+      "y_pos": 1107,
+      "text": "- Mạch huyền: Đại đa số là tâm chuyển huyết lượng và huyết quản trở lực đều tăng cao,\nnhưng huyết áp tăng cao chỉ chiểm số nửa. Do đó ta thấy nhân tố hình thành mạch\nhuyền rất phức tạp.",
+      "confidence": 0.9972726798098156
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_019_text.png",
+      "bbox": [
+        [
+          344,
+          1335
+        ],
+        [
+          1555,
+          1335
+        ],
+        [
+          1555,
+          1390
+        ],
+        [
+          344,
+          1390
+        ]
+      ],
+      "score": 0.9229787588119507,
+      "y_pos": 1335,
+      "text": "Mạch có sức không nhất định là huyết áp tăng cao.",
+      "confidence": 0.998457087021248
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_006_text.png",
+      "bbox": [
+        [
+          344,
+          1417
+        ],
+        [
+          2357,
+          1417
+        ],
+        [
+          2357,
+          1542
+        ],
+        [
+          344,
+          1542
+        ]
+      ],
+      "score": 0.9664415121078491,
+      "y_pos": 1417,
+      "text": "- Mạch súc, kết, đại chủ yếu là bệnh biến của bản thân tâm tạng làm thành (các hình thái\ncủa loạn nhịp tim).",
+      "confidence": 0.9906328086342131
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_000_text.png",
+      "bbox": [
+        [
+          278,
+          1582
+        ],
+        [
+          2359,
+          1582
+        ],
+        [
+          2359,
+          1938
+        ],
+        [
+          278,
+          1938
+        ]
+      ],
+      "score": 0.9862463474273682,
+      "y_pos": 1582,
+      "text": "Ở người bệnh khác nhau: Kết mạch trên điện tâm đồ thường xuất hiện 4 loại biến hóa:\nPhòng tính co rút thời kỳ đầu, tâm phòng run rẩy, thất tính co rút thời kỳ đầu; và hoàn toàn\ntính đường chuyển phòng thất ứ trệ. Mạch đại hoặc có tâm phòng run rẩy, hoặc có thất tính\nco rút thời kỳ đầu, hoặc có ống chia đường chuyển phòng thất trở ngại. Mạch súc lại kiêm có\ntim đập quá nhanh.",
+      "confidence": 0.9980616903156475
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0067_023_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1977
+        ],
+        [
+          701,
+          1977
+        ],
+        [
+          701,
+          2028
+        ],
+        [
+          227,
+          2028
+        ]
+      ],
+      "score": 0.9069334268569946,
+      "y_pos": 1977,
+      "text": "B. Sờ nắn (xúc chẩn)",
+      "confidence": 0.8988269432024523
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_001_text.png",
+      "bbox": [
+        [
+          277,
+          2070
+        ],
+        [
+          2357,
+          2070
+        ],
+        [
+          2357,
+          2279
+        ],
+        [
+          277,
+          2279
+        ]
+      ],
+      "score": 0.9803680181503296,
+      "y_pos": 2070,
+      "text": "Xúc chẩn chủ yếu sờ nắn ngực bụng để thấy mềm, cứng, có đau hay không, có hòn cục hay\nkhông; sờ nắn tứ chi để xem có gẫy xương, bong gân hay không; sờ nắn da xem mát hay\nnóng; sờ nắn kinh mạch xem có phản ứng bệnh lý hay không.",
+      "confidence": 0.9995809504147856
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_025_text.png",
+      "bbox": [
+        [
+          345,
+          2306
+        ],
+        [
+          1120,
+          2306
+        ],
+        [
+          1120,
+          2357
+        ],
+        [
+          345,
+          2357
+        ]
+      ],
+      "score": 0.8843205571174622,
+      "y_pos": 2306,
+      "text": "Sờ bung để chẩn về bung đau:",
+      "confidence": 0.9898112217585245
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_015_text.png",
+      "bbox": [
+        [
+          402,
+          2399
+        ],
+        [
+          1128,
+          2399
+        ],
+        [
+          1128,
+          2449
+        ],
+        [
+          402,
+          2449
+        ]
+      ],
+      "score": 0.9275170564651489,
+      "y_pos": 2399,
+      "text": "+ Sờ mà giảm đau là chứng hư.",
+      "confidence": 0.9961052383145979
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_013_text.png",
+      "bbox": [
+        [
+          401,
+          2491
+        ],
+        [
+          1157,
+          2491
+        ],
+        [
+          1157,
+          2542
+        ],
+        [
+          401,
+          2542
+        ]
+      ],
+      "score": 0.9330281615257263,
+      "y_pos": 2491,
+      "text": "+ Sờ mà đau tăng là chứng thực.",
+      "confidence": 0.9867620739069852
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_008_text.png",
+      "bbox": [
+        [
+          401,
+          2582
+        ],
+        [
+          1154,
+          2582
+        ],
+        [
+          1154,
+          2633
+        ],
+        [
+          401,
+          2633
+        ]
+      ],
+      "score": 0.9358731508255005,
+      "y_pos": 2582,
+      "text": "+ Nơi đau mềm mai là chứng hư.",
+      "confidence": 0.9934057220816612
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_012_text.png",
+      "bbox": [
+        [
+          400,
+          2673
+        ],
+        [
+          1194,
+          2673
+        ],
+        [
+          1194,
+          2725
+        ],
+        [
+          400,
+          2725
+        ]
+      ],
+      "score": 0.9331827163696289,
+      "y_pos": 2673,
+      "text": "+ Nơi đau cứng rắn là chứng thực.",
+      "confidence": 0.9823214905602592
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_024_text.png",
+      "bbox": [
+        [
+          346,
+          2754
+        ],
+        [
+          1394,
+          2754
+        ],
+        [
+          1394,
+          2806
+        ],
+        [
+          346,
+          2806
+        ]
+      ],
+      "score": 0.8978087902069092,
+      "y_pos": 2754,
+      "text": "Sờ da để chẩn, chủ yếu xem đô ấm của da:",
+      "confidence": 0.9179197620777857
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_017_text.png",
+      "bbox": [
+        [
+          400,
+          2848
+        ],
+        [
+          1444,
+          2848
+        ],
+        [
+          1444,
+          2901
+        ],
+        [
+          400,
+          2901
+        ]
+      ],
+      "score": 0.9271709322929382,
+      "y_pos": 2848,
+      "text": "+ Mu bàn tay nóng hơn là ngoại cảm phát sốt.",
+      "confidence": 0.9978731002496637
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_010_text.png",
+      "bbox": [
+        [
+          400,
+          2941
+        ],
+        [
+          1657,
+          2941
+        ],
+        [
+          1657,
+          2992
+        ],
+        [
+          400,
+          2992
+        ]
+      ],
+      "score": 0.9339393973350525,
+      "y_pos": 2941,
+      "text": "+ Lòng bàn tay, bàn chân nóng hơn là âm hư, nội nhiệt.",
+      "confidence": 0.9646008142403194
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_014_text.png",
+      "bbox": [
+        [
+          402,
+          3033
+        ],
+        [
+          1020,
+          3033
+        ],
+        [
+          1020,
+          3083
+        ],
+        [
+          402,
+          3083
+        ]
+      ],
+      "score": 0.9309445023536682,
+      "y_pos": 3033,
+      "text": "+ Tứ chi lanh là dương hư.",
+      "confidence": 0.9755517627511706
+    },
+    {
+      "type": "text",
+      "img_path": "p0067_016_text.png",
+      "bbox": [
+        [
+          401,
+          3121
+        ],
+        [
+          1615,
+          3121
+        ],
+        [
+          1615,
+          3177
+        ],
+        [
+          401,
+          3177
+        ]
+      ],
+      "score": 0.927421510219574,
+      "y_pos": 3121,
+      "text": "+ Trẻ em sốt cao mà đầu ngón tay lạnh có thể co giật.",
+      "confidence": 0.9899848699569702
+    },
+    {
+      "type": "footer",
+      "img_path": "p0067_021_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1433,
+          3333
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9123630523681641,
+      "y_pos": 3333,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0067_026_number.png",
+      "bbox": [
+        [
+          2304,
+          3337
+        ],
+        [
+          2354,
+          3337
+        ],
+        [
+          2354,
+          3373
+        ],
+        [
+          2304,
+          3373
+        ]
+      ],
+      "score": 0.8795187473297119,
+      "y_pos": 3337,
+      "text": "\n    \n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0067.png"
+}

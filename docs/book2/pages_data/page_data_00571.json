@@ -1,0 +1,136 @@
+{
+  "page_num": 571,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0571_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9089728593826294,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0571_000_header.png",
+      "bbox": [
+        [
+          228,
+          151
+        ],
+        [
+          1467,
+          151
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9185998439788818,
+      "y_pos": 151,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TÂN, KỲ HUYỆT",
+      "confidence": 0.9963790857791901
+    },
+    {
+      "type": "text",
+      "img_path": "p0571_004_text.png",
+      "bbox": [
+        [
+          225,
+          324
+        ],
+        [
+          1383,
+          324
+        ],
+        [
+          1383,
+          567
+        ],
+        [
+          225,
+          567
+        ]
+      ],
+      "score": 0.7891101837158203,
+      "y_pos": 324,
+      "text": "Phần 18. BÊNH LÁ LÁCH, TUY\n262. Lá lách sưng to, cường lách: Tỳ nhiệt huyệt.\n263. Viêm tuyến tụy: Tỳ nhiệt huyệt.",
+      "confidence": 0.9004978630881245
+    },
+    {
+      "type": "number",
+      "img_path": "p0571_003_number.png",
+      "bbox": [
+        [
+          2316,
+          3337
+        ],
+        [
+          2367,
+          3337
+        ],
+        [
+          2367,
+          3373
+        ],
+        [
+          2316,
+          3373
+        ]
+      ],
+      "score": 0.8648355007171631,
+      "y_pos": 3337,
+      "text": "    \n        \n    \n\n\n\n\n\n\n    \n\n\n۰\n",
+      "confidence": 0.9672992707867372
+    },
+    {
+      "type": "footer",
+      "img_path": "p0571_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3340
+        ],
+        [
+          1325,
+          3340
+        ],
+        [
+          1325,
+          3388
+        ],
+        [
+          229,
+          3388
+        ]
+      ],
+      "score": 0.9023042321205139,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9989431905296614
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0571.png"
+}

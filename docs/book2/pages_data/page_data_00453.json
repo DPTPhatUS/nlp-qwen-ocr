@@ -1,0 +1,630 @@
+{
+  "page_num": 453,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0453_015_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9325163960456848,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0453_017_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9157039523124695,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0453_016_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          329
+        ],
+        [
+          658,
+          329
+        ],
+        [
+          658,
+          380
+        ],
+        [
+          224,
+          380
+        ]
+      ],
+      "score": 0.9249454736709595,
+      "y_pos": 329,
+      "text": "24. Chứng bại liệt",
+      "confidence": 0.9530719757080078
+    },
+    {
+      "type": "text",
+      "img_path": "p0453_000_text.png",
+      "bbox": [
+        [
+          220,
+          417
+        ],
+        [
+          2359,
+          417
+        ],
+        [
+          2359,
+          1036
+        ],
+        [
+          220,
+          1036
+        ]
+      ],
+      "score": 0.9877310395240784,
+      "y_pos": 417,
+      "text": "Bắp thịt hoặc khớp xương đau buốt, tê dại gọi là bại. Bại cũng có nghĩa là tà khí bế tắc và khí\ntrệ. Chứng bại phần lớn là sinh ra do bị cảm gió lạnh hoặc ở lâu nơi ẩm thấp. Do mức độ cảm\nthụ ba khí: Phong, hàn, thấp khác nhau, cho nên phân ra như sau: Nếu phong khí nặng gọi là\nphong bại, nếu hàn khí nặng gọi là hàn bại (đau bại), nếu thấp khí nhiều gọi là thấp bại. Đau\nlung tung khắp tứ chi, nơi đau không cố định gọi là Phong bại. Đau nửa người hoặc đau cục bộ,\ncó nơi đau cố định, chườm nóng hoặc hơ nóng giảm đau, những ngày trời âm u đau tăng gọi là\nThống bại. Da thịt tê bại, đau các khớp chân tay, đau một chỗ nhất định, nhạy cảm với thời tiết\ngọi là Thấp bại. Nếu các khớp sưng đỏ, nóng, đau, chườm mát tháy dễ chịu hơn gọi là Nhiệt\nbai.",
+      "confidence": 0.9980487989191388
+    },
+    {
+      "type": "text",
+      "img_path": "p0453_018_text.png",
+      "bbox": [
+        [
+          282,
+          1079
+        ],
+        [
+          2034,
+          1079
+        ],
+        [
+          2034,
+          1129
+        ],
+        [
+          282,
+          1129
+        ]
+      ],
+      "score": 0.9072163105010986,
+      "y_pos": 1079,
+      "text": "Cách chữa: Căn cứ vào nơi đau và theo kinh mà lấy huyết đường xa là chính.",
+      "confidence": 0.9928543818624396
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0453_023_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          1169
+        ],
+        [
+          545,
+          1169
+        ],
+        [
+          545,
+          1223
+        ],
+        [
+          284,
+          1223
+        ]
+      ],
+      "score": 0.7429435849189758,
+      "y_pos": 1169,
+      "text": "Lâv huvêt:",
+      "confidence": 0.757546454668045
+    },
+    {
+      "type": "text",
+      "img_path": "p0453_012_text.png",
+      "bbox": [
+        [
+          285,
+          1263
+        ],
+        [
+          1303,
+          1263
+        ],
+        [
+          1303,
+          1313
+        ],
+        [
+          285,
+          1313
+        ]
+      ],
+      "score": 0.9365622997283936,
+      "y_pos": 1263,
+      "text": "\n    Đau vai: Kiên ngung, Khúc trì, Ngoại quan.\n",
+      "confidence": 0.7016294011298347
+    },
+    {
+      "type": "text",
+      "img_path": "p0453_007_text.png",
+      "bbox": [
+        [
+          285,
+          1353
+        ],
+        [
+          1639,
+          1353
+        ],
+        [
+          1639,
+          1405
+        ],
+        [
+          285,
+          1405
+        ]
+      ],
+      "score": 0.9387291669845581,
+      "y_pos": 1353,
+      "text": "\n    Đau khuỷu tay: Xích trạch, Khúc trì, Hợp cốc, Ngoại quan.\n",
+      "confidence": 0.984584399734635
+    },
+    {
+      "type": "text",
+      "img_path": "p0453_011_text.png",
+      "bbox": [
+        [
+          284,
+          1445
+        ],
+        [
+          1565,
+          1445
+        ],
+        [
+          1565,
+          1494
+        ],
+        [
+          284,
+          1494
+        ]
+      ],
+      "score": 0.9366568326950073,
+      "y_pos": 1445,
+      "text": "\n    Đau cổ tay: Dương trì, Liệt Khuyết, Chi câu, Dịch môn.\n",
+      "confidence": 0.9832170970737935
+    },
+    {
+      "type": "text",
+      "img_path": "p0453_008_text.png",
+      "bbox": [
+        [
+          286,
+          1537
+        ],
+        [
+          1095,
+          1537
+        ],
+        [
+          1095,
+          1586
+        ],
+        [
+          286,
+          1586
+        ]
+      ],
+      "score": 0.9380220174789429,
+      "y_pos": 1537,
+      "text": "\n    Đau ngón tay: Hợp cốc, Hâu khê.\n",
+      "confidence": 0.9744971582764074
+    },
+    {
+      "type": "text",
+      "img_path": "p0453_009_text.png",
+      "bbox": [
+        [
+          285,
+          1629
+        ],
+        [
+          1750,
+          1629
+        ],
+        [
+          1750,
+          1680
+        ],
+        [
+          285,
+          1680
+        ]
+      ],
+      "score": 0.9379260540008545,
+      "y_pos": 1629,
+      "text": "\n    Đau cột sống: Thận trụ, Thận du, Úy trung, Côn lôn (Côn luân).\n",
+      "confidence": 0.9865227775140242
+    },
+    {
+      "type": "text",
+      "img_path": "p0453_010_text.png",
+      "bbox": [
+        [
+          286,
+          1721
+        ],
+        [
+          1512,
+          1721
+        ],
+        [
+          1512,
+          1771
+        ],
+        [
+          286,
+          1771
+        ]
+      ],
+      "score": 0.9377648830413818,
+      "y_pos": 1721,
+      "text": "Đau hông: Hoàn khiêu, Uy trung, Dương lăng tuyên.",
+      "confidence": 0.9962977544934142
+    },
+    {
+      "type": "text",
+      "img_path": "p0453_005_text.png",
+      "bbox": [
+        [
+          287,
+          1813
+        ],
+        [
+          1036,
+          1813
+        ],
+        [
+          1036,
+          1858
+        ],
+        [
+          287,
+          1858
+        ]
+      ],
+      "score": 0.9399582743644714,
+      "y_pos": 1813,
+      "text": "\n    Đau mắt cá: Giải khê. Côn lôn.\n",
+      "confidence": 0.9749318180339677
+    },
+    {
+      "type": "text",
+      "img_path": "p0453_013_text.png",
+      "bbox": [
+        [
+          286,
+          1906
+        ],
+        [
+          1345,
+          1906
+        ],
+        [
+          1345,
+          1954
+        ],
+        [
+          286,
+          1954
+        ]
+      ],
+      "score": 0.9354054927825928,
+      "y_pos": 1906,
+      "text": "\n    Đau bàn chân: Thái khê, Côn lôn, Thái xung.\n",
+      "confidence": 0.9809499935827394
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0453_021_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          1997
+        ],
+        [
+          523,
+          1997
+        ],
+        [
+          523,
+          2046
+        ],
+        [
+          286,
+          2046
+        ]
+      ],
+      "score": 0.8577429056167603,
+      "y_pos": 1997,
+      "text": "Gia giảm:",
+      "confidence": 0.8252710049802606
+    },
+    {
+      "type": "text",
+      "img_path": "p0453_006_text.png",
+      "bbox": [
+        [
+          286,
+          2086
+        ],
+        [
+          1128,
+          2086
+        ],
+        [
+          1128,
+          2136
+        ],
+        [
+          286,
+          2136
+        ]
+      ],
+      "score": 0.9397231936454773,
+      "y_pos": 2086,
+      "text": "\n    Phong bai, gia Huyết hải, Cách du.\n",
+      "confidence": 0.6535581688086192
+    },
+    {
+      "type": "text",
+      "img_path": "p0453_004_text.png",
+      "bbox": [
+        [
+          287,
+          2179
+        ],
+        [
+          1209,
+          2179
+        ],
+        [
+          1209,
+          2230
+        ],
+        [
+          287,
+          2230
+        ]
+      ],
+      "score": 0.9411376118659973,
+      "y_pos": 2179,
+      "text": "Thông bại, gia Thận du, Quan nguyên.",
+      "confidence": 0.9876368328144676
+    },
+    {
+      "type": "text",
+      "img_path": "p0453_003_text.png",
+      "bbox": [
+        [
+          288,
+          2270
+        ],
+        [
+          903,
+          2270
+        ],
+        [
+          903,
+          2321
+        ],
+        [
+          288,
+          2321
+        ]
+      ],
+      "score": 0.9417333006858826,
+      "y_pos": 2270,
+      "text": "Thập bại, gia Túc tam lý.",
+      "confidence": 0.9811480795895612
+    },
+    {
+      "type": "text",
+      "img_path": "p0453_014_text.png",
+      "bbox": [
+        [
+          287,
+          2362
+        ],
+        [
+          1328,
+          2362
+        ],
+        [
+          1328,
+          2413
+        ],
+        [
+          287,
+          2413
+        ]
+      ],
+      "score": 0.9328349828720093,
+      "y_pos": 2362,
+      "text": "\n    Nhiệt bại, gia Đại chùy, Khúc trì, A thị huyệt.\n",
+      "confidence": 0.9845128712588793
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0453_022_paragraph_title.png",
+      "bbox": [
+        [
+          287,
+          2456
+        ],
+        [
+          537,
+          2456
+        ],
+        [
+          537,
+          2505
+        ],
+        [
+          287,
+          2505
+        ]
+      ],
+      "score": 0.854787290096283,
+      "y_pos": 2456,
+      "text": "Thủ pháp:",
+      "confidence": 0.9139398715712808
+    },
+    {
+      "type": "text",
+      "img_path": "p0453_002_text.png",
+      "bbox": [
+        [
+          281,
+          2545
+        ],
+        [
+          2357,
+          2545
+        ],
+        [
+          2357,
+          2738
+        ],
+        [
+          281,
+          2738
+        ]
+      ],
+      "score": 0.9786360859870911,
+      "y_pos": 2545,
+      "text": "Nhiệt bại và Phong bại dùng tả pháp châm nông. Đau bại hay dùng phép cứu hay phép tả.\nNếu đau dữ dội có thể cứu cách gừng. Thấp bại cũng vừa châm vừa cứu, nhưng nếu sưng\nnóng, đỏ đau thì châm mà không cứu.",
+      "confidence": 0.9995594559261788
+    },
+    {
+      "type": "text",
+      "img_path": "p0453_001_text.png",
+      "bbox": [
+        [
+          279,
+          2779
+        ],
+        [
+          2360,
+          2779
+        ],
+        [
+          2360,
+          3179
+        ],
+        [
+          279,
+          3179
+        ]
+      ],
+      "score": 0.9849271774291992,
+      "y_pos": 2779,
+      "text": "Giảng nghĩa của phương: Bệnh này chủ yếu căn cứ vào bệnh thuộc nơi nào, theo đường\nkinh tuần hành mà lấy huyệt để lưu thông sự tắc trệ của khí huyết kinh lạc. Làm cho kinh khí\ndễ lưu thông, cơ thể có sức khoẻ thì ba thứ tà Phong, Hàn, Thấp không còn chỗ nương tựa,\nbệnh bại được giải. Bệnh ở da thịt thì châm nông, bệnh ở gân, xương thì châm sâu và lưu\nkim, tuỳ theo chứng mà biến hoá, xận dụng các cách châm khác nhau và cách thao tác khác\nnhau.",
+      "confidence": 0.9945364232579372
+    },
+    {
+      "type": "number",
+      "img_path": "p0453_020_number.png",
+      "bbox": [
+        [
+          2304,
+          3299
+        ],
+        [
+          2353,
+          3299
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2304,
+          3335
+        ]
+      ],
+      "score": 0.8705763220787048,
+      "y_pos": 3299,
+      "text": "    \n    \n\n\n\n\n\n    \n.\n٠.    \n\n    \n    ",
+      "confidence": 0.9496065119379445
+    },
+    {
+      "type": "footer",
+      "img_path": "p0453_019_footer.png",
+      "bbox": [
+        [
+          227,
+          3309
+        ],
+        [
+          1323,
+          3309
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          227,
+          3355
+        ]
+      ],
+      "score": 0.9048636555671692,
+      "y_pos": 3309,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9164089819170395
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0453.png"
+}

@@ -1,0 +1,292 @@
+{
+  "page_num": 15,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0015_004_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          203
+        ],
+        [
+          1607,
+          203
+        ]
+      ],
+      "score": 0.9052475094795227,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7641311777489526
+    },
+    {
+      "type": "header",
+      "img_path": "p0015_005_header.png",
+      "bbox": [
+        [
+          227,
+          154
+        ],
+        [
+          1329,
+          154
+        ],
+        [
+          1329,
+          202
+        ],
+        [
+          227,
+          202
+        ]
+      ],
+      "score": 0.9022473692893982,
+      "y_pos": 154,
+      "text": "VŨ TRU QUAN VÀ CÁC THUYẾT CƠ BÁN CỦA ĐÔNG Y",
+      "confidence": 0.9962137964036729
+    },
+    {
+      "type": "table",
+      "img_path": "p0015_001_table.png",
+      "bbox": [
+        [
+          438,
+          345
+        ],
+        [
+          2152,
+          345
+        ],
+        [
+          2152,
+          1246
+        ],
+        [
+          438,
+          1246
+        ]
+      ],
+      "score": 0.98642897605896,
+      "y_pos": 345,
+      "text": "Ngũ hành    Môc    Hỏa    Thổ    Kim    Thủy\nNgũ tạng    Can    Tâm    Τỳ    Phế    Thân\nPhủ    Đảm    Tiếu trường    Vį    Đại trường    Bàng quang\nNgũ khiếu    Mắt    Lưỡi    Mồm    Mũi    Tai\nNgũ thể    Gân    Mach    Cơ bắp    Da lông    Xương\nNgũ chí    Giân    Mừng    Lo    Nghĩ    Sợ\nNgũ sắc    Xanh    Đỏ    Vàng    Trắng    Đen\nNgũ vị    Chua    Đắng    Ngot    Cay    Măn\nNgũ khí    Phong    Thử    Thấp    Táo    Hàn\nMùa tiết    Xuân    На    Trưởng    Thu    Đông",
+      "confidence": 0.8694541047701138
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_009_text.png",
+      "bbox": [
+        [
+          279,
+          1286
+        ],
+        [
+          2355,
+          1286
+        ],
+        [
+          2355,
+          1412
+        ],
+        [
+          279,
+          1412
+        ]
+      ],
+      "score": 0.8671240210533142,
+      "y_pos": 1286,
+      "text": "Cứ theo phân loại ở bảng trên, lấy hành Mộc làm ví dụ, ứng với ngũ hành có các Tạng, Phủ\nKhiếu (can, đảm, mắt)...",
+      "confidence": 0.9972059122262857
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_003_text.png",
+      "bbox": [
+        [
+          279,
+          1436
+        ],
+        [
+          2358,
+          1436
+        ],
+        [
+          2358,
+          1562
+        ],
+        [
+          279,
+          1562
+        ]
+      ],
+      "score": 0.9535862803459167,
+      "y_pos": 1436,
+      "text": "Học thuyết Ngũ hành có cho rằng Ngũ tạng có quan hệ Sinh Khắc. Sinh là thúc đẩy, Khắc là\nức chế.",
+      "confidence": 0.9969062298536301
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_000_text.png",
+      "bbox": [
+        [
+          278,
+          1598
+        ],
+        [
+          2359,
+          1598
+        ],
+        [
+          2359,
+          2405
+        ],
+        [
+          278,
+          2405
+        ]
+      ],
+      "score": 0.9874215126037598,
+      "y_pos": 1598,
+      "text": "Quy hoạch của tương sinh giữa Ngũ tạng là Can với Tâm, Tâm với Tỳ, Tỳ với Phế, Phế với\nThận, Thận với Can, (tức là Mộc - Hỏa - Thổ - Kim - Thủy - Mộc). Trong quan hệ qua lại giữa\ncái nó sinh ra và cái sinh ra nó, sinh ra nó là mẹ, nó sinh ra là con. Ví dụ: Hỏa là mẹ của Thổ,\nđồng thời là con của Mộc. Quy luật tơng khắc là Can khắc Tỳ, Tỳ khắc Thận, Thận khắc\nTâm, Tâm khắc Phế, Phế khắc Can (tức là Mộc - Thổ - Thủy - Hỏa - Kim - Mộc) trong quan\nhệ tương khắc có cái nó khắc là \"Sở thắng\" và cái khắc nó là \"Sở bất thắng\". Ví dụ: Hỏa là\nsở thắng của Kim và sở bất thắng của Thủy. Ngoài ra còn có quan hệ phản khắc (tương vũ)*\nví dụ: Tỳ thổ vốn khắc thận thủy, nhưng lúc có bệnh, thận thủy phát triển phản khắc lại Tỳ\nthổ sinh ra la lỏng nhão. Một tạng thúc đẩy một tạng, một tạng ức chế một tạng, thúc đẩy và\nức chế cùng kết hợp đã duy trì quan hệ bình thường giữa các tạng, duy trì được hoạt động\nsinh lý bình thường của con người.",
+      "confidence": 0.998140027231151
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0015_007_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          2450
+        ],
+        [
+          811,
+          2450
+        ],
+        [
+          811,
+          2503
+        ],
+        [
+          283,
+          2503
+        ]
+      ],
+      "score": 0.8982085585594177,
+      "y_pos": 2450,
+      "text": "2. Vận dụng lâm sàng",
+      "confidence": 0.9281124066222798
+    },
+    {
+      "type": "text",
+      "img_path": "p0015_002_text.png",
+      "bbox": [
+        [
+          278,
+          2533
+        ],
+        [
+          2358,
+          2533
+        ],
+        [
+          2358,
+          2892
+        ],
+        [
+          278,
+          2892
+        ]
+      ],
+      "score": 0.9801526665687561,
+      "y_pos": 2533,
+      "text": "Ngũ hành và chẩn trị lâm sàng có quan hệ, như trong vọng chẩn thường lấy sắc thái mặt mà\nphân biệt tạng phủ có bệnh: Sắc xanh thường do Can phong, sắc đỏ thường do Tâm hỏa,\nsắc vàng thường thuộc Tỳ thấp, sắc trắng là Phế hàn, sắc đen là do Thận hư. Lại như khi,\nchữa bệnh của tạng phủ phải theo 5 mùi vị của thuốc đối với Ngũ tạng mà dùng (theo bảng\ntrên).",
+      "confidence": 0.995084455729717
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0015_008_footnote.png",
+      "bbox": [
+        [
+          228,
+          3154
+        ],
+        [
+          1014,
+          3154
+        ],
+        [
+          1014,
+          3205
+        ],
+        [
+          228,
+          3205
+        ]
+      ],
+      "score": 0.8893969655036926,
+      "y_pos": 3154,
+      "text": "* Phản khắc: Tương vũ (hôn láo với nhau).",
+      "confidence": 0.9961650842844054
+    },
+    {
+      "type": "footer",
+      "img_path": "p0015_006_footer.png",
+      "bbox": [
+        [
+          227,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.9020646810531616,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.952197735039693
+    },
+    {
+      "type": "number",
+      "img_path": "p0015_010_number.png",
+      "bbox": [
+        [
+          2332,
+          3340
+        ],
+        [
+          2356,
+          3340
+        ],
+        [
+          2356,
+          3373
+        ],
+        [
+          2332,
+          3373
+        ]
+      ],
+      "score": 0.791565477848053,
+      "y_pos": 3340,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0015.png"
+}

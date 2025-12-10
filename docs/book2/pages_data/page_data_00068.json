@@ -1,0 +1,162 @@
+{
+  "page_num": 68,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0068_002_header.png",
+      "bbox": [
+        [
+          1606,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1606,
+          201
+        ]
+      ],
+      "score": 0.925599992275238,
+      "y_pos": 142,
+      "text": "_______________________________________\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6523312898618834
+    },
+    {
+      "type": "header",
+      "img_path": "p0068_004_header.png",
+      "bbox": [
+        [
+          230,
+          155
+        ],
+        [
+          427,
+          155
+        ],
+        [
+          427,
+          198
+        ],
+        [
+          230,
+          198
+        ]
+      ],
+      "score": 0.90132737159729,
+      "y_pos": 155,
+      "text": "- 4    V\nΔ",
+      "confidence": 0.6753017405668894
+    },
+    {
+      "type": "text",
+      "img_path": "p0068_000_text.png",
+      "bbox": [
+        [
+          398,
+          305
+        ],
+        [
+          2357,
+          305
+        ],
+        [
+          2357,
+          427
+        ],
+        [
+          398,
+          427
+        ]
+      ],
+      "score": 0.9590814709663391,
+      "y_pos": 305,
+      "text": "+ Khi la chảy mà mạch tế nhược, chi lạnh là la chảy rất khó cầm, chân tay ấm áp thì la\nchảy rất dễ cầm.",
+      "confidence": 0.994021534957368
+    },
+    {
+      "type": "text",
+      "img_path": "p0068_001_text.png",
+      "bbox": [
+        [
+          344,
+          460
+        ],
+        [
+          2356,
+          460
+        ],
+        [
+          2356,
+          586
+        ],
+        [
+          344,
+          586
+        ]
+      ],
+      "score": 0.9538872838020325,
+      "y_pos": 460,
+      "text": "- Sờ nắn kinh lạc: Là sờ ấn các huyệt trên kinh lạc, để tìm điểm phản ứng bệnh lý, thec\nphương pháp chẩn đoán trị liệu của kinh lạc ở phép châm cứu đã nói rõ.",
+      "confidence": 0.959873829827587
+    },
+    {
+      "type": "footer",
+      "img_path": "p0068_003_footer.png",
+      "bbox": [
+        [
+          229,
+          3333
+        ],
+        [
+          1436,
+          3333
+        ],
+        [
+          1436,
+          3387
+        ],
+        [
+          229,
+          3387
+        ]
+      ],
+      "score": 0.9056535363197327,
+      "y_pos": 3333,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9980784182278615
+    },
+    {
+      "type": "number",
+      "img_path": "p0068_005_number.png",
+      "bbox": [
+        [
+          2304,
+          3337
+        ],
+        [
+          2354,
+          3337
+        ],
+        [
+          2354,
+          3373
+        ],
+        [
+          2304,
+          3373
+        ]
+      ],
+      "score": 0.8644492626190186,
+      "y_pos": 3337,
+      "text": "\n    \n\n\n\n\n    \n\n\n\n\n    \n۰.\n    \n۰    \n٠.\n    \n",
+      "confidence": 0.9381696004420519
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0068.png"
+}

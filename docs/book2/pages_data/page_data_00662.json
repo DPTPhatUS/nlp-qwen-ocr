@@ -1,0 +1,578 @@
+{
+  "page_num": 662,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0662_009_header.png",
+      "bbox": [
+        [
+          1674,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1674,
+          197
+        ]
+      ],
+      "score": 0.9261417984962463,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.710203885677315
+    },
+    {
+      "type": "header",
+      "img_path": "p0662_012_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9149700403213501,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "text",
+      "img_path": "p0662_002_text.png",
+      "bbox": [
+        [
+          279,
+          307
+        ],
+        [
+          2359,
+          307
+        ],
+        [
+          2359,
+          502
+        ],
+        [
+          279,
+          502
+        ]
+      ],
+      "score": 0.9780701994895935,
+      "y_pos": 307,
+      "text": "a. Triệu chứng: Phế Tỳ lưỡng hư thuộc hư chứng, biểu hiện: Ho kéo dài ngày, đờm nhiều,\nlỏng mà trong, sắc mặt gầy còm phờ phạc, mệt mỏi, kém ăn, bụng chướng, ỉa nhão, lưỡi\nmỏng, chậm, sắc nhạt, rêu trắng, mạch tế hoặc hư, đại.",
+      "confidence": 0.9952263324593208
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0662_013_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          541
+        ],
+        [
+          982,
+          541
+        ],
+        [
+          982,
+          592
+        ],
+        [
+          284,
+          592
+        ]
+      ],
+      "score": 0.9126617312431335,
+      "y_pos": 541,
+      "text": "Mô hình chỉ số nhiệt kinh lạc",
+      "confidence": 0.9980013582014269
+    },
+    {
+      "type": "text",
+      "img_path": "p0662_005_text.png",
+      "bbox": [
+        [
+          280,
+          632
+        ],
+        [
+          2358,
+          632
+        ],
+        [
+          2358,
+          758
+        ],
+        [
+          280,
+          758
+        ]
+      ],
+      "score": 0.9638397693634033,
+      "y_pos": 632,
+      "text": "Phế (+BL), Tỳ (-BL), Tâm bào (+), Thận (+), Bàng quang (-), Tam tiêu (-), Tiểu trường (-),\nCan (-), Đảm (-), Vị (-).",
+      "confidence": 0.9947319067354747
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0662_017_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          797
+        ],
+        [
+          701,
+          797
+        ],
+        [
+          701,
+          847
+        ],
+        [
+          284,
+          847
+        ]
+      ],
+      "score": 0.9041998386383057,
+      "y_pos": 797,
+      "text": "b. Phương huyệt",
+      "confidence": 0.9920466016320622
+    },
+    {
+      "type": "text",
+      "img_path": "p0662_015_text.png",
+      "bbox": [
+        [
+          280,
+          886
+        ],
+        [
+          2304,
+          886
+        ],
+        [
+          2304,
+          939
+        ],
+        [
+          280,
+          939
+        ]
+      ],
+      "score": 0.9123339653015137,
+      "y_pos": 886,
+      "text": "Bổ: Phế du, Tỳ du, Can du, Cách du, Đảm du, Thần môn, Chi chính, Nội quan, Túc Tam lý.",
+      "confidence": 0.9922805665568872
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0662_016_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          981
+        ],
+        [
+          1000,
+          981
+        ],
+        [
+          1000,
+          1031
+        ],
+        [
+          284,
+          1031
+        ]
+      ],
+      "score": 0.9101278185844421,
+      "y_pos": 981,
+      "text": "c. Giảng nghĩa phương huyệt",
+      "confidence": 0.9981385037816805
+    },
+    {
+      "type": "text",
+      "img_path": "p0662_000_text.png",
+      "bbox": [
+        [
+          279,
+          1064
+        ],
+        [
+          2360,
+          1064
+        ],
+        [
+          2360,
+          1403
+        ],
+        [
+          279,
+          1403
+        ]
+      ],
+      "score": 0.9836560487747192,
+      "y_pos": 1064,
+      "text": "Bổ <i>Phế du</i> là trực tiếp bổ vào Phế tạng. Bổ <i>Tỳ du, Túc Tam lý</i> là bổ Tỳ để bổ Phế, gọi là bồi\nthổ sinh kim. Bổ <i>Cách du, Đảm du</i> là Tứ hoa liệu pháp để bổ dưỡng khí huyết toàn thân; bổ\nThần môn, Chi chính là dùng nguyên lạc biểu lý giữa Tâm và Tiểu trường để bổ Tâm khí; bổ\nNội quan là bổ vào âm huyết. Đây là một phương bồi bổ Phế, Tỳ có đội ngũ hùng hậu và\nhiệu quả cao.",
+      "confidence": 0.9952270909488264
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0662_010_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1444
+        ],
+        [
+          747,
+          1444
+        ],
+        [
+          747,
+          1496
+        ],
+        [
+          226,
+          1496
+        ]
+      ],
+      "score": 0.9246698021888733,
+      "y_pos": 1444,
+      "text": "7. Phế thân lưỡng hư",
+      "confidence": 0.9795390502973036
+    },
+    {
+      "type": "text",
+      "img_path": "p0662_008_text.png",
+      "bbox": [
+        [
+          222,
+          1535
+        ],
+        [
+          2358,
+          1535
+        ],
+        [
+          2358,
+          1661
+        ],
+        [
+          222,
+          1661
+        ]
+      ],
+      "score": 0.9620477557182312,
+      "y_pos": 1535,
+      "text": "Mô hình chỉ số nhiệt kinh lạc cơ bản: Phế (+BL); nghĩa là kinh Phế có trạng thái nhiệt bệnh\nlý. Số tương quan của kinh Phế có giá trị tuyệt đối lớn hơn sai số giới hạn và mang dấu +.",
+      "confidence": 0.9992260947238345
+    },
+    {
+      "type": "text",
+      "img_path": "p0662_003_text.png",
+      "bbox": [
+        [
+          276,
+          1699
+        ],
+        [
+          2361,
+          1699
+        ],
+        [
+          2361,
+          1892
+        ],
+        [
+          276,
+          1892
+        ]
+      ],
+      "score": 0.9762794375419617,
+      "y_pos": 1699,
+      "text": "a. Triệu chứng: Phế Thận lưỡng hư thuộc âm hư biểu hiên ho ít, ít đờm, cử động thì hụt\nhơi, mặt trắng, gò má đỏ, sốt về chiều hoặc ngũ tâm phiền nhiệt, gầy mòn mất ngủ, mồ hôi\ntrộm, đêm đến miệng khô, lưng đau, đùi nhẽo, di tinh, lưỡi hồng ít rêu, mạch tế sác.",
+      "confidence": 0.9891816734448547
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0662_020_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          1932
+        ],
+        [
+          982,
+          1932
+        ],
+        [
+          982,
+          1983
+        ],
+        [
+          283,
+          1983
+        ]
+      ],
+      "score": 0.8962171077728271,
+      "y_pos": 1932,
+      "text": "Mô hình chỉ số nhiệt kinh lạc",
+      "confidence": 0.9980617030974357
+    },
+    {
+      "type": "text",
+      "img_path": "p0662_006_text.png",
+      "bbox": [
+        [
+          278,
+          2023
+        ],
+        [
+          2357,
+          2023
+        ],
+        [
+          2357,
+          2149
+        ],
+        [
+          278,
+          2149
+        ]
+      ],
+      "score": 0.9635461568832397,
+      "y_pos": 2023,
+      "text": "Phế (+BL), Thận (+), Đảm (+), Can (+), Tâm bào (+), Tam tiêu (+), Tiểu trường (-), Tỳ (+),\nBàng quang (-).",
+      "confidence": 0.9835590782677731
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0662_019_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          2188
+        ],
+        [
+          703,
+          2188
+        ],
+        [
+          703,
+          2238
+        ],
+        [
+          284,
+          2238
+        ]
+      ],
+      "score": 0.8965518474578857,
+      "y_pos": 2188,
+      "text": "b. Phương huyệt",
+      "confidence": 0.9916412269367891
+    },
+    {
+      "type": "text",
+      "img_path": "p0662_007_text.png",
+      "bbox": [
+        [
+          280,
+          2277
+        ],
+        [
+          2363,
+          2277
+        ],
+        [
+          2363,
+          2402
+        ],
+        [
+          280,
+          2402
+        ]
+      ],
+      "score": 0.962835967540741,
+      "y_pos": 2277,
+      "text": "Cứu hoặc châm bổ: Cách du, Đảm du, Phế du, Thận du. Tả: Can du, Chí dương. Bổ: Nội\nquan, Tam âm giao, Túc Tam lý. Tả: Hợp cốc. Bổ: Phục lưu.",
+      "confidence": 0.9989132523187906
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0662_014_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          2443
+        ],
+        [
+          999,
+          2443
+        ],
+        [
+          999,
+          2496
+        ],
+        [
+          285,
+          2496
+        ]
+      ],
+      "score": 0.9125972986221313,
+      "y_pos": 2443,
+      "text": "c. Giảng nghĩa phương huyệt",
+      "confidence": 0.9982020279456829
+    },
+    {
+      "type": "text",
+      "img_path": "p0662_001_text.png",
+      "bbox": [
+        [
+          280,
+          2531
+        ],
+        [
+          2360,
+          2531
+        ],
+        [
+          2360,
+          2797
+        ],
+        [
+          280,
+          2797
+        ]
+      ],
+      "score": 0.9809327125549316,
+      "y_pos": 2531,
+      "text": "2 Cách du, 2 Đảm du gọi là Tứ hoa liệu pháp chữa lao phổi vô cùng hiệu quả. Bổ Phế du,\nThận du là bổ thận âm và Phế âm. Tả Can du, Chí dương để tả Can, Đảm hoả vượng. Bổ\nNội quan, Tam âm giao là bổ âm huyết, bổ Túc Tam lý để dẫn hoả khí đi xuống. Tả Hợp cốc,\nbổ <i>Phục lưu</i> để cầm mồ hôi không cho hao tổn âm tân.",
+      "confidence": 0.9788436677742314
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0662_011_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2836
+        ],
+        [
+          809,
+          2836
+        ],
+        [
+          809,
+          2890
+        ],
+        [
+          226,
+          2890
+        ]
+      ],
+      "score": 0.9228339791297913,
+      "y_pos": 2836,
+      "text": "8. Đại trường thấp nhiệt",
+      "confidence": 0.9981644428693331
+    },
+    {
+      "type": "text",
+      "img_path": "p0662_004_text.png",
+      "bbox": [
+        [
+          221,
+          2927
+        ],
+        [
+          2359,
+          2927
+        ],
+        [
+          2359,
+          3123
+        ],
+        [
+          221,
+          3123
+        ]
+      ],
+      "score": 0.9753115773200989,
+      "y_pos": 2927,
+      "text": "Mô hình chỉ số nhiệt kinh lạc cơ bản: Đại trường (+BL); nghĩa là kinh Đại trường có trạng\nthái nhiệt bệnh lý. Số tương quan của kinh Đại trường có giá trị tuyệt đối lớn hơn sai số giới\nhạn và mang dấu +.",
+      "confidence": 0.9930592837155556
+    },
+    {
+      "type": "number",
+      "img_path": "p0662_021_number.png",
+      "bbox": [
+        [
+          2304,
+          3337
+        ],
+        [
+          2353,
+          3337
+        ],
+        [
+          2353,
+          3373
+        ],
+        [
+          2304,
+          3373
+        ]
+      ],
+      "score": 0.861591100692749,
+      "y_pos": 3337,
+      "text": "    \n            \n    \n\n\n    \n\n\n\n    \n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0662_018_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3388
+        ],
+        [
+          228,
+          3388
+        ]
+      ],
+      "score": 0.9031112790107727,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985950510456877
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0662.png"
+}

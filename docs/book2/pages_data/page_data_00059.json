@@ -1,0 +1,574 @@
+{
+  "page_num": 59,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0059_006_header.png",
+      "bbox": [
+        [
+          1606,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1606,
+          201
+        ]
+      ],
+      "score": 0.9370347857475281,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7424319858352344
+    },
+    {
+      "type": "header",
+      "img_path": "p0059_012_header.png",
+      "bbox": [
+        [
+          230,
+          154
+        ],
+        [
+          427,
+          154
+        ],
+        [
+          427,
+          199
+        ],
+        [
+          230,
+          199
+        ]
+      ],
+      "score": 0.9046279788017273,
+      "y_pos": 154,
+      "text": "V",
+      "confidence": 0.4046758860349655
+    },
+    {
+      "type": "text",
+      "img_path": "p0059_004_text.png",
+      "bbox": [
+        [
+          279,
+          303
+        ],
+        [
+          2359,
+          303
+        ],
+        [
+          2359,
+          419
+        ],
+        [
+          279,
+          419
+        ]
+      ],
+      "score": 0.9655219316482544,
+      "y_pos": 303,
+      "text": "Mạch trì một nhịp thở là 3 lần đập; (nhất tức tam chí), tương đương với 60 lần trong một\nphút..",
+      "confidence": 0.9926412824127409
+    },
+    {
+      "type": "text",
+      "img_path": "p0059_002_text.png",
+      "bbox": [
+        [
+          278,
+          456
+        ],
+        [
+          2357,
+          456
+        ],
+        [
+          2357,
+          575
+        ],
+        [
+          278,
+          575
+        ]
+      ],
+      "score": 0.9713937640190125,
+      "y_pos": 456,
+      "text": "Mạch sác thì 1 nhịp thở từ 5 lần trở lên (nhất tức ngũ chí dĩ thượng) tương đương 90 lần\ntrong một phút.",
+      "confidence": 0.9962294901897705
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0059_015_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          616
+        ],
+        [
+          1136,
+          616
+        ],
+        [
+          1136,
+          665
+        ],
+        [
+          343,
+          665
+        ]
+      ],
+      "score": 0.873069703578949,
+      "y_pos": 616,
+      "text": "Mach trì chủ bệnh: Hàn chứng",
+      "confidence": 0.915041983127594
+    },
+    {
+      "type": "text",
+      "img_path": "p0059_009_text.png",
+      "bbox": [
+        [
+          408,
+          699
+        ],
+        [
+          1359,
+          699
+        ],
+        [
+          1359,
+          748
+        ],
+        [
+          408,
+          748
+        ]
+      ],
+      "score": 0.9277445673942566,
+      "y_pos": 699,
+      "text": "Phù mà trì: Biểu hàn. Trầm mà trì: Lý hàn.",
+      "confidence": 0.9929325201294639
+    },
+    {
+      "type": "text",
+      "img_path": "p0059_008_text.png",
+      "bbox": [
+        [
+          409,
+          783
+        ],
+        [
+          1553,
+          783
+        ],
+        [
+          1553,
+          832
+        ],
+        [
+          409,
+          832
+        ]
+      ],
+      "score": 0.930476725101471,
+      "y_pos": 783,
+      "text": "Trì hữu lưc: Lãnh tích thực chứng; vô lực: Hư hàn,",
+      "confidence": 0.9906761325322665
+    },
+    {
+      "type": "text",
+      "img_path": "p0059_003_text.png",
+      "bbox": [
+        [
+          406,
+          864
+        ],
+        [
+          2357,
+          864
+        ],
+        [
+          2357,
+          988
+        ],
+        [
+          406,
+          988
+        ]
+      ],
+      "score": 0.9669911861419678,
+      "y_pos": 864,
+      "text": "Như lưng, đầu gối mềm, tảng sáng đau bụng la chảy, lưỡi nhạt, ẩm (nhuận), mạch\ntrầm, trì vô lực là thận dương hư, lý hư chứng.",
+      "confidence": 0.9982019411209895
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0059_017_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          1028
+        ],
+        [
+          1199,
+          1028
+        ],
+        [
+          1199,
+          1077
+        ],
+        [
+          345,
+          1077
+        ]
+      ],
+      "score": 0.804355263710022,
+      "y_pos": 1028,
+      "text": "Mach sác chủ bênh: Nhiệt chứng",
+      "confidence": 0.909951651468873
+    },
+    {
+      "type": "text",
+      "img_path": "p0059_000_text.png",
+      "bbox": [
+        [
+          401,
+          1110
+        ],
+        [
+          2358,
+          1110
+        ],
+        [
+          2358,
+          1375
+        ],
+        [
+          401,
+          1375
+        ]
+      ],
+      "score": 0.9790241718292236,
+      "y_pos": 1110,
+      "text": "Sác mà hữu lực: Dương thực. Sác mà tế nhược (nhỏ yếu): âm hư nội nhiệt. Như mặt\nđỏ họng khô, trong tâm phiền nhiệt, mạch sác hữu lực lại là tâm hỏa vượng, thuộc\nchứng dương thịnh. Miệng loét, lợi sưng, ăn không tiêu, mạch tế, sác là vị âm hư, hư\nhỏa thượng việm, thuộc hư nhiệt.",
+      "confidence": 0.9989703945473097
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0059_013_figure_title.png",
+      "bbox": [
+        [
+          903,
+          1420
+        ],
+        [
+          1743,
+          1420
+        ],
+        [
+          1743,
+          1467
+        ],
+        [
+          903,
+          1467
+        ]
+      ],
+      "score": 0.8880409598350525,
+      "y_pos": 1420,
+      "text": "Hình 3. Hình sóng mạch trì và mạch sác",
+      "confidence": 0.817038656771183
+    },
+    {
+      "type": "image",
+      "img_path": "p0059_019_image.png",
+      "bbox": [
+        [
+          579,
+          1519
+        ],
+        [
+          2074,
+          1519
+        ],
+        [
+          2074,
+          1770
+        ],
+        [
+          579,
+          1770
+        ]
+      ],
+      "score": 0.7212315201759338,
+      "y_pos": 1519
+    },
+    {
+      "type": "text",
+      "img_path": "p0059_001_text.png",
+      "bbox": [
+        [
+          280,
+          1865
+        ],
+        [
+          2357,
+          1865
+        ],
+        [
+          2357,
+          2050
+        ],
+        [
+          280,
+          2050
+        ]
+      ],
+      "score": 0.974790096282959,
+      "y_pos": 1865,
+      "text": "c. Mạch hư và mạch thực. Đặc điểm của hai mạch tượng này là sự tương phản về sức\nchuyển động mạnh yếu. Mạch hư là lấy mạch ở phù, trung, trầm đều thấy vô lực. Mạch thực\nlà lấy mạch ở phù, trung trầm đều thấy có lực (H.4).",
+      "confidence": 0.9976279640565866
+    },
+    {
+      "type": "text",
+      "img_path": "p0059_010_text.png",
+      "bbox": [
+        [
+          344,
+          2088
+        ],
+        [
+          1818,
+          2088
+        ],
+        [
+          1818,
+          2139
+        ],
+        [
+          344,
+          2139
+        ]
+      ],
+      "score": 0.9268054366111755,
+      "y_pos": 2088,
+      "text": "Mach hư chủ bênh: Khí huyết đều hư. Phù hư là thương thử.",
+      "confidence": 0.9971438908981065
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0059_021_paragraph_title.png",
+      "bbox": [
+        [
+          346,
+          2182
+        ],
+        [
+          1230,
+          2182
+        ],
+        [
+          1230,
+          2233
+        ],
+        [
+          346,
+          2233
+        ]
+      ],
+      "score": 0.5910041928291321,
+      "y_pos": 2182,
+      "text": "Mạch thực chủ bệnh: Thực chứng",
+      "confidence": 0.8597042504698038
+    },
+    {
+      "type": "text",
+      "img_path": "p0059_005_text.png",
+      "bbox": [
+        [
+          402,
+          2263
+        ],
+        [
+          2357,
+          2263
+        ],
+        [
+          2357,
+          2388
+        ],
+        [
+          402,
+          2388
+        ]
+      ],
+      "score": 0.9603958129882812,
+      "y_pos": 2263,
+      "text": "Sốt cao, cuồng thao không yên, đại tiện táo bón, đều xuất hiện mạch thực. Thực mà\nhoạt là ngoan đàm ngưng kết<sup>*</sup>. Thực mà huyền là can khí uất kết.",
+      "confidence": 0.9933610231064782
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0059_018_figure_title.png",
+      "bbox": [
+        [
+          1012,
+          2430
+        ],
+        [
+          1635,
+          2430
+        ],
+        [
+          1635,
+          2478
+        ],
+        [
+          1012,
+          2478
+        ]
+      ],
+      "score": 0.7861555218696594,
+      "y_pos": 2430,
+      "text": "Hình 4. Hình sóng mạch thực",
+      "confidence": 0.7020966225656969
+    },
+    {
+      "type": "image",
+      "img_path": "p0059_014_image.png",
+      "bbox": [
+        [
+          770,
+          2526
+        ],
+        [
+          1851,
+          2526
+        ],
+        [
+          1851,
+          2832
+        ],
+        [
+          770,
+          2832
+        ]
+      ],
+      "score": 0.887130618095398,
+      "y_pos": 2526
+    },
+    {
+      "type": "text",
+      "img_path": "p0059_007_text.png",
+      "bbox": [
+        [
+          282,
+          2921
+        ],
+        [
+          2357,
+          2921
+        ],
+        [
+          2357,
+          3043
+        ],
+        [
+          282,
+          3043
+        ]
+      ],
+      "score": 0.9363011121749878,
+      "y_pos": 2921,
+      "text": "d. Mạch hoạt và mạch sáp: Đặc điểm là tương phản về nỗ thái (hình thái của sức mạch).\nMạch hoạt là mạch đi lại rất lưu lợi dưới tay có cảm giác tròn trơn. Mạch sáp là mạch đi lại bị",
+      "confidence": 0.9972742530304839
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0059_020_footnote.png",
+      "bbox": [
+        [
+          229,
+          3153
+        ],
+        [
+          1280,
+          3153
+        ],
+        [
+          1280,
+          3209
+        ],
+        [
+          229,
+          3209
+        ]
+      ],
+      "score": 0.6614057421684265,
+      "y_pos": 3153,
+      "text": "* Ngoan đàm ngưng kết đờm không long ra cố kết ở trong",
+      "confidence": 0.9903318583965302
+    },
+    {
+      "type": "footer",
+      "img_path": "p0059_011_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3386
+        ],
+        [
+          228,
+          3386
+        ]
+      ],
+      "score": 0.9086155891418457,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9360493050431306
+    },
+    {
+      "type": "number",
+      "img_path": "p0059_016_number.png",
+      "bbox": [
+        [
+          2307,
+          3337
+        ],
+        [
+          2355,
+          3337
+        ],
+        [
+          2355,
+          3373
+        ],
+        [
+          2307,
+          3373
+        ]
+      ],
+      "score": 0.8710694909095764,
+      "y_pos": 3337,
+      "text": "    \n\n\n\n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0059.png"
+}

@@ -1,0 +1,524 @@
+{
+  "page_num": 262,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0262_012_header.png",
+      "bbox": [
+        [
+          1611,
+          142
+        ],
+        [
+          2377,
+          142
+        ],
+        [
+          2377,
+          202
+        ],
+        [
+          1611,
+          202
+        ]
+      ],
+      "score": 0.9180048704147339,
+      "y_pos": 142,
+      "text": "~?    ~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7132810134263265
+    },
+    {
+      "type": "header",
+      "img_path": "p0262_015_header.png",
+      "bbox": [
+        [
+          229,
+          156
+        ],
+        [
+          907,
+          156
+        ],
+        [
+          907,
+          201
+        ],
+        [
+          229,
+          201
+        ]
+      ],
+      "score": 0.9114884734153748,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9881776160207288
+    },
+    {
+      "type": "image",
+      "img_path": "p0262_000_image.png",
+      "bbox": [
+        [
+          552,
+          392
+        ],
+        [
+          2039,
+          392
+        ],
+        [
+          2039,
+          1647
+        ],
+        [
+          552,
+          1647
+        ]
+      ],
+      "score": 0.9777532815933228,
+      "y_pos": 392
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0262_016_figure_title.png",
+      "bbox": [
+        [
+          1194,
+          1732
+        ],
+        [
+          1393,
+          1732
+        ],
+        [
+          1393,
+          1775
+        ],
+        [
+          1194,
+          1775
+        ]
+      ],
+      "score": 0.8923201560974121,
+      "y_pos": 1732,
+      "text": "<b>Hình 133</b>",
+      "confidence": 0.9467190851767858
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0262_011_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1820
+        ],
+        [
+          535,
+          1820
+        ],
+        [
+          535,
+          1866
+        ],
+        [
+          226,
+          1866
+        ]
+      ],
+      "score": 0.9244492650032043,
+      "y_pos": 1820,
+      "text": "<b>267.</b> Mai hoa",
+      "confidence": 0.919549785554409
+    },
+    {
+      "type": "text",
+      "img_path": "p0262_001_text.png",
+      "bbox": [
+        [
+          283,
+          1909
+        ],
+        [
+          2356,
+          1909
+        ],
+        [
+          2356,
+          2034
+        ],
+        [
+          283,
+          2034
+        ]
+      ],
+      "score": 0.9620857238769531,
+      "y_pos": 1909,
+      "text": "Vị trí: Ở huyệt <i>Trung quản</i> và 4 điểm trên dưới của hai huyệt <i>Âm đô</i>, từ <i>Âm đô</i> lên 0,5 thốn\nvà xuống 0,5 thốn. Cộng là 5 điểm. (H.133)",
+      "confidence": 0.9830530552436172
+    },
+    {
+      "type": "text",
+      "img_path": "p0262_010_text.png",
+      "bbox": [
+        [
+          285,
+          2075
+        ],
+        [
+          1309,
+          2075
+        ],
+        [
+          1309,
+          2124
+        ],
+        [
+          285,
+          2124
+        ]
+      ],
+      "score": 0.9285546541213989,
+      "y_pos": 2075,
+      "text": "<b>Cách châm</b>: Châm đứng kim, sâu 1-1,5 thôn.",
+      "confidence": 0.9765672776434157
+    },
+    {
+      "type": "text",
+      "img_path": "p0262_007_text.png",
+      "bbox": [
+        [
+          286,
+          2166
+        ],
+        [
+          1397,
+          2166
+        ],
+        [
+          1397,
+          2218
+        ],
+        [
+          286,
+          2218
+        ]
+      ],
+      "score": 0.9329259395599365,
+      "y_pos": 2166,
+      "text": "Chủ trị: Tiêu hóa kém, viêm dạ dày, loét tá tràng.",
+      "confidence": 0.4922111825301097
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0262_014_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2258
+        ],
+        [
+          670,
+          2258
+        ],
+        [
+          670,
+          2309
+        ],
+        [
+          226,
+          2309
+        ]
+      ],
+      "score": 0.9138760566711426,
+      "y_pos": 2258,
+      "text": "268. Thực thương",
+      "confidence": 0.8912196225590177
+    },
+    {
+      "type": "text",
+      "img_path": "p0262_006_text.png",
+      "bbox": [
+        [
+          288,
+          2347
+        ],
+        [
+          1708,
+          2347
+        ],
+        [
+          1708,
+          2402
+        ],
+        [
+          288,
+          2402
+        ]
+      ],
+      "score": 0.9330182075500488,
+      "y_pos": 2347,
+      "text": "Vị trí: Ở huyệt Trung quản sang ngang mỗi bên 3 thốn. (H.133)",
+      "confidence": 0.9919047620561388
+    },
+    {
+      "type": "text",
+      "img_path": "p0262_002_text.png",
+      "bbox": [
+        [
+          286,
+          2440
+        ],
+        [
+          1313,
+          2440
+        ],
+        [
+          1313,
+          2491
+        ],
+        [
+          286,
+          2491
+        ]
+      ],
+      "score": 0.9368199110031128,
+      "y_pos": 2440,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 1-1,5 thôn.",
+      "confidence": 0.979703109131919
+    },
+    {
+      "type": "text",
+      "img_path": "p0262_004_text.png",
+      "bbox": [
+        [
+          286,
+          2534
+        ],
+        [
+          1302,
+          2534
+        ],
+        [
+          1302,
+          2587
+        ],
+        [
+          286,
+          2587
+        ]
+      ],
+      "score": 0.9347500801086426,
+      "y_pos": 2534,
+      "text": "Chủ trị: Đau dạ dày, sa dạ dày, loét tá tràng.",
+      "confidence": 0.5396676274637381
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0262_018_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2625
+        ],
+        [
+          610,
+          2625
+        ],
+        [
+          610,
+          2675
+        ],
+        [
+          227,
+          2675
+        ]
+      ],
+      "score": 0.8585081696510315,
+      "y_pos": 2625,
+      "text": "269. Thực quan",
+      "confidence": 0.94346122443676
+    },
+    {
+      "type": "text",
+      "img_path": "p0262_005_text.png",
+      "bbox": [
+        [
+          288,
+          2713
+        ],
+        [
+          1600,
+          2713
+        ],
+        [
+          1600,
+          2770
+        ],
+        [
+          288,
+          2770
+        ]
+      ],
+      "score": 0.9343781471252441,
+      "y_pos": 2713,
+      "text": "Vị trí: Ở huyệt Kiến lý sang ngang mỗi bên 1 thốn. (H.133)",
+      "confidence": 0.9874746481577555
+    },
+    {
+      "type": "text",
+      "img_path": "p0262_003_text.png",
+      "bbox": [
+        [
+          286,
+          2808
+        ],
+        [
+          1313,
+          2808
+        ],
+        [
+          1313,
+          2857
+        ],
+        [
+          286,
+          2857
+        ]
+      ],
+      "score": 0.9350645542144775,
+      "y_pos": 2808,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 1-1,5 thôn.",
+      "confidence": 0.9805020127031538
+    },
+    {
+      "type": "text",
+      "img_path": "p0262_009_text.png",
+      "bbox": [
+        [
+          285,
+          2900
+        ],
+        [
+          1334,
+          2900
+        ],
+        [
+          1334,
+          2951
+        ],
+        [
+          285,
+          2951
+        ]
+      ],
+      "score": 0.9297827482223511,
+      "y_pos": 2900,
+      "text": "Chủ trị: Tiêu hóa kém, viêm dạ dày, viêm ruột.",
+      "confidence": 0.4223870473603408
+    },
+    {
+      "type": "text",
+      "img_path": "p0262_019_text.png",
+      "bbox": [
+        [
+          224,
+          2990
+        ],
+        [
+          1186,
+          2990
+        ],
+        [
+          1186,
+          3041
+        ],
+        [
+          224,
+          3041
+        ]
+      ],
+      "score": 0.7510892152786255,
+      "y_pos": 2990,
+      "text": "270. Tê tứ biên (Hồn xá, Tê trung tứ biên)",
+      "confidence": 0.5214653760194778
+    },
+    {
+      "type": "text",
+      "img_path": "p0262_008_text.png",
+      "bbox": [
+        [
+          288,
+          3082
+        ],
+        [
+          2318,
+          3082
+        ],
+        [
+          2318,
+          3137
+        ],
+        [
+          288,
+          3137
+        ]
+      ],
+      "score": 0.9298275113105774,
+      "y_pos": 3082,
+      "text": "<i>Vị trí:</i> Từ giữa rốn ra cách trên, dưới, phải, trái đều 1 thốn. (huyệt 2 bên rốn gọi là <i>Hồn xá</i>). (H.133)",
+      "confidence": 0.9935140341793726
+    },
+    {
+      "type": "footer",
+      "img_path": "p0262_013_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9179316163063049,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0262_017_number.png",
+      "bbox": [
+        [
+          2279,
+          3338
+        ],
+        [
+          2350,
+          3338
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2279,
+          3377
+        ]
+      ],
+      "score": 0.8901973962783813,
+      "y_pos": 3338,
+      "text": "        \n    \n\n    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0262.png"
+}

@@ -1,0 +1,604 @@
+{
+  "page_num": 394,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0394_008_header.png",
+      "bbox": [
+        [
+          1679,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          195
+        ],
+        [
+          1679,
+          195
+        ]
+      ],
+      "score": 0.9280096888542175,
+      "y_pos": 142,
+      "text": "_______________________________________\nCAM NANG CHAN TRI ĐONG Y",
+      "confidence": 0.6296039422544149
+    },
+    {
+      "type": "header",
+      "img_path": "p0394_013_header.png",
+      "bbox": [
+        [
+          230,
+          146
+        ],
+        [
+          1095,
+          146
+        ],
+        [
+          1095,
+          196
+        ],
+        [
+          230,
+          196
+        ]
+      ],
+      "score": 0.917239248752594,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SĂNG",
+      "confidence": 0.9871476462909153
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0394_010_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          323
+        ],
+        [
+          836,
+          323
+        ],
+        [
+          836,
+          378
+        ],
+        [
+          225,
+          378
+        ]
+      ],
+      "score": 0.9220418930053711,
+      "y_pos": 323,
+      "text": "CHÓNG MẶT (huyễn vận)",
+      "confidence": 0.5992968859879867
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0394_018_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          419
+        ],
+        [
+          760,
+          419
+        ],
+        [
+          760,
+          471
+        ],
+        [
+          226,
+          471
+        ]
+      ],
+      "score": 0.8849277496337891,
+      "y_pos": 419,
+      "text": "A. Biện chứng luận trị",
+      "confidence": 0.9473061114549637
+    },
+    {
+      "type": "text",
+      "img_path": "p0394_000_text.png",
+      "bbox": [
+        [
+          220,
+          507
+        ],
+        [
+          2361,
+          507
+        ],
+        [
+          2361,
+          920
+        ],
+        [
+          220,
+          920
+        ]
+      ],
+      "score": 0.9860974550247192,
+      "y_pos": 507,
+      "text": "Huyễn là hoa mắt, Vận là đầu xoay, nó là chứng của cao huyết áp, xơ cứng động mạch, thiếu\nmáu, rối loạn thần kinh chức năng, bệnh tai trong và u não. Nguyên nhân khởi bệnh là thể chất\nkhông khoẻ, sau khi bị bệnh nặng, lo nghĩ uất hận và ăn uống nhiều cay béo. Biểu hiện bệnh lý\ncó hai mặt hư và thực. Hư là chứng tâm tỳ khí huyết bất túc hoặc can thận âm tinh hao tổn\nkhông đủ nuôi dưỡng não. Thực chứng là phong dương thượng nhiễu hoặc đàm trọc vướng ở\ntrung, thanh dương không thể thăng gây ra.",
+      "confidence": 0.9973949034399213
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0394_012_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          955
+        ],
+        [
+          903,
+          955
+        ],
+        [
+          903,
+          1005
+        ],
+        [
+          225,
+          1005
+        ]
+      ],
+      "score": 0.9181017875671387,
+      "y_pos": 955,
+      "text": "B. Điểm chủ vếu để kiểm tra",
+      "confidence": 0.9115834277251671
+    },
+    {
+      "type": "text",
+      "img_path": "p0394_003_text.png",
+      "bbox": [
+        [
+          222,
+          1045
+        ],
+        [
+          2361,
+          1045
+        ],
+        [
+          2361,
+          1244
+        ],
+        [
+          222,
+          1244
+        ]
+      ],
+      "score": 0.9763957262039185,
+      "y_pos": 1045,
+      "text": "1. Hỏi rõ tiền sử, có hay không có hiện tượng say tầu xe, tình hình phát hiện và ghi lại tiền sử\nbệnh. Kiểm tra bệnh ở tai, phát hiện có động mắt (Nystagmus) hoặc bệnh huyết áp, xét nghiệm\nđể phân biệt nguyên nhân choáng váng.",
+      "confidence": 0.9987720585377887
+    },
+    {
+      "type": "text",
+      "img_path": "p0394_005_text.png",
+      "bbox": [
+        [
+          222,
+          1281
+        ],
+        [
+          2358,
+          1281
+        ],
+        [
+          2358,
+          1405
+        ],
+        [
+          222,
+          1405
+        ]
+      ],
+      "score": 0.9605661630630493,
+      "y_pos": 1281,
+      "text": "2. Đầu xoay, đó là cảm giác tự người bệnh thấy bị xoay mà không do ngoại vật gây nên,\nthường do cao huyết áp, xơ cứng động mạch, rối loạn thần kinh chức năng gây ra thiếu máu.",
+      "confidence": 0.9990653602202402
+    },
+    {
+      "type": "text",
+      "img_path": "p0394_004_text.png",
+      "bbox": [
+        [
+          222,
+          1443
+        ],
+        [
+          2360,
+          1443
+        ],
+        [
+          2360,
+          1638
+        ],
+        [
+          222,
+          1638
+        ]
+      ],
+      "score": 0.9743083715438843,
+      "y_pos": 1443,
+      "text": "3. Chóng mặt thành cơn, người bệnh cảm thấy xoay chuyển, kèm theo có quặn đau nôn mửa,\nđộng mắt (Nystagmus), thường là bệnh cơ quan tiền đình ngoại biên (mê nhĩ) hoặc tiền đình\ntrung ương.",
+      "confidence": 0.9987174472013316
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0394_016_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1678
+        ],
+        [
+          559,
+          1678
+        ],
+        [
+          559,
+          1722
+        ],
+        [
+          226,
+          1722
+        ]
+      ],
+      "score": 0.9018697738647461,
+      "y_pos": 1678,
+      "text": "C. Cách chữa",
+      "confidence": 0.9067972089563098
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0394_020_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1769
+        ],
+        [
+          673,
+          1769
+        ],
+        [
+          673,
+          1818
+        ],
+        [
+          227,
+          1818
+        ]
+      ],
+      "score": 0.8673752546310425,
+      "y_pos": 1769,
+      "text": "1. Bằng châm cứu",
+      "confidence": 0.8868246475855509
+    },
+    {
+      "type": "text",
+      "img_path": "p0394_014_text.png",
+      "bbox": [
+        [
+          225,
+          1859
+        ],
+        [
+          1606,
+          1859
+        ],
+        [
+          1606,
+          1914
+        ],
+        [
+          225,
+          1914
+        ]
+      ],
+      "score": 0.9067321419715881,
+      "y_pos": 1859,
+      "text": "a. Thể châm: Phong trì, Can du, Dương lăng tuyền, Hợp cốc.",
+      "confidence": 0.9972013821204503
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0394_022_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1952
+        ],
+        [
+          466,
+          1952
+        ],
+        [
+          466,
+          2003
+        ],
+        [
+          227,
+          2003
+        ]
+      ],
+      "score": 0.8082812428474426,
+      "y_pos": 1952,
+      "text": "Gia giảm:",
+      "confidence": 0.8466808579184792
+    },
+    {
+      "type": "text",
+      "img_path": "p0394_009_text.png",
+      "bbox": [
+        [
+          225,
+          2046
+        ],
+        [
+          1717,
+          2046
+        ],
+        [
+          1717,
+          2098
+        ],
+        [
+          225,
+          2098
+        ]
+      ],
+      "score": 0.9262098670005798,
+      "y_pos": 2046,
+      "text": "- Phong dương thượng can, gia <i>Thái dương</i> (nặn máu), <i>Thái xung</i>.",
+      "confidence": 0.9906212722553926
+    },
+    {
+      "type": "text",
+      "img_path": "p0394_006_text.png",
+      "bbox": [
+        [
+          226,
+          2136
+        ],
+        [
+          1347,
+          2136
+        ],
+        [
+          1347,
+          2186
+        ],
+        [
+          226,
+          2186
+        ]
+      ],
+      "score": 0.9336075186729431,
+      "y_pos": 2136,
+      "text": "- Khí huyết bất túc, gia cứu <i>Bách hôi</i>, cứu <i>Khí hải</i>.",
+      "confidence": 0.9479061532438847
+    },
+    {
+      "type": "text",
+      "img_path": "p0394_007_text.png",
+      "bbox": [
+        [
+          226,
+          2228
+        ],
+        [
+          1494,
+          2228
+        ],
+        [
+          1494,
+          2279
+        ],
+        [
+          226,
+          2279
+        ]
+      ],
+      "score": 0.9322432279586792,
+      "y_pos": 2228,
+      "text": "- Đàm trọc trở trung, gia Trung quản, Phong long, Tỳ du.",
+      "confidence": 0.9897290344895988
+    },
+    {
+      "type": "text",
+      "img_path": "p0394_011_text.png",
+      "bbox": [
+        [
+          224,
+          2318
+        ],
+        [
+          2182,
+          2318
+        ],
+        [
+          2182,
+          2371
+        ],
+        [
+          224,
+          2371
+        ]
+      ],
+      "score": 0.9197827577590942,
+      "y_pos": 2318,
+      "text": "<b>b. Nhĩ châm:</b> Bì chất ha, Chẩm, Thần môn, Thân, Ngạch. Mỗi lần chon dùng 2-3 huyệt.",
+      "confidence": 0.9913116790527521
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0394_017_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2410
+        ],
+        [
+          709,
+          2410
+        ],
+        [
+          709,
+          2462
+        ],
+        [
+          225,
+          2462
+        ]
+      ],
+      "score": 0.8994437456130981,
+      "y_pos": 2410,
+      "text": "2. Biện chứng thí trị",
+      "confidence": 0.9617040779279626
+    },
+    {
+      "type": "text",
+      "img_path": "p0394_001_text.png",
+      "bbox": [
+        [
+          220,
+          2502
+        ],
+        [
+          2360,
+          2502
+        ],
+        [
+          2360,
+          2767
+        ],
+        [
+          220,
+          2767
+        ]
+      ],
+      "score": 0.9816808104515076,
+      "y_pos": 2502,
+      "text": "Biện chứng phải chia ra tiêu, bản, hư, thực. Bản, hư thuộc can, thận âm tinh hao tổn, thì tư\ndưỡng âm tinh. Thuộc tâm, tỳ khí huyết bất túc, thì bổ ích khí huyết. Tiêu, thực thuộc phong\ndương thượng cang thì dẹp phong dìm dương. Thuộc đàm trọc trở trung, thì hoá đàm hoà\ntrung.",
+      "confidence": 0.988872045046479
+    },
+    {
+      "type": "text",
+      "img_path": "p0394_002_text.png",
+      "bbox": [
+        [
+          222,
+          2805
+        ],
+        [
+          2358,
+          2805
+        ],
+        [
+          2358,
+          3071
+        ],
+        [
+          222,
+          3071
+        ]
+      ],
+      "score": 0.9776090383529663,
+      "y_pos": 2805,
+      "text": "a. Khí huyết bất túc: Đầu xoay mắt hoa. Đột nhiên khi đang ngồi mà đứng dậy thì thấy hoa\nmắt xoay đầu, nằm ngang, đầu thấp thì giảm bớt. Tai ù, tim hồi hộp, mất ngủ, sắc mặt trắng\nhoặc vàng nhợt, đoản hơi, ra mồ hôi, chân tay mệt mỏi, không có sức, rêu lưỡi mỏng, chất lưỡi\nnhạt, mạch nhỏ yếu.",
+      "confidence": 0.99671379495678
+    },
+    {
+      "type": "text",
+      "img_path": "p0394_021_text.png",
+      "bbox": [
+        [
+          226,
+          3109
+        ],
+        [
+          893,
+          3109
+        ],
+        [
+          893,
+          3161
+        ],
+        [
+          226,
+          3161
+        ]
+      ],
+      "score": 0.8259535431861877,
+      "y_pos": 3109,
+      "text": "Cách chữa: Bổ ích khí huyết.",
+      "confidence": 0.7889724493026733
+    },
+    {
+      "type": "number",
+      "img_path": "p0394_019_number.png",
+      "bbox": [
+        [
+          2306,
+          3334
+        ],
+        [
+          2357,
+          3334
+        ],
+        [
+          2357,
+          3371
+        ],
+        [
+          2306,
+          3371
+        ]
+      ],
+      "score": 0.8725034594535828,
+      "y_pos": 3334,
+      "text": "    \n    \n            \n    \n    \n    \n\n\n    \n        \n        ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0394_015_footer.png",
+      "bbox": [
+        [
+          228,
+          3336
+        ],
+        [
+          1343,
+          3336
+        ],
+        [
+          1343,
+          3383
+        ],
+        [
+          228,
+          3383
+        ]
+      ],
+      "score": 0.9038950800895691,
+      "y_pos": 3336,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9415562085385593
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0394.png"
+}

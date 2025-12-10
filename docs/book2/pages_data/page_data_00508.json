@@ -1,0 +1,552 @@
+{
+  "page_num": 508,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0508_007_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9346749782562256,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.784148439410187
+    },
+    {
+      "type": "header",
+      "img_path": "p0508_014_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1149,
+          152
+        ],
+        [
+          1149,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.9248840808868408,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI CÔNG HIỆU",
+      "confidence": 0.992058865121893
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0508_018_paragraph_title.png",
+      "bbox": [
+        [
+          744,
+          325
+        ],
+        [
+          1841,
+          325
+        ],
+        [
+          1841,
+          378
+        ],
+        [
+          744,
+          378
+        ]
+      ],
+      "score": 0.8072928786277771,
+      "y_pos": 325,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI CÔNG HIỆU",
+      "confidence": 0.9929641549651688
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0508_015_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          415
+        ],
+        [
+          803,
+          415
+        ],
+        [
+          803,
+          468
+        ],
+        [
+          224,
+          468
+        ]
+      ],
+      "score": 0.9175617098808289,
+      "y_pos": 415,
+      "text": "HƯỚNG DẪN SỬ DUNG",
+      "confidence": 0.9738064345560575
+    },
+    {
+      "type": "text",
+      "img_path": "p0508_003_text.png",
+      "bbox": [
+        [
+          220,
+          510
+        ],
+        [
+          2359,
+          510
+        ],
+        [
+          2359,
+          706
+        ],
+        [
+          220,
+          706
+        ]
+      ],
+      "score": 0.9770709872245789,
+      "y_pos": 510,
+      "text": "Để giúp người thầy thuốc thực hành châm cứu một cách thuận lợi, xin trích các phương phối\nhợp huyệt và tác dụng của nó đã được trình bày ở chương 10 và các sách khác, đem phân loại\ntheo tác dụng và giới thiệu trong bài này.",
+      "confidence": 0.999666929212418
+    },
+    {
+      "type": "text",
+      "img_path": "p0508_001_text.png",
+      "bbox": [
+        [
+          222,
+          744
+        ],
+        [
+          2361,
+          744
+        ],
+        [
+          2361,
+          937
+        ],
+        [
+          222,
+          937
+        ]
+      ],
+      "score": 0.97805255651474,
+      "y_pos": 744,
+      "text": "Do mục đích tiện dùng là chính, phần này lược đi những xuất xứ của các phương huyệt có ghi\nở các sách gốc dùng để tuyển chọn, song vẫn dịch nguyên tên chứng bệnh theo các sách gốc\nđã ghi.",
+      "confidence": 0.9973715984542973
+    },
+    {
+      "type": "text",
+      "img_path": "p0508_000_text.png",
+      "bbox": [
+        [
+          220,
+          980
+        ],
+        [
+          2361,
+          980
+        ],
+        [
+          2361,
+          1456
+        ],
+        [
+          220,
+          1456
+        ]
+      ],
+      "score": 0.9867039918899536,
+      "y_pos": 980,
+      "text": "Việc giản lược xuất xứ, cũng như việc dịch nguyên tên chứng bệnh và phương huyệt chữa\nchứng đó, có tên theo y học hiện đại, có tên theo y học cổ truyền đúng như sách gốc, là ý đồ\nriêng theo nhận định cho rằng: Nếu những người sử dụng sách này đã học qua Tây y thì các\ntên chứng bệnh theo y học cổ truyền cũng cần biết, còn bỏ xuất xứ của phương huyệt phối hợp\nvì chúng rườm rà và lệch trọng tâm. Nếu thầy thuốc Đông y chưa học về Tây y thì tên bệnh\ntheo y học hiện đại sẽ giúp hiểu biết thêm, tạo điều kiện thuận lợi khi cần kết hợp Đông Tây y\nđể điều trị cho người bệnh.",
+      "confidence": 0.9990154750176167
+    },
+    {
+      "type": "text",
+      "img_path": "p0508_019_text.png",
+      "bbox": [
+        [
+          222,
+          1494
+        ],
+        [
+          2347,
+          1494
+        ],
+        [
+          2347,
+          1548
+        ],
+        [
+          222,
+          1548
+        ]
+      ],
+      "score": 0.7887015342712402,
+      "y_pos": 1494,
+      "text": "Cũng do mục đích thực hành, thấy cần phải nói rõ thêm về cách sử dụng chương này như sau:",
+      "confidence": 0.997538644533891
+    },
+    {
+      "type": "text",
+      "img_path": "p0508_006_text.png",
+      "bbox": [
+        [
+          221,
+          1585
+        ],
+        [
+          2360,
+          1585
+        ],
+        [
+          2360,
+          1783
+        ],
+        [
+          221,
+          1783
+        ]
+      ],
+      "score": 0.9543492794036865,
+      "y_pos": 1585,
+      "text": "A. Đối với những chứng bệnh cụ thể, ta có thể dùng ngay phương huyệt có tác dụng tương\nứng. Ví dụ: Đau đầu mất ngủ, ta lấy phương <i>Phong long, An miên</i>; đau răng hàm trên lấy\nphương <i>Thái dương, Hợp cốc</i>; trứng cá ở mũi lấy <i>Tố liêu, Nghinh hương, Hợp cốc</i>...",
+      "confidence": 0.9949853297936038
+    },
+    {
+      "type": "text",
+      "img_path": "p0508_004_text.png",
+      "bbox": [
+        [
+          221,
+          1819
+        ],
+        [
+          2359,
+          1819
+        ],
+        [
+          2359,
+          2012
+        ],
+        [
+          221,
+          2012
+        ]
+      ],
+      "score": 0.9726601243019104,
+      "y_pos": 1819,
+      "text": "B. Đối với những tên bệnh, có nhiều phương huyệt khác nhau, do phối hợp tác dụng của\ncác huyệt khác nhau, như chứng \"đau đầu\" tuy cùng một tên chứng nhưng có sáu phương\nhuyêt như:",
+      "confidence": 0.9923364264961614
+    },
+    {
+      "type": "text",
+      "img_path": "p0508_016_text.png",
+      "bbox": [
+        [
+          225,
+          2053
+        ],
+        [
+          1561,
+          2053
+        ],
+        [
+          1561,
+          2105
+        ],
+        [
+          225,
+          2105
+        ]
+      ],
+      "score": 0.9163568019866943,
+      "y_pos": 2053,
+      "text": "- Phương thứ 1: Bách hội, Ấn đường, Thái dương, Hợp cốc.",
+      "confidence": 0.9963714377633457
+    },
+    {
+      "type": "text",
+      "img_path": "p0508_013_text.png",
+      "bbox": [
+        [
+          225,
+          2145
+        ],
+        [
+          1109,
+          2145
+        ],
+        [
+          1109,
+          2196
+        ],
+        [
+          225,
+          2196
+        ]
+      ],
+      "score": 0.925391674041748,
+      "y_pos": 2145,
+      "text": "- Phương thứ 2: <i>Thượng tinh, Hợp cốc</i>.",
+      "confidence": 0.9420222654575254
+    },
+    {
+      "type": "text",
+      "img_path": "p0508_010_text.png",
+      "bbox": [
+        [
+          225,
+          2239
+        ],
+        [
+          1191,
+          2239
+        ],
+        [
+          1191,
+          2288
+        ],
+        [
+          225,
+          2288
+        ]
+      ],
+      "score": 0.9299744963645935,
+      "y_pos": 2239,
+      "text": "- Phương thứ 3: <i>Tam dương lạc, Phong trì</i>.",
+      "confidence": 0.9322019206153022
+    },
+    {
+      "type": "text",
+      "img_path": "p0508_012_text.png",
+      "bbox": [
+        [
+          223,
+          2327
+        ],
+        [
+          2114,
+          2327
+        ],
+        [
+          2114,
+          2380
+        ],
+        [
+          223,
+          2380
+        ]
+      ],
+      "score": 0.9257872104644775,
+      "y_pos": 2327,
+      "text": "- Phương thứ 4: <i>Tứ độc, Phong trì</i> thấu <i>Phong trì</i> bên kia, <i>Thái dương</i> thấu <i>Suất cốc</i>.",
+      "confidence": 0.9848691436552233
+    },
+    {
+      "type": "text",
+      "img_path": "p0508_009_text.png",
+      "bbox": [
+        [
+          224,
+          2419
+        ],
+        [
+          1617,
+          2419
+        ],
+        [
+          1617,
+          2473
+        ],
+        [
+          224,
+          2473
+        ]
+      ],
+      "score": 0.9316525459289551,
+      "y_pos": 2419,
+      "text": "- Phương thứ 5: Đồng tử liêu, Tán trúc, Phong trì, Dương phụ.",
+      "confidence": 0.9985416030126905
+    },
+    {
+      "type": "text",
+      "img_path": "p0508_008_text.png",
+      "bbox": [
+        [
+          225,
+          2513
+        ],
+        [
+          1048,
+          2513
+        ],
+        [
+          1048,
+          2560
+        ],
+        [
+          225,
+          2560
+        ]
+      ],
+      "score": 0.9330033659934998,
+      "y_pos": 2513,
+      "text": "- Phương thứ 6: Can du, Mênh môn.",
+      "confidence": 0.8438560213361468
+    },
+    {
+      "type": "text",
+      "img_path": "p0508_011_text.png",
+      "bbox": [
+        [
+          223,
+          2603
+        ],
+        [
+          1613,
+          2603
+        ],
+        [
+          1613,
+          2656
+        ],
+        [
+          223,
+          2656
+        ]
+      ],
+      "score": 0.9270433783531189,
+      "y_pos": 2603,
+      "text": "Ở một số tên bệnh, chứng khác cũng có hiện tượng tương tự.",
+      "confidence": 0.9996265679597854
+    },
+    {
+      "type": "text",
+      "img_path": "p0508_005_text.png",
+      "bbox": [
+        [
+          222,
+          2693
+        ],
+        [
+          2358,
+          2693
+        ],
+        [
+          2358,
+          2819
+        ],
+        [
+          222,
+          2819
+        ]
+      ],
+      "score": 0.9662105441093445,
+      "y_pos": 2693,
+      "text": "Gặp trường hợp này, vận dụng kiến thức về bệnh học và học thuyết kinh lạc, học thuyết tạng\nphủ mà chọn dùng phương huyệt cho hợp. Ví dụ:",
+      "confidence": 0.9952905293447236
+    },
+    {
+      "type": "text",
+      "img_path": "p0508_002_text.png",
+      "bbox": [
+        [
+          221,
+          2856
+        ],
+        [
+          2359,
+          2856
+        ],
+        [
+          2359,
+          3123
+        ],
+        [
+          221,
+          3123
+        ]
+      ],
+      "score": 0.9777836203575134,
+      "y_pos": 2856,
+      "text": "- Theo kinh có bệnh: Bệnh thiếu dương kinh gây ra đau đầu (phong hỏa ở thiếu dương kinh là\nthủ thiếu dương tam tiêu, túc thiếu dương đảm), dùng phương huyệt thứ 3 trong ví dụ trên là\ncác huyệt: Tam dương lạc (kinh thủ thiếu dương tam tiêu) và huyệt Phong trì (kinh túc thiếu\ndương đảm).",
+      "confidence": 0.9930578344172827
+    },
+    {
+      "type": "footer",
+      "img_path": "p0508_017_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3388
+        ],
+        [
+          228,
+          3388
+        ]
+      ],
+      "score": 0.9016991257667542,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985950510456877
+    },
+    {
+      "type": "number",
+      "img_path": "p0508_020_number.png",
+      "bbox": [
+        [
+          2344,
+          3340
+        ],
+        [
+          2364,
+          3340
+        ],
+        [
+          2364,
+          3374
+        ],
+        [
+          2344,
+          3374
+        ]
+      ],
+      "score": 0.7842862606048584,
+      "y_pos": 3340,
+      "text": "\n\n\n\n\n\n\n\n    \n۰\n٠.\n",
+      "confidence": 0.9234057538784467
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0508.png"
+}

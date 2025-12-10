@@ -1,0 +1,240 @@
+{
+  "page_num": 622,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0622_002_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9183570146560669,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0622_004_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1172,
+          152
+        ],
+        [
+          1172,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9044795036315918,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BÁNG NHIỆT ĐÔ KINH LẠC",
+      "confidence": 0.9933017049080286
+    },
+    {
+      "type": "table",
+      "img_path": "p0622_008_table.png",
+      "bbox": [
+        [
+          411,
+          288
+        ],
+        [
+          2175,
+          288
+        ],
+        [
+          2175,
+          484
+        ],
+        [
+          411,
+          484
+        ]
+      ],
+      "score": 0.5473024845123291,
+      "y_pos": 288,
+      "text": "34,5    1,0    1    <b>△</b>    33,85    U,Z1    A 21    34,06\n33,2    33,64",
+      "confidence": 0.747966409616527
+    },
+    {
+      "type": "text",
+      "img_path": "p0622_006_text.png",
+      "bbox": [
+        [
+          299,
+          1351
+        ],
+        [
+          2228,
+          1351
+        ],
+        [
+          2228,
+          1404
+        ],
+        [
+          299,
+          1404
+        ]
+      ],
+      "score": 0.8797234892845154,
+      "y_pos": 1351,
+      "text": "\n    Lý nhiệt: Tâm bào, Can. Cận nhiệt: Đại trường. Lý hàn: Bàng quang, Đảm, Thận.\n",
+      "confidence": 0.9877200520154342
+    },
+    {
+      "type": "text",
+      "img_path": "p0622_000_text.png",
+      "bbox": [
+        [
+          299,
+          1441
+        ],
+        [
+          2358,
+          1441
+        ],
+        [
+          2358,
+          1566
+        ],
+        [
+          299,
+          1566
+        ]
+      ],
+      "score": 0.9568617343902588,
+      "y_pos": 1441,
+      "text": "• Biểu nhiệt: Tâm, Vị (bên phải). Tỳ (bên trái). Biểu hàn: Tiểu (bên phải), Vị (trái), Tam\ntiêu (trái).",
+      "confidence": 0.9943148855652129
+    },
+    {
+      "type": "text",
+      "img_path": "p0622_005_text.png",
+      "bbox": [
+        [
+          223,
+          1603
+        ],
+        [
+          2357,
+          1603
+        ],
+        [
+          2357,
+          1798
+        ],
+        [
+          223,
+          1798
+        ]
+      ],
+      "score": 0.8802587389945984,
+      "y_pos": 1603,
+      "text": "5. Đau lợi răng: Ông Tạ Duy T., 52 tuổi, cán bộ hưu trí. Viêm lợi răng đã nhiều năm, hiện đang\nđau nửa hàm trên, dưới ở phía phải, đau nhức lên nửa đầu. Đo lúc 16 giờ 15 phút, ngày,\n13/11/1984. Nhiệt độ môi trường 29,7°C, khô.",
+      "confidence": 0.975099930532365
+    },
+    {
+      "type": "table",
+      "img_path": "p0622_001_table.png",
+      "bbox": [
+        [
+          409,
+          1853
+        ],
+        [
+          2176,
+          1853
+        ],
+        [
+          2176,
+          2920
+        ],
+        [
+          409,
+          2920
+        ]
+      ],
+      "score": 0.9216185808181763,
+      "y_pos": 1853,
+      "text": "33,2    1,5    32,45    0,25    32,70\n31,7    32,20\nTiểu    -31,7    31,7    -0,75    -31,7    0\nTâm    32,6    32,25    -0,20    -31,9    0,7\nTam    32,3    32,20    -0,25    -32,1    0,2\nBào    -32,1    32,35    -0,10    32,6    0,5\nĐại    32,2    32,7    +0,25    +33,2    1,0\nPhế    32,6    32,45    0    32,3    0,3\n32,3    1,9    31,35    0,32    31,67\n30,4    31,03",
+      "confidence": 0.9431317138671873
+    },
+    {
+      "type": "number",
+      "img_path": "p0622_007_number.png",
+      "bbox": [
+        [
+          2304,
+          3336
+        ],
+        [
+          2354,
+          3336
+        ],
+        [
+          2354,
+          3374
+        ],
+        [
+          2304,
+          3374
+        ]
+      ],
+      "score": 0.8675858974456787,
+      "y_pos": 3336,
+      "text": "    \n            \n\n\n    \n\n\n    \n    ۰        \n",
+      "confidence": 0.963474060359754
+    },
+    {
+      "type": "footer",
+      "img_path": "p0622_003_footer.png",
+      "bbox": [
+        [
+          228,
+          3341
+        ],
+        [
+          1323,
+          3341
+        ],
+        [
+          1323,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.9099184274673462,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987793992150504
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0622.png"
+}

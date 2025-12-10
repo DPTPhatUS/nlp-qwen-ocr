@@ -1,0 +1,370 @@
+{
+  "page_num": 25,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0025_010_text.png",
+      "bbox": [
+        [
+          495,
+          447
+        ],
+        [
+          1504,
+          447
+        ],
+        [
+          1504,
+          503
+        ],
+        [
+          495,
+          503
+        ]
+      ],
+      "score": 0.8488200306892395,
+      "y_pos": 447,
+      "text": "\"Biểu lý truyền nhau\", biểu lý tương truyền\"",
+      "confidence": 0.99601618492085
+    },
+    {
+      "type": "text",
+      "img_path": "p0025_001_text.png",
+      "bbox": [
+        [
+          462,
+          534
+        ],
+        [
+          2124,
+          534
+        ],
+        [
+          2124,
+          757
+        ],
+        [
+          462,
+          757
+        ]
+      ],
+      "score": 0.9743063449859619,
+      "y_pos": 534,
+      "text": "+ Trưc trúng: bênh tà đi thẳng vào tam âm (không từ Dương kinh\ntruyền vào). Thường trực trúng Thái âm và Quyết âm. Thí dụ: đột\nnhiên nôn ói, tiêu chảy, lạnh mát tay chân, bụng đầy, không khát\n(Thái âm trưc trúng).",
+      "confidence": 0.9761018897082063
+    },
+    {
+      "type": "text",
+      "img_path": "p0025_002_text.png",
+      "bbox": [
+        [
+          342,
+          789
+        ],
+        [
+          2123,
+          789
+        ],
+        [
+          2123,
+          898
+        ],
+        [
+          342,
+          898
+        ]
+      ],
+      "score": 0.9564304947853088,
+      "y_pos": 789,
+      "text": "Nguyên nhân: cơ thể yếu, dương khí thiếu, chính khí suy làm ngoại tà\ntrưc tiếp pham vào tam âm (Hư hàn chứng).",
+      "confidence": 0.9949560714025434
+    },
+    {
+      "type": "text",
+      "img_path": "p0025_000_text.png",
+      "bbox": [
+        [
+          461,
+          927
+        ],
+        [
+          2125,
+          927
+        ],
+        [
+          2125,
+          1270
+        ],
+        [
+          461,
+          1270
+        ]
+      ],
+      "score": 0.9795575737953186,
+      "y_pos": 927,
+      "text": "+ Lý chứng chuyển ra biểu chứng: bệnh ở tam âm chuyển thành tam\ndương; bệnh ở bên trong chuyển dần ra bên ngoài; do chính khí dần\nhồi phuc, bệnh diễn tiến tốt. Thí dụ: trực trúng Thiếu âm có nôn mửa,\ntiêu chảy, sau thời gian điều trị ngưng tiêu chảy và đi tiêu táo kết,\nphát sốt, khát. Đó là Thái âm bệnh nhờ dương khí ở trường vị khôi\nphục lại nhưng tà vẫn còn, do đó bệnh chuyển thành Dương minh.",
+      "confidence": 0.9938439673563705
+    },
+    {
+      "type": "text",
+      "img_path": "p0025_003_text.png",
+      "bbox": [
+        [
+          462,
+          1302
+        ],
+        [
+          2123,
+          1302
+        ],
+        [
+          2123,
+          1409
+        ],
+        [
+          462,
+          1409
+        ]
+      ],
+      "score": 0.9553594589233398,
+      "y_pos": 1302,
+      "text": "+ Tính bệnh: chứng trạng một kinh chưa giải khỏi hoàn toàn lại xuất\nhiện chứng trạng một kinh khác; nguyên nhân do truyền biến.",
+      "confidence": 0.829865545062731
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0025_011_paragraph_title.png",
+      "bbox": [
+        [
+          408,
+          1442
+        ],
+        [
+          1223,
+          1442
+        ],
+        [
+          1223,
+          1494
+        ],
+        [
+          408,
+          1494
+        ]
+      ],
+      "score": 0.6124686598777771,
+      "y_pos": 1442,
+      "text": "Những nguyên tắc điều trị chung",
+      "confidence": 0.998117472186233
+    },
+    {
+      "type": "text",
+      "img_path": "p0025_006_text.png",
+      "bbox": [
+        [
+          463,
+          1524
+        ],
+        [
+          2124,
+          1524
+        ],
+        [
+          2124,
+          1633
+        ],
+        [
+          463,
+          1633
+        ]
+      ],
+      "score": 0.9519169330596924,
+      "y_pos": 1524,
+      "text": "+ Tam dương bệnh: chính khí mạnh, tà khí thịnh, nguyên tắc điều trị\nchủ yếu là <i>khu tà</i> (tác động đến nguyên nhân bệnh).",
+      "confidence": 0.9924910795333497
+    },
+    {
+      "type": "text",
+      "img_path": "p0025_004_text.png",
+      "bbox": [
+        [
+          463,
+          1666
+        ],
+        [
+          2125,
+          1666
+        ],
+        [
+          2125,
+          1774
+        ],
+        [
+          463,
+          1774
+        ]
+      ],
+      "score": 0.9548062682151794,
+      "y_pos": 1666,
+      "text": "+ Tam âm bệnh: chính khí suy, điều trị chủ yếu là phù chính (nâng đỡ\ntổng trạng) và tùy theo tình trạng của bệnh để khu tà.",
+      "confidence": 0.9758799971214362
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0025_012_paragraph_title.png",
+      "bbox": [
+        [
+          408,
+          1806
+        ],
+        [
+          881,
+          1806
+        ],
+        [
+          881,
+          1856
+        ],
+        [
+          408,
+          1856
+        ]
+      ],
+      "score": 0.560554563999176,
+      "y_pos": 1806,
+      "text": "Môt số định nghĩa",
+      "confidence": 0.9910382565699125
+    },
+    {
+      "type": "text",
+      "img_path": "p0025_005_text.png",
+      "bbox": [
+        [
+          463,
+          1889
+        ],
+        [
+          2124,
+          1889
+        ],
+        [
+          2124,
+          1996
+        ],
+        [
+          463,
+          1996
+        ]
+      ],
+      "score": 0.9537450075149536,
+      "y_pos": 1889,
+      "text": "+ Bệnh chứng thương hàn có thể đơn độc xuất hiện ở một kinh; cũng có\nthể hai, ba kinh cùng bênh (hợp bênh).",
+      "confidence": 0.996979453095368
+    },
+    {
+      "type": "text",
+      "img_path": "p0025_007_text.png",
+      "bbox": [
+        [
+          463,
+          2029
+        ],
+        [
+          2125,
+          2029
+        ],
+        [
+          2125,
+          2135
+        ],
+        [
+          463,
+          2135
+        ]
+      ],
+      "score": 0.9468288421630859,
+      "y_pos": 2029,
+      "text": "+ Bệnh ở một kinh chưa khỏi; xuất hiện thêm kinh khác bệnh; có thứ tự\ntrước sau áong bệnh).",
+      "confidence": 0.9988225397162838
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0025_013_paragraph_title.png",
+      "bbox": [
+        [
+          365,
+          2236
+        ],
+        [
+          1285,
+          2236
+        ],
+        [
+          1285,
+          2290
+        ],
+        [
+          365,
+          2290
+        ]
+      ],
+      "score": 0.5033050179481506,
+      "y_pos": 2236,
+      "text": "- Bệnh thương hàn được định nghĩa theo 2 cách:",
+      "confidence": 0.9966602337857088
+    },
+    {
+      "type": "number",
+      "img_path": "p0025_009_number.png",
+      "bbox": [
+        [
+          352,
+          3111
+        ],
+        [
+          403,
+          3111
+        ],
+        [
+          403,
+          3147
+        ],
+        [
+          352,
+          3147
+        ]
+      ],
+      "score": 0.8658851385116577,
+      "y_pos": 3111,
+      "text": "    ۰\n",
+      "confidence": 0.8764581382274628
+    },
+    {
+      "type": "footer",
+      "img_path": "p0025_008_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3365
+        ],
+        [
+          293,
+          3365
+        ]
+      ],
+      "score": 0.912738025188446,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8792689868382045
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0025.png"
+}

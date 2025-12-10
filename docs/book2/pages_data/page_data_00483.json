@@ -1,0 +1,266 @@
+{
+  "page_num": 483,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0483_003_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2369,
+          144
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.921972393989563,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7841731583078702
+    },
+    {
+      "type": "header",
+      "img_path": "p0483_004_header.png",
+      "bbox": [
+        [
+          228,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          228,
+          198
+        ]
+      ],
+      "score": 0.9162309169769287,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BÊNH CHỨNG THƯỜNG GẮP BẰNG CHÂM CỨU",
+      "confidence": 0.9967464724412332
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0483_005_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          330
+        ],
+        [
+          1054,
+          330
+        ],
+        [
+          1054,
+          381
+        ],
+        [
+          225,
+          381
+        ]
+      ],
+      "score": 0.9102858304977417,
+      "y_pos": 330,
+      "text": "52. Chảy máu mũi (chảy máu cam)",
+      "confidence": 0.9239021557750124
+    },
+    {
+      "type": "text",
+      "img_path": "p0483_000_text.png",
+      "bbox": [
+        [
+          222,
+          420
+        ],
+        [
+          2357,
+          420
+        ],
+        [
+          2357,
+          614
+        ],
+        [
+          222,
+          614
+        ]
+      ],
+      "score": 0.9746254682540894,
+      "y_pos": 420,
+      "text": "Chảy máu cam không phải là do ngoại thương, mà là chứng bệnh tự chảy máu mũi. Thường thì\ndo nội nhiệt thịnh, vị hoả xông lên gây ra. Nếu máu mũi ra quá nhiều, sẽ dẫn đến hoa mắt, ù tai,\nsắc mặt trắng nhợt, toàn thân mệt mỏi.",
+      "confidence": 0.9986713109418287
+    },
+    {
+      "type": "text",
+      "img_path": "p0483_009_text.png",
+      "bbox": [
+        [
+          284,
+          654
+        ],
+        [
+          1349,
+          654
+        ],
+        [
+          1349,
+          706
+        ],
+        [
+          284,
+          706
+        ]
+      ],
+      "score": 0.8614538311958313,
+      "y_pos": 654,
+      "text": "Cách chữa: Lấy huyệt Thiếu thương, Bách hội.",
+      "confidence": 0.7361300496951394
+    },
+    {
+      "type": "text",
+      "img_path": "p0483_002_text.png",
+      "bbox": [
+        [
+          281,
+          743
+        ],
+        [
+          2358,
+          743
+        ],
+        [
+          2358,
+          869
+        ],
+        [
+          281,
+          869
+        ]
+      ],
+      "score": 0.9555516242980957,
+      "y_pos": 743,
+      "text": "Trước hết lấy kim ba cạnh chích huyệt <i>Thiếu thương</i> ra máu. Lại dùng điều ngải hơ cứu\nBách hội 10 phút, hoặc dùng mồi ngải cứu ở huyệt <i>Thượng tinh</i> 7 mồi.",
+      "confidence": 0.9957321383555093
+    },
+    {
+      "type": "text",
+      "img_path": "p0483_001_text.png",
+      "bbox": [
+        [
+          279,
+          907
+        ],
+        [
+          2358,
+          907
+        ],
+        [
+          2358,
+          1031
+        ],
+        [
+          279,
+          1031
+        ]
+      ],
+      "score": 0.9566516876220703,
+      "y_pos": 907,
+      "text": "Giảng nghĩa của phương: Thiếu thương thanh nhiệt tiết hỏa. Bách hội, Thượng tinh đều có\nthể thanh tiết khí hoả của chư dương thượng cang<sup>(*)</sup>.",
+      "confidence": 0.9961150282243473
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0483_007_footnote.png",
+      "bbox": [
+        [
+          227,
+          3167
+        ],
+        [
+          1049,
+          3167
+        ],
+        [
+          1049,
+          3211
+        ],
+        [
+          227,
+          3211
+        ]
+      ],
+      "score": 0.8906751871109009,
+      "y_pos": 3167,
+      "text": "(*) Chư dương thượng cang: Mọi thứ khí nóng căng lên.",
+      "confidence": 0.9914328943599354
+    },
+    {
+      "type": "number",
+      "img_path": "p0483_008_number.png",
+      "bbox": [
+        [
+          2304,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3334
+        ],
+        [
+          2304,
+          3334
+        ]
+      ],
+      "score": 0.8656721115112305,
+      "y_pos": 3300,
+      "text": "    \n    \n    \n\n\n        \n.\n٠.    \n\n",
+      "confidence": 0.9400393618270755
+    },
+    {
+      "type": "footer",
+      "img_path": "p0483_006_footer.png",
+      "bbox": [
+        [
+          227,
+          3310
+        ],
+        [
+          1323,
+          3310
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          227,
+          3355
+        ]
+      ],
+      "score": 0.9078821539878845,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9190420980723399
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0483.png"
+}

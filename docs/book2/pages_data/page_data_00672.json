@@ -1,0 +1,552 @@
+{
+  "page_num": 672,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0672_010_header.png",
+      "bbox": [
+        [
+          1673,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1673,
+          197
+        ]
+      ],
+      "score": 0.9188339114189148,
+      "y_pos": 143,
+      "text": "<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.9829142710992268
+    },
+    {
+      "type": "header",
+      "img_path": "p0672_013_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9112422466278076,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "text",
+      "img_path": "p0672_015_text.png",
+      "bbox": [
+        [
+          295,
+          307
+        ],
+        [
+          2018,
+          307
+        ],
+        [
+          2018,
+          360
+        ],
+        [
+          295,
+          360
+        ]
+      ],
+      "score": 0.8997581601142883,
+      "y_pos": 307,
+      "text": "9. Chứng đau nhức trong thân thế: Can (+BL), Đảm (-BL), Tam tiêu (-BL).",
+      "confidence": 0.9952221651599832
+    },
+    {
+      "type": "text",
+      "img_path": "p0672_012_text.png",
+      "bbox": [
+        [
+          299,
+          400
+        ],
+        [
+          2145,
+          400
+        ],
+        [
+          2145,
+          453
+        ],
+        [
+          299,
+          453
+        ]
+      ],
+      "score": 0.9132793545722961,
+      "y_pos": 400,
+      "text": "10.Chứng can hoả vượng: Can (+BL), Vị (+BL), Tỳ (+BL), Phế (+BL), Tâm (+BL).",
+      "confidence": 0.9881030130080688
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0672_020_paragraph_title.png",
+      "bbox": [
+        [
+          302,
+          490
+        ],
+        [
+          901,
+          490
+        ],
+        [
+          901,
+          542
+        ],
+        [
+          302,
+          542
+        ]
+      ],
+      "score": 0.5590153336524963,
+      "y_pos": 490,
+      "text": "11. Chứng quá mân cảm:",
+      "confidence": 0.9919043928384781
+    },
+    {
+      "type": "text",
+      "img_path": "p0672_014_text.png",
+      "bbox": [
+        [
+          366,
+          581
+        ],
+        [
+          1124,
+          581
+        ],
+        [
+          1124,
+          636
+        ],
+        [
+          366,
+          636
+        ]
+      ],
+      "score": 0.9008848071098328,
+      "y_pos": 581,
+      "text": "a. Dị ứng: Can (+BL), Phế (+BL).",
+      "confidence": 0.5304500039886025
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0672_019_paragraph_title.png",
+      "bbox": [
+        [
+          368,
+          676
+        ],
+        [
+          708,
+          676
+        ],
+        [
+          708,
+          725
+        ],
+        [
+          368,
+          725
+        ]
+      ],
+      "score": 0.5962339043617249,
+      "y_pos": 676,
+      "text": "b. Chứng hen",
+      "confidence": 0.8941518153463092
+    },
+    {
+      "type": "text",
+      "img_path": "p0672_004_text.png",
+      "bbox": [
+        [
+          365,
+          764
+        ],
+        [
+          2359,
+          764
+        ],
+        [
+          2359,
+          890
+        ],
+        [
+          365,
+          890
+        ]
+      ],
+      "score": 0.9609125256538391,
+      "y_pos": 764,
+      "text": "\n    Khi lên cơn: Phế (-BL), Đảm (-BL), Can (+BL), Tâm (+BL), Tâm bào\n    (+BL), Đại\ntrường (+BL).",
+      "confidence": 0.8626304457585018
+    },
+    {
+      "type": "text",
+      "img_path": "p0672_007_text.png",
+      "bbox": [
+        [
+          365,
+          927
+        ],
+        [
+          2360,
+          927
+        ],
+        [
+          2360,
+          1054
+        ],
+        [
+          365,
+          1054
+        ]
+      ],
+      "score": 0.9597221612930298,
+      "y_pos": 927,
+      "text": "\n    Khi không có cơn: Phế (+BL), Đảm (-BL), Can (+BL), Tâm (+BL), Tâm bào (+BL), Đại\n\ntrường (+BL). Riêng Đại trường không cố định trong mô hình chỉ số nhiệt kinh lạc này.",
+      "confidence": 0.9921676653361171
+    },
+    {
+      "type": "text",
+      "img_path": "p0672_003_text.png",
+      "bbox": [
+        [
+          285,
+          1089
+        ],
+        [
+          2360,
+          1089
+        ],
+        [
+          2360,
+          1287
+        ],
+        [
+          285,
+          1287
+        ]
+      ],
+      "score": 0.9671972393989563,
+      "y_pos": 1089,
+      "text": "12. Các loai khối u lành và ác tính: Tiểu trường (-BL), Tam tiêu (-BL), Đảm (-BL), Can\n(+BL), Tỳ (+BL). Ở giai đoạn một và hai của khối u các kinh của chi trên phân ra hàn\nnhiệt là: Tiểu trường (-), Tâm (-), Tam tiêu (-) và Tâm bào (+), Đại trường (+), Phế (+).",
+      "confidence": 0.9991828437344511
+    },
+    {
+      "type": "text",
+      "img_path": "p0672_009_text.png",
+      "bbox": [
+        [
+          286,
+          1322
+        ],
+        [
+          2361,
+          1322
+        ],
+        [
+          2361,
+          1448
+        ],
+        [
+          286,
+          1448
+        ]
+      ],
+      "score": 0.9505768418312073,
+      "y_pos": 1322,
+      "text": "13. Rối loạn tuần hoàn não: Bao gồm cả xung huyết não và bần huyết não. Mô hình chỉ số\nnhiệt kinh lạc này lấy theo thực nghiệm của bác sĩ Nguyễn Tấn Phong.",
+      "confidence": 0.9993154739598176
+    },
+    {
+      "type": "text",
+      "img_path": "p0672_006_text.png",
+      "bbox": [
+        [
+          361,
+          1486
+        ],
+        [
+          2360,
+          1486
+        ],
+        [
+          2360,
+          1609
+        ],
+        [
+          361,
+          1609
+        ]
+      ],
+      "score": 0.9597344398498535,
+      "y_pos": 1486,
+      "text": "a. Xung huyết não: Nhiệt độ mỗi bên (trái hay phải) của 12 kinh cùng dấu (+ hay -) và\ntrái dấu với bên kia. Đây gọi là sự phân ly âm dương nhất quán của kinh lạc.",
+      "confidence": 0.9965632866168844
+    },
+    {
+      "type": "text",
+      "img_path": "p0672_001_text.png",
+      "bbox": [
+        [
+          357,
+          1649
+        ],
+        [
+          2360,
+          1649
+        ],
+        [
+          2360,
+          2055
+        ],
+        [
+          357,
+          2055
+        ]
+      ],
+      "score": 0.9840679168701172,
+      "y_pos": 1649,
+      "text": "b. Bân huyết não (kẹt động mạch não): Nhiệt độ mỗi bên (trái hay phải) của 6 kinh\ntrong mỗi chi (trên hay dưới) cùng dấu (+ hay -) và cùng dấu với bên kia của 6 kinh trong\nchi còn lại. Ví dụ: Nhiệt độ bên trái của 6 kinh chi dưới mang dấu + thì nhiệt độ bên phải\ncủa 6 kinh chi dưới mang dấu + và nhiệt độ bên phải của 6 kinh chi trên cùng mang dấu -\nứng với nhiệt độ bên trái của 6 kinh chi dưới cùng mang dấu -, đó gọi là sự phân ly âm\ndương giao hoán của kinh lạc.",
+      "confidence": 0.9948737095915118
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0672_017_paragraph_title.png",
+      "bbox": [
+        [
+          288,
+          2095
+        ],
+        [
+          942,
+          2095
+        ],
+        [
+          942,
+          2148
+        ],
+        [
+          288,
+          2148
+        ]
+      ],
+      "score": 0.8847979307174683,
+      "y_pos": 2095,
+      "text": "14. Rối loạn cảm giác họng",
+      "confidence": 0.9594876021146774
+    },
+    {
+      "type": "text",
+      "img_path": "p0672_005_text.png",
+      "bbox": [
+        [
+          359,
+          2185
+        ],
+        [
+          2358,
+          2185
+        ],
+        [
+          2358,
+          2310
+        ],
+        [
+          359,
+          2310
+        ]
+      ],
+      "score": 0.9602515697479248,
+      "y_pos": 2185,
+      "text": "Tâm (+BL), Phế (+BL), Can (+BL), Đảm (-BL): là rối loạn cảm giác họng do suy tuyến\ngiáp gây ra.",
+      "confidence": 0.9981683631028448
+    },
+    {
+      "type": "text",
+      "img_path": "p0672_002_text.png",
+      "bbox": [
+        [
+          360,
+          2347
+        ],
+        [
+          2359,
+          2347
+        ],
+        [
+          2359,
+          2542
+        ],
+        [
+          360,
+          2542
+        ]
+      ],
+      "score": 0.9754182696342468,
+      "y_pos": 2347,
+      "text": "Tâm (+BL), Phế (+BL), Can (+BL), Đảm (+BL): là rối loạn cảm giác họng do cường tuyến\ngiáp gây ra. Nếu có Tâm bào (+), Đại trường (+), Phế (+): là mức độ cường tuyến giáp\nnặng.",
+      "confidence": 0.9979469811467502
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0672_011_paragraph_title.png",
+      "bbox": [
+        [
+          223,
+          2582
+        ],
+        [
+          1933,
+          2582
+        ],
+        [
+          1933,
+          2636
+        ],
+        [
+          223,
+          2636
+        ]
+      ],
+      "score": 0.916702389717102,
+      "y_pos": 2582,
+      "text": "E. Nhận định về quan hệ giữa nhiệt độ môi trường với nhiệt độ kinh lạc",
+      "confidence": 0.9983959338731236
+    },
+    {
+      "type": "text",
+      "img_path": "p0672_000_text.png",
+      "bbox": [
+        [
+          220,
+          2673
+        ],
+        [
+          2360,
+          2673
+        ],
+        [
+          2360,
+          3011
+        ],
+        [
+          220,
+          3011
+        ]
+      ],
+      "score": 0.9843183159828186,
+      "y_pos": 2673,
+      "text": "Theo sự phân định của khoa sinh lý học ngày nay về nhiệt độ khô của môi trường thì từ 18 đến\n24<sup>0</sup>C gọi là trung bình, thuận lợi cho sự sống bình thường của cơ thể người, từ dưới 18<sup>0</sup>C trở\nxuống gọi là lạnh, trở ngại cho sự hoạt động sống bình thường của cơ thể người, từ 24<sup>0</sup>C trở\nlên gọi là nóng, bắt đầu gây hại cho sự hoạt động của cơ thể người, nhất là từ trên 32<sup>0</sup>C trở\nlên, cơ thể người cảm thấy đã mệt mỏi, sức hấp thu dinh dưỡng giảm.",
+      "confidence": 0.9930986065139683
+    },
+    {
+      "type": "text",
+      "img_path": "p0672_008_text.png",
+      "bbox": [
+        [
+          221,
+          3048
+        ],
+        [
+          2358,
+          3048
+        ],
+        [
+          2358,
+          3168
+        ],
+        [
+          221,
+          3168
+        ]
+      ],
+      "score": 0.9596882462501526,
+      "y_pos": 3048,
+      "text": "Các chỉ số nhiệt kinh lạc ở người bình thường tuỳ nhiệt độ môi trường mà có những biến đổi\nnhư sau:",
+      "confidence": 0.994161960741748
+    },
+    {
+      "type": "number",
+      "img_path": "p0672_018_number.png",
+      "bbox": [
+        [
+          2305,
+          3337
+        ],
+        [
+          2354,
+          3337
+        ],
+        [
+          2354,
+          3374
+        ],
+        [
+          2305,
+          3374
+        ]
+      ],
+      "score": 0.847707986831665,
+      "y_pos": 3337,
+      "text": "    \n    \n\n\n\n    \n    \n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0672_016_footer.png",
+      "bbox": [
+        [
+          227,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3388
+        ],
+        [
+          227,
+          3388
+        ]
+      ],
+      "score": 0.8941271305084229,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985032610173495
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0672.png"
+}

@@ -1,0 +1,292 @@
+{
+  "page_num": 511,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0511_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9130329489707947,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0511_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1470,
+          152
+        ],
+        [
+          1470,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.9163845777511597,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9963005375862122
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0511_004_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          324
+        ],
+        [
+          783,
+          324
+        ],
+        [
+          783,
+          382
+        ],
+        [
+          226,
+          382
+        ]
+      ],
+      "score": 0.7533026337623596,
+      "y_pos": 324,
+      "text": "Phần 2. BÊNH GÁY CỔ",
+      "confidence": 0.8430727039064679
+    },
+    {
+      "type": "text",
+      "img_path": "p0511_007_text.png",
+      "bbox": [
+        [
+          229,
+          417
+        ],
+        [
+          1793,
+          417
+        ],
+        [
+          1793,
+          480
+        ],
+        [
+          229,
+          480
+        ]
+      ],
+      "score": 0.5336061716079712,
+      "y_pos": 417,
+      "text": "25. Cổ gáy cứng đau, đau đầu cứng gáy: Thừa tương, Phong phủ.",
+      "confidence": 0.9989750754265558
+    },
+    {
+      "type": "text",
+      "img_path": "p0511_009_text.png",
+      "bbox": [
+        [
+          231,
+          601
+        ],
+        [
+          957,
+          601
+        ],
+        [
+          957,
+          658
+        ],
+        [
+          231,
+          658
+        ]
+      ],
+      "score": 0.5123083591461182,
+      "y_pos": 601,
+      "text": "27. Sái cổ: Thiên trụ, Hậu khê.",
+      "confidence": 0.9988812280423713
+    },
+    {
+      "type": "text",
+      "img_path": "p0511_008_text.png",
+      "bbox": [
+        [
+          231,
+          785
+        ],
+        [
+          1560,
+          785
+        ],
+        [
+          1560,
+          844
+        ],
+        [
+          231,
+          844
+        ]
+      ],
+      "score": 0.5170376896858215,
+      "y_pos": 785,
+      "text": "29. Sái cổ, căng gáy đầy (đỉnh đầu): Phong trì, Hậu khê.",
+      "confidence": 0.9994928312712702
+    },
+    {
+      "type": "text",
+      "img_path": "p0511_010_text.png",
+      "bbox": [
+        [
+          232,
+          877
+        ],
+        [
+          1308,
+          877
+        ],
+        [
+          1308,
+          936
+        ],
+        [
+          232,
+          936
+        ]
+      ],
+      "score": 0.50676029920578,
+      "y_pos": 877,
+      "text": "30. Bị lạnh mà cứng cổ gáy: Ôn lưu, Kỳ môn.",
+      "confidence": 0.924452441268497
+    },
+    {
+      "type": "text",
+      "img_path": "p0511_006_text.png",
+      "bbox": [
+        [
+          230,
+          969
+        ],
+        [
+          1151,
+          969
+        ],
+        [
+          1151,
+          1026
+        ],
+        [
+          230,
+          1026
+        ]
+      ],
+      "score": 0.5338580012321472,
+      "y_pos": 969,
+      "text": "31. Đau gáy đầu: Liệt khuyết, Hậu khê.",
+      "confidence": 0.9831247866153717
+    },
+    {
+      "type": "text",
+      "img_path": "p0511_005_text.png",
+      "bbox": [
+        [
+          230,
+          1061
+        ],
+        [
+          1269,
+          1061
+        ],
+        [
+          1269,
+          1116
+        ],
+        [
+          230,
+          1116
+        ]
+      ],
+      "score": 0.5526533722877502,
+      "y_pos": 1061,
+      "text": "32. Đầu gáy cứng đau: Lạc chấm, Tân thiết.",
+      "confidence": 0.9716353890570727
+    },
+    {
+      "type": "number",
+      "img_path": "p0511_003_number.png",
+      "bbox": [
+        [
+          2342,
+          3338
+        ],
+        [
+          2368,
+          3338
+        ],
+        [
+          2368,
+          3373
+        ],
+        [
+          2342,
+          3373
+        ]
+      ],
+      "score": 0.8242509365081787,
+      "y_pos": 3338,
+      "text": "\n    \n    \n\n\n\n\n    \n        \n\n\n\n\n    \n    \n    ۰\n۰.\n    \n\n٢    \n",
+      "confidence": 0.953510376714891
+    },
+    {
+      "type": "footer",
+      "img_path": "p0511_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9076212644577026,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0511.png"
+}

@@ -1,0 +1,370 @@
+{
+  "page_num": 12,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0012_004_header.png",
+      "bbox": [
+        [
+          1608,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          202
+        ],
+        [
+          1608,
+          202
+        ]
+      ],
+      "score": 0.9175198674201965,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7642816684785343
+    },
+    {
+      "type": "header",
+      "img_path": "p0012_005_header.png",
+      "bbox": [
+        [
+          227,
+          154
+        ],
+        [
+          1329,
+          154
+        ],
+        [
+          1329,
+          202
+        ],
+        [
+          227,
+          202
+        ]
+      ],
+      "score": 0.915657639503479,
+      "y_pos": 154,
+      "text": "VŨ TRU QUAN VÀ CÁC THUYẾT CƠ BÁN CỦA ĐÔNG Y",
+      "confidence": 0.9962137964036729
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0012_006_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          286
+        ],
+        [
+          1105,
+          286
+        ],
+        [
+          1105,
+          339
+        ],
+        [
+          224,
+          339
+        ]
+      ],
+      "score": 0.9111840128898621,
+      "y_pos": 286,
+      "text": "CÁC THUYẾT CƠ BẢN CỦA ĐÔNG Y",
+      "confidence": 0.9911578277746836
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0012_009_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          384
+        ],
+        [
+          574,
+          384
+        ],
+        [
+          574,
+          440
+        ],
+        [
+          226,
+          440
+        ]
+      ],
+      "score": 0.8849338293075562,
+      "y_pos": 384,
+      "text": "A. Am Dương",
+      "confidence": 0.9378387240263132
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0012_007_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          484
+        ],
+        [
+          770,
+          484
+        ],
+        [
+          770,
+          533
+        ],
+        [
+          285,
+          533
+        ]
+      ],
+      "score": 0.9041691422462463,
+      "y_pos": 484,
+      "text": "1. Khái niêm cơ bản",
+      "confidence": 0.9878047278949192
+    },
+    {
+      "type": "text",
+      "img_path": "p0012_003_text.png",
+      "bbox": [
+        [
+          277,
+          569
+        ],
+        [
+          2358,
+          569
+        ],
+        [
+          2358,
+          928
+        ],
+        [
+          277,
+          928
+        ]
+      ],
+      "score": 0.9820547699928284,
+      "y_pos": 569,
+      "text": "Học thuyết Âm Dương đề cập đến quan hệ mâu thuẫn của các hiện tượng sinh lý, bệnh lý\ntrong cơ thể con người, giải thích nguyên tắc chữa bệnh và dược lý. Người ta cho rằng các\nbộ phận của cong người là do hai loại khác tính chất và công năng nhưng lại thống nhất của\nvật chất là âm và dương cấu tạo nên. Bệnh tật phát triển được là do hai mặt âm và dương\nđối lập đã phá vỡ mối quan hệ bình thường gây ra.",
+      "confidence": 0.9997432489412607
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0012_013_figure_title.png",
+      "bbox": [
+        [
+          283,
+          955
+        ],
+        [
+          2349,
+          955
+        ],
+        [
+          2349,
+          1009
+        ],
+        [
+          283,
+          1009
+        ]
+      ],
+      "score": 0.761824905872345,
+      "y_pos": 955,
+      "text": "Về kết cấu (cấu tạo) cơ thể và công năng mà nói thì cấu trúc của âm dương có thuộc tính là:",
+      "confidence": 0.9995295443842488
+    },
+    {
+      "type": "table",
+      "img_path": "p0012_000_table.png",
+      "bbox": [
+        [
+          534,
+          1035
+        ],
+        [
+          2059,
+          1035
+        ],
+        [
+          2059,
+          1687
+        ],
+        [
+          534,
+          1687
+        ]
+      ],
+      "score": 0.986497700214386,
+      "y_pos": 1035,
+      "text": "Dương    Âm    Dương    Âm\nNgoài    Trong    Trên    Dưới\nLưng    Bung    Sáu phủ    Năm tạng\nKhí    Huyết    Công năng    Vật chất\nHưng phấn    ức chế    Hoạt động    Tĩnh tại\nTăng lên    Giảm sút    Thăng lên    Giáng xuống\nHướng ra    Hướng vào",
+      "confidence": 0.9046811415909995
+    },
+    {
+      "type": "text",
+      "img_path": "p0012_002_text.png",
+      "bbox": [
+        [
+          278,
+          1720
+        ],
+        [
+          2359,
+          1720
+        ],
+        [
+          2359,
+          2151
+        ],
+        [
+          278,
+          2151
+        ]
+      ],
+      "score": 0.9849857091903687,
+      "y_pos": 1720,
+      "text": "Những thuộc tính của sự vật trong khái niệm âm dương không phải là tuyệt đối, mà là tương\nđối. Thường thì theo những điều kiện nhất định mà cải biến, như theo quanhệ giữa lững và\nngực là âm (trước-sau) nhưng ở ngực và bụng, thì ngực là dương, bụng là âm (trên-dưới).\nDo đó âm dương là đại danh từ thông dụng của hai mặt đối lập của kết cấu cơ thể và công\nnăng, đặc biệt là dùng để nói rõ quan hệ tương hỗ giữa các mặt đối lập và thống nhất. Biểu\nhiện chủ yếu có mấy mặt đối lập và thống nhất sau:",
+      "confidence": 0.9979132495884396
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0012_010_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          2177
+        ],
+        [
+          1533,
+          2177
+        ],
+        [
+          1533,
+          2233
+        ],
+        [
+          283,
+          2233
+        ]
+      ],
+      "score": 0.8781263828277588,
+      "y_pos": 2177,
+      "text": "a. Âm dương hỗ căn (âm dương giúp nhau từ gốc):",
+      "confidence": 0.9952788134010471
+    },
+    {
+      "type": "text",
+      "img_path": "p0012_001_text.png",
+      "bbox": [
+        [
+          278,
+          2266
+        ],
+        [
+          2359,
+          2266
+        ],
+        [
+          2359,
+          2925
+        ],
+        [
+          278,
+          2925
+        ]
+      ],
+      "score": 0.9857813715934753,
+      "y_pos": 2266,
+      "text": "Đông y cho rằng \"Âm sinh ở dương, dương sinh ở âm\", \"riêng âm chẳng sinh, mình dương\nchẳng lớn\". Điều đó nói sự thống nhất giữa hai mặt đối lập của âm dương để mà tồn tại:\nKhông có âm thì không có dương, và ngược lại. Lại nói \"Sự sống ở gốc, gốc ở âm dương\",\n\"Âm dương tách rời, tinh khí mất hết\", nghĩa là mạng sống từ lúc bắt đầu tớic kết thúc là mối\nquan hệ âm dương tương hỗ trong quá trình tồn tại. Nếu như âm dương mất đi mối quan hệ,\nmạng sống sẽ ngừng nagy. Quan điểm này của Đôngn y được gọi là âm dương hỗ căn. Ví\ndụ: Về sinh lý mà nói, công năng toàn thân là dương, cơ sở vật chất là âm. Công năng hoạt\nđộng phải dựa vào vật chất là cơ sở, mà qua trình bổ sung vật chất không ngừng, lại cần có\ncông năng mới hoàn thnàh được (hàng loạt hoạt động như tiếp nhận thức ăn,",
+      "confidence": 0.9993917062873461
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0012_011_footnote.png",
+      "bbox": [
+        [
+          227,
+          3153
+        ],
+        [
+          2125,
+          3153
+        ],
+        [
+          2125,
+          3208
+        ],
+        [
+          227,
+          3208
+        ]
+      ],
+      "score": 0.8524649739265442,
+      "y_pos": 3153,
+      "text": "* Tham khảo thêm “học thuyết Âm dương Ngũ hành”, Lê Văn Sửu - NXB Văn hóa Thông tin",
+      "confidence": 0.9571916874717263
+    },
+    {
+      "type": "footer",
+      "img_path": "p0012_008_footer.png",
+      "bbox": [
+        [
+          228,
+          3332
+        ],
+        [
+          1432,
+          3332
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.8895966410636902,
+      "y_pos": 3332,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985454925950968
+    },
+    {
+      "type": "number",
+      "img_path": "p0012_012_number.png",
+      "bbox": [
+        [
+          2333,
+          3340
+        ],
+        [
+          2357,
+          3340
+        ],
+        [
+          2357,
+          3373
+        ],
+        [
+          2333,
+          3373
+        ]
+      ],
+      "score": 0.7936915159225464,
+      "y_pos": 3340,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0012.png"
+}

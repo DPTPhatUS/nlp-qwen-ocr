@@ -1,0 +1,524 @@
+{
+  "page_num": 120,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0120_006_header.png",
+      "bbox": [
+        [
+          1607,
+          143
+        ],
+        [
+          2370,
+          143
+        ],
+        [
+          2370,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9298141002655029,
+      "y_pos": 143,
+      "text": "~ ~ ~\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6997471306295622
+    },
+    {
+      "type": "header",
+      "img_path": "p0120_009_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9176616072654724,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "doc_title",
+      "img_path": "p0120_019_doc_title.png",
+      "bbox": [
+        [
+          758,
+          350
+        ],
+        [
+          1827,
+          350
+        ],
+        [
+          1827,
+          423
+        ],
+        [
+          758,
+          423
+        ]
+      ],
+      "score": 0.7365555763244629,
+      "y_pos": 350,
+      "text": "<b>HUYÊT VI TRÊN 14 ĐƯỜNG KINH</b>",
+      "confidence": 0.9753455250493942
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0120_017_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          470
+        ],
+        [
+          1003,
+          470
+        ],
+        [
+          1003,
+          520
+        ],
+        [
+          225,
+          520
+        ]
+      ],
+      "score": 0.8126315474510193,
+      "y_pos": 470,
+      "text": "THỦ THÁI ÂM PHẾ KINH: 11 HUYỆT",
+      "confidence": 0.8519220482558012
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0120_012_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          563
+        ],
+        [
+          543,
+          563
+        ],
+        [
+          543,
+          615
+        ],
+        [
+          227,
+          615
+        ]
+      ],
+      "score": 0.9116712212562561,
+      "y_pos": 563,
+      "text": "1. Trung phủ",
+      "confidence": 0.8893722551209586
+    },
+    {
+      "type": "text",
+      "img_path": "p0120_004_text.png",
+      "bbox": [
+        [
+          282,
+          655
+        ],
+        [
+          2357,
+          655
+        ],
+        [
+          2357,
+          778
+        ],
+        [
+          282,
+          778
+        ]
+      ],
+      "score": 0.9617963433265686,
+      "y_pos": 655,
+      "text": "Vị trí: cạnh ngoài phía trên của vách trước lồng ngực, trên vú 3 gian sườn, cách đường giữa\nngực 6 thốn. (H35)",
+      "confidence": 0.9907654425469778
+    },
+    {
+      "type": "text",
+      "img_path": "p0120_014_text.png",
+      "bbox": [
+        [
+          286,
+          815
+        ],
+        [
+          1494,
+          815
+        ],
+        [
+          1494,
+          871
+        ],
+        [
+          286,
+          871
+        ]
+      ],
+      "score": 0.8978011012077332,
+      "y_pos": 815,
+      "text": "Cách lấy huyệt: nằm ngửa để lấy huyệt, có hai cách:",
+      "confidence": 0.8252696349935712
+    },
+    {
+      "type": "text",
+      "img_path": "p0120_000_text.png",
+      "bbox": [
+        [
+          284,
+          907
+        ],
+        [
+          2359,
+          907
+        ],
+        [
+          2359,
+          1103
+        ],
+        [
+          284,
+          1103
+        ]
+      ],
+      "score": 0.9738754034042358,
+      "y_pos": 907,
+      "text": "a. Cho hai tay chéo ra phía sau lưng, sẽ thấy phía dưới xương đòn, đầu ngoài có một hố lõm\ntam giác (chính giữa hố lõm là huyệt <i>Vân môn</i>), từ chính giữa hố lõm đó xuống (theo\nđường rãnh cơ đen ta và cơ ngực lớn) 1 thốn, nằm trên khe liên sườn 1-2.",
+      "confidence": 0.9989541577740558
+    },
+    {
+      "type": "text",
+      "img_path": "p0120_005_text.png",
+      "bbox": [
+        [
+          284,
+          1140
+        ],
+        [
+          2356,
+          1140
+        ],
+        [
+          2356,
+          1260
+        ],
+        [
+          284,
+          1260
+        ]
+      ],
+      "score": 0.9598986506462097,
+      "y_pos": 1140,
+      "text": "b. Từ đầu vú (chỉ dùng đo ở nam giới) đo ra ngoài 2 thốn, rồi từ đó thẳng lên 3 gian sườn,\ntức là khe liên sườn 1-2.",
+      "confidence": 0.9927068109265655
+    },
+    {
+      "type": "text",
+      "img_path": "p0120_013_text.png",
+      "bbox": [
+        [
+          286,
+          1303
+        ],
+        [
+          2245,
+          1303
+        ],
+        [
+          2245,
+          1354
+        ],
+        [
+          286,
+          1354
+        ]
+      ],
+      "score": 0.9061030745506287,
+      "y_pos": 1303,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3-0,5 thốn; châm dưới da sâu 1-2 thốn. Cứu 5 mồi.",
+      "confidence": 0.9921934367662453
+    },
+    {
+      "type": "text",
+      "img_path": "p0120_016_text.png",
+      "bbox": [
+        [
+          287,
+          1396
+        ],
+        [
+          1293,
+          1396
+        ],
+        [
+          1293,
+          1449
+        ],
+        [
+          287,
+          1449
+        ]
+      ],
+      "score": 0.834253191947937,
+      "y_pos": 1396,
+      "text": "Chủ trị: Ho hắng, hen, tức ngực, đau bả vai.",
+      "confidence": 0.7574182398941206
+    },
+    {
+      "type": "text",
+      "img_path": "p0120_003_text.png",
+      "bbox": [
+        [
+          283,
+          1487
+        ],
+        [
+          2358,
+          1487
+        ],
+        [
+          2358,
+          1611
+        ],
+        [
+          283,
+          1611
+        ]
+      ],
+      "score": 0.9634741544723511,
+      "y_pos": 1487,
+      "text": "<i>Tác dụng phối hợp:</i> Với <i>Thiếu xung</i> trị đau ngực; với <i>Đại chu</i>ỳ trị viêm phổi; với <i>Nội quan</i> trị\ncánh tay mát lạnh.",
+      "confidence": 0.9899177490496167
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0120_010_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1651
+        ],
+        [
+          504,
+          1651
+        ],
+        [
+          504,
+          1696
+        ],
+        [
+          227,
+          1696
+        ]
+      ],
+      "score": 0.9172796010971069,
+      "y_pos": 1651,
+      "text": "Vân môn",
+      "confidence": 0.914842320813073
+    },
+    {
+      "type": "text",
+      "img_path": "p0120_008_text.png",
+      "bbox": [
+        [
+          289,
+          1741
+        ],
+        [
+          1670,
+          1741
+        ],
+        [
+          1670,
+          1796
+        ],
+        [
+          289,
+          1796
+        ]
+      ],
+      "score": 0.9223712086677551,
+      "y_pos": 1741,
+      "text": "Vị trí: Dưới xương đòn 1 thốn, từ giữa người ra 6 thốn. (H35)",
+      "confidence": 0.9934010240766737
+    },
+    {
+      "type": "text",
+      "img_path": "p0120_002_text.png",
+      "bbox": [
+        [
+          283,
+          1833
+        ],
+        [
+          2358,
+          1833
+        ],
+        [
+          2358,
+          1951
+        ],
+        [
+          283,
+          1951
+        ]
+      ],
+      "score": 0.9647090435028076,
+      "y_pos": 1833,
+      "text": "Cách châm: Châm chếch lên và ra phía ngoài, sâu 0,5 đến 1 thốn; cấm châm đứng và châm\nsâu. Cứu 5 mồi.",
+      "confidence": 0.9951106474921863
+    },
+    {
+      "type": "text",
+      "img_path": "p0120_007_text.png",
+      "bbox": [
+        [
+          286,
+          1994
+        ],
+        [
+          1688,
+          1994
+        ],
+        [
+          1688,
+          2051
+        ],
+        [
+          286,
+          2051
+        ]
+      ],
+      "score": 0.9245192408561707,
+      "y_pos": 1994,
+      "text": "Chủ trị: Viêm phế quản, viêm phổi, suyễn, lao phổi, đau ngực.",
+      "confidence": 0.8797673753329686
+    },
+    {
+      "type": "image",
+      "img_path": "p0120_001_image.png",
+      "bbox": [
+        [
+          665,
+          2151
+        ],
+        [
+          1923,
+          2151
+        ],
+        [
+          1923,
+          3065
+        ],
+        [
+          665,
+          3065
+        ]
+      ],
+      "score": 0.9703073501586914,
+      "y_pos": 2151
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0120_015_figure_title.png",
+      "bbox": [
+        [
+          1105,
+          3127
+        ],
+        [
+          1484,
+          3127
+        ],
+        [
+          1484,
+          3171
+        ],
+        [
+          1105,
+          3171
+        ]
+      ],
+      "score": 0.8946449756622314,
+      "y_pos": 3127,
+      "text": "<b>Hình 35 - Hình 36</b>",
+      "confidence": 0.9633731756891523
+    },
+    {
+      "type": "footer",
+      "img_path": "p0120_011_footer.png",
+      "bbox": [
+        [
+          231,
+          3334
+        ],
+        [
+          1434,
+          3334
+        ],
+        [
+          1434,
+          3387
+        ],
+        [
+          231,
+          3387
+        ]
+      ],
+      "score": 0.9146567583084106,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985907921251261
+    },
+    {
+      "type": "number",
+      "img_path": "p0120_018_number.png",
+      "bbox": [
+        [
+          2331,
+          3342
+        ],
+        [
+          2348,
+          3342
+        ],
+        [
+          2348,
+          3376
+        ],
+        [
+          2331,
+          3376
+        ]
+      ],
+      "score": 0.7746952176094055,
+      "y_pos": 3342,
+      "text": "\n\n    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0120.png"
+}

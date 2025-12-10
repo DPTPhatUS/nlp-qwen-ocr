@@ -1,0 +1,500 @@
+{
+  "page_num": 485,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0485_007_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          196
+        ],
+        [
+          1675,
+          196
+        ]
+      ],
+      "score": 0.9322097897529602,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7141765639895484
+    },
+    {
+      "type": "header",
+      "img_path": "p0485_011_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9200925230979919,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0485_010_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          331
+        ],
+        [
+          575,
+          331
+        ],
+        [
+          575,
+          379
+        ],
+        [
+          226,
+          379
+        ]
+      ],
+      "score": 0.9218137264251709,
+      "y_pos": 331,
+      "text": "54. Viêm hong",
+      "confidence": 0.8503756086031596
+    },
+    {
+      "type": "text",
+      "img_path": "p0485_000_text.png",
+      "bbox": [
+        [
+          220,
+          418
+        ],
+        [
+          2358,
+          418
+        ],
+        [
+          2358,
+          683
+        ],
+        [
+          220,
+          683
+        ]
+      ],
+      "score": 0.9830958247184753,
+      "y_pos": 418,
+      "text": "Viêm họng thường sinh ra cùng với cảm gió. Nếu do phế, vị uất nhiệt xông lên, làm cho hầu\nhọng sưng đỏ, đau đớn, đó là chứng nhiệt thực. Thận âm hao tổn, hư nhiệt thượng viêm<sup>(*)</sup> cũng\nlàm cho hầu họng sưng đỏ đau đớn, nhưng không đau dữ dội, mà về đêm mới đau nặng, đó là\nchứng hư.",
+      "confidence": 0.9724805034228874
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0485_014_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          727
+        ],
+        [
+          776,
+          727
+        ],
+        [
+          776,
+          775
+        ],
+        [
+          286,
+          775
+        ]
+      ],
+      "score": 0.9146289229393005,
+      "y_pos": 727,
+      "text": "a. Chứng thực nhiệt",
+      "confidence": 0.9588156427655902
+    },
+    {
+      "type": "text",
+      "img_path": "p0485_013_text.png",
+      "bbox": [
+        [
+          341,
+          814
+        ],
+        [
+          1608,
+          814
+        ],
+        [
+          1608,
+          867
+        ],
+        [
+          341,
+          867
+        ]
+      ],
+      "score": 0.915980875492096,
+      "y_pos": 814,
+      "text": "Cách chữa: Lấy huyệt Hợp cốc, Thiếu thương, Nhĩ tiêm.",
+      "confidence": 0.992520500313152
+    },
+    {
+      "type": "text",
+      "img_path": "p0485_002_text.png",
+      "bbox": [
+        [
+          338,
+          907
+        ],
+        [
+          2361,
+          907
+        ],
+        [
+          2361,
+          1101
+        ],
+        [
+          338,
+          1101
+        ]
+      ],
+      "score": 0.9771426916122437,
+      "y_pos": 907,
+      "text": "Huyệt Hợp cốc, lấy hào kim vê chuyển tiến kim (mũi kim hơi chếch lên, vê thật mạnh)\ndùng thủ pháp bình bổ bình tả, lưu kim 20 phút. Huyệt <i>Thiếu thương</i> và <i>Nhĩ tiêm</i> dùng kim\n3 cạnh chích ra máu. Hoặc châm thêm <i>Thái xung, Nội đình</i> cũng được.",
+      "confidence": 0.9927182731971386
+    },
+    {
+      "type": "text",
+      "img_path": "p0485_004_text.png",
+      "bbox": [
+        [
+          338,
+          1141
+        ],
+        [
+          2358,
+          1141
+        ],
+        [
+          2358,
+          1262
+        ],
+        [
+          338,
+          1262
+        ]
+      ],
+      "score": 0.96559739112854,
+      "y_pos": 1141,
+      "text": "Giảng nghĩa của phương: Hợp cốc sơ giải tà nhiệt. Thiếu thương, Nhĩ tiêm đều thanh\nnhiệt, tiết hỏa, vì vậy đối với chứng thực nhiệt đau họng có kết quả rất tốt.",
+      "confidence": 0.998820406120358
+    },
+    {
+      "type": "text",
+      "img_path": "p0485_018_text.png",
+      "bbox": [
+        [
+          342,
+          1306
+        ],
+        [
+          1417,
+          1306
+        ],
+        [
+          1417,
+          1355
+        ],
+        [
+          342,
+          1355
+        ]
+      ],
+      "score": 0.5573813915252686,
+      "y_pos": 1306,
+      "text": "Phương huyệt kinh nghiệm đạt hiệu quả cao",
+      "confidence": 0.9551949390145236
+    },
+    {
+      "type": "text",
+      "img_path": "p0485_003_text.png",
+      "bbox": [
+        [
+          344,
+          1395
+        ],
+        [
+          2360,
+          1395
+        ],
+        [
+          2360,
+          1514
+        ],
+        [
+          344,
+          1514
+        ]
+      ],
+      "score": 0.9679691195487976,
+      "y_pos": 1395,
+      "text": "+ Thiếu thương, Thương dương, Hợp cốc, Khúc trì, Thiên đột, Nội đình (còn chữa được\ncả viêm a-mi-đan).",
+      "confidence": 0.989334866667495
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0485_015_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          1561
+        ],
+        [
+          690,
+          1561
+        ],
+        [
+          690,
+          1607
+        ],
+        [
+          284,
+          1607
+        ]
+      ],
+      "score": 0.8953465223312378,
+      "y_pos": 1561,
+      "text": "b. Chứng âm hư",
+      "confidence": 0.861110333353281
+    },
+    {
+      "type": "text",
+      "img_path": "p0485_008_text.png",
+      "bbox": [
+        [
+          341,
+          1649
+        ],
+        [
+          1318,
+          1649
+        ],
+        [
+          1318,
+          1698
+        ],
+        [
+          341,
+          1698
+        ]
+      ],
+      "score": 0.9305858612060547,
+      "y_pos": 1649,
+      "text": "Cách chữa: Lấy huyết Thái khê, Chiếu hải.",
+      "confidence": 0.5654460011526595
+    },
+    {
+      "type": "text",
+      "img_path": "p0485_006_text.png",
+      "bbox": [
+        [
+          341,
+          1740
+        ],
+        [
+          1514,
+          1740
+        ],
+        [
+          1514,
+          1792
+        ],
+        [
+          341,
+          1792
+        ]
+      ],
+      "score": 0.9365915060043335,
+      "y_pos": 1740,
+      "text": "Cả hai huyệt đều dùng thủ pháp kích thích vừa phải.",
+      "confidence": 0.9932783268532663
+    },
+    {
+      "type": "text",
+      "img_path": "p0485_001_text.png",
+      "bbox": [
+        [
+          337,
+          1830
+        ],
+        [
+          2359,
+          1830
+        ],
+        [
+          2359,
+          2025
+        ],
+        [
+          337,
+          2025
+        ]
+      ],
+      "score": 0.9782514572143555,
+      "y_pos": 1830,
+      "text": "Giảng nghĩa của phương: Thái khê có tác dụng bổ thận tư thủy<sup>(**)</sup>, dẹp hỏa. Chiếu hải là\nhuyệt chữa rất hay, chứng đau đầu hầu họng, có thể dẫn hư hỏa đi xuống. Do đó có hiệu\nquả chữa âm hư đau hong.",
+      "confidence": 0.9488852135239488
+    },
+    {
+      "type": "text",
+      "img_path": "p0485_017_text.png",
+      "bbox": [
+        [
+          342,
+          2068
+        ],
+        [
+          1413,
+          2068
+        ],
+        [
+          1413,
+          2118
+        ],
+        [
+          342,
+          2118
+        ]
+      ],
+      "score": 0.8703805804252625,
+      "y_pos": 2068,
+      "text": "Phương huyệt kinh nghiệm đạt hiệu quả cao",
+      "confidence": 0.9499683962311856
+    },
+    {
+      "type": "text",
+      "img_path": "p0485_009_text.png",
+      "bbox": [
+        [
+          344,
+          2158
+        ],
+        [
+          1014,
+          2158
+        ],
+        [
+          1014,
+          2207
+        ],
+        [
+          344,
+          2207
+        ]
+      ],
+      "score": 0.9285816550254822,
+      "y_pos": 2158,
+      "text": "+ Chích <i>Nhiên côc</i>, năn máu.",
+      "confidence": 0.974694432750825
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0485_005_footnote.png",
+      "bbox": [
+        [
+          228,
+          3129
+        ],
+        [
+          1025,
+          3129
+        ],
+        [
+          1025,
+          3208
+        ],
+        [
+          228,
+          3208
+        ]
+      ],
+      "score": 0.9395378232002258,
+      "y_pos": 3129,
+      "text": "(*) Hư nhiệt thượng viêm: Sốt do hư hỏa bốc cháy lên.\n(**) Tư thủy: Tư là chất béo bổ, tư thủy là bổ thận thủy",
+      "confidence": 0.8907341280794443
+    },
+    {
+      "type": "number",
+      "img_path": "p0485_016_number.png",
+      "bbox": [
+        [
+          2304,
+          3300
+        ],
+        [
+          2352,
+          3300
+        ],
+        [
+          2352,
+          3334
+        ],
+        [
+          2304,
+          3334
+        ]
+      ],
+      "score": 0.8716533780097961,
+      "y_pos": 3300,
+      "text": "\n    \n    \n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0485_012_footer.png",
+      "bbox": [
+        [
+          228,
+          3311
+        ],
+        [
+          1323,
+          3311
+        ],
+        [
+          1323,
+          3354
+        ],
+        [
+          228,
+          3354
+        ]
+      ],
+      "score": 0.9199091196060181,
+      "y_pos": 3311,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9981755513065266
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0485.png"
+}

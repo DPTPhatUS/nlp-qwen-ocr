@@ -1,0 +1,786 @@
+{
+  "page_num": 332,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0332_003_header.png",
+      "bbox": [
+        [
+          1607,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9292123913764954,
+      "y_pos": 143,
+      "text": "~ ~ ~\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6999826583833921
+    },
+    {
+      "type": "header",
+      "img_path": "p0332_008_header.png",
+      "bbox": [
+        [
+          230,
+          155
+        ],
+        [
+          946,
+          155
+        ],
+        [
+          946,
+          205
+        ],
+        [
+          230,
+          205
+        ]
+      ],
+      "score": 0.9121996164321899,
+      "y_pos": 155,
+      "text": "TẠNG PHỦ BIỆN CHÚNG LUẬN TRỊ",
+      "confidence": 0.9256932099660238
+    },
+    {
+      "type": "text",
+      "img_path": "p0332_000_text.png",
+      "bbox": [
+        [
+          336,
+          306
+        ],
+        [
+          2358,
+          306
+        ],
+        [
+          2358,
+          643
+        ],
+        [
+          336,
+          643
+        ]
+      ],
+      "score": 0.9851559400558472,
+      "y_pos": 306,
+      "text": "Thận chủ màng tinh, nên phép bổ dương thường trên cơ sở bổ âm, gia thêm thuốc bổ âm,\ngia thêm thuốc bổ dương như phương bổ dương nổi tiếng <i>Kim quỹ bổ khí hoàn</i> là tư thận\nâm trên cơ sở <i>Lục vị địa hoàng hoàn</i> gia <i>Phụ tử, Nhục qu</i>ế để ôn thận dương. Nếu dương\nquá hư có thể chuyên dùng phù dương để phối âm, nhưng chỉ là tạm, không nên dùng\nlâu, nếu không sẽ chuyển thành âm hư.",
+      "confidence": 0.9961023429763902
+    },
+    {
+      "type": "text",
+      "img_path": "p0332_002_text.png",
+      "bbox": [
+        [
+          283,
+          680
+        ],
+        [
+          2359,
+          680
+        ],
+        [
+          2359,
+          807
+        ],
+        [
+          283,
+          807
+        ]
+      ],
+      "score": 0.9448238611221313,
+      "y_pos": 680,
+      "text": "b. Bàng quang và thận cùng chung biểu lý, vì vậy bàng quang hư hàn nên bổ thận dương để\ntrị tận gốc. Trị bàng quang thấp nhiệt thì trực tiếp thanh lợi bàng quang.",
+      "confidence": 0.9950014177747268
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0332_006_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          844
+        ],
+        [
+          1254,
+          844
+        ],
+        [
+          1254,
+          898
+        ],
+        [
+          225,
+          898
+        ]
+      ],
+      "score": 0.9188171625137329,
+      "y_pos": 844,
+      "text": "C. Những bài thuốc về thận và bàng quang",
+      "confidence": 0.9984140467076075
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0332_025_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          937
+        ],
+        [
+          825,
+          937
+        ],
+        [
+          825,
+          988
+        ],
+        [
+          227,
+          988
+        ]
+      ],
+      "score": 0.8396401405334473,
+      "y_pos": 937,
+      "text": "1. Lục vị địa hoàng hoàn",
+      "confidence": 0.9163297827427204
+    },
+    {
+      "type": "text",
+      "img_path": "p0332_013_text.png",
+      "bbox": [
+        [
+          289,
+          1029
+        ],
+        [
+          1515,
+          1029
+        ],
+        [
+          1515,
+          1082
+        ],
+        [
+          289,
+          1082
+        ]
+      ],
+      "score": 0.8872520327568054,
+      "y_pos": 1029,
+      "text": "Thục địa hoàng    8 lạng,    Sơn thù nhục    4 lạng,",
+      "confidence": 0.9602476611053423
+    },
+    {
+      "type": "text",
+      "img_path": "p0332_014_text.png",
+      "bbox": [
+        [
+          287,
+          1122
+        ],
+        [
+          1514,
+          1122
+        ],
+        [
+          1514,
+          1174
+        ],
+        [
+          287,
+          1174
+        ]
+      ],
+      "score": 0.8853623270988464,
+      "y_pos": 1122,
+      "text": "Sơn dước    4 lang,    Trach tả    3 lạng,",
+      "confidence": 0.9373521228631337
+    },
+    {
+      "type": "text",
+      "img_path": "p0332_016_text.png",
+      "bbox": [
+        [
+          285,
+          1214
+        ],
+        [
+          1513,
+          1214
+        ],
+        [
+          1513,
+          1265
+        ],
+        [
+          285,
+          1265
+        ]
+      ],
+      "score": 0.8830862641334534,
+      "y_pos": 1214,
+      "text": "Đan bì    3 lang,    Phuc linh    3 lang.",
+      "confidence": 0.9087778668888289
+    },
+    {
+      "type": "text",
+      "img_path": "p0332_001_text.png",
+      "bbox": [
+        [
+          279,
+          1302
+        ],
+        [
+          2358,
+          1302
+        ],
+        [
+          2358,
+          1424
+        ],
+        [
+          279,
+          1424
+        ]
+      ],
+      "score": 0.9672091603279114,
+      "y_pos": 1302,
+      "text": "Tán nhỏ, luyện mật làm viên, mỗi ngày uống 2 – 4 đồng cân, chia làm hai lần uống với nước\nmuối nhat.",
+      "confidence": 0.9971248666063333
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0332_026_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          1465
+        ],
+        [
+          1283,
+          1465
+        ],
+        [
+          1283,
+          1517
+        ],
+        [
+          224,
+          1517
+        ]
+      ],
+      "score": 0.8386867642402649,
+      "y_pos": 1465,
+      "text": "2. Tri bá bát vị hoàn (Tri bá địa hoàng hoàn)",
+      "confidence": 0.9464143451223982
+    },
+    {
+      "type": "text",
+      "img_path": "p0332_007_text.png",
+      "bbox": [
+        [
+          281,
+          1558
+        ],
+        [
+          2267,
+          1558
+        ],
+        [
+          2267,
+          1611
+        ],
+        [
+          281,
+          1611
+        ]
+      ],
+      "score": 0.9170035123825073,
+      "y_pos": 1558,
+      "text": "Tức là phương <i>Lục vị địa hoàng hoàn</i> kể trên gia thêm <i>Tri mẫu</i> 2 lạng , <i>Hoàng bá</i> 2 lạng.",
+      "confidence": 0.9971855942239153
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0332_022_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1648
+        ],
+        [
+          830,
+          1648
+        ],
+        [
+          830,
+          1700
+        ],
+        [
+          226,
+          1700
+        ]
+      ],
+      "score": 0.857249915599823,
+      "y_pos": 1648,
+      "text": "3. Kim quỹ thận khí hoàn",
+      "confidence": 0.9637170433998108
+    },
+    {
+      "type": "text",
+      "img_path": "p0332_029_text.png",
+      "bbox": [
+        [
+          291,
+          1742
+        ],
+        [
+          1514,
+          1742
+        ],
+        [
+          1514,
+          1796
+        ],
+        [
+          291,
+          1796
+        ]
+      ],
+      "score": 0.8090827465057373,
+      "y_pos": 1742,
+      "text": "Thục địa    8 lạng,    Sơn dước    4 lạng,",
+      "confidence": 0.9616908599932988
+    },
+    {
+      "type": "text",
+      "img_path": "p0332_020_text.png",
+      "bbox": [
+        [
+          287,
+          1834
+        ],
+        [
+          1514,
+          1834
+        ],
+        [
+          1514,
+          1887
+        ],
+        [
+          287,
+          1887
+        ]
+      ],
+      "score": 0.8706449866294861,
+      "y_pos": 1834,
+      "text": "Sơn thù nhục 4 lạng,    Trach tả    3 lạng,",
+      "confidence": 0.9120509035458871
+    },
+    {
+      "type": "text",
+      "img_path": "p0332_017_text.png",
+      "bbox": [
+        [
+          286,
+          1924
+        ],
+        [
+          1514,
+          1924
+        ],
+        [
+          1514,
+          1978
+        ],
+        [
+          286,
+          1978
+        ]
+      ],
+      "score": 0.8772345185279846,
+      "y_pos": 1924,
+      "text": "Phuc linh    3 lạng,    Đan bì    3 lạng,",
+      "confidence": 0.9172039132828664
+    },
+    {
+      "type": "text",
+      "img_path": "p0332_027_text.png",
+      "bbox": [
+        [
+          286,
+          2015
+        ],
+        [
+          1514,
+          2015
+        ],
+        [
+          1514,
+          2070
+        ],
+        [
+          286,
+          2070
+        ]
+      ],
+      "score": 0.8315926194190979,
+      "y_pos": 2015,
+      "text": "Quế chi    1 lạng,    Phu tử    1 lạng.",
+      "confidence": 0.9442625405887761
+    },
+    {
+      "type": "text",
+      "img_path": "p0332_005_text.png",
+      "bbox": [
+        [
+          282,
+          2105
+        ],
+        [
+          1781,
+          2105
+        ],
+        [
+          1781,
+          2159
+        ],
+        [
+          282,
+          2159
+        ]
+      ],
+      "score": 0.920126736164093,
+      "y_pos": 2105,
+      "text": "Tán nhỏ làm thành viên, ngày uống 3 – 4 đồng cân, chia làm 2 lần.",
+      "confidence": 0.9779694089248999
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0332_023_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2198
+        ],
+        [
+          666,
+          2198
+        ],
+        [
+          666,
+          2248
+        ],
+        [
+          225,
+          2248
+        ]
+      ],
+      "score": 0.8543387651443481,
+      "y_pos": 2198,
+      "text": "4. Súc tuyển hoàn",
+      "confidence": 0.9458324281792891
+    },
+    {
+      "type": "text",
+      "img_path": "p0332_024_text.png",
+      "bbox": [
+        [
+          286,
+          2289
+        ],
+        [
+          1440,
+          2289
+        ],
+        [
+          1440,
+          2345
+        ],
+        [
+          286,
+          2345
+        ]
+      ],
+      "score": 0.8439573645591736,
+      "y_pos": 2289,
+      "text": "Sơn dước    6 lạng,    O dược    6 lạng,",
+      "confidence": 0.9177468400448561
+    },
+    {
+      "type": "text",
+      "img_path": "p0332_012_text.png",
+      "bbox": [
+        [
+          285,
+          2381
+        ],
+        [
+          803,
+          2381
+        ],
+        [
+          803,
+          2436
+        ],
+        [
+          285,
+          2436
+        ]
+      ],
+      "score": 0.8887068629264832,
+      "y_pos": 2381,
+      "text": "Ich trí nhân    6 lang.",
+      "confidence": 0.7686211932746191
+    },
+    {
+      "type": "text",
+      "img_path": "p0332_010_text.png",
+      "bbox": [
+        [
+          281,
+          2472
+        ],
+        [
+          1764,
+          2472
+        ],
+        [
+          1764,
+          2527
+        ],
+        [
+          281,
+          2527
+        ]
+      ],
+      "score": 0.9098659157752991,
+      "y_pos": 2472,
+      "text": "Nghiền nhỏ, lấy nước sôi để nguội làm viên to bằng hạt đậu xanh.",
+      "confidence": 0.9996927199941693
+    },
+    {
+      "type": "text",
+      "img_path": "p0332_015_text.png",
+      "bbox": [
+        [
+          281,
+          2564
+        ],
+        [
+          1734,
+          2564
+        ],
+        [
+          1734,
+          2619
+        ],
+        [
+          281,
+          2619
+        ]
+      ],
+      "score": 0.8850485682487488,
+      "y_pos": 2564,
+      "text": "Ngày uống 1 – 2 lần, mỗi lần 1 – 3 đồng cân, uống với nước ấm.",
+      "confidence": 0.8448092518374324
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0332_019_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2655
+        ],
+        [
+          1157,
+          2655
+        ],
+        [
+          1157,
+          2710
+        ],
+        [
+          225,
+          2710
+        ]
+      ],
+      "score": 0.872290849685669,
+      "y_pos": 2655,
+      "text": "5. Cố tinh hoàn (Kim quy cố tinh hoàn)",
+      "confidence": 0.9081568285822869
+    },
+    {
+      "type": "text",
+      "img_path": "p0332_028_text.png",
+      "bbox": [
+        [
+          285,
+          2747
+        ],
+        [
+          1553,
+          2747
+        ],
+        [
+          1553,
+          2803
+        ],
+        [
+          285,
+          2803
+        ]
+      ],
+      "score": 0.8309457898139954,
+      "y_pos": 2747,
+      "text": "Sao Uyến tật lê 2 lạng,    Khiếm thực    2 lạng,",
+      "confidence": 0.9329779845034635
+    },
+    {
+      "type": "text",
+      "img_path": "p0332_021_text.png",
+      "bbox": [
+        [
+          286,
+          2841
+        ],
+        [
+          1551,
+          2841
+        ],
+        [
+          1551,
+          2896
+        ],
+        [
+          286,
+          2896
+        ]
+      ],
+      "score": 0.8575050234794617,
+      "y_pos": 2841,
+      "text": "Liên tu    2 lạng,    Luyện Long côt    1 lạng,",
+      "confidence": 0.9372146149269409
+    },
+    {
+      "type": "text",
+      "img_path": "p0332_011_text.png",
+      "bbox": [
+        [
+          286,
+          2932
+        ],
+        [
+          839,
+          2932
+        ],
+        [
+          839,
+          2987
+        ],
+        [
+          286,
+          2987
+        ]
+      ],
+      "score": 0.9008423686027527,
+      "y_pos": 2932,
+      "text": "Luyện Mẫu lệ    1 lạng.",
+      "confidence": 0.9595099779821578
+    },
+    {
+      "type": "text",
+      "img_path": "p0332_004_text.png",
+      "bbox": [
+        [
+          283,
+          3023
+        ],
+        [
+          1409,
+          3023
+        ],
+        [
+          1409,
+          3076
+        ],
+        [
+          283,
+          3076
+        ]
+      ],
+      "score": 0.925266444683075,
+      "y_pos": 3023,
+      "text": "Giã nhỏ, trộn với cháo nấu bằng hạt sen làm viên.",
+      "confidence": 0.9962843457857767
+    },
+    {
+      "type": "footer",
+      "img_path": "p0332_009_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9107221364974976,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0332_018_number.png",
+      "bbox": [
+        [
+          2304,
+          3338
+        ],
+        [
+          2354,
+          3338
+        ],
+        [
+          2354,
+          3373
+        ],
+        [
+          2304,
+          3373
+        ]
+      ],
+      "score": 0.872952938079834,
+      "y_pos": 3338,
+      "text": "    \n    \n        \n\n\n    \n    \n\n\n\n۰    \n    \n        \n    ",
+      "confidence": 0.9786000847816467
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0332.png"
+}

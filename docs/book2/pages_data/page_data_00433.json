@@ -1,0 +1,396 @@
+{
+  "page_num": 433,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0433_006_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9197841286659241,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0433_011_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9103835225105286,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0433_010_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          327
+        ],
+        [
+          515,
+          327
+        ],
+        [
+          515,
+          380
+        ],
+        [
+          226,
+          380
+        ]
+      ],
+      "score": 0.9113321900367737,
+      "y_pos": 327,
+      "text": "7. Say nang",
+      "confidence": 0.8766841063132653
+    },
+    {
+      "type": "text",
+      "img_path": "p0433_001_text.png",
+      "bbox": [
+        [
+          220,
+          417
+        ],
+        [
+          2360,
+          417
+        ],
+        [
+          2360,
+          685
+        ],
+        [
+          220,
+          685
+        ]
+      ],
+      "score": 0.9791383147239685,
+      "y_pos": 417,
+      "text": "Say nắng phần nhiều phát sinh do lao động lâu hoặc đi bộ đường dài dưới ánh nắng mùa hạ.\nTriệu chứng chung: Đầu tiên thấy đau đầu, choáng váng, chân tay rã rời, nôn mửa, quặn bụng,\ntiếp đến dột nhiên té ngã, hàm răng cắn chặt, sắc mặt trắng bợt. Nếu bị say nắng mà không kịp\nthời cấp cứu, có thể chết. Nên kết hợp Đông, Tây y để xử trí.",
+      "confidence": 0.9988112836162208
+    },
+    {
+      "type": "text",
+      "img_path": "p0433_002_text.png",
+      "bbox": [
+        [
+          280,
+          724
+        ],
+        [
+          2358,
+          724
+        ],
+        [
+          2358,
+          848
+        ],
+        [
+          280,
+          848
+        ]
+      ],
+      "score": 0.9633349180221558,
+      "y_pos": 724,
+      "text": "Cách chữa: Trước hết cần phải chuyển bệnh nhân đến chỗ có bóng mát, thoáng gió, đồng\nthời châm cứu các huyệt: <i>Hợp cốc, Nội quan, Túc tam lý, Nhân trung.</i>",
+      "confidence": 0.9957821822014161
+    },
+    {
+      "type": "text",
+      "img_path": "p0433_003_text.png",
+      "bbox": [
+        [
+          280,
+          885
+        ],
+        [
+          2357,
+          885
+        ],
+        [
+          2357,
+          1010
+        ],
+        [
+          280,
+          1010
+        ]
+      ],
+      "score": 0.9623043537139893,
+      "y_pos": 885,
+      "text": "Trước hết lấy móng tay bấm mạnh <i>Nhân trung</i>, rồi châm <i>Hợp cốc, Nội quan, Túc tam lý</i>,\ntrước dùng tả pháp, sau dùng bổ pháp lưu kim 10 đến 15 phút.",
+      "confidence": 0.997124496584096
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0433_012_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          1052
+        ],
+        [
+          524,
+          1052
+        ],
+        [
+          524,
+          1101
+        ],
+        [
+          284,
+          1101
+        ]
+      ],
+      "score": 0.8789143562316895,
+      "y_pos": 1052,
+      "text": "Gia giám:",
+      "confidence": 0.8674447265538302
+    },
+    {
+      "type": "text",
+      "img_path": "p0433_005_text.png",
+      "bbox": [
+        [
+          283,
+          1142
+        ],
+        [
+          1843,
+          1142
+        ],
+        [
+          1843,
+          1193
+        ],
+        [
+          283,
+          1193
+        ]
+      ],
+      "score": 0.9200989007949829,
+      "y_pos": 1142,
+      "text": "Sốt cao gia <i>Khúc trì, Thập tuyên</i>, hoặc dùng 12 <i>Tỉnh huyệt</i> chích máu.",
+      "confidence": 0.993715096164394
+    },
+    {
+      "type": "text",
+      "img_path": "p0433_008_text.png",
+      "bbox": [
+        [
+          283,
+          1234
+        ],
+        [
+          1589,
+          1234
+        ],
+        [
+          1589,
+          1283
+        ],
+        [
+          283,
+          1283
+        ]
+      ],
+      "score": 0.9187015891075134,
+      "y_pos": 1234,
+      "text": "Nếu có co rúm chân, chích ra máu ở <i>Úy trung, Khúc trạch</i>.",
+      "confidence": 0.906864270567894
+    },
+    {
+      "type": "text",
+      "img_path": "p0433_007_text.png",
+      "bbox": [
+        [
+          285,
+          1326
+        ],
+        [
+          1258,
+          1326
+        ],
+        [
+          1258,
+          1377
+        ],
+        [
+          285,
+          1377
+        ]
+      ],
+      "score": 0.9188650250434875,
+      "y_pos": 1326,
+      "text": "Tâm phiền hồi hộp thì châm thêm <i>Thông lý</i>.",
+      "confidence": 0.9884813997480605
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0433_013_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          1419
+        ],
+        [
+          910,
+          1419
+        ],
+        [
+          910,
+          1469
+        ],
+        [
+          284,
+          1469
+        ]
+      ],
+      "score": 0.8628325462341309,
+      "y_pos": 1419,
+      "text": "Giảng nghĩa của phương:",
+      "confidence": 0.8864642000198364
+    },
+    {
+      "type": "text",
+      "img_path": "p0433_000_text.png",
+      "bbox": [
+        [
+          280,
+          1505
+        ],
+        [
+          2361,
+          1505
+        ],
+        [
+          2361,
+          1845
+        ],
+        [
+          280,
+          1845
+        ]
+      ],
+      "score": 0.9833021759986877,
+      "y_pos": 1505,
+      "text": "Phương này lấy thanh thử, tỉnh thần làm chính. <i>Hợp cốc</i> thoái nhiệt, giải biểu. <i>Nội quan</i>\nthanh tâm, an thần. <i>Túc tam lý</i> là huyệt chủ yếu lưu điều trung khí, thanh hòa<sup>(*)</sup> trường, vị.\nNhân trung khai thượng tiêu, thanh khiếu<sup>(**)</sup> để thanh thần chí. Khúc trì tả nhiệt. Thập tuyên,\nThập nhị (12) Tỉnh huyệt đều có thể dụng tuyên khiếu khai bế, sơ dương khí để thanh thử\ntà<sup>(***)</sup>. <i>Ủy trung, Khúc trạch</i>) chích máu để tả nhiệt ở huyết phần. <i>Thông lý</i> ninh tâm, an thần.",
+      "confidence": 0.9919286087650159
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0433_004_footnote.png",
+      "bbox": [
+        [
+          227,
+          3091
+        ],
+        [
+          1050,
+          3091
+        ],
+        [
+          1050,
+          3208
+        ],
+        [
+          227,
+          3208
+        ]
+      ],
+      "score": 0.9515439867973328,
+      "y_pos": 3091,
+      "text": "(*) Thanh hòa: Làm mát và êm.\n(**) Thanh khiếu: Làm mát những cửa chủ yếu tạng phủ.\n(***) Thanh thử tà: Làm mát cái tà nóng nực.",
+      "confidence": 0.801309745600476
+    },
+    {
+      "type": "number",
+      "img_path": "p0433_014_number.png",
+      "bbox": [
+        [
+          2307,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2307,
+          3335
+        ]
+      ],
+      "score": 0.8540721535682678,
+      "y_pos": 3300,
+      "text": "    \n\n\n\n\n\n\n\n.\n٠.\n۰\n\n",
+      "confidence": 0.9033332860895565
+    },
+    {
+      "type": "footer",
+      "img_path": "p0433_009_footer.png",
+      "bbox": [
+        [
+          228,
+          3311
+        ],
+        [
+          1323,
+          3311
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          228,
+          3355
+        ]
+      ],
+      "score": 0.9162325263023376,
+      "y_pos": 3311,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9204180780446755
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0433.png"
+}

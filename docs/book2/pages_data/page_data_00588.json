@@ -1,0 +1,370 @@
+{
+  "page_num": 588,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0588_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9167868494987488,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0588_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1467,
+          152
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.91880863904953,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TẬN, KỲ HUYỆT",
+      "confidence": 0.9979400253295898
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0588_004_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          326
+        ],
+        [
+          864,
+          326
+        ],
+        [
+          864,
+          380
+        ],
+        [
+          226,
+          380
+        ]
+      ],
+      "score": 0.7638082504272461,
+      "y_pos": 326,
+      "text": "Phần 35. BÊNH NGOÀI DA",
+      "confidence": 0.7871534128983816
+    },
+    {
+      "type": "text",
+      "img_path": "p0588_011_text.png",
+      "bbox": [
+        [
+          229,
+          422
+        ],
+        [
+          1137,
+          422
+        ],
+        [
+          1137,
+          475
+        ],
+        [
+          229,
+          475
+        ]
+      ],
+      "score": 0.6108549237251282,
+      "y_pos": 422,
+      "text": "347. Bệnh ngoài da: Tĩnh mạch sau tai.",
+      "confidence": 0.9985377281904221
+    },
+    {
+      "type": "text",
+      "img_path": "p0588_006_text.png",
+      "bbox": [
+        [
+          230,
+          511
+        ],
+        [
+          1486,
+          511
+        ],
+        [
+          1486,
+          568
+        ],
+        [
+          230,
+          568
+        ]
+      ],
+      "score": 0.6704542636871338,
+      "y_pos": 511,
+      "text": "348. Viêm bì thần kinh: Bát phong, Thượng Bát phong.",
+      "confidence": 0.9953111167307254
+    },
+    {
+      "type": "text",
+      "img_path": "p0588_005_text.png",
+      "bbox": [
+        [
+          230,
+          603
+        ],
+        [
+          1181,
+          603
+        ],
+        [
+          1181,
+          658
+        ],
+        [
+          230,
+          658
+        ]
+      ],
+      "score": 0.6791800856590271,
+      "y_pos": 603,
+      "text": "349. Phong nhiệt ẩn chẩn: Kiên nội lăng.",
+      "confidence": 0.9878392531758263
+    },
+    {
+      "type": "text",
+      "img_path": "p0588_009_text.png",
+      "bbox": [
+        [
+          229,
+          695
+        ],
+        [
+          2134,
+          695
+        ],
+        [
+          2134,
+          753
+        ],
+        [
+          229,
+          753
+        ]
+      ],
+      "score": 0.6475292444229126,
+      "y_pos": 695,
+      "text": "350. Dị ứng mấn ngứa: Bách trùng sào, Định suyễn, Bách chủng phong, Chỉ dương.",
+      "confidence": 0.9996056631207466
+    },
+    {
+      "type": "text",
+      "img_path": "p0588_013_text.png",
+      "bbox": [
+        [
+          231,
+          787
+        ],
+        [
+          1161,
+          787
+        ],
+        [
+          1161,
+          840
+        ],
+        [
+          231,
+          840
+        ]
+      ],
+      "score": 0.5721727609634399,
+      "y_pos": 787,
+      "text": "351. Quá mẫn cảm viêm da: Chỉ dương.",
+      "confidence": 0.9935133127789748
+    },
+    {
+      "type": "text",
+      "img_path": "p0588_012_text.png",
+      "bbox": [
+        [
+          231,
+          880
+        ],
+        [
+          1037,
+          880
+        ],
+        [
+          1037,
+          930
+        ],
+        [
+          231,
+          930
+        ]
+      ],
+      "score": 0.5891960263252258,
+      "y_pos": 880,
+      "text": "352. Mun nhọt: Trửu tiêm, Đinh du.",
+      "confidence": 0.9887184666262733
+    },
+    {
+      "type": "text",
+      "img_path": "p0588_010_text.png",
+      "bbox": [
+        [
+          230,
+          972
+        ],
+        [
+          820,
+          972
+        ],
+        [
+          820,
+          1022
+        ],
+        [
+          230,
+          1022
+        ]
+      ],
+      "score": 0.6453691720962524,
+      "y_pos": 972,
+      "text": "353. Ghẻ lở: Ngược môn.",
+      "confidence": 0.9962156724929809
+    },
+    {
+      "type": "text",
+      "img_path": "p0588_007_text.png",
+      "bbox": [
+        [
+          230,
+          1063
+        ],
+        [
+          1242,
+          1063
+        ],
+        [
+          1242,
+          1116
+        ],
+        [
+          230,
+          1116
+        ]
+      ],
+      "score": 0.6699627637863159,
+      "y_pos": 1063,
+      "text": "354. Ghẻ ruồi: Thiếu dương duy, Chỉ dương.",
+      "confidence": 0.9951127659190785
+    },
+    {
+      "type": "text",
+      "img_path": "p0588_008_text.png",
+      "bbox": [
+        [
+          229,
+          1156
+        ],
+        [
+          870,
+          1156
+        ],
+        [
+          870,
+          1206
+        ],
+        [
+          229,
+          1206
+        ]
+      ],
+      "score": 0.6562377214431763,
+      "y_pos": 1156,
+      "text": "355. Phù thũng: Tê tứ biên.",
+      "confidence": 0.9549898422997574
+    },
+    {
+      "type": "number",
+      "img_path": "p0588_003_number.png",
+      "bbox": [
+        [
+          2316,
+          3337
+        ],
+        [
+          2367,
+          3337
+        ],
+        [
+          2367,
+          3374
+        ],
+        [
+          2316,
+          3374
+        ]
+      ],
+      "score": 0.8641408681869507,
+      "y_pos": 3337,
+      "text": "    \n    \n\n\n\n\n\n    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0588_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9124338030815125,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0588.png"
+}

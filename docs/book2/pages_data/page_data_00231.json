@@ -1,0 +1,864 @@
+{
+  "page_num": 231,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0231_001_header.png",
+      "bbox": [
+        [
+          1606,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1606,
+          202
+        ]
+      ],
+      "score": 0.9338069558143616,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7490854408769381
+    },
+    {
+      "type": "header",
+      "img_path": "p0231_003_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9170824289321899,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_032_text.png",
+      "bbox": [
+        [
+          227,
+          368
+        ],
+        [
+          1871,
+          368
+        ],
+        [
+          1871,
+          423
+        ],
+        [
+          227,
+          423
+        ]
+      ],
+      "score": 0.8048945665359497,
+      "y_pos": 368,
+      "text": "<b>101. Thận tích</b> (Mệnh môn giáp tích, một trong hệ thống huyệt <i>Giáp tích</i>).",
+      "confidence": 0.9910289553495554
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_031_text.png",
+      "bbox": [
+        [
+          287,
+          460
+        ],
+        [
+          1843,
+          460
+        ],
+        [
+          1843,
+          517
+        ],
+        [
+          287,
+          517
+        ]
+      ],
+      "score": 0.847309947013855,
+      "y_pos": 460,
+      "text": "Vị trí: Dưới mỏn gai đốt thắt lưng thứ 2 sang ngang 0,5 thốn. (H.114)",
+      "confidence": 0.9946665872990246
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_023_text.png",
+      "bbox": [
+        [
+          288,
+          551
+        ],
+        [
+          1351,
+          551
+        ],
+        [
+          1351,
+          604
+        ],
+        [
+          288,
+          604
+        ]
+      ],
+      "score": 0.8702754974365234,
+      "y_pos": 551,
+      "text": "Cách châm: Châm đứng kim, sâu 1,5 - 2 thốn.",
+      "confidence": 0.9876992265383403
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_019_text.png",
+      "bbox": [
+        [
+          286,
+          642
+        ],
+        [
+          1782,
+          642
+        ],
+        [
+          1782,
+          699
+        ],
+        [
+          286,
+          699
+        ]
+      ],
+      "score": 0.8794175982475281,
+      "y_pos": 642,
+      "text": "Chủ trị: Viêm đốt sống, viêm dây chằng đốt sống, chi dưới bại liệt.",
+      "confidence": 0.8863992803338645
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0231_029_paragraph_title.png",
+      "bbox": [
+        [
+          230,
+          735
+        ],
+        [
+          561,
+          735
+        ],
+        [
+          561,
+          788
+        ],
+        [
+          230,
+          788
+        ]
+      ],
+      "score": 0.8522260189056396,
+      "y_pos": 735,
+      "text": "102. Thân tân",
+      "confidence": 0.9067440231641134
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_012_text.png",
+      "bbox": [
+        [
+          290,
+          826
+        ],
+        [
+          1597,
+          826
+        ],
+        [
+          1597,
+          881
+        ],
+        [
+          290,
+          881
+        ]
+      ],
+      "score": 0.89111328125,
+      "y_pos": 826,
+      "text": "Vị trí: Phía ngoài huyệt <i>Thận du</i> từ 0,3 – 0,5 thốn. (H.114)",
+      "confidence": 0.73859303669324
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_021_text.png",
+      "bbox": [
+        [
+          287,
+          916
+        ],
+        [
+          1762,
+          916
+        ],
+        [
+          1762,
+          972
+        ],
+        [
+          287,
+          972
+        ]
+      ],
+      "score": 0.8734847903251648,
+      "y_pos": 916,
+      "text": "Cách châm: Hướng về thân đốt sống 45<sup>0</sup>, châm sâu 1,5 – 2 thốn.",
+      "confidence": 0.9725893676280976
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_015_text.png",
+      "bbox": [
+        [
+          288,
+          1010
+        ],
+        [
+          1035,
+          1010
+        ],
+        [
+          1035,
+          1066
+        ],
+        [
+          288,
+          1066
+        ]
+      ],
+      "score": 0.8825843930244446,
+      "y_pos": 1010,
+      "text": "Chủ trị: Bệnh tim do phong thấp.",
+      "confidence": 0.6613468685570885
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0231_028_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1102
+        ],
+        [
+          609,
+          1102
+        ],
+        [
+          609,
+          1149
+        ],
+        [
+          229,
+          1149
+        ]
+      ],
+      "score": 0.853979766368866,
+      "y_pos": 1102,
+      "text": "103. Chiến than",
+      "confidence": 0.9054671070154976
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_030_text.png",
+      "bbox": [
+        [
+          289,
+          1191
+        ],
+        [
+          2044,
+          1191
+        ],
+        [
+          2044,
+          1251
+        ],
+        [
+          289,
+          1251
+        ]
+      ],
+      "score": 0.8487418293952942,
+      "y_pos": 1191,
+      "text": "Vị trí: Dưới mỏm gai đốt thắt lưng thứ 2 sang ngang mỗi bên 2,5 thốn. (H.114)",
+      "confidence": 0.9973929622505284
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_014_text.png",
+      "bbox": [
+        [
+          287,
+          1285
+        ],
+        [
+          1276,
+          1285
+        ],
+        [
+          1276,
+          1337
+        ],
+        [
+          287,
+          1337
+        ]
+      ],
+      "score": 0.8879192471504211,
+      "y_pos": 1285,
+      "text": "<b>Cách châm:</b> Châm chếch xuống 3 – 4 thốn.",
+      "confidence": 0.9732989183692045
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_026_text.png",
+      "bbox": [
+        [
+          288,
+          1378
+        ],
+        [
+          654,
+          1378
+        ],
+        [
+          654,
+          1429
+        ],
+        [
+          288,
+          1429
+        ]
+      ],
+      "score": 0.8665671348571777,
+      "y_pos": 1378,
+      "text": "Chủ tri: Bai liệt.",
+      "confidence": 0.4490710228681564
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0231_022_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1470
+        ],
+        [
+          560,
+          1470
+        ],
+        [
+          560,
+          1520
+        ],
+        [
+          229,
+          1520
+        ]
+      ],
+      "score": 0.8703502416610718,
+      "y_pos": 1470,
+      "text": "104. Đĩnh yên",
+      "confidence": 0.9856842756271362
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_000_text.png",
+      "bbox": [
+        [
+          283,
+          1560
+        ],
+        [
+          2360,
+          1560
+        ],
+        [
+          2360,
+          1683
+        ],
+        [
+          283,
+          1683
+        ]
+      ],
+      "score": 0.9396146535873413,
+      "y_pos": 1560,
+      "text": "Vị trí: Dưới mỏm gai đốt thắt lưng thứ 3 ngang ra mỗi bên 3 thốn. (tương đương với huyệt\nYêu nhỡn). (H.114)",
+      "confidence": 0.9770295259025361
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_017_text.png",
+      "bbox": [
+        [
+          286,
+          1722
+        ],
+        [
+          1477,
+          1722
+        ],
+        [
+          1477,
+          1775
+        ],
+        [
+          286,
+          1775
+        ]
+      ],
+      "score": 0.880836546421051,
+      "y_pos": 1722,
+      "text": "<b>Cách châm:</b> Châm hướng về đốt sống từ 2 – 3 thốn.",
+      "confidence": 0.9783480150195268
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_020_text.png",
+      "bbox": [
+        [
+          287,
+          1816
+        ],
+        [
+          1109,
+          1816
+        ],
+        [
+          1109,
+          1867
+        ],
+        [
+          287,
+          1867
+        ]
+      ],
+      "score": 0.877234935760498,
+      "y_pos": 1816,
+      "text": "Chủ trị: Đau lưng mạn tính, đùi đau.",
+      "confidence": 0.6809831638085214
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0231_016_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1907
+        ],
+        [
+          639,
+          1907
+        ],
+        [
+          639,
+          1959
+        ],
+        [
+          229,
+          1959
+        ]
+      ],
+      "score": 0.8815668225288391,
+      "y_pos": 1907,
+      "text": "105. Khê thượng",
+      "confidence": 0.929555289885577
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_027_text.png",
+      "bbox": [
+        [
+          287,
+          1995
+        ],
+        [
+          2197,
+          1995
+        ],
+        [
+          2197,
+          2054
+        ],
+        [
+          287,
+          2054
+        ]
+      ],
+      "score": 0.860558032989502,
+      "y_pos": 1995,
+      "text": "Vị trí: Khe lõm dưới mỏm gai đốt sống thắt lưng 4 ngang ra từ 0,3 – 0,5 thốn. (H.114)",
+      "confidence": 0.9889965653419495
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_018_text.png",
+      "bbox": [
+        [
+          287,
+          2089
+        ],
+        [
+          1350,
+          2089
+        ],
+        [
+          1350,
+          2141
+        ],
+        [
+          287,
+          2141
+        ]
+      ],
+      "score": 0.8797022700309753,
+      "y_pos": 2089,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 1,5 – 2 thôn.",
+      "confidence": 0.9739452923866029
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_010_text.png",
+      "bbox": [
+        [
+          287,
+          2182
+        ],
+        [
+          1110,
+          2182
+        ],
+        [
+          1110,
+          2235
+        ],
+        [
+          287,
+          2235
+        ]
+      ],
+      "score": 0.896327793598175,
+      "y_pos": 2182,
+      "text": "Chủ trị: Đau lưng mạn tính, đau đùi.",
+      "confidence": 0.6768813995938552
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0231_025_paragraph_title.png",
+      "bbox": [
+        [
+          230,
+          2272
+        ],
+        [
+          544,
+          2272
+        ],
+        [
+          544,
+          2320
+        ],
+        [
+          230,
+          2320
+        ]
+      ],
+      "score": 0.8689461350440979,
+      "y_pos": 2272,
+      "text": "106. Chế cao",
+      "confidence": 0.9586306086608342
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_009_text.png",
+      "bbox": [
+        [
+          288,
+          2362
+        ],
+        [
+          1724,
+          2362
+        ],
+        [
+          1724,
+          2421
+        ],
+        [
+          288,
+          2421
+        ]
+      ],
+      "score": 0.8964797258377075,
+      "y_pos": 2362,
+      "text": "Vị trí: Ở giữa đỉnh cao phía trên 2 đốt sống của chỗ tổn thương.",
+      "confidence": 0.994632461757371
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_007_text.png",
+      "bbox": [
+        [
+          287,
+          2457
+        ],
+        [
+          1200,
+          2457
+        ],
+        [
+          1200,
+          2507
+        ],
+        [
+          287,
+          2507
+        ]
+      ],
+      "score": 0.9052637219429016,
+      "y_pos": 2457,
+      "text": "<b>Cách châm:</b> Châm đứng kim 1 – 2 thôn.",
+      "confidence": 0.9657276391983032
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_005_text.png",
+      "bbox": [
+        [
+          287,
+          2549
+        ],
+        [
+          1286,
+          2549
+        ],
+        [
+          1286,
+          2601
+        ],
+        [
+          287,
+          2601
+        ]
+      ],
+      "score": 0.9104399681091309,
+      "y_pos": 2549,
+      "text": "Chủ trị: Bại liệt do dây thần kinh bị chèn ép.",
+      "confidence": 0.6337654056648413
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0231_024_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          2639
+        ],
+        [
+          895,
+          2639
+        ],
+        [
+          895,
+          2691
+        ],
+        [
+          229,
+          2691
+        ]
+      ],
+      "score": 0.8690069913864136,
+      "y_pos": 2639,
+      "text": "107. Cao vị du (Chế cao du)",
+      "confidence": 0.9719841870768317
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_006_text.png",
+      "bbox": [
+        [
+          289,
+          2732
+        ],
+        [
+          1258,
+          2732
+        ],
+        [
+          1258,
+          2785
+        ],
+        [
+          289,
+          2785
+        ]
+      ],
+      "score": 0.9069675207138062,
+      "y_pos": 2732,
+      "text": "Vị trí: Huyệt Chế cao sang ngang 1,5 thốn.",
+      "confidence": 0.6467924768274481
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_004_text.png",
+      "bbox": [
+        [
+          287,
+          2821
+        ],
+        [
+          1605,
+          2821
+        ],
+        [
+          1605,
+          2875
+        ],
+        [
+          287,
+          2875
+        ]
+      ],
+      "score": 0.9149145483970642,
+      "y_pos": 2821,
+      "text": "Cách châm: Châm chếch về hướng đốt sống 1 – 1,5 thốn.",
+      "confidence": 0.9811377319422635
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_008_text.png",
+      "bbox": [
+        [
+          286,
+          2913
+        ],
+        [
+          1500,
+          2913
+        ],
+        [
+          1500,
+          2968
+        ],
+        [
+          286,
+          2968
+        ]
+      ],
+      "score": 0.8979713916778564,
+      "y_pos": 2913,
+      "text": "Chủ trị: Châm chếch về hướng đốt sống 1 – 1,5 thốn.",
+      "confidence": 0.9610124039200117
+    },
+    {
+      "type": "text",
+      "img_path": "p0231_011_text.png",
+      "bbox": [
+        [
+          288,
+          3007
+        ],
+        [
+          1285,
+          3007
+        ],
+        [
+          1285,
+          3062
+        ],
+        [
+          288,
+          3062
+        ]
+      ],
+      "score": 0.8933607935905457,
+      "y_pos": 3007,
+      "text": "Chủ trị: Bại liệt do dây thần kinh bị chèn ép.",
+      "confidence": 0.975214034318924
+    },
+    {
+      "type": "footer",
+      "img_path": "p0231_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9194847345352173,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0231_013_number.png",
+      "bbox": [
+        [
+          2278,
+          3338
+        ],
+        [
+          2351,
+          3338
+        ],
+        [
+          2351,
+          3378
+        ],
+        [
+          2278,
+          3378
+        ]
+      ],
+      "score": 0.8894562721252441,
+      "y_pos": 3338,
+      "text": "        \n    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0231.png"
+}

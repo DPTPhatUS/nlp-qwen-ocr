@@ -1,0 +1,812 @@
+{
+  "page_num": 204,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0204_004_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9385305643081665,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7643314777385621
+    },
+    {
+      "type": "header",
+      "img_path": "p0204_018_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9194796681404114,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0204_015_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          370
+        ],
+        [
+          588,
+          370
+        ],
+        [
+          588,
+          420
+        ],
+        [
+          228,
+          420
+        ]
+      ],
+      "score": 0.923266589641571,
+      "y_pos": 370,
+      "text": "16. Trung đình",
+      "confidence": 0.8947358280420303
+    },
+    {
+      "type": "text",
+      "img_path": "p0204_029_text.png",
+      "bbox": [
+        [
+          287,
+          460
+        ],
+        [
+          2218,
+          460
+        ],
+        [
+          2218,
+          517
+        ],
+        [
+          287,
+          517
+        ]
+      ],
+      "score": 0.8964790105819702,
+      "y_pos": 460,
+      "text": "Vị trí: Ở giữa ngực, ngang khe sườn 5-6, từ huyệt Chiên trung xuống 1,6 thốn. (H. 97)",
+      "confidence": 0.9924157977789297
+    },
+    {
+      "type": "text",
+      "img_path": "p0204_028_text.png",
+      "bbox": [
+        [
+          286,
+          552
+        ],
+        [
+          1542,
+          552
+        ],
+        [
+          1542,
+          602
+        ],
+        [
+          286,
+          602
+        ]
+      ],
+      "score": 0.9078732132911682,
+      "y_pos": 552,
+      "text": "Cách châm: Châm chếch kim, sâu 3-5 phân. cứu 5 mồi",
+      "confidence": 0.5826163727503556
+    },
+    {
+      "type": "text",
+      "img_path": "p0204_005_text.png",
+      "bbox": [
+        [
+          287,
+          644
+        ],
+        [
+          1292,
+          644
+        ],
+        [
+          1292,
+          696
+        ],
+        [
+          287,
+          696
+        ]
+      ],
+      "score": 0.9304538369178772,
+      "y_pos": 644,
+      "text": "Chủ trị: Ho, suyễn, trẻ em trở sữa, nôn mửa",
+      "confidence": 0.7402574433220758
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0204_011_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          736
+        ],
+        [
+          609,
+          736
+        ],
+        [
+          609,
+          787
+        ],
+        [
+          229,
+          787
+        ]
+      ],
+      "score": 0.9266049265861511,
+      "y_pos": 736,
+      "text": "17. Chiên trung",
+      "confidence": 0.9414160847663879
+    },
+    {
+      "type": "text",
+      "img_path": "p0204_016_text.png",
+      "bbox": [
+        [
+          289,
+          826
+        ],
+        [
+          1469,
+          826
+        ],
+        [
+          1469,
+          881
+        ],
+        [
+          289,
+          881
+        ]
+      ],
+      "score": 0.9216440916061401,
+      "y_pos": 826,
+      "text": "Vị trí: Giữa đường nối hai núm vú trên ngực. (H. 97)",
+      "confidence": 0.9904219210147858
+    },
+    {
+      "type": "text",
+      "img_path": "p0204_003_text.png",
+      "bbox": [
+        [
+          285,
+          919
+        ],
+        [
+          2358,
+          919
+        ],
+        [
+          2358,
+          1040
+        ],
+        [
+          285,
+          1040
+        ]
+      ],
+      "score": 0.9578841328620911,
+      "y_pos": 919,
+      "text": "Cách châm: Châm dưới da, mũi kim ngược lên trên, xuống dưới, hoặc sang ngang, sâu 0,5-\n1 thốn. Cứu 5 mồi, hơ 5-10 phút.",
+      "confidence": 0.9854529880305981
+    },
+    {
+      "type": "text",
+      "img_path": "p0204_022_text.png",
+      "bbox": [
+        [
+          285,
+          1081
+        ],
+        [
+          2051,
+          1081
+        ],
+        [
+          2051,
+          1136
+        ],
+        [
+          285,
+          1136
+        ]
+      ],
+      "score": 0.9174670577049255,
+      "y_pos": 1081,
+      "text": "Chủ trị: Sữa không xuống, có nhọt ở vú, ho, hắng, hen, suyễn, nấc, đau ngực.",
+      "confidence": 0.9804425132580292
+    },
+    {
+      "type": "text",
+      "img_path": "p0204_002_text.png",
+      "bbox": [
+        [
+          282,
+          1173
+        ],
+        [
+          2358,
+          1173
+        ],
+        [
+          2358,
+          1294
+        ],
+        [
+          282,
+          1294
+        ]
+      ],
+      "score": 0.9589150547981262,
+      "y_pos": 1173,
+      "text": "<b>Tác dụng phối hợp:</b> Với <i>Thiếu trạch</i>, <i>Nhũ căn</i>, trị ít sữa; Với <i>Nội quan</i>, <i>Tam âm giao</i>, trị đau\ntim; Với <i>Thiên đôt</i> tri ho.",
+      "confidence": 0.9924810440409145
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0204_013_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1337
+        ],
+        [
+          630,
+          1337
+        ],
+        [
+          630,
+          1388
+        ],
+        [
+          229,
+          1388
+        ]
+      ],
+      "score": 0.9250068664550781,
+      "y_pos": 1337,
+      "text": "18. Ngọc đường",
+      "confidence": 0.9646698907017708
+    },
+    {
+      "type": "text",
+      "img_path": "p0204_027_text.png",
+      "bbox": [
+        [
+          289,
+          1427
+        ],
+        [
+          1898,
+          1427
+        ],
+        [
+          1898,
+          1481
+        ],
+        [
+          289,
+          1481
+        ]
+      ],
+      "score": 0.9132150411605835,
+      "y_pos": 1427,
+      "text": "Vị trí: Trên huyệt <i>Chiên trung</i> 1,6 thốn, ngang với khe sườn 3-4. (H. 97)",
+      "confidence": 0.827577923473559
+    },
+    {
+      "type": "text",
+      "img_path": "p0204_026_text.png",
+      "bbox": [
+        [
+          286,
+          1518
+        ],
+        [
+          1610,
+          1518
+        ],
+        [
+          1610,
+          1569
+        ],
+        [
+          286,
+          1569
+        ]
+      ],
+      "score": 0.914929211139679,
+      "y_pos": 1518,
+      "text": "Cách châm: châm chếch kim, sâu 0,3-0,5 thốn, cứu 3 mồi.",
+      "confidence": 0.7332307236236438
+    },
+    {
+      "type": "text",
+      "img_path": "p0204_007_text.png",
+      "bbox": [
+        [
+          287,
+          1611
+        ],
+        [
+          1401,
+          1611
+        ],
+        [
+          1401,
+          1665
+        ],
+        [
+          287,
+          1665
+        ]
+      ],
+      "score": 0.9290338754653931,
+      "y_pos": 1611,
+      "text": "Chủ trị: Viêm phế quản, lao phổi, viêm hung mạc",
+      "confidence": 0.8271944912112489
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0204_023_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1703
+        ],
+        [
+          529,
+          1703
+        ],
+        [
+          529,
+          1754
+        ],
+        [
+          229,
+          1754
+        ]
+      ],
+      "score": 0.9173431992530823,
+      "y_pos": 1703,
+      "text": "19.    . Tử cung",
+      "confidence": 0.8754117908802899
+    },
+    {
+      "type": "text",
+      "img_path": "p0204_021_text.png",
+      "bbox": [
+        [
+          289,
+          1795
+        ],
+        [
+          1792,
+          1795
+        ],
+        [
+          1792,
+          1847
+        ],
+        [
+          289,
+          1847
+        ]
+      ],
+      "score": 0.9180548787117004,
+      "y_pos": 1795,
+      "text": "Vị trí: Trên huyệt Chiên trung 3,2 thốn, ngang khe sườn 2-3 (h. 97)",
+      "confidence": 0.5603058614592621
+    },
+    {
+      "type": "text",
+      "img_path": "p0204_014_text.png",
+      "bbox": [
+        [
+          287,
+          1886
+        ],
+        [
+          1631,
+          1886
+        ],
+        [
+          1631,
+          1935
+        ],
+        [
+          287,
+          1935
+        ]
+      ],
+      "score": 0.9246551990509033,
+      "y_pos": 1886,
+      "text": "Cách châm: Châm chếch kim, sâu 0.3-0.5 thốn. Cứu 3 mồi.",
+      "confidence": 0.7098530896922999
+    },
+    {
+      "type": "text",
+      "img_path": "p0204_009_text.png",
+      "bbox": [
+        [
+          287,
+          1977
+        ],
+        [
+          1409,
+          1977
+        ],
+        [
+          1409,
+          2031
+        ],
+        [
+          287,
+          2031
+        ]
+      ],
+      "score": 0.9280038475990295,
+      "y_pos": 1977,
+      "text": "Chủ trị: Viêm phế quản, lao phổi, viêm hung mạc.",
+      "confidence": 0.7724791169166565
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0204_017_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          2069
+        ],
+        [
+          508,
+          2069
+        ],
+        [
+          508,
+          2116
+        ],
+        [
+          228,
+          2116
+        ]
+      ],
+      "score": 0.9203803539276123,
+      "y_pos": 2069,
+      "text": "20. Hoa cái",
+      "confidence": 0.9067449248754061
+    },
+    {
+      "type": "text",
+      "img_path": "p0204_001_text.png",
+      "bbox": [
+        [
+          282,
+          2160
+        ],
+        [
+          2359,
+          2160
+        ],
+        [
+          2359,
+          2284
+        ],
+        [
+          282,
+          2284
+        ]
+      ],
+      "score": 0.9632725715637207,
+      "y_pos": 2160,
+      "text": "Vị trí: Dưới huyệt toàn cơ 1,6 thốn, ngay chính giữa xương ức, chỗ tiếp gián đoạn cán và\nthân xương ức. (h. 97)",
+      "confidence": 0.9835841183861097
+    },
+    {
+      "type": "text",
+      "img_path": "p0204_019_text.png",
+      "bbox": [
+        [
+          285,
+          2322
+        ],
+        [
+          1631,
+          2322
+        ],
+        [
+          1631,
+          2373
+        ],
+        [
+          285,
+          2373
+        ]
+      ],
+      "score": 0.9188569188117981,
+      "y_pos": 2322,
+      "text": "Cách châm: Châm chếch kim, sâu 0,3-0,5 thốn. Cứu 3 mồi.",
+      "confidence": 0.7673122276339615
+    },
+    {
+      "type": "text",
+      "img_path": "p0204_008_text.png",
+      "bbox": [
+        [
+          288,
+          2416
+        ],
+        [
+          1259,
+          2416
+        ],
+        [
+          1259,
+          2468
+        ],
+        [
+          288,
+          2468
+        ]
+      ],
+      "score": 0.9281986951828003,
+      "y_pos": 2416,
+      "text": "Chủ trị: Viêm hầu họng, đau ngực, ho hen.",
+      "confidence": 0.7809711486794227
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0204_020_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2509
+        ],
+        [
+          522,
+          2509
+        ],
+        [
+          522,
+          2553
+        ],
+        [
+          227,
+          2553
+        ]
+      ],
+      "score": 0.9185654520988464,
+      "y_pos": 2509,
+      "text": "21.    Toàn cơ",
+      "confidence": 0.876607817908128
+    },
+    {
+      "type": "text",
+      "img_path": "p0204_012_text.png",
+      "bbox": [
+        [
+          290,
+          2597
+        ],
+        [
+          1281,
+          2597
+        ],
+        [
+          1281,
+          2651
+        ],
+        [
+          290,
+          2651
+        ]
+      ],
+      "score": 0.9254027009010315,
+      "y_pos": 2597,
+      "text": "Vị trí: Huyệt Thiên đột xuống 1 thốn. (H. 97)",
+      "confidence": 0.5472976273678719
+    },
+    {
+      "type": "text",
+      "img_path": "p0204_010_text.png",
+      "bbox": [
+        [
+          286,
+          2689
+        ],
+        [
+          1630,
+          2689
+        ],
+        [
+          1630,
+          2738
+        ],
+        [
+          286,
+          2738
+        ]
+      ],
+      "score": 0.9270361065864563,
+      "y_pos": 2689,
+      "text": "Cách châm: Châm chếch kim. sâu 0.3-0.5 thốn. Cứu 3 mồi.",
+      "confidence": 0.6025029044402274
+    },
+    {
+      "type": "text",
+      "img_path": "p0204_006_text.png",
+      "bbox": [
+        [
+          286,
+          2783
+        ],
+        [
+          1366,
+          2783
+        ],
+        [
+          1366,
+          2835
+        ],
+        [
+          286,
+          2835
+        ]
+      ],
+      "score": 0.9304056167602539,
+      "y_pos": 2783,
+      "text": "Chủ trị: Đau ngực, ho hen, hầu họng sưng đau.",
+      "confidence": 0.6091548090285444
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0204_024_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2874
+        ],
+        [
+          557,
+          2874
+        ],
+        [
+          557,
+          2921
+        ],
+        [
+          227,
+          2921
+        ]
+      ],
+      "score": 0.9165557622909546,
+      "y_pos": 2874,
+      "text": "22.    Thiên đôt",
+      "confidence": 0.8210340162569827
+    },
+    {
+      "type": "text",
+      "img_path": "p0204_000_text.png",
+      "bbox": [
+        [
+          282,
+          2965
+        ],
+        [
+          2356,
+          2965
+        ],
+        [
+          2356,
+          3092
+        ],
+        [
+          282,
+          3092
+        ]
+      ],
+      "score": 0.9649043083190918,
+      "y_pos": 2965,
+      "text": "Vị trí: Chỗ lõm trên xương ngực, sát bờ trên xương ức, ngang với bờ trên xương đòn ở ha\nbên (phía trong xương ức) (H. 98)",
+      "confidence": 0.98928772674135
+    },
+    {
+      "type": "footer",
+      "img_path": "p0204_025_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9152898788452148,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0204_030_number.png",
+      "bbox": [
+        [
+          2301,
+          3339
+        ],
+        [
+          2351,
+          3339
+        ],
+        [
+          2351,
+          3377
+        ],
+        [
+          2301,
+          3377
+        ]
+      ],
+      "score": 0.8755531311035156,
+      "y_pos": 3339,
+      "text": "\n    \n    \n\n\n\n    \n\n\n۰.\n    \n\n\n",
+      "confidence": 0.9765563979744911
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0204.png"
+}

@@ -1,0 +1,472 @@
+{
+  "page_num": 58,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0058_006_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9307125210762024,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7254179112967991
+    },
+    {
+      "type": "header",
+      "img_path": "p0058_012_header.png",
+      "bbox": [
+        [
+          231,
+          154
+        ],
+        [
+          427,
+          154
+        ],
+        [
+          427,
+          199
+        ],
+        [
+          231,
+          199
+        ]
+      ],
+      "score": 0.9001392126083374,
+      "y_pos": 154,
+      "text": "Δ    V",
+      "confidence": 0.648697592318058
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0058_007_paragraph_title.png",
+      "bbox": [
+        [
+          282,
+          301
+        ],
+        [
+          2047,
+          301
+        ],
+        [
+          2047,
+          356
+        ],
+        [
+          282,
+          356
+        ]
+      ],
+      "score": 0.9127418398857117,
+      "y_pos": 301,
+      "text": "2. Đặc điểm của mạch tượng và chủ bệnh (6 cặp, 12 loại mạch thường gặp)",
+      "confidence": 0.9947074243467148
+    },
+    {
+      "type": "text",
+      "img_path": "p0058_000_text.png",
+      "bbox": [
+        [
+          278,
+          389
+        ],
+        [
+          2358,
+          389
+        ],
+        [
+          2358,
+          840
+        ],
+        [
+          278,
+          840
+        ]
+      ],
+      "score": 0.9866747260093689,
+      "y_pos": 389,
+      "text": "Dưới đây chủ yếu giới thiệu mạch tượng thường thấy trên lâm sàng. Hiểu biết các đặc điểm\ncủa mạch tượng là dựa vào vị trí mạch cao thấp, tần số nhanh chậm, tiết luật mạnh yếu,\nhình thái to nhỏ của mạch tượng. Bình thường là một lần hô hấp(nhất tức) bình quân mạch\nnhảy 4 đến 5 lần (đại để tương đương 72 - 80 lần trong một phút), không nổi không chìm,\nkhông to không nhỏ, đều đều, hòa hoãn gọi là mạch hoãn. Nhưng nếu bị khí thấp, gây bệnh\ncũng thấy mạch hoãn. Cũng có thể nhận thấy mạch hoãn kiêm phù, kiêm trầm, kiêm đại,\nkiêm tiếu, đó là mach bênh.",
+      "confidence": 0.9974492564986123
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0058_008_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          879
+        ],
+        [
+          945,
+          879
+        ],
+        [
+          945,
+          930
+        ],
+        [
+          285,
+          930
+        ]
+      ],
+      "score": 0.9118127226829529,
+      "y_pos": 879,
+      "text": "a. Mạch phù và mạch trầm:",
+      "confidence": 0.9939627934385229
+    },
+    {
+      "type": "text",
+      "img_path": "p0058_011_text.png",
+      "bbox": [
+        [
+          283,
+          964
+        ],
+        [
+          2094,
+          964
+        ],
+        [
+          2094,
+          1019
+        ],
+        [
+          283,
+          1019
+        ]
+      ],
+      "score": 0.9011349678039551,
+      "y_pos": 964,
+      "text": "Đặc điểm của hai loại mạch tượng này là ngược nhau về mạch vị cao thấp (H.2).",
+      "confidence": 0.9995865520042709
+    },
+    {
+      "type": "text",
+      "img_path": "p0058_004_text.png",
+      "bbox": [
+        [
+          331,
+          1058
+        ],
+        [
+          2357,
+          1058
+        ],
+        [
+          2357,
+          1180
+        ],
+        [
+          331,
+          1180
+        ]
+      ],
+      "score": 0.9621620774269104,
+      "y_pos": 1058,
+      "text": "Mạch phù, mạch vị cao, mới tiếp xúc nhẹ tay đã có cảm giác rõ, dùng sức hơi nặng thì\ncảm giác mạch giảm đi.",
+      "confidence": 0.9934984431421572
+    },
+    {
+      "type": "text",
+      "img_path": "p0058_003_text.png",
+      "bbox": [
+        [
+          338,
+          1218
+        ],
+        [
+          2356,
+          1218
+        ],
+        [
+          2356,
+          1342
+        ],
+        [
+          338,
+          1342
+        ]
+      ],
+      "score": 0.9669671058654785,
+      "y_pos": 1218,
+      "text": "Mạch trầm, mạch vị thấp, nhè nhẹ tiếp xúc không thấy được hơi công sức cũng không\nthấy được rõ, cần ấn nặng tay mới thấy.",
+      "confidence": 0.9968065997274209
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0058_013_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          1382
+        ],
+        [
+          1189,
+          1382
+        ],
+        [
+          1189,
+          1432
+        ],
+        [
+          345,
+          1432
+        ]
+      ],
+      "score": 0.8889861106872559,
+      "y_pos": 1382,
+      "text": "Mach phù chủ bênh: Biểu chứng",
+      "confidence": 0.9482265499330336
+    },
+    {
+      "type": "text",
+      "img_path": "p0058_001_text.png",
+      "bbox": [
+        [
+          401,
+          1472
+        ],
+        [
+          2357,
+          1472
+        ],
+        [
+          2357,
+          1809
+        ],
+        [
+          401,
+          1809
+        ]
+      ],
+      "score": 0.981903612613678,
+      "y_pos": 1472,
+      "text": "Phù mà có lực: Biểu thực. Phù mà vô lực: Biểu hư. Như bệnh ngoại cảm sợ lạnh, phát\nsốt, không có mồ hôi, mạch phù, là biểu hàn thực chứng. Bệnh ngoại cảm phát sốt, ra\nmồ hôi, sợ gió, nhược là biểu hàn hư chứng. Những người hư nhược về thể chất, khi\ncó bệnh ngoại cảm thường mạch không phù. Bệnh truyền nhiễm cấp tính sơ kỳ, th-\nường thấy mạch phù.",
+      "confidence": 0.9857644381496449
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0058_016_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          1848
+        ],
+        [
+          1168,
+          1848
+        ],
+        [
+          1168,
+          1900
+        ],
+        [
+          345,
+          1900
+        ]
+      ],
+      "score": 0.7666329145431519,
+      "y_pos": 1848,
+      "text": "Mạch trầm chủ bệnh: Lý chứng.",
+      "confidence": 0.9316603349101159
+    },
+    {
+      "type": "text",
+      "img_path": "p0058_002_text.png",
+      "bbox": [
+        [
+          403,
+          1938
+        ],
+        [
+          2357,
+          1938
+        ],
+        [
+          2357,
+          2132
+        ],
+        [
+          403,
+          2132
+        ]
+      ],
+      "score": 0.9713220000267029,
+      "y_pos": 1938,
+      "text": "Trầm mà có lực: Lý thực. Trầm mà vô lực: Lý hư. Như ho hắng mà vô lực, đờm trong,\ntrăng, ngắn hơi, sắc mặt trắng, ăn ít, mệt mỏi, mạch trầm nhược là phế khí hư, thuộc lý\như chứng.",
+      "confidence": 0.9990043007963799
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0058_017_figure_title.png",
+      "bbox": [
+        [
+          873,
+          2176
+        ],
+        [
+          1774,
+          2176
+        ],
+        [
+          1774,
+          2226
+        ],
+        [
+          873,
+          2226
+        ]
+      ],
+      "score": 0.7495325803756714,
+      "y_pos": 2176,
+      "text": "Hình 2. Hình sóng mạch phù và mạch trầm",
+      "confidence": 0.9147434874278743
+    },
+    {
+      "type": "image",
+      "img_path": "p0058_010_image.png",
+      "bbox": [
+        [
+          439,
+          2267
+        ],
+        [
+          2149,
+          2267
+        ],
+        [
+          2149,
+          2747
+        ],
+        [
+          439,
+          2747
+        ]
+      ],
+      "score": 0.9026143550872803,
+      "y_pos": 2267
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0058_014_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          2876
+        ],
+        [
+          882,
+          2876
+        ],
+        [
+          882,
+          2927
+        ],
+        [
+          285,
+          2927
+        ]
+      ],
+      "score": 0.8765652179718018,
+      "y_pos": 2876,
+      "text": "b. Mạch trì và mạch sác:",
+      "confidence": 0.9321143260368934
+    },
+    {
+      "type": "text",
+      "img_path": "p0058_005_text.png",
+      "bbox": [
+        [
+          282,
+          2959
+        ],
+        [
+          2356,
+          2959
+        ],
+        [
+          2356,
+          3084
+        ],
+        [
+          282,
+          3084
+        ]
+      ],
+      "score": 0.9533987045288086,
+      "y_pos": 2959,
+      "text": "Đặc điểm của hai loại mạch tượng này là ngược nhau về tần số của mạch chuyển nhanh\nhay chậm (H.3)",
+      "confidence": 0.9885732886337099
+    },
+    {
+      "type": "footer",
+      "img_path": "p0058_009_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1431,
+          3333
+        ],
+        [
+          1431,
+          3386
+        ],
+        [
+          228,
+          3386
+        ]
+      ],
+      "score": 0.9095571041107178,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.939592386191746
+    },
+    {
+      "type": "number",
+      "img_path": "p0058_015_number.png",
+      "bbox": [
+        [
+          2308,
+          3337
+        ],
+        [
+          2355,
+          3337
+        ],
+        [
+          2355,
+          3373
+        ],
+        [
+          2308,
+          3373
+        ]
+      ],
+      "score": 0.8646469116210938,
+      "y_pos": 3337,
+      "text": "\n\n\n\n\n\n    \n\n\n\n\n۰.\n\n\n",
+      "confidence": 0.9734436292201281
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0058.png"
+}

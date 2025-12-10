@@ -1,0 +1,656 @@
+{
+  "page_num": 647,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0647_010_header.png",
+      "bbox": [
+        [
+          1674,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          196
+        ],
+        [
+          1674,
+          196
+        ]
+      ],
+      "score": 0.9348360300064087,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7277085834315845
+    },
+    {
+      "type": "header",
+      "img_path": "p0647_016_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.915489137172699,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9946049864475544
+    },
+    {
+      "type": "text",
+      "img_path": "p0647_013_text.png",
+      "bbox": [
+        [
+          295,
+          307
+        ],
+        [
+          2338,
+          307
+        ],
+        [
+          2338,
+          360
+        ],
+        [
+          295,
+          360
+        ]
+      ],
+      "score": 0.9290075302124023,
+      "y_pos": 307,
+      "text": "<b>Tâm huyết hư</b>: choáng váng, sắc mặt nhợt nhat, nhat miêng, lưỡi nhat, mạch tê nhược",
+      "confidence": 0.990667013581409
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0647_024_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          400
+        ],
+        [
+          984,
+          400
+        ],
+        [
+          984,
+          449
+        ],
+        [
+          284,
+          449
+        ]
+      ],
+      "score": 0.6459284424781799,
+      "y_pos": 400,
+      "text": "Mô hình chỉ số nhiệt kinh lạc",
+      "confidence": 0.9979607770519872
+    },
+    {
+      "type": "text",
+      "img_path": "p0647_005_text.png",
+      "bbox": [
+        [
+          296,
+          490
+        ],
+        [
+          1824,
+          490
+        ],
+        [
+          1824,
+          543
+        ],
+        [
+          296,
+          543
+        ]
+      ],
+      "score": 0.9388800859451294,
+      "y_pos": 490,
+      "text": "• <b>Tâm âm hư</b>: Tâm (+BL), Phế (+), Đảm (+), Can (+), Tâm bào (-).",
+      "confidence": 0.9734365619830231
+    },
+    {
+      "type": "text",
+      "img_path": "p0647_007_text.png",
+      "bbox": [
+        [
+          297,
+          581
+        ],
+        [
+          1822,
+          581
+        ],
+        [
+          1822,
+          635
+        ],
+        [
+          297,
+          635
+        ]
+      ],
+      "score": 0.9364063143730164,
+      "y_pos": 581,
+      "text": "<b>Tâm huyết hư</b>: Tâm (+BL), Phế (+), Can (-), Tỳ (-), Tâm bào (+).",
+      "confidence": 0.9845975850945088
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0647_023_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          676
+        ],
+        [
+          704,
+          676
+        ],
+        [
+          704,
+          726
+        ],
+        [
+          286,
+          726
+        ]
+      ],
+      "score": 0.7881203293800354,
+      "y_pos": 676,
+      "text": "b. Phương huyệt",
+      "confidence": 0.9908015167011934
+    },
+    {
+      "type": "text",
+      "img_path": "p0647_003_text.png",
+      "bbox": [
+        [
+          296,
+          764
+        ],
+        [
+          2359,
+          764
+        ],
+        [
+          2359,
+          882
+        ],
+        [
+          296,
+          882
+        ]
+      ],
+      "score": 0.9693165421485901,
+      "y_pos": 764,
+      "text": "• Tâm âm hư: Bổ Cách du, Đảm du, Nội quan. Tả Thần môn, Chí dương, Đảm du, Phế",
+      "confidence": 0.9952805876731873
+    },
+    {
+      "type": "text",
+      "img_path": "p0647_012_text.png",
+      "bbox": [
+        [
+          296,
+          926
+        ],
+        [
+          1832,
+          926
+        ],
+        [
+          1832,
+          979
+        ],
+        [
+          296,
+          979
+        ]
+      ],
+      "score": 0.9318084120750427,
+      "y_pos": 926,
+      "text": "<b>Tâm huyết hư</b>: Như trên và thêm: Can du, Tỳ du, Bần huyết linh.",
+      "confidence": 0.9866917259765394
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0647_019_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          1023
+        ],
+        [
+          1001,
+          1023
+        ],
+        [
+          1001,
+          1073
+        ],
+        [
+          285,
+          1073
+        ]
+      ],
+      "score": 0.9040741324424744,
+      "y_pos": 1023,
+      "text": "c. Giảng nghĩa phương huyệt",
+      "confidence": 0.9980577970373219
+    },
+    {
+      "type": "text",
+      "img_path": "p0647_000_text.png",
+      "bbox": [
+        [
+          277,
+          1111
+        ],
+        [
+          2359,
+          1111
+        ],
+        [
+          2359,
+          1586
+        ],
+        [
+          277,
+          1586
+        ]
+      ],
+      "score": 0.9869959354400635,
+      "y_pos": 1111,
+      "text": "Bố Cách du, Đảm du là “Tứ hoa liệu pháp”, là bài kinh nghiệm chữa lao do âm hư đã có\nngàn năm lịch sử. <i>Nội quan</i> là chủ huyệt trị chứng âm huyết hao tổn. Tả <i>Thần môn</i> là tả cái\như nhiệt của Tâm để an thần định chí. Tả <i>Chí dương, Đảm du, Phế du</i>, là tả hoả ở Phế, Đảm\nlàm cho cái lò bễ nung nấu con tim phải hạ nhiệt, làm cho âm dịch không bị hao tổn mà giữ\nđược chân âm. Bổ <i>Can du, Tỳ du, Bần huyết linh</i> để cho công năng sinh huyết, tàng huyết\ncủa Can, Tỳ mạnh mẽ. Âm dịch đầy đủ, công năng sinh huyết, tàng huyết hoạt động mạnh\nmẽ, tức là Tâm âm sẽ được dồi dào.",
+      "confidence": 0.9950381578745764
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0647_014_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1628
+        ],
+        [
+          671,
+          1628
+        ],
+        [
+          671,
+          1677
+        ],
+        [
+          226,
+          1677
+        ]
+      ],
+      "score": 0.9280530214309692,
+      "y_pos": 1628,
+      "text": "3. Tâm huyết ứ trê",
+      "confidence": 0.9662438720464707
+    },
+    {
+      "type": "text",
+      "img_path": "p0647_004_text.png",
+      "bbox": [
+        [
+          222,
+          1719
+        ],
+        [
+          2357,
+          1719
+        ],
+        [
+          2357,
+          1842
+        ],
+        [
+          222,
+          1842
+        ]
+      ],
+      "score": 0.9668769240379333,
+      "y_pos": 1719,
+      "text": "Mô hình chỉ số nhiệt kinh lạc cơ bản: Tâm (+BL), nghĩa là kinh tâm có trạng thái nhiệt bệnh\nlý. Số tương quan của kinh Tâm có giá trị tuyệt đối lớn hơn sai số giới hạn và mang dấu +.",
+      "confidence": 0.9993684965979557
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0647_017_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          1887
+        ],
+        [
+          645,
+          1887
+        ],
+        [
+          645,
+          1933
+        ],
+        [
+          286,
+          1933
+        ]
+      ],
+      "score": 0.9142600297927856,
+      "y_pos": 1887,
+      "text": "a. Triệu chứng",
+      "confidence": 0.9807732440531254
+    },
+    {
+      "type": "text",
+      "img_path": "p0647_002_text.png",
+      "bbox": [
+        [
+          279,
+          1975
+        ],
+        [
+          2358,
+          1975
+        ],
+        [
+          2358,
+          2167
+        ],
+        [
+          279,
+          2167
+        ]
+      ],
+      "score": 0.9781920313835144,
+      "y_pos": 1975,
+      "text": "Tim hồi hộp, đau tim (đau nhói hoặc râm ran vùng trước sau tim), lúc đau lúc không, khi\nbệnh nghiêm trọng thì đau đớn không yên, móng tay xanh tím, ra mồ hôi, tứ chi lạnh, lưỡi\nhồng xám, hoặc quanh lưỡi có nốt máu ứ, rêu lưỡi ít mà nhuận, mạch sáp (rít tắc).",
+      "confidence": 0.9997164822483221
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0647_020_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          2208
+        ],
+        [
+          982,
+          2208
+        ],
+        [
+          982,
+          2256
+        ],
+        [
+          283,
+          2256
+        ]
+      ],
+      "score": 0.896692156791687,
+      "y_pos": 2208,
+      "text": "Mô hình chỉ số nhiệt kinh lạc",
+      "confidence": 0.9967370648537913
+    },
+    {
+      "type": "text",
+      "img_path": "p0647_009_text.png",
+      "bbox": [
+        [
+          283,
+          2299
+        ],
+        [
+          1741,
+          2299
+        ],
+        [
+          1741,
+          2354
+        ],
+        [
+          283,
+          2354
+        ]
+      ],
+      "score": 0.9354769587516785,
+      "y_pos": 2299,
+      "text": "Tâm (+BL), Can (+), Tỳ (+), Đảm (-), Tiếu trường (-), Tam tiêu (-).",
+      "confidence": 0.9950504579405853
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0647_021_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          2394
+        ],
+        [
+          703,
+          2394
+        ],
+        [
+          703,
+          2441
+        ],
+        [
+          286,
+          2441
+        ]
+      ],
+      "score": 0.8899986147880554,
+      "y_pos": 2394,
+      "text": "b. Phương huyết",
+      "confidence": 0.9887827424442067
+    },
+    {
+      "type": "text",
+      "img_path": "p0647_008_text.png",
+      "bbox": [
+        [
+          287,
+          2484
+        ],
+        [
+          929,
+          2484
+        ],
+        [
+          929,
+          2532
+        ],
+        [
+          287,
+          2532
+        ]
+      ],
+      "score": 0.9358146786689758,
+      "y_pos": 2484,
+      "text": "<i>Thiêu xung</i> (chích năn máu).",
+      "confidence": 0.9798712422770839
+    },
+    {
+      "type": "text",
+      "img_path": "p0647_006_text.png",
+      "bbox": [
+        [
+          282,
+          2575
+        ],
+        [
+          1398,
+          2575
+        ],
+        [
+          1398,
+          2624
+        ],
+        [
+          282,
+          2624
+        ]
+      ],
+      "score": 0.938358724117279,
+      "y_pos": 2575,
+      "text": "Bổ: Đảm du, Dương cương, Thần môn, Chi chính.",
+      "confidence": 0.9879018943360511
+    },
+    {
+      "type": "text",
+      "img_path": "p0647_011_text.png",
+      "bbox": [
+        [
+          285,
+          2666
+        ],
+        [
+          804,
+          2666
+        ],
+        [
+          804,
+          2716
+        ],
+        [
+          285,
+          2716
+        ]
+      ],
+      "score": 0.9319907426834106,
+      "y_pos": 2666,
+      "text": "Tả: Can du, Thái xung.",
+      "confidence": 0.9361788804332415
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0647_015_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          2760
+        ],
+        [
+          999,
+          2760
+        ],
+        [
+          999,
+          2810
+        ],
+        [
+          284,
+          2810
+        ]
+      ],
+      "score": 0.9212231040000916,
+      "y_pos": 2760,
+      "text": "c. Giảng nghĩa phương huyệt",
+      "confidence": 0.9981462379981731
+    },
+    {
+      "type": "text",
+      "img_path": "p0647_001_text.png",
+      "bbox": [
+        [
+          278,
+          2847
+        ],
+        [
+          2359,
+          2847
+        ],
+        [
+          2359,
+          3114
+        ],
+        [
+          278,
+          3114
+        ]
+      ],
+      "score": 0.983239471912384,
+      "y_pos": 2847,
+      "text": "Chích Thiếu xung nặn máu giải được cơn co thắt tim, co thắt mạch vành vì Thiếu xung là tinh\nhuyệt hành mộc, mộc là phong, phong gây co thắt ở tim. Bổ Đảm du, Dương cương để khủ\nhàn khí ở Đảm, vì Đảm hàn thì khí trệ, khí trệ tức huyết ứ, Đảm hết hàn khí thì hành huyết sẽ\nhành. <i>Tả Can du, Thái xung</i> để Can hoả, hoả không còn thì nguồn sinh phong không còn.",
+      "confidence": 0.9302951682363549
+    },
+    {
+      "type": "number",
+      "img_path": "p0647_022_number.png",
+      "bbox": [
+        [
+          2305,
+          3337
+        ],
+        [
+          2354,
+          3337
+        ],
+        [
+          2354,
+          3374
+        ],
+        [
+          2305,
+          3374
+        ]
+      ],
+      "score": 0.868340015411377,
+      "y_pos": 3337,
+      "text": "    \n    \n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0647_018_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1322,
+          3340
+        ],
+        [
+          1322,
+          3388
+        ],
+        [
+          228,
+          3388
+        ]
+      ],
+      "score": 0.9109627604484558,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9259995638199572
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0647.png"
+}

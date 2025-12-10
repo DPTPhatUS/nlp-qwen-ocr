@@ -1,0 +1,812 @@
+{
+  "page_num": 386,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0386_007_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1678,
+          196
+        ]
+      ],
+      "score": 0.9265086054801941,
+      "y_pos": 142,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7456070706248283
+    },
+    {
+      "type": "header",
+      "img_path": "p0386_009_header.png",
+      "bbox": [
+        [
+          229,
+          146
+        ],
+        [
+          1096,
+          146
+        ],
+        [
+          1096,
+          197
+        ],
+        [
+          229,
+          197
+        ]
+      ],
+      "score": 0.9015834927558899,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SÀNG",
+      "confidence": 0.9907518233571734
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0386_022_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          329
+        ],
+        [
+          481,
+          329
+        ],
+        [
+          481,
+          377
+        ],
+        [
+          226,
+          377
+        ]
+      ],
+      "score": 0.761588990688324,
+      "y_pos": 329,
+      "text": "Bài thuốc:",
+      "confidence": 0.8329506864150366
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_027_text.png",
+      "bbox": [
+        [
+          227,
+          420
+        ],
+        [
+          1862,
+          420
+        ],
+        [
+          1862,
+          480
+        ],
+        [
+          227,
+          480
+        ]
+      ],
+      "score": 0.6800693273544312,
+      "y_pos": 420,
+      "text": "Can khương    1,5 đồng cân,    Chế hương phụ    3 đồng cân,",
+      "confidence": 0.9703450773579951
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_025_text.png",
+      "bbox": [
+        [
+          229,
+          512
+        ],
+        [
+          1862,
+          512
+        ],
+        [
+          1862,
+          571
+        ],
+        [
+          229,
+          571
+        ]
+      ],
+      "score": 0.7450265288352966,
+      "y_pos": 512,
+      "text": "O dược    2 đông cân,    Nhục quê    1 đồng cân,",
+      "confidence": 0.8270385226664635
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_016_text.png",
+      "bbox": [
+        [
+          227,
+          606
+        ],
+        [
+          1900,
+          606
+        ],
+        [
+          1900,
+          662
+        ],
+        [
+          227,
+          662
+        ]
+      ],
+      "score": 0.8226946592330933,
+      "y_pos": 606,
+      "text": "Cao lương khương    1,5 đông cân,    Phu tử phiên    1,5 đồng cân.",
+      "confidence": 0.9649531925244936
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0386_030_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          698
+        ],
+        [
+          468,
+          698
+        ],
+        [
+          468,
+          750
+        ],
+        [
+          227,
+          750
+        ]
+      ],
+      "score": 0.5753388404846191,
+      "y_pos": 698,
+      "text": "Gia giảm:",
+      "confidence": 0.8736932494423606
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_006_text.png",
+      "bbox": [
+        [
+          225,
+          790
+        ],
+        [
+          1737,
+          790
+        ],
+        [
+          1737,
+          845
+        ],
+        [
+          225,
+          845
+        ]
+      ],
+      "score": 0.9302732944488525,
+      "y_pos": 790,
+      "text": "- Đại tiện táo bón, gia <i>Đại hoàng</i> 3 đồng cân, hậu hạ (cho vào sau).",
+      "confidence": 0.9198487845944686
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_005_text.png",
+      "bbox": [
+        [
+          226,
+          882
+        ],
+        [
+          1823,
+          882
+        ],
+        [
+          1823,
+          936
+        ],
+        [
+          226,
+          936
+        ]
+      ],
+      "score": 0.9324730634689331,
+      "y_pos": 882,
+      "text": "- Bụng dưới đau nhiều, gia <i>Ngô thù</i> 8 phân, <i>Tiểu hồ hương</i> 1 đồng cân.",
+      "confidence": 0.9904303953454301
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0386_029_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          972
+        ],
+        [
+          663,
+          972
+        ],
+        [
+          663,
+          1024
+        ],
+        [
+          227,
+          1024
+        ]
+      ],
+      "score": 0.6415132880210876,
+      "y_pos": 972,
+      "text": "b. Khí trê huyết ứ",
+      "confidence": 0.9467357367277145
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_002_text.png",
+      "bbox": [
+        [
+          222,
+          1063
+        ],
+        [
+          2359,
+          1063
+        ],
+        [
+          2359,
+          1189
+        ],
+        [
+          222,
+          1189
+        ]
+      ],
+      "score": 0.9676218628883362,
+      "y_pos": 1063,
+      "text": "- Khí trệ làm chính, bụng trên chướng bứt rứt, đai ê ẩm sau khi thở, ợ hơi nóng hoặc ngáp thì\ngiảm nhẹ, buồn rầu, suy nghĩ thì dễ lên cơn đau, rêu lưỡi mỏng, mạch huyền, tế.",
+      "confidence": 0.998776143959701
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_021_text.png",
+      "bbox": [
+        [
+          226,
+          1226
+        ],
+        [
+          895,
+          1226
+        ],
+        [
+          895,
+          1275
+        ],
+        [
+          226,
+          1275
+        ]
+      ],
+      "score": 0.7769120931625366,
+      "y_pos": 1226,
+      "text": "Cách chữa: Thư điều khí cơ.",
+      "confidence": 0.6312751523379622
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_026_text.png",
+      "bbox": [
+        [
+          225,
+          1315
+        ],
+        [
+          1099,
+          1315
+        ],
+        [
+          1099,
+          1370
+        ],
+        [
+          225,
+          1370
+        ]
+      ],
+      "score": 0.6974665522575378,
+      "y_pos": 1315,
+      "text": "Bài thuốc: Sài hồ sơ can ẩm gia giảm.",
+      "confidence": 0.998037630166763
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_023_text.png",
+      "bbox": [
+        [
+          228,
+          1408
+        ],
+        [
+          1698,
+          1408
+        ],
+        [
+          1698,
+          1464
+        ],
+        [
+          228,
+          1464
+        ]
+      ],
+      "score": 0.752118706703186,
+      "y_pos": 1408,
+      "text": "Sài hồ    1,5 đông cân,    Sao chỉ xác    2 đồng cân,",
+      "confidence": 0.9663354664563368
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_017_text.png",
+      "bbox": [
+        [
+          229,
+          1502
+        ],
+        [
+          1698,
+          1502
+        ],
+        [
+          1698,
+          1556
+        ],
+        [
+          229,
+          1556
+        ]
+      ],
+      "score": 0.8090158104896545,
+      "y_pos": 1502,
+      "text": "Bach thước    3 đồng cân,    Cam thảo    1 đồng cân,",
+      "confidence": 0.9423989334167578
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_020_text.png",
+      "bbox": [
+        [
+          232,
+          1592
+        ],
+        [
+          1738,
+          1592
+        ],
+        [
+          1738,
+          1648
+        ],
+        [
+          232,
+          1648
+        ]
+      ],
+      "score": 0.8005212545394897,
+      "y_pos": 1592,
+      "text": "Trần bì    1,5 đồng cân,    Thanh bì    1,5 đồng cân,",
+      "confidence": 0.9467025028334725
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_014_text.png",
+      "bbox": [
+        [
+          227,
+          1684
+        ],
+        [
+          926,
+          1684
+        ],
+        [
+          926,
+          1740
+        ],
+        [
+          227,
+          1740
+        ]
+      ],
+      "score": 0.849477231502533,
+      "y_pos": 1684,
+      "text": "Chế hương phụ    3 đồng cân.",
+      "confidence": 0.9833738964337568
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0386_028_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1778
+        ],
+        [
+          466,
+          1778
+        ],
+        [
+          466,
+          1829
+        ],
+        [
+          226,
+          1829
+        ]
+      ],
+      "score": 0.6696248650550842,
+      "y_pos": 1778,
+      "text": "Gia giảm:",
+      "confidence": 0.8454868251627142
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_001_text.png",
+      "bbox": [
+        [
+          222,
+          1867
+        ],
+        [
+          2361,
+          1867
+        ],
+        [
+          2361,
+          1994
+        ],
+        [
+          222,
+          1994
+        ]
+      ],
+      "score": 0.9682697653770447,
+      "y_pos": 1867,
+      "text": "Đau chạy dữ dội, có thể gia <i>Mộc hương</i> 1,5 đồng cân hoặc <i>Ô dược</i> 1,5 đồng cân, hoặc <i>Trầm</i>\n<i>hương phiến</i> 1 đồng cân.",
+      "confidence": 0.9953055187085185
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_003_text.png",
+      "bbox": [
+        [
+          221,
+          2030
+        ],
+        [
+          2361,
+          2030
+        ],
+        [
+          2361,
+          2154
+        ],
+        [
+          221,
+          2154
+        ]
+      ],
+      "score": 0.9658464193344116,
+      "y_pos": 2030,
+      "text": "- Huyết ứ làm chủ, đau đớn rất mạnh, dạng đau như đâm, nơi đau cố định, sợ sờ nắn, chất\nlưỡi tím bầm, mạch tế, sáp.",
+      "confidence": 0.9955477068956302
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_012_text.png",
+      "bbox": [
+        [
+          225,
+          2193
+        ],
+        [
+          988,
+          2193
+        ],
+        [
+          988,
+          2242
+        ],
+        [
+          225,
+          2242
+        ]
+      ],
+      "score": 0.8749363422393799,
+      "y_pos": 2193,
+      "text": "Cách chữa: Hoạt huyết hành khí.",
+      "confidence": 0.5810457702839014
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_013_text.png",
+      "bbox": [
+        [
+          225,
+          2284
+        ],
+        [
+          1511,
+          2284
+        ],
+        [
+          1511,
+          2338
+        ],
+        [
+          225,
+          2338
+        ]
+      ],
+      "score": 0.862585186958313,
+      "y_pos": 2284,
+      "text": "Bài thuốc: Kim linh tử tán hợp với Thất tiếu tán gia giảm.",
+      "confidence": 0.9967106153567632
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_024_text.png",
+      "bbox": [
+        [
+          227,
+          2375
+        ],
+        [
+          1782,
+          2375
+        ],
+        [
+          1782,
+          2431
+        ],
+        [
+          227,
+          2431
+        ]
+      ],
+      "score": 0.7485164999961853,
+      "y_pos": 2375,
+      "text": "Kim linh tử    3 đông cân,    Diện hồ sách    3 đồng cân,",
+      "confidence": 0.9677982566939606
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_019_text.png",
+      "bbox": [
+        [
+          228,
+          2468
+        ],
+        [
+          1782,
+          2468
+        ],
+        [
+          1782,
+          2526
+        ],
+        [
+          228,
+          2526
+        ]
+      ],
+      "score": 0.8006393313407898,
+      "y_pos": 2468,
+      "text": "Bồ hoàng    3 đồng cân,    Chế Hương phụ    3 đồng cân,",
+      "confidence": 0.9093215419695927
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_018_text.png",
+      "bbox": [
+        [
+          226,
+          2562
+        ],
+        [
+          1783,
+          2562
+        ],
+        [
+          1783,
+          2617
+        ],
+        [
+          226,
+          2617
+        ]
+      ],
+      "score": 0.8085527420043945,
+      "y_pos": 2562,
+      "text": "Đương quy    3 đông cân,    Xích thược    3 đồng cân,",
+      "confidence": 0.8783698866104745
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_015_text.png",
+      "bbox": [
+        [
+          226,
+          2650
+        ],
+        [
+          1241,
+          2650
+        ],
+        [
+          1241,
+          2706
+        ],
+        [
+          226,
+          2706
+        ]
+      ],
+      "score": 0.8239544630050659,
+      "y_pos": 2650,
+      "text": "Ngũ linh chi    3 đồng cân, gói lại sắc.",
+      "confidence": 0.9786331799331602
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_004_text.png",
+      "bbox": [
+        [
+          225,
+          2742
+        ],
+        [
+          2058,
+          2742
+        ],
+        [
+          2058,
+          2798
+        ],
+        [
+          225,
+          2798
+        ]
+      ],
+      "score": 0.9332343935966492,
+      "y_pos": 2742,
+      "text": "- Khí trệ và huyết ứ thường đi kèm, có thể lấy bài thuốc trên kết hợp vào sử dụng.",
+      "confidence": 0.9824263545728865
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_000_text.png",
+      "bbox": [
+        [
+          222,
+          2834
+        ],
+        [
+          2359,
+          2834
+        ],
+        [
+          2359,
+          3029
+        ],
+        [
+          222,
+          3029
+        ]
+      ],
+      "score": 0.9688621163368225,
+      "y_pos": 2834,
+      "text": "c. Hư hàn chứng: Bụng đau ê ẩm, lúc đau lúc không, ưa nhiệt, sợ lạnh, khi đau ưa sờ nắn, khi\nđói và làm mệt thì đau tăng, phân lỏng, kiêm tinh thần mệt mỏi, ngắn hơi, sợ lạnh, rêu lưỡi\ntrắng nhạt, mạch trầm tế.",
+      "confidence": 0.9967403239046765
+    },
+    {
+      "type": "text",
+      "img_path": "p0386_011_text.png",
+      "bbox": [
+        [
+          226,
+          3065
+        ],
+        [
+          892,
+          3065
+        ],
+        [
+          892,
+          3120
+        ],
+        [
+          226,
+          3120
+        ]
+      ],
+      "score": 0.8809607625007629,
+      "y_pos": 3065,
+      "text": "Cách chữa: Ôn trung bổ thư.",
+      "confidence": 0.9959749435556347
+    },
+    {
+      "type": "number",
+      "img_path": "p0386_010_number.png",
+      "bbox": [
+        [
+          2306,
+          3334
+        ],
+        [
+          2357,
+          3334
+        ],
+        [
+          2357,
+          3372
+        ],
+        [
+          2306,
+          3372
+        ]
+      ],
+      "score": 0.8834954500198364,
+      "y_pos": 3334,
+      "text": "    \n\n        \n\n\n\n\n\n\n    ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0386_008_footer.png",
+      "bbox": [
+        [
+          228,
+          3336
+        ],
+        [
+          1343,
+          3336
+        ],
+        [
+          1343,
+          3383
+        ],
+        [
+          228,
+          3383
+        ]
+      ],
+      "score": 0.9098829627037048,
+      "y_pos": 3336,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9415562085385593
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0386.png"
+}

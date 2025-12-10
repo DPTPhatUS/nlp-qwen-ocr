@@ -1,0 +1,708 @@
+{
+  "page_num": 18,
+  "content": [
+    {
+      "type": "paragraph_title",
+      "img_path": "p0018_005_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          447
+        ],
+        [
+          1582,
+          447
+        ],
+        [
+          1582,
+          505
+        ],
+        [
+          343,
+          505
+        ]
+      ],
+      "score": 0.9228032231330872,
+      "y_pos": 447,
+      "text": "2.3.2. Những bệnh chứng của Ngoại cảm Ôn bệnh",
+      "confidence": 0.9980796956001444
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_020_text.png",
+      "bbox": [
+        [
+          461,
+          545
+        ],
+        [
+          1471,
+          545
+        ],
+        [
+          1471,
+          595
+        ],
+        [
+          461,
+          595
+        ]
+      ],
+      "score": 0.8834009766578674,
+      "y_pos": 545,
+      "text": "Có 2 kiểu bàn luân về diễn biến của ôn bênh",
+      "confidence": 0.9979768686824375
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_003_text.png",
+      "bbox": [
+        [
+          405,
+          630
+        ],
+        [
+          2122,
+          630
+        ],
+        [
+          2122,
+          736
+        ],
+        [
+          405,
+          736
+        ]
+      ],
+      "score": 0.9539576768875122,
+      "y_pos": 630,
+      "text": "- Từ trên xuống (Ngô Cúc Thông): đây là cách biện giải diễn biến bệnh\ntheo Tam tiêu và có 3 giai đoan.",
+      "confidence": 0.8009220070723373
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_014_text.png",
+      "bbox": [
+        [
+          463,
+          771
+        ],
+        [
+          1297,
+          771
+        ],
+        [
+          1297,
+          819
+        ],
+        [
+          463,
+          819
+        ]
+      ],
+      "score": 0.9076482057571411,
+      "y_pos": 771,
+      "text": "+ Nhiệt tà ở Thương tiêu (Tâm Phê).",
+      "confidence": 0.9603088014834636
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_016_text.png",
+      "bbox": [
+        [
+          465,
+          853
+        ],
+        [
+          1186,
+          853
+        ],
+        [
+          1186,
+          903
+        ],
+        [
+          465,
+          903
+        ]
+      ],
+      "score": 0.9049630165100098,
+      "y_pos": 853,
+      "text": "+ Nhiệt tà ở Trung tiêu (Tỳ Vi).",
+      "confidence": 0.9670494864968693
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_012_text.png",
+      "bbox": [
+        [
+          464,
+          935
+        ],
+        [
+          1219,
+          935
+        ],
+        [
+          1219,
+          985
+        ],
+        [
+          464,
+          985
+        ]
+      ],
+      "score": 0.9106218814849854,
+      "y_pos": 935,
+      "text": "+ Nhiệt tà ở Ha tiêu (Can Thận).",
+      "confidence": 0.9780947355663075
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_002_text.png",
+      "bbox": [
+        [
+          406,
+          1016
+        ],
+        [
+          2121,
+          1016
+        ],
+        [
+          2121,
+          1127
+        ],
+        [
+          406,
+          1127
+        ]
+      ],
+      "score": 0.9566583633422852,
+      "y_pos": 1016,
+      "text": "- Từ nông vào sâu (Diệp Thiên Sỹ): theo cách biện giải này, diễn biến của\nôn bệnh bao gồm 4 giai đoạn.",
+      "confidence": 0.7767584087451299
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_017_text.png",
+      "bbox": [
+        [
+          462,
+          1158
+        ],
+        [
+          963,
+          1158
+        ],
+        [
+          963,
+          1208
+        ],
+        [
+          462,
+          1208
+        ]
+      ],
+      "score": 0.9046409726142883,
+      "y_pos": 1158,
+      "text": "+ Nhiệt tà ở Vệ phân.",
+      "confidence": 0.9724444954291634
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_010_text.png",
+      "bbox": [
+        [
+          463,
+          1241
+        ],
+        [
+          1004,
+          1241
+        ],
+        [
+          1004,
+          1289
+        ],
+        [
+          463,
+          1289
+        ]
+      ],
+      "score": 0.9127933979034424,
+      "y_pos": 1241,
+      "text": "+ Nhiệt tà ở Khí phân.",
+      "confidence": 0.9635231221715609
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_009_text.png",
+      "bbox": [
+        [
+          464,
+          1325
+        ],
+        [
+          1021,
+          1325
+        ],
+        [
+          1021,
+          1371
+        ],
+        [
+          464,
+          1371
+        ]
+      ],
+      "score": 0.9161888957023621,
+      "y_pos": 1325,
+      "text": "+ Nhiệt tà ở Dinh phân.",
+      "confidence": 0.9723175835609436
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_015_text.png",
+      "bbox": [
+        [
+          469,
+          1407
+        ],
+        [
+          1038,
+          1407
+        ],
+        [
+          1038,
+          1456
+        ],
+        [
+          469,
+          1456
+        ]
+      ],
+      "score": 0.9056481719017029,
+      "y_pos": 1407,
+      "text": "+ Nhiệt tà ở Huyết phận.",
+      "confidence": 0.9736231359151694
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0018_004_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1514
+        ],
+        [
+          631,
+          1514
+        ],
+        [
+          631,
+          1565
+        ],
+        [
+          344,
+          1565
+        ]
+      ],
+      "score": 0.9238925576210022,
+      "y_pos": 1514,
+      "text": "<b>2.4.</b> Dich lê",
+      "confidence": 0.9434659853577614
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_000_text.png",
+      "bbox": [
+        [
+          342,
+          1609
+        ],
+        [
+          2123,
+          1609
+        ],
+        [
+          2123,
+          1718
+        ],
+        [
+          342,
+          1718
+        ]
+      ],
+      "score": 0.961267352104187,
+      "y_pos": 1609,
+      "text": "Dịch lệ là những loại bệnh đặc biệt. Bệnh không chỉ do nguyên nhân lục\ndâm tác đông vào và có những đặc điểm",
+      "confidence": 0.9862377227753656
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_011_text.png",
+      "bbox": [
+        [
+          405,
+          1749
+        ],
+        [
+          1898,
+          1749
+        ],
+        [
+          1898,
+          1799
+        ],
+        [
+          405,
+          1799
+        ]
+      ],
+      "score": 0.9112006425857544,
+      "y_pos": 1749,
+      "text": "- Bênh cảnh rất năng, dễ tử vong, nguy cấp, diễn biến rất nhanh.",
+      "confidence": 0.9920058078838118
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_006_text.png",
+      "bbox": [
+        [
+          407,
+          1834
+        ],
+        [
+          917,
+          1834
+        ],
+        [
+          917,
+          1882
+        ],
+        [
+          407,
+          1882
+        ]
+      ],
+      "score": 0.9206594824790955,
+      "y_pos": 1834,
+      "text": "Lây lan thành dịch.",
+      "confidence": 0.9816094693683443
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_007_text.png",
+      "bbox": [
+        [
+          407,
+          1919
+        ],
+        [
+          1330,
+          1919
+        ],
+        [
+          1330,
+          1968
+        ],
+        [
+          407,
+          1968
+        ]
+      ],
+      "score": 0.9205015301704407,
+      "y_pos": 1919,
+      "text": "- Thường xảy ra sau thiên tai, địch hoa.",
+      "confidence": 0.47991388894262765
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_001_text.png",
+      "bbox": [
+        [
+          406,
+          1999
+        ],
+        [
+          2120,
+          1999
+        ],
+        [
+          2120,
+          2109
+        ],
+        [
+          406,
+          2109
+        ]
+      ],
+      "score": 0.9582405090332031,
+      "y_pos": 1999,
+      "text": "\n    Nguyên nhân bênh là do lê khí. Lê khí được hình thành do tà khí lục dâm\n\n(Thủ, Hỏa khí) phối hợp với tử khí từ xác chết (người và vật) bốc tỏa ra.",
+      "confidence": 0.9882549289985211
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0018_008_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          2341
+        ],
+        [
+          773,
+          2341
+        ],
+        [
+          773,
+          2400
+        ],
+        [
+          344,
+          2400
+        ]
+      ],
+      "score": 0.91719651222229,
+      "y_pos": 2341,
+      "text": "CÂU HÓI ÔN TẬP",
+      "confidence": 0.9580624289810658
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0018_025_paragraph_title.png",
+      "bbox": [
+        [
+          342,
+          2452
+        ],
+        [
+          1375,
+          2452
+        ],
+        [
+          1375,
+          2506
+        ],
+        [
+          342,
+          2506
+        ]
+      ],
+      "score": 0.8465589284896851,
+      "y_pos": 2452,
+      "text": "A. CAU HOI 5 CHON 1 - CHON CAU ĐUNG",
+      "confidence": 0.8851099674766129
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_021_text.png",
+      "bbox": [
+        [
+          463,
+          2555
+        ],
+        [
+          1784,
+          2555
+        ],
+        [
+          1784,
+          2606
+        ],
+        [
+          463,
+          2606
+        ]
+      ],
+      "score": 0.8825842142105103,
+      "y_pos": 2555,
+      "text": "1. Bệnh danh nào <i>KHÔNG</i> thuộc nhóm ngoại cảm lục dâm",
+      "confidence": 0.9738550489599055
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_023_text.png",
+      "bbox": [
+        [
+          510,
+          2640
+        ],
+        [
+          1154,
+          2640
+        ],
+        [
+          1154,
+          2690
+        ],
+        [
+          510,
+          2690
+        ]
+      ],
+      "score": 0.8792468309402466,
+      "y_pos": 2640,
+      "text": "A. Hàn tà phạm vào tôn lạc",
+      "confidence": 0.9863954165152141
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_018_text.png",
+      "bbox": [
+        [
+          511,
+          2722
+        ],
+        [
+          1016,
+          2722
+        ],
+        [
+          1016,
+          2772
+        ],
+        [
+          511,
+          2772
+        ]
+      ],
+      "score": 0.8962371945381165,
+      "y_pos": 2722,
+      "text": "B. Hàn trê Can mach",
+      "confidence": 0.9630177531923566
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_022_text.png",
+      "bbox": [
+        [
+          511,
+          2805
+        ],
+        [
+          1248,
+          2805
+        ],
+        [
+          1248,
+          2855
+        ],
+        [
+          511,
+          2855
+        ]
+      ],
+      "score": 0.8819620013237,
+      "y_pos": 2805,
+      "text": "C. Phong nhiệt phạm kinh Đởm",
+      "confidence": 0.972384383281072
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_024_text.png",
+      "bbox": [
+        [
+          512,
+          2886
+        ],
+        [
+          1124,
+          2886
+        ],
+        [
+          1124,
+          2938
+        ],
+        [
+          512,
+          2938
+        ]
+      ],
+      "score": 0.8713275194168091,
+      "y_pos": 2886,
+      "text": "D. Thái dương kinh chứng",
+      "confidence": 0.9610157746535081
+    },
+    {
+      "type": "text",
+      "img_path": "p0018_019_text.png",
+      "bbox": [
+        [
+          515,
+          2969
+        ],
+        [
+          1084,
+          2969
+        ],
+        [
+          1084,
+          3021
+        ],
+        [
+          515,
+          3021
+        ]
+      ],
+      "score": 0.884559690952301,
+      "y_pos": 2969,
+      "text": "E. Ngoại cảm phong hàn",
+      "confidence": 0.9674744332830111
+    },
+    {
+      "type": "number",
+      "img_path": "p0018_026_number.png",
+      "bbox": [
+        [
+          2071,
+          3112
+        ],
+        [
+          2121,
+          3112
+        ],
+        [
+          2121,
+          3147
+        ],
+        [
+          2071,
+          3147
+        ]
+      ],
+      "score": 0.8416762351989746,
+      "y_pos": 3112,
+      "text": "    \n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0018_013_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3366
+        ],
+        [
+          293,
+          3366
+        ]
+      ],
+      "score": 0.9085555672645569,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8738532049315316
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0018.png"
+}

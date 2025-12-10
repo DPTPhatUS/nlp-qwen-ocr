@@ -1,0 +1,630 @@
+{
+  "page_num": 12,
+  "content": [
+    {
+      "type": "paragraph_title",
+      "img_path": "p0012_008_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          450
+        ],
+        [
+          928,
+          450
+        ],
+        [
+          928,
+          503
+        ],
+        [
+          344,
+          503
+        ]
+      ],
+      "score": 0.9225270748138428,
+      "y_pos": 450,
+      "text": "2.1. Ngoại cảm lục dâm",
+      "confidence": 0.944475936392943
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0012_009_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          536
+        ],
+        [
+          754,
+          536
+        ],
+        [
+          754,
+          585
+        ],
+        [
+          345,
+          585
+        ]
+      ],
+      "score": 0.9162711501121521,
+      "y_pos": 536,
+      "text": "2.1.1. Dai cương",
+      "confidence": 0.9430120984713236
+    },
+    {
+      "type": "text",
+      "img_path": "p0012_003_text.png",
+      "bbox": [
+        [
+          344,
+          622
+        ],
+        [
+          2121,
+          622
+        ],
+        [
+          2121,
+          728
+        ],
+        [
+          344,
+          728
+        ]
+      ],
+      "score": 0.9548366069793701,
+      "y_pos": 622,
+      "text": "Trong các tài liệu Đông y, những bệnh lý ngoại cảm thuộc nhóm này\nthường có những đặc điểm:",
+      "confidence": 0.99711802891765
+    },
+    {
+      "type": "text",
+      "img_path": "p0012_001_text.png",
+      "bbox": [
+        [
+          406,
+          762
+        ],
+        [
+          2124,
+          762
+        ],
+        [
+          2124,
+          928
+        ],
+        [
+          406,
+          928
+        ]
+      ],
+      "score": 0.9684196710586548,
+      "y_pos": 762,
+      "text": "- Tên goi các bênh chứng luôn có các tên của lục dâm đi kèm như: phong\nhàn phạm kinh lạc, Bàng quang thấp nhiệt, Can Đởm thấp nhiệt, Thấp\nnhiệt tý, Hàn trệ Can mạch...",
+      "confidence": 0.8566233770883471
+    },
+    {
+      "type": "text",
+      "img_path": "p0012_013_text.png",
+      "bbox": [
+        [
+          405,
+          951
+        ],
+        [
+          1892,
+          951
+        ],
+        [
+          1892,
+          1003
+        ],
+        [
+          405,
+          1003
+        ]
+      ],
+      "score": 0.9007083773612976,
+      "y_pos": 951,
+      "text": "- Triệu chứng lâm sàng của nhóm bệnh lý này thường xuất hiện:",
+      "confidence": 0.9943721474163116
+    },
+    {
+      "type": "text",
+      "img_path": "p0012_017_text.png",
+      "bbox": [
+        [
+          461,
+          1031
+        ],
+        [
+          2049,
+          1031
+        ],
+        [
+          2049,
+          1087
+        ],
+        [
+          461,
+          1087
+        ]
+      ],
+      "score": 0.8936792612075806,
+      "y_pos": 1031,
+      "text": "+ Ở phần vệ: biểu hiện với sốt, sợ gió, sợ lạnh, đổ mồ hôi, mạch phù ...",
+      "confidence": 0.9956933976830663
+    },
+    {
+      "type": "text",
+      "img_path": "p0012_015_text.png",
+      "bbox": [
+        [
+          461,
+          1115
+        ],
+        [
+          1825,
+          1115
+        ],
+        [
+          1825,
+          1170
+        ],
+        [
+          461,
+          1170
+        ]
+      ],
+      "score": 0.8956916332244873,
+      "y_pos": 1115,
+      "text": "+ Ở phần nông - bên ngoài của cơ thể như tôn lạc, kinh lạc..",
+      "confidence": 0.9807045219406005
+    },
+    {
+      "type": "text",
+      "img_path": "p0012_011_text.png",
+      "bbox": [
+        [
+          462,
+          1192
+        ],
+        [
+          1702,
+          1192
+        ],
+        [
+          1702,
+          1243
+        ],
+        [
+          462,
+          1243
+        ]
+      ],
+      "score": 0.9010603427886963,
+      "y_pos": 1192,
+      "text": "+ Một số ít trường hợp bệnh biểu hiện ở hệ thống phủ.",
+      "confidence": 0.994500563361428
+    },
+    {
+      "type": "text",
+      "img_path": "p0012_002_text.png",
+      "bbox": [
+        [
+          462,
+          1266
+        ],
+        [
+          2121,
+          1266
+        ],
+        [
+          2121,
+          1434
+        ],
+        [
+          462,
+          1434
+        ]
+      ],
+      "score": 0.9674761891365051,
+      "y_pos": 1266,
+      "text": "+ Biểu hiện của ngoại cảm lục dâm ở hệ thống tạng ít thấy hơn. Nhóm\nbệnh chứng này được ghi nhận trong các tài liệu kinh điển như hàn\nthấp khốn tỳ.",
+      "confidence": 0.9977760798525935
+    },
+    {
+      "type": "text",
+      "img_path": "p0012_019_text.png",
+      "bbox": [
+        [
+          464,
+          1457
+        ],
+        [
+          1303,
+          1457
+        ],
+        [
+          1303,
+          1508
+        ],
+        [
+          464,
+          1508
+        ]
+      ],
+      "score": 0.8807676434516907,
+      "y_pos": 1457,
+      "text": "Bệnh ngoại cảm lục dâm có 3 mức độ",
+      "confidence": 0.9969317002428902
+    },
+    {
+      "type": "text",
+      "img_path": "p0012_018_text.png",
+      "bbox": [
+        [
+          409,
+          1535
+        ],
+        [
+          698,
+          1535
+        ],
+        [
+          698,
+          1583
+        ],
+        [
+          409,
+          1583
+        ]
+      ],
+      "score": 0.8902416229248047,
+      "y_pos": 1535,
+      "text": "Cam mao.",
+      "confidence": 0.9879124402999878
+    },
+    {
+      "type": "text",
+      "img_path": "p0012_014_text.png",
+      "bbox": [
+        [
+          409,
+          1610
+        ],
+        [
+          657,
+          1610
+        ],
+        [
+          657,
+          1657
+        ],
+        [
+          409,
+          1657
+        ]
+      ],
+      "score": 0.9000244140625,
+      "y_pos": 1610,
+      "text": "ทเสดท",
+      "confidence": 0.8660212755203247
+    },
+    {
+      "type": "text",
+      "img_path": "p0012_012_text.png",
+      "bbox": [
+        [
+          410,
+          1685
+        ],
+        [
+          626,
+          1685
+        ],
+        [
+          626,
+          1734
+        ],
+        [
+          410,
+          1734
+        ]
+      ],
+      "score": 0.9008718729019165,
+      "y_pos": 1685,
+      "text": "и    ı",
+      "confidence": 0.5074264630675316
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0012_007_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1791
+        ],
+        [
+          1271,
+          1791
+        ],
+        [
+          1271,
+          1840
+        ],
+        [
+          344,
+          1840
+        ]
+      ],
+      "score": 0.9226385951042175,
+      "y_pos": 1791,
+      "text": "2.1.2. Những bênh chứng thường gặp",
+      "confidence": 0.98359804517693
+    },
+    {
+      "type": "text",
+      "img_path": "p0012_005_text.png",
+      "bbox": [
+        [
+          344,
+          1889
+        ],
+        [
+          2124,
+          1889
+        ],
+        [
+          2124,
+          1993
+        ],
+        [
+          344,
+          1993
+        ]
+      ],
+      "score": 0.9521227478981018,
+      "y_pos": 1889,
+      "text": "Những bệnh chứng của bệnh ngoại cảm lục dâm thường được khảo sát\ntheo 3 cách.",
+      "confidence": 0.9961869042544138
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0012_016_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          2028
+        ],
+        [
+          1356,
+          2028
+        ],
+        [
+          1356,
+          2077
+        ],
+        [
+          344,
+          2077
+        ]
+      ],
+      "score": 0.8948554992675781,
+      "y_pos": 2028,
+      "text": "2.1.2.1. Theo vi trí nông -sâu của hệ kinh lạc",
+      "confidence": 0.977720440675815
+    },
+    {
+      "type": "text",
+      "img_path": "p0012_020_text.png",
+      "bbox": [
+        [
+          462,
+          2113
+        ],
+        [
+          1535,
+          2113
+        ],
+        [
+          1535,
+          2163
+        ],
+        [
+          462,
+          2163
+        ]
+      ],
+      "score": 0.872078001499176,
+      "y_pos": 2113,
+      "text": "Có thể liệt kê những bênh từ nông vào sâu như",
+      "confidence": 0.9985152013758396
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0012_023_paragraph_title.png",
+      "bbox": [
+        [
+          462,
+          2190
+        ],
+        [
+          1137,
+          2190
+        ],
+        [
+          1137,
+          2240
+        ],
+        [
+          462,
+          2240
+        ]
+      ],
+      "score": 0.5724584460258484,
+      "y_pos": 2190,
+      "text": "Ngoại tà phạm vào tôn lạc",
+      "confidence": 0.9906263837107906
+    },
+    {
+      "type": "text",
+      "img_path": "p0012_004_text.png",
+      "bbox": [
+        [
+          342,
+          2264
+        ],
+        [
+          2123,
+          2264
+        ],
+        [
+          2123,
+          2373
+        ],
+        [
+          342,
+          2373
+        ]
+      ],
+      "score": 0.9545042514801025,
+      "y_pos": 2264,
+      "text": "Triệu chứng chính: đau nhức tại chỗ. Đau có tính chất lan tỏa, khó xác\nđịnh. Bệnh thường dễ trị, tiên lượng tốt.",
+      "confidence": 0.9983303841367095
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0012_022_paragraph_title.png",
+      "bbox": [
+        [
+          464,
+          2398
+        ],
+        [
+          1150,
+          2398
+        ],
+        [
+          1150,
+          2445
+        ],
+        [
+          464,
+          2445
+        ]
+      ],
+      "score": 0.6903067231178284,
+      "y_pos": 2398,
+      "text": "Hàn tà pham vào kinh Cân",
+      "confidence": 0.9707510471343994
+    },
+    {
+      "type": "text",
+      "img_path": "p0012_006_text.png",
+      "bbox": [
+        [
+          341,
+          2473
+        ],
+        [
+          2124,
+          2473
+        ],
+        [
+          2124,
+          2578
+        ],
+        [
+          341,
+          2578
+        ]
+      ],
+      "score": 0.9506831169128418,
+      "y_pos": 2473,
+      "text": "Đây là những tình trạng mà ngoại tà tấn công cục bộ vào một đoạn lộ\ntrình của kinh Cân.",
+      "confidence": 0.9877114402704851
+    },
+    {
+      "type": "text",
+      "img_path": "p0012_000_text.png",
+      "bbox": [
+        [
+          340,
+          2612
+        ],
+        [
+          2124,
+          2612
+        ],
+        [
+          2124,
+          2965
+        ],
+        [
+          340,
+          2965
+        ]
+      ],
+      "score": 0.9825628995895386,
+      "y_pos": 2612,
+      "text": "Triệu chứng chính: đau, đau co rút, đau kèm cảm giác tê bì. Có thể kèm\ngiảm vận động tại chỗ (vì đau). Vị trí đau tùy thuộc vào hệ kinh Cân nào bị\ntổn thương (tham khảo bài 12 kinh Cân - Học thuyết kinh lạc - Sách Châm\ncứu học, cùng tác giả). Không có biểu hiện của các triệu chứng của tạng phủ\ntương ứng. Điều trị nhóm bệnh lý này bắt buộc phải dùng phép \"Phần châm\"\n\"Thiêu châm\". Tiên lương bênh tốt.",
+      "confidence": 0.9569245471659814
+    },
+    {
+      "type": "number",
+      "img_path": "p0012_021_number.png",
+      "bbox": [
+        [
+          2071,
+          3112
+        ],
+        [
+          2116,
+          3112
+        ],
+        [
+          2116,
+          3148
+        ],
+        [
+          2071,
+          3148
+        ]
+      ],
+      "score": 0.8226475119590759,
+      "y_pos": 3112,
+      "text": "    \n    \n    \n    \n    \n    ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0012_010_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1072,
+          3311
+        ],
+        [
+          1072,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.9085661768913269,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8816643987383161
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0012.png"
+}

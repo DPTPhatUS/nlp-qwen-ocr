@@ -1,0 +1,576 @@
+{
+  "page_num": 191,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0191_010_header.png",
+      "bbox": [
+        [
+          1606,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1606,
+          201
+        ]
+      ],
+      "score": 0.9328364133834839,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7424319858352344
+    },
+    {
+      "type": "header",
+      "img_path": "p0191_015_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          905,
+          156
+        ],
+        [
+          905,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.918714165687561,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9866287461642561
+    },
+    {
+      "type": "text",
+      "img_path": "p0191_009_text.png",
+      "bbox": [
+        [
+          286,
+          350
+        ],
+        [
+          1675,
+          350
+        ],
+        [
+          1675,
+          401
+        ],
+        [
+          286,
+          401
+        ]
+      ],
+      "score": 0.9337975978851318,
+      "y_pos": 350,
+      "text": "Chủ trị: Sôi bụng, ỉa chảy, đau bụng, trướng bụng, đau sườn.",
+      "confidence": 0.5332987058547235
+    },
+    {
+      "type": "text",
+      "img_path": "p0191_013_text.png",
+      "bbox": [
+        [
+          289,
+          441
+        ],
+        [
+          1371,
+          441
+        ],
+        [
+          1371,
+          495
+        ],
+        [
+          289,
+          495
+        ]
+      ],
+      "score": 0.9257490038871765,
+      "y_pos": 441,
+      "text": "Tác dụng phối hợp: Với Hành gian trị đau lưng",
+      "confidence": 0.9861953283878083
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0191_017_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          533
+        ],
+        [
+          568,
+          533
+        ],
+        [
+          568,
+          580
+        ],
+        [
+          226,
+          580
+        ]
+      ],
+      "score": 0.8992906212806702,
+      "y_pos": 533,
+      "text": "26. Đới mạch:",
+      "confidence": 0.9842291752497355
+    },
+    {
+      "type": "text",
+      "img_path": "p0191_002_text.png",
+      "bbox": [
+        [
+          283,
+          621
+        ],
+        [
+          2358,
+          621
+        ],
+        [
+          2358,
+          748
+        ],
+        [
+          283,
+          748
+        ]
+      ],
+      "score": 0.9698724150657654,
+      "y_pos": 621,
+      "text": "Vị trí: Lấy điểm giữa đường nối đầu sườn 11 với đầu sườn 12, từ đó thẳng xuống gặp\nđường từ rốn ngang ra là huyệt. (H. 89)",
+      "confidence": 0.9961438079848106
+    },
+    {
+      "type": "text",
+      "img_path": "p0191_012_text.png",
+      "bbox": [
+        [
+          285,
+          785
+        ],
+        [
+          1626,
+          785
+        ],
+        [
+          1626,
+          835
+        ],
+        [
+          285,
+          835
+        ]
+      ],
+      "score": 0.9291613698005676,
+      "y_pos": 785,
+      "text": "Cách châm: Châm đứng kim, sâu 1 đến 2 thốn. Cứu 5 mồi.",
+      "confidence": 0.991832224386079
+    },
+    {
+      "type": "text",
+      "img_path": "p0191_001_text.png",
+      "bbox": [
+        [
+          280,
+          877
+        ],
+        [
+          2358,
+          877
+        ],
+        [
+          2358,
+          1000
+        ],
+        [
+          280,
+          1000
+        ]
+      ],
+      "score": 0.9712156653404236,
+      "y_pos": 877,
+      "text": "Chủ trị: Viêm nội mạc tử cung, viêm bàng quang, lưng dưới lưng trên đau, kinh nguyệt\nkhông đều, khí hư.",
+      "confidence": 0.8731893733490346
+    },
+    {
+      "type": "image",
+      "img_path": "p0191_000_image.png",
+      "bbox": [
+        [
+          871,
+          1066
+        ],
+        [
+          1777,
+          1066
+        ],
+        [
+          1777,
+          2016
+        ],
+        [
+          871,
+          2016
+        ]
+      ],
+      "score": 0.9747866988182068,
+      "y_pos": 1066
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0191_019_figure_title.png",
+      "bbox": [
+        [
+          1237,
+          2094
+        ],
+        [
+          1409,
+          2094
+        ],
+        [
+          1409,
+          2136
+        ],
+        [
+          1237,
+          2136
+        ]
+      ],
+      "score": 0.8815551996231079,
+      "y_pos": 2094,
+      "text": "IInh",
+      "confidence": 0.6253110766410828
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0191_014_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2182
+        ],
+        [
+          539,
+          2182
+        ],
+        [
+          539,
+          2231
+        ],
+        [
+          225,
+          2231
+        ]
+      ],
+      "score": 0.9246783256530762,
+      "y_pos": 2182,
+      "text": "27. Ngũ khu:",
+      "confidence": 0.8689297437667847
+    },
+    {
+      "type": "text",
+      "img_path": "p0191_004_text.png",
+      "bbox": [
+        [
+          283,
+          2272
+        ],
+        [
+          2358,
+          2272
+        ],
+        [
+          2358,
+          2394
+        ],
+        [
+          283,
+          2394
+        ]
+      ],
+      "score": 0.9682515263557434,
+      "y_pos": 2272,
+      "text": "Vị trí: Từ huyệt Đới mạch xuống phía trước 3 thốn, huyệt Quan nguyên sang ngang, trước\nmào trước của xương châu (H. 89)",
+      "confidence": 0.995760981093116
+    },
+    {
+      "type": "text",
+      "img_path": "p0191_007_text.png",
+      "bbox": [
+        [
+          286,
+          2434
+        ],
+        [
+          1516,
+          2434
+        ],
+        [
+          1516,
+          2484
+        ],
+        [
+          286,
+          2484
+        ]
+      ],
+      "score": 0.9352115392684937,
+      "y_pos": 2434,
+      "text": "Cách châm: Châm đứng kim, sâu 1-2 thốn, cứu 3 mồi.",
+      "confidence": 0.9899899031107242
+    },
+    {
+      "type": "text",
+      "img_path": "p0191_006_text.png",
+      "bbox": [
+        [
+          285,
+          2527
+        ],
+        [
+          1924,
+          2527
+        ],
+        [
+          1924,
+          2579
+        ],
+        [
+          285,
+          2579
+        ]
+      ],
+      "score": 0.9352467656135559,
+      "y_pos": 2527,
+      "text": "Chủ trị: Đau bụng dưới, đau lưng, viêm nội mạc tử cung, viêm tinh hoàn.",
+      "confidence": 0.9595608347899294
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0191_018_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2619
+        ],
+        [
+          535,
+          2619
+        ],
+        [
+          535,
+          2669
+        ],
+        [
+          227,
+          2669
+        ]
+      ],
+      "score": 0.8958092927932739,
+      "y_pos": 2619,
+      "text": "28. Duy đao:",
+      "confidence": 0.8123643951756614
+    },
+    {
+      "type": "text",
+      "img_path": "p0191_008_text.png",
+      "bbox": [
+        [
+          290,
+          2709
+        ],
+        [
+          1370,
+          2709
+        ],
+        [
+          1370,
+          2762
+        ],
+        [
+          290,
+          2762
+        ]
+      ],
+      "score": 0.9340567588806152,
+      "y_pos": 2709,
+      "text": "Vị trí: Từ huyệt Ngũ khu xuống 0,5 thốn. (H. 89)",
+      "confidence": 0.6285150754451752
+    },
+    {
+      "type": "text",
+      "img_path": "p0191_005_text.png",
+      "bbox": [
+        [
+          286,
+          2800
+        ],
+        [
+          1625,
+          2800
+        ],
+        [
+          1625,
+          2850
+        ],
+        [
+          286,
+          2850
+        ]
+      ],
+      "score": 0.9422298073768616,
+      "y_pos": 2800,
+      "text": "Cách châm: Châm đứng kim, sâu 1 đến 2 thốn. Cứu 3 mồi.",
+      "confidence": 0.992359102836677
+    },
+    {
+      "type": "text",
+      "img_path": "p0191_011_text.png",
+      "bbox": [
+        [
+          286,
+          2893
+        ],
+        [
+          1635,
+          2893
+        ],
+        [
+          1635,
+          2946
+        ],
+        [
+          286,
+          2946
+        ]
+      ],
+      "score": 0.932679295539856,
+      "y_pos": 2893,
+      "text": "Chủ trị: Viêm nội mạc tử cung, đau bụng dưới, hay táo bón.",
+      "confidence": 0.603160309791565
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0191_020_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2985
+        ],
+        [
+          510,
+          2985
+        ],
+        [
+          510,
+          3031
+        ],
+        [
+          227,
+          3031
+        ]
+      ],
+      "score": 0.8752824664115906,
+      "y_pos": 2985,
+      "text": "29. Cư liêu:",
+      "confidence": 0.9436782853943961
+    },
+    {
+      "type": "text",
+      "img_path": "p0191_003_text.png",
+      "bbox": [
+        [
+          282,
+          3072
+        ],
+        [
+          2358,
+          3072
+        ],
+        [
+          2358,
+          3202
+        ],
+        [
+          282,
+          3202
+        ]
+      ],
+      "score": 0.9695861339569092,
+      "y_pos": 3072,
+      "text": "Vị trí: Là điểm giữa của đường nối gai chậu trước với điểm cao nhất ở mẩu chuyển lớn của\nxương đùi. Gấp đùi lên, huyệt ở đầu ngoài nếp gấp háng. (H. 89)",
+      "confidence": 0.9966299198122106
+    },
+    {
+      "type": "footer",
+      "img_path": "p0191_016_footer.png",
+      "bbox": [
+        [
+          227,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.9141057729721069,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982534973126538
+    },
+    {
+      "type": "number",
+      "img_path": "p0191_021_number.png",
+      "bbox": [
+        [
+          2301,
+          3339
+        ],
+        [
+          2351,
+          3339
+        ],
+        [
+          2351,
+          3377
+        ],
+        [
+          2301,
+          3377
+        ]
+      ],
+      "score": 0.8744776844978333,
+      "y_pos": 3339,
+      "text": "\n    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0191.png"
+}

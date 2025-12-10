@@ -1,0 +1,84 @@
+{
+  "page_num": 6,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0006_001_text.png",
+      "bbox": [
+        [
+          365,
+          298
+        ],
+        [
+          855,
+          298
+        ],
+        [
+          855,
+          1331
+        ],
+        [
+          365,
+          1331
+        ]
+      ],
+      "score": 0.8978804349899292,
+      "y_pos": 298,
+      "text": "Lao phổi\n<u>Nghen</u>\nLiệt nửa người\nViêm tinh hoàn\nDi tinh\nLiệt dương\nKhí hư\nCó mang nôn mửa\nQuáng gà\nBệnh uốn ván\nLao hach\nĐảo kinh\nDi chứng bại liệt trẻ em\nBệnh liệt mồm\nSởi\nBạch hầu\nViệm não nhật bản\nViêm tai giữa",
+      "confidence": 0.882369418667628
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0006_002_paragraph_title.png",
+      "bbox": [
+        [
+          365,
+          1444
+        ],
+        [
+          1592,
+          1444
+        ],
+        [
+          1592,
+          1624
+        ],
+        [
+          365,
+          1624
+        ]
+      ],
+      "score": 0.512362539768219,
+      "y_pos": 1444,
+      "text": "XIII. CÁC PHƯƠNG HUYỆT CHỮA TRỊ CÔNG HIỆU\nHướng dẫn sử dụng\nCác huyệt chữa trị bệnh của 14 đường kinh:",
+      "confidence": 0.9668950649379539
+    },
+    {
+      "type": "text",
+      "img_path": "p0006_000_text.png",
+      "bbox": [
+        [
+          366,
+          1682
+        ],
+        [
+          839,
+          1682
+        ],
+        [
+          839,
+          2942
+        ],
+        [
+          366,
+          2942
+        ]
+      ],
+      "score": 0.9330486059188843,
+      "y_pos": 1682,
+      "text": "Bệnh vùng đầu\nBệnh gáy cô\nBệnh mặt\nBệnh mặt\nBệnh mũi\nBệnh miệng răng lưỡi\nBệnh tai\nBệnh hâu họng\nBệnh sườn ngực\nBệnh tim mạch\nBệnh phối\nBệnh gan\nBệnh mật, vàng da\nSán khí\nBệnh tiêu hoá tỳ vận\nBệnh dạ dày\nBệnh đường ruột\nBệnh thận, bàng quang\nBệnh vùng bụng dưới\nĐau lưng, đau họng\nBệnh sốt rét\nBệnh huyết mạch",
+      "confidence": 0.8641807593506852
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0006.png"
+}

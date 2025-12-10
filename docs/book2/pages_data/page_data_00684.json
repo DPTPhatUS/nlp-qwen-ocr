@@ -1,0 +1,812 @@
+{
+  "page_num": 684,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0684_000_header.png",
+      "bbox": [
+        [
+          1736,
+          142
+        ],
+        [
+          2370,
+          142
+        ],
+        [
+          2370,
+          194
+        ],
+        [
+          1736,
+          194
+        ]
+      ],
+      "score": 0.9184854030609131,
+      "y_pos": 142,
+      "text": "CẨM NANG CHẨN TRI ĐÔNG Y",
+      "confidence": 0.9590293169021606
+    },
+    {
+      "type": "header",
+      "img_path": "p0684_002_header.png",
+      "bbox": [
+        [
+          229,
+          149
+        ],
+        [
+          772,
+          149
+        ],
+        [
+          772,
+          195
+        ],
+        [
+          229,
+          195
+        ]
+      ],
+      "score": 0.913582444190979,
+      "y_pos": 149,
+      "text": "PHU LUC: LIËT KË HUYËT",
+      "confidence": 0.8250436211625735
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_006_text.png",
+      "bbox": [
+        [
+          307,
+          307
+        ],
+        [
+          2362,
+          307
+        ],
+        [
+          2362,
+          435
+        ],
+        [
+          307,
+          435
+        ]
+      ],
+      "score": 0.6755481958389282,
+      "y_pos": 307,
+      "text": "7. Chương môn: Trửu tiêm, Trường bình, Lặc liêu, Tỳ mộ, Lý lặc, Lý hiếp, Hiếp liêu (bộ\nmiên).",
+      "confidence": 0.9890806586904959
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_022_text.png",
+      "bbox": [
+        [
+          287,
+          472
+        ],
+        [
+          816,
+          472
+        ],
+        [
+          816,
+          525
+        ],
+        [
+          287,
+          525
+        ]
+      ],
+      "score": 0.5445412397384644,
+      "y_pos": 472,
+      "text": "8.    <b>Kỳ môn:</b> Can mộ.",
+      "confidence": 0.9320231158482402
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0684_004_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          561
+        ],
+        [
+          538,
+          561
+        ],
+        [
+          538,
+          614
+        ],
+        [
+          227,
+          614
+        ]
+      ],
+      "score": 0.758047342300415,
+      "y_pos": 561,
+      "text": "N. Mach Đốc",
+      "confidence": 0.8719703417557937
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_012_text.png",
+      "bbox": [
+        [
+          288,
+          653
+        ],
+        [
+          2046,
+          653
+        ],
+        [
+          2046,
+          710
+        ],
+        [
+          288,
+          710
+        ]
+      ],
+      "score": 0.603746235370636,
+      "y_pos": 653,
+      "text": "<b>Trường cường:</b> Cùng côt, Vĩ lư, Quy vĩ, Vĩ thuý côt, Khí khích, Quyết cốt.",
+      "confidence": 0.9929609693490066
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_010_text.png",
+      "bbox": [
+        [
+          288,
+          747
+        ],
+        [
+          1463,
+          747
+        ],
+        [
+          1463,
+          802
+        ],
+        [
+          288,
+          802
+        ]
+      ],
+      "score": 0.612619161605835,
+      "y_pos": 747,
+      "text": "2.    <b>Mệnh môn:</b> Thuộc luỹ, Trúc trượng, Tinh cung.",
+      "confidence": 0.8944788916657368
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_011_text.png",
+      "bbox": [
+        [
+          287,
+          837
+        ],
+        [
+          1305,
+          837
+        ],
+        [
+          1305,
+          892
+        ],
+        [
+          287,
+          892
+        ]
+      ],
+      "score": 0.6112760305404663,
+      "y_pos": 837,
+      "text": "3.    <b>Tích trung:</b> Tích trụ, tích du, Thần tông.",
+      "confidence": 0.8821868836879729
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_008_text.png",
+      "bbox": [
+        [
+          286,
+          930
+        ],
+        [
+          856,
+          930
+        ],
+        [
+          856,
+          980
+        ],
+        [
+          286,
+          980
+        ]
+      ],
+      "score": 0.6304654479026794,
+      "y_pos": 930,
+      "text": "4.    Cân súc: Cân thúc.",
+      "confidence": 0.78474374016126
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_014_text.png",
+      "bbox": [
+        [
+          288,
+          1018
+        ],
+        [
+          871,
+          1018
+        ],
+        [
+          871,
+          1074
+        ],
+        [
+          288,
+          1074
+        ]
+      ],
+      "score": 0.5933493971824646,
+      "y_pos": 1018,
+      "text": "5.    Chí dương: Phế để.",
+      "confidence": 0.8817371487617492
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_015_text.png",
+      "bbox": [
+        [
+          288,
+          1112
+        ],
+        [
+          865,
+          1112
+        ],
+        [
+          865,
+          1166
+        ],
+        [
+          288,
+          1166
+        ]
+      ],
+      "score": 0.5864374041557312,
+      "y_pos": 1112,
+      "text": "6.    Thần đạo: Tạng du.",
+      "confidence": 0.7321366399526597
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_017_text.png",
+      "bbox": [
+        [
+          289,
+          1202
+        ],
+        [
+          1790,
+          1202
+        ],
+        [
+          1790,
+          1261
+        ],
+        [
+          289,
+          1261
+        ]
+      ],
+      "score": 0.5806297063827515,
+      "y_pos": 1202,
+      "text": "<b>Thân trụ:</b> Trần khí (hơi bụi), <i>Trí lợi mao, Trí lợi khí, Trí lợi giới.</i>",
+      "confidence": 0.9900859340031942
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_030_text.png",
+      "bbox": [
+        [
+          290,
+          1296
+        ],
+        [
+          840,
+          1296
+        ],
+        [
+          840,
+          1351
+        ],
+        [
+          290,
+          1351
+        ]
+      ],
+      "score": 0.5073991417884827,
+      "y_pos": 1296,
+      "text": "8.    Đại truỳ: Bách lao.",
+      "confidence": 0.8942341889653886
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_013_text.png",
+      "bbox": [
+        [
+          288,
+          1386
+        ],
+        [
+          2366,
+          1386
+        ],
+        [
+          2366,
+          1513
+        ],
+        [
+          288,
+          1513
+        ]
+      ],
+      "score": 0.6015939116477966,
+      "y_pos": 1386,
+      "text": "9. Á môn: Thiệt căn, Ám môn, Thiệt yếm, Yếm thiệt, Hoành thiệt, Thiệt hoành , Thiệt\nthũng, Âm môn.",
+      "confidence": 0.9449627251090372
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_020_text.png",
+      "bbox": [
+        [
+          292,
+          1549
+        ],
+        [
+          2086,
+          1549
+        ],
+        [
+          2086,
+          1607
+        ],
+        [
+          292,
+          1607
+        ]
+      ],
+      "score": 0.5502539873123169,
+      "y_pos": 1549,
+      "text": "10. Phong phủ: Thiệt bản, Quỷ chẩm, Tào khê, Tỉnh tỉnh, Quỷ huyệt, Quỷ hưu.",
+      "confidence": 0.9982883612830917
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_021_text.png",
+      "bbox": [
+        [
+          293,
+          1642
+        ],
+        [
+          1589,
+          1642
+        ],
+        [
+          1589,
+          1699
+        ],
+        [
+          293,
+          1699
+        ]
+      ],
+      "score": 0.5474008917808533,
+      "y_pos": 1642,
+      "text": "11. Não bộ: Táp phong, Hội nghạch, Hợp lư, Tây phong.",
+      "confidence": 0.7657175064086914
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_025_text.png",
+      "bbox": [
+        [
+          294,
+          1734
+        ],
+        [
+          884,
+          1734
+        ],
+        [
+          884,
+          1790
+        ],
+        [
+          294,
+          1790
+        ]
+      ],
+      "score": 0.5202793478965759,
+      "y_pos": 1734,
+      "text": "12. Cường gian: Đại vũ.",
+      "confidence": 0.9770203864574433
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_024_text.png",
+      "bbox": [
+        [
+          294,
+          1827
+        ],
+        [
+          901,
+          1827
+        ],
+        [
+          901,
+          1882
+        ],
+        [
+          294,
+          1882
+        ]
+      ],
+      "score": 0.5204550623893738,
+      "y_pos": 1827,
+      "text": "13. Hậu đỉnh: Giao xung.",
+      "confidence": 0.98109697837096
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_009_text.png",
+      "bbox": [
+        [
+          292,
+          1917
+        ],
+        [
+          2363,
+          1917
+        ],
+        [
+          2363,
+          2044
+        ],
+        [
+          292,
+          2044
+        ]
+      ],
+      "score": 0.6140299439430237,
+      "y_pos": 1917,
+      "text": "14. Bách hội: Thiên mãn, Lĩnh thượng, Ngũ hội, Tam dương, Tam dương ngũ hội, Nê hoàn\ncung, Duy hội, Lĩnh thượng thiên mãn, Điên thượng.",
+      "confidence": 0.9976758707534648
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_027_text.png",
+      "bbox": [
+        [
+          293,
+          2078
+        ],
+        [
+          1553,
+          2078
+        ],
+        [
+          1553,
+          2137
+        ],
+        [
+          293,
+          2137
+        ]
+      ],
+      "score": 0.5196440815925598,
+      "y_pos": 2078,
+      "text": "15. Tín hội: Tín thương, Tín môn, Quỷ môn, Đỉnh môn.",
+      "confidence": 0.8946861481225049
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_023_text.png",
+      "bbox": [
+        [
+          292,
+          2171
+        ],
+        [
+          1614,
+          2171
+        ],
+        [
+          1614,
+          2230
+        ],
+        [
+          292,
+          2230
+        ]
+      ],
+      "score": 0.5285913944244385,
+      "y_pos": 2171,
+      "text": "16. Thượng tinh: Thần đường, Danh đường, Quỷ đường.",
+      "confidence": 0.992863192873181
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_029_text.png",
+      "bbox": [
+        [
+          292,
+          2350
+        ],
+        [
+          1651,
+          2350
+        ],
+        [
+          1651,
+          2411
+        ],
+        [
+          292,
+          2411
+        ]
+      ],
+      "score": 0.5099261999130249,
+      "y_pos": 2350,
+      "text": "18. Tố liêu: Diện vương, Chuẩn đầu, Tỵ chuẩn, Diện chính.",
+      "confidence": 0.9980275186441713
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_019_text.png",
+      "bbox": [
+        [
+          292,
+          2446
+        ],
+        [
+          2077,
+          2446
+        ],
+        [
+          2077,
+          2505
+        ],
+        [
+          292,
+          2505
+        ]
+      ],
+      "score": 0.5561137795448303,
+      "y_pos": 2446,
+      "text": "19. Thuỷ câu: Tỵ nhân trung, Nhân trung, Quỷ cung, Quỷ khách sảnh, Quỷ thị.",
+      "confidence": 0.9728534353243841
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_026_text.png",
+      "bbox": [
+        [
+          291,
+          2536
+        ],
+        [
+          1746,
+          2536
+        ],
+        [
+          1746,
+          2594
+        ],
+        [
+          291,
+          2594
+        ]
+      ],
+      "score": 0.5201292037963867,
+      "y_pos": 2536,
+      "text": "20. Đoài đoan: Đoài thông thoát, Thận thượng đoan, Tráng cốt.",
+      "confidence": 0.9931178916068304
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_028_text.png",
+      "bbox": [
+        [
+          291,
+          2630
+        ],
+        [
+          1195,
+          2630
+        ],
+        [
+          1195,
+          2687
+        ],
+        [
+          291,
+          2687
+        ]
+      ],
+      "score": 0.5133668780326843,
+      "y_pos": 2630,
+      "text": "21. Ngận giao: Ngận phùng cân trung.",
+      "confidence": 0.5935142040252686
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0684_005_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          2723
+        ],
+        [
+          586,
+          2723
+        ],
+        [
+          586,
+          2773
+        ],
+        [
+          228,
+          2773
+        ]
+      ],
+      "score": 0.7363001704216003,
+      "y_pos": 2723,
+      "text": "O. Mach Nhâm",
+      "confidence": 0.9038742780685425
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_016_text.png",
+      "bbox": [
+        [
+          289,
+          2811
+        ],
+        [
+          1951,
+          2811
+        ],
+        [
+          1951,
+          2869
+        ],
+        [
+          289,
+          2869
+        ]
+      ],
+      "score": 0.5819583535194397,
+      "y_pos": 2811,
+      "text": "<b>Hội âm:</b> Bình ế, Hạ cực, Kim môn, Bình (bộ thi) ế, Hạ âm biệt, Hạ để.",
+      "confidence": 0.9915851462218497
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_018_text.png",
+      "bbox": [
+        [
+          287,
+          2903
+        ],
+        [
+          1488,
+          2903
+        ],
+        [
+          1488,
+          2958
+        ],
+        [
+          287,
+          2958
+        ]
+      ],
+      "score": 0.5587804913520813,
+      "y_pos": 2903,
+      "text": "Khúc cốt: Niêm bào, Khuất cốt, Khuất cốt đoan.",
+      "confidence": 0.54194929326574
+    },
+    {
+      "type": "text",
+      "img_path": "p0684_007_text.png",
+      "bbox": [
+        [
+          287,
+          2997
+        ],
+        [
+          1820,
+          2997
+        ],
+        [
+          1820,
+          3053
+        ],
+        [
+          287,
+          3053
+        ]
+      ],
+      "score": 0.6325793266296387,
+      "y_pos": 2997,
+      "text": "3.    <b>Trung cực:</b> Bàng quang mộ, Ngọc tuyên, Khí nguyên, Khí ngư.",
+      "confidence": 0.8232993098997301
+    },
+    {
+      "type": "footer",
+      "img_path": "p0684_001_footer.png",
+      "bbox": [
+        [
+          228,
+          3341
+        ],
+        [
+          1324,
+          3341
+        ],
+        [
+          1324,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.9176924228668213,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987116939616654
+    },
+    {
+      "type": "number",
+      "img_path": "p0684_003_number.png",
+      "bbox": [
+        [
+          2308,
+          3363
+        ],
+        [
+          2355,
+          3363
+        ],
+        [
+          2355,
+          3401
+        ],
+        [
+          2308,
+          3401
+        ]
+      ],
+      "score": 0.8651018738746643,
+      "y_pos": 3363,
+      "text": "    \n    \n\n    \n    \n\n\n\n۰\n٠.\n",
+      "confidence": 0.934815893570582
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0684.png"
+}

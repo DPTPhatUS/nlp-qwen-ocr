@@ -1,0 +1,422 @@
+{
+  "page_num": 311,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0311_007_header.png",
+      "bbox": [
+        [
+          1608,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1608,
+          201
+        ]
+      ],
+      "score": 0.9202422499656677,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7565815800002643
+    },
+    {
+      "type": "header",
+      "img_path": "p0311_010_header.png",
+      "bbox": [
+        [
+          230,
+          155
+        ],
+        [
+          944,
+          155
+        ],
+        [
+          944,
+          204
+        ],
+        [
+          230,
+          204
+        ]
+      ],
+      "score": 0.9155266284942627,
+      "y_pos": 155,
+      "text": "TANG PHỦ BIÊN CHỨNG LUÂN TRI",
+      "confidence": 0.8969598511854807
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0311_011_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          323
+        ],
+        [
+          550,
+          323
+        ],
+        [
+          550,
+          370
+        ],
+        [
+          226,
+          370
+        ]
+      ],
+      "score": 0.9101613759994507,
+      "y_pos": 323,
+      "text": "CAN VÀ ĐẨM",
+      "confidence": 0.5814075171947479
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0311_013_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          422
+        ],
+        [
+          716,
+          422
+        ],
+        [
+          716,
+          473
+        ],
+        [
+          226,
+          473
+        ]
+      ],
+      "score": 0.8823042511940002,
+      "y_pos": 422,
+      "text": "A. Biện chứng luận trị",
+      "confidence": 0.9198376288016638
+    },
+    {
+      "type": "text",
+      "img_path": "p0311_003_text.png",
+      "bbox": [
+        [
+          269,
+          507
+        ],
+        [
+          2361,
+          507
+        ],
+        [
+          2361,
+          777
+        ],
+        [
+          269,
+          777
+        ]
+      ],
+      "score": 0.9788403511047363,
+      "y_pos": 507,
+      "text": "Công năng sinh lý của can chủ yếu là sơ tiết(*) và tàng (chứa) huyết. Khi có biến hóa bệnh lý,\nchủ yếu là do sơ tiết bất thường làm cho can uất, can hỏa vượng, can dương thượng cang, can\nâm bất túc. Can mất sơ tiết, hoặc can hỏa thịnh đều ảnh hưởng đến công năng tàng huyết của\ncan mà xuất hiện chứng xuất huyết. Bệnh thường thấy của đảm là chứng đảm nhiệt.",
+      "confidence": 0.9996321641045289
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0311_008_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          812
+        ],
+        [
+          1855,
+          812
+        ],
+        [
+          1855,
+          867
+        ],
+        [
+          226,
+          867
+        ]
+      ],
+      "score": 0.9191182255744934,
+      "y_pos": 812,
+      "text": "1. Can uất (can khí uất kết, can khí bất thư) (can khí không thả lỏng)",
+      "confidence": 0.9985593871937858
+    },
+    {
+      "type": "text",
+      "img_path": "p0311_002_text.png",
+      "bbox": [
+        [
+          282,
+          906
+        ],
+        [
+          2358,
+          906
+        ],
+        [
+          2358,
+          1245
+        ],
+        [
+          282,
+          1245
+        ]
+      ],
+      "score": 0.982644259929657,
+      "y_pos": 906,
+      "text": "a. Triệu chứng: Hấp tấp, dễ cáu, hoặc tinh thần uất ức, váng đầu, trướng đau hai mạng\nsườn, hoặc đau nhói, vừa thở vừa rên, ăn không ngon, miệng đắng hoặc nôn mửa, bụng\nđau, la chảy, kinh nguyệt không đều, rêu lưỡi trắng nhuận, mạch huyền. Nếu can uất đã\nlâu dẫn đến can ứ huyết sẽ kiêm có báng (can, tỳ sưng to), ven lưỡi có nốt ban, ứ, mạch\nhuyền (căng như dây đàn), hoặc sáp (hoặc rít).",
+      "confidence": 0.9572994591782994
+    },
+    {
+      "type": "text",
+      "img_path": "p0311_001_text.png",
+      "bbox": [
+        [
+          284,
+          1279
+        ],
+        [
+          2359,
+          1279
+        ],
+        [
+          2359,
+          1690
+        ],
+        [
+          284,
+          1690
+        ]
+      ],
+      "score": 0.9848964214324951,
+      "y_pos": 1279,
+      "text": "b. Bệnh lý: Can khí uất kết không sơ tiết được, sinh ra tính tình dễ cáu, hấp tấp. Can kinh\nkhí huyết ứ trệ gây nên chứng đau hai sườn. Can khí không tiết vượt ra được thì phá\nngang, xâm phạm tỳ, vị gây nên đau sườn, bụng, ỉa chảy, rên khi thở, ăn uống không biết\nngon, nôn mửa. Đàn bà do khí huyết không thư, ảnh hưởng mạch xung, nhâm mà sinh ra\nkinh nguyệt không đều. Mạch huyền là mạch thường thấy của bệnh gan, (mạch huyền:\nCăng như dây đàn).",
+      "confidence": 0.9923003538563312
+    },
+    {
+      "type": "text",
+      "img_path": "p0311_000_text.png",
+      "bbox": [
+        [
+          284,
+          1724
+        ],
+        [
+          2360,
+          1724
+        ],
+        [
+          2360,
+          2277
+        ],
+        [
+          284,
+          2277
+        ]
+      ],
+      "score": 0.9866819381713867,
+      "y_pos": 1724,
+      "text": "c. Phép chữa: Nên sơ can lý<sup>(**)</sup> khí, thường dùng <i>Sài hồ sơ can thang</i>; nếu kiêm ứ huyết\nnên gia thêm thuốc hoạt huyết vào trong sơ can lý trí, thường dùng <i>Tiêu dao tán</i> gia Đan\nsâm, Bồ hoàng, Ngũ linh chi. Viêm gan mạn tính thuộc loại can uất, nên dùng Tiêu dao\ntán. Nếu thấy gan sưng to, gan viêm, hay bước đầu xơ gan mà kiêm ứ huyết có thể thêm\nvị thuốc hoạt huyết. Nếu là bệnh lao phổi có chứng can uất (dễ cáu, đau sườn, đắng\nmiệng, mạch huyền) là có âm hư, có thể dùng <i>Tiểu sài hồ thang</i>, bỏ các vị thuốc ôn táo,\ngia Ô đầu, Nữ trinh tử, Sa sâm là những vị dưỡng can. Kinh nguyệt không đều thuộc về\ncan uất có thể dùng <i>Tiêu dao tán gia giảm</i>.",
+      "confidence": 0.9903795449401702
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0311_009_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          2315
+        ],
+        [
+          1924,
+          2315
+        ],
+        [
+          1924,
+          2368
+        ],
+        [
+          224,
+          2368
+        ]
+      ],
+      "score": 0.9173516035079956,
+      "y_pos": 2315,
+      "text": "2. Can dương thượng cang (can dương cang thịnh, âm hư can vượng)",
+      "confidence": 0.9976947352741704
+    },
+    {
+      "type": "text",
+      "img_path": "p0311_006_text.png",
+      "bbox": [
+        [
+          284,
+          2407
+        ],
+        [
+          2357,
+          2407
+        ],
+        [
+          2357,
+          2529
+        ],
+        [
+          284,
+          2529
+        ]
+      ],
+      "score": 0.958093523979187,
+      "y_pos": 2407,
+      "text": "a. Triệu chứng: Đau đầu, choáng váng, dễ cáu hoặc nhìn lờ mờ, đau sườn, đắng miệng ven\nlưỡi mầu hồng, rêu trắng, mạch huyền.",
+      "confidence": 0.9720661209370846
+    },
+    {
+      "type": "text",
+      "img_path": "p0311_004_text.png",
+      "bbox": [
+        [
+          335,
+          2567
+        ],
+        [
+          2357,
+          2567
+        ],
+        [
+          2357,
+          2763
+        ],
+        [
+          335,
+          2763
+        ]
+      ],
+      "score": 0.9734956622123718,
+      "y_pos": 2567,
+      "text": "Nếu thấy chứng đau đầu dữ dội, choáng váng, tai ù, điếc, mắt đỏ, mắt đau, dễ cáu, ngủ\nkhông yên, thổ huyết, máu cam, đau móng tay, ven đầu lưỡi hồng, rêu vàng hoặc vàng\ndày mà khô, mạch huyền, hữu lực là can hỏa thịnh.",
+      "confidence": 0.9945878075664428
+    },
+    {
+      "type": "text",
+      "img_path": "p0311_005_text.png",
+      "bbox": [
+        [
+          337,
+          2801
+        ],
+        [
+          2358,
+          2801
+        ],
+        [
+          2358,
+          2998
+        ],
+        [
+          337,
+          2998
+        ]
+      ],
+      "score": 0.9710410237312317,
+      "y_pos": 2801,
+      "text": "Nếu can dương cang thịnh đến mức can phong nội động đều dẫn đến trúng phong (tai\nbiến mạch máu não) mà xuất hiện liệt nửa người, mất tiếng, miệng mắt méo hoặc rúm ró\nchân tay, hôn mê là do nhiệt cực, phải giải quyết như chứng ôn nhiệt.",
+      "confidence": 0.9989025704733591
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0311_014_footnote.png",
+      "bbox": [
+        [
+          225,
+          3100
+        ],
+        [
+          991,
+          3100
+        ],
+        [
+          991,
+          3207
+        ],
+        [
+          225,
+          3207
+        ]
+      ],
+      "score": 0.8784711360931396,
+      "y_pos": 3100,
+      "text": "(*) Sơ tiết: Điều tiết khắp mọi nơi.\n(**) Lý: Đưa trở về với trạng thái tự nhiên.",
+      "confidence": 0.9097672154619709
+    },
+    {
+      "type": "footer",
+      "img_path": "p0311_012_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9011021852493286,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0311_015_number.png",
+      "bbox": [
+        [
+          2329,
+          3339
+        ],
+        [
+          2355,
+          3339
+        ],
+        [
+          2355,
+          3373
+        ],
+        [
+          2329,
+          3373
+        ]
+      ],
+      "score": 0.8151509165763855,
+      "y_pos": 3339,
+      "text": "\n    \n    \n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0311.png"
+}

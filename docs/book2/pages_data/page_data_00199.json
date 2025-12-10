@@ -1,0 +1,524 @@
+{
+  "page_num": 199,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0199_011_header.png",
+      "bbox": [
+        [
+          1606,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1606,
+          202
+        ]
+      ],
+      "score": 0.9174582362174988,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7490854408769381
+    },
+    {
+      "type": "header",
+      "img_path": "p0199_015_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          905,
+          156
+        ],
+        [
+          905,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9090051651000977,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9866287461642561
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_018_text.png",
+      "bbox": [
+        [
+          284,
+          347
+        ],
+        [
+          2067,
+          347
+        ],
+        [
+          2067,
+          400
+        ],
+        [
+          284,
+          400
+        ]
+      ],
+      "score": 0.617585301399231,
+      "y_pos": 347,
+      "text": "Cách châm: Châm đứng kim, sâu 0,5 đến 1 thốn, tránh động mạch. Cứu 3 mồi.",
+      "confidence": 0.992774695555369
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_019_text.png",
+      "bbox": [
+        [
+          285,
+          441
+        ],
+        [
+          1886,
+          441
+        ],
+        [
+          1886,
+          495
+        ],
+        [
+          285,
+          495
+        ]
+      ],
+      "score": 0.5457987785339355,
+      "y_pos": 441,
+      "text": "Chủ trị: Đau dương vật, sa dạ con, đau bụng dưới, đau cạnh trong đùi.",
+      "confidence": 0.9694091988281465
+    },
+    {
+      "type": "image",
+      "img_path": "p0199_000_image.png",
+      "bbox": [
+        [
+          589,
+          555
+        ],
+        [
+          2079,
+          555
+        ],
+        [
+          2079,
+          1507
+        ],
+        [
+          589,
+          1507
+        ]
+      ],
+      "score": 0.9709271788597107,
+      "y_pos": 555
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0199_016_figure_title.png",
+      "bbox": [
+        [
+          1133,
+          1572
+        ],
+        [
+          1514,
+          1572
+        ],
+        [
+          1514,
+          1617
+        ],
+        [
+          1133,
+          1617
+        ]
+      ],
+      "score": 0.8841385245323181,
+      "y_pos": 1572,
+      "text": "Hình 95 - Hình 89",
+      "confidence": 0.6939698457717896
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0199_008_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1660
+        ],
+        [
+          642,
+          1660
+        ],
+        [
+          642,
+          1710
+        ],
+        [
+          227,
+          1710
+        ]
+      ],
+      "score": 0.9238634705543518,
+      "y_pos": 1660,
+      "text": "13. Chương môn",
+      "confidence": 0.8638216927647591
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_012_text.png",
+      "bbox": [
+        [
+          287,
+          1750
+        ],
+        [
+          1569,
+          1750
+        ],
+        [
+          1569,
+          1805
+        ],
+        [
+          287,
+          1805
+        ]
+      ],
+      "score": 0.9122185707092285,
+      "y_pos": 1750,
+      "text": "Vị trí: Ở hai bên cạnh bụng, đầu xương sườn 11. (H. 89)",
+      "confidence": 0.9946876189164948
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_006_text.png",
+      "bbox": [
+        [
+          282,
+          1840
+        ],
+        [
+          2359,
+          1840
+        ],
+        [
+          2359,
+          1967
+        ],
+        [
+          282,
+          1967
+        ]
+      ],
+      "score": 0.9570213556289673,
+      "y_pos": 1840,
+      "text": "Cách lấy huyệt: Nằm ngiêng lấy huyệt, co khuỷu tay để dọc cạnh sườn, chỗ đàu nhọn mỏm\nkhuỷu chiếu vào sườn, đó cũng là đầu sườn 11, là huyệt.",
+      "confidence": 0.9986379036958191
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_003_text.png",
+      "bbox": [
+        [
+          281,
+          2003
+        ],
+        [
+          2359,
+          2003
+        ],
+        [
+          2359,
+          2125
+        ],
+        [
+          281,
+          2125
+        ]
+      ],
+      "score": 0.9635873436927795,
+      "y_pos": 2003,
+      "text": "Cách châm: Châm chếch kim xuống theo đầu sườn, sâu 0,8 đến 1 thốn. Cứu 3 mồi, hơ 5\nphút.",
+      "confidence": 0.8818392718122119
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_007_text.png",
+      "bbox": [
+        [
+          285,
+          2169
+        ],
+        [
+          1925,
+          2169
+        ],
+        [
+          1925,
+          2221
+        ],
+        [
+          285,
+          2221
+        ]
+      ],
+      "score": 0.9249832034111023,
+      "y_pos": 2169,
+      "text": "Chủ trị: lá lách sưng to, la chảy, tiêu hoá kém, ngực sườn đau, lưng đau",
+      "confidence": 0.6528155304290153
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_005_text.png",
+      "bbox": [
+        [
+          285,
+          2260
+        ],
+        [
+          2361,
+          2260
+        ],
+        [
+          2361,
+          2383
+        ],
+        [
+          285,
+          2383
+        ]
+      ],
+      "score": 0.9605906009674072,
+      "y_pos": 2260,
+      "text": "Tác dụng phối hợp: Với Trung quản, Phong long, trị đau sườn; với Tỳ du, Công tôn, Bĩ căn\n(đều cứu), trị lách sưng to, sốt rét cách nhật.",
+      "confidence": 0.9927404660250054
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0199_014_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          2422
+        ],
+        [
+          504,
+          2422
+        ],
+        [
+          504,
+          2472
+        ],
+        [
+          229,
+          2472
+        ]
+      ],
+      "score": 0.9107165932655334,
+      "y_pos": 2422,
+      "text": "14. Kỳ môn",
+      "confidence": 0.9593522300322851
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_010_text.png",
+      "bbox": [
+        [
+          302,
+          2511
+        ],
+        [
+          1388,
+          2511
+        ],
+        [
+          1388,
+          2567
+        ],
+        [
+          302,
+          2567
+        ]
+      ],
+      "score": 0.9212090373039246,
+      "y_pos": 2511,
+      "text": "Vị trí: Ở khe sụn sườn 6-7, thẳng đầu vú xuống.",
+      "confidence": 0.9913044985459776
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_004_text.png",
+      "bbox": [
+        [
+          281,
+          2604
+        ],
+        [
+          2357,
+          2604
+        ],
+        [
+          2357,
+          2729
+        ],
+        [
+          281,
+          2729
+        ]
+      ],
+      "score": 0.9622254371643066,
+      "y_pos": 2604,
+      "text": "Cách lấy huyệt: Từ huyệt <i>Cự khuyết</i> ở <i>Nhâm mạch</i> sang ngang mỗi bên 3,5 thốn, từ đầu\nvú xuống khe sườn 6-7. (H. 81)",
+      "confidence": 0.9423650430346078
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_002_text.png",
+      "bbox": [
+        [
+          280,
+          2768
+        ],
+        [
+          2360,
+          2768
+        ],
+        [
+          2360,
+          2890
+        ],
+        [
+          280,
+          2890
+        ]
+      ],
+      "score": 0.964318573474884,
+      "y_pos": 2768,
+      "text": "Cách châm: Châm chếch kim từ khe sụn sườn ra hướng ngoài, sâu 0,5–0,8 thốn. Cứu 3\nmồi, hơ 5 phút.",
+      "confidence": 0.9962908685798767
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_009_text.png",
+      "bbox": [
+        [
+          284,
+          2931
+        ],
+        [
+          1901,
+          2931
+        ],
+        [
+          1901,
+          2984
+        ],
+        [
+          284,
+          2984
+        ]
+      ],
+      "score": 0.9226975440979004,
+      "y_pos": 2931,
+      "text": "Chủ trị: Đau dạ dày, đau sườn, tức ngực sườn, nôn mửa sốt rét, ít sữa.",
+      "confidence": 0.743934154510498
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_001_text.png",
+      "bbox": [
+        [
+          280,
+          3023
+        ],
+        [
+          2359,
+          3023
+        ],
+        [
+          2359,
+          3146
+        ],
+        [
+          280,
+          3146
+        ]
+      ],
+      "score": 0.9650646448135376,
+      "y_pos": 3023,
+      "text": "<i>Tác dụng phối hợp:</i> Với Can du, <i>Cách du</i>, trị đau sườn, ngực; Với <i>Chiên trung</i>, trị cơn co\nthắt khí quản.",
+      "confidence": 0.9949800882880625
+    },
+    {
+      "type": "footer",
+      "img_path": "p0199_013_footer.png",
+      "bbox": [
+        [
+          227,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.9109867215156555,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982534973126538
+    },
+    {
+      "type": "number",
+      "img_path": "p0199_017_number.png",
+      "bbox": [
+        [
+          2301,
+          3339
+        ],
+        [
+          2350,
+          3339
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2301,
+          3377
+        ]
+      ],
+      "score": 0.8678703904151917,
+      "y_pos": 3339,
+      "text": "    \n        \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0199.png"
+}

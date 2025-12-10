@@ -1,0 +1,264 @@
+{
+  "page_num": 92,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0092_003_header.png",
+      "bbox": [
+        [
+          1606,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          202
+        ],
+        [
+          1606,
+          202
+        ]
+      ],
+      "score": 0.9134439826011658,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7400914178717704
+    },
+    {
+      "type": "header",
+      "img_path": "p0092_006_header.png",
+      "bbox": [
+        [
+          231,
+          160
+        ],
+        [
+          442,
+          160
+        ],
+        [
+          442,
+          202
+        ],
+        [
+          231,
+          202
+        ]
+      ],
+      "score": 0.8847976326942444,
+      "y_pos": 160,
+      "text": "KINH LAC",
+      "confidence": 0.7441844046115875
+    },
+    {
+      "type": "text",
+      "img_path": "p0092_008_text.png",
+      "bbox": [
+        [
+          340,
+          299
+        ],
+        [
+          2265,
+          299
+        ],
+        [
+          2265,
+          356
+        ],
+        [
+          340,
+          356
+        ]
+      ],
+      "score": 0.7253048419952393,
+      "y_pos": 299,
+      "text": "Mạch nhánh ở hệ mắt, từ hệ mắt đi xuống phía sau của góc hàm vòng phía trong môi.",
+      "confidence": 0.9997732251523489
+    },
+    {
+      "type": "text",
+      "img_path": "p0092_009_text.png",
+      "bbox": [
+        [
+          341,
+          386
+        ],
+        [
+          1899,
+          386
+        ],
+        [
+          1899,
+          442
+        ],
+        [
+          341,
+          442
+        ]
+      ],
+      "score": 0.6886640191078186,
+      "y_pos": 386,
+      "text": "Mạch nhánh ở gan, từ can tạng chia ra, qua cơ hoành, đến phế tạng.",
+      "confidence": 0.9998354683904087
+    },
+    {
+      "type": "text",
+      "img_path": "p0092_002_text.png",
+      "bbox": [
+        [
+          284,
+          469
+        ],
+        [
+          2356,
+          469
+        ],
+        [
+          2356,
+          588
+        ],
+        [
+          284,
+          588
+        ]
+      ],
+      "score": 0.9457218050956726,
+      "y_pos": 469,
+      "text": "b. Quan hệ phủ tạng: Thuộc can, đường lạc sang đảm, có thêm quan hệ trực tiếp với phế,\nvị, thận và não.",
+      "confidence": 0.9924704931450613
+    },
+    {
+      "type": "text",
+      "img_path": "p0092_001_text.png",
+      "bbox": [
+        [
+          285,
+          620
+        ],
+        [
+          2358,
+          620
+        ],
+        [
+          2358,
+          798
+        ],
+        [
+          285,
+          798
+        ]
+      ],
+      "score": 0.9662773013114929,
+      "y_pos": 620,
+      "text": "c. Chủ trị: Đái dầm, tiểu tiện khó, đàn bà đau bụng dưới, đau lưng, ỉa chảy, sán khí, bệnh\ntinh thần. Kinh này trị bệnh ở âm vật, dương vật là chính: cũng trị các bệnh ở cả mắt và\nsườn.",
+      "confidence": 0.9962532556253053
+    },
+    {
+      "type": "image",
+      "img_path": "p0092_000_image.png",
+      "bbox": [
+        [
+          964,
+          865
+        ],
+        [
+          1770,
+          865
+        ],
+        [
+          1770,
+          2772
+        ],
+        [
+          964,
+          2772
+        ]
+      ],
+      "score": 0.9756513237953186,
+      "y_pos": 865
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0092_005_figure_title.png",
+      "bbox": [
+        [
+          783,
+          2868
+        ],
+        [
+          1916,
+          2868
+        ],
+        [
+          1916,
+          2921
+        ],
+        [
+          783,
+          2921
+        ]
+      ],
+      "score": 0.896720826625824,
+      "y_pos": 2868,
+      "text": "Hình 19. Đường tuần hành của kinh Túc quyết âm can",
+      "confidence": 0.9423789427830622
+    },
+    {
+      "type": "footer",
+      "img_path": "p0092_004_footer.png",
+      "bbox": [
+        [
+          230,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          230,
+          3387
+        ]
+      ],
+      "score": 0.9001867175102234,
+      "y_pos": 3333,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.998433677655346
+    },
+    {
+      "type": "number",
+      "img_path": "p0092_007_number.png",
+      "bbox": [
+        [
+          2332,
+          3338
+        ],
+        [
+          2382,
+          3338
+        ],
+        [
+          2382,
+          3374
+        ],
+        [
+          2332,
+          3374
+        ]
+      ],
+      "score": 0.8602644205093384,
+      "y_pos": 3338,
+      "text": "    \n    \n    \n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0092.png"
+}

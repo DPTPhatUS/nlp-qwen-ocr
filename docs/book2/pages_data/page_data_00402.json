@@ -1,0 +1,500 @@
+{
+  "page_num": 402,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0402_004_header.png",
+      "bbox": [
+        [
+          1679,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1679,
+          196
+        ]
+      ],
+      "score": 0.9261434078216553,
+      "y_pos": 142,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7503989594323295
+    },
+    {
+      "type": "header",
+      "img_path": "p0402_007_header.png",
+      "bbox": [
+        [
+          230,
+          146
+        ],
+        [
+          1095,
+          146
+        ],
+        [
+          1095,
+          197
+        ],
+        [
+          230,
+          197
+        ]
+      ],
+      "score": 0.9013044238090515,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SÀNG",
+      "confidence": 0.9910215088299342
+    },
+    {
+      "type": "table",
+      "img_path": "p0402_000_table.png",
+      "bbox": [
+        [
+          231,
+          298
+        ],
+        [
+          2358,
+          298
+        ],
+        [
+          2358,
+          1275
+        ],
+        [
+          231,
+          1275
+        ]
+      ],
+      "score": 0.9896748661994934,
+      "y_pos": 298,
+      "text": "Bệnh    Tim đau    nhói,    Đau sau xương ức hoặc vùng trước tim, đau nhói kiểu chèn ép, lan toả\nhệ    cơn    CO    thắt    ra vai trái và mặt trong cánh tay trái, nín thở hoặc dùng thuốc cắt cơn đau\ntuần    mạch vành    thì có thể giảm, có tiền sử cao huyết áp hoặc xơ vữa động mạch, co thắt\nhoàn    mạch vành, cung cấp máu không đủ, cơ tim co cứng thì đau so với tim\nnhói đau dữ dội và kéo dài hơn, có thể xuất hiện choáng, ngất, kiểm tra\nđiện tâm đồ có thể giúp chẩn đoán chính xác hơn.\nViêm    màng    Đau ở vùng trước tim, kèm sốt, thở gấp, ho, ra mồ hôi lạnh, tim nhanh,\nngoài tim    tiếng tim nghe xa xăm (mờ) và có tiếng cọ màng ngoài tim.\nChứng thần kinh    Kèm hồi hộp, đầu xoay, mất ngủ là những chứng trạng của thần kinh\nchức năng tim    chức năng, không có triệu chứng thực thể khi khám tim mạch.\nBệnh    Viêm thực quản,    Vùng đau ở xương ức có quan hệ với việc nuốt thức ăn. Viêm thực quản\nď    hệ    u thực quản    khi nuốt thức ăn là đau. U thực quản nuốt khó tăng dần, hoặc có nôn\ntiêu    mửa đờm dãi, uống thuốc cản quang rồi chiếu điện, giúp cho chẩn đoán\nhoá    chính xác.",
+      "confidence": 0.9513032931419931
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0402_014_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1313
+        ],
+        [
+          559,
+          1313
+        ],
+        [
+          559,
+          1358
+        ],
+        [
+          227,
+          1358
+        ]
+      ],
+      "score": 0.8032207489013672,
+      "y_pos": 1313,
+      "text": "C. Cách chữa",
+      "confidence": 0.9061328428132194
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0402_010_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1403
+        ],
+        [
+          671,
+          1403
+        ],
+        [
+          671,
+          1454
+        ],
+        [
+          227,
+          1454
+        ]
+      ],
+      "score": 0.8432483077049255,
+      "y_pos": 1403,
+      "text": "1. Bằng châm cứu",
+      "confidence": 0.9365242918332418
+    },
+    {
+      "type": "text",
+      "img_path": "p0402_003_text.png",
+      "bbox": [
+        [
+          224,
+          1494
+        ],
+        [
+          2364,
+          1494
+        ],
+        [
+          2364,
+          1617
+        ],
+        [
+          224,
+          1617
+        ]
+      ],
+      "score": 0.9696128964424133,
+      "y_pos": 1494,
+      "text": "a. Thể châm: A thị huyệt (châm A thị huyệt xong, có thể cứu hoặc bầu giác để phối hợp), Chi\ncâu, Nôi quan, Khâu khư thấu Chiếu hải.",
+      "confidence": 0.9643381219069038
+    },
+    {
+      "type": "text",
+      "img_path": "p0402_009_text.png",
+      "bbox": [
+        [
+          225,
+          1657
+        ],
+        [
+          1302,
+          1657
+        ],
+        [
+          1302,
+          1710
+        ],
+        [
+          225,
+          1710
+        ]
+      ],
+      "score": 0.8659348487854004,
+      "y_pos": 1657,
+      "text": "b. Nhĩ châm: Giao cảm, Thần môn, Hung điểm.",
+      "confidence": 0.5931433267063565
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0402_006_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1750
+        ],
+        [
+          711,
+          1750
+        ],
+        [
+          711,
+          1801
+        ],
+        [
+          225,
+          1801
+        ]
+      ],
+      "score": 0.9074923396110535,
+      "y_pos": 1750,
+      "text": "2. Biện chứng thí trị",
+      "confidence": 0.9648022314776545
+    },
+    {
+      "type": "text",
+      "img_path": "p0402_001_text.png",
+      "bbox": [
+        [
+          221,
+          1840
+        ],
+        [
+          2359,
+          1840
+        ],
+        [
+          2359,
+          2176
+        ],
+        [
+          221,
+          2176
+        ]
+      ],
+      "score": 0.9858019948005676,
+      "y_pos": 1840,
+      "text": "Bệnh của lồng ngực chủ yếu biểu hiện trướng đau sườn ngực, hoặc nơi đau không cố định,\nđau ở trong, muốn thở dài, mạch huyền là chứng trạng của khí trệ, khi chữa phải lấy lý khí hoà\nlạc là chính. Nếu đau thúc một chỗ không dời, hoặc đau râm ran như tắc là thêm ứ, thêm đàm,\nphải kiệm xem xét mà chữa. Đồng thời lại cần kết hợp với biện bệnh, xem xét các chuyển biến\nhữu quan, để định cách chữa.",
+      "confidence": 0.9987770650039846
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0402_013_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2215
+        ],
+        [
+          465,
+          2215
+        ],
+        [
+          465,
+          2263
+        ],
+        [
+          226,
+          2263
+        ]
+      ],
+      "score": 0.8155015110969543,
+      "y_pos": 2215,
+      "text": "Bài thuốc",
+      "confidence": 0.8189181360331449
+    },
+    {
+      "type": "text",
+      "img_path": "p0402_012_text.png",
+      "bbox": [
+        [
+          227,
+          2306
+        ],
+        [
+          988,
+          2306
+        ],
+        [
+          988,
+          2362
+        ],
+        [
+          227,
+          2362
+        ]
+      ],
+      "score": 0.8259895443916321,
+      "y_pos": 2306,
+      "text": "Chế hương phụ    3 đồng cân,",
+      "confidence": 0.9858663299144843
+    },
+    {
+      "type": "text",
+      "img_path": "p0402_011_text.png",
+      "bbox": [
+        [
+          231,
+          2399
+        ],
+        [
+          1403,
+          2399
+        ],
+        [
+          1403,
+          2453
+        ],
+        [
+          231,
+          2453
+        ]
+      ],
+      "score": 0.8309352397918701,
+      "y_pos": 2399,
+      "text": "Toàn phức hoa    2 đồng cân cân gói lại mà sắc,",
+      "confidence": 0.9791690759981673
+    },
+    {
+      "type": "text",
+      "img_path": "p0402_015_text.png",
+      "bbox": [
+        [
+          227,
+          2489
+        ],
+        [
+          1783,
+          2489
+        ],
+        [
+          1783,
+          2547
+        ],
+        [
+          227,
+          2547
+        ]
+      ],
+      "score": 0.762871265411377,
+      "y_pos": 2489,
+      "text": "Sao Chỉ xác    1,5 đồng cân,    Quảng Uất kim    3 đồng cân,",
+      "confidence": 0.969993235438298
+    },
+    {
+      "type": "text",
+      "img_path": "p0402_016_text.png",
+      "bbox": [
+        [
+          227,
+          2583
+        ],
+        [
+          1781,
+          2583
+        ],
+        [
+          1781,
+          2639
+        ],
+        [
+          227,
+          2639
+        ]
+      ],
+      "score": 0.7315889596939087,
+      "y_pos": 2583,
+      "text": "Xuyên luyện tử    3 đồng cân,    Sao Diên hố    3 đồng cân,",
+      "confidence": 0.9716230682455577
+    },
+    {
+      "type": "text",
+      "img_path": "p0402_018_text.png",
+      "bbox": [
+        [
+          228,
+          2675
+        ],
+        [
+          984,
+          2675
+        ],
+        [
+          984,
+          2731
+        ],
+        [
+          228,
+          2731
+        ]
+      ],
+      "score": 0.6665270328521729,
+      "y_pos": 2675,
+      "text": "Giáng hương    1 đông cân.",
+      "confidence": 0.9806598883408767
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0402_017_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2766
+        ],
+        [
+          466,
+          2766
+        ],
+        [
+          466,
+          2819
+        ],
+        [
+          226,
+          2819
+        ]
+      ],
+      "score": 0.6874071955680847,
+      "y_pos": 2766,
+      "text": "Gia giảm:",
+      "confidence": 0.8585028160702098
+    },
+    {
+      "type": "text",
+      "img_path": "p0402_002_text.png",
+      "bbox": [
+        [
+          221,
+          2856
+        ],
+        [
+          2358,
+          2856
+        ],
+        [
+          2358,
+          3052
+        ],
+        [
+          221,
+          3052
+        ]
+      ],
+      "score": 0.9795302748680115,
+      "y_pos": 2856,
+      "text": "- Khí trệ huyết ứ, đau nhói không dời chỗ, thở hít đau, chất lưỡi tím, gia Hồng hoa 1,5 đồng\ncân, Đào nhân 3 đồng cân, hoặc dùng riêng bột Tam thất 1 đồng cân, bột Trầm hương 4 phân,\nhai thứ trộn đều, chia làm 2 lần uống.",
+      "confidence": 0.9966861932958783
+    },
+    {
+      "type": "number",
+      "img_path": "p0402_008_number.png",
+      "bbox": [
+        [
+          2306,
+          3335
+        ],
+        [
+          2357,
+          3335
+        ],
+        [
+          2357,
+          3371
+        ],
+        [
+          2306,
+          3371
+        ]
+      ],
+      "score": 0.8806341886520386,
+      "y_pos": 3335,
+      "text": "    \n\n    \n    ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0402_005_footer.png",
+      "bbox": [
+        [
+          229,
+          3336
+        ],
+        [
+          1342,
+          3336
+        ],
+        [
+          1342,
+          3383
+        ],
+        [
+          229,
+          3383
+        ]
+      ],
+      "score": 0.9177596569061279,
+      "y_pos": 3336,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9332823742110774
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0402.png"
+}

@@ -1,0 +1,916 @@
+{
+  "page_num": 513,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0513_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2371,
+          144
+        ],
+        [
+          2371,
+          199
+        ],
+        [
+          1675,
+          199
+        ]
+      ],
+      "score": 0.9163211584091187,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7576648993861108
+    },
+    {
+      "type": "header",
+      "img_path": "p0513_000_header.png",
+      "bbox": [
+        [
+          228,
+          151
+        ],
+        [
+          1471,
+          151
+        ],
+        [
+          1471,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9212764501571655,
+      "y_pos": 151,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9977076780796051
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0513_033_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          323
+        ],
+        [
+          696,
+          323
+        ],
+        [
+          696,
+          388
+        ],
+        [
+          227,
+          388
+        ]
+      ],
+      "score": 0.6286664605140686,
+      "y_pos": 323,
+      "text": "Phần 4. BÊNH MẮT",
+      "confidence": 0.8153541054990556
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_034_reference_content.png",
+      "bbox": [
+        [
+          230,
+          416
+        ],
+        [
+          1167,
+          416
+        ],
+        [
+          1167,
+          482
+        ],
+        [
+          230,
+          482
+        ]
+      ],
+      "score": 0.5795791149139404,
+      "y_pos": 416,
+      "text": "52. Đau đầu và mắt: Tán trúc, Đầu duy.",
+      "confidence": 0.968707512319088
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_030_reference_content.png",
+      "bbox": [
+        [
+          233,
+          506
+        ],
+        [
+          1366,
+          506
+        ],
+        [
+          1366,
+          575
+        ],
+        [
+          233,
+          575
+        ]
+      ],
+      "score": 0.65727698802948,
+      "y_pos": 506,
+      "text": "53. Bệnh mắt: Thừa khấp, Thái dương, Hợp cốc.",
+      "confidence": 0.9995684991491601
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_027_reference_content.png",
+      "bbox": [
+        [
+          233,
+          599
+        ],
+        [
+          1300,
+          599
+        ],
+        [
+          1300,
+          667
+        ],
+        [
+          233,
+          667
+        ]
+      ],
+      "score": 0.6713552474975586,
+      "y_pos": 599,
+      "text": "54. Bệnh mắt: Tình minh, Thừa khấp, Tý nhu.",
+      "confidence": 0.9994531618224249
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_029_reference_content.png",
+      "bbox": [
+        [
+          233,
+          691
+        ],
+        [
+          1114,
+          691
+        ],
+        [
+          1114,
+          759
+        ],
+        [
+          233,
+          759
+        ]
+      ],
+      "score": 0.6624266505241394,
+      "y_pos": 691,
+      "text": "55. Bệnh mắt: Quang minh, Hợp cốc.",
+      "confidence": 0.9992544402678808
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_017_reference_content.png",
+      "bbox": [
+        [
+          233,
+          784
+        ],
+        [
+          1301,
+          784
+        ],
+        [
+          1301,
+          850
+        ],
+        [
+          233,
+          850
+        ]
+      ],
+      "score": 0.7090621590614319,
+      "y_pos": 784,
+      "text": "56. Bệnh mắt nói chung: Can du, Túc tam lý.",
+      "confidence": 0.9889915108680725
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_008_reference_content.png",
+      "bbox": [
+        [
+          233,
+          875
+        ],
+        [
+          1475,
+          875
+        ],
+        [
+          1475,
+          942
+        ],
+        [
+          233,
+          942
+        ]
+      ],
+      "score": 0.7382296919822693,
+      "y_pos": 875,
+      "text": "57. Các bệnh về mắt: Tình mich, Thái dương, Ngư vĩ.",
+      "confidence": 0.9552650294213925
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_005_reference_content.png",
+      "bbox": [
+        [
+          233,
+          968
+        ],
+        [
+          1810,
+          968
+        ],
+        [
+          1810,
+          1033
+        ],
+        [
+          233,
+          1033
+        ]
+      ],
+      "score": 0.7502861022949219,
+      "y_pos": 968,
+      "text": "58. Viêm kết mạc cấp tính: Chích nặn máu ở: Thái dương, Nhĩ tiêm.",
+      "confidence": 0.9995441917163223
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_006_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1059
+        ],
+        [
+          1836,
+          1059
+        ],
+        [
+          1836,
+          1126
+        ],
+        [
+          233,
+          1126
+        ]
+      ],
+      "score": 0.749646008014679,
+      "y_pos": 1059,
+      "text": "59. Viêm kết mạc cấp tính: Tán trúc, Thái dương, Phong trì, Hợp cốc.",
+      "confidence": 0.9997433577265058
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_012_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1152
+        ],
+        [
+          1359,
+          1152
+        ],
+        [
+          1359,
+          1218
+        ],
+        [
+          233,
+          1218
+        ]
+      ],
+      "score": 0.7342881560325623,
+      "y_pos": 1152,
+      "text": "60. Đau mắt đau ụ mày: Tán trúc thấu Ngư yêu.",
+      "confidence": 0.9995041832010797
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_007_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1240
+        ],
+        [
+          1570,
+          1240
+        ],
+        [
+          1570,
+          1312
+        ],
+        [
+          232,
+          1312
+        ]
+      ],
+      "score": 0.745831310749054,
+      "y_pos": 1240,
+      "text": "61. Khuông mắt máy động: Đầu duy, Tán trúc (mắt đau).",
+      "confidence": 0.9992390025745739
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_009_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1333
+        ],
+        [
+          1602,
+          1333
+        ],
+        [
+          1602,
+          1401
+        ],
+        [
+          233,
+          1401
+        ]
+      ],
+      "score": 0.7366890907287598,
+      "y_pos": 1333,
+      "text": "62. Mắt mờ do thần kinh chức năng: Cầu hậu, Thần môn.",
+      "confidence": 0.9994322928515348
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_011_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1425
+        ],
+        [
+          1176,
+          1425
+        ],
+        [
+          1176,
+          1493
+        ],
+        [
+          233,
+          1493
+        ]
+      ],
+      "score": 0.73525470495224,
+      "y_pos": 1425,
+      "text": "63. Mắt không sáng: Phong trì, Ngũ xứ.",
+      "confidence": 0.9850315093994141
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_010_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1517
+        ],
+        [
+          1206,
+          1517
+        ],
+        [
+          1206,
+          1584
+        ],
+        [
+          233,
+          1584
+        ]
+      ],
+      "score": 0.7365319728851318,
+      "y_pos": 1517,
+      "text": "64. Mắt không sáng: Can du, Mệnh môn.",
+      "confidence": 0.9925524959197412
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_014_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1608
+        ],
+        [
+          1565,
+          1608
+        ],
+        [
+          1565,
+          1675
+        ],
+        [
+          232,
+          1675
+        ]
+      ],
+      "score": 0.719316303730011,
+      "y_pos": 1608,
+      "text": "65. Mắt hoa, mắt như lòi ra: Thiên trụ, Đào đạo, Côn lôn.",
+      "confidence": 0.9986449884156049
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_019_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1701
+        ],
+        [
+          1105,
+          1701
+        ],
+        [
+          1105,
+          1764
+        ],
+        [
+          232,
+          1764
+        ]
+      ],
+      "score": 0.7020238041877747,
+      "y_pos": 1701,
+      "text": "66. Mắt hoa mờ: Túc tam lý, Can du.",
+      "confidence": 0.9959125857095461
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_013_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1792
+        ],
+        [
+          1572,
+          1792
+        ],
+        [
+          1572,
+          1861
+        ],
+        [
+          232,
+          1861
+        ]
+      ],
+      "score": 0.7248430252075195,
+      "y_pos": 1792,
+      "text": "67. Sụp mi: Dương bạch, Thái dương, Đầu duy, Phong trì.",
+      "confidence": 0.9996526596838968
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_015_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1885
+        ],
+        [
+          1564,
+          1885
+        ],
+        [
+          1564,
+          1949
+        ],
+        [
+          233,
+          1949
+        ]
+      ],
+      "score": 0.7188431024551392,
+      "y_pos": 1885,
+      "text": "68. Viêm mí mắt: Chích nặn máu ở Thái dương, Tán trúc.",
+      "confidence": 0.9983739980629512
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_016_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1976
+        ],
+        [
+          1856,
+          1976
+        ],
+        [
+          1856,
+          2043
+        ],
+        [
+          232,
+          2043
+        ]
+      ],
+      "score": 0.7176134586334229,
+      "y_pos": 1976,
+      "text": "69. Đau thần kinh trên hốc mắt: Ngư yêu, Tán trúc, Tứ độc, Nội quan.",
+      "confidence": 0.9977997652121953
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_022_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2069
+        ],
+        [
+          1374,
+          2069
+        ],
+        [
+          1374,
+          2136
+        ],
+        [
+          233,
+          2136
+        ]
+      ],
+      "score": 0.6901471018791199,
+      "y_pos": 2069,
+      "text": "70. Trong mắt sưng đỏ: Tán trúc, Ty trúc không.",
+      "confidence": 0.9993295839854649
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_025_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2158
+        ],
+        [
+          1117,
+          2158
+        ],
+        [
+          1117,
+          2225
+        ],
+        [
+          232,
+          2225
+        ]
+      ],
+      "score": 0.6786671280860901,
+      "y_pos": 2158,
+      "text": "71. Đau mắt hàn: Phong trì, Hợp cốc.",
+      "confidence": 0.9946510587867937
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_021_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2250
+        ],
+        [
+          1323,
+          2250
+        ],
+        [
+          1323,
+          2317
+        ],
+        [
+          233,
+          2317
+        ]
+      ],
+      "score": 0.6986768245697021,
+      "y_pos": 2250,
+      "text": "72. Đau mắt: Tình minh, Thái dương, Ngư yêu.",
+      "confidence": 0.9976227153902468
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_023_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2341
+        ],
+        [
+          1856,
+          2341
+        ],
+        [
+          1856,
+          2410
+        ],
+        [
+          233,
+          2410
+        ]
+      ],
+      "score": 0.6869972944259644,
+      "y_pos": 2341,
+      "text": "74. Nhãn cầu sưng đỏ, đau đớn, chảy nước mắt: Tình minh, Tý nhu.",
+      "confidence": 0.9614361867760167
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_028_reference_content.png",
+      "bbox": [
+        [
+          234,
+          2433
+        ],
+        [
+          1328,
+          2433
+        ],
+        [
+          1328,
+          2500
+        ],
+        [
+          234,
+          2500
+        ]
+      ],
+      "score": 0.6691829562187195,
+      "y_pos": 2433,
+      "text": "75. Đau tròng con mắt: Thượng tinh, Nội đình.",
+      "confidence": 0.8843501514576851
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_031_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2525
+        ],
+        [
+          1126,
+          2525
+        ],
+        [
+          1126,
+          2590
+        ],
+        [
+          233,
+          2590
+        ]
+      ],
+      "score": 0.654607355594635,
+      "y_pos": 2525,
+      "text": "76. Mắt đỏ đau: Dương khê, Hợp cốc.",
+      "confidence": 0.9962751929824417
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_018_reference_content.png",
+      "bbox": [
+        [
+          234,
+          2617
+        ],
+        [
+          1675,
+          2617
+        ],
+        [
+          1675,
+          2685
+        ],
+        [
+          234,
+          2685
+        ]
+      ],
+      "score": 0.7058043479919434,
+      "y_pos": 2617,
+      "text": "77. Quáng gà: Đồng tử liêu, Tình minh, Dưỡng lão, Túc tam lý.",
+      "confidence": 0.9979624842840528
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_020_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2708
+        ],
+        [
+          1928,
+          2708
+        ],
+        [
+          1928,
+          2775
+        ],
+        [
+          232,
+          2775
+        ]
+      ],
+      "score": 0.7017634510993958,
+      "y_pos": 2708,
+      "text": "78. Viêm thần kinh thị giác: Cầu hậu, Phong trì, Dưỡng lão, Quang minh.",
+      "confidence": 0.9974499263175546
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_004_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2802
+        ],
+        [
+          2360,
+          2802
+        ],
+        [
+          2360,
+          2934
+        ],
+        [
+          231,
+          2934
+        ]
+      ],
+      "score": 0.7901907563209534,
+      "y_pos": 2802,
+      "text": "79. <b>Teo thần kinh thị giác:</b> Thượng minh, Kiện minh, Kiện minh 2, Phong trì, Quang minh,\nTúc tam lý.",
+      "confidence": 0.9590440068271133
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_026_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2961
+        ],
+        [
+          1817,
+          2961
+        ],
+        [
+          1817,
+          3030
+        ],
+        [
+          231,
+          3030
+        ]
+      ],
+      "score": 0.6724410653114319,
+      "y_pos": 2961,
+      "text": "80. Teo thần kinh thị giác: É minh, Phong trì, Thượng tinh, Cầu hậu.",
+      "confidence": 0.9923229251589094
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_032_reference_content.png",
+      "bbox": [
+        [
+          232,
+          3057
+        ],
+        [
+          1367,
+          3057
+        ],
+        [
+          1367,
+          3120
+        ],
+        [
+          232,
+          3120
+        ]
+      ],
+      "score": 0.6501759886741638,
+      "y_pos": 3057,
+      "text": "81. Quáng gà: Tình minh, Hành gian, Túc tam lý.",
+      "confidence": 0.9660464111639528
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0513_024_reference_content.png",
+      "bbox": [
+        [
+          230,
+          3148
+        ],
+        [
+          1875,
+          3148
+        ],
+        [
+          1875,
+          3210
+        ],
+        [
+          230,
+          3210
+        ]
+      ],
+      "score": 0.6819274425506592,
+      "y_pos": 3148,
+      "text": "82. Teo thần kinh thị giác: Phong trì, Tình minh, Đồng tử liêu, Tán trúc.",
+      "confidence": 0.9912710483868917
+    },
+    {
+      "type": "number",
+      "img_path": "p0513_003_number.png",
+      "bbox": [
+        [
+          2342,
+          3339
+        ],
+        [
+          2368,
+          3339
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2342,
+          3374
+        ]
+      ],
+      "score": 0.810431957244873,
+      "y_pos": 3339,
+      "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n    \n\n    ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0513_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3341
+        ],
+        [
+          1325,
+          3341
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.9109399318695068,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987244965895167
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0513.png"
+}

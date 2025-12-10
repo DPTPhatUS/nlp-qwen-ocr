@@ -1,0 +1,474 @@
+{
+  "page_num": 603,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0603_008_header.png",
+      "bbox": [
+        [
+          1674,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1674,
+          197
+        ]
+      ],
+      "score": 0.9218456149101257,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.710203885677315
+    },
+    {
+      "type": "header",
+      "img_path": "p0603_009_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.916109561920166,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "text",
+      "img_path": "p0603_017_text.png",
+      "bbox": [
+        [
+          221,
+          323
+        ],
+        [
+          2360,
+          323
+        ],
+        [
+          2360,
+          450
+        ],
+        [
+          221,
+          450
+        ]
+      ],
+      "score": 0.5774487257003784,
+      "y_pos": 323,
+      "text": "PHÉP CHẨN BỆNH BẰNG NHIỆT ĐỘ KINH LẠC: NGUYÊN LÝ, CÁCH TIẾN HÀNH VÀ\nNHÂN ĐỊNH CHẨN ĐOÁN",
+      "confidence": 0.9173902345370062
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0603_016_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          491
+        ],
+        [
+          1164,
+          491
+        ],
+        [
+          1164,
+          544
+        ],
+        [
+          224,
+          544
+        ]
+      ],
+      "score": 0.7364630699157715,
+      "y_pos": 491,
+      "text": "Phép chẩn bệnh bằng nhiệt độ kinh lạc",
+      "confidence": 0.9660484668536063
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0603_011_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          579
+        ],
+        [
+          555,
+          579
+        ],
+        [
+          555,
+          635
+        ],
+        [
+          227,
+          635
+        ]
+      ],
+      "score": 0.9113317131996155,
+      "y_pos": 579,
+      "text": "1. Nguồn gốc",
+      "confidence": 0.8427061906882695
+    },
+    {
+      "type": "text",
+      "img_path": "p0603_007_text.png",
+      "bbox": [
+        [
+          279,
+          671
+        ],
+        [
+          2359,
+          671
+        ],
+        [
+          2359,
+          799
+        ],
+        [
+          279,
+          799
+        ]
+      ],
+      "score": 0.9563525319099426,
+      "y_pos": 671,
+      "text": "Đo nhiệt độ tỉnh huyệt bằng nhiệt kế điện tử để chẩn đoán bệnh là một bước phát triển của\nxúc chẩn, do đó không ngoài tứ chẩn của Đông y.",
+      "confidence": 0.999723566476741
+    },
+    {
+      "type": "text",
+      "img_path": "p0603_006_text.png",
+      "bbox": [
+        [
+          279,
+          832
+        ],
+        [
+          2360,
+          832
+        ],
+        [
+          2360,
+          957
+        ],
+        [
+          279,
+          957
+        ]
+      ],
+      "score": 0.9592921733856201,
+      "y_pos": 832,
+      "text": "Tứ chấn của Đông y là cách gọi tắt bốn phương pháp: Vấn chẩn, vọng chẩn, văn chẩn và\nthiết chẩn.",
+      "confidence": 0.9983777853798568
+    },
+    {
+      "type": "text",
+      "img_path": "p0603_012_text.png",
+      "bbox": [
+        [
+          282,
+          996
+        ],
+        [
+          2078,
+          996
+        ],
+        [
+          2078,
+          1053
+        ],
+        [
+          282,
+          1053
+        ]
+      ],
+      "score": 0.9094957113265991,
+      "y_pos": 996,
+      "text": "Thiết chẩn trong tứ chẩn lại chia ra mạch chẩn (bắt mạch) và xúc chẩn (sờ nắn).",
+      "confidence": 0.9972589832765085
+    },
+    {
+      "type": "text",
+      "img_path": "p0603_005_text.png",
+      "bbox": [
+        [
+          280,
+          1088
+        ],
+        [
+          2360,
+          1088
+        ],
+        [
+          2360,
+          1214
+        ],
+        [
+          280,
+          1214
+        ]
+      ],
+      "score": 0.9608249664306641,
+      "y_pos": 1088,
+      "text": "Sách \"Tân biên Trung y học khái yếu\" (Nhân dân vệ sinh xuất bản xã - Bắc Kinh - 1974) viết\nvề nội dung xúc chẩn như sau:",
+      "confidence": 0.9940831961859995
+    },
+    {
+      "type": "text",
+      "img_path": "p0603_002_text.png",
+      "bbox": [
+        [
+          278,
+          1250
+        ],
+        [
+          2360,
+          1250
+        ],
+        [
+          2360,
+          1587
+        ],
+        [
+          278,
+          1587
+        ]
+      ],
+      "score": 0.9811579585075378,
+      "y_pos": 1250,
+      "text": "\"Xúc chẩn chủ yếu co nắn ngực bụng để thấy mềm cứng, có đau hay không, có hòn cục hay\nkhông; sờ nắn tứ chi để xem có gãy xương, bong gân hay không; sờ nắn da xem mát hay\nkhông; sờ nắn kinh mạch xem có phản ứng bệnh lý hay không?... Sờ nắn kinh lạc là sờ ấn\ncác huyệt trên kinh lạc để tìm điểm phản ứng bệnh lý theo phương pháp chẩn đoán trị liệu\ncủa kinh lạc ở phép châm cứu đã nói rõ\".",
+      "confidence": 0.9990439465860671
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0603_010_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1629
+        ],
+        [
+          757,
+          1629
+        ],
+        [
+          757,
+          1677
+        ],
+        [
+          225,
+          1677
+        ]
+      ],
+      "score": 0.9122019410133362,
+      "y_pos": 1629,
+      "text": "2. Quá trình phát triển",
+      "confidence": 0.9324462366104126
+    },
+    {
+      "type": "text",
+      "img_path": "p0603_015_text.png",
+      "bbox": [
+        [
+          284,
+          1721
+        ],
+        [
+          1959,
+          1721
+        ],
+        [
+          1959,
+          1769
+        ],
+        [
+          284,
+          1769
+        ]
+      ],
+      "score": 0.7437345385551453,
+      "y_pos": 1721,
+      "text": "a. Từ \"Xúc chấn\": Người xưa khi xúc chấn ở tứ chi có hai mức như sau:",
+      "confidence": 0.9918280353008861
+    },
+    {
+      "type": "text",
+      "img_path": "p0603_000_text.png",
+      "bbox": [
+        [
+          297,
+          1814
+        ],
+        [
+          2359,
+          1814
+        ],
+        [
+          2359,
+          2148
+        ],
+        [
+          297,
+          2148
+        ]
+      ],
+      "score": 0.9823395609855652,
+      "y_pos": 1814,
+      "text": "\n    Sò cả hai phía lòng bàn tay và mu bàn tay của người bệnh, phân biệt dương cứng\n\n(ngoại cảm) hay bệnh âm chứng (nội thương). Phía mu bàn tay nóng hơn là dương\nchứng (ngoại cảm), bởi vì bệnh ngoại cảm dương chứng thường là khu trú ở dương\nkinh. Phía lòng bàn tay nóng hơn là âm chứng (nội thương), bởi vì bệnh nội thương âm\nchứng thường là phát ở âm kinh.",
+      "confidence": 0.9942031315652526
+    },
+    {
+      "type": "text",
+      "img_path": "p0603_004_text.png",
+      "bbox": [
+        [
+          298,
+          2187
+        ],
+        [
+          2362,
+          2187
+        ],
+        [
+          2362,
+          2379
+        ],
+        [
+          298,
+          2379
+        ]
+      ],
+      "score": 0.9715070724487305,
+      "y_pos": 2187,
+      "text": "\n    Sau khi đã phân biệt bệnh ngoại cảm hay nội thương, lại tiến thêm một bước, so sánh\n\ngiữa các ngón tay tìm xem nóng hay lạnh rõ rệt ở ngón nào, từ đó biết được bênh ở\nđường kinh nào.",
+      "confidence": 0.9934473986212901
+    },
+    {
+      "type": "text",
+      "img_path": "p0603_003_text.png",
+      "bbox": [
+        [
+          279,
+          2419
+        ],
+        [
+          2361,
+          2419
+        ],
+        [
+          2361,
+          2615
+        ],
+        [
+          279,
+          2615
+        ]
+      ],
+      "score": 0.9741361737251282,
+      "y_pos": 2419,
+      "text": "Tuy nhiên, cách xúc chẩn này chỉ cho ta biết được đại cương bệnh ngoại cảm hay nội\nthương, bệnh ở đường kinh nào, còn như mức độ nặng hay nhẹ và tương quan giữa các\ntạng phủ, kinh lạc phải dựa vào các chẩn khác nữa mới đủ tin dùng.",
+      "confidence": 0.9997495109417353
+    },
+    {
+      "type": "text",
+      "img_path": "p0603_001_text.png",
+      "bbox": [
+        [
+          278,
+          2653
+        ],
+        [
+          2360,
+          2653
+        ],
+        [
+          2360,
+          2991
+        ],
+        [
+          278,
+          2991
+        ]
+      ],
+      "score": 0.9821435809135437,
+      "y_pos": 2653,
+      "text": "<b>b. Đến “tri nhiệt cảm độ”:</b> Khoảng những năm 60, trong quyển 3, bộ sách Châm cứu học,\nvới tiêu đề “Chẩn đoán học”, do Thượng Hải biên soạn, phát hành, có giới thiệu phép “Tri\nnhiệt cảm độ\" của Xích Vũ người Nhật Bản. Phép này dựa vào sức chịu nóng của các tỉnh\nhuyệt khác nhau để nhận định: Huyệt chịu nhiệt thời gian ngắn trội là đường kinh đó đang có\nhàn, số lớn đường kinh có thời gian chịu nhiệt tương đương nhau lấy làm trung bình.",
+      "confidence": 0.9890069772294406
+    },
+    {
+      "type": "number",
+      "img_path": "p0603_014_number.png",
+      "bbox": [
+        [
+          2330,
+          3338
+        ],
+        [
+          2355,
+          3338
+        ],
+        [
+          2355,
+          3374
+        ],
+        [
+          2330,
+          3374
+        ]
+      ],
+      "score": 0.798875093460083,
+      "y_pos": 3338,
+      "text": "\n\n\n\n\n    ۰\n\n",
+      "confidence": 0.9487382339106666
+    },
+    {
+      "type": "footer",
+      "img_path": "p0603_013_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.8997802138328552,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987586095647992
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0603.png"
+}

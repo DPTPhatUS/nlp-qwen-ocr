@@ -1,0 +1,396 @@
+{
+  "page_num": 29,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0029_008_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9233527183532715,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.723309953652677
+    },
+    {
+      "type": "header",
+      "img_path": "p0029_010_header.png",
+      "bbox": [
+        [
+          229,
+          154
+        ],
+        [
+          743,
+          154
+        ],
+        [
+          743,
+          203
+        ],
+        [
+          229,
+          203
+        ]
+      ],
+      "score": 0.9073941111564636,
+      "y_pos": 154,
+      "text": "HOC THUYẾT TANG PHỦ",
+      "confidence": 0.6463617370242164
+    },
+    {
+      "type": "text",
+      "img_path": "p0029_007_text.png",
+      "bbox": [
+        [
+          280,
+          303
+        ],
+        [
+          2356,
+          303
+        ],
+        [
+          2356,
+          429
+        ],
+        [
+          280,
+          429
+        ]
+      ],
+      "score": 0.9616188406944275,
+      "y_pos": 303,
+      "text": "giáng Phế cũng tốt. Có một số chứng thực nhiệt ở Phế, ngoài việc thanh Phế, còn cần thông\nđại tiện. Kết hợp cả hai việc này thường thu được kết quả rất tốt.",
+      "confidence": 0.9992997376964643
+    },
+    {
+      "type": "text",
+      "img_path": "p0029_006_text.png",
+      "bbox": [
+        [
+          279,
+          460
+        ],
+        [
+          2357,
+          460
+        ],
+        [
+          2357,
+          655
+        ],
+        [
+          279,
+          655
+        ]
+      ],
+      "score": 0.9734739661216736,
+      "y_pos": 460,
+      "text": "Theo sinh lý và bệnh lý kể trên, về cơ bản Tây và Đông y đều giảng giống nhau. Nhưng\nĐông y giảng về Phế, ngoài công năng về hô hấp, lại bao quát một bộ phận tuần hoàn huyết\ndịch, trao đổi chất lỏng và công năng điều tiết thân nhiệt.",
+      "confidence": 0.9955559880972578
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0029_009_paragraph_title.png",
+      "bbox": [
+        [
+          223,
+          700
+        ],
+        [
+          789,
+          700
+        ],
+        [
+          789,
+          750
+        ],
+        [
+          223,
+          750
+        ]
+      ],
+      "score": 0.9209335446357727,
+      "y_pos": 700,
+      "text": "Đ. Thận và bàng quang",
+      "confidence": 0.8152622321377629
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0029_013_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          781
+        ],
+        [
+          993,
+          781
+        ],
+        [
+          993,
+          833
+        ],
+        [
+          286,
+          833
+        ]
+      ],
+      "score": 0.8229947686195374,
+      "y_pos": 781,
+      "text": "1. Sinh lý và bệnh lý của thận",
+      "confidence": 0.9154623262584209
+    },
+    {
+      "type": "text",
+      "img_path": "p0029_002_text.png",
+      "bbox": [
+        [
+          284,
+          865
+        ],
+        [
+          2359,
+          865
+        ],
+        [
+          2359,
+          1201
+        ],
+        [
+          284,
+          1201
+        ]
+      ],
+      "score": 0.9827744364738464,
+      "y_pos": 865,
+      "text": "a. Thận chủ tàng tinh: Công.năng của Thận là tàng tinh. Có thể chia làm hai loại: chứa\n\"tinh\" sinh dục, cũng là chủ quản việc sinh sản của con người. Mặt khác, còn chứa tinh\ncủa lục phủ, ngũ tạng, cũng là chủ quản việc sinh trưởng của con người, bao gồm sự phát\ndục và các hoạt động trọng yếu khác. Trên lâm sàng, số lớn bệnh Thận là chứng hư.\nBệnh ở hệ sinh dục và có một số bệnh ở hệ nội tiết có thể dùng phép bồ Thận mà chữa.",
+      "confidence": 0.9881614431888621
+    },
+    {
+      "type": "text",
+      "img_path": "p0029_004_text.png",
+      "bbox": [
+        [
+          285,
+          1231
+        ],
+        [
+          2359,
+          1231
+        ],
+        [
+          2359,
+          1491
+        ],
+        [
+          285,
+          1491
+        ]
+      ],
+      "score": 0.9778255820274353,
+      "y_pos": 1231,
+      "text": "b. Thận chủ thủy: Thận là cơ quan trọng yếu để điều tiết và thay thế nước trong cơ thể, cho\nnên gọi Thận là \"thủy tạng\". Thận có bệnh, điều tiết nước không bình thường, làm khó đái,\nthủy dịch đình lưu, phù toàn thân, hoặc đái không ngừng, uống nhiều, đái nhiều, đái són,\nđái dầm.",
+      "confidence": 0.997902465852595
+    },
+    {
+      "type": "text",
+      "img_path": "p0029_001_text.png",
+      "bbox": [
+        [
+          285,
+          1528
+        ],
+        [
+          2359,
+          1528
+        ],
+        [
+          2359,
+          1935
+        ],
+        [
+          285,
+          1935
+        ]
+      ],
+      "score": 0.9848037958145142,
+      "y_pos": 1528,
+      "text": "c. Thận chủ xương, sính tủy, thông về não: Thận tàng tinh, tinh sinh tủy. Thận và não có\nquan hệ. Thận tinh đầy đủ thì xương, tủy, não đều khỏe mạnh, chân tay nhanh nhẹn, có\nsức hành động linh lợi, tinh lực dồi dào, tai thông, mắt sáng. Thận tinh không đủ thường\nsinh ra động tác chậm chạp, xương mềm, sức yếu, thiếu máu hoặc choáng váng hay\nquên, cũng như trẻ em bị chứng trí lực phát triển chậm. Ngoài ra, răng là chỗ thừa của\nxương, nếu Thận khí hư suy thì răng lợi dễ bị lỏng lẻo và rụng.",
+      "confidence": 0.9984055012264551
+    },
+    {
+      "type": "text",
+      "img_path": "p0029_000_text.png",
+      "bbox": [
+        [
+          286,
+          1966
+        ],
+        [
+          2359,
+          1966
+        ],
+        [
+          2359,
+          2372
+        ],
+        [
+          286,
+          2372
+        ]
+      ],
+      "score": 0.9851078391075134,
+      "y_pos": 1966,
+      "text": "d. Thận chủ mệnh môn hỏa: Thận là thủy tạng, nhưng lại chứa mệnh môn hỏa (Thận\ndương là lực lượng chủ yếu duy trì sinh mệnh, có tên mệnh môn hỏa). Thận hỏa và Thận\nthủy (thận tinh), một âm, một dương, cùng nhau duy trì sinh dục và sinh trưởng, phát dục,\ncũng như công năng của các tạng phủ. Mệnh môn hỏa suy dẫn đến xuất tinh sớm, liệt\ndương, không đủ sức sưởi ấm Tỳ gây ra bệnh là chảy mạn tính. Mệnh môn hỏa vượng sẽ\nxuất hiện mộng tinh, di tinh, tình dục tăng tiến, bứt rứt.",
+      "confidence": 0.971365711417623
+    },
+    {
+      "type": "text",
+      "img_path": "p0029_003_text.png",
+      "bbox": [
+        [
+          285,
+          2402
+        ],
+        [
+          2360,
+          2402
+        ],
+        [
+          2360,
+          2666
+        ],
+        [
+          285,
+          2666
+        ]
+      ],
+      "score": 0.9788016080856323,
+      "y_pos": 2402,
+      "text": "đ. Thận chủ nạp khí: Hô hấp tuy do Phế chủ quản nhưng tất nhiên cần sự hiệp đồng của\nThận. Thận có tác dụng hỗ trợ phế hít khí, giáng khí gọi là \"nạp khí\". Nếu Thận không nạp\nkhí sẽ sinh ra hư suyễn, ngắn hơi. Đặc điểm của loại hư suyễn này là thở nhiều, hít ít. Trị\nliệu lâm sàng cần theo cách bổ Thân.",
+      "confidence": 0.997270035925495
+    },
+    {
+      "type": "text",
+      "img_path": "p0029_005_text.png",
+      "bbox": [
+        [
+          286,
+          2699
+        ],
+        [
+          2358,
+          2699
+        ],
+        [
+          2358,
+          2965
+        ],
+        [
+          286,
+          2965
+        ]
+      ],
+      "score": 0.9740580320358276,
+      "y_pos": 2699,
+      "text": "e. Thận khai khiếu ở tai (phía trên), ở nhị âm* (phía dưới): Tai và Thận liên quan với nhau,\nvì là khiếu trên của Thận, cho nên Thận khí sung túc thì tai nghe được bình thường, thận\nkhí hư thì tại ù, tại điếc. Nhi âm là lỗ đít và lỗ đái, là khiếu dưới của Thân, cho nên sư bài\ntiết của Thận có liên quan đến đái, ỉa. Nếu thận khí hư sẽ đưa đến đái không cầm hoặc",
+      "confidence": 0.9989809357560487
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0029_012_footnote.png",
+      "bbox": [
+        [
+          228,
+          3154
+        ],
+        [
+          1203,
+          3154
+        ],
+        [
+          1203,
+          3207
+        ],
+        [
+          228,
+          3207
+        ]
+      ],
+      "score": 0.8531184792518616,
+      "y_pos": 3154,
+      "text": "* Nhị âm: chỗ đái và chỗ ỉa, gọi là tiền âm và hậu âm",
+      "confidence": 0.978931252522902
+    },
+    {
+      "type": "footer",
+      "img_path": "p0029_011_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3386
+        ],
+        [
+          228,
+          3386
+        ]
+      ],
+      "score": 0.9019525647163391,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9360493050431306
+    },
+    {
+      "type": "number",
+      "img_path": "p0029_014_number.png",
+      "bbox": [
+        [
+          2332,
+          3339
+        ],
+        [
+          2357,
+          3339
+        ],
+        [
+          2357,
+          3374
+        ],
+        [
+          2332,
+          3374
+        ]
+      ],
+      "score": 0.8152785301208496,
+      "y_pos": 3339,
+      "text": "\n\n    \n\n\n\n\n\n\n            \n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0029.png"
+}

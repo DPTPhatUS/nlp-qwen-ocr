@@ -1,0 +1,472 @@
+{
+  "page_num": 94,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0094_006_header.png",
+      "bbox": [
+        [
+          1607,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9306311011314392,
+      "y_pos": 143,
+      "text": "~>\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6978494819431078
+    },
+    {
+      "type": "header",
+      "img_path": "p0094_014_header.png",
+      "bbox": [
+        [
+          231,
+          160
+        ],
+        [
+          442,
+          160
+        ],
+        [
+          442,
+          202
+        ],
+        [
+          231,
+          202
+        ]
+      ],
+      "score": 0.9073892831802368,
+      "y_pos": 160,
+      "text": "KINH LAC",
+      "confidence": 0.7441844046115875
+    },
+    {
+      "type": "text",
+      "img_path": "p0094_004_text.png",
+      "bbox": [
+        [
+          337,
+          297
+        ],
+        [
+          2357,
+          297
+        ],
+        [
+          2357,
+          414
+        ],
+        [
+          337,
+          414
+        ]
+      ],
+      "score": 0.9640750885009766,
+      "y_pos": 297,
+      "text": "trục giữa đi ra trước trán, xuống đến dưới đầu mũi đến phía trong môi trên thì nối tiếp với\nnhâm mạch (H20)",
+      "confidence": 0.9930935556529671
+    },
+    {
+      "type": "text",
+      "img_path": "p0094_007_text.png",
+      "bbox": [
+        [
+          340,
+          443
+        ],
+        [
+          1650,
+          443
+        ],
+        [
+          1650,
+          495
+        ],
+        [
+          340,
+          495
+        ]
+      ],
+      "score": 0.9292405247688293,
+      "y_pos": 443,
+      "text": "Chủ trị: Cấp cứu, bệnh tình chí, đau đầu, lưng đau, uốn ván.",
+      "confidence": 0.705108271491143
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0094_010_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          529
+        ],
+        [
+          635,
+          529
+        ],
+        [
+          635,
+          577
+        ],
+        [
+          286,
+          577
+        ]
+      ],
+      "score": 0.9215096235275269,
+      "y_pos": 529,
+      "text": "2. Nhâm mach",
+      "confidence": 0.9180336381707873
+    },
+    {
+      "type": "text",
+      "img_path": "p0094_002_text.png",
+      "bbox": [
+        [
+          338,
+          610
+        ],
+        [
+          2358,
+          610
+        ],
+        [
+          2358,
+          788
+        ],
+        [
+          338,
+          788
+        ]
+      ],
+      "score": 0.9738308191299438,
+      "y_pos": 610,
+      "text": "Gồm 24 huyệt. Kinh mạch bắt đầu tuần hành từ bụng dưới, ra từ huyệt Hội âm, hướng lên\ngò mu đến Trung cực thì đi vào bụng, theo đường giữa bụng đi lên vòng môi, qua hai má\nmặt và phía dưới ổ mắt thì dứt. (H.21)",
+      "confidence": 0.9994174024211492
+    },
+    {
+      "type": "text",
+      "img_path": "p0094_003_text.png",
+      "bbox": [
+        [
+          338,
+          818
+        ],
+        [
+          2357,
+          818
+        ],
+        [
+          2357,
+          934
+        ],
+        [
+          338,
+          934
+        ]
+      ],
+      "score": 0.9645681381225586,
+      "y_pos": 818,
+      "text": "Chủ trị: Bụng dưới đau, bí đái, đái dầm, kinh nguyệt không đều, chảy máy dạ con, sán\nkhí, hư thoát, đau dạ dày, ỉa chảy, ho hen.",
+      "confidence": 0.9946418872637341
+    },
+    {
+      "type": "text",
+      "img_path": "p0094_001_text.png",
+      "bbox": [
+        [
+          338,
+          965
+        ],
+        [
+          2356,
+          965
+        ],
+        [
+          2356,
+          1141
+        ],
+        [
+          338,
+          1141
+        ]
+      ],
+      "score": 0.9752851724624634,
+      "y_pos": 965,
+      "text": "Kinh này ngoài hai huyệt Quan nguyên, Khí hải có tác dụng bổi bổ sức khoẻ toàn thân,\ncác huyệt còn lại nói chung chỉ có tác dụng chữa các bệnh cục bộ (bao gồm cả nội tạng\nnơi đó).",
+      "confidence": 0.9978996408232114
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0094_008_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          1175
+        ],
+        [
+          621,
+          1175
+        ],
+        [
+          621,
+          1225
+        ],
+        [
+          284,
+          1225
+        ]
+      ],
+      "score": 0.9234710931777954,
+      "y_pos": 1175,
+      "text": "3. Xung mach",
+      "confidence": 0.9412420519760677
+    },
+    {
+      "type": "text",
+      "img_path": "p0094_005_text.png",
+      "bbox": [
+        [
+          337,
+          1256
+        ],
+        [
+          2355,
+          1256
+        ],
+        [
+          2355,
+          1371
+        ],
+        [
+          337,
+          1371
+        ]
+      ],
+      "score": 0.9613377451896667,
+      "y_pos": 1256,
+      "text": "Xung mạch và nhâm mạch cùng bắt đầu từ huyệt <i>Hội âm,</i> hướng đi lên ven theo cột sống\ntrong sâu, tản vào trong ngực, hội với hầu.",
+      "confidence": 0.9946646304879608
+    },
+    {
+      "type": "text",
+      "img_path": "p0094_009_text.png",
+      "bbox": [
+        [
+          342,
+          1403
+        ],
+        [
+          1237,
+          1403
+        ],
+        [
+          1237,
+          1456
+        ],
+        [
+          342,
+          1456
+        ]
+      ],
+      "score": 0.9230698943138123,
+      "y_pos": 1403,
+      "text": "Chủ trị: Khí xông ngược lên, đau bụng.",
+      "confidence": 0.8090928286314011
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0094_011_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          1487
+        ],
+        [
+          584,
+          1487
+        ],
+        [
+          584,
+          1536
+        ],
+        [
+          283,
+          1536
+        ]
+      ],
+      "score": 0.9175122380256653,
+      "y_pos": 1487,
+      "text": "4. Đới mach",
+      "confidence": 0.9913088129116938
+    },
+    {
+      "type": "text",
+      "img_path": "p0094_012_text.png",
+      "bbox": [
+        [
+          341,
+          1569
+        ],
+        [
+          1635,
+          1569
+        ],
+        [
+          1635,
+          1622
+        ],
+        [
+          341,
+          1622
+        ]
+      ],
+      "score": 0.9169418811798096,
+      "y_pos": 1569,
+      "text": "Bắt đầu từ dưới sườn cụt, vòng quanh thân một vòng kín.",
+      "confidence": 0.9995201355532596
+    },
+    {
+      "type": "text",
+      "img_path": "p0094_016_text.png",
+      "bbox": [
+        [
+          341,
+          1650
+        ],
+        [
+          1619,
+          1650
+        ],
+        [
+          1619,
+          1706
+        ],
+        [
+          341,
+          1706
+        ]
+      ],
+      "score": 0.8948673009872437,
+      "y_pos": 1650,
+      "text": "Chủ trị: Trong bụng đầy tức, phần lưng không mềm mại.",
+      "confidence": 0.8242164145816456
+    },
+    {
+      "type": "image",
+      "img_path": "p0094_000_image.png",
+      "bbox": [
+        [
+          848,
+          1763
+        ],
+        [
+          1805,
+          1763
+        ],
+        [
+          1805,
+          3038
+        ],
+        [
+          848,
+          3038
+        ]
+      ],
+      "score": 0.9797961711883545,
+      "y_pos": 1763
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0094_015_figure_title.png",
+      "bbox": [
+        [
+          1149,
+          3132
+        ],
+        [
+          1556,
+          3132
+        ],
+        [
+          1556,
+          3179
+        ],
+        [
+          1149,
+          3179
+        ]
+      ],
+      "score": 0.8961266279220581,
+      "y_pos": 3132,
+      "text": "Hình 20. Mach Đốc",
+      "confidence": 0.6620599188302693
+    },
+    {
+      "type": "footer",
+      "img_path": "p0094_013_footer.png",
+      "bbox": [
+        [
+          230,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          230,
+          3387
+        ]
+      ],
+      "score": 0.9166923761367798,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.998433677655346
+    },
+    {
+      "type": "number",
+      "img_path": "p0094_017_number.png",
+      "bbox": [
+        [
+          2332,
+          3338
+        ],
+        [
+          2382,
+          3338
+        ],
+        [
+          2382,
+          3373
+        ],
+        [
+          2332,
+          3373
+        ]
+      ],
+      "score": 0.8766619563102722,
+      "y_pos": 3338,
+      "text": "    \n    \n    \n\n    \n    \n    \n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0094.png"
+}

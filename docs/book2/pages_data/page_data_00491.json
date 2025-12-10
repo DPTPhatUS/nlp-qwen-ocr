@@ -1,0 +1,214 @@
+{
+  "page_num": 491,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0491_003_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2370,
+          143
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9130176305770874,
+      "y_pos": 143,
+      "text": "~?    ~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6787885708941355
+    },
+    {
+      "type": "header",
+      "img_path": "p0491_002_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1449,
+          150
+        ],
+        [
+          1449,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9132089018821716,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BÊNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9958260162518575
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0491_004_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          329
+        ],
+        [
+          950,
+          329
+        ],
+        [
+          950,
+          382
+        ],
+        [
+          226,
+          382
+        ]
+      ],
+      "score": 0.8979146480560303,
+      "y_pos": 329,
+      "text": "60. Nghẹn (co thắt thực quản)",
+      "confidence": 0.9962525636919083
+    },
+    {
+      "type": "text",
+      "img_path": "p0491_001_text.png",
+      "bbox": [
+        [
+          222,
+          417
+        ],
+        [
+          2361,
+          417
+        ],
+        [
+          2361,
+          547
+        ],
+        [
+          222,
+          547
+        ]
+      ],
+      "score": 0.9202815294265747,
+      "y_pos": 417,
+      "text": "Nghẹn là một bệnh mạn tính, rất khó chữa. Nghẹn bao gồm chứng nuốt đồ ăn uống cảm thấy\ncó vật vướng tắc và chứng nuốt nước xuống được mà đồ ăn không xuống.",
+      "confidence": 0.9988825294007728
+    },
+    {
+      "type": "text",
+      "img_path": "p0491_000_text.png",
+      "bbox": [
+        [
+          222,
+          579
+        ],
+        [
+          2359,
+          579
+        ],
+        [
+          2359,
+          849
+        ],
+        [
+          222,
+          849
+        ]
+      ],
+      "score": 0.9566109776496887,
+      "y_pos": 579,
+      "text": "Triệu chứng tắc dưới vùng ngực, đến bữa ăn không nuốt được. Nếu nuốt xuống được thì trong\ndạ dày có cảm giác cồn cào đau đớn. Kết quả là đau làm giảm dinh dưỡng, nên gầy trơ xương,\nphân rắn như cứt dê. Bệnh rất khó chữa. Khi bệnh mới phát, ngoài chăm sóc tinh thần ra có thể\ndùng châm cứu để chữa dần dần.",
+      "confidence": 0.9989877200295156
+    },
+    {
+      "type": "text",
+      "img_path": "p0491_007_text.png",
+      "bbox": [
+        [
+          283,
+          979
+        ],
+        [
+          2141,
+          979
+        ],
+        [
+          2141,
+          1035
+        ],
+        [
+          283,
+          1035
+        ]
+      ],
+      "score": 0.5335777401924133,
+      "y_pos": 979,
+      "text": "Châm xong rồi cứu. Nếu bệnh lâu ngày người gầy yếu thì có thể thêm <i>Tỳ du, Vị du</i>.",
+      "confidence": 0.9925562271050045
+    },
+    {
+      "type": "number",
+      "img_path": "p0491_006_number.png",
+      "bbox": [
+        [
+          2305,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2305,
+          3335
+        ]
+      ],
+      "score": 0.8521497249603271,
+      "y_pos": 3300,
+      "text": "    \n    \n\n\n    \n    \n.\n\n",
+      "confidence": 0.9551826268434525
+    },
+    {
+      "type": "footer",
+      "img_path": "p0491_005_footer.png",
+      "bbox": [
+        [
+          229,
+          3310
+        ],
+        [
+          1325,
+          3310
+        ],
+        [
+          1325,
+          3356
+        ],
+        [
+          229,
+          3356
+        ]
+      ],
+      "score": 0.8933049440383911,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985828905735376
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0491.png"
+}

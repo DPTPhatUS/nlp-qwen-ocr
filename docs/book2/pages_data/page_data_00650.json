@@ -1,0 +1,578 @@
+{
+  "page_num": 650,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0650_006_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9261789321899414,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0650_014_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9164488315582275,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0650_008_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          310
+        ],
+        [
+          997,
+          310
+        ],
+        [
+          997,
+          360
+        ],
+        [
+          284,
+          360
+        ]
+      ],
+      "score": 0.9236013293266296,
+      "y_pos": 310,
+      "text": "c. Giảng nghĩa phương huyệt",
+      "confidence": 0.9980974690667515
+    },
+    {
+      "type": "text",
+      "img_path": "p0650_000_text.png",
+      "bbox": [
+        [
+          278,
+          400
+        ],
+        [
+          2360,
+          400
+        ],
+        [
+          2360,
+          947
+        ],
+        [
+          278,
+          947
+        ]
+      ],
+      "score": 0.9871094226837158,
+      "y_pos": 400,
+      "text": "Cứu <i>Tam giác pháp</i> là phương huyệt trị đau bụng dưới do Tiểu trường khí thống và sa hạ\nnang, sưng bìu rất có hiệu nghiệm. Chích <i>Đại đôn</i> nặn máu để tả mộc khí ở Can kinh gây\nđau co thắt ở bụng dưới, đau hạ nang và những nơi Can kinh đi qua (tỉnh hành mộc). Khi\nhải, Thái xung, Nội đình là phương huyệt trị cơn đau quặn gây ra đau dọc theo cơ thắng\nbụng từ cạnh sườn xuống bụng dưới, kể cả có đau sang mạng sườn cũng rất hiệu quả. Sán\nkhí theo đường kinh thì đau khu vực kinh thận đi qua, chứng đau co kéo lại là chứng của\nCan, do đó ngày xưa thường bàn mà chưa có khẳng định được nguyên nhân chủ yếu. Tuy\nvậy các phương trên đã dựa vào chữa Can khí mà có hiệu quả.",
+      "confidence": 0.9968940324043325
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0650_011_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          989
+        ],
+        [
+          586,
+          989
+        ],
+        [
+          586,
+          1034
+        ],
+        [
+          225,
+          1034
+        ]
+      ],
+      "score": 0.9209127426147461,
+      "y_pos": 989,
+      "text": "B. Can và Đảm",
+      "confidence": 0.9826913237571716
+    },
+    {
+      "type": "text",
+      "img_path": "p0650_001_text.png",
+      "bbox": [
+        [
+          220,
+          1076
+        ],
+        [
+          2359,
+          1076
+        ],
+        [
+          2359,
+          1344
+        ],
+        [
+          220,
+          1344
+        ]
+      ],
+      "score": 0.9818971753120422,
+      "y_pos": 1076,
+      "text": "Công năng sinh lý của Can chủ yếu là sơ tiết và tàng huyết. Khi có biến hoá bệnh lý, chủ yếu là\ndo sơ tiết bất thường làm cho Can uất, Can hoả vượng, Can dương thượng cang, Can âm bất\ntúc. Can mất sơ tiết, hoặc Can hoả thịnh đều ảnh hưởng đến công năng tàng huyết của Can\nmà xuất hiện chứng xuất huyết. Bệnh thường thấy của Đảm là chứng Đảm nhiệt.",
+      "confidence": 0.9983798353862865
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0650_010_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1382
+        ],
+        [
+          651,
+          1382
+        ],
+        [
+          651,
+          1429
+        ],
+        [
+          226,
+          1429
+        ]
+      ],
+      "score": 0.9215799570083618,
+      "y_pos": 1382,
+      "text": "1. Can khí uất kết",
+      "confidence": 0.9115231305360794
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0650_018_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          1475
+        ],
+        [
+          1103,
+          1475
+        ],
+        [
+          1103,
+          1523
+        ],
+        [
+          224,
+          1523
+        ]
+      ],
+      "score": 0.889056384563446,
+      "y_pos": 1475,
+      "text": "Mô hình chỉ số nhiệt kinh lạc cơ bản",
+      "confidence": 0.9977187937811801
+    },
+    {
+      "type": "text",
+      "img_path": "p0650_005_text.png",
+      "bbox": [
+        [
+          221,
+          1565
+        ],
+        [
+          2359,
+          1565
+        ],
+        [
+          2359,
+          1688
+        ],
+        [
+          221,
+          1688
+        ]
+      ],
+      "score": 0.961758553981781,
+      "y_pos": 1565,
+      "text": "Can (+BL), nghĩa là kinh Can có trạng thái nhiệt bệnh lý. Số tương quan của kinh Can có giá trị\ntuyệt đối lớn hơn sai số giới hạn và mang dấu +.",
+      "confidence": 0.9992723514615875
+    },
+    {
+      "type": "text",
+      "img_path": "p0650_003_text.png",
+      "bbox": [
+        [
+          278,
+          1729
+        ],
+        [
+          2362,
+          1729
+        ],
+        [
+          2362,
+          1994
+        ],
+        [
+          278,
+          1994
+        ]
+      ],
+      "score": 0.9809470772743225,
+      "y_pos": 1729,
+      "text": "a. Triệu chứng: Hấp tấp, dễ cáu, hoặc tinh thần uất ức, chướng đau hai mạng sườn hoặc\nđau nhói, vừa thở vừa rên, ăn không ngon, miệng đắng hoặc nôn mửa, bụng đau, ỉa chảy,\nkinh nguyệt không đều, rêu lưỡi trắng nhuận, mạch huyền. Nếu Can uất đã lâu dẫn đến Can\nứ huyết sẽ kiêm có báng (gan, lách sưng to), ven lưỡi có nốt ban ứ, mạch huyền hoặc sáp.",
+      "confidence": 0.99867945577587
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0650_019_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          2033
+        ],
+        [
+          982,
+          2033
+        ],
+        [
+          982,
+          2082
+        ],
+        [
+          283,
+          2082
+        ]
+      ],
+      "score": 0.8807721734046936,
+      "y_pos": 2033,
+      "text": "Mô hình chỉ số nhiệt kinh lạc",
+      "confidence": 0.9978424637548385
+    },
+    {
+      "type": "text",
+      "img_path": "p0650_013_text.png",
+      "bbox": [
+        [
+          281,
+          2124
+        ],
+        [
+          1721,
+          2124
+        ],
+        [
+          1721,
+          2179
+        ],
+        [
+          281,
+          2179
+        ]
+      ],
+      "score": 0.9201070666313171,
+      "y_pos": 2124,
+      "text": "Can (+BL), Đảm (-), Tỳ (-), Vị (-), Phế (+), Tâm bào (+), Tâm (+).",
+      "confidence": 0.9777212484794504
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0650_017_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          2219
+        ],
+        [
+          703,
+          2219
+        ],
+        [
+          703,
+          2266
+        ],
+        [
+          284,
+          2266
+        ]
+      ],
+      "score": 0.8891992568969727,
+      "y_pos": 2219,
+      "text": "b. Phương huyết",
+      "confidence": 0.9888127691605512
+    },
+    {
+      "type": "text",
+      "img_path": "p0650_007_text.png",
+      "bbox": [
+        [
+          282,
+          2308
+        ],
+        [
+          1306,
+          2308
+        ],
+        [
+          1306,
+          2359
+        ],
+        [
+          282,
+          2359
+        ]
+      ],
+      "score": 0.9252189993858337,
+      "y_pos": 2308,
+      "text": "Tả: Khố phòng, Nội quan, Thái xung, Chi câu.",
+      "confidence": 0.9862087485582932
+    },
+    {
+      "type": "text",
+      "img_path": "p0650_021_text.png",
+      "bbox": [
+        [
+          282,
+          2400
+        ],
+        [
+          630,
+          2400
+        ],
+        [
+          630,
+          2449
+        ],
+        [
+          282,
+          2449
+        ]
+      ],
+      "score": 0.7393401265144348,
+      "y_pos": 2400,
+      "text": "Bổ: Túc tam lý.",
+      "confidence": 0.824128459481632
+    },
+    {
+      "type": "text",
+      "img_path": "p0650_009_text.png",
+      "bbox": [
+        [
+          281,
+          2489
+        ],
+        [
+          2295,
+          2489
+        ],
+        [
+          2295,
+          2544
+        ],
+        [
+          281,
+          2544
+        ]
+      ],
+      "score": 0.9229711890220642,
+      "y_pos": 2489,
+      "text": "Uất kết lâu ngày gan lách sưng to, dùng bổ hoặc cứu: Tỳ du, Bĩ căn, Chương môn, Công tôn.",
+      "confidence": 0.999452966255146
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0650_015_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          2585
+        ],
+        [
+          1000,
+          2585
+        ],
+        [
+          1000,
+          2636
+        ],
+        [
+          285,
+          2636
+        ]
+      ],
+      "score": 0.9070813655853271,
+      "y_pos": 2585,
+      "text": "c. Giảng nghĩa phương huyệt",
+      "confidence": 0.9981069667585964
+    },
+    {
+      "type": "text",
+      "img_path": "p0650_002_text.png",
+      "bbox": [
+        [
+          280,
+          2671
+        ],
+        [
+          2361,
+          2671
+        ],
+        [
+          2361,
+          2938
+        ],
+        [
+          280,
+          2938
+        ]
+      ],
+      "score": 0.9818505644798279,
+      "y_pos": 2671,
+      "text": "Khố phòng có thể khai khí uất ở lồng ngực, Nội quan, Thái xung để sơ Can lý khí. Chi câu\nchữa các chứng đau vỏ lồng ngực. Bổ <i>Túc Tam lý</i> để dẫn hoả đi xuống, <i>Tỳ du, Bĩ căn,</i>\nChương môn, Công tôn có tác dụng bổ Can khí, Tỳ khí, phá cái gốc của sự bĩ, tăng vận hoá\nđào thải của Tỳ, do đó chữa được chứng gan lách sưng to.",
+      "confidence": 0.9634366077713821
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0650_012_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2982
+        ],
+        [
+          890,
+          2982
+        ],
+        [
+          890,
+          3031
+        ],
+        [
+          225,
+          3031
+        ]
+      ],
+      "score": 0.9205157160758972,
+      "y_pos": 2982,
+      "text": "2. Can dương thượng cang",
+      "confidence": 0.9167316624751458
+    },
+    {
+      "type": "text",
+      "img_path": "p0650_004_text.png",
+      "bbox": [
+        [
+          222,
+          3069
+        ],
+        [
+          2357,
+          3069
+        ],
+        [
+          2357,
+          3194
+        ],
+        [
+          222,
+          3194
+        ]
+      ],
+      "score": 0.9636331796646118,
+      "y_pos": 3069,
+      "text": "Mô hình chỉ số nhiệt kinh lạc cơ bản: Can (+BL), nghĩa là kinh Can có trạng thái nhiệt bệnh lý.\nSố tương quan của kinh Can có giá trị tuyệt đối lớn hơn sai số giới hạn và mang dấu +.",
+      "confidence": 0.9988183041069143
+    },
+    {
+      "type": "number",
+      "img_path": "p0650_020_number.png",
+      "bbox": [
+        [
+          2305,
+          3337
+        ],
+        [
+          2350,
+          3337
+        ],
+        [
+          2350,
+          3374
+        ],
+        [
+          2305,
+          3374
+        ]
+      ],
+      "score": 0.8549219369888306,
+      "y_pos": 3337,
+      "text": "    \n\n\n\n\n\n\n\n\n\n\n.\n٠.    \n٠.    \n\n\n    ",
+      "confidence": 0.9313092501390547
+    },
+    {
+      "type": "footer",
+      "img_path": "p0650_016_footer.png",
+      "bbox": [
+        [
+          227,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3388
+        ],
+        [
+          227,
+          3388
+        ]
+      ],
+      "score": 0.9011797904968262,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985032610173495
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0650.png"
+}

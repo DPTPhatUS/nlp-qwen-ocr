@@ -1,0 +1,448 @@
+{
+  "page_num": 147,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0147_013_header.png",
+      "bbox": [
+        [
+          1171,
+          503
+        ],
+        [
+          1304,
+          503
+        ],
+        [
+          1304,
+          547
+        ],
+        [
+          1171,
+          547
+        ]
+      ],
+      "score": 0.6808810234069824,
+      "y_pos": 503,
+      "text": "    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "doc_title",
+      "img_path": "p0147_014_doc_title.png",
+      "bbox": [
+        [
+          687,
+          642
+        ],
+        [
+          1781,
+          642
+        ],
+        [
+          1781,
+          726
+        ],
+        [
+          687,
+          726
+        ]
+      ],
+      "score": 0.6769693493843079,
+      "y_pos": 642,
+      "text": "BÊNH HOC THÂN - BÀNG QUANG",
+      "confidence": 0.5294857706342425
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0147_009_paragraph_title.png",
+      "bbox": [
+        [
+          347,
+          917
+        ],
+        [
+          599,
+          917
+        ],
+        [
+          599,
+          979
+        ],
+        [
+          347,
+          979
+        ]
+      ],
+      "score": 0.7269124388694763,
+      "y_pos": 917,
+      "text": "<b>MUC TIÊU</b>",
+      "confidence": 0.9584990243117014
+    },
+    {
+      "type": "text",
+      "img_path": "p0147_015_text.png",
+      "bbox": [
+        [
+          351,
+          1120
+        ],
+        [
+          2126,
+          1120
+        ],
+        [
+          2126,
+          1232
+        ],
+        [
+          351,
+          1232
+        ]
+      ],
+      "score": 0.6604084372520447,
+      "y_pos": 1120,
+      "text": "1. Nêu được tên gọi 7 hội chứng bệnh tạng Thận và phủ Bàng quang do nguyên\nnhân bên trong và nguyên nhân khác",
+      "confidence": 0.9919781194270005
+    },
+    {
+      "type": "text",
+      "img_path": "p0147_010_text.png",
+      "bbox": [
+        [
+          347,
+          1259
+        ],
+        [
+          2126,
+          1259
+        ],
+        [
+          2126,
+          1372
+        ],
+        [
+          347,
+          1372
+        ]
+      ],
+      "score": 0.7142913937568665,
+      "y_pos": 1259,
+      "text": "2. Giải thích được cơ sở lý luân của các hội chứng (từ nguyên nhân đến cơ chế sinh\nbênh và triêu chứng)",
+      "confidence": 0.9643475855519246
+    },
+    {
+      "type": "text",
+      "img_path": "p0147_016_text.png",
+      "bbox": [
+        [
+          348,
+          1402
+        ],
+        [
+          1343,
+          1402
+        ],
+        [
+          1343,
+          1456
+        ],
+        [
+          348,
+          1456
+        ]
+      ],
+      "score": 0.6349745392799377,
+      "y_pos": 1402,
+      "text": "3. Nêu được pháp trị của 7 hội chứng nói trên.",
+      "confidence": 0.9988077022135258
+    },
+    {
+      "type": "text",
+      "img_path": "p0147_012_text.png",
+      "bbox": [
+        [
+          348,
+          1486
+        ],
+        [
+          2127,
+          1486
+        ],
+        [
+          2127,
+          1599
+        ],
+        [
+          348,
+          1599
+        ]
+      ],
+      "score": 0.6955011487007141,
+      "y_pos": 1486,
+      "text": "4. Nêu được thành phần dược liệu của các bài thuốc và giải thích được cấu tạo (tác\ndụng, vai trò của từng vị) của những bài thuốc nêu trên.",
+      "confidence": 0.9977559401288212
+    },
+    {
+      "type": "text",
+      "img_path": "p0147_011_text.png",
+      "bbox": [
+        [
+          345,
+          1627
+        ],
+        [
+          2127,
+          1627
+        ],
+        [
+          2127,
+          1801
+        ],
+        [
+          345,
+          1801
+        ]
+      ],
+      "score": 0.7131783962249756,
+      "y_pos": 1627,
+      "text": "5. Nêu được công thức huyết và giải thích được cách cấu tạo (tác dụng của huyết)\ncủa công thức huyệt trên dựa theo cách vận dụng dụ, mộ, nguyên, lạc và ngũ dụ\nhuyêt cho 7 hôi chứng nói trên.",
+      "confidence": 0.9756166149312203
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0147_003_paragraph_title.png",
+      "bbox": [
+        [
+          350,
+          2064
+        ],
+        [
+          720,
+          2064
+        ],
+        [
+          720,
+          2116
+        ],
+        [
+          350,
+          2116
+        ]
+      ],
+      "score": 0.9361134171485901,
+      "y_pos": 2064,
+      "text": "1. ĐAI CƯƠNG",
+      "confidence": 0.9286422729492188
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0147_004_paragraph_title.png",
+      "bbox": [
+        [
+          348,
+          2165
+        ],
+        [
+          1295,
+          2165
+        ],
+        [
+          1295,
+          2214
+        ],
+        [
+          348,
+          2214
+        ]
+      ],
+      "score": 0.9245729446411133,
+      "y_pos": 2165,
+      "text": "1.1. Dưa trên cơ sở hâu thiên bát quái",
+      "confidence": 0.8395474061369896
+    },
+    {
+      "type": "text",
+      "img_path": "p0147_006_text.png",
+      "bbox": [
+        [
+          459,
+          2261
+        ],
+        [
+          2047,
+          2261
+        ],
+        [
+          2047,
+          2313
+        ],
+        [
+          459,
+          2313
+        ]
+      ],
+      "score": 0.8872194290161133,
+      "y_pos": 2261,
+      "text": "Theo Kinh dịch, tạng Thận ứng với quẻ Khảm của Hậu thiên bát quái",
+      "confidence": 0.9998447307899817
+    },
+    {
+      "type": "text",
+      "img_path": "p0147_007_text.png",
+      "bbox": [
+        [
+          461,
+          2344
+        ],
+        [
+          1261,
+          2344
+        ],
+        [
+          1261,
+          2395
+        ],
+        [
+          461,
+          2395
+        ]
+      ],
+      "score": 0.8857506513595581,
+      "y_pos": 2344,
+      "text": "Quẻ Khảm được giải thích như sau",
+      "confidence": 0.9988694944802452
+    },
+    {
+      "type": "text",
+      "img_path": "p0147_002_text.png",
+      "bbox": [
+        [
+          406,
+          2427
+        ],
+        [
+          2123,
+          2427
+        ],
+        [
+          2123,
+          2537
+        ],
+        [
+          406,
+          2537
+        ]
+      ],
+      "score": 0.958854079246521,
+      "y_pos": 2427,
+      "text": "– Tượng của Khảm là nước. Tạng Thận ứng với quẻ Khảm. Do đó Thận chủ\nthủy. \"Thận vi Thủy tạng\".",
+      "confidence": 0.993571865771498
+    },
+    {
+      "type": "text",
+      "img_path": "p0147_000_text.png",
+      "bbox": [
+        [
+          404,
+          2574
+        ],
+        [
+          2122,
+          2574
+        ],
+        [
+          2122,
+          2801
+        ],
+        [
+          404,
+          2801
+        ]
+      ],
+      "score": 0.9773899912834167,
+      "y_pos": 2574,
+      "text": "- Tượng trưng cho Hỏa nằm trong Thủy, là Dương nằm trong âm. Ứng với\ntính chất của quẻ mà người ta có quan niệm là Thận hỏa nằm giữa Thận\nthủy và vì quẻ Khảm là nguồn gốc sự sống nên Thận hỏa cũng là lửa của\nsư sống (mệnh môn hỏa).",
+      "confidence": 0.9923360884327523
+    },
+    {
+      "type": "text",
+      "img_path": "p0147_001_text.png",
+      "bbox": [
+        [
+          407,
+          2832
+        ],
+        [
+          2123,
+          2832
+        ],
+        [
+          2123,
+          2999
+        ],
+        [
+          407,
+          2999
+        ]
+      ],
+      "score": 0.9724466800689697,
+      "y_pos": 2832,
+      "text": "- Là nơi giữ lại. Do đó tạng Thận phải là nơi cất giữ tinh khí hậu thiên và\ntiên thiên của nhân thể. \"Thận là phong tàng chi bản\". (Lục tiết tạng\ntương luân/Tố Vấn).",
+      "confidence": 0.9948735006355433
+    },
+    {
+      "type": "number",
+      "img_path": "p0147_008_number.png",
+      "bbox": [
+        [
+          353,
+          3110
+        ],
+        [
+          434,
+          3110
+        ],
+        [
+          434,
+          3148
+        ],
+        [
+          353,
+          3148
+        ]
+      ],
+      "score": 0.8701858520507812,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0147_005_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1072,
+          3311
+        ],
+        [
+          1072,
+          3365
+        ],
+        [
+          293,
+          3365
+        ]
+      ],
+      "score": 0.9215775728225708,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.879438819204058
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0147.png"
+}

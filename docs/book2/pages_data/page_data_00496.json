@@ -1,0 +1,240 @@
+{
+  "page_num": 496,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0496_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          199
+        ],
+        [
+          1675,
+          199
+        ]
+      ],
+      "score": 0.9056736826896667,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7576648993861108
+    },
+    {
+      "type": "header",
+      "img_path": "p0496_000_header.png",
+      "bbox": [
+        [
+          230,
+          150
+        ],
+        [
+          1449,
+          150
+        ],
+        [
+          1449,
+          199
+        ],
+        [
+          230,
+          199
+        ]
+      ],
+      "score": 0.9085188508033752,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9955690239484494
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0496_002_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          330
+        ],
+        [
+          483,
+          330
+        ],
+        [
+          483,
+          376
+        ],
+        [
+          227,
+          376
+        ]
+      ],
+      "score": 0.8879860639572144,
+      "y_pos": 330,
+      "text": "65. Khí hư",
+      "confidence": 0.7794095178445181
+    },
+    {
+      "type": "text",
+      "img_path": "p0496_008_text.png",
+      "bbox": [
+        [
+          222,
+          419
+        ],
+        [
+          2359,
+          419
+        ],
+        [
+          2359,
+          687
+        ],
+        [
+          222,
+          687
+        ]
+      ],
+      "score": 0.6683976650238037,
+      "y_pos": 419,
+      "text": "Khí hư là một bệnh thường thấy ở phụ nữ, khí hư thường ra trước, sau khi hành kinh, hoặc\ntrong lúc có chửa. Có người bị lâu ngày không dứt. Khí hư có ít không gây chú ý, nếu ra nhiều\nmàu đục, có mủ, nước máu, mùi rất tanh hôi, lúc đó mới biết mà đi chữa. Đàn bà cao tuổi bi\nbệnh này rất khó chữa.",
+      "confidence": 0.9986238268940709
+    },
+    {
+      "type": "text",
+      "img_path": "p0496_007_text.png",
+      "bbox": [
+        [
+          283,
+          725
+        ],
+        [
+          1869,
+          725
+        ],
+        [
+          1869,
+          781
+        ],
+        [
+          283,
+          781
+        ]
+      ],
+      "score": 0.7580488324165344,
+      "y_pos": 725,
+      "text": "Cách chữa: Lấy huyệt Đới mạch, Khí hải, Quan nguyên, Tam âm giao.",
+      "confidence": 0.997317436915725
+    },
+    {
+      "type": "text",
+      "img_path": "p0496_006_text.png",
+      "bbox": [
+        [
+          285,
+          818
+        ],
+        [
+          734,
+          818
+        ],
+        [
+          734,
+          870
+        ],
+        [
+          285,
+          870
+        ]
+      ],
+      "score": 0.7726029753684998,
+      "y_pos": 818,
+      "text": "Châm xong thì cứu.",
+      "confidence": 0.9798838138580322
+    },
+    {
+      "type": "text",
+      "img_path": "p0496_004_text.png",
+      "bbox": [
+        [
+          283,
+          908
+        ],
+        [
+          2344,
+          908
+        ],
+        [
+          2344,
+          965
+        ],
+        [
+          283,
+          965
+        ]
+      ],
+      "score": 0.8641571998596191,
+      "y_pos": 908,
+      "text": "Các huyệt: <i>Tỳ du, Huyết hải, Trung cực, Chí thất, Thứ liêu</i>, thay phiên nhau chọn dùng thêm.",
+      "confidence": 0.995018540558062
+    },
+    {
+      "type": "number",
+      "img_path": "p0496_005_number.png",
+      "bbox": [
+        [
+          2305,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2305,
+          3335
+        ]
+      ],
+      "score": 0.8447694778442383,
+      "y_pos": 3300,
+      "text": "    \n    \n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0496_003_footer.png",
+      "bbox": [
+        [
+          229,
+          3309
+        ],
+        [
+          1325,
+          3309
+        ],
+        [
+          1325,
+          3356
+        ],
+        [
+          229,
+          3356
+        ]
+      ],
+      "score": 0.883460283279419,
+      "y_pos": 3309,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985828905735376
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0496.png"
+}

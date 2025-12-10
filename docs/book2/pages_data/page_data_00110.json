@@ -1,0 +1,238 @@
+{
+  "page_num": 110,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0110_002_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2374,
+          142
+        ],
+        [
+          2374,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9133878350257874,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7449316769128754
+    },
+    {
+      "type": "header",
+      "img_path": "p0110_003_header.png",
+      "bbox": [
+        [
+          229,
+          154
+        ],
+        [
+          602,
+          154
+        ],
+        [
+          602,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9050384759902954,
+      "y_pos": 154,
+      "text": "CÁCH CHÂM CỬU",
+      "confidence": 0.9794011354446411
+    },
+    {
+      "type": "image",
+      "img_path": "p0110_001_image.png",
+      "bbox": [
+        [
+          552,
+          361
+        ],
+        [
+          2019,
+          361
+        ],
+        [
+          2019,
+          1869
+        ],
+        [
+          552,
+          1869
+        ]
+      ],
+      "score": 0.9641109704971313,
+      "y_pos": 361
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0110_004_figure_title.png",
+      "bbox": [
+        [
+          851,
+          1988
+        ],
+        [
+          1729,
+          1988
+        ],
+        [
+          1729,
+          2037
+        ],
+        [
+          851,
+          2037
+        ]
+      ],
+      "score": 0.9022918939590454,
+      "y_pos": 1988,
+      "text": "Hình 27. Châm hào kim bằng cách vê hào",
+      "confidence": 0.8244991451501846
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0110_005_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          2074
+        ],
+        [
+          985,
+          2074
+        ],
+        [
+          985,
+          2129
+        ],
+        [
+          284,
+          2129
+        ]
+      ],
+      "score": 0.9002185463905334,
+      "y_pos": 2074,
+      "text": "2. Cách dùng ống phóng kim",
+      "confidence": 0.9643223775284631
+    },
+    {
+      "type": "text",
+      "img_path": "p0110_000_text.png",
+      "bbox": [
+        [
+          279,
+          2166
+        ],
+        [
+          2357,
+          2166
+        ],
+        [
+          2357,
+          2504
+        ],
+        [
+          279,
+          2504
+        ]
+      ],
+      "score": 0.9781262278556824,
+      "y_pos": 2166,
+      "text": "Lấy một hào kim và một ống nhỏ, hào kim phải dài hơn ống nhỏ một ít, đút kim vào trong ống\nđó, mũi kim và miệng ống ngang nhau, ấn lên trên huyệt vị định châm, tay trái giữ ống, rồi\ndùng ngón trỏ tay phải gõ lên cán kim chỗ lộ ra phía miệng trên của ống, làm cho mũi kim\nđâm nhanh vào, bây giờ rút ống ra, vê tiến kim. Cách tiến này phù hợp với người sợ đau và\ntrẻ em. (H28)",
+      "confidence": 0.9940615425147138
+    },
+    {
+      "type": "text",
+      "img_path": "p0110_007_text.png",
+      "bbox": [
+        [
+          282,
+          2542
+        ],
+        [
+          1216,
+          2542
+        ],
+        [
+          1216,
+          2597
+        ],
+        [
+          282,
+          2597
+        ]
+      ],
+      "score": 0.8903805613517761,
+      "y_pos": 2542,
+      "text": "Cách châm hào kim dùng ống phóng kim.",
+      "confidence": 0.9877280042721674
+    },
+    {
+      "type": "footer",
+      "img_path": "p0110_006_footer.png",
+      "bbox": [
+        [
+          229,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          229,
+          3387
+        ]
+      ],
+      "score": 0.8997507095336914,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982608286839612
+    },
+    {
+      "type": "number",
+      "img_path": "p0110_008_number.png",
+      "bbox": [
+        [
+          2296,
+          3340
+        ],
+        [
+          2321,
+          3340
+        ],
+        [
+          2321,
+          3377
+        ],
+        [
+          2296,
+          3377
+        ]
+      ],
+      "score": 0.8174806833267212,
+      "y_pos": 3340,
+      "text": "\n\n\n    \n\n    \n\n    \n\n\n\n    \n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0110.png"
+}

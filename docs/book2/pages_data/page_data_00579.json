@@ -1,0 +1,162 @@
+{
+  "page_num": 579,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0579_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9140108823776245,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0579_000_header.png",
+      "bbox": [
+        [
+          228,
+          151
+        ],
+        [
+          1466,
+          151
+        ],
+        [
+          1466,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9166373014450073,
+      "y_pos": 151,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TÂN, KỲ HUYỆT",
+      "confidence": 0.996946144104004
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0579_005_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          324
+        ],
+        [
+          687,
+          324
+        ],
+        [
+          687,
+          380
+        ],
+        [
+          226,
+          380
+        ]
+      ],
+      "score": 0.6118910908699036,
+      "y_pos": 324,
+      "text": "Phần 26. RẮN CẮN",
+      "confidence": 0.8951819472842746
+    },
+    {
+      "type": "text",
+      "img_path": "p0579_004_text.png",
+      "bbox": [
+        [
+          225,
+          420
+        ],
+        [
+          1766,
+          420
+        ],
+        [
+          1766,
+          477
+        ],
+        [
+          225,
+          477
+        ]
+      ],
+      "score": 0.72153639793396,
+      "y_pos": 420,
+      "text": "327. Rắn cắn: Bát phong, Thượng Bát phong, Bát tà, Thượng Bát tà",
+      "confidence": 0.9995764250105078
+    },
+    {
+      "type": "number",
+      "img_path": "p0579_003_number.png",
+      "bbox": [
+        [
+          2316,
+          3336
+        ],
+        [
+          2368,
+          3336
+        ],
+        [
+          2368,
+          3373
+        ],
+        [
+          2316,
+          3373
+        ]
+      ],
+      "score": 0.8640173673629761,
+      "y_pos": 3336,
+      "text": "    \n            \n        \n\n\n    \n\n\n\n\n\n\n\n۰\n",
+      "confidence": 0.9779972644014792
+    },
+    {
+      "type": "footer",
+      "img_path": "p0579_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1325,
+          3340
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.8981414437294006,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9988119602203369
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0579.png"
+}

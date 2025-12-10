@@ -1,0 +1,318 @@
+{
+  "page_num": 600,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0600_006_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9166732430458069,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0600_007_header.png",
+      "bbox": [
+        [
+          229,
+          151
+        ],
+        [
+          1171,
+          151
+        ],
+        [
+          1171,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9127402901649475,
+      "y_pos": 151,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0600_010_paragraph_title.png",
+      "bbox": [
+        [
+          733,
+          324
+        ],
+        [
+          1853,
+          324
+        ],
+        [
+          1853,
+          380
+        ],
+        [
+          733,
+          380
+        ]
+      ],
+      "score": 0.8092030882835388,
+      "y_pos": 324,
+      "text": "PHÉP CHẨN BÊNH BẰNG NHIỆT ĐỘ KINH LẠC",
+      "confidence": 0.9960156251222659
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0600_008_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          416
+        ],
+        [
+          498,
+          416
+        ],
+        [
+          498,
+          470
+        ],
+        [
+          225,
+          470
+        ]
+      ],
+      "score": 0.8884521722793579,
+      "y_pos": 416,
+      "text": "DÂN NHÂP",
+      "confidence": 0.6504485607147217
+    },
+    {
+      "type": "text",
+      "img_path": "p0600_005_text.png",
+      "bbox": [
+        [
+          221,
+          507
+        ],
+        [
+          2359,
+          507
+        ],
+        [
+          2359,
+          778
+        ],
+        [
+          221,
+          778
+        ]
+      ],
+      "score": 0.9746315479278564,
+      "y_pos": 507,
+      "text": "Chữa bênh muốn đạt kết quả, trước hết phải nhờ vào chẩn đoán đúng bênh. Chẩn đoán đúng\nbệnh luôn luôn là hướng phấn đấu của mọi thầy thuốc ở mọi thời đại. Chẩn đoán đúng bệnh\nbằng phương tiện đơn giản, trong thời gian ngắn nhất là mục tiêu vươn tới của mọi nền y học ở\nmọi quốc gia.",
+      "confidence": 0.947419984292865
+    },
+    {
+      "type": "text",
+      "img_path": "p0600_004_text.png",
+      "bbox": [
+        [
+          222,
+          814
+        ],
+        [
+          2359,
+          814
+        ],
+        [
+          2359,
+          1154
+        ],
+        [
+          222,
+          1154
+        ]
+      ],
+      "score": 0.978632390499115,
+      "y_pos": 814,
+      "text": "Phương tiện chẩn đoán của Đông y là tứ chẩn. Tứ chẩn hoàn toàn dựa vào học vấn về y lý và\nkinh nghiệm thực tiễn của bản thân người thầy thuốc. Công cụ để tiến hành tứ chẩn tuy đơn\ngiản, lý luận của tứ chẩn tuy hợp với lý luận của khoa học, nhưng từ những kết luận ở tứ chẩn\nđem lại cũng không thể coi là vạn năng, vì lý luận tứ chẩn ra đời đã lâu, con người sống ở hoàn\ncảnh ra đời của lý luận tứ chẩn cũng khác con người ở hoàn cảnh sống ngày này rất nhiều.",
+      "confidence": 0.9998111446928899
+    },
+    {
+      "type": "text",
+      "img_path": "p0600_003_text.png",
+      "bbox": [
+        [
+          221,
+          1190
+        ],
+        [
+          2360,
+          1190
+        ],
+        [
+          2360,
+          1599
+        ],
+        [
+          221,
+          1599
+        ]
+      ],
+      "score": 0.9806703329086304,
+      "y_pos": 1190,
+      "text": "Phương tiện chẩn đoán của khoa học Tây y tuy cho kết quả rất chính xác, nhanh chóng, nhưng\nchỉ có thể là những hình ảnh máy móc ghi nhận được ở từng chức năng làm đối tượng của\nmáy móc đó, còn như những hiện tượng bệnh do nhiều chức năng cộng lại hình thành thì\nnhững máy móc tinh vi kia dường như vô hiệu hoặc tỏ ra kém hiệu quả. Cũng phải kể đến một\nhạn chế nữa của khoa học Tây y là những máy móc dùng để chẩn đoán rất đắt tiền và không\nthể di chuyển đến mọi nơi, mọi lúc được dễ dàng.",
+      "confidence": 0.9995205988533558
+    },
+    {
+      "type": "text",
+      "img_path": "p0600_001_text.png",
+      "bbox": [
+        [
+          221,
+          1637
+        ],
+        [
+          2360,
+          1637
+        ],
+        [
+          2360,
+          2043
+        ],
+        [
+          221,
+          2043
+        ]
+      ],
+      "score": 0.9828757047653198,
+      "y_pos": 1637,
+      "text": "Phép chẩn đoán bệnh bằng nhiệt độ kinh lạc là một sự kết hợp các mặt mạnh và tiện lợi của\nkhoa học kỹ thuật hiện đại phương Tây cùng với lý luận y học cổ truyền phương Đông, đã\nđược lương y và là nhà nghiên cứu y học cổ phương Đông Lê Văn Sửu phát minh năm\n1983, trong quá trình cộng tác với khoa Sinh lý Quân sự Học Viện Quân y thực hiện đề tài\nkhoa hoc cấp Nhà nước số 48070203 do Giáo sư Tô Như Khuê và các cán bộ trong khoa đảm\nnhiêm (1983 – 1986).",
+      "confidence": 0.930617370107688
+    },
+    {
+      "type": "text",
+      "img_path": "p0600_000_text.png",
+      "bbox": [
+        [
+          220,
+          2080
+        ],
+        [
+          2361,
+          2080
+        ],
+        [
+          2361,
+          2705
+        ],
+        [
+          220,
+          2705
+        ]
+      ],
+      "score": 0.9854228496551514,
+      "y_pos": 2080,
+      "text": "Năm 1985, công trình này đã được gửi lên Bộ Y tế, nhưng vì nhiều lý do nên chưa được Bộ tổ\nchức hội thảo khoa học để đánh giá. Đến năm 1995 Trung ương hội Y học cổ truyền Việt Nam\nmời tác giả giới thiệu phương pháp này tại lớp học đào tạo đặc cách Thạc sĩ Đông y do Trung\nương hội tổ chức với mục đích để các nhà làm Đông y khắp các tỉnh thành về dự khoá học thử\nnghiệm phương pháp và cho nhận xét, đến kết thúc khoá học, trong các bản thu hoạch cá nhân\ncủa học viên đều rất hoan nghênh và đánh giá cao tác dụng của phương pháp, nhiều người đã\nmua máy đo đem về địa phương ứng dụng. Cũng năm đó Nhà Xuất bản Y học Hà Nội đã xuất\nbản toàn bộ công trình này, bao gồm cả hai đề tài ứng dụng phương pháp này của Bác sĩ\nNguyễn Tấn Phong.",
+      "confidence": 0.9967588890006339
+    },
+    {
+      "type": "text",
+      "img_path": "p0600_002_text.png",
+      "bbox": [
+        [
+          221,
+          2739
+        ],
+        [
+          2360,
+          2739
+        ],
+        [
+          2360,
+          3147
+        ],
+        [
+          221,
+          3147
+        ]
+      ],
+      "score": 0.9810524582862854,
+      "y_pos": 2739,
+      "text": "Tháng 2 năm 2000, tại đại hội toàn quốc Hội sinh lý học Việt Nam trong Tổng hội Y học Việt\nNam khai hội ở Hà Nội, phương pháp này đã được giới thiệu tại đại hội cùng với một máy điện\ntử đo đồng bộ 24 đường kinh (cả hai bên) có phần mềm đã được lập trình kết quả đo và tính\ntoán, chỉ sau 5 phút kể từ khi bắt đầu đo đến khi in ra kết quả đo tính, thầy thuốc có thể theo đó\nđọc kết quả chấn đoán. Cuộc giới thiệu này đã được toàn ngành Sinh lý học Việt Nam quan\ntâm và cổ vũ.",
+      "confidence": 0.999361761168381
+    },
+    {
+      "type": "number",
+      "img_path": "p0600_011_number.png",
+      "bbox": [
+        [
+          2332,
+          3339
+        ],
+        [
+          2351,
+          3339
+        ],
+        [
+          2351,
+          3374
+        ],
+        [
+          2332,
+          3374
+        ]
+      ],
+      "score": 0.7740434408187866,
+      "y_pos": 3339,
+      "text": "\n\n    \n\n\n\n\n        ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0600_009_footer.png",
+      "bbox": [
+        [
+          227,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3389
+        ],
+        [
+          227,
+          3389
+        ]
+      ],
+      "score": 0.8856968283653259,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987236002706131
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0600.png"
+}

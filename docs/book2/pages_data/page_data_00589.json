@@ -1,0 +1,344 @@
+{
+  "page_num": 589,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0589_001_header.png",
+      "bbox": [
+        [
+          1674,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1674,
+          198
+        ]
+      ],
+      "score": 0.9129343628883362,
+      "y_pos": 144,
+      "text": "~?    ~ 7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6846830403757475
+    },
+    {
+      "type": "header",
+      "img_path": "p0589_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1468,
+          152
+        ],
+        [
+          1468,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.918181300163269,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TÂN. KỲ HUYỆT",
+      "confidence": 0.9977769827842713
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0589_006_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          325
+        ],
+        [
+          1186,
+          325
+        ],
+        [
+          1186,
+          385
+        ],
+        [
+          227,
+          385
+        ]
+      ],
+      "score": 0.5901882648468018,
+      "y_pos": 325,
+      "text": "Phần 36. BỆNH TINH THẦN, THẦN KINH",
+      "confidence": 0.994657845960723
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0589_008_reference_content.png",
+      "bbox": [
+        [
+          231,
+          418
+        ],
+        [
+          1836,
+          418
+        ],
+        [
+          1836,
+          480
+        ],
+        [
+          231,
+          480
+        ]
+      ],
+      "score": 0.5438248515129089,
+      "y_pos": 418,
+      "text": "356. Thần kinh suy nhược: Phong nham, Cự huyết du, Tứ thần thông.",
+      "confidence": 0.9989891390302288
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0589_009_reference_content.png",
+      "bbox": [
+        [
+          231,
+          509
+        ],
+        [
+          2025,
+          509
+        ],
+        [
+          2025,
+          572
+        ],
+        [
+          231,
+          572
+        ]
+      ],
+      "score": 0.5412911772727966,
+      "y_pos": 509,
+      "text": "357. Bệnh mạn tính gây ra suy nhược thần kinh: Nạn môn, Lục hoa, Bát hoa.",
+      "confidence": 0.9861502949396769
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0589_012_reference_content.png",
+      "bbox": [
+        [
+          232,
+          601
+        ],
+        [
+          1020,
+          601
+        ],
+        [
+          1020,
+          662
+        ],
+        [
+          232,
+          662
+        ]
+      ],
+      "score": 0.5242277383804321,
+      "y_pos": 601,
+      "text": "358. Tâm lực suy kiệt: Thốn bình.",
+      "confidence": 0.998397217478071
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0589_005_reference_content.png",
+      "bbox": [
+        [
+          231,
+          692
+        ],
+        [
+          2359,
+          692
+        ],
+        [
+          2359,
+          824
+        ],
+        [
+          231,
+          824
+        ]
+      ],
+      "score": 0.6512946486473083,
+      "y_pos": 692,
+      "text": "359. Thần kinh phân liệt: Hổ biên, Chỉ chưởng, Tân nhất, Đầu nhiếp, An miên 1, An miên 2,\nĐinh thần.",
+      "confidence": 0.9862492532902585
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0589_004_reference_content.png",
+      "bbox": [
+        [
+          233,
+          853
+        ],
+        [
+          2364,
+          853
+        ],
+        [
+          2364,
+          1059
+        ],
+        [
+          233,
+          1059
+        ]
+      ],
+      "score": 0.6522613763809204,
+      "y_pos": 853,
+      "text": "360. Bệnh tinh thần: Phong nham, Túc trung bình, Thiên linh, Nữ tất, Xích nhiêu, Âm ủy 1, 2,\n3, Tứ liên, Linh bào, Ngũ liên, Thừa mệnh, Dạ linh, Thượng bạch, Ê minh, An miên, Nhi\nchùy ha, Hâu Dương quan.",
+      "confidence": 0.9963563422553005
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0589_007_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1089
+        ],
+        [
+          1715,
+          1089
+        ],
+        [
+          1715,
+          1153
+        ],
+        [
+          232,
+          1153
+        ]
+      ],
+      "score": 0.5696116089820862,
+      "y_pos": 1089,
+      "text": "361. Bệnh thần kinh chức năng: Tý trung, Thập tuyên, Trọc dục.",
+      "confidence": 0.9935320047661662
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0589_011_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1179
+        ],
+        [
+          1755,
+          1179
+        ],
+        [
+          1755,
+          1243
+        ],
+        [
+          232,
+          1243
+        ]
+      ],
+      "score": 0.53455650806427,
+      "y_pos": 1179,
+      "text": "362. Bệnh thần kinh chức năng (Hysteria): Hổ biên, Phong nham.",
+      "confidence": 0.9878745852038264
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0589_010_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1455
+        ],
+        [
+          2362,
+          1455
+        ],
+        [
+          2362,
+          1585
+        ],
+        [
+          231,
+          1585
+        ]
+      ],
+      "score": 0.5345982909202576,
+      "y_pos": 1455,
+      "text": "365. Mất ngủ: An miên, Chỉ chưởng, An miên 4, É minh, Thất miên, An miên 3, An miên 1, An\nmiên 2, Ấn đường, Ngạch trung, Sơn căn.",
+      "confidence": 0.9948538066362511
+    },
+    {
+      "type": "number",
+      "img_path": "p0589_003_number.png",
+      "bbox": [
+        [
+          2316,
+          3336
+        ],
+        [
+          2368,
+          3336
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2316,
+          3374
+        ]
+      ],
+      "score": 0.8678249716758728,
+      "y_pos": 3336,
+      "text": "    \n        \n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0589_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9103119969367981,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0589.png"
+}

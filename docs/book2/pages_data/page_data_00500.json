@@ -1,0 +1,188 @@
+{
+  "page_num": 500,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0500_002_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2369,
+          144
+        ],
+        [
+          2369,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.912507176399231,
+      "y_pos": 144,
+      "text": "~ 2    ~ 7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6485285695110049
+    },
+    {
+      "type": "header",
+      "img_path": "p0500_001_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1449,
+          150
+        ],
+        [
+          1449,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9130813479423523,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BÊNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9958260162518575
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0500_003_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          327
+        ],
+        [
+          916,
+          327
+        ],
+        [
+          916,
+          382
+        ],
+        [
+          226,
+          382
+        ]
+      ],
+      "score": 0.900904655456543,
+      "y_pos": 327,
+      "text": "69. Lao hạch cổ (tràng nhạc)",
+      "confidence": 0.9587998847166698
+    },
+    {
+      "type": "text",
+      "img_path": "p0500_000_text.png",
+      "bbox": [
+        [
+          223,
+          418
+        ],
+        [
+          2358,
+          418
+        ],
+        [
+          2358,
+          617
+        ],
+        [
+          223,
+          617
+        ]
+      ],
+      "score": 0.9664751291275024,
+      "y_pos": 418,
+      "text": "Tràng nhạc thường sinh ở trước, sau và quanh cổ. Mới thì nhỏ như hạt đậu, dần dần tăng lên\nbằng quả mận đào, từng hạt, hoặc dăm ba hạt liền nhau nhô lên, không đỏ, không đau, có khi\nsinh ra ở hố nách hình dài như cái dao nên ngày xưa gọi là mã đao.",
+      "confidence": 0.9998269839258348
+    },
+    {
+      "type": "text",
+      "img_path": "p0500_005_text.png",
+      "bbox": [
+        [
+          281,
+          654
+        ],
+        [
+          2347,
+          654
+        ],
+        [
+          2347,
+          710
+        ],
+        [
+          281,
+          710
+        ]
+      ],
+      "score": 0.8864343166351318,
+      "y_pos": 654,
+      "text": "<b>Cách chữa:</b> Lấy huyệt: <i>Bách lao</i> (cứu), <i>Trửu tiêm</i> (cứu), <i>Ē phong, Kiện tỉnh, Khúc trì</i> (châm),",
+      "confidence": 0.9914831601747192
+    },
+    {
+      "type": "number",
+      "img_path": "p0500_006_number.png",
+      "bbox": [
+        [
+          2304,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3334
+        ],
+        [
+          2304,
+          3334
+        ]
+      ],
+      "score": 0.8550280332565308,
+      "y_pos": 3300,
+      "text": "    \n            \n        \n\n\n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0500_004_footer.png",
+      "bbox": [
+        [
+          229,
+          3310
+        ],
+        [
+          1324,
+          3310
+        ],
+        [
+          1324,
+          3356
+        ],
+        [
+          229,
+          3356
+        ]
+      ],
+      "score": 0.8926288485527039,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985828905735376
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0500.png"
+}

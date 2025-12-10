@@ -1,0 +1,370 @@
+{
+  "page_num": 103,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0103_006_header.png",
+      "bbox": [
+        [
+          1606,
+          142
+        ],
+        [
+          2367,
+          142
+        ],
+        [
+          2367,
+          201
+        ],
+        [
+          1606,
+          201
+        ]
+      ],
+      "score": 0.9180434346199036,
+      "y_pos": 142,
+      "text": "_______________________________________\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6522258715970175
+    },
+    {
+      "type": "header",
+      "img_path": "p0103_012_header.png",
+      "bbox": [
+        [
+          229,
+          159
+        ],
+        [
+          453,
+          159
+        ],
+        [
+          453,
+          201
+        ],
+        [
+          229,
+          201
+        ]
+      ],
+      "score": 0.8859086632728577,
+      "y_pos": 159,
+      "text": "DU HUYET",
+      "confidence": 0.6350914239883423
+    },
+    {
+      "type": "text",
+      "img_path": "p0103_004_text.png",
+      "bbox": [
+        [
+          278,
+          337
+        ],
+        [
+          2356,
+          337
+        ],
+        [
+          2356,
+          519
+        ],
+        [
+          278,
+          519
+        ]
+      ],
+      "score": 0.9705824255943298,
+      "y_pos": 337,
+      "text": "có thể chữa bệnh ở nơi đường kinh tuần hành và cả các loại bệnh ở tạng gốc sở thuộc,\nnhưng trên lâm sàng thường để chữa bệnh cấp tính, chứng đau, chứng viêm. Như đau\nngực, tim, lấu huyệt Khích môn, đau dạ dày lấy huyệt <i>Lương khâu.</i>",
+      "confidence": 0.9978521827566874
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0103_009_figure_title.png",
+      "bbox": [
+        [
+          883,
+          572
+        ],
+        [
+          1706,
+          572
+        ],
+        [
+          1706,
+          620
+        ],
+        [
+          883,
+          620
+        ]
+      ],
+      "score": 0.9042439460754395,
+      "y_pos": 572,
+      "text": "Bảng 9 - Huyệt và kinh của khích huyệt",
+      "confidence": 0.717903134226799
+    },
+    {
+      "type": "table",
+      "img_path": "p0103_000_table.png",
+      "bbox": [
+        [
+          438,
+          669
+        ],
+        [
+          2151,
+          669
+        ],
+        [
+          2151,
+          1293
+        ],
+        [
+          438,
+          1293
+        ]
+      ],
+      "score": 0.9890884160995483,
+      "y_pos": 669,
+      "text": "Tên huyệt    Tên kinh    Tên huyệt    Tên kinh\nKhổng tối    Phế kinh    Khích môn    Tâm bào kinh\nÂm khích    Tâm kinh    Lương khâu    Vị kinh\nNgoại khâu    Đảm kinh    Kinh môn    Bàng quang kinh\nÔn lưu    Đại trường kinh    Hội tông    Tam tiêu kinh\nDưỡng lão    Tiểu trường kinh    Địa cơ    Tỳ kinh\nTrung đô    Can kinh    Thuỷ tuyền    Thận kinh",
+      "confidence": 0.9124866347975934
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0103_007_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1326
+        ],
+        [
+          587,
+          1326
+        ],
+        [
+          587,
+          1373
+        ],
+        [
+          225,
+          1373
+        ]
+      ],
+      "score": 0.9081926941871643,
+      "y_pos": 1326,
+      "text": "E. Bát hôi huyêt",
+      "confidence": 0.823212034172482
+    },
+    {
+      "type": "text",
+      "img_path": "p0103_002_text.png",
+      "bbox": [
+        [
+          279,
+          1408
+        ],
+        [
+          2357,
+          1408
+        ],
+        [
+          2357,
+          1712
+        ],
+        [
+          279,
+          1712
+        ]
+      ],
+      "score": 0.978325366973877,
+      "y_pos": 1408,
+      "text": "Là nơi hội họp của tám thứ tạng, phủ, khí, huyết, gân, mạch, xương, tuỷ. nạn thứ 45 trong\n\"Nạn Kinh\" nói \"Bệnh nhiệt trong, lấy khí huyết hội của cái đó\" (Nhiệt bệnh tại nội giả, thủ kỳ\nhội chi khí huyết dã), ứng dụng lâm sàng, không giới hạn ở bệnh nhiệt, mà nặng về phía\nbệnh nội chứng. Thuộc về bệnh chứng của một số mặt, có thể sử dụng hội huyệt hữu quan,\nở bảng 10.",
+      "confidence": 0.9805942193988126
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0103_008_figure_title.png",
+      "bbox": [
+        [
+          1060,
+          1763
+        ],
+        [
+          1529,
+          1763
+        ],
+        [
+          1529,
+          1812
+        ],
+        [
+          1060,
+          1812
+        ]
+      ],
+      "score": 0.9054327607154846,
+      "y_pos": 1763,
+      "text": "Bảng 10 – 8 hội huyệt",
+      "confidence": 0.5630885310794996
+    },
+    {
+      "type": "table",
+      "img_path": "p0103_003_table.png",
+      "bbox": [
+        [
+          279,
+          1865
+        ],
+        [
+          2312,
+          1865
+        ],
+        [
+          2312,
+          2124
+        ],
+        [
+          279,
+          2124
+        ]
+      ],
+      "score": 0.978308379650116,
+      "y_pos": 1865,
+      "text": "Tạng hội = Chương môn    Phủ hội = Trung quản    Khí hội = Chiên trung\nHuyết hội = Cách du    Cân hội = Dương lăng tuyền    Mach hội = Thái Uyên.\nCốt hôi = Đai trữ    Tuỷ hội = Tuyệt cốt",
+      "confidence": 0.9588668270958185
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0103_010_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2159
+        ],
+        [
+          599,
+          2159
+        ],
+        [
+          599,
+          2208
+        ],
+        [
+          226,
+          2208
+        ]
+      ],
+      "score": 0.9028531312942505,
+      "y_pos": 2159,
+      "text": "G. Ngũ Du huyệt",
+      "confidence": 0.8122828883283278
+    },
+    {
+      "type": "text",
+      "img_path": "p0103_001_text.png",
+      "bbox": [
+        [
+          274,
+          2239
+        ],
+        [
+          2358,
+          2239
+        ],
+        [
+          2358,
+          2983
+        ],
+        [
+          274,
+          2983
+        ]
+      ],
+      "score": 0.9866630434989929,
+      "y_pos": 2239,
+      "text": "12 kinh mạch ở tứ chi từ khuỷu tay và đầu gối trở xuống đều có 5 loại huyệt đặc định là Tỉnh,\nHuỳnh, Du, Kinh, Hợp, gọi là ngũ du huyệt. Từ đầu gót của tứ chi hướng về khuỷu và đầu\ngối, mạch khí dàn ra từ ngỏ đến lớn, từ nông đến sâu, từ xa đến gần, do đó nói: \"chỗ xuất ỏ\nTỉnh, chỗ lưu là huỳnh, chỗ trú là Du, chỗ hành là Kinh, chỗ nhập là Hợp\". (theo thiên \"Cửu\nchâm thập nhị nguyên\" sách Linh Khu), đó là lấy đặc điểm hình dung theo tên gọi của dòng\nnước chảy \"Tỉnh\" là nguồn từ dưới đất ra, hình dung về mặt khí nông, nhỏ, huyệt đó thường\nở cạnh móng của ngón tay chân. \"Huỳnh\" là nước thành dòng nhỏ, mạch khí hơi lớn, huyệt\nđó ở chỗ vùng ngón, bàn của tay chân. \"Du\" là vận chuyển, mạch khí đã rất thịnh, huyệt đó\nthường ở chỗ khớp cổ tay, cổ chân và phụ cận, \"Kinh\" là dòng nước lớn, mạch khí chảy và\ntrú ở đó, huyệt thường ở vùng xung quanh khớp cổ tay, cổ chân và cẳng tay, cẳng chân.\n\"Hợp\" là xoáy hợp lại, mạch khí sâu lớn, huyệt thường ở xung quanh kgớp khuỷu tay, đầu\ngối; bảng 11.",
+      "confidence": 0.9977728087613184
+    },
+    {
+      "type": "text",
+      "img_path": "p0103_005_text.png",
+      "bbox": [
+        [
+          280,
+          3008
+        ],
+        [
+          2358,
+          3008
+        ],
+        [
+          2358,
+          3191
+        ],
+        [
+          280,
+          3191
+        ]
+      ],
+      "score": 0.965272843837738,
+      "y_pos": 3008,
+      "text": "Ứng dụng trên lâm sàng của ngũ du huyệt, sách Linh khu nói rằng: \"bệnh tại tạng, lấy ở Tỉnh;\nbệnh biến ở màu sắc lấy ở Huỳnh; bệnh có lúc tăng, lúc giảm, lấy ở Du; bệnh biến ở tiếng\n(âm) lấy ở Kinh; mãn kinh mà có máu cũng như bệnh ở dạ dày và ăn uống không điều độ mà",
+      "confidence": 0.9992907460544903
+    },
+    {
+      "type": "footer",
+      "img_path": "p0103_011_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3386
+        ],
+        [
+          228,
+          3386
+        ]
+      ],
+      "score": 0.8944365382194519,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9360493050431306
+    },
+    {
+      "type": "number",
+      "img_path": "p0103_013_number.png",
+      "bbox": [
+        [
+          2332,
+          3341
+        ],
+        [
+          2357,
+          3341
+        ],
+        [
+          2357,
+          3377
+        ],
+        [
+          2332,
+          3377
+        ]
+      ],
+      "score": 0.8094277381896973,
+      "y_pos": 3341,
+      "text": "\n\n    \n\n\n\n\n\n\n    \n\n٢    \n\n    ",
+      "confidence": 0.9666900063554446
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0103.png"
+}

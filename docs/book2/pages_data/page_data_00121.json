@@ -1,0 +1,708 @@
+{
+  "page_num": 121,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0121_008_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9359891414642334,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7254179112967991
+    },
+    {
+      "type": "header",
+      "img_path": "p0121_014_header.png",
+      "bbox": [
+        [
+          228,
+          155
+        ],
+        [
+          905,
+          155
+        ],
+        [
+          905,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9168041944503784,
+      "y_pos": 155,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9866287461642561
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0121_013_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          348
+        ],
+        [
+          533,
+          348
+        ],
+        [
+          533,
+          399
+        ],
+        [
+          226,
+          399
+        ]
+      ],
+      "score": 0.917908787727356,
+      "y_pos": 348,
+      "text": "3. Thiên phủ",
+      "confidence": 0.9687139519623348
+    },
+    {
+      "type": "text",
+      "img_path": "p0121_023_text.png",
+      "bbox": [
+        [
+          287,
+          437
+        ],
+        [
+          2039,
+          437
+        ],
+        [
+          2039,
+          495
+        ],
+        [
+          287,
+          495
+        ]
+      ],
+      "score": 0.9079861640930176,
+      "y_pos": 437,
+      "text": "Vị trí: Đầu nếp gấp nách xuống 3 thốn, cạnh ngoài cơ nhị đầu cánh tay. (H35)",
+      "confidence": 0.995533559566889
+    },
+    {
+      "type": "text",
+      "img_path": "p0121_016_text.png",
+      "bbox": [
+        [
+          286,
+          531
+        ],
+        [
+          1504,
+          531
+        ],
+        [
+          1504,
+          582
+        ],
+        [
+          286,
+          582
+        ]
+      ],
+      "score": 0.9160925149917603,
+      "y_pos": 531,
+      "text": "Cách châm: Châm đứng kim, sâu 1-2 thốn. Cấm cứu.",
+      "confidence": 0.9913601016998291
+    },
+    {
+      "type": "text",
+      "img_path": "p0121_009_text.png",
+      "bbox": [
+        [
+          285,
+          622
+        ],
+        [
+          2262,
+          622
+        ],
+        [
+          2262,
+          677
+        ],
+        [
+          285,
+          677
+        ]
+      ],
+      "score": 0.9256454110145569,
+      "y_pos": 622,
+      "text": "Chủ trị: hen suyễn, chảy máu cam, khái huyết, hầu vọng sưng đau, khuỷu cánh tay đau.",
+      "confidence": 0.7017231223195098
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0121_021_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          715
+        ],
+        [
+          536,
+          715
+        ],
+        [
+          536,
+          766
+        ],
+        [
+          225,
+          766
+        ]
+      ],
+      "score": 0.9097365736961365,
+      "y_pos": 715,
+      "text": "4. Hiệp bạch",
+      "confidence": 0.9632043285029275
+    },
+    {
+      "type": "text",
+      "img_path": "p0121_020_text.png",
+      "bbox": [
+        [
+          287,
+          807
+        ],
+        [
+          2070,
+          807
+        ],
+        [
+          2070,
+          861
+        ],
+        [
+          287,
+          861
+        ]
+      ],
+      "score": 0.9108392596244812,
+      "y_pos": 807,
+      "text": "Vị trí: cạnh trước và ngoài xương cánh tay, dưới huyệt Thiên phủ 1 thốn. (H35)",
+      "confidence": 0.989181649684906
+    },
+    {
+      "type": "text",
+      "img_path": "p0121_017_text.png",
+      "bbox": [
+        [
+          286,
+          896
+        ],
+        [
+          1518,
+          896
+        ],
+        [
+          1518,
+          948
+        ],
+        [
+          286,
+          948
+        ]
+      ],
+      "score": 0.91350919008255,
+      "y_pos": 896,
+      "text": "Cách châm: Châm đứng kim sâu 1-2 thốn. Cứu 5 mồi.",
+      "confidence": 0.992121745558346
+    },
+    {
+      "type": "text",
+      "img_path": "p0121_011_text.png",
+      "bbox": [
+        [
+          285,
+          990
+        ],
+        [
+          1835,
+          990
+        ],
+        [
+          1835,
+          1044
+        ],
+        [
+          285,
+          1044
+        ]
+      ],
+      "score": 0.9191713929176331,
+      "y_pos": 990,
+      "text": "Chủ trị: Ho hắng, thở nhanh nông, ngực và cạnh trong cánh tay đau.",
+      "confidence": 0.9843641835100511
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0121_024_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1081
+        ],
+        [
+          539,
+          1081
+        ],
+        [
+          539,
+          1132
+        ],
+        [
+          226,
+          1132
+        ]
+      ],
+      "score": 0.9064976572990417,
+      "y_pos": 1081,
+      "text": "5. Xích tranh",
+      "confidence": 0.8539593974749248
+    },
+    {
+      "type": "text",
+      "img_path": "p0121_007_text.png",
+      "bbox": [
+        [
+          282,
+          1169
+        ],
+        [
+          2358,
+          1169
+        ],
+        [
+          2358,
+          1298
+        ],
+        [
+          282,
+          1298
+        ]
+      ],
+      "score": 0.9562269449234009,
+      "y_pos": 1169,
+      "text": "Vị trí: Ở nếp gấp trước khuỷu tay, cạnh ngoài gân của cơ nhị đầu cánh tay, gần giữa, về\nphái xương quay.",
+      "confidence": 0.9959703352158138
+    },
+    {
+      "type": "text",
+      "img_path": "p0121_001_text.png",
+      "bbox": [
+        [
+          280,
+          1334
+        ],
+        [
+          2358,
+          1334
+        ],
+        [
+          2358,
+          1528
+        ],
+        [
+          280,
+          1528
+        ]
+      ],
+      "score": 0.9734864830970764,
+      "y_pos": 1334,
+      "text": "Cách lấy huyệt: Ngồi ngay ngắn, cánh tay đưa ngang ra, khuỷu tay hơi cong, trên khuỷu tay\nhiện rõ một gân lớn, ở cạnh ngoài gân đó (phía xương quay), có một chỗ lõm, đó là huyệt.\n(H36)",
+      "confidence": 0.8898415477041991
+    },
+    {
+      "type": "text",
+      "img_path": "p0121_000_text.png",
+      "bbox": [
+        [
+          279,
+          1569
+        ],
+        [
+          2359,
+          1569
+        ],
+        [
+          2359,
+          1763
+        ],
+        [
+          279,
+          1763
+        ]
+      ],
+      "score": 0.9748530983924866,
+      "y_pos": 1569,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3-0,5 thốn, có cảm giác tê, tức lan tới ngón tay, cánh\ntay trên. Cứu 5 mồi, hơ điếu ngải 5 phút. Khêu nặn máu xung quanh huyệt đó có thể chữa\nviêm da dày, viêm ruột.",
+      "confidence": 0.9952842022072185
+    },
+    {
+      "type": "text",
+      "img_path": "p0121_004_text.png",
+      "bbox": [
+        [
+          281,
+          1801
+        ],
+        [
+          2357,
+          1801
+        ],
+        [
+          2357,
+          1926
+        ],
+        [
+          281,
+          1926
+        ]
+      ],
+      "score": 0.9604547619819641,
+      "y_pos": 1801,
+      "text": "Chủ trị: Cảm mạo, ho hắng, hen, khái huyết, sốt nóng, ho gà, chứng tức ngực, đau ngực,\nđau khuỷu tay, cánh tay.",
+      "confidence": 0.9195634583597416
+    },
+    {
+      "type": "text",
+      "img_path": "p0121_006_text.png",
+      "bbox": [
+        [
+          281,
+          1965
+        ],
+        [
+          2359,
+          1965
+        ],
+        [
+          2359,
+          2088
+        ],
+        [
+          281,
+          2088
+        ]
+      ],
+      "score": 0.9584065675735474,
+      "y_pos": 1965,
+      "text": "Tác dụng phối hợp: Với Khúc trì và Hợp côc trị đau khớp khuyu tay, co khuỷu tay cấp tính;\nvới <i>Thiếu trạch</i> trị buồn bã vùng tim.",
+      "confidence": 0.9955859477415829
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0121_015_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2123
+        ],
+        [
+          531,
+          2123
+        ],
+        [
+          531,
+          2177
+        ],
+        [
+          225,
+          2177
+        ]
+      ],
+      "score": 0.9163937568664551,
+      "y_pos": 2123,
+      "text": "6. Khổng tối",
+      "confidence": 0.9346438986914498
+    },
+    {
+      "type": "text",
+      "img_path": "p0121_019_text.png",
+      "bbox": [
+        [
+          288,
+          2218
+        ],
+        [
+          1735,
+          2218
+        ],
+        [
+          1735,
+          2272
+        ],
+        [
+          288,
+          2272
+        ]
+      ],
+      "score": 0.9124128818511963,
+      "y_pos": 2218,
+      "text": "Vị trí: Ở cạnh cẳng tay phía ngoài ngón cái, từ cổ tay lên 7 thốn.",
+      "confidence": 0.9943497505258111
+    },
+    {
+      "type": "text",
+      "img_path": "p0121_003_text.png",
+      "bbox": [
+        [
+          282,
+          2310
+        ],
+        [
+          2358,
+          2310
+        ],
+        [
+          2358,
+          2434
+        ],
+        [
+          282,
+          2434
+        ]
+      ],
+      "score": 0.9606755971908569,
+      "y_pos": 2310,
+      "text": "Cách lấy huyệt: Co khuỷu tay, ngửa bàn tay, trên đường nối Xích trạch, Thái uyên, cách\nXích trạch 5 thốn, cách <i>Thái uyên</i> 7 thốn, chỗ cacnhị trong xương quay. (H36)",
+      "confidence": 0.9423992972482335
+    },
+    {
+      "type": "text",
+      "img_path": "p0121_012_text.png",
+      "bbox": [
+        [
+          283,
+          2472
+        ],
+        [
+          2152,
+          2472
+        ],
+        [
+          2152,
+          2525
+        ],
+        [
+          283,
+          2525
+        ]
+      ],
+      "score": 0.9190643429756165,
+      "y_pos": 2472,
+      "text": "Cách châm: Châm đứng kim, sâu 0,5-1 thốn. Cứu 3-7 mồi, hơ điếu ngải 5-10 phút.",
+      "confidence": 0.9915550239384174
+    },
+    {
+      "type": "text",
+      "img_path": "p0121_010_text.png",
+      "bbox": [
+        [
+          284,
+          2564
+        ],
+        [
+          1805,
+          2564
+        ],
+        [
+          1805,
+          2618
+        ],
+        [
+          284,
+          2618
+        ]
+      ],
+      "score": 0.921416163444519,
+      "y_pos": 2564,
+      "text": "Chủ trị: Ho hen, khái huyết, ngón tay cứng đơ không co duỗi được.",
+      "confidence": 0.9781865628797617
+    },
+    {
+      "type": "text",
+      "img_path": "p0121_018_text.png",
+      "bbox": [
+        [
+          286,
+          2656
+        ],
+        [
+          2277,
+          2656
+        ],
+        [
+          2277,
+          2710
+        ],
+        [
+          286,
+          2710
+        ]
+      ],
+      "score": 0.9128645658493042,
+      "y_pos": 2656,
+      "text": "<b>Tác dung phối hợp:</b> Với <i>Thiên đôt, Phế du</i> tri họ hen; với <i>Khúc trì, Phế du</i> tri khái huyết.",
+      "confidence": 0.9952952511531791
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0121_025_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2746
+        ],
+        [
+          569,
+          2746
+        ],
+        [
+          569,
+          2798
+        ],
+        [
+          225,
+          2798
+        ]
+      ],
+      "score": 0.9037792682647705,
+      "y_pos": 2746,
+      "text": "7. Liệt khuyết",
+      "confidence": 0.96223134547472
+    },
+    {
+      "type": "text",
+      "img_path": "p0121_002_text.png",
+      "bbox": [
+        [
+          279,
+          2835
+        ],
+        [
+          2359,
+          2835
+        ],
+        [
+          2359,
+          2963
+        ],
+        [
+          279,
+          2963
+        ]
+      ],
+      "score": 0.960831880569458,
+      "y_pos": 2835,
+      "text": "Vị trí: Ở trên cổ tay phía ngón cái, cạnh ngoài mặt trước đầu xương quay, trên nếp gấp cổ\ntay 1,5 thốn.",
+      "confidence": 0.9784305856778072
+    },
+    {
+      "type": "text",
+      "img_path": "p0121_005_text.png",
+      "bbox": [
+        [
+          280,
+          2999
+        ],
+        [
+          2359,
+          2999
+        ],
+        [
+          2359,
+          3128
+        ],
+        [
+          280,
+          3128
+        ]
+      ],
+      "score": 0.9594964385032654,
+      "y_pos": 2999,
+      "text": "Cách lấy huyệt: Ngồi ngay hoặc nằm ngửa lấy huyệt. Người bệnh mở ngón trỏ và ngón cái\ncả hai bàn tay, giao nhau cho ngón trỏ qua mô cái phía lòng bàn tay, đầu ngón trỏ kia đặt lên",
+      "confidence": 0.9980856320386358
+    },
+    {
+      "type": "footer",
+      "img_path": "p0121_022_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1433,
+          3333
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9092836380004883,
+      "y_pos": 3333,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0121_026_number.png",
+      "bbox": [
+        [
+          2326,
+          3341
+        ],
+        [
+          2351,
+          3341
+        ],
+        [
+          2351,
+          3378
+        ],
+        [
+          2326,
+          3378
+        ]
+      ],
+      "score": 0.8228787779808044,
+      "y_pos": 3341,
+      "text": "\n    \n    \n\n\n\n\n\n    \n\n    \n\n\n\n\n\n    \n۰\n    ٠.\n    \n\n۰.\n۰",
+      "confidence": 0.9326033532619477
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0121.png"
+}

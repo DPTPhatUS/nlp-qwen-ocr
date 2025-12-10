@@ -1,0 +1,890 @@
+{
+  "page_num": 528,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0528_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2371,
+          144
+        ],
+        [
+          2371,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.921023964881897,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7566693045553707
+    },
+    {
+      "type": "header",
+      "img_path": "p0528_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.9264642000198364,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9977136671543121
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0528_033_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          324
+        ],
+        [
+          807,
+          324
+        ],
+        [
+          807,
+          387
+        ],
+        [
+          227,
+          387
+        ]
+      ],
+      "score": 0.527986466884613,
+      "y_pos": 324,
+      "text": "Phần 16. BỆNH DẠ DÀY",
+      "confidence": 0.8778760514476083
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_031_reference_content.png",
+      "bbox": [
+        [
+          231,
+          420
+        ],
+        [
+          1111,
+          420
+        ],
+        [
+          1111,
+          482
+        ],
+        [
+          231,
+          482
+        ]
+      ],
+      "score": 0.6339911222457886,
+      "y_pos": 420,
+      "text": "350. Đau dạ dày: Thái bạch, Nội quan.",
+      "confidence": 0.9898531085405594
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_024_reference_content.png",
+      "bbox": [
+        [
+          232,
+          509
+        ],
+        [
+          1217,
+          509
+        ],
+        [
+          1217,
+          574
+        ],
+        [
+          232,
+          574
+        ]
+      ],
+      "score": 0.6653364300727844,
+      "y_pos": 509,
+      "text": "351. Đau dạ dày: Trung quản, Lương khâu.",
+      "confidence": 0.9884338520822071
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_020_reference_content.png",
+      "bbox": [
+        [
+          233,
+          602
+        ],
+        [
+          1181,
+          602
+        ],
+        [
+          1181,
+          665
+        ],
+        [
+          233,
+          665
+        ]
+      ],
+      "score": 0.680560827255249,
+      "y_pos": 602,
+      "text": "352. Đau dạ dày: Túc tam lý, Trung quản.",
+      "confidence": 0.9868946714060647
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_007_reference_content.png",
+      "bbox": [
+        [
+          233,
+          693
+        ],
+        [
+          1442,
+          693
+        ],
+        [
+          1442,
+          758
+        ],
+        [
+          233,
+          758
+        ]
+      ],
+      "score": 0.7156476378440857,
+      "y_pos": 693,
+      "text": "353. Đau dạ dày: Lương khâu, Trung quản, Nội quan.",
+      "confidence": 0.9949084119154856
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_011_reference_content.png",
+      "bbox": [
+        [
+          234,
+          786
+        ],
+        [
+          1339,
+          786
+        ],
+        [
+          1339,
+          849
+        ],
+        [
+          234,
+          849
+        ]
+      ],
+      "score": 0.7098987698554993,
+      "y_pos": 786,
+      "text": "354. Đau dạ dày, nôn mửa: Nội quan, Công tôn.",
+      "confidence": 0.9747693475256575
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_015_reference_content.png",
+      "bbox": [
+        [
+          233,
+          877
+        ],
+        [
+          1255,
+          877
+        ],
+        [
+          1255,
+          942
+        ],
+        [
+          233,
+          942
+        ]
+      ],
+      "score": 0.6972164511680603,
+      "y_pos": 877,
+      "text": "355. Đau bụng trên: Trung quản, Túc tam lý.",
+      "confidence": 0.9858701427777609
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_013_reference_content.png",
+      "bbox": [
+        [
+          232,
+          968
+        ],
+        [
+          1341,
+          968
+        ],
+        [
+          1341,
+          1034
+        ],
+        [
+          232,
+          1034
+        ]
+      ],
+      "score": 0.7044731378555298,
+      "y_pos": 968,
+      "text": "356. Bung trên đầy tức: Huyền chung, Nội đình.",
+      "confidence": 0.9975026821096739
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_004_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1059
+        ],
+        [
+          2364,
+          1059
+        ],
+        [
+          2364,
+          1195
+        ],
+        [
+          231,
+          1195
+        ]
+      ],
+      "score": 0.8040357828140259,
+      "y_pos": 1059,
+      "text": "357. Thái dương và thiếu dương kiêm bệnh, đầu gáy cứng đau, hoặc chóng mặt, có khí\nkết trong ngực, vùng thượng vị có cục rắn cứng: Đại chùy, Phế du, Can du, Kỳ môn.",
+      "confidence": 0.9992662195674114
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_016_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1221
+        ],
+        [
+          1884,
+          1221
+        ],
+        [
+          1884,
+          1289
+        ],
+        [
+          232,
+          1289
+        ]
+      ],
+      "score": 0.6966333389282227,
+      "y_pos": 1221,
+      "text": "358. Nôn mửa và nước chua dạ dày quá nhiều: Công tôn, Lường khâu.",
+      "confidence": 0.9995684552548537
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_009_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1313
+        ],
+        [
+          1598,
+          1313
+        ],
+        [
+          1598,
+          1380
+        ],
+        [
+          233,
+          1380
+        ]
+      ],
+      "score": 0.7123380899429321,
+      "y_pos": 1313,
+      "text": "359. Đồ ăn giãn hơi thành hòn cục: Thủ tam lý, Túc tam lý.",
+      "confidence": 0.9995428611834843
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_006_reference_content.png",
+      "bbox": [
+        [
+          234,
+          1406
+        ],
+        [
+          1608,
+          1406
+        ],
+        [
+          1608,
+          1471
+        ],
+        [
+          234,
+          1471
+        ]
+      ],
+      "score": 0.724868893623352,
+      "y_pos": 1406,
+      "text": "360. Bệnh dạ dày, đau bụng: Can du, Đảm du, Vị du, Tỳ du.",
+      "confidence": 0.9996571641857341
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_008_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1497
+        ],
+        [
+          1783,
+          1497
+        ],
+        [
+          1783,
+          1564
+        ],
+        [
+          233,
+          1564
+        ]
+      ],
+      "score": 0.7125638127326965,
+      "y_pos": 1497,
+      "text": "361. Thần kinh dạ dày rối loạn: Lương môn, Nội quan, Lương khâu.",
+      "confidence": 0.9984694051020073
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_014_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1588
+        ],
+        [
+          1826,
+          1588
+        ],
+        [
+          1826,
+          1657
+        ],
+        [
+          233,
+          1657
+        ]
+      ],
+      "score": 0.6986377835273743,
+      "y_pos": 1588,
+      "text": "362. Dạ dày lạnh mà trướng, ăn nhiều mà mình gầy: Vị du, Thận du.",
+      "confidence": 0.9994243748152434
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_019_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1680
+        ],
+        [
+          1329,
+          1680
+        ],
+        [
+          1329,
+          1746
+        ],
+        [
+          233,
+          1746
+        ]
+      ],
+      "score": 0.6808586716651917,
+      "y_pos": 1680,
+      "text": "363. Viêm dạ dày cấp tính: Nội quan, Công tôn.",
+      "confidence": 0.9959082094331583
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_010_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1771
+        ],
+        [
+          1590,
+          1771
+        ],
+        [
+          1590,
+          1839
+        ],
+        [
+          233,
+          1839
+        ]
+      ],
+      "score": 0.7101947069168091,
+      "y_pos": 1771,
+      "text": "364. Viêm dạ dày cấp tính: Trung xung, Đại lăng, Nội quan.",
+      "confidence": 0.9955969164768855
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_017_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1864
+        ],
+        [
+          1907,
+          1864
+        ],
+        [
+          1907,
+          1930
+        ],
+        [
+          233,
+          1930
+        ]
+      ],
+      "score": 0.6950806975364685,
+      "y_pos": 1864,
+      "text": "365. Đau dạ dày tá tràng do can vị bất hòa: Vị du, Can du, Tam âm giao.",
+      "confidence": 0.9913478542680609
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_018_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1956
+        ],
+        [
+          1726,
+          1956
+        ],
+        [
+          1726,
+          2020
+        ],
+        [
+          232,
+          2020
+        ]
+      ],
+      "score": 0.6900938153266907,
+      "y_pos": 1956,
+      "text": "366. Viêm dạ dày mạn tính: Vị du, Tỳ du, Trung quản, Túc tam lý.",
+      "confidence": 0.987975431211067
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_012_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2047
+        ],
+        [
+          1394,
+          2047
+        ],
+        [
+          1394,
+          2113
+        ],
+        [
+          233,
+          2113
+        ]
+      ],
+      "score": 0.7052609324455261,
+      "y_pos": 2047,
+      "text": "367. Sa dạ dày: Trung quản, Vị thượng, Túc tam lý.",
+      "confidence": 0.9994045690848277
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_021_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2139
+        ],
+        [
+          1888,
+          2139
+        ],
+        [
+          1888,
+          2204
+        ],
+        [
+          232,
+          2204
+        ]
+      ],
+      "score": 0.6799182295799255,
+      "y_pos": 2139,
+      "text": "368. Sa dạ dày: Vị thượng thấu Tê trung, Trung quản, Khí hải, Túc tam lý.",
+      "confidence": 0.9995932825406393
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_022_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2231
+        ],
+        [
+          1451,
+          2231
+        ],
+        [
+          1451,
+          2295
+        ],
+        [
+          232,
+          2295
+        ]
+      ],
+      "score": 0.6689288020133972,
+      "y_pos": 2231,
+      "text": "369. Loét dạ dày, tá tràng: Cư liêu, Cách du, Can du.",
+      "confidence": 0.9916194308887828
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_027_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2323
+        ],
+        [
+          1949,
+          2323
+        ],
+        [
+          1949,
+          2388
+        ],
+        [
+          231,
+          2388
+        ]
+      ],
+      "score": 0.6591892838478088,
+      "y_pos": 2323,
+      "text": "370. Loét dạ dày, tá tràng: Lương môn, Trung quản, Thủ tam lý, Túc tam lý.",
+      "confidence": 0.9995892816468289
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_005_reference_content.png",
+      "bbox": [
+        [
+          230,
+          2415
+        ],
+        [
+          2364,
+          2415
+        ],
+        [
+          2364,
+          2546
+        ],
+        [
+          230,
+          2546
+        ]
+      ],
+      "score": 0.7783311009407043,
+      "y_pos": 2415,
+      "text": "371. Cấp tính thủng vết loét ở dạ dày: Trung quản, Lương môn, Thiên khu, Nội quan, Túc\ntam lý.",
+      "confidence": 0.993122665230373
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_029_reference_content.png",
+      "bbox": [
+        [
+          230,
+          2575
+        ],
+        [
+          2339,
+          2575
+        ],
+        [
+          2339,
+          2642
+        ],
+        [
+          230,
+          2642
+        ]
+      ],
+      "score": 0.641829252243042,
+      "y_pos": 2575,
+      "text": "372. Loét tá tràng: Vị du châm chếch thấu Tỳ du, Trung quản châm chếch thấu Thượng quản.",
+      "confidence": 0.9995752599504258
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_032_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2668
+        ],
+        [
+          1481,
+          2668
+        ],
+        [
+          1481,
+          2732
+        ],
+        [
+          231,
+          2732
+        ]
+      ],
+      "score": 0.6237996220588684,
+      "y_pos": 2668,
+      "text": "373. Loét tá tràng: Thủ tam lý, Trung quản, Túc tam lý.",
+      "confidence": 0.9804603457450867
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_028_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2757
+        ],
+        [
+          2181,
+          2757
+        ],
+        [
+          2181,
+          2824
+        ],
+        [
+          231,
+          2824
+        ]
+      ],
+      "score": 0.6581642031669617,
+      "y_pos": 2757,
+      "text": "374. Xuất huyết đoạn trên đường tiêu hóa: Công tôn, Túc tam lý, Nội quan, Nội đình.",
+      "confidence": 0.9994953499120824
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_025_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2851
+        ],
+        [
+          1126,
+          2851
+        ],
+        [
+          1126,
+          2913
+        ],
+        [
+          232,
+          2913
+        ]
+      ],
+      "score": 0.6630967259407043,
+      "y_pos": 2851,
+      "text": "375. Nôn ra máu: Khích môn, Đại lăng.",
+      "confidence": 0.9744802040931506
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_026_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2943
+        ],
+        [
+          1214,
+          2943
+        ],
+        [
+          1214,
+          3003
+        ],
+        [
+          232,
+          3003
+        ]
+      ],
+      "score": 0.6605522632598877,
+      "y_pos": 2943,
+      "text": "376. Nôn mửa bọt dãi: Trúc tân, Thiếu hải.",
+      "confidence": 0.9992756491357629
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_023_reference_content.png",
+      "bbox": [
+        [
+          232,
+          3035
+        ],
+        [
+          1474,
+          3035
+        ],
+        [
+          1474,
+          3097
+        ],
+        [
+          232,
+          3097
+        ]
+      ],
+      "score": 0.6675084233283997,
+      "y_pos": 3035,
+      "text": "377. Co thắt thực quản: Toàn cơ, Thiên đột, Nội quan.",
+      "confidence": 0.9995791229334745
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0528_030_reference_content.png",
+      "bbox": [
+        [
+          231,
+          3128
+        ],
+        [
+          951,
+          3128
+        ],
+        [
+          951,
+          3186
+        ],
+        [
+          231,
+          3186
+        ]
+      ],
+      "score": 0.6355633735656738,
+      "y_pos": 3128,
+      "text": "378. Nắc: Dưỡng lão, Nội quan.",
+      "confidence": 0.998502591624856
+    },
+    {
+      "type": "number",
+      "img_path": "p0528_003_number.png",
+      "bbox": [
+        [
+          2319,
+          3338
+        ],
+        [
+          2368,
+          3338
+        ],
+        [
+          2368,
+          3375
+        ],
+        [
+          2319,
+          3375
+        ]
+      ],
+      "score": 0.8632843494415283,
+      "y_pos": 3338,
+      "text": "    \n    \n\n\n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0528_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3341
+        ],
+        [
+          1325,
+          3341
+        ],
+        [
+          1325,
+          3390
+        ],
+        [
+          228,
+          3390
+        ]
+      ],
+      "score": 0.9108269810676575,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987002341252453
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0528.png"
+}

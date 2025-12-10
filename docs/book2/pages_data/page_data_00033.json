@@ -1,0 +1,578 @@
+{
+  "page_num": 33,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0033_008_header.png",
+      "bbox": [
+        [
+          1607,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9385230541229248,
+      "y_pos": 143,
+      "text": "~>\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6978494819431078
+    },
+    {
+      "type": "header",
+      "img_path": "p0033_019_header.png",
+      "bbox": [
+        [
+          228,
+          155
+        ],
+        [
+          744,
+          155
+        ],
+        [
+          744,
+          204
+        ],
+        [
+          228,
+          204
+        ]
+      ],
+      "score": 0.9158127903938293,
+      "y_pos": 155,
+      "text": "HOC THUYẾT TANG PHỦ",
+      "confidence": 0.6473782743726458
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0033_009_paragraph_title.png",
+      "bbox": [
+        [
+          222,
+          345
+        ],
+        [
+          1676,
+          345
+        ],
+        [
+          1676,
+          399
+        ],
+        [
+          222,
+          399
+        ]
+      ],
+      "score": 0.9293890595436096,
+      "y_pos": 345,
+      "text": "TÓM TẮT: TƯƠNG ỨNG THEO HỆ THỐNG GIẢI PHẪU TÂY Y",
+      "confidence": 0.995288428068161
+    },
+    {
+      "type": "text",
+      "img_path": "p0033_000_text.png",
+      "bbox": [
+        [
+          221,
+          442
+        ],
+        [
+          2358,
+          442
+        ],
+        [
+          2358,
+          633
+        ],
+        [
+          221,
+          633
+        ]
+      ],
+      "score": 0.9801968336105347,
+      "y_pos": 442,
+      "text": "Học thuyết tạng phủ thực chất là giải phẫu sinh lý và bệnh lý trong Đông y, là cơ sở biện chứng\nluận trị trên lâm sàng, khi chúng ta học tập cần coi là tự điển, cẩm nang. Còn như đối với việc lý\ngiải công năng tạng phủ theo hệ thống giải phẫu sinh lý của Tây y quy nạp như sau:",
+      "confidence": 0.998064269509317
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0033_013_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          663
+        ],
+        [
+          933,
+          663
+        ],
+        [
+          933,
+          714
+        ],
+        [
+          285,
+          714
+        ]
+      ],
+      "score": 0.9225945472717285,
+      "y_pos": 663,
+      "text": "1. Về mặt tiêu hóa, hấp thụ",
+      "confidence": 0.9501047360485998
+    },
+    {
+      "type": "text",
+      "img_path": "p0033_003_text.png",
+      "bbox": [
+        [
+          334,
+          750
+        ],
+        [
+          2356,
+          750
+        ],
+        [
+          2356,
+          869
+        ],
+        [
+          334,
+          869
+        ]
+      ],
+      "score": 0.9659929871559143,
+      "y_pos": 750,
+      "text": "Vị chủ thu nạp, Tỳ chủ vận hóa, Tiểu trường phân biệt trong đục, Đại trường chuyển thải\ncặn bã, lại có sự giúp đỡ của Can sơ tiết, Mệnh môn hỏa giúp đỡ.",
+      "confidence": 0.9995383031623153
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0033_017_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          904
+        ],
+        [
+          954,
+          904
+        ],
+        [
+          954,
+          957
+        ],
+        [
+          285,
+          957
+        ]
+      ],
+      "score": 0.9177536368370056,
+      "y_pos": 904,
+      "text": "2. Về mặt hoạt động hô hấp",
+      "confidence": 0.9699997454881668
+    },
+    {
+      "type": "text",
+      "img_path": "p0033_007_text.png",
+      "bbox": [
+        [
+          327,
+          991
+        ],
+        [
+          2359,
+          991
+        ],
+        [
+          2359,
+          1105
+        ],
+        [
+          327,
+          1105
+        ]
+      ],
+      "score": 0.9561454057693481,
+      "y_pos": 991,
+      "text": "Phế giữ hô hấp, chủ thay đổi khí thể, Thận chủ nạp khí, giúp đỡ công năng túc giáng của\nPhế.",
+      "confidence": 0.9833146001069286
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0033_014_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          1144
+        ],
+        [
+          1031,
+          1144
+        ],
+        [
+          1031,
+          1198
+        ],
+        [
+          285,
+          1198
+        ]
+      ],
+      "score": 0.9225748777389526,
+      "y_pos": 1144,
+      "text": "3. Về mặt tuần hoàn huyết dịch",
+      "confidence": 0.9875551201403141
+    },
+    {
+      "type": "text",
+      "img_path": "p0033_001_text.png",
+      "bbox": [
+        [
+          329,
+          1232
+        ],
+        [
+          2358,
+          1232
+        ],
+        [
+          2358,
+          1421
+        ],
+        [
+          329,
+          1421
+        ]
+      ],
+      "score": 0.9740362763404846,
+      "y_pos": 1232,
+      "text": "Tâm chủ huyết mạch, là động lực của tuần hoàn. Phế hướng về trăm mạch, thêm vào\ntuần hoàn huyết dịch. Can tàng huyết, công năng điều tiết huyết lượng. Tỳ thống huyết,\nlàm cho huyết dịch tuần hoàn trong mạch mà không tràn ra ngoài.",
+      "confidence": 0.9970622795408652
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0033_015_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          1453
+        ],
+        [
+          1024,
+          1453
+        ],
+        [
+          1024,
+          1507
+        ],
+        [
+          284,
+          1507
+        ]
+      ],
+      "score": 0.9215573072433472,
+      "y_pos": 1453,
+      "text": "4. Về mặt công năng tạo huyết",
+      "confidence": 0.985157476317498
+    },
+    {
+      "type": "text",
+      "img_path": "p0033_006_text.png",
+      "bbox": [
+        [
+          327,
+          1542
+        ],
+        [
+          2358,
+          1542
+        ],
+        [
+          2358,
+          1661
+        ],
+        [
+          327,
+          1661
+        ]
+      ],
+      "score": 0.962187647819519,
+      "y_pos": 1542,
+      "text": "Tỳ, Vị là gốc của hậu thiên, nguồn của hóa sinh huyết dịch, Thận là gốc của tiên thiên, tạo\nhuyết cũng nhờ Thận ôn dưỡng.",
+      "confidence": 0.995936595304038
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0033_016_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          1696
+        ],
+        [
+          869,
+          1696
+        ],
+        [
+          869,
+          1745
+        ],
+        [
+          285,
+          1745
+        ]
+      ],
+      "score": 0.9182858467102051,
+      "y_pos": 1696,
+      "text": "5. Về mặt đào thải nước",
+      "confidence": 0.9760580444335938
+    },
+    {
+      "type": "text",
+      "img_path": "p0033_004_text.png",
+      "bbox": [
+        [
+          332,
+          1783
+        ],
+        [
+          2360,
+          1783
+        ],
+        [
+          2360,
+          1901
+        ],
+        [
+          332,
+          1901
+        ]
+      ],
+      "score": 0.9652730822563171,
+      "y_pos": 1783,
+      "text": "Tỳ chủ vận hóa thủy thấp, Phế chủ thông điều thủy đạo, Thận chủ bài tiết của thủy, Tam\ntiêu chủ khí hóa, Bàng quang chủ chứa nước tiểu và bài tiết nước tiểu.",
+      "confidence": 0.972121704670817
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0033_012_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          1937
+        ],
+        [
+          850,
+          1937
+        ],
+        [
+          850,
+          1988
+        ],
+        [
+          285,
+          1988
+        ]
+      ],
+      "score": 0.9253552556037903,
+      "y_pos": 1937,
+      "text": "6. Công năng thần kinh",
+      "confidence": 0.9367237190405527
+    },
+    {
+      "type": "text",
+      "img_path": "p0033_002_text.png",
+      "bbox": [
+        [
+          334,
+          2026
+        ],
+        [
+          2360,
+          2026
+        ],
+        [
+          2360,
+          2145
+        ],
+        [
+          334,
+          2145
+        ]
+      ],
+      "score": 0.9675978422164917,
+      "y_pos": 2026,
+      "text": "Một phần công năng của Tâm tương đương với thần kinh đại não, là trung tâm của hoạt\nđộng tình chí, tư duy. Cũng như các tạng đều gồm có hoạt động thần kinh tinh thần.",
+      "confidence": 0.9996393127434728
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0033_011_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          2182
+        ],
+        [
+          850,
+          2182
+        ],
+        [
+          850,
+          2232
+        ],
+        [
+          286,
+          2232
+        ]
+      ],
+      "score": 0.9264302253723145,
+      "y_pos": 2182,
+      "text": "7. Công năng vận dộng",
+      "confidence": 0.929687948330589
+    },
+    {
+      "type": "text",
+      "img_path": "p0033_005_text.png",
+      "bbox": [
+        [
+          334,
+          2270
+        ],
+        [
+          2356,
+          2270
+        ],
+        [
+          2356,
+          2386
+        ],
+        [
+          334,
+          2386
+        ]
+      ],
+      "score": 0.9637430906295776,
+      "y_pos": 2270,
+      "text": "Thận chủ xương, làm cho vận động đều đặn, động tác nhanh nhẹn, tinh xảo. Can chủ gân,\nco duỗi các khớp. Tỳ chủ tứ chi, quản cơ bắp toàn thân.",
+      "confidence": 0.9934836775515199
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0033_018_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          2423
+        ],
+        [
+          1321,
+          2423
+        ],
+        [
+          1321,
+          2472
+        ],
+        [
+          283,
+          2472
+        ]
+      ],
+      "score": 0.9164835810661316,
+      "y_pos": 2423,
+      "text": "8. Công năng nôi tiết và sinh dục toàn thân",
+      "confidence": 0.9692943943871393
+    },
+    {
+      "type": "text",
+      "img_path": "p0033_010_text.png",
+      "bbox": [
+        [
+          336,
+          2511
+        ],
+        [
+          1836,
+          2511
+        ],
+        [
+          1836,
+          2562
+        ],
+        [
+          336,
+          2562
+        ]
+      ],
+      "score": 0.9279606342315674,
+      "y_pos": 2511,
+      "text": "Có quan hệ với Thận, Can, Nữ tử bào và Xung mạch, Nhâm mạch.",
+      "confidence": 0.9996106422716572
+    },
+    {
+      "type": "footer",
+      "img_path": "p0033_020_footer.png",
+      "bbox": [
+        [
+          231,
+          3334
+        ],
+        [
+          1434,
+          3334
+        ],
+        [
+          1434,
+          3387
+        ],
+        [
+          231,
+          3387
+        ]
+      ],
+      "score": 0.9118128418922424,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985907921251261
+    },
+    {
+      "type": "number",
+      "img_path": "p0033_021_number.png",
+      "bbox": [
+        [
+          2336,
+          3338
+        ],
+        [
+          2383,
+          3338
+        ],
+        [
+          2383,
+          3374
+        ],
+        [
+          2336,
+          3374
+        ]
+      ],
+      "score": 0.8696684837341309,
+      "y_pos": 3338,
+      "text": "    \n\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0033.png"
+}

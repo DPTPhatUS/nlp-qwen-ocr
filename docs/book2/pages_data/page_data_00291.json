@@ -1,0 +1,214 @@
+{
+  "page_num": 291,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0291_002_header.png",
+      "bbox": [
+        [
+          1609,
+          143
+        ],
+        [
+          2370,
+          143
+        ],
+        [
+          2370,
+          203
+        ],
+        [
+          1609,
+          203
+        ]
+      ],
+      "score": 0.9186844825744629,
+      "y_pos": 143,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.8009170967908132
+    },
+    {
+      "type": "header",
+      "img_path": "p0291_003_header.png",
+      "bbox": [
+        [
+          229,
+          160
+        ],
+        [
+          1345,
+          160
+        ],
+        [
+          1345,
+          201
+        ],
+        [
+          229,
+          201
+        ]
+      ],
+      "score": 0.9085534811019897,
+      "y_pos": 160,
+      "text": "CÁC BẢNG TRA CỨU HUYỆT LIÊN QUAN TRONG CHÂM CỨU",
+      "confidence": 0.9987369848757374
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0291_005_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          288
+        ],
+        [
+          1934,
+          288
+        ],
+        [
+          1934,
+          343
+        ],
+        [
+          224,
+          343
+        ]
+      ],
+      "score": 0.8986361026763916,
+      "y_pos": 288,
+      "text": "NGÀY GIỜ VÀ HUYẾT MỚ THEO PHÉP \"LINH QUY PHI ĐẮNG\": Bảng 20",
+      "confidence": 0.9804814042615109
+    },
+    {
+      "type": "text",
+      "img_path": "p0291_001_text.png",
+      "bbox": [
+        [
+          277,
+          385
+        ],
+        [
+          2358,
+          385
+        ],
+        [
+          2358,
+          574
+        ],
+        [
+          277,
+          574
+        ]
+      ],
+      "score": 0.970664381980896,
+      "y_pos": 385,
+      "text": "Dùng để chữa các chứng bại liệt, phong thấp.. và các loại bệnh có triệu chứng toàn thân, vì\ncác bệnh này thường sinh ra do rối loạn ở các Kỳ Kinh: Xung, Nhâm, Đốc, Đới, Âm kiểu,\nDương kiểu, Âm duy, Dương duy.",
+      "confidence": 0.9992061591443693
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0291_004_figure_title.png",
+      "bbox": [
+        [
+          575,
+          600
+        ],
+        [
+          2010,
+          600
+        ],
+        [
+          2010,
+          650
+        ],
+        [
+          575,
+          650
+        ]
+      ],
+      "score": 0.9042839407920837,
+      "y_pos": 600,
+      "text": "Bảng 20 - Bảng ngày giờ và huyệt mở theo phép \"Linh quy phi đằng\"",
+      "confidence": 0.9966836411561539
+    },
+    {
+      "type": "table",
+      "img_path": "p0291_000_table.png",
+      "bbox": [
+        [
+          247,
+          679
+        ],
+        [
+          2347,
+          679
+        ],
+        [
+          2347,
+          3143
+        ],
+        [
+          247,
+          3143
+        ]
+      ],
+      "score": 0.9924098253250122,
+      "y_pos": 679,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0291_006_footer.png",
+      "bbox": [
+        [
+          229,
+          3335
+        ],
+        [
+          1435,
+          3335
+        ],
+        [
+          1435,
+          3388
+        ],
+        [
+          229,
+          3388
+        ]
+      ],
+      "score": 0.8970667719841003,
+      "y_pos": 3335,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9468427277960867
+    },
+    {
+      "type": "number",
+      "img_path": "p0291_007_number.png",
+      "bbox": [
+        [
+          2330,
+          3340
+        ],
+        [
+          2356,
+          3340
+        ],
+        [
+          2356,
+          3373
+        ],
+        [
+          2330,
+          3373
+        ]
+      ],
+      "score": 0.8174841403961182,
+      "y_pos": 3340,
+      "text": "\n\n\n\n    \n\n    \n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0291.png"
+}

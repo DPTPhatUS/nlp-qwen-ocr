@@ -1,0 +1,264 @@
+{
+  "page_num": 80,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0080_004_header.png",
+      "bbox": [
+        [
+          1606,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1606,
+          201
+        ]
+      ],
+      "score": 0.9175401329994202,
+      "y_pos": 142,
+      "text": "_______________________________________\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6523312898618834
+    },
+    {
+      "type": "header",
+      "img_path": "p0080_007_header.png",
+      "bbox": [
+        [
+          230,
+          160
+        ],
+        [
+          442,
+          160
+        ],
+        [
+          442,
+          202
+        ],
+        [
+          230,
+          202
+        ]
+      ],
+      "score": 0.8874430060386658,
+      "y_pos": 160,
+      "text": "KINH LAC",
+      "confidence": 0.7318128407001495
+    },
+    {
+      "type": "text",
+      "img_path": "p0080_001_text.png",
+      "bbox": [
+        [
+          337,
+          302
+        ],
+        [
+          2358,
+          302
+        ],
+        [
+          2358,
+          484
+        ],
+        [
+          337,
+          484
+        ]
+      ],
+      "score": 0.971213161945343,
+      "y_pos": 302,
+      "text": "ven theo mặt cao của cơ tứ đầu đùi, xuống qua xương bánh chè, ven theo cạnh ngoài của\nmặt trước xương chày, phía dưới phân bố xuống mu bàn chân, đến cạnh ngoài đầu ngón\nchân thứ hai.",
+      "confidence": 0.9956205335287168
+    },
+    {
+      "type": "text",
+      "img_path": "p0080_003_text.png",
+      "bbox": [
+        [
+          338,
+          522
+        ],
+        [
+          2359,
+          522
+        ],
+        [
+          2359,
+          643
+        ],
+        [
+          338,
+          643
+        ]
+      ],
+      "score": 0.954404890537262,
+      "y_pos": 522,
+      "text": "Mạch nhánh ở xương chày, từ chỗ dưới xương bánh chè 3 thốn (<i>Túc tam lý</i>) phân ra một\nnhánh cạnh đi xuống đến cạnh ngoài ngón giữa, chỗ khe nối hai ngón chân.",
+      "confidence": 0.9962924838056844
+    },
+    {
+      "type": "text",
+      "img_path": "p0080_002_text.png",
+      "bbox": [
+        [
+          338,
+          677
+        ],
+        [
+          2356,
+          677
+        ],
+        [
+          2356,
+          798
+        ],
+        [
+          338,
+          798
+        ]
+      ],
+      "score": 0.9562527537345886,
+      "y_pos": 677,
+      "text": "Mạch nhánh ở bàn chân, từ mu bàn chân (Xung dương) phân ra đi xuống đến cạnh trong\nđầu ngón cái (<i>Ẩn bạch</i>).",
+      "confidence": 0.9533773061459657
+    },
+    {
+      "type": "text",
+      "img_path": "p0080_008_text.png",
+      "bbox": [
+        [
+          283,
+          831
+        ],
+        [
+          2356,
+          831
+        ],
+        [
+          2356,
+          951
+        ],
+        [
+          283,
+          951
+        ]
+      ],
+      "score": 0.8613161444664001,
+      "y_pos": 831,
+      "text": "b, Quan hệ tạng phủ: Kinh này từ đầu xuống chân, thuộc vị, đường lạc sang tỳ, có quan hệ\ntrực tiếp với tâm, đại trường và tiểu trường.",
+      "confidence": 0.8436794584101819
+    },
+    {
+      "type": "image",
+      "img_path": "p0080_000_image.png",
+      "bbox": [
+        [
+          897,
+          1001
+        ],
+        [
+          1744,
+          1001
+        ],
+        [
+          1744,
+          2990
+        ],
+        [
+          897,
+          2990
+        ]
+      ],
+      "score": 0.9741500616073608,
+      "y_pos": 1001
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0080_006_figure_title.png",
+      "bbox": [
+        [
+          745,
+          3066
+        ],
+        [
+          1900,
+          3066
+        ],
+        [
+          1900,
+          3116
+        ],
+        [
+          745,
+          3116
+        ]
+      ],
+      "score": 0.8912187218666077,
+      "y_pos": 3066,
+      "text": "Hình 10. Đường tuần hành của kinh Túc dương minh vị",
+      "confidence": 0.9421271040754499
+    },
+    {
+      "type": "footer",
+      "img_path": "p0080_005_footer.png",
+      "bbox": [
+        [
+          230,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          230,
+          3387
+        ]
+      ],
+      "score": 0.90457683801651,
+      "y_pos": 3333,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.998433677655346
+    },
+    {
+      "type": "number",
+      "img_path": "p0080_009_number.png",
+      "bbox": [
+        [
+          2332,
+          3340
+        ],
+        [
+          2358,
+          3340
+        ],
+        [
+          2358,
+          3373
+        ],
+        [
+          2332,
+          3373
+        ]
+      ],
+      "score": 0.8137567043304443,
+      "y_pos": 3340,
+      "text": "        \n    \n    \n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0080.png"
+}

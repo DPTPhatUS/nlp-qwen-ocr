@@ -1,0 +1,420 @@
+{
+  "page_num": 138,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0138_009_header.png",
+      "bbox": [
+        [
+          1609,
+          142
+        ],
+        [
+          2374,
+          142
+        ],
+        [
+          2374,
+          202
+        ],
+        [
+          1609,
+          202
+        ]
+      ],
+      "score": 0.9192347526550293,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.8072259316132182
+    },
+    {
+      "type": "header",
+      "img_path": "p0138_012_header.png",
+      "bbox": [
+        [
+          229,
+          156
+        ],
+        [
+          908,
+          156
+        ],
+        [
+          908,
+          202
+        ],
+        [
+          229,
+          202
+        ]
+      ],
+      "score": 0.9100618362426758,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9878454228927349
+    },
+    {
+      "type": "image",
+      "img_path": "p0138_004_image.png",
+      "bbox": [
+        [
+          654,
+          356
+        ],
+        [
+          1944,
+          356
+        ],
+        [
+          1944,
+          1332
+        ],
+        [
+          654,
+          1332
+        ]
+      ],
+      "score": 0.9664252400398254,
+      "y_pos": 356
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0138_014_figure_title.png",
+      "bbox": [
+        [
+          1156,
+          1404
+        ],
+        [
+          1434,
+          1404
+        ],
+        [
+          1434,
+          1447
+        ],
+        [
+          1156,
+          1447
+        ]
+      ],
+      "score": 0.8598926663398743,
+      "y_pos": 1404,
+      "text": "Hinh 55    :n",
+      "confidence": 0.7394885097940762
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0138_007_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1491
+        ],
+        [
+          577,
+          1491
+        ],
+        [
+          577,
+          1542
+        ],
+        [
+          226,
+          1542
+        ]
+      ],
+      "score": 0.921256422996521,
+      "y_pos": 1491,
+      "text": "36. Túc tam lý",
+      "confidence": 0.9380998611450195
+    },
+    {
+      "type": "text",
+      "img_path": "p0138_010_text.png",
+      "bbox": [
+        [
+          287,
+          1582
+        ],
+        [
+          2070,
+          1582
+        ],
+        [
+          2070,
+          1639
+        ],
+        [
+          287,
+          1639
+        ]
+      ],
+      "score": 0.9155997633934021,
+      "y_pos": 1582,
+      "text": "Vị trí: Dưới huyệt Ngoại Tất nhân 3 thốn, cạnh ngoài phía dưới đầu gối. (H. 56)",
+      "confidence": 0.9948157101501653
+    },
+    {
+      "type": "text",
+      "img_path": "p0138_001_text.png",
+      "bbox": [
+        [
+          278,
+          1672
+        ],
+        [
+          2357,
+          1672
+        ],
+        [
+          2357,
+          1942
+        ],
+        [
+          278,
+          1942
+        ]
+      ],
+      "score": 0.9782478213310242,
+      "y_pos": 1672,
+      "text": "Cách lấy huyệt: Ngồi ngay ngắn hoặc nằm ngửa, co đầu gối, bàn chân để tự nhiên, bảo\nbệnh nhân để bàn tay úp lên xương bánh chè, đầu ngón tay giữa tới đầu lấy đó làm mức rồi\ntừ đó ra ngoài 1 thốn là huyệt. (H. 57). Hoặc dùng tay nắn phía dưới lồi trên xương chầy.\nthẳng giữa xương bánh chè xuống, từ đó ra ngoài 1 thốn.",
+      "confidence": 0.997769121447067
+    },
+    {
+      "type": "text",
+      "img_path": "p0138_003_text.png",
+      "bbox": [
+        [
+          279,
+          1976
+        ],
+        [
+          2358,
+          1976
+        ],
+        [
+          2358,
+          2172
+        ],
+        [
+          279,
+          2172
+        ]
+      ],
+      "score": 0.972878634929657,
+      "y_pos": 1976,
+      "text": "Cách châm: Châm đứng kim, sâu 0,5 - 1,5 thốn, có cảm giác buốt, tức tại chỗ, sau chuyển\nđến mặt trước ống chân, có khi thẳng tới ngón chân 3 – 4, có khi hướng lên chuyển tới bụng.\nCứu 7 – 10 mồi hơ 30 phút.",
+      "confidence": 0.9627002849960152
+    },
+    {
+      "type": "text",
+      "img_path": "p0138_000_text.png",
+      "bbox": [
+        [
+          279,
+          2213
+        ],
+        [
+          2358,
+          2213
+        ],
+        [
+          2358,
+          2478
+        ],
+        [
+          279,
+          2478
+        ]
+      ],
+      "score": 0.9811215400695801,
+      "y_pos": 2213,
+      "text": "Chủ trị: Bệnh đường ruột, nôn mửa, đau dạ dày, đau bụng, ly, tiêu hoá kém, ỉa chảy, táo\nbón, váng đầu, đau đầu, mất ngủ, cao huyết áp, cảm mạo, đau răng, đau lưng, liệt, kinh\nnguyệt không đều, đau bụng hành kinh, bế kinh. Huyệt này có tác dụng làm tăng sức đề\nphòng cảm mạo, chống cơn mỏi mệt.",
+      "confidence": 0.9930158258564101
+    },
+    {
+      "type": "text",
+      "img_path": "p0138_002_text.png",
+      "bbox": [
+        [
+          282,
+          2517
+        ],
+        [
+          2357,
+          2517
+        ],
+        [
+          2357,
+          2710
+        ],
+        [
+          282,
+          2710
+        ]
+      ],
+      "score": 0.9749787449836731,
+      "y_pos": 2517,
+      "text": "Tác dụng phối hợp: Với Hợp cốc, Khúc trì trị cao huyết áp; với Thái xung trị viêm gan; với\nCan du trị mắt hoa mờ; với <i>Trung quản</i> trị đau dạ dày; với <i>Thiên khu, Khí hải</i> trị bụng trướng\nly, ia chảy táo bón.",
+      "confidence": 0.9819061918880468
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0138_013_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2751
+        ],
+        [
+          677,
+          2751
+        ],
+        [
+          677,
+          2801
+        ],
+        [
+          226,
+          2801
+        ]
+      ],
+      "score": 0.9029224514961243,
+      "y_pos": 2751,
+      "text": "37. Thượng cự hư",
+      "confidence": 0.9943210449483659
+    },
+    {
+      "type": "text",
+      "img_path": "p0138_008_text.png",
+      "bbox": [
+        [
+          289,
+          2841
+        ],
+        [
+          1256,
+          2841
+        ],
+        [
+          1256,
+          2894
+        ],
+        [
+          289,
+          2894
+        ]
+      ],
+      "score": 0.9210516810417175,
+      "y_pos": 2841,
+      "text": "Vị trí: Dưới huyệt <i>Túc tam lý</i> 3 thốn (H. 56)",
+      "confidence": 0.9762569268544515
+    },
+    {
+      "type": "text",
+      "img_path": "p0138_006_text.png",
+      "bbox": [
+        [
+          285,
+          2934
+        ],
+        [
+          1610,
+          2934
+        ],
+        [
+          1610,
+          2984
+        ],
+        [
+          285,
+          2984
+        ]
+      ],
+      "score": 0.924929678440094,
+      "y_pos": 2934,
+      "text": "Cách châm: Châm đứng kim, sâu 1 – 2,5 thốn. Cứu 3 mồi.",
+      "confidence": 0.981751063572509
+    },
+    {
+      "type": "text",
+      "img_path": "p0138_005_text.png",
+      "bbox": [
+        [
+          286,
+          3026
+        ],
+        [
+          1658,
+          3026
+        ],
+        [
+          1658,
+          3079
+        ],
+        [
+          286,
+          3079
+        ]
+      ],
+      "score": 0.9262999892234802,
+      "y_pos": 3026,
+      "text": "Chủ trị: Đau bụng, trướng bụng, la chảy, ly, liệt 1 bên người.",
+      "confidence": 0.9618496675975621
+    },
+    {
+      "type": "footer",
+      "img_path": "p0138_011_footer.png",
+      "bbox": [
+        [
+          227,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.9101795554161072,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9983427963166867
+    },
+    {
+      "type": "number",
+      "img_path": "p0138_015_number.png",
+      "bbox": [
+        [
+          2305,
+          3339
+        ],
+        [
+          2351,
+          3339
+        ],
+        [
+          2351,
+          3377
+        ],
+        [
+          2305,
+          3377
+        ]
+      ],
+      "score": 0.8592219352722168,
+      "y_pos": 3339,
+      "text": "    \n    \n    \n\n\n\n.\n\n\n\n\n\n\n\n\n",
+      "confidence": 0.9709207533221496
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0138.png"
+}

@@ -1,0 +1,552 @@
+{
+  "page_num": 486,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0486_008_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9319965243339539,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0486_013_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.916955828666687,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0486_009_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          331
+        ],
+        [
+          536,
+          331
+        ],
+        [
+          536,
+          378
+        ],
+        [
+          226,
+          378
+        ]
+      ],
+      "score": 0.9249907732009888,
+      "y_pos": 331,
+      "text": "55. Đau răng",
+      "confidence": 0.883256482226508
+    },
+    {
+      "type": "text",
+      "img_path": "p0486_002_text.png",
+      "bbox": [
+        [
+          221,
+          420
+        ],
+        [
+          2358,
+          420
+        ],
+        [
+          2358,
+          613
+        ],
+        [
+          221,
+          613
+        ]
+      ],
+      "score": 0.9798945784568787,
+      "y_pos": 420,
+      "text": "Đau răng là loại bệnh thường do phong hỏa, vị nhiệt gây ra. Sâu răng cũng gây đau răng. Vì\nvậy chia ra hai loại: răng hỏa và răng sâu. Châm cứu đối với đau răng do hỏa mà đau có hiệu\nquả rất tốt, thường giảm đau ngay.",
+      "confidence": 0.9846195197434842
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0486_016_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          656
+        ],
+        [
+          570,
+          656
+        ],
+        [
+          570,
+          700
+        ],
+        [
+          284,
+          700
+        ]
+      ],
+      "score": 0.8182163834571838,
+      "y_pos": 656,
+      "text": "Cách chữa:",
+      "confidence": 0.8635962804158529
+    },
+    {
+      "type": "text",
+      "img_path": "p0486_020_text.png",
+      "bbox": [
+        [
+          285,
+          744
+        ],
+        [
+          1022,
+          744
+        ],
+        [
+          1022,
+          796
+        ],
+        [
+          285,
+          796
+        ]
+      ],
+      "score": 0.5921075940132141,
+      "y_pos": 744,
+      "text": "• Phương 1: Hợp côc, Giáp xa.",
+      "confidence": 0.5310543217966633
+    },
+    {
+      "type": "text",
+      "img_path": "p0486_001_text.png",
+      "bbox": [
+        [
+          330,
+          834
+        ],
+        [
+          2359,
+          834
+        ],
+        [
+          2359,
+          1171
+        ],
+        [
+          330,
+          1171
+        ]
+      ],
+      "score": 0.9830164313316345,
+      "y_pos": 834,
+      "text": "Dùng hào kim châm huyệt <i>Hợp cốc</i>, mũi kim hơi chếch lên phía cổ tay, vê rất mạnh, làm\ncho cảm giác tê tức lan đến đầu, lại lui kim đến dưới da, chuyển mũi kim hướng xuống\ndưới ngón tay làm cho cảm giác lan đến gần đầu ngón tay. Làm đi làm lại như thế 3 lần.\nLại châm huyệt Giáp xa, dùng thủ pháp bình bổ bình tả, lưu kim từ 20 đến 30 phút, mỗi\nngày một lần.",
+      "confidence": 0.9967616535473536
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0486_017_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1214
+        ],
+        [
+          581,
+          1214
+        ],
+        [
+          581,
+          1262
+        ],
+        [
+          344,
+          1262
+        ]
+      ],
+      "score": 0.7547529339790344,
+      "y_pos": 1214,
+      "text": "Gia giam:",
+      "confidence": 0.7926620678468184
+    },
+    {
+      "type": "text",
+      "img_path": "p0486_010_text.png",
+      "bbox": [
+        [
+          344,
+          1305
+        ],
+        [
+          1248,
+          1305
+        ],
+        [
+          1248,
+          1355
+        ],
+        [
+          344,
+          1355
+        ]
+      ],
+      "score": 0.9211170077323914,
+      "y_pos": 1305,
+      "text": "+ Phong hỏa gia Ngoại quan, Phong trì.",
+      "confidence": 0.9622620135545731
+    },
+    {
+      "type": "text",
+      "img_path": "p0486_006_text.png",
+      "bbox": [
+        [
+          345,
+          1397
+        ],
+        [
+          1135,
+          1397
+        ],
+        [
+          1135,
+          1445
+        ],
+        [
+          345,
+          1445
+        ]
+      ],
+      "score": 0.9329457879066467,
+      "y_pos": 1397,
+      "text": "+ Hư hỏa gia <i>Thái khê, Hành gian</i>.",
+      "confidence": 0.9758092293868194
+    },
+    {
+      "type": "text",
+      "img_path": "p0486_007_text.png",
+      "bbox": [
+        [
+          345,
+          1489
+        ],
+        [
+          1351,
+          1489
+        ],
+        [
+          1351,
+          1538
+        ],
+        [
+          345,
+          1538
+        ]
+      ],
+      "score": 0.9325147271156311,
+      "y_pos": 1489,
+      "text": "+ Răng hàm trên đau gia Nội đình, Hạ quan.",
+      "confidence": 0.953762333501469
+    },
+    {
+      "type": "text",
+      "img_path": "p0486_011_text.png",
+      "bbox": [
+        [
+          343,
+          1578
+        ],
+        [
+          1840,
+          1578
+        ],
+        [
+          1840,
+          1631
+        ],
+        [
+          343,
+          1631
+        ]
+      ],
+      "score": 0.9189360737800598,
+      "y_pos": 1578,
+      "text": "+ Răng hàm dưới đau gia <i>Liệt khuyết, Nội đình</i>, đều dùng tả pháp.",
+      "confidence": 0.9907530265695909
+    },
+    {
+      "type": "text",
+      "img_path": "p0486_000_text.png",
+      "bbox": [
+        [
+          336,
+          1668
+        ],
+        [
+          2360,
+          1668
+        ],
+        [
+          2360,
+          2218
+        ],
+        [
+          336,
+          2218
+        ]
+      ],
+      "score": 0.9860095977783203,
+      "y_pos": 1668,
+      "text": "Giảng nghĩa của phương: Hợp cốc là huyệt chữa đau răng có hiệu quả, không kể là\nrăng trên, dưới, trái, phải. Thường chỉ châm Hợp cốc là bớt đau. Nó có thể thông điều kinh\nkhí của thủ dương minh, có tác dụng thanh tiết trường phủ, dẫn hỏa đi xuống. Mạch thủ\ntúc dương minh đều đi vào trong răng, do đó <i>Giáp xa</i> có thể sơ tiết khí ở kinh lạc dương\nminh. <i>Ngoại quan, Phong trì</i> có thể sơ giải biểu tà, có tác dụng khử phong tiêu hỏa. <i>Thái</i>\nkhê bổ thận, Hành gian tả can do đó có thể trị âm hư đau răng. <i>Nội đình</i> và <i>Hạ quan</i> đều\ncó tác dụng thanh giáng hỏa ở túc dương minh vị. <i>Liệt khuyết</i> để thanh phế giáng hỏa mà\nchữa đau răng.",
+      "confidence": 0.9952109227456141
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0486_019_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          2256
+        ],
+        [
+          1312,
+          2256
+        ],
+        [
+          1312,
+          2310
+        ],
+        [
+          285,
+          2310
+        ]
+      ],
+      "score": 0.5958318114280701,
+      "y_pos": 2256,
+      "text": "\n    Phương 2: Lấy huyệt Nha thống, Hợp cốc.\n",
+      "confidence": 0.9774579763412475
+    },
+    {
+      "type": "text",
+      "img_path": "p0486_003_text.png",
+      "bbox": [
+        [
+          330,
+          2348
+        ],
+        [
+          2357,
+          2348
+        ],
+        [
+          2357,
+          2563
+        ],
+        [
+          330,
+          2563
+        ]
+      ],
+      "score": 0.9704015254974365,
+      "y_pos": 2348,
+      "text": "Huyệt <i>Nha thống</i> châm về phía lòng bàn tay, xuyên thấu huyệt <i>Lao cung</i>, kích thích mạnh.\nNếu châm hai huyệt này kết quả kém thì: Đau hàm trên, gia <i>Hạ quan</i>; đau hàm dưới, gia\nGiáp xa. Đều dùng kích thích mạnh.",
+      "confidence": 0.8937314872885848
+    },
+    {
+      "type": "text",
+      "img_path": "p0486_012_text.png",
+      "bbox": [
+        [
+          342,
+          2601
+        ],
+        [
+          1480,
+          2601
+        ],
+        [
+          1480,
+          2654
+        ],
+        [
+          342,
+          2654
+        ]
+      ],
+      "score": 0.9187709093093872,
+      "y_pos": 2601,
+      "text": "Cũng có thể ấn điểm Giáp xa, Hợp cốc sẽ dứt đau.",
+      "confidence": 0.9937030720710754
+    },
+    {
+      "type": "text",
+      "img_path": "p0486_018_text.png",
+      "bbox": [
+        [
+          287,
+          2695
+        ],
+        [
+          1095,
+          2695
+        ],
+        [
+          1095,
+          2747
+        ],
+        [
+          287,
+          2747
+        ]
+      ],
+      "score": 0.6699244976043701,
+      "y_pos": 2695,
+      "text": "\n    Phương 3: Lây huyệt Hành gian.\n",
+      "confidence": 0.9722727611660957
+    },
+    {
+      "type": "text",
+      "img_path": "p0486_005_text.png",
+      "bbox": [
+        [
+          338,
+          2787
+        ],
+        [
+          2360,
+          2787
+        ],
+        [
+          2360,
+          2902
+        ],
+        [
+          338,
+          2902
+        ]
+      ],
+      "score": 0.964401125907898,
+      "y_pos": 2787,
+      "text": "Dùng hào kim vê chuyển tiến kim, mũi kim hướng về gót chân, châm kim sâu hơn một\nthốn.",
+      "confidence": 0.9948567922003178
+    },
+    {
+      "type": "text",
+      "img_path": "p0486_004_text.png",
+      "bbox": [
+        [
+          339,
+          2949
+        ],
+        [
+          2357,
+          2949
+        ],
+        [
+          2357,
+          3072
+        ],
+        [
+          339,
+          3072
+        ]
+      ],
+      "score": 0.9653019309043884,
+      "y_pos": 2949,
+      "text": "Giảng nghĩa của phương: Phương này có tác dụng tiết can, thanh hỏa, do đó có kết quả\nđối với loại đau răng do can hỏa thịnh vượng.",
+      "confidence": 0.9989967475590407
+    },
+    {
+      "type": "number",
+      "img_path": "p0486_015_number.png",
+      "bbox": [
+        [
+          2304,
+          3299
+        ],
+        [
+          2352,
+          3299
+        ],
+        [
+          2352,
+          3334
+        ],
+        [
+          2304,
+          3334
+        ]
+      ],
+      "score": 0.8688470721244812,
+      "y_pos": 3299,
+      "text": "    \n            \n        \n\n\n\n    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0486_014_footer.png",
+      "bbox": [
+        [
+          228,
+          3309
+        ],
+        [
+          1323,
+          3309
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          228,
+          3355
+        ]
+      ],
+      "score": 0.9064347743988037,
+      "y_pos": 3309,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9293094086197188
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0486.png"
+}

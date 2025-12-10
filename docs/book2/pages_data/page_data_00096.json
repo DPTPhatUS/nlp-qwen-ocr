@@ -1,0 +1,214 @@
+{
+  "page_num": 96,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0096_002_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9226046204566956,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7643314777385621
+    },
+    {
+      "type": "header",
+      "img_path": "p0096_004_header.png",
+      "bbox": [
+        [
+          229,
+          160
+        ],
+        [
+          453,
+          160
+        ],
+        [
+          453,
+          201
+        ],
+        [
+          229,
+          201
+        ]
+      ],
+      "score": 0.9037903547286987,
+      "y_pos": 160,
+      "text": "DU HUYET",
+      "confidence": 0.6098162591457367
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0096_007_paragraph_title.png",
+      "bbox": [
+        [
+          1125,
+          361
+        ],
+        [
+          1469,
+          361
+        ],
+        [
+          1469,
+          426
+        ],
+        [
+          1125,
+          426
+        ]
+      ],
+      "score": 0.7638998627662659,
+      "y_pos": 361,
+      "text": "HIIV",
+      "confidence": 0.8399256587028503
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0096_005_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          477
+        ],
+        [
+          822,
+          477
+        ],
+        [
+          822,
+          524
+        ],
+        [
+          225,
+          524
+        ]
+      ],
+      "score": 0.8870598077774048,
+      "y_pos": 477,
+      "text": "ĐAI CƯƠNG VỀ DU HUYẾT",
+      "confidence": 0.8742489711098049
+    },
+    {
+      "type": "text",
+      "img_path": "p0096_000_text.png",
+      "bbox": [
+        [
+          284,
+          575
+        ],
+        [
+          2360,
+          575
+        ],
+        [
+          2360,
+          929
+        ],
+        [
+          284,
+          929
+        ]
+      ],
+      "score": 0.9811334013938904,
+      "y_pos": 575,
+      "text": "A. Du huyệt cũng gọi là khổng huyệt, huyệt đạo, huyệt vị, kinh huyêth, khí huyệt. Chữ \"Du\"\ncó nghĩa giống như luân, là chuyển luân (theo Tứ giác hiệu mã tân từ điển thì chữ Du có\nnghĩa là đáp ứng yêu cầu. Có thể định nghĩa này phù hợp với tính năng, tác dụng của\nhuyệt vị hơn). Huyệt có nghĩa là một khoảng trống. Du huyệt là điểm trên bề mặt cơ thể\nthông với kinh lạc. Nó phân bố ở trên bề mặ đường kinh mạch và là nơi để châm cứu.",
+      "confidence": 0.9829881515824441
+    },
+    {
+      "type": "text",
+      "img_path": "p0096_001_text.png",
+      "bbox": [
+        [
+          286,
+          973
+        ],
+        [
+          2359,
+          973
+        ],
+        [
+          2359,
+          1255
+        ],
+        [
+          286,
+          1255
+        ]
+      ],
+      "score": 0.9752530455589294,
+      "y_pos": 973,
+      "text": "B. Tác dụng của du huyệt: Về mặt chẩn đoán, có thể theo nơi phân bố của nó thăn dò điểm\nphản ứng bề ngaòi để tham khảo chẩn đoán bệnh tật. phép chữa bệnh bằng châm cứu\ntrên lâm sàng là thông qua tác dụng của du huyệt và kinh lạc mà điều tiết tạng phủ, vạn\nhành khí huyết đều đạt mục đích chữa hoặc dự phòng bệnh tật.",
+      "confidence": 0.9811073900923322
+    },
+    {
+      "type": "footer",
+      "img_path": "p0096_003_footer.png",
+      "bbox": [
+        [
+          232,
+          3334
+        ],
+        [
+          1438,
+          3334
+        ],
+        [
+          1438,
+          3387
+        ],
+        [
+          232,
+          3387
+        ]
+      ],
+      "score": 0.9057974219322205,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9986292202517671
+    },
+    {
+      "type": "number",
+      "img_path": "p0096_006_number.png",
+      "bbox": [
+        [
+          2337,
+          3343
+        ],
+        [
+          2354,
+          3343
+        ],
+        [
+          2354,
+          3377
+        ],
+        [
+          2337,
+          3377
+        ]
+      ],
+      "score": 0.7778880596160889,
+      "y_pos": 3343,
+      "text": "    \n    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0096.png"
+}

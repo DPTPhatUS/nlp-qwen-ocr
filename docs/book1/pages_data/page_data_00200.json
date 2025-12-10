@@ -1,0 +1,214 @@
+{
+  "page_num": 200,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0200_005_text.png",
+      "bbox": [
+        [
+          512,
+          449
+        ],
+        [
+          1043,
+          449
+        ],
+        [
+          1043,
+          670
+        ],
+        [
+          512,
+          670
+        ]
+      ],
+      "score": 0.5562259554862976,
+      "y_pos": 449,
+      "text": "C. Tu âm giáng nghịch\nD. Tư âm lương huyết\nE. Sơ Can giải uất",
+      "confidence": 0.9669261888160379
+    },
+    {
+      "type": "text",
+      "img_path": "p0200_007_text.png",
+      "bbox": [
+        [
+          509,
+          778
+        ],
+        [
+          1103,
+          778
+        ],
+        [
+          1103,
+          1174
+        ],
+        [
+          509,
+          1174
+        ]
+      ],
+      "score": 0.5408281683921814,
+      "y_pos": 778,
+      "text": "A. Tình chí thất điều\nB. Ăn uống đồ cay nóng\nC. Chấn thương ứ huyết\nD. Chấn thương mất máu\nE. Can Thân âm hư",
+      "confidence": 0.9730961493448753
+    },
+    {
+      "type": "text",
+      "img_path": "p0200_003_text.png",
+      "bbox": [
+        [
+          483,
+          1206
+        ],
+        [
+          2120,
+          1206
+        ],
+        [
+          2120,
+          1675
+        ],
+        [
+          483,
+          1675
+        ]
+      ],
+      "score": 0.6651235222816467,
+      "y_pos": 1206,
+      "text": "7. Những triệu chứng của HC Can hỏa thượng viêm\nA. Sốt cao, đau tức ngực, ho ra máu, chảy máu mũi\nB. Sốt cao, mặt đỏ, mắt đỏ, hai gò má đỏ, lưỡi đỏ, mạch huyền sác\nC. Người bứt rứt, dễ kích động, ù tai, hoa mắt, chóng mặt\nD. Người dễ kích động, chóng mặt hoa mắt, mắt đỏ, mặt đỏ, thổ huyết\nE. Sốt cao hoặc cảm giác nóng, lưỡi đỏ, mạch huyền sác, chảy máu cam",
+      "confidence": 0.9984116164834315
+    },
+    {
+      "type": "text",
+      "img_path": "p0200_002_text.png",
+      "bbox": [
+        [
+          511,
+          1797
+        ],
+        [
+          993,
+          1797
+        ],
+        [
+          993,
+          2177
+        ],
+        [
+          511,
+          2177
+        ]
+      ],
+      "score": 0.7468665838241577,
+      "y_pos": 1797,
+      "text": "A. Can âm hư\nB. Can huyết hư\nC. Can duong xung\nD. Can, Thận âm hư\nE. Can khí uất",
+      "confidence": 0.9533529905914232
+    },
+    {
+      "type": "text",
+      "img_path": "p0200_006_text.png",
+      "bbox": [
+        [
+          511,
+          2288
+        ],
+        [
+          1171,
+          2288
+        ],
+        [
+          1171,
+          2672
+        ],
+        [
+          511,
+          2672
+        ]
+      ],
+      "score": 0.5421286821365356,
+      "y_pos": 2288,
+      "text": "A. Lơ mơ, mất ý thức\nB. Chóng mặt, hoa mắt\nC. Tay chân co rút, run, giật\nD. Mạch huyền tế\nE. Đau đầu, ù tai",
+      "confidence": 0.978805117265874
+    },
+    {
+      "type": "text",
+      "img_path": "p0200_004_text.png",
+      "bbox": [
+        [
+          471,
+          2706
+        ],
+        [
+          1504,
+          2706
+        ],
+        [
+          1504,
+          2926
+        ],
+        [
+          471,
+          2926
+        ]
+      ],
+      "score": 0.6046876907348633,
+      "y_pos": 2706,
+      "text": "10. Nguyên nhân của HC Can, Tỳ bất hòa\nA. Tình chí uất ức đưa đến Can khí uất kết\nB. Do Tỳ khí hư nên Can mộc tương thừa",
+      "confidence": 0.9874130473443956
+    },
+    {
+      "type": "number",
+      "img_path": "p0200_001_number.png",
+      "bbox": [
+        [
+          2044,
+          3110
+        ],
+        [
+          2122,
+          3110
+        ],
+        [
+          2122,
+          3148
+        ],
+        [
+          2044,
+          3148
+        ]
+      ],
+      "score": 0.8635700345039368,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0200_000_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1074,
+          3311
+        ],
+        [
+          1074,
+          3367
+        ],
+        [
+          294,
+          3367
+        ]
+      ],
+      "score": 0.9157850742340088,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8891090188707624
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0200.png"
+}

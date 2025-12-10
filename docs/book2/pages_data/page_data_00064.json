@@ -1,0 +1,500 @@
+{
+  "page_num": 64,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0064_009_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2367,
+          142
+        ],
+        [
+          2367,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9297845959663391,
+      "y_pos": 142,
+      "text": "~7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.719656245694274
+    },
+    {
+      "type": "header",
+      "img_path": "p0064_014_header.png",
+      "bbox": [
+        [
+          231,
+          154
+        ],
+        [
+          427,
+          154
+        ],
+        [
+          427,
+          198
+        ],
+        [
+          231,
+          198
+        ]
+      ],
+      "score": 0.9018730521202087,
+      "y_pos": 154,
+      "text": "п        Δ    V",
+      "confidence": 0.6663683019578457
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0064_016_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          306
+        ],
+        [
+          540,
+          306
+        ],
+        [
+          540,
+          356
+        ],
+        [
+          285,
+          356
+        ]
+      ],
+      "score": 0.8822768330574036,
+      "y_pos": 306,
+      "text": "Chủ bênh:",
+      "confidence": 0.8539396036754955
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_011_text.png",
+      "bbox": [
+        [
+          344,
+          397
+        ],
+        [
+          1735,
+          397
+        ],
+        [
+          1735,
+          451
+        ],
+        [
+          344,
+          451
+        ]
+      ],
+      "score": 0.924405574798584,
+      "y_pos": 397,
+      "text": "- Chứng xung của tâm dương bất túc, thốn bộ trái: Mạch tán.",
+      "confidence": 0.9315877410232044
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_010_text.png",
+      "bbox": [
+        [
+          345,
+          488
+        ],
+        [
+          1626,
+          488
+        ],
+        [
+          1626,
+          542
+        ],
+        [
+          345,
+          542
+        ]
+      ],
+      "score": 0.9294863939285278,
+      "y_pos": 488,
+      "text": "Vê khí bất cố mà tư ra mồ hôi, thốn bộ phải: Mach tán.",
+      "confidence": 0.985553292291505
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_004_text.png",
+      "bbox": [
+        [
+          343,
+          579
+        ],
+        [
+          2357,
+          579
+        ],
+        [
+          2357,
+          705
+        ],
+        [
+          343,
+          705
+        ]
+      ],
+      "score": 0.965472936630249,
+      "y_pos": 579,
+      "text": "- Bệnh ích ẩm (uống nhiều, không ra mồ hôi, tứ chi chứa nước, mình mẩy đau đớn) do\ndương bất hóa âm, quan bộ trái: Mạch tán.",
+      "confidence": 0.9775881623706943
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_003_text.png",
+      "bbox": [
+        [
+          344,
+          740
+        ],
+        [
+          2357,
+          740
+        ],
+        [
+          2357,
+          867
+        ],
+        [
+          344,
+          867
+        ]
+      ],
+      "score": 0.9663577675819397,
+      "y_pos": 740,
+      "text": "- Tỳ dương bất túc, thủy thấp chú xuống dưới mu bàn chân, ống chân phù nề, quan bộ\nphải: Mạch tán.",
+      "confidence": 0.995553719187651
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_005_text.png",
+      "bbox": [
+        [
+          344,
+          905
+        ],
+        [
+          2359,
+          905
+        ],
+        [
+          2359,
+          1026
+        ],
+        [
+          344,
+          1026
+        ]
+      ],
+      "score": 0.9651529788970947,
+      "y_pos": 905,
+      "text": "- Bệnh lâu ngày mà thấy hai bộ xích đều có mạch tán là chứng nguyên khí loạn, cần đặc\nbiêt theo dõi.",
+      "confidence": 0.9929962919960762
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_000_text.png",
+      "bbox": [
+        [
+          286,
+          1066
+        ],
+        [
+          2359,
+          1066
+        ],
+        [
+          2359,
+          1689
+        ],
+        [
+          286,
+          1689
+        ]
+      ],
+      "score": 0.9848987460136414,
+      "y_pos": 1066,
+      "text": "e. Mạch phục: Khi chẩn mạch phục phải dùng sức ấn nặng tới xương, dưới tay mới thấy\nchuyển động mạch, giống như chuyển ở dưới lớp gân. Đó là do hàn tà ngưng trệ ở kinh\nlạc, tạng phủ gây ra. Ở thương hàn biểu chứng, nếu như hàn ngưng ở kinh lạc, khi dương\nkhí không thể phát vượt, cũng thường thấy mạch phục. Phải giữ cho dương khí hồi tỉnh,\nđột phá được hàn ngưng, làm cho ra mồ hôi mà giải, nên thương hàn biểu chứng cho là\nhiện tượng muốn làm ra mồ hôi, Khi đau bụng, rốn lạnh, đau tứ chi quyết nghịch mà thấy\nmạch phục là thuộc chứng âm hàn nội uất. Ăn uống đình lưu, khí uất trong ngực, muốn\nnôn mà không ra được, trong vùng thượng vị rất khó chịu, thốn bộ ở cả 2 tay đều thấy\nmach phuc.",
+      "confidence": 0.9975448123625389
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_007_text.png",
+      "bbox": [
+        [
+          339,
+          1726
+        ],
+        [
+          2357,
+          1726
+        ],
+        [
+          2357,
+          1850
+        ],
+        [
+          339,
+          1850
+        ]
+      ],
+      "score": 0.9628045558929443,
+      "y_pos": 1726,
+      "text": "Trung tiêu hàn thấp ngưng tụ làm cho đau bụng, khó chịu, quan bộ cả hai tay đều thấy\nmach phục.",
+      "confidence": 0.9898655129264491
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_006_text.png",
+      "bbox": [
+        [
+          339,
+          1890
+        ],
+        [
+          2357,
+          1890
+        ],
+        [
+          2357,
+          2010
+        ],
+        [
+          339,
+          2010
+        ]
+      ],
+      "score": 0.9636490345001221,
+      "y_pos": 1890,
+      "text": "Hạ tiêu hàn ngưng khí trệ làm cho đau sán khí kịch liệt, xích bộ cả hai tay đều thấy mạch\nphuc.",
+      "confidence": 0.9903249743875566
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_002_text.png",
+      "bbox": [
+        [
+          285,
+          2052
+        ],
+        [
+          2359,
+          2052
+        ],
+        [
+          2359,
+          2318
+        ],
+        [
+          285,
+          2318
+        ]
+      ],
+      "score": 0.9789518713951111,
+      "y_pos": 2052,
+      "text": "g. Mạch động: Mạch động là một loại của mạch sác, kiêm khẩn, kiêm hoạt, kiêm đoản. Gọi\nlà mạch động vì khi chuyển, mạch gõ đập có sức không đầu, không đuôi, giống như hạt\nđậu to đứng ở một điểm, mạch động không chỉ xuất hiện ở Quan bộ mà còn xuất hiện ở\ncả 3 bộ Thốn, Xích (ngày xưa cho rằng chỉ có ở Quan bộ).",
+      "confidence": 0.9989316818325925
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_001_text.png",
+      "bbox": [
+        [
+          331,
+          2355
+        ],
+        [
+          2358,
+          2355
+        ],
+        [
+          2358,
+          2761
+        ],
+        [
+          331,
+          2761
+        ]
+      ],
+      "score": 0.9836862683296204,
+      "y_pos": 2355,
+      "text": "Hàn thắng dương là đau đớn, hồi hộp của khí loạn; tự ra mồ hôi vì dương không thắng\nâm; phát sốt vì âm không thắng dương; la chảy do tỳ, vị bất hòa; nhiễm hàn, nhiệt, mất\nchức năng chuyển hóa của tạng phủ; ly tật của khí huyết cùng khô; kinh mạch co rút của\nâm hàn tà thịnh; kinh khí bị thương. Nam giới vong tinh do âm hư, dương thịnh, nữ giới\nbăng huyết, đều thấy mạch động. Mạch động là kết quả của hai mặt âm dương chuyên\nkhích thiên thinh thiên suy.",
+      "confidence": 0.9972661124081977
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_015_text.png",
+      "bbox": [
+        [
+          284,
+          2801
+        ],
+        [
+          1930,
+          2801
+        ],
+        [
+          1930,
+          2855
+        ],
+        [
+          284,
+          2855
+        ]
+      ],
+      "score": 0.9009172320365906,
+      "y_pos": 2801,
+      "text": "h. Mạch tật: Là loại mạch chạy rất nhanh, mỗi nhịp thở có trên 6 lần đập.",
+      "confidence": 0.7620120604832967
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0064_018_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          2888
+        ],
+        [
+          1253,
+          2888
+        ],
+        [
+          1253,
+          2941
+        ],
+        [
+          286,
+          2941
+        ]
+      ],
+      "score": 0.5752102136611938,
+      "y_pos": 2888,
+      "text": "5. Những điểm cần chú ý khi chẩn mạch",
+      "confidence": 0.9713302972989205
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_008_text.png",
+      "bbox": [
+        [
+          286,
+          2978
+        ],
+        [
+          2359,
+          2978
+        ],
+        [
+          2359,
+          3096
+        ],
+        [
+          286,
+          3096
+        ]
+      ],
+      "score": 0.9567420482635498,
+      "y_pos": 2978,
+      "text": "a. Mạch trên lâm sàng thường là kiêm mạch, người chỉ có một mạch tượng thường rất\nhiếm. Tình huống nói chung có 3 loại:",
+      "confidence": 0.9898699443208461
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_012_text.png",
+      "bbox": [
+        [
+          346,
+          3137
+        ],
+        [
+          1207,
+          3137
+        ],
+        [
+          1207,
+          3188
+        ],
+        [
+          346,
+          3188
+        ]
+      ],
+      "score": 0.9173457026481628,
+      "y_pos": 3137,
+      "text": "Một mạch tượng đơn độc xuất hiện.",
+      "confidence": 0.9993686403547014
+    },
+    {
+      "type": "footer",
+      "img_path": "p0064_013_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9058523774147034,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985454925950968
+    },
+    {
+      "type": "number",
+      "img_path": "p0064_017_number.png",
+      "bbox": [
+        [
+          2304,
+          3337
+        ],
+        [
+          2350,
+          3337
+        ],
+        [
+          2350,
+          3373
+        ],
+        [
+          2304,
+          3373
+        ]
+      ],
+      "score": 0.8621876239776611,
+      "y_pos": 3337,
+      "text": "\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n۰\n",
+      "confidence": 0.9701784898837408
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0064.png"
+}

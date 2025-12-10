@@ -1,0 +1,238 @@
+{
+  "page_num": 156,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0156_002_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9159705638885498,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7643314777385621
+    },
+    {
+      "type": "header",
+      "img_path": "p0156_004_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          905,
+          156
+        ],
+        [
+          905,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9081621766090393,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9866287461642561
+    },
+    {
+      "type": "text",
+      "img_path": "p0156_007_text.png",
+      "bbox": [
+        [
+          286,
+          347
+        ],
+        [
+          1857,
+          347
+        ],
+        [
+          1857,
+          401
+        ],
+        [
+          286,
+          401
+        ]
+      ],
+      "score": 0.7458136081695557,
+      "y_pos": 347,
+      "text": "Cách châm: Châm đứng kim, sâu đến 0,5 thốn. Cứu 3 mồi, hơ 5 phút",
+      "confidence": 0.9954964355988936
+    },
+    {
+      "type": "text",
+      "img_path": "p0156_008_text.png",
+      "bbox": [
+        [
+          287,
+          440
+        ],
+        [
+          974,
+          440
+        ],
+        [
+          974,
+          492
+        ],
+        [
+          287,
+          492
+        ]
+      ],
+      "score": 0.5951306819915771,
+      "y_pos": 440,
+      "text": "Chủ trị: Tai điếc, tai ù, tai đau",
+      "confidence": 0.8101480398859296
+    },
+    {
+      "type": "text",
+      "img_path": "p0156_001_text.png",
+      "bbox": [
+        [
+          289,
+          531
+        ],
+        [
+          2033,
+          531
+        ],
+        [
+          2033,
+          588
+        ],
+        [
+          289,
+          588
+        ]
+      ],
+      "score": 0.9256463646888733,
+      "y_pos": 531,
+      "text": "Tác dụng phối hợp: Với Thính hội, Trung chử, Ngoại quan, trị bệnh câm điếc",
+      "confidence": 0.9909144961520245
+    },
+    {
+      "type": "image",
+      "img_path": "p0156_000_image.png",
+      "bbox": [
+        [
+          653,
+          728
+        ],
+        [
+          1939,
+          728
+        ],
+        [
+          1939,
+          2001
+        ],
+        [
+          653,
+          2001
+        ]
+      ],
+      "score": 0.9656787514686584,
+      "y_pos": 728
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0156_006_figure_title.png",
+      "bbox": [
+        [
+          1105,
+          2045
+        ],
+        [
+          1484,
+          2045
+        ],
+        [
+          1484,
+          2088
+        ],
+        [
+          1105,
+          2088
+        ]
+      ],
+      "score": 0.8572011590003967,
+      "y_pos": 2045,
+      "text": "Hình 69 - Hình 70",
+      "confidence": 0.5866904635178415
+    },
+    {
+      "type": "footer",
+      "img_path": "p0156_003_footer.png",
+      "bbox": [
+        [
+          231,
+          3334
+        ],
+        [
+          1437,
+          3334
+        ],
+        [
+          1437,
+          3387
+        ],
+        [
+          231,
+          3387
+        ]
+      ],
+      "score": 0.9083113074302673,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9464619991914281
+    },
+    {
+      "type": "number",
+      "img_path": "p0156_005_number.png",
+      "bbox": [
+        [
+          2301,
+          3339
+        ],
+        [
+          2350,
+          3339
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2301,
+          3377
+        ]
+      ],
+      "score": 0.8604230284690857,
+      "y_pos": 3339,
+      "text": "\n    \n    \n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0156.png"
+}

@@ -1,0 +1,708 @@
+{
+  "page_num": 76,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0076_002_header.png",
+      "bbox": [
+        [
+          1607,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9272378087043762,
+      "y_pos": 143,
+      "text": "~>\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6978494819431078
+    },
+    {
+      "type": "header",
+      "img_path": "p0076_006_header.png",
+      "bbox": [
+        [
+          231,
+          160
+        ],
+        [
+          443,
+          160
+        ],
+        [
+          443,
+          202
+        ],
+        [
+          231,
+          202
+        ]
+      ],
+      "score": 0.8965553045272827,
+      "y_pos": 160,
+      "text": "KINH LAC",
+      "confidence": 0.7455378711223603
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_001_text.png",
+      "bbox": [
+        [
+          280,
+          306
+        ],
+        [
+          2358,
+          306
+        ],
+        [
+          2358,
+          431
+        ],
+        [
+          280,
+          431
+        ]
+      ],
+      "score": 0.9686053991317749,
+      "y_pos": 306,
+      "text": "trình hoạt động đó thành bài ca như sau: Phế dần, đại mão, vị thìn cung. Tỳ tỵ, tâm ngọ, tiểu\nmùi trung. Thân bàng, dậu thận, tâm bào tuất. Hợi tam, tý đảm, sửu can thông.",
+      "confidence": 0.9990518753565127
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_005_text.png",
+      "bbox": [
+        [
+          282,
+          471
+        ],
+        [
+          1645,
+          471
+        ],
+        [
+          1645,
+          522
+        ],
+        [
+          282,
+          522
+        ]
+      ],
+      "score": 0.9067774415016174,
+      "y_pos": 471,
+      "text": "Nay đem diễn giải thành bảng theo giờ thông dụng như sau:",
+      "confidence": 0.9997560725373736
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_015_text.png",
+      "bbox": [
+        [
+          437,
+          576
+        ],
+        [
+          1758,
+          576
+        ],
+        [
+          1758,
+          623
+        ],
+        [
+          437,
+          623
+        ]
+      ],
+      "score": 0.8055657744407654,
+      "y_pos": 576,
+      "text": "Giờ Dần (từ 3-5 giờ sáng)    - Thủ thái âm phế kinh tuần hành",
+      "confidence": 0.9744174724245902
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_007_text.png",
+      "bbox": [
+        [
+          438,
+          664
+        ],
+        [
+          1931,
+          664
+        ],
+        [
+          1931,
+          711
+        ],
+        [
+          438,
+          711
+        ]
+      ],
+      "score": 0.8721426129341125,
+      "y_pos": 664,
+      "text": "Giờ Mão (từ 5-7 giờ sáng)    - Thủ dương minh đại trường kinh tuần hành",
+      "confidence": 0.7628320728739102
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_008_text.png",
+      "bbox": [
+        [
+          438,
+          753
+        ],
+        [
+          1808,
+          753
+        ],
+        [
+          1808,
+          798
+        ],
+        [
+          438,
+          798
+        ]
+      ],
+      "score": 0.8661753535270691,
+      "y_pos": 753,
+      "text": "Giờ Thìn (từ 7-9 giờ sáng)    - Túc dương minh vị kinh tuần hành",
+      "confidence": 0.912586795432227
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_012_text.png",
+      "bbox": [
+        [
+          438,
+          840
+        ],
+        [
+          1717,
+          840
+        ],
+        [
+          1717,
+          886
+        ],
+        [
+          438,
+          886
+        ]
+      ],
+      "score": 0.820446789264679,
+      "y_pos": 840,
+      "text": "Giờ Ty (từ 9-11 giờ sáng)    - Túc thái âm tỳ kinh tuần hành",
+      "confidence": 0.9734892303293401
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_009_text.png",
+      "bbox": [
+        [
+          438,
+          927
+        ],
+        [
+          1782,
+          927
+        ],
+        [
+          1782,
+          973
+        ],
+        [
+          438,
+          973
+        ]
+      ],
+      "score": 0.8352675437927246,
+      "y_pos": 927,
+      "text": "Giờ Ngọ (từ 11-13 giờ trưa)    - Thủ thiếu âm tâm kinh tuần hành",
+      "confidence": 0.9790724621030498
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_011_text.png",
+      "bbox": [
+        [
+          439,
+          1014
+        ],
+        [
+          1921,
+          1014
+        ],
+        [
+          1921,
+          1061
+        ],
+        [
+          439,
+          1061
+        ]
+      ],
+      "score": 0.8242092728614807,
+      "y_pos": 1014,
+      "text": "Giờ Mùi (từ 13-15 giờ trưa)    - Thủ thái dương tiểu trường kinh tuần hành",
+      "confidence": 0.9543086817438118
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_010_text.png",
+      "bbox": [
+        [
+          438,
+          1103
+        ],
+        [
+          1926,
+          1103
+        ],
+        [
+          1926,
+          1149
+        ],
+        [
+          438,
+          1149
+        ]
+      ],
+      "score": 0.8265000581741333,
+      "y_pos": 1103,
+      "text": "Giờ Thân (từ 15-17 giờ chiều)    - Túc thái dương bàng quang kinh tuần hành",
+      "confidence": 0.8401321412400067
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_018_text.png",
+      "bbox": [
+        [
+          438,
+          1189
+        ],
+        [
+          1789,
+          1189
+        ],
+        [
+          1789,
+          1235
+        ],
+        [
+          438,
+          1235
+        ]
+      ],
+      "score": 0.7671493887901306,
+      "y_pos": 1189,
+      "text": "Giờ Dậu (từ 17-19 giờ tối)    - Túc thiếu âm thân kinh tuần hành",
+      "confidence": 0.9743115376858484
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_017_text.png",
+      "bbox": [
+        [
+          439,
+          1276
+        ],
+        [
+          1871,
+          1276
+        ],
+        [
+          1871,
+          1324
+        ],
+        [
+          439,
+          1324
+        ]
+      ],
+      "score": 0.7833083271980286,
+      "y_pos": 1276,
+      "text": "Giờ Tuất (từ 19-21 giờ tối)    - Thủ quyết âm tâm bào kinh tuần hành",
+      "confidence": 0.962046588183925
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_014_text.png",
+      "bbox": [
+        [
+          439,
+          1364
+        ],
+        [
+          1924,
+          1364
+        ],
+        [
+          1924,
+          1411
+        ],
+        [
+          439,
+          1411
+        ]
+      ],
+      "score": 0.8076997995376587,
+      "y_pos": 1364,
+      "text": "Giờ Hợi (từ 21-23 giờ đêm)    - Thủ thiếu dương tam tiêu kinh tuần hành",
+      "confidence": 0.9673661035655741
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_025_text.png",
+      "bbox": [
+        [
+          440,
+          1452
+        ],
+        [
+          1856,
+          1452
+        ],
+        [
+          1856,
+          1500
+        ],
+        [
+          440,
+          1500
+        ]
+      ],
+      "score": 0.6301388144493103,
+      "y_pos": 1452,
+      "text": "Giờ Tý (từ 23-01 giờ đêm)    - Túc thiếu dương đảm kinh tuần hành",
+      "confidence": 0.9884602438230031
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_026_text.png",
+      "bbox": [
+        [
+          442,
+          1539
+        ],
+        [
+          984,
+          1539
+        ],
+        [
+          984,
+          1587
+        ],
+        [
+          442,
+          1587
+        ]
+      ],
+      "score": 0.5280042886734009,
+      "y_pos": 1539,
+      "text": "Giờ Sửu (từ 01-03 giờ sáng)",
+      "confidence": 0.9971540426385814
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0076_004_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1639
+        ],
+        [
+          1103,
+          1639
+        ],
+        [
+          1103,
+          1687
+        ],
+        [
+          225,
+          1687
+        ]
+      ],
+      "score": 0.9131779670715332,
+      "y_pos": 1639,
+      "text": "C. Biểu lý tương phối của 12 kinh mạch",
+      "confidence": 0.9980879411101341
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_000_text.png",
+      "bbox": [
+        [
+          274,
+          1727
+        ],
+        [
+          2360,
+          1727
+        ],
+        [
+          2360,
+          2348
+        ],
+        [
+          274,
+          2348
+        ]
+      ],
+      "score": 0.9874260425567627,
+      "y_pos": 1727,
+      "text": "Trong 12 kinh mạch thì cứ một âm kinh phối hợp với một dương kinh, như vậy gọi là biểu lý\ntương phối (cũng gọi là âm dương tương phối). Kinh mạch tương phối khi tuần hành ở ngón\ntay, ngón chân thì nối tiếp nhau, vì nội tạng mà nó sở thuộc cũng cùng quan hệ tương hỗ\nảnh hưởng. Trên lâm sàng, huyệt vị ở bản kinh còn có thể dùng để trị bệnh ở một kinh khác\ncùng tương phối với nó. Như thủ dương minh đại trường kinh và thủ thái âm phế kinh cùng\nbiểu lý, lấy huyệt Xích trạch ở phế kinh để chữa ho hắng, lại cũng trị được bệnh lỵ. Lại như\ntúc thái âm tỳ kinh và túc dương minh vị kinh cùng biểu lý, lấy huyệt Túc tam lý ở vị kinh có\nthể chữa được đau dạ dày, lại cũng chữa được la chảy. Những ví dụ trên đã nói lên rằng âm\nkinh và dương kinh có quan hệ biểu lý tương phối rất mật thiết.",
+      "confidence": 0.9993663471624602
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0076_016_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          2386
+        ],
+        [
+          1137,
+          2386
+        ],
+        [
+          1137,
+          2439
+        ],
+        [
+          283,
+          2439
+        ]
+      ],
+      "score": 0.7934777736663818,
+      "y_pos": 2386,
+      "text": "Bảng tương phối của 12 kinh mạch",
+      "confidence": 0.9976910983814913
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_024_text.png",
+      "bbox": [
+        [
+          438,
+          2497
+        ],
+        [
+          1971,
+          2497
+        ],
+        [
+          1971,
+          2545
+        ],
+        [
+          438,
+          2545
+        ]
+      ],
+      "score": 0.6391398906707764,
+      "y_pos": 2497,
+      "text": "Thủ thái âm phế kinh    tương phôi với    Thủ dương minh đại trường kinh",
+      "confidence": 0.9843946441895132
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_023_text.png",
+      "bbox": [
+        [
+          439,
+          2589
+        ],
+        [
+          1960,
+          2589
+        ],
+        [
+          1960,
+          2637
+        ],
+        [
+          439,
+          2637
+        ]
+      ],
+      "score": 0.6627202033996582,
+      "y_pos": 2589,
+      "text": "Thủ thiếu âm tâm kinh    tương phối với    Thủ thái dương tiểu trường kinh",
+      "confidence": 0.9893004742561855
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_021_text.png",
+      "bbox": [
+        [
+          439,
+          2681
+        ],
+        [
+          1930,
+          2681
+        ],
+        [
+          1930,
+          2729
+        ],
+        [
+          439,
+          2729
+        ]
+      ],
+      "score": 0.731289803981781,
+      "y_pos": 2681,
+      "text": "Thủ quyết âm tâm bào kinh    tương phối với    Thủ thiếu dương tam tiêu kinh",
+      "confidence": 0.9872094589559645
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_020_text.png",
+      "bbox": [
+        [
+          439,
+          2774
+        ],
+        [
+          1817,
+          2774
+        ],
+        [
+          1817,
+          2820
+        ],
+        [
+          439,
+          2820
+        ]
+      ],
+      "score": 0.7313874363899231,
+      "y_pos": 2774,
+      "text": "Túc thái dương tỳ kinh    tương phối với    Túc dương minh vị kinh",
+      "confidence": 0.9733878899779586
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_019_text.png",
+      "bbox": [
+        [
+          439,
+          2866
+        ],
+        [
+          1970,
+          2866
+        ],
+        [
+          1970,
+          2913
+        ],
+        [
+          439,
+          2913
+        ]
+      ],
+      "score": 0.7388601899147034,
+      "y_pos": 2866,
+      "text": "Túc thiểu âm thân kinh    tương phối với    Túc thái dương bàng quang kinh",
+      "confidence": 0.9875412086645762
+    },
+    {
+      "type": "text",
+      "img_path": "p0076_022_text.png",
+      "bbox": [
+        [
+          439,
+          2957
+        ],
+        [
+          1866,
+          2957
+        ],
+        [
+          1866,
+          3006
+        ],
+        [
+          439,
+          3006
+        ]
+      ],
+      "score": 0.7211381793022156,
+      "y_pos": 2957,
+      "text": "Túc quyết âm can kinh    tương phối với    Túc thiếu dương đảm kinh",
+      "confidence": 0.9915256638914646
+    },
+    {
+      "type": "footer",
+      "img_path": "p0076_003_footer.png",
+      "bbox": [
+        [
+          229,
+          3333
+        ],
+        [
+          1433,
+          3333
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          229,
+          3387
+        ]
+      ],
+      "score": 0.9172962307929993,
+      "y_pos": 3333,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982608286839612
+    },
+    {
+      "type": "number",
+      "img_path": "p0076_013_number.png",
+      "bbox": [
+        [
+          2333,
+          3340
+        ],
+        [
+          2357,
+          3340
+        ],
+        [
+          2357,
+          3373
+        ],
+        [
+          2333,
+          3373
+        ]
+      ],
+      "score": 0.8176679611206055,
+      "y_pos": 3340,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0076.png"
+}

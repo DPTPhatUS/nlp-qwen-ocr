@@ -1,0 +1,136 @@
+{
+  "page_num": 582,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0582_001_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2370,
+          143
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9086912870407104,
+      "y_pos": 143,
+      "text": "~?    ~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6787885708941355
+    },
+    {
+      "type": "header",
+      "img_path": "p0582_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1467,
+          152
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9174549579620361,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TẬN, KỲ HUYỆT",
+      "confidence": 0.9979400253295898
+    },
+    {
+      "type": "text",
+      "img_path": "p0582_004_text.png",
+      "bbox": [
+        [
+          224,
+          325
+        ],
+        [
+          1186,
+          325
+        ],
+        [
+          1186,
+          475
+        ],
+        [
+          224,
+          475
+        ]
+      ],
+      "score": 0.7672675251960754,
+      "y_pos": 325,
+      "text": "Phần 29. BÊNH MÔ HÔI\n332. Chứng nhiều mồ hôi: Kiên nội năng.",
+      "confidence": 0.9147570034749228
+    },
+    {
+      "type": "number",
+      "img_path": "p0582_003_number.png",
+      "bbox": [
+        [
+          2316,
+          3336
+        ],
+        [
+          2362,
+          3336
+        ],
+        [
+          2362,
+          3374
+        ],
+        [
+          2316,
+          3374
+        ]
+      ],
+      "score": 0.8543871641159058,
+      "y_pos": 3336,
+      "text": "    \n    \n    \n\n\n    \n\n\n\n    ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0582_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3340
+        ],
+        [
+          1325,
+          3340
+        ],
+        [
+          1325,
+          3388
+        ],
+        [
+          229,
+          3388
+        ]
+      ],
+      "score": 0.9024019837379456,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9989431905296614
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0582.png"
+}

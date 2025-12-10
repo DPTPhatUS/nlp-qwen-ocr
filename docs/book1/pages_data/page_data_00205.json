@@ -1,0 +1,448 @@
+{
+  "page_num": 205,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0205_011_header.png",
+      "bbox": [
+        [
+          1172,
+          503
+        ],
+        [
+          1305,
+          503
+        ],
+        [
+          1305,
+          547
+        ],
+        [
+          1172,
+          547
+        ]
+      ],
+      "score": 0.6488493084907532,
+      "y_pos": 503,
+      "text": "    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "doc_title",
+      "img_path": "p0205_008_doc_title.png",
+      "bbox": [
+        [
+          608,
+          632
+        ],
+        [
+          1863,
+          632
+        ],
+        [
+          1863,
+          805
+        ],
+        [
+          608,
+          805
+        ]
+      ],
+      "score": 0.8899095058441162,
+      "y_pos": 632,
+      "text": "BÊNH HOC TANG TÂM - TIỂU TRƯỜNG\nTÂM BÀO - TAM TIÊU",
+      "confidence": 0.6679220736478315
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0205_010_paragraph_title.png",
+      "bbox": [
+        [
+          348,
+          1009
+        ],
+        [
+          599,
+          1009
+        ],
+        [
+          599,
+          1072
+        ],
+        [
+          348,
+          1072
+        ]
+      ],
+      "score": 0.6561972498893738,
+      "y_pos": 1009,
+      "text": "<b>MUC TIÊU</b>",
+      "confidence": 0.9581261177857717
+    },
+    {
+      "type": "text",
+      "img_path": "p0205_016_text.png",
+      "bbox": [
+        [
+          348,
+          1201
+        ],
+        [
+          1820,
+          1201
+        ],
+        [
+          1820,
+          1258
+        ],
+        [
+          348,
+          1258
+        ]
+      ],
+      "score": 0.5230069160461426,
+      "y_pos": 1201,
+      "text": "1. Nêu được tên gọi 10 hội chứng bệnh tạng Tâm và phủ Tiểu trường",
+      "confidence": 0.9994266175512058
+    },
+    {
+      "type": "text",
+      "img_path": "p0205_012_text.png",
+      "bbox": [
+        [
+          346,
+          1274
+        ],
+        [
+          2125,
+          1274
+        ],
+        [
+          2125,
+          1384
+        ],
+        [
+          346,
+          1384
+        ]
+      ],
+      "score": 0.6136184334754944,
+      "y_pos": 1274,
+      "text": "2. Giải thích được cơ sở lý luận của 10 hội chứng (từ nguyên nhân đến cơ chế sinh\nbệnh và triệu chứng)",
+      "confidence": 0.9625437780480265
+    },
+    {
+      "type": "text",
+      "img_path": "p0205_015_text.png",
+      "bbox": [
+        [
+          349,
+          1405
+        ],
+        [
+          1369,
+          1405
+        ],
+        [
+          1369,
+          1458
+        ],
+        [
+          349,
+          1458
+        ]
+      ],
+      "score": 0.5338811278343201,
+      "y_pos": 1405,
+      "text": "3. Nêu được pháp trị của 10 hội chứng nói trên.",
+      "confidence": 0.9986963466722139
+    },
+    {
+      "type": "text",
+      "img_path": "p0205_014_text.png",
+      "bbox": [
+        [
+          349,
+          1478
+        ],
+        [
+          2127,
+          1478
+        ],
+        [
+          2127,
+          1588
+        ],
+        [
+          349,
+          1588
+        ]
+      ],
+      "score": 0.5573328733444214,
+      "y_pos": 1478,
+      "text": "4. Nêu được thành phần dược liệu của các bài thuốc và giải thích được cấu tạo (tác\ndụng, vai trò của từng vị) của những bài thuốc nêu trên.",
+      "confidence": 0.9926227692068113
+    },
+    {
+      "type": "text",
+      "img_path": "p0205_013_text.png",
+      "bbox": [
+        [
+          347,
+          1607
+        ],
+        [
+          2127,
+          1607
+        ],
+        [
+          2127,
+          1774
+        ],
+        [
+          347,
+          1774
+        ]
+      ],
+      "score": 0.6045465469360352,
+      "y_pos": 1607,
+      "text": "5. Nêu được công thức huyết điều tri và giải thích được cách cấu tao (tác dung của\nhuyêt) của công thức huyệt trên dựa theo cách vận dụng du, mộ, nguyên, lạc và\nngũ du huyêt.",
+      "confidence": 0.9844800810079056
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0205_004_paragraph_title.png",
+      "bbox": [
+        [
+          348,
+          2036
+        ],
+        [
+          720,
+          2036
+        ],
+        [
+          720,
+          2087
+        ],
+        [
+          348,
+          2087
+        ]
+      ],
+      "score": 0.9343793392181396,
+      "y_pos": 2036,
+      "text": "1. ĐAI CƯƠNG",
+      "confidence": 0.9240710735321045
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0205_005_paragraph_title.png",
+      "bbox": [
+        [
+          348,
+          2136
+        ],
+        [
+          1296,
+          2136
+        ],
+        [
+          1296,
+          2186
+        ],
+        [
+          348,
+          2186
+        ]
+      ],
+      "score": 0.9249964952468872,
+      "y_pos": 2136,
+      "text": "1.1. Dựa trên cơ sở hậu thiên bát quái",
+      "confidence": 0.9975290253758431
+    },
+    {
+      "type": "text",
+      "img_path": "p0205_003_text.png",
+      "bbox": [
+        [
+          342,
+          2219
+        ],
+        [
+          2126,
+          2219
+        ],
+        [
+          2126,
+          2344
+        ],
+        [
+          342,
+          2344
+        ]
+      ],
+      "score": 0.953211784362793,
+      "y_pos": 2219,
+      "text": "Theo Kinh dịch, tạng Tâm ứng với quẻ Ly của Hậu thiên bát quái. Quẻ Ly\nở phương Nam (đối xứng với quẻ Ly ở phương Bắc là quẻ khảm. Ứng với tạng Thận).",
+      "confidence": 0.9978789138021293
+    },
+    {
+      "type": "text",
+      "img_path": "p0205_002_text.png",
+      "bbox": [
+        [
+          405,
+          2375
+        ],
+        [
+          2122,
+          2375
+        ],
+        [
+          2122,
+          2537
+        ],
+        [
+          405,
+          2537
+        ]
+      ],
+      "score": 0.9664245843887329,
+      "y_pos": 2375,
+      "text": "- Quẻ Ly được viết bởi 2 vạch liền (dương) và chính giữa 1 vạch đứt (âm),\ngiống như cái bếp có miệng lò, gọi là Ly trung hư cái đức của nó là sáng,\nlà văn minh.",
+      "confidence": 0.9851165330900485
+    },
+    {
+      "type": "text",
+      "img_path": "p0205_000_text.png",
+      "bbox": [
+        [
+          406,
+          2573
+        ],
+        [
+          2123,
+          2573
+        ],
+        [
+          2123,
+          2741
+        ],
+        [
+          406,
+          2741
+        ]
+      ],
+      "score": 0.9736420512199402,
+      "y_pos": 2573,
+      "text": "- Quẻ Ly thuộc hỏa, chỉ mùa hạ, Quẻ Khảm thuộc thủy. Thủy và hỏa là 2\ndạng vật chất căn bản đầu tiên tạo nên vũ trụ cũng như sự sống của con\nngười.",
+      "confidence": 0.9952269220607133
+    },
+    {
+      "type": "text",
+      "img_path": "p0205_007_text.png",
+      "bbox": [
+        [
+          406,
+          2772
+        ],
+        [
+          1691,
+          2772
+        ],
+        [
+          1691,
+          2825
+        ],
+        [
+          406,
+          2825
+        ]
+      ],
+      "score": 0.9109651446342468,
+      "y_pos": 2772,
+      "text": "- Biểu tượng của Ly là mặt trời, là lửa, là nóng, là sáng.",
+      "confidence": 0.9919069876273473
+    },
+    {
+      "type": "text",
+      "img_path": "p0205_001_text.png",
+      "bbox": [
+        [
+          408,
+          2858
+        ],
+        [
+          2123,
+          2858
+        ],
+        [
+          2123,
+          3021
+        ],
+        [
+          408,
+          3021
+        ]
+      ],
+      "score": 0.9734206199645996,
+      "y_pos": 2858,
+      "text": "- Tâm tượng Ly vì cùng thuộc hỏa, mang thuộc tính của hỏa là nóng, là\nsáng. Do đó, Tâm là nơi xuất phát của thần minh, sự sáng suốt minh\nmẫn của mỗi con người.",
+      "confidence": 0.9940400002115308
+    },
+    {
+      "type": "number",
+      "img_path": "p0205_009_number.png",
+      "bbox": [
+        [
+          351,
+          3110
+        ],
+        [
+          430,
+          3110
+        ],
+        [
+          430,
+          3147
+        ],
+        [
+          351,
+          3147
+        ]
+      ],
+      "score": 0.8531370162963867,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0205_006_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1072,
+          3311
+        ],
+        [
+          1072,
+          3365
+        ],
+        [
+          293,
+          3365
+        ]
+      ],
+      "score": 0.9177723526954651,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.879438819204058
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0205.png"
+}

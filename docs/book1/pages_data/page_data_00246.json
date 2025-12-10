@@ -1,0 +1,214 @@
+{
+  "page_num": 246,
+  "content": [
+    {
+      "type": "paragraph_title",
+      "img_path": "p0246_006_paragraph_title.png",
+      "bbox": [
+        [
+          346,
+          502
+        ],
+        [
+          550,
+          502
+        ],
+        [
+          550,
+          557
+        ],
+        [
+          346,
+          557
+        ]
+      ],
+      "score": 0.590919017791748,
+      "y_pos": 502,
+      "text": "<b>ĐAP AN</b>",
+      "confidence": 0.6240022659301758
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0246_003_figure_title.png",
+      "bbox": [
+        [
+          348,
+          610
+        ],
+        [
+          1354,
+          610
+        ],
+        [
+          1354,
+          674
+        ],
+        [
+          348,
+          674
+        ]
+      ],
+      "score": 0.7637277245521545,
+      "y_pos": 610,
+      "text": "CAU HOI 5 CHON 1 - CHON CAU ĐUNG",
+      "confidence": 0.7129995121675379
+    },
+    {
+      "type": "table",
+      "img_path": "p0246_000_table.png",
+      "bbox": [
+        [
+          528,
+          699
+        ],
+        [
+          1271,
+          699
+        ],
+        [
+          1271,
+          1398
+        ],
+        [
+          528,
+          1398
+        ]
+      ],
+      "score": 0.9281163811683655,
+      "y_pos": 699,
+      "text": "STT    Đáp án\n1    Ε\n2    Е\n3    D\n4    D\n5    D\n6    Ε\n7    C\n8    C",
+      "confidence": 0.8733899779617786
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0246_004_figure_title.png",
+      "bbox": [
+        [
+          499,
+          1501
+        ],
+        [
+          1862,
+          1501
+        ],
+        [
+          1862,
+          1567
+        ],
+        [
+          499,
+          1567
+        ]
+      ],
+      "score": 0.7467692494392395,
+      "y_pos": 1501,
+      "text": "CAU HOI NHAN QUA    CAU HOI NHIEU CAU ĐUNG",
+      "confidence": 0.7196346546212833
+    },
+    {
+      "type": "table",
+      "img_path": "p0246_005_table.png",
+      "bbox": [
+        [
+          1207,
+          1637
+        ],
+        [
+          1773,
+          1637
+        ],
+        [
+          1773,
+          2490
+        ],
+        [
+          1207,
+          2490
+        ]
+      ],
+      "score": 0.6373429894447327,
+      "y_pos": 1637,
+      "text": "STT    Đáp án\n1    A, C, D\n2    C, E\n3    A, C, E\n4    B, C, D\n5    A, D\n6    A, C, E\n7    A, B, E\n8    B, D\n9    A, B, C\n10    B, C, D",
+      "confidence": 0.9217354183771996
+    },
+    {
+      "type": "table",
+      "img_path": "p0246_007_table.png",
+      "bbox": [
+        [
+          501,
+          1639
+        ],
+        [
+          1006,
+          1639
+        ],
+        [
+          1006,
+          2257
+        ],
+        [
+          501,
+          2257
+        ]
+      ],
+      "score": 0.5753499269485474,
+      "y_pos": 1639,
+      "text": "STT    Đáp án\n1    Α\n2    В\n3    D\n4    Α\n5    C\n6    C",
+      "confidence": 0.8674362669033664
+    },
+    {
+      "type": "number",
+      "img_path": "p0246_002_number.png",
+      "bbox": [
+        [
+          2042,
+          3110
+        ],
+        [
+          2121,
+          3110
+        ],
+        [
+          2121,
+          3147
+        ],
+        [
+          2042,
+          3147
+        ]
+      ],
+      "score": 0.8634626865386963,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0246_001_footer.png",
+      "bbox": [
+        [
+          295,
+          3311
+        ],
+        [
+          1075,
+          3311
+        ],
+        [
+          1075,
+          3366
+        ],
+        [
+          295,
+          3366
+        ]
+      ],
+      "score": 0.9110506176948547,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8981898971966334
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0246.png"
+}

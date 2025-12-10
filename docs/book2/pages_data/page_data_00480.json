@@ -1,0 +1,682 @@
+{
+  "page_num": 480,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0480_014_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          196
+        ],
+        [
+          1675,
+          196
+        ]
+      ],
+      "score": 0.9388996362686157,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7141765639895484
+    },
+    {
+      "type": "header",
+      "img_path": "p0480_019_header.png",
+      "bbox": [
+        [
+          229,
+          149
+        ],
+        [
+          1448,
+          149
+        ],
+        [
+          1448,
+          197
+        ],
+        [
+          229,
+          197
+        ]
+      ],
+      "score": 0.9254630208015442,
+      "y_pos": 149,
+      "text": "CHẨN TRI NHỮNG BÊNH CHỨNG THƯỜNG GẮP BẰNG CHÂM CỨU",
+      "confidence": 0.9917078625697356
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0480_020_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          330
+        ],
+        [
+          550,
+          330
+        ],
+        [
+          550,
+          379
+        ],
+        [
+          225,
+          379
+        ]
+      ],
+      "score": 0.9236444234848022,
+      "y_pos": 330,
+      "text": "49. Bong gân",
+      "confidence": 0.8992017464978355
+    },
+    {
+      "type": "text",
+      "img_path": "p0480_002_text.png",
+      "bbox": [
+        [
+          222,
+          418
+        ],
+        [
+          2360,
+          418
+        ],
+        [
+          2360,
+          615
+        ],
+        [
+          222,
+          615
+        ]
+      ],
+      "score": 0.9807434678077698,
+      "y_pos": 418,
+      "text": "Bong gân chủ yếu là lao động nặng, hoặc hoạt động thể dục thể thao. Khi cầm vật nặng, nhảy\ncao, không để ý bước hụt, làm tổn thương gân mạch. Khí huyết trở trệ<sup>(*)</sup> gây ra. Nơi bong gân\nthường là các khớp, chỗ bong gân sờ thấy đau buốt hoặc nhìn thấy sưng đỏ hay xanh tím.",
+      "confidence": 0.998590495228787
+    },
+    {
+      "type": "text",
+      "img_path": "p0480_016_text.png",
+      "bbox": [
+        [
+          283,
+          653
+        ],
+        [
+          1195,
+          653
+        ],
+        [
+          1195,
+          703
+        ],
+        [
+          283,
+          703
+        ]
+      ],
+      "score": 0.9369764924049377,
+      "y_pos": 653,
+      "text": "Cách chữa: Lấy huyết chỗ đau là chính.",
+      "confidence": 0.579627875983715
+    },
+    {
+      "type": "text",
+      "img_path": "p0480_010_text.png",
+      "bbox": [
+        [
+          283,
+          744
+        ],
+        [
+          1420,
+          744
+        ],
+        [
+          1420,
+          796
+        ],
+        [
+          283,
+          796
+        ]
+      ],
+      "score": 0.9401980638504028,
+      "y_pos": 744,
+      "text": "Châm bằng hào kim, dùng tả pháp, không lưu kim.",
+      "confidence": 0.9785012797433503
+    },
+    {
+      "type": "text",
+      "img_path": "p0480_007_text.png",
+      "bbox": [
+        [
+          283,
+          836
+        ],
+        [
+          1440,
+          836
+        ],
+        [
+          1440,
+          886
+        ],
+        [
+          283,
+          886
+        ]
+      ],
+      "score": 0.9430134296417236,
+      "y_pos": 836,
+      "text": "Bi đã lâu ngày thì lưu kim, cứu thêm hoặc ôn châm.",
+      "confidence": 0.9896580806145301
+    },
+    {
+      "type": "text",
+      "img_path": "p0480_006_text.png",
+      "bbox": [
+        [
+          279,
+          926
+        ],
+        [
+          2357,
+          926
+        ],
+        [
+          2357,
+          1050
+        ],
+        [
+          279,
+          1050
+        ]
+      ],
+      "score": 0.9716463685035706,
+      "y_pos": 926,
+      "text": "Nếu không đỡ thì châm bên đối diện tương ứng với vùng đau (như bong gân cổ tay phải,\nchâm ở cổ tay trái).",
+      "confidence": 0.9986364666301655
+    },
+    {
+      "type": "text",
+      "img_path": "p0480_001_text.png",
+      "bbox": [
+        [
+          280,
+          1089
+        ],
+        [
+          2359,
+          1089
+        ],
+        [
+          2359,
+          1282
+        ],
+        [
+          280,
+          1282
+        ]
+      ],
+      "score": 0.9817372560501099,
+      "y_pos": 1089,
+      "text": "Ngoài ra khi mới bong gân, có thể châm điểm nặn máu. Bong gân các khớp ở bàn tay, chân,\ntrước hết lấy tỉnh huyệt trên đường kinh liên quan, chích nặn máu, sau đó mới châm các\nhuyêt khác.",
+      "confidence": 0.9951280806529644
+    },
+    {
+      "type": "text",
+      "img_path": "p0480_003_text.png",
+      "bbox": [
+        [
+          281,
+          1326
+        ],
+        [
+          2357,
+          1326
+        ],
+        [
+          2357,
+          1446
+        ],
+        [
+          281,
+          1446
+        ]
+      ],
+      "score": 0.9732658863067627,
+      "y_pos": 1326,
+      "text": "Ngón tay cái bong gân trước hết chích nặn máu ở các huyệt <i>Thiếu thương, Thương dương</i>,\nrồi lai châm <i>Ngoại quan</i>.",
+      "confidence": 0.9891834785237932
+    },
+    {
+      "type": "text",
+      "img_path": "p0480_005_text.png",
+      "bbox": [
+        [
+          280,
+          1488
+        ],
+        [
+          2361,
+          1488
+        ],
+        [
+          2361,
+          1606
+        ],
+        [
+          280,
+          1606
+        ]
+      ],
+      "score": 0.9717807769775391,
+      "y_pos": 1488,
+      "text": "Lưng bong gân, trước hết châm <i>Nhân trung, Thừa tương</i> nặn máu, saun đó mới châm huyệt\nvi chỗ đau.",
+      "confidence": 0.997358205904077
+    },
+    {
+      "type": "text",
+      "img_path": "p0480_004_text.png",
+      "bbox": [
+        [
+          280,
+          1648
+        ],
+        [
+          2357,
+          1648
+        ],
+        [
+          2357,
+          1770
+        ],
+        [
+          280,
+          1770
+        ]
+      ],
+      "score": 0.972055971622467,
+      "y_pos": 1648,
+      "text": "Thường lấy các huyệt: A thị huyệt tại chỗ đau và các huyệt vị gần khớp, dùng hào kim để\nchâm, lưu kim 10 phút hết cảm giác tê tức mới rút kim.",
+      "confidence": 0.9963625195835317
+    },
+    {
+      "type": "text",
+      "img_path": "p0480_022_text.png",
+      "bbox": [
+        [
+          284,
+          1814
+        ],
+        [
+          893,
+          1814
+        ],
+        [
+          893,
+          1862
+        ],
+        [
+          284,
+          1862
+        ]
+      ],
+      "score": 0.9044170379638672,
+      "y_pos": 1814,
+      "text": "Các huyết lần cân khớp là:",
+      "confidence": 0.9785999826022557
+    },
+    {
+      "type": "text",
+      "img_path": "p0480_017_text.png",
+      "bbox": [
+        [
+          287,
+          1907
+        ],
+        [
+          817,
+          1907
+        ],
+        [
+          817,
+          1954
+        ],
+        [
+          287,
+          1954
+        ]
+      ],
+      "score": 0.9346247911453247,
+      "y_pos": 1907,
+      "text": "Khu vai: <i>Kiên ngung</i>.",
+      "confidence": 0.976937418182691
+    },
+    {
+      "type": "text",
+      "img_path": "p0480_012_text.png",
+      "bbox": [
+        [
+          287,
+          1993
+        ],
+        [
+          1090,
+          1993
+        ],
+        [
+          1090,
+          2043
+        ],
+        [
+          287,
+          2043
+        ]
+      ],
+      "score": 0.9396149516105652,
+      "y_pos": 1993,
+      "text": "• Khu khuỷu tay: Khúc trì, Tiểu hải.",
+      "confidence": 0.982930913567543
+    },
+    {
+      "type": "text",
+      "img_path": "p0480_009_text.png",
+      "bbox": [
+        [
+          288,
+          2085
+        ],
+        [
+          1009,
+          2085
+        ],
+        [
+          1009,
+          2138
+        ],
+        [
+          288,
+          2138
+        ]
+      ],
+      "score": 0.9420633912086487,
+      "y_pos": 2085,
+      "text": "\n    Cổ tay: Hợp cốc, Ngoại quan.\n",
+      "confidence": 0.9694870842827691
+    },
+    {
+      "type": "text",
+      "img_path": "p0480_011_text.png",
+      "bbox": [
+        [
+          287,
+          2180
+        ],
+        [
+          915,
+          2180
+        ],
+        [
+          915,
+          2229
+        ],
+        [
+          287,
+          2229
+        ]
+      ],
+      "score": 0.9397994875907898,
+      "y_pos": 2180,
+      "text": "• Lưng: <i>Thân du, Uỷ trung</i>.",
+      "confidence": 0.8482452770074208
+    },
+    {
+      "type": "text",
+      "img_path": "p0480_008_text.png",
+      "bbox": [
+        [
+          288,
+          2272
+        ],
+        [
+          1011,
+          2272
+        ],
+        [
+          1011,
+          2319
+        ],
+        [
+          288,
+          2319
+        ]
+      ],
+      "score": 0.9422216415405273,
+      "y_pos": 2272,
+      "text": "Hông: Hoàn khiệu, Thừa phù.",
+      "confidence": 0.9670554933876827
+    },
+    {
+      "type": "text",
+      "img_path": "p0480_015_text.png",
+      "bbox": [
+        [
+          287,
+          2360
+        ],
+        [
+          1192,
+          2360
+        ],
+        [
+          1192,
+          2413
+        ],
+        [
+          287,
+          2413
+        ]
+      ],
+      "score": 0.9382897615432739,
+      "y_pos": 2360,
+      "text": "Đâu gôi: Tât nhỡn, Dương lăng tuyên.",
+      "confidence": 0.9904833373270536
+    },
+    {
+      "type": "text",
+      "img_path": "p0480_013_text.png",
+      "bbox": [
+        [
+          288,
+          2454
+        ],
+        [
+          929,
+          2454
+        ],
+        [
+          929,
+          2500
+        ],
+        [
+          288,
+          2500
+        ]
+      ],
+      "score": 0.9392117261886597,
+      "y_pos": 2454,
+      "text": "\n    Mắt cá: Giải khê. Côn lôn.\n",
+      "confidence": 0.9736369206355169
+    },
+    {
+      "type": "text",
+      "img_path": "p0480_000_text.png",
+      "bbox": [
+        [
+          279,
+          2544
+        ],
+        [
+          2360,
+          2544
+        ],
+        [
+          2360,
+          2811
+        ],
+        [
+          279,
+          2811
+        ]
+      ],
+      "score": 0.9818042516708374,
+      "y_pos": 2544,
+      "text": "Giảng nghĩa của phương: Lấy huyệt chữa bong gân thường căn cứ vào các nguyên tắc lấy\nhuyệt lân cận nơi đau để lưu khí huyết, thông kinh mạch, làm cho tổ chức bị thương được\nkhôi phục bình thường. Nhưng với các bệnh khá nặng cần sử dụng cách lấy huyệt theo\nđường kinh gần và lấy huyệt từ xa cùng phối hợp.",
+      "confidence": 0.9993137933320447
+    },
+    {
+      "type": "text",
+      "img_path": "p0480_025_text.png",
+      "bbox": [
+        [
+          284,
+          2850
+        ],
+        [
+          1358,
+          2850
+        ],
+        [
+          1358,
+          2902
+        ],
+        [
+          284,
+          2902
+        ]
+      ],
+      "score": 0.6461160182952881,
+      "y_pos": 2850,
+      "text": "Phương huyệt kinh nghiệm đạt hiệu quả cao",
+      "confidence": 0.9615939176359842
+    },
+    {
+      "type": "text",
+      "img_path": "p0480_018_text.png",
+      "bbox": [
+        [
+          285,
+          2939
+        ],
+        [
+          2156,
+          2939
+        ],
+        [
+          2156,
+          2992
+        ],
+        [
+          285,
+          2992
+        ]
+      ],
+      "score": 0.9263772368431091,
+      "y_pos": 2939,
+      "text": "• Châm một huyệt tại chỗ và ôn châm <i>Túc lâm khấp</i>, tiêu sựng giảm đau rất nhanh",
+      "confidence": 0.8032886233271622
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0480_024_footnote.png",
+      "bbox": [
+        [
+          228,
+          3165
+        ],
+        [
+          623,
+          3165
+        ],
+        [
+          623,
+          3210
+        ],
+        [
+          228,
+          3210
+        ]
+      ],
+      "score": 0.8563600182533264,
+      "y_pos": 3165,
+      "text": "(*) Trở trệ: Vướng đọng lại.",
+      "confidence": 0.9842063923676808
+    },
+    {
+      "type": "number",
+      "img_path": "p0480_023_number.png",
+      "bbox": [
+        [
+          2304,
+          3299
+        ],
+        [
+          2353,
+          3299
+        ],
+        [
+          2353,
+          3334
+        ],
+        [
+          2304,
+          3334
+        ]
+      ],
+      "score": 0.8817763924598694,
+      "y_pos": 3299,
+      "text": "    \n            \n        \n\n\n\n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0480_021_footer.png",
+      "bbox": [
+        [
+          228,
+          3309
+        ],
+        [
+          1323,
+          3309
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          228,
+          3355
+        ]
+      ],
+      "score": 0.9123684763908386,
+      "y_pos": 3309,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9293094086197188
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0480.png"
+}

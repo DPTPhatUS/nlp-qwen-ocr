@@ -1,0 +1,394 @@
+{
+  "page_num": 608,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0608_007_header.png",
+      "bbox": [
+        [
+          1676,
+          143
+        ],
+        [
+          2372,
+          143
+        ],
+        [
+          2372,
+          197
+        ],
+        [
+          1676,
+          197
+        ]
+      ],
+      "score": 0.915076732635498,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7709390691348484
+    },
+    {
+      "type": "header",
+      "img_path": "p0608_008_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1178,
+          152
+        ],
+        [
+          1178,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9124087691307068,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.87588920043065
+    },
+    {
+      "type": "image",
+      "img_path": "p0608_001_image.png",
+      "bbox": [
+        [
+          554,
+          312
+        ],
+        [
+          2007,
+          312
+        ],
+        [
+          2007,
+          1229
+        ],
+        [
+          554,
+          1229
+        ]
+      ],
+      "score": 0.9729183316230774,
+      "y_pos": 312
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0608_009_figure_title.png",
+      "bbox": [
+        [
+          507,
+          1298
+        ],
+        [
+          2082,
+          1298
+        ],
+        [
+          2082,
+          1346
+        ],
+        [
+          507,
+          1346
+        ]
+      ],
+      "score": 0.9107138514518738,
+      "y_pos": 1298,
+      "text": "Hình 143. Tên và vị trí các tỉnh huyệt cần đo trên đầu ngón tay và ngón chân",
+      "confidence": 0.9953775872022678
+    },
+    {
+      "type": "text",
+      "img_path": "p0608_005_text.png",
+      "bbox": [
+        [
+          298,
+          1386
+        ],
+        [
+          2362,
+          1386
+        ],
+        [
+          2362,
+          1509
+        ],
+        [
+          298,
+          1509
+        ]
+      ],
+      "score": 0.9550360441207886,
+      "y_pos": 1386,
+      "text": "\n    Nội chí âm, thay cho huyệt Dũng tuyền, nơi đo là cách cạnh trong gốc móng ngón út\n\nmột phân, ở phía áp ngón chân thứ 4, đối chiều với huyệt <i>Chí âm.</i>",
+      "confidence": 0.9931347856258154
+    },
+    {
+      "type": "text",
+      "img_path": "p0608_000_text.png",
+      "bbox": [
+        [
+          279,
+          1550
+        ],
+        [
+          2360,
+          1550
+        ],
+        [
+          2360,
+          1744
+        ],
+        [
+          279,
+          1744
+        ]
+      ],
+      "score": 0.9740145802497864,
+      "y_pos": 1550,
+      "text": "d. Huyệt Ẩn bạch và Đại đôn vốn ở chính giữa phía sau gốc móng ngón chân cái hơn một\nphân, lại sang hai bên hơn một phân, chỗ có chùm lông trước khớp đốt, ngón, nay đo sang\ncạnh trong và cạnh ngoài gốc móng ngón cái, cách gốc móng hơn một phân.",
+      "confidence": 0.9961000412445363
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0608_011_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1783
+        ],
+        [
+          562,
+          1783
+        ],
+        [
+          562,
+          1830
+        ],
+        [
+          226,
+          1830
+        ]
+      ],
+      "score": 0.9002487659454346,
+      "y_pos": 1783,
+      "text": "3. Trình tư do",
+      "confidence": 0.9485645964741707
+    },
+    {
+      "type": "text",
+      "img_path": "p0608_010_text.png",
+      "bbox": [
+        [
+          284,
+          1876
+        ],
+        [
+          1636,
+          1876
+        ],
+        [
+          1636,
+          1924
+        ],
+        [
+          284,
+          1924
+        ]
+      ],
+      "score": 0.9022022485733032,
+      "y_pos": 1876,
+      "text": "a. Từ trên xuống dưới: Tức là đo ở tay trước, đo chân sau.",
+      "confidence": 0.9730772823095322
+    },
+    {
+      "type": "text",
+      "img_path": "p0608_002_text.png",
+      "bbox": [
+        [
+          281,
+          1965
+        ],
+        [
+          2359,
+          1965
+        ],
+        [
+          2359,
+          2089
+        ],
+        [
+          281,
+          2089
+        ]
+      ],
+      "score": 0.9618035554885864,
+      "y_pos": 1965,
+      "text": "<b>b. Từ ngoài vào trong:</b> Ở tay thì đo từ kinh tiểu trường, qua tâm, tam tiêu, tâm bào, đại\ntrường, phế; ở chân thì từ kinh bàng quang, qua thận, đảm, vị, can, tỳ.",
+      "confidence": 0.9949198843619524
+    },
+    {
+      "type": "text",
+      "img_path": "p0608_003_text.png",
+      "bbox": [
+        [
+          281,
+          2129
+        ],
+        [
+          2357,
+          2129
+        ],
+        [
+          2357,
+          2251
+        ],
+        [
+          281,
+          2251
+        ]
+      ],
+      "score": 0.9611530900001526,
+      "y_pos": 2129,
+      "text": "<b>c. Từ trái sang phải:</b> Tức là từng kinh, thì đo huyệt bên trái trước huyệt bên phải đo sau,\nhoặc đo cả tay trái trước, tay phải sau, chân trái trước, chân phải sau cũng được.",
+      "confidence": 0.9952936360221866
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0608_013_paragraph_title.png",
+      "bbox": [
+        [
+          223,
+          2291
+        ],
+        [
+          1009,
+          2291
+        ],
+        [
+          1009,
+          2341
+        ],
+        [
+          223,
+          2341
+        ]
+      ],
+      "score": 0.8803845047950745,
+      "y_pos": 2291,
+      "text": "4. Tư thế tay, chân đối tượng đo",
+      "confidence": 0.9991779783192802
+    },
+    {
+      "type": "text",
+      "img_path": "p0608_004_text.png",
+      "bbox": [
+        [
+          298,
+          2383
+        ],
+        [
+          2358,
+          2383
+        ],
+        [
+          2358,
+          2502
+        ],
+        [
+          298,
+          2502
+        ]
+      ],
+      "score": 0.957135021686554,
+      "y_pos": 2383,
+      "text": "\n    Khi đo ở tay thì úp nhẹ hai bàn tay xuống trước mặt các ngón xoè ra, hai bàn tay cách\n\nnhau 10cm.",
+      "confidence": 0.9854367899599377
+    },
+    {
+      "type": "text",
+      "img_path": "p0608_006_text.png",
+      "bbox": [
+        [
+          223,
+          2542
+        ],
+        [
+          2358,
+          2542
+        ],
+        [
+          2358,
+          2759
+        ],
+        [
+          223,
+          2759
+        ]
+      ],
+      "score": 0.939888060092926,
+      "y_pos": 2542,
+      "text": "\n    Khi đo ở chân thì để hai bàn chân cách nhau 10cm, bàn chân đặt bằng phẳng, thoải mái.\n\n5. Những điểm đo đầu tiên phải để lâu chừng 2-3 phút là thời gian chờ máy nóng, số đo mới\nlà số đúng.",
+      "confidence": 0.9906545441776079
+    },
+    {
+      "type": "number",
+      "img_path": "p0608_014_number.png",
+      "bbox": [
+        [
+          2329,
+          3339
+        ],
+        [
+          2354,
+          3339
+        ],
+        [
+          2354,
+          3373
+        ],
+        [
+          2329,
+          3373
+        ]
+      ],
+      "score": 0.8122333288192749,
+      "y_pos": 3339,
+      "text": "\n    \n    \n\n\n۰    \n        \n    \n\n\n\n\n\n",
+      "confidence": 0.9737489648163319
+    },
+    {
+      "type": "footer",
+      "img_path": "p0608_012_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.8999153971672058,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987586095647992
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0608.png"
+}

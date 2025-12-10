@@ -1,0 +1,500 @@
+{
+  "page_num": 413,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0413_006_header.png",
+      "bbox": [
+        [
+          1679,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1679,
+          196
+        ]
+      ],
+      "score": 0.9221815466880798,
+      "y_pos": 142,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7503989594323295
+    },
+    {
+      "type": "header",
+      "img_path": "p0413_009_header.png",
+      "bbox": [
+        [
+          230,
+          146
+        ],
+        [
+          1095,
+          146
+        ],
+        [
+          1095,
+          197
+        ],
+        [
+          230,
+          197
+        ]
+      ],
+      "score": 0.9147627949714661,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SÀNG",
+      "confidence": 0.9910215088299342
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0413_008_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          322
+        ],
+        [
+          982,
+          322
+        ],
+        [
+          982,
+          379
+        ],
+        [
+          224,
+          379
+        ]
+      ],
+      "score": 0.9149457812309265,
+      "y_pos": 322,
+      "text": "BÍ ĐÁI, ĐÁI ÍT (long bế, vô niệu)",
+      "confidence": 0.9094175594193595
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0413_015_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          419
+        ],
+        [
+          760,
+          419
+        ],
+        [
+          760,
+          471
+        ],
+        [
+          225,
+          471
+        ]
+      ],
+      "score": 0.8935052752494812,
+      "y_pos": 419,
+      "text": "A. Biện chứng luận trị",
+      "confidence": 0.9436086590091387
+    },
+    {
+      "type": "text",
+      "img_path": "p0413_000_text.png",
+      "bbox": [
+        [
+          220,
+          508
+        ],
+        [
+          2360,
+          508
+        ],
+        [
+          2360,
+          991
+        ],
+        [
+          220,
+          991
+        ]
+      ],
+      "score": 0.9864590167999268,
+      "y_pos": 508,
+      "text": "Long bế là các chứng đái ít, khó đái (thiểu niệu) thậm chí nước tiểu bị tắc không thông. Đái khó,\nđái ra từng giọt, bệnh phát lên chậm gọi là \"long\" (còng). Muốn đi đái nhưng không đái được,\ntrướng cấp khó thông, bệnh phát lên là rất cấp là \"bế\" thường gọi chung là \"long bế\". Bệnh chủ\nyếu là thận và bàng quang, bệnh lý có hai mặt hư và thực. Thực chứng do thấp nhiệt chú ở\ndưới, hoặc ứ huyết kết ở trong, bàng quang khí hóa bất lợi mà dẫn đến. Hư chứng do thận khí\nhao hư, bàng quang khí hóa không có uy lực. Cũng có thể do tân dịch hao tổn, thận âm bất túc,\nthủy dịch không thể xuống đến dưới bàng quang gây ra.",
+      "confidence": 0.9965987656751134
+    },
+    {
+      "type": "text",
+      "img_path": "p0413_001_text.png",
+      "bbox": [
+        [
+          220,
+          1027
+        ],
+        [
+          2360,
+          1027
+        ],
+        [
+          2360,
+          1364
+        ],
+        [
+          220,
+          1364
+        ]
+      ],
+      "score": 0.9840863347053528,
+      "y_pos": 1027,
+      "text": "Bệnh này bao gồm rất nhiều tên bệnh trong y học hiện đại, nói khái quát, một là do các nguyên\nnhân làm chức năng lọc của thận giảm, hoặc suy kiệt, do đó lượng nước tiểu giảm sút cực độ.\nHai là do thương tổn thực thể, hoặc chứng năng của niệu đạo bao gồm các nguyên nhân\nthương tổn thần kinh trung ương (tuỷ sống hoặc não, màng não), cơ tròn co thắt, bàng quang\nngười già nhẽo, chứng thần kinh chức năng làm nước tiểu ra khó và đọng lưu.",
+      "confidence": 0.9994595431659834
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0413_007_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          1398
+        ],
+        [
+          903,
+          1398
+        ],
+        [
+          903,
+          1451
+        ],
+        [
+          224,
+          1451
+        ]
+      ],
+      "score": 0.9208380579948425,
+      "y_pos": 1398,
+      "text": "B. Điểm chủ yếu để kiểm tra",
+      "confidence": 0.9215093727769523
+    },
+    {
+      "type": "text",
+      "img_path": "p0413_002_text.png",
+      "bbox": [
+        [
+          221,
+          1491
+        ],
+        [
+          2360,
+          1491
+        ],
+        [
+          2360,
+          1759
+        ],
+        [
+          221,
+          1759
+        ]
+      ],
+      "score": 0.9817754030227661,
+      "y_pos": 1491,
+      "text": "1. Tiểu tiện ít hoặc khó đái, không có cảm giác buồn đái và không thấy bụng dưới trướng đau,\nsờ gõ khu bàng quang vùng bụng dưới cũng không thấy căng đầy, thường do chức năng thận\nsuy kiệt đưa đến đái ít hoặc bí đái. Nếu bụng dưới trướng đau, buồn đái mà không đái ra, sờ gõ\nvùng bàng quang thấy căng tức, là nước tiểu đọng lưu và khó bài tiết.",
+      "confidence": 0.9957882445017701
+    },
+    {
+      "type": "text",
+      "img_path": "p0413_003_text.png",
+      "bbox": [
+        [
+          220,
+          1796
+        ],
+        [
+          2361,
+          1796
+        ],
+        [
+          2361,
+          2065
+        ],
+        [
+          220,
+          2065
+        ]
+      ],
+      "score": 0.9807518720626831,
+      "y_pos": 1796,
+      "text": "2. Phải hỏi rõ phát bệnh như thế nào, khó đái đột nhiên hay từ từ tăng dần, trước đó có tiền sử\nvề tiền liệt tuyến, niệu đạo, bàng quang, thận tạng hay không? Gần đây có bị viêm cấp tính ở\nniệu đạo, trực tràng, vùng hội âm, xương chậu hay không? Có bị thương hay bị mổ xẻ hay\nkhông? Và các chứng kèm theo, có thể giúp cho phân biệt nguyên nhân.",
+      "confidence": 0.9990097201398105
+    },
+    {
+      "type": "text",
+      "img_path": "p0413_005_text.png",
+      "bbox": [
+        [
+          221,
+          2102
+        ],
+        [
+          2360,
+          2102
+        ],
+        [
+          2360,
+          2297
+        ],
+        [
+          221,
+          2297
+        ]
+      ],
+      "score": 0.9744880795478821,
+      "y_pos": 2102,
+      "text": "3. Chú ý niệu đạo bị chèn ép không, cần thăm trực tràng đánh giá tiền liệt tuyến có u hay\nkhông, có điều kiện thì soi bàng quang, quan sát bàng quang và phía sau niệu đạo, hoặc thăm\ndò đánh giá chức năng bài tiết của thận.",
+      "confidence": 0.990675073550307
+    },
+    {
+      "type": "text",
+      "img_path": "p0413_016_text.png",
+      "bbox": [
+        [
+          222,
+          2333
+        ],
+        [
+          1671,
+          2333
+        ],
+        [
+          1671,
+          2388
+        ],
+        [
+          222,
+          2388
+        ]
+      ],
+      "score": 0.8898653984069824,
+      "y_pos": 2333,
+      "text": "4. Có khi cần kiểm tra hệ thần kinh, não, tủy có bệnh hay không.",
+      "confidence": 0.8316370004957373
+    },
+    {
+      "type": "text",
+      "img_path": "p0413_004_text.png",
+      "bbox": [
+        [
+          221,
+          2425
+        ],
+        [
+          2358,
+          2425
+        ],
+        [
+          2358,
+          2622
+        ],
+        [
+          221,
+          2622
+        ]
+      ],
+      "score": 0.9750221371650696,
+      "y_pos": 2425,
+      "text": "5. Sau khi đã loại trừ các thương tổn thực thể ở hệ tiết niệu sinh dục hoặc ở thần kinh trung\nương gây ra rối loạn đi tiểu, phải nghĩ đến chứng thần kinh chức năng và chứng nhẽo bàng\nquang ở người già.",
+      "confidence": 0.9979289994021373
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0413_013_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2662
+        ],
+        [
+          559,
+          2662
+        ],
+        [
+          559,
+          2708
+        ],
+        [
+          225,
+          2708
+        ]
+      ],
+      "score": 0.9063581228256226,
+      "y_pos": 2662,
+      "text": "C. Cách chữa",
+      "confidence": 0.8841160408088139
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0413_018_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2751
+        ],
+        [
+          673,
+          2751
+        ],
+        [
+          673,
+          2802
+        ],
+        [
+          227,
+          2802
+        ]
+      ],
+      "score": 0.8490124344825745,
+      "y_pos": 2751,
+      "text": "1. Bằng châm cứu",
+      "confidence": 0.9398223261038462
+    },
+    {
+      "type": "text",
+      "img_path": "p0413_012_text.png",
+      "bbox": [
+        [
+          224,
+          2841
+        ],
+        [
+          2090,
+          2841
+        ],
+        [
+          2090,
+          2899
+        ],
+        [
+          224,
+          2899
+        ]
+      ],
+      "score": 0.9105134010314941,
+      "y_pos": 2841,
+      "text": "a. Thể châm: Trung cực, Âm lăng tuyền, Hành gian, Bàng quang du, Tam âm giao.",
+      "confidence": 0.915442736088475
+    },
+    {
+      "type": "text",
+      "img_path": "p0413_010_text.png",
+      "bbox": [
+        [
+          225,
+          2937
+        ],
+        [
+          1425,
+          2937
+        ],
+        [
+          1425,
+          2988
+        ],
+        [
+          225,
+          2988
+        ]
+      ],
+      "score": 0.9115215539932251,
+      "y_pos": 2937,
+      "text": "- Hư chứng, gia cứu Bách hội, Khí hải, Quan nguyên.",
+      "confidence": 0.9786866352243243
+    },
+    {
+      "type": "text",
+      "img_path": "p0413_011_text.png",
+      "bbox": [
+        [
+          225,
+          3027
+        ],
+        [
+          1928,
+          3027
+        ],
+        [
+          1928,
+          3079
+        ],
+        [
+          225,
+          3079
+        ]
+      ],
+      "score": 0.9114596843719482,
+      "y_pos": 3027,
+      "text": "b. Nhĩ châm: Thận, Bàng quang, Ngoại sinh thực khí, Giao cảm, Bì chất hạ.",
+      "confidence": 0.6506778883934021
+    },
+    {
+      "type": "number",
+      "img_path": "p0413_017_number.png",
+      "bbox": [
+        [
+          2307,
+          3334
+        ],
+        [
+          2356,
+          3334
+        ],
+        [
+          2356,
+          3371
+        ],
+        [
+          2307,
+          3371
+        ]
+      ],
+      "score": 0.8677043318748474,
+      "y_pos": 3334,
+      "text": "    \n    \n\n    \n\n\n۰.\n\n\n",
+      "confidence": 0.967303373492681
+    },
+    {
+      "type": "footer",
+      "img_path": "p0413_014_footer.png",
+      "bbox": [
+        [
+          228,
+          3336
+        ],
+        [
+          1343,
+          3336
+        ],
+        [
+          1343,
+          3383
+        ],
+        [
+          228,
+          3383
+        ]
+      ],
+      "score": 0.9017715454101562,
+      "y_pos": 3336,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9415562085385593
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0413.png"
+}

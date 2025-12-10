@@ -1,0 +1,162 @@
+{
+  "page_num": 294,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0294_001_header.png",
+      "bbox": [
+        [
+          1609,
+          143
+        ],
+        [
+          2370,
+          143
+        ],
+        [
+          2370,
+          202
+        ],
+        [
+          1609,
+          202
+        ]
+      ],
+      "score": 0.9162139892578125,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7807662281252089
+    },
+    {
+      "type": "header",
+      "img_path": "p0294_002_header.png",
+      "bbox": [
+        [
+          230,
+          159
+        ],
+        [
+          1346,
+          159
+        ],
+        [
+          1346,
+          202
+        ],
+        [
+          230,
+          202
+        ]
+      ],
+      "score": 0.9059309363365173,
+      "y_pos": 159,
+      "text": "CÁC BẢNG TRA CỦU HUYỆT LIÊN QUAN TRONG CHÂM CỦU",
+      "confidence": 0.6763339066992
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0294_004_figure_title.png",
+      "bbox": [
+        [
+          486,
+          291
+        ],
+        [
+          2101,
+          291
+        ],
+        [
+          2101,
+          344
+        ],
+        [
+          486,
+          344
+        ]
+      ],
+      "score": 0.9014679193496704,
+      "y_pos": 291,
+      "text": "Bảng 21 (Tiếp theo) - Bảng ngày giờ và huyệt mở theo phép \"Tý ngọ lưu trú\":",
+      "confidence": 0.9987053422184734
+    },
+    {
+      "type": "table",
+      "img_path": "p0294_000_table.png",
+      "bbox": [
+        [
+          332,
+          390
+        ],
+        [
+          2261,
+          390
+        ],
+        [
+          2261,
+          2538
+        ],
+        [
+          332,
+          2538
+        ]
+      ],
+      "score": 0.9907633662223816,
+      "y_pos": 390,
+      "text": "Ngày giờ    Κỷ    Canh    Tân    Nhâm    Quý\nΤý    Dương phụ    Túc tam lý    Nap\nQuan xung\nSửu    Thiếu hải    Nap\nKhúc trạch\nDần    Tiểu hải    Nạp    Chí âm\nThiên tỉnh\nMão    Nạp    Thiếu thương\nGian sử\nThìn    Nạp    Thương dương    Hiệp khê\nChi câu\nT<u>y</u>    Ån bạch    Nhiên cốc\nNgọ    Thông cốc    Hậu khê\nKinh cốt\nDương trì\nMùi    Ngư tế    Thái xung\nThái uyên\nThân    Lâm khấp    Giải khê\nHợp cốc\nDậu    Thái khê    Linh đạo\nThái bạch\nTuất    Dương cốc    Khúc trì\nΗợi    Trung phong    Âm lăng tuyền    Dũng tuyền",
+      "confidence": 0.9145761244623192
+    },
+    {
+      "type": "footer",
+      "img_path": "p0294_003_footer.png",
+      "bbox": [
+        [
+          232,
+          3334
+        ],
+        [
+          1437,
+          3334
+        ],
+        [
+          1437,
+          3388
+        ],
+        [
+          232,
+          3388
+        ]
+      ],
+      "score": 0.9032806754112244,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9552947237806501
+    },
+    {
+      "type": "number",
+      "img_path": "p0294_005_number.png",
+      "bbox": [
+        [
+          2330,
+          3339
+        ],
+        [
+          2355,
+          3339
+        ],
+        [
+          2355,
+          3373
+        ],
+        [
+          2330,
+          3373
+        ]
+      ],
+      "score": 0.8164713382720947,
+      "y_pos": 3339,
+      "text": "\n\n    \n\n\n\n\n\n    \n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0294.png"
+}

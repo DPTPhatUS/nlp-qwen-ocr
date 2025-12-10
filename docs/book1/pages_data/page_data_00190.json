@@ -1,0 +1,630 @@
+{
+  "page_num": 190,
+  "content": [
+    {
+      "type": "paragraph_title",
+      "img_path": "p0190_009_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          451
+        ],
+        [
+          1274,
+          451
+        ],
+        [
+          1274,
+          503
+        ],
+        [
+          343,
+          503
+        ]
+      ],
+      "score": 0.9225191473960876,
+      "y_pos": 451,
+      "text": "2.4. Bệnh chứng Can phong nội động",
+      "confidence": 0.8317652692397436
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0190_011_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          548
+        ],
+        [
+          819,
+          548
+        ],
+        [
+          819,
+          597
+        ],
+        [
+          343,
+          597
+        ]
+      ],
+      "score": 0.919883668422699,
+      "y_pos": 548,
+      "text": "2.4.1. Bênh nguyên",
+      "confidence": 0.9016596615314484
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_020_text.png",
+      "bbox": [
+        [
+          464,
+          647
+        ],
+        [
+          885,
+          647
+        ],
+        [
+          885,
+          693
+        ],
+        [
+          464,
+          693
+        ]
+      ],
+      "score": 0.9070269465446472,
+      "y_pos": 647,
+      "text": "Do 3 nguyên nhân",
+      "confidence": 0.9814760552512275
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_012_text.png",
+      "bbox": [
+        [
+          408,
+          730
+        ],
+        [
+          803,
+          730
+        ],
+        [
+          803,
+          772
+        ],
+        [
+          408,
+          772
+        ]
+      ],
+      "score": 0.9196316599845886,
+      "y_pos": 730,
+      "text": "Do Can âm hư",
+      "confidence": 0.9962811299732753
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_015_text.png",
+      "bbox": [
+        [
+          408,
+          812
+        ],
+        [
+          860,
+          812
+        ],
+        [
+          860,
+          858
+        ],
+        [
+          408,
+          858
+        ]
+      ],
+      "score": 0.9176915287971497,
+      "y_pos": 812,
+      "text": "Do Can huyết hư",
+      "confidence": 0.9886701948502484
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_007_text.png",
+      "bbox": [
+        [
+          408,
+          896
+        ],
+        [
+          828,
+          896
+        ],
+        [
+          828,
+          942
+        ],
+        [
+          408,
+          942
+        ]
+      ],
+      "score": 0.9234179258346558,
+      "y_pos": 896,
+      "text": "Do Thân âm hư",
+      "confidence": 0.9848104278246562
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0190_016_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          1004
+        ],
+        [
+          747,
+          1004
+        ],
+        [
+          747,
+          1053
+        ],
+        [
+          343,
+          1053
+        ]
+      ],
+      "score": 0.9176445007324219,
+      "y_pos": 1004,
+      "text": "2.4.2. Bênh sinh",
+      "confidence": 0.9426892317003674
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_001_text.png",
+      "bbox": [
+        [
+          341,
+          1100
+        ],
+        [
+          2122,
+          1100
+        ],
+        [
+          2122,
+          1210
+        ],
+        [
+          341,
+          1210
+        ]
+      ],
+      "score": 0.962744414806366,
+      "y_pos": 1100,
+      "text": "Các nguyên nhân nêu trên đều dẫn đến nội nhiệt phát sinh (nhiệt cực\nsinh phong) làm xuất hiện các chứng trạng chóng mặt, run, co rút cơ, co giật...",
+      "confidence": 0.9954603393424664
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0190_006_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          1268
+        ],
+        [
+          1051,
+          1268
+        ],
+        [
+          1051,
+          1317
+        ],
+        [
+          343,
+          1317
+        ]
+      ],
+      "score": 0.9240348935127258,
+      "y_pos": 1268,
+      "text": "2.4.3. Triệu chứng lâm sàng",
+      "confidence": 0.9824994144768551
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_014_text.png",
+      "bbox": [
+        [
+          405,
+          1363
+        ],
+        [
+          1944,
+          1363
+        ],
+        [
+          1944,
+          1413
+        ],
+        [
+          405,
+          1413
+        ]
+      ],
+      "score": 0.9180163741111755,
+      "y_pos": 1363,
+      "text": "- Đau đầu, chóng mặt, hoa mắt, ù tại, nói khó hoặc nói không được.",
+      "confidence": 0.445315874674741
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_010_text.png",
+      "bbox": [
+        [
+          406,
+          1449
+        ],
+        [
+          1723,
+          1449
+        ],
+        [
+          1723,
+          1497
+        ],
+        [
+          406,
+          1497
+        ]
+      ],
+      "score": 0.9204152226448059,
+      "y_pos": 1449,
+      "text": "- Tay chân co rút, run. Trang thái lơ mơ hoặc mất ý thức.",
+      "confidence": 0.6244735313674151
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_017_text.png",
+      "bbox": [
+        [
+          407,
+          1530
+        ],
+        [
+          1615,
+          1530
+        ],
+        [
+          1615,
+          1581
+        ],
+        [
+          407,
+          1581
+        ]
+      ],
+      "score": 0.9145727753639221,
+      "y_pos": 1530,
+      "text": "- Sắc mặt đỏ, lưỡi run hoặc co cứng. Mạch huyền, tế.",
+      "confidence": 0.4973856078253852
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0190_004_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1640
+        ],
+        [
+          1209,
+          1640
+        ],
+        [
+          1209,
+          1691
+        ],
+        [
+          344,
+          1691
+        ]
+      ],
+      "score": 0.9260883927345276,
+      "y_pos": 1640,
+      "text": "2.4.4. Bệnh cảnh Tây y thường gặp",
+      "confidence": 0.9833803909165518
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_019_text.png",
+      "bbox": [
+        [
+          407,
+          1737
+        ],
+        [
+          893,
+          1737
+        ],
+        [
+          893,
+          1785
+        ],
+        [
+          407,
+          1785
+        ]
+      ],
+      "score": 0.9095267653465271,
+      "y_pos": 1737,
+      "text": "Cơn tặng huyết áp",
+      "confidence": 0.9832112224478471
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_013_text.png",
+      "bbox": [
+        [
+          408,
+          1822
+        ],
+        [
+          799,
+          1822
+        ],
+        [
+          799,
+          1869
+        ],
+        [
+          408,
+          1869
+        ]
+      ],
+      "score": 0.9180700182914734,
+      "y_pos": 1822,
+      "text": "Con hưng cám",
+      "confidence": 0.9745135094438281
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_005_text.png",
+      "bbox": [
+        [
+          408,
+          1905
+        ],
+        [
+          804,
+          1905
+        ],
+        [
+          804,
+          1951
+        ],
+        [
+          408,
+          1951
+        ]
+      ],
+      "score": 0.9249247908592224,
+      "y_pos": 1905,
+      "text": "Cơn đông kinh",
+      "confidence": 0.9601201891899109
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_008_text.png",
+      "bbox": [
+        [
+          408,
+          1989
+        ],
+        [
+          1012,
+          1989
+        ],
+        [
+          1012,
+          2036
+        ],
+        [
+          408,
+          2036
+        ]
+      ],
+      "score": 0.9227105379104614,
+      "y_pos": 1989,
+      "text": "Tai biến mach máu não.",
+      "confidence": 0.9939211333791415
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0190_003_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          2096
+        ],
+        [
+          708,
+          2096
+        ],
+        [
+          708,
+          2146
+        ],
+        [
+          344,
+          2146
+        ]
+      ],
+      "score": 0.9283257722854614,
+      "y_pos": 2096,
+      "text": "2.4.5. Pháp trị",
+      "confidence": 0.9635230232687557
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_023_text.png",
+      "bbox": [
+        [
+          464,
+          2194
+        ],
+        [
+          929,
+          2194
+        ],
+        [
+          929,
+          2242
+        ],
+        [
+          464,
+          2242
+        ]
+      ],
+      "score": 0.6268598437309265,
+      "y_pos": 2194,
+      "text": "Bình Can tức phong",
+      "confidence": 0.9706328064203262
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_002_text.png",
+      "bbox": [
+        [
+          342,
+          2275
+        ],
+        [
+          2124,
+          2275
+        ],
+        [
+          2124,
+          2384
+        ],
+        [
+          342,
+          2384
+        ]
+      ],
+      "score": 0.9609023332595825,
+      "y_pos": 2275,
+      "text": "Những bài thuốc có thể sử dụng trong bệnh chứng này gồm Thiên ma câu\nđằng ẩm, Linh dương câu đằng thang.",
+      "confidence": 0.9857138265629073
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_022_text.png",
+      "bbox": [
+        [
+          462,
+          2414
+        ],
+        [
+          1344,
+          2414
+        ],
+        [
+          1344,
+          2463
+        ],
+        [
+          462,
+          2463
+        ]
+      ],
+      "score": 0.8569787740707397,
+      "y_pos": 2414,
+      "text": "* Phân tích bài Thiên ma câu đằng ẩm",
+      "confidence": 0.948691631618299
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_000_text.png",
+      "bbox": [
+        [
+          342,
+          2499
+        ],
+        [
+          2124,
+          2499
+        ],
+        [
+          2124,
+          2664
+        ],
+        [
+          342,
+          2664
+        ]
+      ],
+      "score": 0.9726569652557373,
+      "y_pos": 2499,
+      "text": "Xuất xứ: tạp bệnh chứng tri tân nghĩa. Tác dung: bình Can tức phong, tư\nâm thanh nhiệt. Chủ trị: chữa cơn tăng huyết áp, nhức đầu, chóng mặt, hoa\nmắt, liệt nửa người do nhũn não, chảy máu não.",
+      "confidence": 0.9935834078059802
+    },
+    {
+      "type": "number",
+      "img_path": "p0190_021_number.png",
+      "bbox": [
+        [
+          2043,
+          3110
+        ],
+        [
+          2121,
+          3110
+        ],
+        [
+          2121,
+          3147
+        ],
+        [
+          2043,
+          3147
+        ]
+      ],
+      "score": 0.8668985366821289,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0190_018_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1072,
+          3311
+        ],
+        [
+          1072,
+          3366
+        ],
+        [
+          293,
+          3366
+        ]
+      ],
+      "score": 0.9140959978103638,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8713696428707668
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0190.png"
+}

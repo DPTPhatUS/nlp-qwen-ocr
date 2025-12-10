@@ -1,0 +1,240 @@
+{
+  "page_num": 640,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0640_002_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.918864369392395,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0640_003_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1172,
+          152
+        ],
+        [
+          1172,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9095479846000671,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BÁNG NHIỆT ĐÔ KINH LẠC",
+      "confidence": 0.9933017049080286
+    },
+    {
+      "type": "table",
+      "img_path": "p0640_000_table.png",
+      "bbox": [
+        [
+          413,
+          289
+        ],
+        [
+          2175,
+          289
+        ],
+        [
+          2175,
+          802
+        ],
+        [
+          413,
+          802
+        ]
+      ],
+      "score": 0.9852458834648132,
+      "y_pos": 289,
+      "text": "Bàng    -36,8    36,7    -0,3    -36,6    0,2\nThận    37,0    37,00    0    37,0    0\nĐảm    37,0    37,05    +0,05    37,1    0,1\nVį    37,0    37,10    +0,10    +37,2    0,2\nCan    +37,3    37,35    +0,35    +37,4    0,1\nΤỳ    37,1    37,15    +0,15    +37,2    0,1",
+      "confidence": 0.9226570007011845
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0640_008_figure_title.png",
+      "bbox": [
+        [
+          283,
+          979
+        ],
+        [
+          1975,
+          979
+        ],
+        [
+          1975,
+          1036
+        ],
+        [
+          283,
+          1036
+        ]
+      ],
+      "score": 0.5847390294075012,
+      "y_pos": 979,
+      "text": "Tiểu kết: Rối loạn tinh thần (nói nhiều, lầm lì, thỉnh thoảng có cơn đập phá).",
+      "confidence": 0.998135906457901
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0640_007_figure_title.png",
+      "bbox": [
+        [
+          282,
+          1070
+        ],
+        [
+          2360,
+          1070
+        ],
+        [
+          2360,
+          1199
+        ],
+        [
+          282,
+          1199
+        ]
+      ],
+      "score": 0.657568097114563,
+      "y_pos": 1070,
+      "text": "Bảng qui nạp mô hình chỉ số nhiệt kinh lạc chứng rối loạn tinh thần do căng thẳng tình\nduc",
+      "confidence": 0.9661347202279351
+    },
+    {
+      "type": "table",
+      "img_path": "p0640_001_table.png",
+      "bbox": [
+        [
+          228,
+          1240
+        ],
+        [
+          2363,
+          1240
+        ],
+        [
+          2363,
+          2290
+        ],
+        [
+          228,
+          2290
+        ]
+      ],
+      "score": 0.9711069464683533,
+      "y_pos": 1240,
+      "text": "STT    Họ tên bệnh nhân    Tuổi    Ngày tháng năm đo    Nhiệt độ môi trường    cao nhất, thấp nhất chi trên    Vhiệt độ    Sai số    giới hạn chi trên    Tiểu    Tâm    Tam    Tâm    bào    Đại    Phê    Nhiệt độ cao nhất, thấp nhất chi dưới    giới hạn chi dưới    sô    Sai    Bàng    Thận    Đảm    <math>\\geq</math>    Can    Ŷ\n1    Đoàn Q.T    28    12/5/94    10g30'    29,8<sup>0</sup>    35,7-    35,1    0,1    +0,0    5    -0,05    (|+0,1|<sub>+0,2</sub>|<sup>-7</sup>    0    +0,0 +0,0    5    5    35,1-<br>34,4    0,18 -0,35    +0,3 +0,0<br>5 5    1-0,05 +0,1    5    +0,3    5\n2    Ngô Q. Đ    23    11g25' 6/6/94    29,8°    25,8-<br>24,9    0,15    -0,2    +0,0 | +0,1 | +0,3 | +0,2 | +0,2    5    5    5    5    5    36,1-<br>34,7    0,23    -0,3 +0,6 +0,3 5    |+0,5|+0,6|+0,3    5    5\n3    Lương Bá    Ν    19    11g45'6/8/94    31,1<sup>0</sup>    36,3-    35,6    0,12    |-0,15|-0,25|-0,05| -0,1 | +0,2 | +0,2    37,4-<br>36,6    0,13    -0,3    0    +0,0    +0,1    +0,3    +0,1    5",
+      "confidence": 0.9241543364758261
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0640_005_figure_title.png",
+      "bbox": [
+        [
+          281,
+          2323
+        ],
+        [
+          2359,
+          2323
+        ],
+        [
+          2359,
+          2513
+        ],
+        [
+          281,
+          2513
+        ]
+      ],
+      "score": 0.8654634356498718,
+      "y_pos": 2323,
+      "text": "Mô hình chỉ số nhiệt kinh lạc: Can (+BL), Tỳ (+BL), Bàng quang (-BL), Đại trường (+), Phế\n(+), Đảm (+). Số tương quan (trị số có mang dấu) kinh Tâm bào lớn hơn số tương quan kinh\nTâm.",
+      "confidence": 0.9817750478499199
+    },
+    {
+      "type": "number",
+      "img_path": "p0640_006_number.png",
+      "bbox": [
+        [
+          2305,
+          3337
+        ],
+        [
+          2350,
+          3337
+        ],
+        [
+          2350,
+          3375
+        ],
+        [
+          2305,
+          3375
+        ]
+      ],
+      "score": 0.8402603268623352,
+      "y_pos": 3337,
+      "text": "    \n\n\n    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0640_004_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1325,
+          3340
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.9087116718292236,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9988119602203369
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0640.png"
+}

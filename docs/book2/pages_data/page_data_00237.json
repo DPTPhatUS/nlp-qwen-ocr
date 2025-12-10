@@ -1,0 +1,890 @@
+{
+  "page_num": 237,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0237_001_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9417587518692017,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.723309953652677
+    },
+    {
+      "type": "header",
+      "img_path": "p0237_007_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9235283136367798,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0237_002_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          347
+        ],
+        [
+          747,
+          347
+        ],
+        [
+          747,
+          399
+        ],
+        [
+          227,
+          399
+        ]
+      ],
+      "score": 0.931140661239624,
+      "y_pos": 347,
+      "text": "135. Yêu thống 1, 2, 3",
+      "confidence": 0.9654518291354179
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0237_033_paragraph_title.png",
+      "bbox": [
+        [
+          290,
+          441
+        ],
+        [
+          608,
+          441
+        ],
+        [
+          608,
+          494
+        ],
+        [
+          290,
+          494
+        ]
+      ],
+      "score": 0.584682285785675,
+      "y_pos": 441,
+      "text": "<i>Vị trí:</i> (H.117)",
+      "confidence": 0.9562021713507803
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_019_text.png",
+      "bbox": [
+        [
+          356,
+          530
+        ],
+        [
+          2138,
+          530
+        ],
+        [
+          2138,
+          587
+        ],
+        [
+          356,
+          587
+        ]
+      ],
+      "score": 0.9092758297920227,
+      "y_pos": 530,
+      "text": "1: Ở mu bàn tay, chỗ xương bàn 2 – 3 giáp nhau, trước khớp bàn và cổ tay.",
+      "confidence": 0.9948900643984476
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_016_text.png",
+      "bbox": [
+        [
+          358,
+          622
+        ],
+        [
+          2151,
+          622
+        ],
+        [
+          2151,
+          677
+        ],
+        [
+          358,
+          677
+        ]
+      ],
+      "score": 0.9142683744430542,
+      "y_pos": 622,
+      "text": "- 2: Ở mu bàn tay, chỗ xương bàn 3 – 4 giáp nhau, trước khớp bàn và cổ tay.",
+      "confidence": 0.9924585525091593
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_029_text.png",
+      "bbox": [
+        [
+          359,
+          714
+        ],
+        [
+          2217,
+          714
+        ],
+        [
+          2217,
+          770
+        ],
+        [
+          359,
+          770
+        ]
+      ],
+      "score": 0.8593845367431641,
+      "y_pos": 714,
+      "text": "3: Ở mu bàn tay, chỗ xương bàn 4 – 5 giáp nhau, trước khớp bàn tay và cổ tay.",
+      "confidence": 0.99385103922856
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_030_text.png",
+      "bbox": [
+        [
+          286,
+          806
+        ],
+        [
+          1744,
+          806
+        ],
+        [
+          1744,
+          859
+        ],
+        [
+          286,
+          859
+        ]
+      ],
+      "score": 0.8157786726951599,
+      "y_pos": 806,
+      "text": "<b>Cách châm:</b> Hướng về cổ tay châm chếch kim, sâu 1 – 1,5 thốn.",
+      "confidence": 0.9795718966051936
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0237_032_paragraph_title.png",
+      "bbox": [
+        [
+          288,
+          899
+        ],
+        [
+          479,
+          899
+        ],
+        [
+          479,
+          950
+        ],
+        [
+          288,
+          950
+        ]
+      ],
+      "score": 0.7557750344276428,
+      "y_pos": 899,
+      "text": "Chủ tri:",
+      "confidence": 0.8952586889266968
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_012_text.png",
+      "bbox": [
+        [
+          358,
+          988
+        ],
+        [
+          1709,
+          988
+        ],
+        [
+          1709,
+          1044
+        ],
+        [
+          358,
+          1044
+        ]
+      ],
+      "score": 0.9176732301712036,
+      "y_pos": 988,
+      "text": "Yêu thống 1: Trên đầu, thắt lưng và tứ chi ngoại thương.",
+      "confidence": 0.9993699593790646
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_018_text.png",
+      "bbox": [
+        [
+          359,
+          1082
+        ],
+        [
+          1528,
+          1082
+        ],
+        [
+          1528,
+          1136
+        ],
+        [
+          359,
+          1136
+        ]
+      ],
+      "score": 0.9129382371902466,
+      "y_pos": 1082,
+      "text": "Yêu thống 2: Phần ngực và tứ chi ngoại thương.",
+      "confidence": 0.9954776416222254
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_013_text.png",
+      "bbox": [
+        [
+          359,
+          1172
+        ],
+        [
+          1498,
+          1172
+        ],
+        [
+          1498,
+          1228
+        ],
+        [
+          359,
+          1228
+        ]
+      ],
+      "score": 0.9172583222389221,
+      "y_pos": 1172,
+      "text": "Yêu thống 3: Thắt lưng và tứ chi ngoại thương.",
+      "confidence": 0.9995100175340971
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0237_017_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1265
+        ],
+        [
+          756,
+          1265
+        ],
+        [
+          756,
+          1316
+        ],
+        [
+          229,
+          1316
+        ]
+      ],
+      "score": 0.9141676425933838,
+      "y_pos": 1265,
+      "text": "136. Thượng Hậu khê",
+      "confidence": 0.9954483878044855
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_020_text.png",
+      "bbox": [
+        [
+          289,
+          1355
+        ],
+        [
+          1548,
+          1355
+        ],
+        [
+          1548,
+          1411
+        ],
+        [
+          289,
+          1411
+        ]
+      ],
+      "score": 0.9054481983184814,
+      "y_pos": 1355,
+      "text": "Vị trí: Ở giữa huyệt Hậu khê và huyệt Uyển cốt. (H.117)",
+      "confidence": 0.9861357682629636
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_011_text.png",
+      "bbox": [
+        [
+          287,
+          1449
+        ],
+        [
+          1350,
+          1449
+        ],
+        [
+          1350,
+          1499
+        ],
+        [
+          287,
+          1499
+        ]
+      ],
+      "score": 0.9204449653625488,
+      "y_pos": 1449,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 1 – 1,5 thôn.",
+      "confidence": 0.9717344724117442
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_004_text.png",
+      "bbox": [
+        [
+          287,
+          1541
+        ],
+        [
+          1072,
+          1541
+        ],
+        [
+          1072,
+          1593
+        ],
+        [
+          287,
+          1593
+        ]
+      ],
+      "score": 0.9289865493774414,
+      "y_pos": 1541,
+      "text": "Chủ trị: Câm điếc, ngón tay tê dại.",
+      "confidence": 0.6799153862772761
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0237_031_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          1631
+        ],
+        [
+          1027,
+          1631
+        ],
+        [
+          1027,
+          1683
+        ],
+        [
+          228,
+          1683
+        ]
+      ],
+      "score": 0.8025162816047668,
+      "y_pos": 1631,
+      "text": "137. Lạc thượng (Trị lung tân số)",
+      "confidence": 0.9975712963512966
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_014_text.png",
+      "bbox": [
+        [
+          289,
+          1722
+        ],
+        [
+          1367,
+          1722
+        ],
+        [
+          1367,
+          1776
+        ],
+        [
+          289,
+          1776
+        ]
+      ],
+      "score": 0.9161889553070068,
+      "y_pos": 1722,
+      "text": "Vị trí: Ở trên huyệt Ngoại quan 3 thốn. (H. 117)",
+      "confidence": 0.9911961615085602
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_008_text.png",
+      "bbox": [
+        [
+          287,
+          1816
+        ],
+        [
+          1291,
+          1816
+        ],
+        [
+          1291,
+          1865
+        ],
+        [
+          287,
+          1865
+        ]
+      ],
+      "score": 0.9228274822235107,
+      "y_pos": 1816,
+      "text": "<b>Cách châm</b>:Châm đứng kim, sâu 1 – 2 thôn.",
+      "confidence": 0.9539487023245204
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_005_text.png",
+      "bbox": [
+        [
+          287,
+          1907
+        ],
+        [
+          1182,
+          1907
+        ],
+        [
+          1182,
+          1958
+        ],
+        [
+          287,
+          1958
+        ]
+      ],
+      "score": 0.9248732924461365,
+      "y_pos": 1907,
+      "text": "Chủ tri: Chi trên tê bai, bai liệt, tai điếc.",
+      "confidence": 0.7664671400760082
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0237_022_paragraph_title.png",
+      "bbox": [
+        [
+          230,
+          1998
+        ],
+        [
+          523,
+          1998
+        ],
+        [
+          523,
+          2051
+        ],
+        [
+          230,
+          2051
+        ]
+      ],
+      "score": 0.8965777158737183,
+      "y_pos": 1998,
+      "text": "138. Ưng hạ",
+      "confidence": 0.8653285503387451
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_028_text.png",
+      "bbox": [
+        [
+          287,
+          2089
+        ],
+        [
+          2253,
+          2089
+        ],
+        [
+          2253,
+          2146
+        ],
+        [
+          287,
+          2146
+        ]
+      ],
+      "score": 0.8839420080184937,
+      "y_pos": 2089,
+      "text": "Vị trí: Khi duỗi tay, ở dưới mỏm khuỷu 3 thốn, chỗ khe xương trụ - xương quay. (H.117)",
+      "confidence": 0.9932880289852619
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_023_text.png",
+      "bbox": [
+        [
+          287,
+          2182
+        ],
+        [
+          1310,
+          2182
+        ],
+        [
+          1310,
+          2233
+        ],
+        [
+          287,
+          2233
+        ]
+      ],
+      "score": 0.8926271200180054,
+      "y_pos": 2182,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 1 – 2 thôn.",
+      "confidence": 0.9715678506427341
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_003_text.png",
+      "bbox": [
+        [
+          287,
+          2272
+        ],
+        [
+          1029,
+          2272
+        ],
+        [
+          1029,
+          2323
+        ],
+        [
+          287,
+          2323
+        ]
+      ],
+      "score": 0.9290989637374878,
+      "y_pos": 2272,
+      "text": "Chủ tri: Chi trên bai liêt, tai điếc.",
+      "confidence": 0.759848259962522
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0237_027_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          2366
+        ],
+        [
+          797,
+          2366
+        ],
+        [
+          797,
+          2416
+        ],
+        [
+          228,
+          2416
+        ]
+      ],
+      "score": 0.8852584362030029,
+      "y_pos": 2366,
+      "text": "139. Huyệt Nữu thương",
+      "confidence": 0.9930248571478802
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_000_text.png",
+      "bbox": [
+        [
+          282,
+          2456
+        ],
+        [
+          2359,
+          2456
+        ],
+        [
+          2359,
+          2582
+        ],
+        [
+          282,
+          2582
+        ]
+      ],
+      "score": 0.9615665078163147,
+      "y_pos": 2456,
+      "text": "Vị trí: Tính từ đường chéo ở huyệt <i>Dương trì</i> đến huyệt <i>Khúc trì</i> thì nó ở chỗ 1/4 trên và 1/4\ndưới (ngang huyệt <i>Ứng hạ</i>). (H. 117)",
+      "confidence": 0.9925319851380503
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_010_text.png",
+      "bbox": [
+        [
+          286,
+          2619
+        ],
+        [
+          1308,
+          2619
+        ],
+        [
+          1308,
+          2668
+        ],
+        [
+          286,
+          2668
+        ]
+      ],
+      "score": 0.9212056994438171,
+      "y_pos": 2619,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 1 – 2 thôn.",
+      "confidence": 0.973050187031428
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_009_text.png",
+      "bbox": [
+        [
+          287,
+          2711
+        ],
+        [
+          1188,
+          2711
+        ],
+        [
+          1188,
+          2765
+        ],
+        [
+          287,
+          2765
+        ]
+      ],
+      "score": 0.9212554693222046,
+      "y_pos": 2711,
+      "text": "Chủ trị: Thắt lưng bị bong gân cấp tính.",
+      "confidence": 0.7483389193103427
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0237_024_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          2802
+        ],
+        [
+          659,
+          2802
+        ],
+        [
+          659,
+          2854
+        ],
+        [
+          229,
+          2854
+        ]
+      ],
+      "score": 0.8902345299720764,
+      "y_pos": 2802,
+      "text": "140. Tam lý ngoại",
+      "confidence": 0.9090974519127294
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_026_text.png",
+      "bbox": [
+        [
+          288,
+          2892
+        ],
+        [
+          2129,
+          2892
+        ],
+        [
+          2129,
+          2950
+        ],
+        [
+          288,
+          2950
+        ]
+      ],
+      "score": 0.8894690871238708,
+      "y_pos": 2892,
+      "text": "Vị trí: Ở huyệt Khúc trì xuống 2 thốn, ra ngoài bằng bề ngang 1 ngón tay. (H. 117)",
+      "confidence": 0.9924898800395784
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_021_text.png",
+      "bbox": [
+        [
+          287,
+          2987
+        ],
+        [
+          1309,
+          2987
+        ],
+        [
+          1309,
+          3036
+        ],
+        [
+          287,
+          3036
+        ]
+      ],
+      "score": 0.9011915326118469,
+      "y_pos": 2987,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 1 – 2 thôn.",
+      "confidence": 0.9720680250061883
+    },
+    {
+      "type": "text",
+      "img_path": "p0237_006_text.png",
+      "bbox": [
+        [
+          287,
+          3078
+        ],
+        [
+          1054,
+          3078
+        ],
+        [
+          1054,
+          3131
+        ],
+        [
+          287,
+          3131
+        ]
+      ],
+      "score": 0.9242483377456665,
+      "y_pos": 3078,
+      "text": "Chủ trị: Chi trên tê bại, bong gân.",
+      "confidence": 0.40483515649228485
+    },
+    {
+      "type": "footer",
+      "img_path": "p0237_015_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9153627157211304,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0237_025_number.png",
+      "bbox": [
+        [
+          2278,
+          3338
+        ],
+        [
+          2351,
+          3338
+        ],
+        [
+          2351,
+          3377
+        ],
+        [
+          2278,
+          3377
+        ]
+      ],
+      "score": 0.8900238871574402,
+      "y_pos": 3338,
+      "text": "        \n\n    \n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0237.png"
+}

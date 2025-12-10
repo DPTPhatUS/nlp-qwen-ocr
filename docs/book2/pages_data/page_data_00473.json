@@ -1,0 +1,396 @@
+{
+  "page_num": 473,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0473_006_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9221968650817871,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0473_008_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9149374961853027,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0473_009_paragraph_title.png",
+      "bbox": [
+        [
+          223,
+          330
+        ],
+        [
+          996,
+          330
+        ],
+        [
+          996,
+          380
+        ],
+        [
+          223,
+          380
+        ]
+      ],
+      "score": 0.9140951037406921,
+      "y_pos": 330,
+      "text": "42. Trẻ em cam tích (còi xương)",
+      "confidence": 0.9967461228370667
+    },
+    {
+      "type": "text",
+      "img_path": "p0473_001_text.png",
+      "bbox": [
+        [
+          221,
+          418
+        ],
+        [
+          2359,
+          418
+        ],
+        [
+          2359,
+          756
+        ],
+        [
+          221,
+          756
+        ]
+      ],
+      "score": 0.9833804368972778,
+      "y_pos": 418,
+      "text": "Cam tích là bệnh thường thấy ở trẻ em do tiêu hoá kém, bú sữa không hợp, thiếu sữa mẹ gây\nra. Ngoài ra còn do các loại mệnh mạn tính, đặc biệt là bệnh đường ruột, ký sinh trùng đường\nruột gây ra.Triệu chứng: Mình gầy, bụng to, nổi rõ gân xanh, nôn mửa ra sữa và đồ ăn, phân\nchua hôi, nước tiểu đục, kêu khóc không có nước mắt, không muốn ăn uống, da dẻ khô mốc,\ntóc thưa, niêm mạc mắt không có màu máu, bứt rứt không yên, mệt mỏi, uể oải, sốt về đêm.",
+      "confidence": 0.9996968938498145
+    },
+    {
+      "type": "text",
+      "img_path": "p0473_014_text.png",
+      "bbox": [
+        [
+          284,
+          795
+        ],
+        [
+          1043,
+          795
+        ],
+        [
+          1043,
+          846
+        ],
+        [
+          284,
+          846
+        ]
+      ],
+      "score": 0.6318984031677246,
+      "y_pos": 795,
+      "text": "Cách chữa: Lấy huyệt <i>Tứ phùng</i>.",
+      "confidence": 0.700531764942057
+    },
+    {
+      "type": "text",
+      "img_path": "p0473_003_text.png",
+      "bbox": [
+        [
+          279,
+          887
+        ],
+        [
+          2357,
+          887
+        ],
+        [
+          2357,
+          1010
+        ],
+        [
+          279,
+          1010
+        ]
+      ],
+      "score": 0.9614319205284119,
+      "y_pos": 887,
+      "text": "Dùng kim ba cạnh chích huyệt ở cả hai tay, nặn ra có chất lỏng như màu lòng trắng trứng\ngà. Cứ cách hai ngày châm một lần, đến khi nào nặn ra thấy máu là dừng.",
+      "confidence": 0.9982483476946239
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0473_013_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          1051
+        ],
+        [
+          524,
+          1051
+        ],
+        [
+          524,
+          1101
+        ],
+        [
+          284,
+          1101
+        ]
+      ],
+      "score": 0.8192785382270813,
+      "y_pos": 1051,
+      "text": "Gia qiám:",
+      "confidence": 0.8476552313024347
+    },
+    {
+      "type": "text",
+      "img_path": "p0473_002_text.png",
+      "bbox": [
+        [
+          284,
+          1141
+        ],
+        [
+          2359,
+          1141
+        ],
+        [
+          2359,
+          1265
+        ],
+        [
+          284,
+          1265
+        ]
+      ],
+      "score": 0.9627721905708313,
+      "y_pos": 1141,
+      "text": "\n    Khi có tiêu chảy thì gia giảm bằng hào kim ở các huyệt: Trung quản, Thiên khu, Túc tam\n\nlý. Mỗi huyệt châm xong, vê ngược xuôi mấy lần, rồi rút kim ngay.",
+      "confidence": 0.7876994455360304
+    },
+    {
+      "type": "text",
+      "img_path": "p0473_005_text.png",
+      "bbox": [
+        [
+          285,
+          1305
+        ],
+        [
+          1005,
+          1305
+        ],
+        [
+          1005,
+          1353
+        ],
+        [
+          285,
+          1353
+        ]
+      ],
+      "score": 0.92389315366745,
+      "y_pos": 1305,
+      "text": "Cổ sưng thì cứu huyệt <i>Tỳ du</i>.",
+      "confidence": 0.977435203269124
+    },
+    {
+      "type": "text",
+      "img_path": "p0473_004_text.png",
+      "bbox": [
+        [
+          286,
+          1395
+        ],
+        [
+          1592,
+          1395
+        ],
+        [
+          1592,
+          1446
+        ],
+        [
+          286,
+          1446
+        ]
+      ],
+      "score": 0.9241956472396851,
+      "y_pos": 1395,
+      "text": "\n    Sốt về chiều thì gia châm huyệt Đại chuỳ, Tam âm giao.\n",
+      "confidence": 0.9852204248309135
+    },
+    {
+      "type": "text",
+      "img_path": "p0473_007_text.png",
+      "bbox": [
+        [
+          287,
+          1486
+        ],
+        [
+          1717,
+          1486
+        ],
+        [
+          1717,
+          1539
+        ],
+        [
+          287,
+          1539
+        ]
+      ],
+      "score": 0.9163046479225159,
+      "y_pos": 1486,
+      "text": "Tiêu chảy lâu ngày, người yếu thì gia cứu huyệt <i>Thần khuyết</i>.",
+      "confidence": 0.9768373426049948
+    },
+    {
+      "type": "text",
+      "img_path": "p0473_000_text.png",
+      "bbox": [
+        [
+          279,
+          1579
+        ],
+        [
+          2361,
+          1579
+        ],
+        [
+          2361,
+          1915
+        ],
+        [
+          279,
+          1915
+        ]
+      ],
+      "score": 0.9843542575836182,
+      "y_pos": 1579,
+      "text": "Giảng nghĩa của phương: Huyệt <i>Tứ phùng</i> rất hiệu nghiệm để chữa bệnh trẻ em còi\nxương, chậm lớn. Châm xong nặn ra nước vàng, có tác dụng thanh thuỷ thấp<sup>(*)</sup> bẩn đục ở\ngiữa da thịt. Thêm <i>Trung quản, Thiên khu, Túc tam lý</i> điều lý cơ năng của trường, vị. Cứu <i>T</i>ỳ\ndu để làm mạnh trung khí. Đại chuỳ tiết nhiệt, phối hợp Tam âm giao để trị khí của 3 kinh âm\ntắc kiệt gây sốt, cứu <i>Thần khuyết</i> ôn dương tán tà.",
+      "confidence": 0.9786317784222629
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0473_011_footnote.png",
+      "bbox": [
+        [
+          228,
+          3166
+        ],
+        [
+          1111,
+          3166
+        ],
+        [
+          1111,
+          3210
+        ],
+        [
+          228,
+          3210
+        ]
+      ],
+      "score": 0.8958773016929626,
+      "y_pos": 3166,
+      "text": "(*) Thanh thủy thấp: Làm sạch không còn thủy thấp bẩn đục",
+      "confidence": 0.838562977516045
+    },
+    {
+      "type": "number",
+      "img_path": "p0473_012_number.png",
+      "bbox": [
+        [
+          2304,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2304,
+          3335
+        ]
+      ],
+      "score": 0.8665701746940613,
+      "y_pos": 3300,
+      "text": "    \n    \n    \n    \n    .\n    ٠.\n    \n    ",
+      "confidence": 0.9403227576985955
+    },
+    {
+      "type": "footer",
+      "img_path": "p0473_010_footer.png",
+      "bbox": [
+        [
+          228,
+          3310
+        ],
+        [
+          1323,
+          3310
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          228,
+          3355
+        ]
+      ],
+      "score": 0.9125340580940247,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9293094086197188
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0473.png"
+}

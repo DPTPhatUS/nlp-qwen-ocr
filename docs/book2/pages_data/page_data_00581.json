@@ -1,0 +1,188 @@
+{
+  "page_num": 581,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0581_001_header.png",
+      "bbox": [
+        [
+          1674,
+          144
+        ],
+        [
+          2369,
+          144
+        ],
+        [
+          2369,
+          198
+        ],
+        [
+          1674,
+          198
+        ]
+      ],
+      "score": 0.9123952984809875,
+      "y_pos": 144,
+      "text": "~?    ~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7223383401121412
+    },
+    {
+      "type": "header",
+      "img_path": "p0581_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1466,
+          152
+        ],
+        [
+          1466,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9194987416267395,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TÂN, KỲ HUYỆT",
+      "confidence": 0.996946144104004
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0581_005_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          326
+        ],
+        [
+          715,
+          326
+        ],
+        [
+          715,
+          382
+        ],
+        [
+          226,
+          382
+        ]
+      ],
+      "score": 0.6985032558441162,
+      "y_pos": 326,
+      "text": "Phần 28. BÊNH SỐT",
+      "confidence": 0.8168487109636006
+    },
+    {
+      "type": "text",
+      "img_path": "p0581_004_text.png",
+      "bbox": [
+        [
+          226,
+          419
+        ],
+        [
+          2360,
+          419
+        ],
+        [
+          2360,
+          544
+        ],
+        [
+          226,
+          544
+        ]
+      ],
+      "score": 0.706641674041748,
+      "y_pos": 419,
+      "text": "330. Sốt cao: Bát phong, Thượng Bát phong, Bát chùy hạ, Nhị Chùy hạ, Sùng cốt, Ngược\nmôn.",
+      "confidence": 0.9059389246295588
+    },
+    {
+      "type": "text",
+      "img_path": "p0581_006_text.png",
+      "bbox": [
+        [
+          226,
+          582
+        ],
+        [
+          1337,
+          582
+        ],
+        [
+          1337,
+          638
+        ],
+        [
+          226,
+          638
+        ]
+      ],
+      "score": 0.620469331741333,
+      "y_pos": 582,
+      "text": "331. <b>Sốt cao:</b> Nhĩ tiêm, Thập tuyên, Tam thương.",
+      "confidence": 0.9872952045178881
+    },
+    {
+      "type": "number",
+      "img_path": "p0581_003_number.png",
+      "bbox": [
+        [
+          2316,
+          3337
+        ],
+        [
+          2367,
+          3337
+        ],
+        [
+          2367,
+          3374
+        ],
+        [
+          2316,
+          3374
+        ]
+      ],
+      "score": 0.8591446876525879,
+      "y_pos": 3337,
+      "text": "    \n            \n        \n\n\n\n    \n    ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0581_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3341
+        ],
+        [
+          1325,
+          3341
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.8984301090240479,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987244965895167
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0581.png"
+}

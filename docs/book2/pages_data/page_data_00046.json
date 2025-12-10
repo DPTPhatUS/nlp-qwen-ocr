@@ -1,0 +1,448 @@
+{
+  "page_num": 46,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0046_009_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9268029928207397,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7254179112967991
+    },
+    {
+      "type": "header",
+      "img_path": "p0046_015_header.png",
+      "bbox": [
+        [
+          231,
+          154
+        ],
+        [
+          427,
+          154
+        ],
+        [
+          427,
+          199
+        ],
+        [
+          231,
+          199
+        ]
+      ],
+      "score": 0.9005998969078064,
+      "y_pos": 154,
+      "text": "Δ    V",
+      "confidence": 0.648697592318058
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0046_011_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          303
+        ],
+        [
+          555,
+          303
+        ],
+        [
+          555,
+          353
+        ],
+        [
+          226,
+          353
+        ]
+      ],
+      "score": 0.9236618280410767,
+      "y_pos": 303,
+      "text": "D. Đai tiểu tiên",
+      "confidence": 0.8980405396885343
+    },
+    {
+      "type": "text",
+      "img_path": "p0046_010_text.png",
+      "bbox": [
+        [
+          281,
+          396
+        ],
+        [
+          1962,
+          396
+        ],
+        [
+          1962,
+          451
+        ],
+        [
+          281,
+          451
+        ]
+      ],
+      "score": 0.9241223335266113,
+      "y_pos": 396,
+      "text": "Hỏi rõ số lần đái, ỉa, tính chất, trạng thái phân, có ỉa, đái ra máu hay không",
+      "confidence": 0.9951290354132653
+    },
+    {
+      "type": "text",
+      "img_path": "p0046_007_text.png",
+      "bbox": [
+        [
+          342,
+          488
+        ],
+        [
+          2356,
+          488
+        ],
+        [
+          2356,
+          613
+        ],
+        [
+          342,
+          613
+        ]
+      ],
+      "score": 0.9651464223861694,
+      "y_pos": 488,
+      "text": "- Đại tiện: bí kết, khô khan, khó ỉa, phát sốt là nhiệt chứng. Bệnh kéo dài, người mới đẻ,\nngười già mà táo bón là thuộc khí hư hoặc tân hao.",
+      "confidence": 0.9965684347128788
+    },
+    {
+      "type": "text",
+      "img_path": "p0046_002_text.png",
+      "bbox": [
+        [
+          342,
+          650
+        ],
+        [
+          2360,
+          650
+        ],
+        [
+          2360,
+          918
+        ],
+        [
+          342,
+          918
+        ]
+      ],
+      "score": 0.9806134700775146,
+      "y_pos": 650,
+      "text": "- la phân nát, trước khi la không đau bụng là tỳ vị hư hàn. Tảng sáng đau bụng la chảy\n(còn gọi là ngũ canh tiết) là thận dương hư. la ra như nước, phóng ra như bắn, có cảm\ngiác nóng rát hậu môn là vị, trường có nhiệt. la ra phân thối, nhão nhoét, nhiều bọt\nbụng đau, la xong giảm đau là thực (ăn) trệ.",
+      "confidence": 0.8981703030162187
+    },
+    {
+      "type": "text",
+      "img_path": "p0046_001_text.png",
+      "bbox": [
+        [
+          342,
+          956
+        ],
+        [
+          2359,
+          956
+        ],
+        [
+          2359,
+          1291
+        ],
+        [
+          342,
+          1291
+        ]
+      ],
+      "score": 0.9826238751411438,
+      "y_pos": 956,
+      "text": "- la ra máu mủ, quặn đau như mót rặn, bụng đau phát sốt là thấp nhiệt hạ ly. la ra phân\nđỏ, đen như keo sơn, thường là xuất huyết đoạn trên đường tiêu hóa (dạ dày xuất\nhuyết). Trong phân dính máu hồng tươi là xuất huyết đoạn dưới đường tiêu hóa (trực\ntràng xuất huyết). Cả hai nơi xuất huyết và nguyên nhân của chúng cần được kiểm tra\nkỹ hơn nữa.",
+      "confidence": 0.870173926949307
+    },
+    {
+      "type": "text",
+      "img_path": "p0046_008_text.png",
+      "bbox": [
+        [
+          343,
+          1329
+        ],
+        [
+          2356,
+          1329
+        ],
+        [
+          2356,
+          1453
+        ],
+        [
+          343,
+          1453
+        ]
+      ],
+      "score": 0.9613826870918274,
+      "y_pos": 1329,
+      "text": "- <b>Nước tiểu</b> nhiều mà trong thường là hư hàn, trong mà són nhiều lần hoặc đi không\ncầm là khí hư, nếu kèm vẩn đuc là thấp nhiệt.",
+      "confidence": 0.9964919201871183
+    },
+    {
+      "type": "text",
+      "img_path": "p0046_003_text.png",
+      "bbox": [
+        [
+          344,
+          1491
+        ],
+        [
+          2358,
+          1491
+        ],
+        [
+          2358,
+          1688
+        ],
+        [
+          344,
+          1688
+        ]
+      ],
+      "score": 0.9738559126853943,
+      "y_pos": 1491,
+      "text": "- Trong đêm đi đái nhiều, hay đái dầm là thận hư. Đái són, đái gấp, đái đau, đái khó\nhoặc kèm theo máu mủ, cát sỏi là chứng lậu. Miệng khát, đái nhiều, uống nhiều, thân\nthể gầy mòn rất nhanh là chứng tiêu khát.",
+      "confidence": 0.9940350563380472
+    },
+    {
+      "type": "text",
+      "img_path": "p0046_006_text.png",
+      "bbox": [
+        [
+          346,
+          1724
+        ],
+        [
+          2358,
+          1724
+        ],
+        [
+          2358,
+          1923
+        ],
+        [
+          346,
+          1923
+        ]
+      ],
+      "score": 0.9720860719680786,
+      "y_pos": 1724,
+      "text": "- Đột nhiên phát sinh bí đái, hoặc chỉ đái són được vài giọt, mùi nước đái rất hôi, bàng\nquang đau đớn dữ dội mà nóng lên là thực chứng. Nước tiểu dần dần giảm ít, thậm chí\nkhông đủ đái, sắc mặt trắng nhợt, lưng, đùi, tay, chân xanh, lạnh là hư chứng.",
+      "confidence": 0.978074876512837
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0046_014_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1965
+        ],
+        [
+          383,
+          1965
+        ],
+        [
+          383,
+          2012
+        ],
+        [
+          226,
+          2012
+        ]
+      ],
+      "score": 0.9028527736663818,
+      "y_pos": 1965,
+      "text": "V    lau",
+      "confidence": 0.7750501409173012
+    },
+    {
+      "type": "text",
+      "img_path": "p0046_000_text.png",
+      "bbox": [
+        [
+          343,
+          2047
+        ],
+        [
+          2360,
+          2047
+        ],
+        [
+          2360,
+          2602
+        ],
+        [
+          343,
+          2602
+        ]
+      ],
+      "score": 0.9854996800422668,
+      "y_pos": 2047,
+      "text": "- <b>Mất ngủ:</b> khó vào giấc ngủ lại dễ tỉnh và không nhiều mê mộng. Đêm khó vào giấc ngủ,\năn uống giảm dần, mệt mỏi uể oải, hồi hộp, hay quên, tinh thần hoảng hốt, thuộc tâm tỳ\nlưỡng hư, thường do suy nghĩ quá độ gây nên. Hư phiền không ngủ được, sốt về\nchiều, ra mồ hôi trộm, lưỡi hồng ít tân (nước), mạch tế, sác, thường là âm hư. Sau khi\nbệnh nặng hoặc về già khí huyết đều hư dẫn đến mất ngủ. Đêm ngủ không yên, ngủ ít,\ndễ tỉnh,tâm phiền, miệng lưỡi mọc mụn, đầu lưỡi hồng là tâm hỏa cang thịnh. Mất ngủ,\nnhiều mộng, đau đầu, miệng đắng, tính tình hấp tấp, dễ cáu là can hỏa cang thịnh.\nTrong khi mộng nằm kêu lên là đảm khí hư hoặc vị nhiệt.",
+      "confidence": 0.9988009081100495
+    },
+    {
+      "type": "text",
+      "img_path": "p0046_005_text.png",
+      "bbox": [
+        [
+          343,
+          2637
+        ],
+        [
+          2359,
+          2637
+        ],
+        [
+          2359,
+          2835
+        ],
+        [
+          343,
+          2835
+        ]
+      ],
+      "score": 0.9723609089851379,
+      "y_pos": 2637,
+      "text": "- Ngủ nhiều: Thần mệt, chi mỏi mà ngủ nhiều là khí hư. Ăn xong uể oải, muốn ngủ là tỳ\nkhí bất túc. Sau khi khỏi bệnh mà ham ngủ là chính khí chưa phục hồi. Mình nặng mạch\nhoãn, ngủ nhiều là thấp thắng.",
+      "confidence": 0.8504141068712885
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0046_012_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2874
+        ],
+        [
+          589,
+          2874
+        ],
+        [
+          589,
+          2919
+        ],
+        [
+          226,
+          2919
+        ]
+      ],
+      "score": 0.9178310632705688,
+      "y_pos": 2874,
+      "text": "E. Tai điếc- tai ù",
+      "confidence": 0.9140003442764282
+    },
+    {
+      "type": "text",
+      "img_path": "p0046_004_text.png",
+      "bbox": [
+        [
+          279,
+          2968
+        ],
+        [
+          2356,
+          2968
+        ],
+        [
+          2356,
+          3172
+        ],
+        [
+          279,
+          3172
+        ]
+      ],
+      "score": 0.9731954336166382,
+      "y_pos": 2968,
+      "text": "Thận, can, đảm và tai có quan hệ gắn bó. Điếc dấy mạnh lên là thực chứng can, đảm hỏa\nvượng. Điếc lâu là thận hư, khí hư. Trong lúc có ôn bệnh mà xuất hiện tai điếc là chỉ chứng\nnhiệt tà thương âm.",
+      "confidence": 0.9878370625396412
+    },
+    {
+      "type": "footer",
+      "img_path": "p0046_013_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9035181999206543,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985454925950968
+    },
+    {
+      "type": "number",
+      "img_path": "p0046_016_number.png",
+      "bbox": [
+        [
+          2329,
+          3339
+        ],
+        [
+          2355,
+          3339
+        ],
+        [
+          2355,
+          3373
+        ],
+        [
+          2329,
+          3373
+        ]
+      ],
+      "score": 0.8207746744155884,
+      "y_pos": 3339,
+      "text": "\n\n    \n    \n\n    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0046.png"
+}

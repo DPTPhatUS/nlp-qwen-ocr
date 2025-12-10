@@ -1,0 +1,162 @@
+{
+  "page_num": 515,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0515_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2371,
+          144
+        ],
+        [
+          2371,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9161333441734314,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7566693045553707
+    },
+    {
+      "type": "header",
+      "img_path": "p0515_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.9197179675102234,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9977136671543121
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0515_004_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          324
+        ],
+        [
+          682,
+          324
+        ],
+        [
+          682,
+          382
+        ],
+        [
+          226,
+          382
+        ]
+      ],
+      "score": 0.7955577969551086,
+      "y_pos": 324,
+      "text": "Phần 5: BÊNH MŨI",
+      "confidence": 0.7561260759830475
+    },
+    {
+      "type": "text",
+      "img_path": "p0515_005_text.png",
+      "bbox": [
+        [
+          233,
+          414
+        ],
+        [
+          2215,
+          414
+        ],
+        [
+          2215,
+          1858
+        ],
+        [
+          233,
+          1858
+        ]
+      ],
+      "score": 0.7608792185783386,
+      "y_pos": 414,
+      "text": "103. Các bệnh về mũi: Thượng tinh, Nghinh hương, Hợp cốc.\n104. Bệnh mũi: Thượng tinh, Nghinh hương.\n105. Viêm mũi: Tứ bạch, Hợp cốc, Nghinh hương.\n106. Viêm mũi: Thông thiên, Thượng tinh, Ân đường, Hợp cốc.\n107. Viêm mũi mạn tính: Nghinh hương, Ân đường, Hợp cốc.\n108. Viêm mũi mạn tính: Tỵ thông, Thượng tinh, Ấn đường, Hợp cốc.\n109. Viêm mũi, mũi có thịt thừa: Thượng tinh, Hợp cốc, Thái xung.\n110. Miệng méo, mũi nhiều nhử xanh: Thông thiên, Thừa quang.\n111. Trứng cá ở mũi: Tố liêu, Nghinh hương, Hợp cốc.\n112. Tắc mũi, sâu mũi: Thái xung, Hợp cốc.\n113. Viêm hốc cạnh mũi: Nghinh hương thấu Tỵ không, Khúc trì, Thượng tinh, Hợp cốc.\n114. Viêm hốc cạnh mũi: Tỵ thông, Tán trúc, Liệt khuyết.\n115. Chảy máu cam: Thượng tinh, Tố liêu, Nghinh hương.\n116. Chảy máu cam: Hòa liêu, Ấn đường, Liệt khuyết.\n117. Chảy máu cam không dứt: Phế du, Nghinh hương.\n118. Chảy máu mũi kịch liệt không cầm: Ấn bạch, Úy trung.",
+      "confidence": 0.993553319806639
+    },
+    {
+      "type": "number",
+      "img_path": "p0515_003_number.png",
+      "bbox": [
+        [
+          2342,
+          3339
+        ],
+        [
+          2368,
+          3339
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2342,
+          3374
+        ]
+      ],
+      "score": 0.8265642523765564,
+      "y_pos": 3339,
+      "text": "\n    \n    \n\n    \n\n\n\n    ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0515_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9133827686309814,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0515.png"
+}

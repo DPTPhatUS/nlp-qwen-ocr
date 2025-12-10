@@ -1,0 +1,396 @@
+{
+  "page_num": 56,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0056_007_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9297996759414673,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7576541084618795
+    },
+    {
+      "type": "header",
+      "img_path": "p0056_012_header.png",
+      "bbox": [
+        [
+          231,
+          155
+        ],
+        [
+          427,
+          155
+        ],
+        [
+          427,
+          199
+        ],
+        [
+          231,
+          199
+        ]
+      ],
+      "score": 0.9012753963470459,
+      "y_pos": 155,
+      "text": "    - 4\nА    N",
+      "confidence": 0.5859711915254593
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0056_008_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          287
+        ],
+        [
+          690,
+          287
+        ],
+        [
+          690,
+          343
+        ],
+        [
+          225,
+          343
+        ]
+      ],
+      "score": 0.9148754477500916,
+      "y_pos": 287,
+      "text": "<b>VĂN CHẨN (NGHE)</b>",
+      "confidence": 0.9816658685081884
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_009_text.png",
+      "bbox": [
+        [
+          224,
+          380
+        ],
+        [
+          1599,
+          380
+        ],
+        [
+          1599,
+          434
+        ],
+        [
+          224,
+          434
+        ]
+      ],
+      "score": 0.9103378057479858,
+      "y_pos": 380,
+      "text": "Văn chẩn bao gồm hai mặt: Nghe tiếng nói, âm thở và mùi vị.",
+      "confidence": 0.9971126767455555
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0056_014_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          474
+        ],
+        [
+          2185,
+          474
+        ],
+        [
+          2185,
+          527
+        ],
+        [
+          224,
+          527
+        ]
+      ],
+      "score": 0.7658579349517822,
+      "y_pos": 474,
+      "text": "A. Nghe thanh âm bao gồm nghe tiếng nói, hơi thở, tiếng ho, tiếng ợ nấc của người bệnh",
+      "confidence": 0.9990893223068931
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_006_text.png",
+      "bbox": [
+        [
+          273,
+          560
+        ],
+        [
+          2357,
+          560
+        ],
+        [
+          2357,
+          681
+        ],
+        [
+          273,
+          681
+        ]
+      ],
+      "score": 0.9490107893943787,
+      "y_pos": 560,
+      "text": "Tiếng của người bệnh trầm nhỏ, đứt đoạn, ít hơi, ngại nói, là thuộc hư chứng, hàn chứng.\nTiếng cao, có sức, hoặc nói nhiều liên thiên là thực chứng, nhiệt chứng.",
+      "confidence": 0.9971902839503847
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_000_text.png",
+      "bbox": [
+        [
+          274,
+          713
+        ],
+        [
+          2359,
+          713
+        ],
+        [
+          2359,
+          1034
+        ],
+        [
+          274,
+          1034
+        ]
+      ],
+      "score": 0.9831752777099609,
+      "y_pos": 713,
+      "text": "Tiếng nói đột nhiên khản câm, thường là phong hàn hoặc đàm ở thực chứng gây ra. Tiếng\nnói khàn câm từ từ là phế nuy (phổi yếu khô) tân khô của hư chứng. Hơi thở gấp mà yếu, hít\nhơi xong cảm thấy dễ chịu là hư chứng. Thở hít tiếng thô, thở ra xong thấy dễ chịu là thực\nchứng. Bệnh lâu ngày, phế, thận muốn tuyệt, cũng thấy khí thô, đứt đứt, nối nối, không phải\nlà có thực chứng mà là hư chứng.",
+      "confidence": 0.9977413531840638
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_004_text.png",
+      "bbox": [
+        [
+          279,
+          1067
+        ],
+        [
+          2358,
+          1067
+        ],
+        [
+          2358,
+          1188
+        ],
+        [
+          279,
+          1188
+        ]
+      ],
+      "score": 0.9611698389053345,
+      "y_pos": 1067,
+      "text": "Nhiệt nhập tâm bào, thần chí mê mệt cũng thấy hơi thở nhỏ yếu, nhưng không phải hư\nchứng mà là thực chứng.",
+      "confidence": 0.9958716681741533
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_003_text.png",
+      "bbox": [
+        [
+          280,
+          1222
+        ],
+        [
+          2357,
+          1222
+        ],
+        [
+          2357,
+          1341
+        ],
+        [
+          280,
+          1341
+        ]
+      ],
+      "score": 0.9617871046066284,
+      "y_pos": 1222,
+      "text": "Tiếng ho yếu là khí phế hư. Tiếng ho nặng nề, đục, đờm trắng là thuộc ngoại cảm phong\nhàn. Tiếng họ trong trẻo, họ đờm khó ra là phế nhiệt. Họ từng cơn mà có sức là phế thực.",
+      "confidence": 0.9974879115020635
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_002_text.png",
+      "bbox": [
+        [
+          280,
+          1375
+        ],
+        [
+          2359,
+          1375
+        ],
+        [
+          2359,
+          1565
+        ],
+        [
+          280,
+          1565
+        ]
+      ],
+      "score": 0.9699419736862183,
+      "y_pos": 1375,
+      "text": "Tiếng nấc mạnh mà có sức, mạch hoạt, thực là thực chứng mà nấc. Tiếng nấc cao mà ngắn\ngấp, họng khô khát, mạch sác là nhiệt nấc. Tiếng nấc yếu, mạch vô lực, kèm chứng trạng hư\nlà hư nấc. Bệnh nặng, bệnh lâu ngày, đột nhiên thấy nấc là chứng trạng nguy kịch.",
+      "confidence": 0.9993123463935704
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0056_011_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1606
+        ],
+        [
+          548,
+          1606
+        ],
+        [
+          548,
+          1653
+        ],
+        [
+          227,
+          1653
+        ]
+      ],
+      "score": 0.9047146439552307,
+      "y_pos": 1606,
+      "text": "B. Ngửi mùi vị",
+      "confidence": 0.809261117130518
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_001_text.png",
+      "bbox": [
+        [
+          279,
+          1688
+        ],
+        [
+          2357,
+          1688
+        ],
+        [
+          2357,
+          1873
+        ],
+        [
+          279,
+          1873
+        ]
+      ],
+      "score": 0.9726186394691467,
+      "y_pos": 1688,
+      "text": "Bao gồm hơi người, hơi mồm, mùi các loại bài tiết. Một số bệnh có mùi đặc biệt, như người\ncó bệnh lở loét thì phát ra mùi thịt thối; bệnh ôn dịch, gan, thận nặng thường có mùi riêng\nbiêt.",
+      "confidence": 0.9984643666758974
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_005_text.png",
+      "bbox": [
+        [
+          280,
+          1907
+        ],
+        [
+          2359,
+          1907
+        ],
+        [
+          2359,
+          2031
+        ],
+        [
+          280,
+          2031
+        ]
+      ],
+      "score": 0.9573702216148376,
+      "y_pos": 1907,
+      "text": "Hơi miệng hôi, tanh là phế vị có nhiệt; hôi chua là có vị tích thực. Đờm tanh là phế nhiệt, rất\nhôi là ung phổi đã có mủ. Về mặt đại tiểu tiện, kinh nguyệt, khí hư thì theo như vấn chẩn.",
+      "confidence": 0.9995410344703269
+    },
+    {
+      "type": "footer",
+      "img_path": "p0056_010_footer.png",
+      "bbox": [
+        [
+          230,
+          3334
+        ],
+        [
+          1437,
+          3334
+        ],
+        [
+          1437,
+          3387
+        ],
+        [
+          230,
+          3387
+        ]
+      ],
+      "score": 0.9092016220092773,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9983688143064391
+    },
+    {
+      "type": "number",
+      "img_path": "p0056_013_number.png",
+      "bbox": [
+        [
+          2308,
+          3337
+        ],
+        [
+          2355,
+          3337
+        ],
+        [
+          2355,
+          3373
+        ],
+        [
+          2308,
+          3373
+        ]
+      ],
+      "score": 0.8637670278549194,
+      "y_pos": 3337,
+      "text": "    \n\n    \n\n\n\n\n    \n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0056.png"
+}

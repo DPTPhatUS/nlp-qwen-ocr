@@ -1,0 +1,656 @@
+{
+  "page_num": 178,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0178_008_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9356817007064819,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7643314777385621
+    },
+    {
+      "type": "header",
+      "img_path": "p0178_011_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.917022705078125,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0178_012_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          369
+        ],
+        [
+          557,
+          369
+        ],
+        [
+          557,
+          416
+        ],
+        [
+          224,
+          416
+        ]
+      ],
+      "score": 0.9162954688072205,
+      "y_pos": 369,
+      "text": "4. Khích môn",
+      "confidence": 0.9483637256281716
+    },
+    {
+      "type": "text",
+      "img_path": "p0178_023_text.png",
+      "bbox": [
+        [
+          289,
+          458
+        ],
+        [
+          1090,
+          458
+        ],
+        [
+          1090,
+          515
+        ],
+        [
+          289,
+          515
+        ]
+      ],
+      "score": 0.9005934000015259,
+      "y_pos": 458,
+      "text": "Vị trí: Ở giữa nếp cổ tay lên 5 thốn.",
+      "confidence": 0.9916876065425384
+    },
+    {
+      "type": "text",
+      "img_path": "p0178_006_text.png",
+      "bbox": [
+        [
+          282,
+          550
+        ],
+        [
+          2356,
+          550
+        ],
+        [
+          2356,
+          677
+        ],
+        [
+          282,
+          677
+        ]
+      ],
+      "score": 0.957631528377533,
+      "y_pos": 550,
+      "text": "Cách lấy huyệt: Ngửa cổ tay, bàn tay nắm lại, từ lằn cổ tay lên 5 thốn, huyệt ở giữa hai gân.\n(H. 82)",
+      "confidence": 0.9755325916217782
+    },
+    {
+      "type": "text",
+      "img_path": "p0178_009_text.png",
+      "bbox": [
+        [
+          285,
+          715
+        ],
+        [
+          1815,
+          715
+        ],
+        [
+          1815,
+          767
+        ],
+        [
+          285,
+          767
+        ]
+      ],
+      "score": 0.9249573349952698,
+      "y_pos": 715,
+      "text": "Cách châm: Châm đứng kim, sâu 0,6-1 thốn. Cứu 3 mồi, hơ 5 phút.",
+      "confidence": 0.9931882042151231
+    },
+    {
+      "type": "text",
+      "img_path": "p0178_014_text.png",
+      "bbox": [
+        [
+          284,
+          807
+        ],
+        [
+          2184,
+          807
+        ],
+        [
+          2184,
+          861
+        ],
+        [
+          284,
+          861
+        ]
+      ],
+      "score": 0.913395345211029,
+      "y_pos": 807,
+      "text": "Chủ trị: Đau ngực, tim hồi hộp, đau dạ dày, nôn mửa, khuỷu cánh tay đau bại, bỏng.",
+      "confidence": 0.4239530783324015
+    },
+    {
+      "type": "text",
+      "img_path": "p0178_015_text.png",
+      "bbox": [
+        [
+          289,
+          898
+        ],
+        [
+          1592,
+          898
+        ],
+        [
+          1592,
+          952
+        ],
+        [
+          289,
+          952
+        ]
+      ],
+      "score": 0.9122516512870789,
+      "y_pos": 898,
+      "text": "Tác dụng phối hợp: Với Đại lăng, Chi câu trị nôn ra máu.",
+      "confidence": 0.9899944287949595
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0178_021_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          991
+        ],
+        [
+          490,
+          991
+        ],
+        [
+          490,
+          1037
+        ],
+        [
+          225,
+          1037
+        ]
+      ],
+      "score": 0.9074214696884155,
+      "y_pos": 991,
+      "text": "Gian ′    QI'",
+      "confidence": 0.6372641772031784
+    },
+    {
+      "type": "text",
+      "img_path": "p0178_018_text.png",
+      "bbox": [
+        [
+          289,
+          1078
+        ],
+        [
+          1326,
+          1078
+        ],
+        [
+          1326,
+          1136
+        ],
+        [
+          289,
+          1136
+        ]
+      ],
+      "score": 0.9105870127677917,
+      "y_pos": 1078,
+      "text": "Vị trí: Ở chính giữa nếp gấp cổ tay lên 3 thốn.",
+      "confidence": 0.9927526274505927
+    },
+    {
+      "type": "text",
+      "img_path": "p0178_005_text.png",
+      "bbox": [
+        [
+          280,
+          1171
+        ],
+        [
+          2359,
+          1171
+        ],
+        [
+          2359,
+          1298
+        ],
+        [
+          280,
+          1298
+        ]
+      ],
+      "score": 0.9595391750335693,
+      "y_pos": 1171,
+      "text": "Cách lấy huyệt: Bàn tay ngửa lên, nắm lại, từ giữa cổ tay lên 3 thốn, ở giữa hai gân là\nhuyệt. (H. 82)",
+      "confidence": 0.9923316372579403
+    },
+    {
+      "type": "text",
+      "img_path": "p0178_002_text.png",
+      "bbox": [
+        [
+          281,
+          1335
+        ],
+        [
+          2359,
+          1335
+        ],
+        [
+          2359,
+          1458
+        ],
+        [
+          281,
+          1458
+        ]
+      ],
+      "score": 0.9612402319908142,
+      "y_pos": 1335,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3-0,5 thốn, cảm giác tê lan đến khuỷu hoặc nách. Cứu 3\nmồi, hơ 5 phút.",
+      "confidence": 0.995571183947159
+    },
+    {
+      "type": "text",
+      "img_path": "p0178_013_text.png",
+      "bbox": [
+        [
+          285,
+          1498
+        ],
+        [
+          1773,
+          1498
+        ],
+        [
+          1773,
+          1552
+        ],
+        [
+          285,
+          1552
+        ]
+      ],
+      "score": 0.9148468971252441,
+      "y_pos": 1498,
+      "text": "Chủ trị: Sốt rét, đau tim ngực, nôn mửa, tim đập mạnh, động kinh.",
+      "confidence": 0.9829355460494312
+    },
+    {
+      "type": "text",
+      "img_path": "p0178_020_text.png",
+      "bbox": [
+        [
+          288,
+          1589
+        ],
+        [
+          1507,
+          1589
+        ],
+        [
+          1507,
+          1644
+        ],
+        [
+          288,
+          1644
+        ]
+      ],
+      "score": 0.9074408411979675,
+      "y_pos": 1589,
+      "text": "Tác dụng phối hợp: Với Đại chùy, Hậu khê trị sốt rét.",
+      "confidence": 0.993456734310497
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0178_019_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1682
+        ],
+        [
+          515,
+          1682
+        ],
+        [
+          515,
+          1733
+        ],
+        [
+          226,
+          1733
+        ]
+      ],
+      "score": 0.9094821810722351,
+      "y_pos": 1682,
+      "text": "6. Nội quan",
+      "confidence": 0.9405916654146634
+    },
+    {
+      "type": "text",
+      "img_path": "p0178_022_text.png",
+      "bbox": [
+        [
+          289,
+          1771
+        ],
+        [
+          1382,
+          1771
+        ],
+        [
+          1382,
+          1827
+        ],
+        [
+          289,
+          1827
+        ]
+      ],
+      "score": 0.903037965297699,
+      "y_pos": 1771,
+      "text": "Vị trí: Từ giữa nếp gấp cổ tay lên 2 thốn. (H. 82)",
+      "confidence": 0.9905776392955047
+    },
+    {
+      "type": "text",
+      "img_path": "p0178_003_text.png",
+      "bbox": [
+        [
+          282,
+          1863
+        ],
+        [
+          2358,
+          1863
+        ],
+        [
+          2358,
+          1988
+        ],
+        [
+          282,
+          1988
+        ]
+      ],
+      "score": 0.9601333141326904,
+      "y_pos": 1863,
+      "text": "Cách lấy huyệt: Ngửa bàn tay, nắm lại, từ cổ tay lên 2 thốn, chính giữa hai gân, đối vị trước\nsau với huyệt <i>Ngoại quan</i> (thuộc kinh <i>Tam tiêu</i>).",
+      "confidence": 0.996163584725504
+    },
+    {
+      "type": "text",
+      "img_path": "p0178_000_text.png",
+      "bbox": [
+        [
+          280,
+          2027
+        ],
+        [
+          2359,
+          2027
+        ],
+        [
+          2359,
+          2220
+        ],
+        [
+          280,
+          2220
+        ]
+      ],
+      "score": 0.9755420684814453,
+      "y_pos": 2027,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3-0,5 thốn, hoặc thấu huyệt Ngoại quan, cảm giác tê tức\nlan đến khuỷu tay, vai, cổ, có khi đến tai, lan xuống dưới ngón tay giữa. Cứu 3-5 mồi, hơ 5-\n10 phút.",
+      "confidence": 0.9861820933728381
+    },
+    {
+      "type": "text",
+      "img_path": "p0178_004_text.png",
+      "bbox": [
+        [
+          281,
+          2260
+        ],
+        [
+          2357,
+          2260
+        ],
+        [
+          2357,
+          2383
+        ],
+        [
+          281,
+          2383
+        ]
+      ],
+      "score": 0.9598965644836426,
+      "y_pos": 2260,
+      "text": "Chủ trị: Đau dạ dày, đau sườn ngực, nôn mửa, mất ngủ, nấc, tim đập mạnh, tim đau, hen,\nsuyễn, hư thoát, sốt rét, bệnh tinh thần, suy nhược thần kinh, nôn mửa lúc có thai.",
+      "confidence": 0.9957484861068866
+    },
+    {
+      "type": "text",
+      "img_path": "p0178_007_text.png",
+      "bbox": [
+        [
+          282,
+          2420
+        ],
+        [
+          2359,
+          2420
+        ],
+        [
+          2359,
+          2549
+        ],
+        [
+          282,
+          2549
+        ]
+      ],
+      "score": 0.9561954736709595,
+      "y_pos": 2420,
+      "text": "Tác dụng phối hợp: Với Tam âm giao, Chiên trung trị tim đau nhói; với Túc tam lý trị sốt rét;\nvới <i>Công tôn</i> trị viêm dạ dày cấp; với <i>Thiên đột, Thượng quản</i> trị nấc, (cơ hoành co cứng).",
+      "confidence": 0.9962982024017133
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0178_017_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2586
+        ],
+        [
+          497,
+          2586
+        ],
+        [
+          497,
+          2638
+        ],
+        [
+          226,
+          2638
+        ]
+      ],
+      "score": 0.910866916179657,
+      "y_pos": 2586,
+      "text": "Đai lăng",
+      "confidence": 0.8850184977054596
+    },
+    {
+      "type": "text",
+      "img_path": "p0178_010_text.png",
+      "bbox": [
+        [
+          288,
+          2674
+        ],
+        [
+          1280,
+          2674
+        ],
+        [
+          1280,
+          2731
+        ],
+        [
+          288,
+          2731
+        ]
+      ],
+      "score": 0.9239561557769775,
+      "y_pos": 2674,
+      "text": "Vị trí: Ở chỗ lõm chính giữa nếp gấp cổ tay.",
+      "confidence": 0.9892494212026182
+    },
+    {
+      "type": "text",
+      "img_path": "p0178_001_text.png",
+      "bbox": [
+        [
+          280,
+          2766
+        ],
+        [
+          2358,
+          2766
+        ],
+        [
+          2358,
+          2893
+        ],
+        [
+          280,
+          2893
+        ]
+      ],
+      "score": 0.9620580077171326,
+      "y_pos": 2766,
+      "text": "Cách lấy huyệt: Bàn tay ngửa lên, chính giữa cổ tay, sau nếp gấp trên chỗ lõm giữa hai gân\nlà huyệt. (H. 82)",
+      "confidence": 0.9680403356421186
+    },
+    {
+      "type": "footer",
+      "img_path": "p0178_016_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9121835827827454,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0178_024_number.png",
+      "bbox": [
+        [
+          2301,
+          3339
+        ],
+        [
+          2350,
+          3339
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2301,
+          3377
+        ]
+      ],
+      "score": 0.8694648146629333,
+      "y_pos": 3339,
+      "text": "\n    \n\n\n\n\n    \n\n\n۰.\n    \n\n\n    \n",
+      "confidence": 0.9777902701967641
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0178.png"
+}

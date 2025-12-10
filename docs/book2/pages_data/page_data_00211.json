@@ -1,0 +1,786 @@
+{
+  "page_num": 211,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0211_001_header.png",
+      "bbox": [
+        [
+          1607,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9189882874488831,
+      "y_pos": 143,
+      "text": "~ ~ ~\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6999826583833921
+    },
+    {
+      "type": "header",
+      "img_path": "p0211_005_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9048616886138916,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "text",
+      "img_path": "p0211_006_text.png",
+      "bbox": [
+        [
+          281,
+          349
+        ],
+        [
+          2361,
+          349
+        ],
+        [
+          2361,
+          471
+        ],
+        [
+          281,
+          471
+        ]
+      ],
+      "score": 0.9020479917526245,
+      "y_pos": 349,
+      "text": "Cách châm: Châm chếch kim dưới da, mũi kim ra phía trước hoặc phía sau, sâu 0,2 - 0,3\nthốn. Cứu 3 mồi.",
+      "confidence": 0.9961270172705595
+    },
+    {
+      "type": "text",
+      "img_path": "p0211_004_text.png",
+      "bbox": [
+        [
+          284,
+          509
+        ],
+        [
+          2360,
+          509
+        ],
+        [
+          2360,
+          636
+        ],
+        [
+          284,
+          636
+        ]
+      ],
+      "score": 0.9083559513092041,
+      "y_pos": 509,
+      "text": "Chủ trị: Đau đầu, đau mắt, tắc mũi, chảy máu mũi, choáng váng, động kinh, cổ cứng, phát\nsốt, câm điếc, trẻ em la chảy, sa dạ con, đẻ xong mất ngủ, trúng gió, lòi dom.",
+      "confidence": 0.9984745260035055
+    },
+    {
+      "type": "text",
+      "img_path": "p0211_021_text.png",
+      "bbox": [
+        [
+          288,
+          672
+        ],
+        [
+          2359,
+          672
+        ],
+        [
+          2359,
+          801
+        ],
+        [
+          288,
+          801
+        ]
+      ],
+      "score": 0.8509040474891663,
+      "y_pos": 672,
+      "text": "Tác dụng phối hợp: Với Hợp cốc, Thái xung chữa đau đỉnh đầu; với <i>Cưu vỹ</i> trị lỵ; với\nTrường cường, Thừa sơn, trị lòi dom; với Thái xung, Tam âm giao, trị đau hầu họng.",
+      "confidence": 0.9916641604161419
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0211_008_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          834
+        ],
+        [
+          547,
+          834
+        ],
+        [
+          547,
+          882
+        ],
+        [
+          227,
+          882
+        ]
+      ],
+      "score": 0.8899111747741699,
+      "y_pos": 834,
+      "text": "｢iên đỉnh",
+      "confidence": 0.8693521519502004
+    },
+    {
+      "type": "text",
+      "img_path": "p0211_025_text.png",
+      "bbox": [
+        [
+          289,
+          926
+        ],
+        [
+          1663,
+          926
+        ],
+        [
+          1663,
+          982
+        ],
+        [
+          289,
+          982
+        ]
+      ],
+      "score": 0.8200166821479797,
+      "y_pos": 926,
+      "text": "Vị trí: Từ huyệt Bách hội ra phía trước đầu 1,5 thốn. (H. 101)",
+      "confidence": 0.9890342801809311
+    },
+    {
+      "type": "text",
+      "img_path": "p0211_023_text.png",
+      "bbox": [
+        [
+          287,
+          1018
+        ],
+        [
+          1672,
+          1018
+        ],
+        [
+          1672,
+          1069
+        ],
+        [
+          287,
+          1069
+        ]
+      ],
+      "score": 0.830138623714447,
+      "y_pos": 1018,
+      "text": "Cách châm: Châm chếch kim, sâu 0,5 – 0,8 thốn. Cứu 5 mồi.",
+      "confidence": 0.5896805979437747
+    },
+    {
+      "type": "text",
+      "img_path": "p0211_024_text.png",
+      "bbox": [
+        [
+          287,
+          1111
+        ],
+        [
+          1854,
+          1111
+        ],
+        [
+          1854,
+          1167
+        ],
+        [
+          287,
+          1167
+        ]
+      ],
+      "score": 0.8299922347068787,
+      "y_pos": 1111,
+      "text": "Chủ trị: Đau đỉnh đầu, choáng váng, mặt sưng đỏ, trẻ em kinh phong.",
+      "confidence": 0.9801420292992523
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0211_014_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1202
+        ],
+        [
+          488,
+          1202
+        ],
+        [
+          488,
+          1252
+        ],
+        [
+          227,
+          1252
+        ]
+      ],
+      "score": 0.8590901494026184,
+      "y_pos": 1202,
+      "text": "22.    Tín hôi",
+      "confidence": 0.8468586984607909
+    },
+    {
+      "type": "text",
+      "img_path": "p0211_026_text.png",
+      "bbox": [
+        [
+          290,
+          1294
+        ],
+        [
+          1619,
+          1294
+        ],
+        [
+          1619,
+          1348
+        ],
+        [
+          290,
+          1348
+        ]
+      ],
+      "score": 0.8164461851119995,
+      "y_pos": 1294,
+      "text": "Vị trí: Từ huyệt Bách hội ra phía trước đầu 3 thốn. (H. 101)",
+      "confidence": 0.9918335426238275
+    },
+    {
+      "type": "text",
+      "img_path": "p0211_028_text.png",
+      "bbox": [
+        [
+          287,
+          1385
+        ],
+        [
+          1671,
+          1385
+        ],
+        [
+          1671,
+          1437
+        ],
+        [
+          287,
+          1437
+        ]
+      ],
+      "score": 0.8101726174354553,
+      "y_pos": 1385,
+      "text": "Cách châm: Châm chếch kim, sâu 0,5 - 0,8 thốn. Cứu 3 mồi.",
+      "confidence": 0.6578131914138794
+    },
+    {
+      "type": "text",
+      "img_path": "p0211_027_text.png",
+      "bbox": [
+        [
+          287,
+          1477
+        ],
+        [
+          1774,
+          1477
+        ],
+        [
+          1774,
+          1532
+        ],
+        [
+          287,
+          1532
+        ]
+      ],
+      "score": 0.8110057711601257,
+      "y_pos": 1477,
+      "text": "Chủ trị: Đau đầu, choáng váng, chảy máu mũi, trẻ em kinh phong.",
+      "confidence": 0.9848218120061434
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0211_007_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1569
+        ],
+        [
+          627,
+          1569
+        ],
+        [
+          627,
+          1622
+        ],
+        [
+          227,
+          1622
+        ]
+      ],
+      "score": 0.8944439888000488,
+      "y_pos": 1569,
+      "text": "23. Thượng tinh",
+      "confidence": 0.9975058716886184
+    },
+    {
+      "type": "text",
+      "img_path": "p0211_018_text.png",
+      "bbox": [
+        [
+          290,
+          1661
+        ],
+        [
+          1380,
+          1661
+        ],
+        [
+          1380,
+          1715
+        ],
+        [
+          290,
+          1715
+        ]
+      ],
+      "score": 0.8525989651679993,
+      "y_pos": 1661,
+      "text": "Vị trí: Từ mép tóc trước trán lên 1 thốn. (H. 101)",
+      "confidence": 0.9900133839020362
+    },
+    {
+      "type": "text",
+      "img_path": "p0211_002_text.png",
+      "bbox": [
+        [
+          284,
+          1750
+        ],
+        [
+          2358,
+          1750
+        ],
+        [
+          2358,
+          1877
+        ],
+        [
+          284,
+          1877
+        ]
+      ],
+      "score": 0.9148088693618774,
+      "y_pos": 1750,
+      "text": "Cách châm: Châm mũi kim chếch về hướng đỉnh đầu, luồn dưới da, sâu 0,2 - 0,3 thốn. Cứu\n3 mồi, hơ 5 phút.",
+      "confidence": 0.9958111481589564
+    },
+    {
+      "type": "text",
+      "img_path": "p0211_017_text.png",
+      "bbox": [
+        [
+          287,
+          1914
+        ],
+        [
+          1441,
+          1914
+        ],
+        [
+          1441,
+          1969
+        ],
+        [
+          287,
+          1969
+        ]
+      ],
+      "score": 0.8551758527755737,
+      "y_pos": 1914,
+      "text": "Chủ trị: Đau đàu, đau mắt, tắc mũi, chảy máu cam.",
+      "confidence": 0.986722420243656
+    },
+    {
+      "type": "text",
+      "img_path": "p0211_029_text.png",
+      "bbox": [
+        [
+          286,
+          2005
+        ],
+        [
+          2033,
+          2005
+        ],
+        [
+          2033,
+          2063
+        ],
+        [
+          286,
+          2063
+        ]
+      ],
+      "score": 0.8072524070739746,
+      "y_pos": 2005,
+      "text": "<i>Tác dụng phối hợp:</i> Với <i>Hợp cốc</i> trị đau đầu; với <i>Nghinh hương</i> trị bệnh mũi.",
+      "confidence": 0.9944406282611009
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0211_010_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2097
+        ],
+        [
+          561,
+          2097
+        ],
+        [
+          561,
+          2145
+        ],
+        [
+          227,
+          2145
+        ]
+      ],
+      "score": 0.8654798269271851,
+      "y_pos": 2097,
+      "text": "Thân đình",
+      "confidence": 0.9843522039326754
+    },
+    {
+      "type": "text",
+      "img_path": "p0211_012_text.png",
+      "bbox": [
+        [
+          290,
+          2189
+        ],
+        [
+          1345,
+          2189
+        ],
+        [
+          1345,
+          2245
+        ],
+        [
+          290,
+          2245
+        ]
+      ],
+      "score": 0.8636357188224792,
+      "y_pos": 2189,
+      "text": "Vị trí: Mép tóc trước trán lên 0,5 thốn. (H. 101)",
+      "confidence": 0.9910834875761294
+    },
+    {
+      "type": "text",
+      "img_path": "p0211_000_text.png",
+      "bbox": [
+        [
+          283,
+          2280
+        ],
+        [
+          2357,
+          2280
+        ],
+        [
+          2357,
+          2404
+        ],
+        [
+          283,
+          2404
+        ]
+      ],
+      "score": 0.9224805235862732,
+      "y_pos": 2280,
+      "text": "Cách châm: Châm mũi kim chếch lên hướng đỉnh đầu, luồn dưới da, sâu 0,2 – 0,3 thốn.\nCứu 3 mồi, hơ 5 phút.",
+      "confidence": 0.9884552746325197
+    },
+    {
+      "type": "text",
+      "img_path": "p0211_013_text.png",
+      "bbox": [
+        [
+          287,
+          2444
+        ],
+        [
+          1362,
+          2444
+        ],
+        [
+          1362,
+          2499
+        ],
+        [
+          287,
+          2499
+        ]
+      ],
+      "score": 0.861551821231842,
+      "y_pos": 2444,
+      "text": "Chủ trị: Đau đầu, động kinh, đau xương ụ mày.",
+      "confidence": 0.738762912598062
+    },
+    {
+      "type": "text",
+      "img_path": "p0211_015_text.png",
+      "bbox": [
+        [
+          287,
+          2534
+        ],
+        [
+          2016,
+          2534
+        ],
+        [
+          2016,
+          2593
+        ],
+        [
+          287,
+          2593
+        ]
+      ],
+      "score": 0.8569322228431702,
+      "y_pos": 2534,
+      "text": "<i>Tác dụng phối hợp:</i> Với <i>Thượng tinh</i>, <i>Ấn đường</i> trị đau phía trước đỉnh đầu.",
+      "confidence": 0.9908172370475016
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0211_020_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2625
+        ],
+        [
+          486,
+          2625
+        ],
+        [
+          486,
+          2675
+        ],
+        [
+          227,
+          2675
+        ]
+      ],
+      "score": 0.851776123046875,
+      "y_pos": 2625,
+      "text": "    liêu\n- -    0",
+      "confidence": 0.7239648029208183
+    },
+    {
+      "type": "text",
+      "img_path": "p0211_022_text.png",
+      "bbox": [
+        [
+          288,
+          2718
+        ],
+        [
+          2104,
+          2718
+        ],
+        [
+          2104,
+          2775
+        ],
+        [
+          288,
+          2775
+        ]
+      ],
+      "score": 0.849090576171875,
+      "y_pos": 2718,
+      "text": "Vị trí: Ở trên quả mũi, chính giữa đầu nhọn mũi, trong da là sụn. (H. 101, H. 102)",
+      "confidence": 0.993371137550899
+    },
+    {
+      "type": "text",
+      "img_path": "p0211_019_text.png",
+      "bbox": [
+        [
+          285,
+          2811
+        ],
+        [
+          1820,
+          2811
+        ],
+        [
+          1820,
+          2863
+        ],
+        [
+          285,
+          2863
+        ]
+      ],
+      "score": 0.8521528244018555,
+      "y_pos": 2811,
+      "text": "Cách châm: Châm mũi kim chếch lên, sâu 0,1 – 0,2 thốn. Cấm cứu.",
+      "confidence": 0.42376731175642746
+    },
+    {
+      "type": "text",
+      "img_path": "p0211_011_text.png",
+      "bbox": [
+        [
+          286,
+          2901
+        ],
+        [
+          1785,
+          2901
+        ],
+        [
+          1785,
+          2956
+        ],
+        [
+          286,
+          2956
+        ]
+      ],
+      "score": 0.8651920557022095,
+      "y_pos": 2901,
+      "text": "Chủ trị: Mũi tắc, chảy máu mũi, mũi đỏ, bệnh trứng cá đỏ đầu mũi.",
+      "confidence": 0.9820174254588226
+    },
+    {
+      "type": "text",
+      "img_path": "p0211_016_text.png",
+      "bbox": [
+        [
+          289,
+          2993
+        ],
+        [
+          2256,
+          2993
+        ],
+        [
+          2256,
+          3051
+        ],
+        [
+          289,
+          3051
+        ]
+      ],
+      "score": 0.8553321957588196,
+      "y_pos": 2993,
+      "text": "<i>Tác dụng phối hợp:</i> Với <i>Nội quan</i>, <i>Bách hội, Nhân trung</i>, trị chứng hưu khắc (ngất lịm).",
+      "confidence": 0.9901627032987533
+    },
+    {
+      "type": "footer",
+      "img_path": "p0211_003_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9103057980537415,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0211_009_number.png",
+      "bbox": [
+        [
+          2301,
+          3339
+        ],
+        [
+          2351,
+          3339
+        ],
+        [
+          2351,
+          3377
+        ],
+        [
+          2301,
+          3377
+        ]
+      ],
+      "score": 0.8690948486328125,
+      "y_pos": 3339,
+      "text": "    \n    \n        \n\n    \n    \n\n\n\n\n\n    \n    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0211.png"
+}

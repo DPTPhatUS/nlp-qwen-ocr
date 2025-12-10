@@ -1,0 +1,266 @@
+{
+  "page_num": 372,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0372_003_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1678,
+          196
+        ]
+      ],
+      "score": 0.9215016961097717,
+      "y_pos": 142,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7456070706248283
+    },
+    {
+      "type": "header",
+      "img_path": "p0372_004_header.png",
+      "bbox": [
+        [
+          230,
+          146
+        ],
+        [
+          1095,
+          146
+        ],
+        [
+          1095,
+          197
+        ],
+        [
+          230,
+          197
+        ]
+      ],
+      "score": 0.9108940362930298,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SÀNG",
+      "confidence": 0.9910215088299342
+    },
+    {
+      "type": "text",
+      "img_path": "p0372_009_text.png",
+      "bbox": [
+        [
+          232,
+          306
+        ],
+        [
+          1004,
+          306
+        ],
+        [
+          1004,
+          359
+        ],
+        [
+          232,
+          359
+        ]
+      ],
+      "score": 0.6782989501953125,
+      "y_pos": 306,
+      "text": "Trần đảm tinh    1 đồng cân,",
+      "confidence": 0.9712761680285136
+    },
+    {
+      "type": "text",
+      "img_path": "p0372_008_text.png",
+      "bbox": [
+        [
+          231,
+          397
+        ],
+        [
+          1043,
+          397
+        ],
+        [
+          1043,
+          451
+        ],
+        [
+          231,
+          451
+        ]
+      ],
+      "score": 0.7745770812034607,
+      "y_pos": 397,
+      "text": "Thạch Xương bố    1,5 đồng cân.",
+      "confidence": 0.9608837752292554
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0372_007_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          491
+        ],
+        [
+          467,
+          491
+        ],
+        [
+          467,
+          543
+        ],
+        [
+          227,
+          543
+        ]
+      ],
+      "score": 0.7771334648132324,
+      "y_pos": 491,
+      "text": "Gia giám:",
+      "confidence": 0.8700121912089261
+    },
+    {
+      "type": "text",
+      "img_path": "p0372_002_text.png",
+      "bbox": [
+        [
+          224,
+          581
+        ],
+        [
+          2363,
+          581
+        ],
+        [
+          2363,
+          705
+        ],
+        [
+          224,
+          705
+        ]
+      ],
+      "score": 0.955966591835022,
+      "y_pos": 581,
+      "text": "- Đầu choáng đau, chân tay hoặc bàn tay co động, gia Câu đẳng 5 đồng cân, Sinh thạch quyết\nminh 8 đồng cân đem đun trước",
+      "confidence": 0.8440859263754994
+    },
+    {
+      "type": "text",
+      "img_path": "p0372_001_text.png",
+      "bbox": [
+        [
+          224,
+          744
+        ],
+        [
+          2359,
+          744
+        ],
+        [
+          2359,
+          867
+        ],
+        [
+          224,
+          867
+        ]
+      ],
+      "score": 0.9590708613395691,
+      "y_pos": 744,
+      "text": "- Đờm xông lên, hơi thở khô, ngực buồn bã, gia <i>Trúc lịch bán hạ</i> 3 đồng cân, <i>Sao chỉ thực</i> 2\nđồng cân.",
+      "confidence": 0.9962407727866913
+    },
+    {
+      "type": "text",
+      "img_path": "p0372_000_text.png",
+      "bbox": [
+        [
+          222,
+          907
+        ],
+        [
+          2358,
+          907
+        ],
+        [
+          2358,
+          1028
+        ],
+        [
+          222,
+          1028
+        ]
+      ],
+      "score": 0.9607069492340088,
+      "y_pos": 907,
+      "text": "Sau khi người bệnh tỉnh táo, ngoài việc biện chứng để chữa ra, phải tìm được nguyên nhân gây\nbênh mà cứu chữa.",
+      "confidence": 0.9967007213183506
+    },
+    {
+      "type": "number",
+      "img_path": "p0372_006_number.png",
+      "bbox": [
+        [
+          2309,
+          3335
+        ],
+        [
+          2358,
+          3335
+        ],
+        [
+          2358,
+          3372
+        ],
+        [
+          2309,
+          3372
+        ]
+      ],
+      "score": 0.8624809384346008,
+      "y_pos": 3335,
+      "text": "    \n\n\n\n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0372_005_footer.png",
+      "bbox": [
+        [
+          229,
+          3337
+        ],
+        [
+          1343,
+          3337
+        ],
+        [
+          1343,
+          3383
+        ],
+        [
+          229,
+          3383
+        ]
+      ],
+      "score": 0.9099603891372681,
+      "y_pos": 3337,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9302394480075477
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0372.png"
+}

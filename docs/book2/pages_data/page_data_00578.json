@@ -1,0 +1,162 @@
+{
+  "page_num": 578,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0578_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9124202132225037,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0578_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1467,
+          152
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9208717942237854,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TẬN, KỲ HUYỆT",
+      "confidence": 0.9979400253295898
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0578_004_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          325
+        ],
+        [
+          851,
+          325
+        ],
+        [
+          851,
+          381
+        ],
+        [
+          226,
+          381
+        ]
+      ],
+      "score": 0.7774993777275085,
+      "y_pos": 325,
+      "text": "Phần 25. BÊNH HÂU MÔN",
+      "confidence": 0.9901571247888648
+    },
+    {
+      "type": "text",
+      "img_path": "p0578_005_text.png",
+      "bbox": [
+        [
+          225,
+          419
+        ],
+        [
+          1279,
+          419
+        ],
+        [
+          1279,
+          657
+        ],
+        [
+          225,
+          657
+        ]
+      ],
+      "score": 0.7698704600334167,
+      "y_pos": 419,
+      "text": "324. Bệnh tật ở hậu môn: Thập thấy chùy hạ.\n325. <b>Trĩ:</b> Trúc trượng, Trạch hạ, Nhị bạch.\n326. Trĩ lòi dom: Bàng cường, Nhị bạch.",
+      "confidence": 0.9864070198578151
+    },
+    {
+      "type": "number",
+      "img_path": "p0578_003_number.png",
+      "bbox": [
+        [
+          2316,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2316,
+          3374
+        ]
+      ],
+      "score": 0.8629549145698547,
+      "y_pos": 3337,
+      "text": "    \n    \n\n\n\n\n\n\n۰\n",
+      "confidence": 0.9597817473113537
+    },
+    {
+      "type": "footer",
+      "img_path": "p0578_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1325,
+          3341
+        ],
+        [
+          1325,
+          3388
+        ],
+        [
+          229,
+          3388
+        ]
+      ],
+      "score": 0.905316948890686,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985828905735376
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0578.png"
+}

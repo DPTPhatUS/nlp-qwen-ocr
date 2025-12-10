@@ -1,0 +1,552 @@
+{
+  "page_num": 663,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0663_009_header.png",
+      "bbox": [
+        [
+          1674,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1674,
+          197
+        ]
+      ],
+      "score": 0.9206201434135437,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.710203885677315
+    },
+    {
+      "type": "header",
+      "img_path": "p0663_011_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9094128608703613,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "text",
+      "img_path": "p0663_003_text.png",
+      "bbox": [
+        [
+          280,
+          309
+        ],
+        [
+          2358,
+          309
+        ],
+        [
+          2358,
+          503
+        ],
+        [
+          280,
+          503
+        ]
+      ],
+      "score": 0.9778087139129639,
+      "y_pos": 309,
+      "text": "a. Triệu chứng: Đau bụng ỉa chảy hoặc lý cấp hậu trọng (trong bụng quặn đau, hậu môn\nnặng như muốn đại tiện mà phân khó ra), phân có chất nhầy máu mủ, hoặc ra máu, có mụn\ntrĩ, lưỡi hồng, rêu dày trắng hoặc vàng trơn, mạch trầm sác.",
+      "confidence": 0.9981564250265847
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0663_015_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          541
+        ],
+        [
+          982,
+          541
+        ],
+        [
+          982,
+          592
+        ],
+        [
+          285,
+          592
+        ]
+      ],
+      "score": 0.8932799696922302,
+      "y_pos": 541,
+      "text": "Mô hình chỉ số nhiệt kinh lạc",
+      "confidence": 0.9980405492167319
+    },
+    {
+      "type": "text",
+      "img_path": "p0663_005_text.png",
+      "bbox": [
+        [
+          282,
+          632
+        ],
+        [
+          2356,
+          632
+        ],
+        [
+          2356,
+          755
+        ],
+        [
+          282,
+          755
+        ]
+      ],
+      "score": 0.9604581594467163,
+      "y_pos": 632,
+      "text": "Đại trường (+BL), Phế (+), Can (+), Đảm (-), Tâm (+), Tỳ (+), Vị (-), Bàng quang (-), Thận (-),\nTam tiêu (+).",
+      "confidence": 0.9881648101347829
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0663_012_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          797
+        ],
+        [
+          702,
+          797
+        ],
+        [
+          702,
+          847
+        ],
+        [
+          285,
+          847
+        ]
+      ],
+      "score": 0.8996085524559021,
+      "y_pos": 797,
+      "text": "b. Phương huyệt",
+      "confidence": 0.9914109777001774
+    },
+    {
+      "type": "text",
+      "img_path": "p0663_017_text.png",
+      "bbox": [
+        [
+          284,
+          887
+        ],
+        [
+          1482,
+          887
+        ],
+        [
+          1482,
+          939
+        ],
+        [
+          284,
+          939
+        ]
+      ],
+      "score": 0.8781023025512695,
+      "y_pos": 887,
+      "text": "Tả: Hợp cốc, Ngoại quan, Túc Tam lý, Thượng cự hư.",
+      "confidence": 0.9978378403645295
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0663_014_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          982
+        ],
+        [
+          999,
+          982
+        ],
+        [
+          999,
+          1031
+        ],
+        [
+          285,
+          1031
+        ]
+      ],
+      "score": 0.8971279263496399,
+      "y_pos": 982,
+      "text": "c. Giảng nghĩa phương huyệt",
+      "confidence": 0.9980489940478884
+    },
+    {
+      "type": "text",
+      "img_path": "p0663_000_text.png",
+      "bbox": [
+        [
+          278,
+          1070
+        ],
+        [
+          2359,
+          1070
+        ],
+        [
+          2359,
+          1473
+        ],
+        [
+          278,
+          1473
+        ]
+      ],
+      "score": 0.9855059385299683,
+      "y_pos": 1070,
+      "text": "Hợp cốc là nguyên huyệt của kinh Đại trường, loại nguyên cũng như loại du trong ngũ du\nhuyệt, vừa có tác dụng của loại nguyên để hạ nhiệt kinh Đại trường lại có tác dụng khử thấp\ncủa loại du. <i>Ngoại quan</i> là huyệt loại lạc của kinh Tam tiêu có tác dụng khử ngoại tà ở Tam\ntiêu và toàn thân nói chung (do chữ <i>Ngoại quan</i> nghĩa là có gắn với ngoại tà). <i>Túc tam lý</i> có\ntác dung kiên Tỳ, hoà Vị, hoá thấp; Thượng cự hư là hạ hợp huyệt, trị bệnh của Đại trường\nmanh nhất.",
+      "confidence": 0.9947239440395218
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0663_008_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1518
+        ],
+        [
+          791,
+          1518
+        ],
+        [
+          791,
+          1569
+        ],
+        [
+          225,
+          1569
+        ]
+      ],
+      "score": 0.9225897789001465,
+      "y_pos": 1518,
+      "text": "D. Thận và Bàng quang",
+      "confidence": 0.9030542788298234
+    },
+    {
+      "type": "text",
+      "img_path": "p0663_001_text.png",
+      "bbox": [
+        [
+          220,
+          1606
+        ],
+        [
+          2359,
+          1606
+        ],
+        [
+          2359,
+          1944
+        ],
+        [
+          220,
+          1944
+        ]
+      ],
+      "score": 0.9834660887718201,
+      "y_pos": 1606,
+      "text": "Thận là cái gốc của “tiên thiên”, công năng sinh lý là chủ tàng tinh, chủ nước (thuỷ). Trong thận\ncó chứa nguyên âm (vật chất nguồn gốc), nguyên dương (dương khí nguồn gốc), chỉ nên giữ\ngìn, không nên hao tiếp. Lúc biến hoá bệnh lý phần nhiều là hư chứng, được chia thành hai loại\nlớn: Thận âm hư và Thận dương hư, trong đó bao gồm nhiều loại bệnh về sinh dục, tiết niệu,\nthần kinh, hệ thống nội tiết. Chứng bệnh thường thấy của Bàng quang là thấp nhiệt.",
+      "confidence": 0.9880345114916393
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0663_010_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1985
+        ],
+        [
+          580,
+          1985
+        ],
+        [
+          580,
+          2032
+        ],
+        [
+          226,
+          2032
+        ]
+      ],
+      "score": 0.9097779989242554,
+      "y_pos": 1985,
+      "text": "1. Thân âm hư",
+      "confidence": 0.9101393381754558
+    },
+    {
+      "type": "text",
+      "img_path": "p0663_007_text.png",
+      "bbox": [
+        [
+          222,
+          2075
+        ],
+        [
+          2358,
+          2075
+        ],
+        [
+          2358,
+          2198
+        ],
+        [
+          222,
+          2198
+        ]
+      ],
+      "score": 0.9589104652404785,
+      "y_pos": 2075,
+      "text": "Mô hình chỉ số nhiệt kinh lạc cơ bản: Thận (+BL), nghĩa là kinh Thận có trạng thái nhiệt bệnh\nlý. Số tương quan của kinh Thận có giá trị tuyệt đối lớn hơn sai số giới hạn và mang dấu +.",
+      "confidence": 0.9993821454102128
+    },
+    {
+      "type": "text",
+      "img_path": "p0663_002_text.png",
+      "bbox": [
+        [
+          275,
+          2235
+        ],
+        [
+          2359,
+          2235
+        ],
+        [
+          2359,
+          2572
+        ],
+        [
+          275,
+          2572
+        ]
+      ],
+      "score": 0.983171284198761,
+      "y_pos": 2235,
+      "text": "a. Triệu chứng: Đầu váng, mắt hoa, tai ù, tai điếc, răng lợi lung lay hoặc đau, mất ngủ, gần\ntối miệng khô, ngũ tâm phiền nhiệt, mồ hôi trộm, lưng gối mỏi đau hoặc đau xương chày,\nđau mắt cá chân, di tinh, lưỡi hồng khô hoặc có rêu xanh, mạch tế sác. Nếu kiêm thấy gò má\nhồng, môi đỏ, ham tình dục, tiểu tiện ít, đỏ, nửa đêm miệng khô nhiều, mạch huyền sác,\nhoặc huyền tế sác là âm hư hoả vượng.",
+      "confidence": 0.9972881988740742
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0663_018_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          2612
+        ],
+        [
+          981,
+          2612
+        ],
+        [
+          981,
+          2661
+        ],
+        [
+          285,
+          2661
+        ]
+      ],
+      "score": 0.8713750243186951,
+      "y_pos": 2612,
+      "text": "Mô hình chỉ số nhiệt kinh lạc",
+      "confidence": 0.9979580833065894
+    },
+    {
+      "type": "text",
+      "img_path": "p0663_006_text.png",
+      "bbox": [
+        [
+          281,
+          2702
+        ],
+        [
+          2358,
+          2702
+        ],
+        [
+          2358,
+          2828
+        ],
+        [
+          281,
+          2828
+        ]
+      ],
+      "score": 0.9595949053764343,
+      "y_pos": 2702,
+      "text": "Thận (+BL), Phế (+), Đảm (+), Can (+), Tâm (-), Tỳ (+), Bàng quang (-), Tiểu trường (-), Tâm\nbào (+).",
+      "confidence": 0.9793834553754076
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0663_016_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          2868
+        ],
+        [
+          702,
+          2868
+        ],
+        [
+          702,
+          2919
+        ],
+        [
+          286,
+          2919
+        ]
+      ],
+      "score": 0.8781207799911499,
+      "y_pos": 2868,
+      "text": "b. Phương huyệt",
+      "confidence": 0.991975931560292
+    },
+    {
+      "type": "text",
+      "img_path": "p0663_004_text.png",
+      "bbox": [
+        [
+          283,
+          2957
+        ],
+        [
+          2355,
+          2957
+        ],
+        [
+          2355,
+          3080
+        ],
+        [
+          283,
+          3080
+        ]
+      ],
+      "score": 0.9608785510063171,
+      "y_pos": 2957,
+      "text": "Bổ: Cách du, Đảm du, Thái dương, Hợp cốc, Thận du, Nội quan, Túc Tam lý, Tam âm giao,\nBách hội, Thông thiên, Dũng tuyền.",
+      "confidence": 0.9962866180130348
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0663_020_paragraph_title.png",
+      "bbox": [
+        [
+          287,
+          3123
+        ],
+        [
+          996,
+          3123
+        ],
+        [
+          996,
+          3175
+        ],
+        [
+          287,
+          3175
+        ]
+      ],
+      "score": 0.7777337431907654,
+      "y_pos": 3123,
+      "text": "c. Giảng nghĩa phương huyệt",
+      "confidence": 0.9982047245420259
+    },
+    {
+      "type": "number",
+      "img_path": "p0663_019_number.png",
+      "bbox": [
+        [
+          2304,
+          3336
+        ],
+        [
+          2353,
+          3336
+        ],
+        [
+          2353,
+          3373
+        ],
+        [
+          2304,
+          3373
+        ]
+      ],
+      "score": 0.8603488802909851,
+      "y_pos": 3336,
+      "text": "\n    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0663_013_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.8979426622390747,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987586095647992
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0663.png"
+}

@@ -1,0 +1,812 @@
+{
+  "page_num": 302,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0302_002_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.944826066493988,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.723309953652677
+    },
+    {
+      "type": "header",
+      "img_path": "p0302_024_header.png",
+      "bbox": [
+        [
+          229,
+          155
+        ],
+        [
+          625,
+          155
+        ],
+        [
+          625,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9236841201782227,
+      "y_pos": 155,
+      "text": "PHÉP DƯỚNG SINH",
+      "confidence": 0.8613947209189919
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0302_026_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          322
+        ],
+        [
+          587,
+          322
+        ],
+        [
+          587,
+          369
+        ],
+        [
+          224,
+          369
+        ]
+      ],
+      "score": 0.9117863774299622,
+      "y_pos": 322,
+      "text": "VÊ TINH THÂN",
+      "confidence": 0.6072051908288684
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_000_text.png",
+      "bbox": [
+        [
+          277,
+          415
+        ],
+        [
+          2357,
+          415
+        ],
+        [
+          2357,
+          752
+        ],
+        [
+          277,
+          752
+        ]
+      ],
+      "score": 0.9851641654968262,
+      "y_pos": 415,
+      "text": "Ông không chỉ nhắc nhở về dưỡng sinh theo tạng phủ, kinh mạch mà còn nhắc nhở về\ndưỡng sinh tinh thần, ông nói: Nhưng nếu không trừ lục hại, không giữ được thập thiểu\n(những lời khuyên về đạo đức, tác phong) thì luyện tập dưỡng sinh kinh mạch, tạng phủ, cá\nthể giảm bớt được bệnh tật, nhưng cuối cùng là đạo lớn thì mệt mỏi. Ông giải thích về lục hại\nvà thập thiếu:",
+      "confidence": 0.9957452482092958
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0302_030_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          796
+        ],
+        [
+          1150,
+          796
+        ],
+        [
+          1150,
+          844
+        ],
+        [
+          226,
+          844
+        ]
+      ],
+      "score": 0.7718175649642944,
+      "y_pos": 796,
+      "text": "A. Như thế nào là luc hai (sáu cái có hai)?",
+      "confidence": 0.9740424116452535
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_019_text.png",
+      "bbox": [
+        [
+          284,
+          886
+        ],
+        [
+          1512,
+          886
+        ],
+        [
+          1512,
+          937
+        ],
+        [
+          284,
+          937
+        ]
+      ],
+      "score": 0.931990385055542,
+      "y_pos": 886,
+      "text": "Nhất viết: Bac danh lợi (coi nhe cái danh và cái lợi).",
+      "confidence": 0.9980086726801736
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_013_text.png",
+      "bbox": [
+        [
+          283,
+          975
+        ],
+        [
+          1805,
+          975
+        ],
+        [
+          1805,
+          1029
+        ],
+        [
+          283,
+          1029
+        ]
+      ],
+      "score": 0.9353875517845154,
+      "y_pos": 975,
+      "text": "- Nhị viết: Cấm thanh sắc (cấm sa đà vào lời nói khéo và sắc đẹp).",
+      "confidence": 0.9947656147620257
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_005_text.png",
+      "bbox": [
+        [
+          284,
+          1068
+        ],
+        [
+          1557,
+          1068
+        ],
+        [
+          1557,
+          1120
+        ],
+        [
+          284,
+          1120
+        ]
+      ],
+      "score": 0.9382157921791077,
+      "y_pos": 1068,
+      "text": "Tam viết: Liêm hóa tài (giữ trong sach về tiền và của).",
+      "confidence": 0.9870045383771261
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_006_text.png",
+      "bbox": [
+        [
+          284,
+          1159
+        ],
+        [
+          1487,
+          1159
+        ],
+        [
+          1487,
+          1211
+        ],
+        [
+          284,
+          1211
+        ]
+      ],
+      "score": 0.9377045035362244,
+      "y_pos": 1159,
+      "text": "- Tứ viết: Tổn tư vi (giảm bớt thức ăn nhiều béo bổ).",
+      "confidence": 0.9949990185824308
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_004_text.png",
+      "bbox": [
+        [
+          285,
+          1250
+        ],
+        [
+          1697,
+          1250
+        ],
+        [
+          1697,
+          1305
+        ],
+        [
+          285,
+          1305
+        ]
+      ],
+      "score": 0.9388107061386108,
+      "y_pos": 1250,
+      "text": "- Ngũ viết: Bình hư vọng (dẹp những mong muốn hão huyền).",
+      "confidence": 0.9386993959798651
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_003_text.png",
+      "bbox": [
+        [
+          284,
+          1342
+        ],
+        [
+          1382,
+          1342
+        ],
+        [
+          1382,
+          1396
+        ],
+        [
+          284,
+          1396
+        ]
+      ],
+      "score": 0.9392061233520508,
+      "y_pos": 1342,
+      "text": "Lục viết: Trừ tật đố (bỏ hẳn thói ghen ghét đi).",
+      "confidence": 0.9930478394031524
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_001_text.png",
+      "bbox": [
+        [
+          279,
+          1435
+        ],
+        [
+          2357,
+          1435
+        ],
+        [
+          2357,
+          1625
+        ],
+        [
+          279,
+          1625
+        ]
+      ],
+      "score": 0.9792454242706299,
+      "y_pos": 1435,
+      "text": "Ông nói: \"Sáu cái đó mà còn vướng một là chưa hợp vệ sinh. Tuy lòng cầu mong diệu lý,\nmiệng niệm chân kinh, mồm nhai anh hoa (đồ ăn tinh túy), thở hít cảnh tượng, cũng không\nthể bổ thêm cái đã mất\".",
+      "confidence": 0.9986943951383253
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0302_028_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1671
+        ],
+        [
+          1563,
+          1671
+        ],
+        [
+          1563,
+          1722
+        ],
+        [
+          226,
+          1722
+        ]
+      ],
+      "score": 0.8986557126045227,
+      "y_pos": 1671,
+      "text": "B. Như thế nào là thập thiểu (mười cái nên giữ ở mức độ ít)?",
+      "confidence": 0.9993220067793324
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_022_text.png",
+      "bbox": [
+        [
+          286,
+          1759
+        ],
+        [
+          1027,
+          1759
+        ],
+        [
+          1027,
+          1812
+        ],
+        [
+          286,
+          1812
+        ]
+      ],
+      "score": 0.9293238520622253,
+      "y_pos": 1759,
+      "text": "Nhất viết: Thiểu tư (ít lo nghĩ).",
+      "confidence": 0.9929610524858747
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_014_text.png",
+      "bbox": [
+        [
+          284,
+          1850
+        ],
+        [
+          1535,
+          1850
+        ],
+        [
+          1535,
+          1904
+        ],
+        [
+          284,
+          1904
+        ]
+      ],
+      "score": 0.9346588253974915,
+      "y_pos": 1850,
+      "text": "- Nhị viết: Thiểu niệm (ít tự nhắc nhở thầm điều gì đó).",
+      "confidence": 0.9946161374963564
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_008_text.png",
+      "bbox": [
+        [
+          285,
+          1943
+        ],
+        [
+          1091,
+          1943
+        ],
+        [
+          1091,
+          1995
+        ],
+        [
+          285,
+          1995
+        ]
+      ],
+      "score": 0.9366112351417542,
+      "y_pos": 1943,
+      "text": "Tam viết: Thiểu tiếu (ít cười cơt).",
+      "confidence": 0.9994879107217531
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_015_text.png",
+      "bbox": [
+        [
+          286,
+          2035
+        ],
+        [
+          956,
+          2035
+        ],
+        [
+          956,
+          2087
+        ],
+        [
+          286,
+          2087
+        ]
+      ],
+      "score": 0.934592604637146,
+      "y_pos": 2035,
+      "text": "Tứ viết: Thiểu ngôn (ít lời).",
+      "confidence": 0.983565511242036
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_007_text.png",
+      "bbox": [
+        [
+          285,
+          2127
+        ],
+        [
+          1116,
+          2127
+        ],
+        [
+          1116,
+          2179
+        ],
+        [
+          285,
+          2179
+        ]
+      ],
+      "score": 0.9374455809593201,
+      "y_pos": 2127,
+      "text": "Ngũ viết: Thiểu ẩm (ít uống rượu).",
+      "confidence": 0.9926979508664873
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_012_text.png",
+      "bbox": [
+        [
+          286,
+          2219
+        ],
+        [
+          1048,
+          2219
+        ],
+        [
+          1048,
+          2271
+        ],
+        [
+          286,
+          2271
+        ]
+      ],
+      "score": 0.9354276061058044,
+      "y_pos": 2219,
+      "text": "Lục viết: Thiểu nộ (ít cáu giận).",
+      "confidence": 0.9902323927198138
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_010_text.png",
+      "bbox": [
+        [
+          286,
+          2310
+        ],
+        [
+          1094,
+          2310
+        ],
+        [
+          1094,
+          2362
+        ],
+        [
+          286,
+          2362
+        ]
+      ],
+      "score": 0.9361335039138794,
+      "y_pos": 2310,
+      "text": "Thất viết: Thiểu lạc (ít vui mừng).",
+      "confidence": 0.9928849049516626
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_017_text.png",
+      "bbox": [
+        [
+          285,
+          2399
+        ],
+        [
+          1074,
+          2399
+        ],
+        [
+          1074,
+          2453
+        ],
+        [
+          285,
+          2453
+        ]
+      ],
+      "score": 0.93353670835495,
+      "y_pos": 2399,
+      "text": "Bát viết: Thiểu sầu (ít buồn rầu).",
+      "confidence": 0.9956474287642373
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_016_text.png",
+      "bbox": [
+        [
+          286,
+          2493
+        ],
+        [
+          1120,
+          2493
+        ],
+        [
+          1120,
+          2545
+        ],
+        [
+          286,
+          2545
+        ]
+      ],
+      "score": 0.9338319897651672,
+      "y_pos": 2493,
+      "text": "Cửu viết: Thiểu hảo (ít ham thích).",
+      "confidence": 0.998235014644829
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_018_text.png",
+      "bbox": [
+        [
+          286,
+          2585
+        ],
+        [
+          1060,
+          2585
+        ],
+        [
+          1060,
+          2638
+        ],
+        [
+          286,
+          2638
+        ]
+      ],
+      "score": 0.9329959154129028,
+      "y_pos": 2585,
+      "text": "Thập viết: Thiểu cơ (ít quá đói).",
+      "confidence": 0.9903482164655413
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_025_text.png",
+      "bbox": [
+        [
+          283,
+          2677
+        ],
+        [
+          1566,
+          2677
+        ],
+        [
+          1566,
+          2729
+        ],
+        [
+          283,
+          2729
+        ]
+      ],
+      "score": 0.9205219745635986,
+      "y_pos": 2677,
+      "text": "Bởi vì: Phàm nghĩ nhiều thì thần tán (tư tưởng phân tán).",
+      "confidence": 0.995038026470249
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_021_text.png",
+      "bbox": [
+        [
+          284,
+          2767
+        ],
+        [
+          1240,
+          2767
+        ],
+        [
+          1240,
+          2820
+        ],
+        [
+          284,
+          2820
+        ]
+      ],
+      "score": 0.9300783276557922,
+      "y_pos": 2767,
+      "text": "Nhắc nhở nhiều thì tâm lao (tim bi mêt).",
+      "confidence": 0.9977583161422184
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_009_text.png",
+      "bbox": [
+        [
+          285,
+          2859
+        ],
+        [
+          1523,
+          2859
+        ],
+        [
+          1523,
+          2915
+        ],
+        [
+          285,
+          2915
+        ]
+      ],
+      "score": 0.9362321496009827,
+      "y_pos": 2859,
+      "text": "- Cười nhiều thì phế phủ phiên (phổi bị nghiêng lệch).",
+      "confidence": 0.9929347112774849
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_020_text.png",
+      "bbox": [
+        [
+          286,
+          2951
+        ],
+        [
+          1044,
+          2951
+        ],
+        [
+          1044,
+          3002
+        ],
+        [
+          286,
+          3002
+        ]
+      ],
+      "score": 0.9313449263572693,
+      "y_pos": 2951,
+      "text": "Nói nhiều thì khí huyết hư hao.",
+      "confidence": 0.9949324185198004
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_011_text.png",
+      "bbox": [
+        [
+          285,
+          3041
+        ],
+        [
+          1507,
+          3041
+        ],
+        [
+          1507,
+          3096
+        ],
+        [
+          285,
+          3096
+        ]
+      ],
+      "score": 0.9358626008033752,
+      "y_pos": 3041,
+      "text": "Uống rượu nhiều thì thương thần (hại thần) tổn thọ.",
+      "confidence": 0.9984200203193808
+    },
+    {
+      "type": "text",
+      "img_path": "p0302_023_text.png",
+      "bbox": [
+        [
+          286,
+          3134
+        ],
+        [
+          1743,
+          3134
+        ],
+        [
+          1743,
+          3190
+        ],
+        [
+          286,
+          3190
+        ]
+      ],
+      "score": 0.9282721877098083,
+      "y_pos": 3134,
+      "text": "- Cáu nhiều thì tấu lý bôn phù (lỗ chân lông nếp nhăn nổi chạy).",
+      "confidence": 0.9644025618379767
+    },
+    {
+      "type": "footer",
+      "img_path": "p0302_027_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1433,
+          3333
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.907137393951416,
+      "y_pos": 3333,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0302_029_number.png",
+      "bbox": [
+        [
+          2330,
+          3339
+        ],
+        [
+          2355,
+          3339
+        ],
+        [
+          2355,
+          3373
+        ],
+        [
+          2330,
+          3373
+        ]
+      ],
+      "score": 0.8199272155761719,
+      "y_pos": 3339,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0302.png"
+}

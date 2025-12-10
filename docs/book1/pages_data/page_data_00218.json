@@ -1,0 +1,344 @@
+{
+  "page_num": 218,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0218_009_text.png",
+      "bbox": [
+        [
+          463,
+          451
+        ],
+        [
+          2071,
+          451
+        ],
+        [
+          2071,
+          501
+        ],
+        [
+          463,
+          501
+        ]
+      ],
+      "score": 0.888473629951477,
+      "y_pos": 451,
+      "text": "* Phân tích bài thuốc Hoạt lạc hiệu linh đơn (Y học trung tham tây luc)",
+      "confidence": 0.9479759131392388
+    },
+    {
+      "type": "text",
+      "img_path": "p0218_002_text.png",
+      "bbox": [
+        [
+          409,
+          536
+        ],
+        [
+          2123,
+          536
+        ],
+        [
+          2123,
+          699
+        ],
+        [
+          409,
+          699
+        ]
+      ],
+      "score": 0.9654410481452942,
+      "y_pos": 536,
+      "text": "- Tác dụng: tuyên thông kinh lạc, thông hành khí huyết, trục hàn hóa\nthấp. Chủ trị: trị kinh lạc có đàm thấp, xuất huyết dưới da trên tay đùi;\nđau ngưc nách.",
+      "confidence": 0.8277732815676265
+    },
+    {
+      "type": "table",
+      "img_path": "p0218_000_table.png",
+      "bbox": [
+        [
+          351,
+          787
+        ],
+        [
+          2125,
+          787
+        ],
+        [
+          2125,
+          1365
+        ],
+        [
+          351,
+          1365
+        ]
+      ],
+      "score": 0.9886670708656311,
+      "y_pos": 787,
+      "text": "Vi thuốc    Dược lý Đông y\nXuyên khung    Đắng, ấm. Hành khí, hoạt huyết, chỉ thống\nNhũ hương    Hoat huyết, khử ứ\nMột dược    Đẳng, bình. Hành khí, chỉ thống\nĐan sâm    Đắng, lanh, vào kinh Tâm, Tâm bào. Hoat huyết, khử ứ, thanh nhiệt\n<b>Đương quy</b>    Cay, đắng, ấm. Hoạt Huyết, dưỡng huyết\n<b>Địa long</b>    Dẫn thuốc đến nơi đàm thấp tu",
+      "confidence": 0.8841547025256814
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0218_011_figure_title.png",
+      "bbox": [
+        [
+          408,
+          1425
+        ],
+        [
+          1038,
+          1425
+        ],
+        [
+          1038,
+          1476
+        ],
+        [
+          408,
+          1476
+        ]
+      ],
+      "score": 0.6552719473838806,
+      "y_pos": 1425,
+      "text": "Công thức huyệt sử dụng",
+      "confidence": 0.999241988658905
+    },
+    {
+      "type": "table",
+      "img_path": "p0218_001_table.png",
+      "bbox": [
+        [
+          351,
+          1522
+        ],
+        [
+          2125,
+          1522
+        ],
+        [
+          2125,
+          2083
+        ],
+        [
+          351,
+          2083
+        ]
+      ],
+      "score": 0.9882867932319641,
+      "y_pos": 1522,
+      "text": "Tên huyệt    Cơ sở lý luận    Tác dụng điều trị\nĐản trung    Hôi của khí, Mô của Tâm bào    Hành khí\nTâm du    Du huyêt của Tâm    Hoat huyết\nCự khuyết    Mô huyệt của Tâm\nNội quan    Giao hội huyệt của Tâm bào và Mạch Âm | Chữa chứng hồi hộp, đau duy -> Đặc hiệu vùng ngực la ngực gây khó thở, ngặn ngực    duy ⇒ Đặc hiệu vùng ngực\nA thị huyệt    Giảm đau",
+      "confidence": 0.9206156396129067
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0218_008_paragraph_title.png",
+      "bbox": [
+        [
+          969,
+          2220
+        ],
+        [
+          1504,
+          2220
+        ],
+        [
+          1504,
+          2281
+        ],
+        [
+          969,
+          2281
+        ]
+      ],
+      "score": 0.8896499276161194,
+      "y_pos": 2220,
+      "text": "TÂM HUYẾT UẬT TRÊ",
+      "confidence": 0.8541750813785353
+    },
+    {
+      "type": "text",
+      "img_path": "p0218_012_text.png",
+      "bbox": [
+        [
+          367,
+          2348
+        ],
+        [
+          1720,
+          2348
+        ],
+        [
+          1720,
+          2396
+        ],
+        [
+          367,
+          2396
+        ]
+      ],
+      "score": 0.6018700003623962,
+      "y_pos": 2348,
+      "text": "- Chức năng chủ yếu bị rối loạn là chức năng chủ huyết mạch của Tâm.",
+      "confidence": 0.9980083278247288
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0218_003_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          2685
+        ],
+        [
+          1513,
+          2685
+        ],
+        [
+          1513,
+          2733
+        ],
+        [
+          343,
+          2733
+        ]
+      ],
+      "score": 0.9218815565109253,
+      "y_pos": 2685,
+      "text": "2.1.2. Đàm hỏa nhiễu Tâm - đàm mê tâm khiếu",
+      "confidence": 0.9661144415537516
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0218_007_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          2785
+        ],
+        [
+          822,
+          2785
+        ],
+        [
+          822,
+          2833
+        ],
+        [
+          344,
+          2833
+        ]
+      ],
+      "score": 0.9023200869560242,
+      "y_pos": 2785,
+      "text": "2.1.2.1. Bệnh nguyên",
+      "confidence": 0.9471285397356207
+    },
+    {
+      "type": "text",
+      "img_path": "p0218_006_text.png",
+      "bbox": [
+        [
+          463,
+          2880
+        ],
+        [
+          1618,
+          2880
+        ],
+        [
+          1618,
+          2930
+        ],
+        [
+          463,
+          2930
+        ]
+      ],
+      "score": 0.9098703861236572,
+      "y_pos": 2880,
+      "text": "Do nội thương thất tình làm nhiễu loạn thần minh.",
+      "confidence": 0.9995618591121599
+    },
+    {
+      "type": "text",
+      "img_path": "p0218_005_text.png",
+      "bbox": [
+        [
+          408,
+          2964
+        ],
+        [
+          1269,
+          2964
+        ],
+        [
+          1269,
+          3016
+        ],
+        [
+          408,
+          3016
+        ]
+      ],
+      "score": 0.9134709239006042,
+      "y_pos": 2964,
+      "text": "_    Do bệnh nhiệt lại uống thuốc nhiệt.",
+      "confidence": 0.8354093365975328
+    },
+    {
+      "type": "number",
+      "img_path": "p0218_010_number.png",
+      "bbox": [
+        [
+          2041,
+          3110
+        ],
+        [
+          2121,
+          3110
+        ],
+        [
+          2121,
+          3147
+        ],
+        [
+          2041,
+          3147
+        ]
+      ],
+      "score": 0.8804399371147156,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0218_004_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1072,
+          3311
+        ],
+        [
+          1072,
+          3366
+        ],
+        [
+          293,
+          3366
+        ]
+      ],
+      "score": 0.9191185832023621,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8713696428707668
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0218.png"
+}

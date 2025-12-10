@@ -1,0 +1,188 @@
+{
+  "page_num": 142,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0142_005_text.png",
+      "bbox": [
+        [
+          512,
+          448
+        ],
+        [
+          2099,
+          448
+        ],
+        [
+          2099,
+          756
+        ],
+        [
+          512,
+          756
+        ]
+      ],
+      "score": 0.6142067909240723,
+      "y_pos": 448,
+      "text": "B. Chán ăn, mệt mỏi, tiêu chảy nhiều lần, đau thượng vị, sợ lạnh\nC. Chán ăn, mệt mỏi, tiêu chảy nhiều lần, đau thượng vị, mạch nhược\nD. Chán ăn, mệt mỏi, tiêu chảy nhiều lần, cơ teo nhão, thiếu hơi\nE. Chán ăn, mệt mỏi, tiêu chảy nhiều lần, mạch nhược, sợ lạnh",
+      "confidence": 0.9973283001358502
+    },
+    {
+      "type": "text",
+      "img_path": "p0142_003_text.png",
+      "bbox": [
+        [
+          512,
+          861
+        ],
+        [
+          1025,
+          861
+        ],
+        [
+          1025,
+          1250
+        ],
+        [
+          512,
+          1250
+        ]
+      ],
+      "score": 0.6517504453659058,
+      "y_pos": 861,
+      "text": "A. Kiện Tỳ tiêu thực\nB. Kiện Tỳ lợi thấp\nC. Tán hàn táo thấp\nD. Kiện Tỳ sinh huyết\nE. Kiện Tỳ lý khí",
+      "confidence": 0.9586624243056857
+    },
+    {
+      "type": "text",
+      "img_path": "p0142_004_text.png",
+      "bbox": [
+        [
+          511,
+          1357
+        ],
+        [
+          2112,
+          1357
+        ],
+        [
+          2112,
+          1748
+        ],
+        [
+          511,
+          1748
+        ]
+      ],
+      "score": 0.6470615267753601,
+      "y_pos": 1357,
+      "text": "A. Mệt mỏi tiêu chảy, ăn kém, đầy bụng, sa trực tràng, tiêu phân sống\nB. Mệt mỏi tiêu chảy, ăn kém, đầy bụng, đoản khí, sắc mặt vàng úa\nC. Mệt mỏi tiêu chảy, ăn kém, đầy bụng, đoản khí, mạch trì vô lực\nD. Mệt mỏi tiêu chảy, ăn kém, đầy bụng, tiêu chảy, thích uống nóng\nE. Mệt mỏi tiêu chảy, ăn kém, đầy bụng, thích uống nóng, tay chân lạnh",
+      "confidence": 0.9935966224001378
+    },
+    {
+      "type": "text",
+      "img_path": "p0142_002_text.png",
+      "bbox": [
+        [
+          513,
+          1854
+        ],
+        [
+          991,
+          1854
+        ],
+        [
+          991,
+          2251
+        ],
+        [
+          513,
+          2251
+        ]
+      ],
+      "score": 0.7632474303245544,
+      "y_pos": 1854,
+      "text": "A. Kiện Tỳ táo thấp\nB. Ôn Vị kiện trung\nC. Kiện Tỳ thăng đề\nD. Kiện Tỳ lý khí\nE. Kiện Tỳ tiêu thực",
+      "confidence": 0.965341962046546
+    },
+    {
+      "type": "text",
+      "img_path": "p0142_006_text.png",
+      "bbox": [
+        [
+          469,
+          2830
+        ],
+        [
+          2107,
+          2830
+        ],
+        [
+          2107,
+          2970
+        ],
+        [
+          469,
+          2970
+        ]
+      ],
+      "score": 0.519609272480011,
+      "y_pos": 2830,
+      "text": "7. Phép trị nào sau đây phù hợp với HC Tỳ khí hư bất thống nhiếp huyết\nA. Kiên Tỳ chỉ huyết",
+      "confidence": 0.9973843066830828
+    },
+    {
+      "type": "number",
+      "img_path": "p0142_001_number.png",
+      "bbox": [
+        [
+          2043,
+          3111
+        ],
+        [
+          2116,
+          3111
+        ],
+        [
+          2116,
+          3149
+        ],
+        [
+          2043,
+          3149
+        ]
+      ],
+      "score": 0.858982264995575,
+      "y_pos": 3111,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0142_000_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1074,
+          3311
+        ],
+        [
+          1074,
+          3367
+        ],
+        [
+          294,
+          3367
+        ]
+      ],
+      "score": 0.9128079414367676,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8891090188707624
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0142.png"
+}

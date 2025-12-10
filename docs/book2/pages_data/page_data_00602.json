@@ -1,0 +1,292 @@
+{
+  "page_num": 602,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0602_003_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9167306423187256,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.784148439410187
+    },
+    {
+      "type": "header",
+      "img_path": "p0602_004_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1172,
+          152
+        ],
+        [
+          1172,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9100984930992126,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BÁNG NHIỆT ĐÔ KINH LẠC",
+      "confidence": 0.9933017049080286
+    },
+    {
+      "type": "text",
+      "img_path": "p0602_001_text.png",
+      "bbox": [
+        [
+          222,
+          309
+        ],
+        [
+          2359,
+          309
+        ],
+        [
+          2359,
+          429
+        ],
+        [
+          222,
+          429
+        ]
+      ],
+      "score": 0.9565207958221436,
+      "y_pos": 309,
+      "text": "chẩn đoán trạng thái sức khoẻ và các bệnh tật không chỉ của các cơ quan nội tạng, mà cả\nđối với các bệnh thuộc thần kinh trung ương.",
+      "confidence": 0.9977899671008543
+    },
+    {
+      "type": "text",
+      "img_path": "p0602_002_text.png",
+      "bbox": [
+        [
+          222,
+          471
+        ],
+        [
+          2360,
+          471
+        ],
+        [
+          2360,
+          593
+        ],
+        [
+          222,
+          593
+        ]
+      ],
+      "score": 0.952121913433075,
+      "y_pos": 471,
+      "text": "Các nhận định của lương y Lê Văn Sửu dựa trên kết quả đo nhiệt độ các tỉnh huyệt trên một số\nđối tượng tham gia buổi sinh hoạt này, nhìn chung là rất chính xác.",
+      "confidence": 0.9972276716018362
+    },
+    {
+      "type": "text",
+      "img_path": "p0602_000_text.png",
+      "bbox": [
+        [
+          221,
+          632
+        ],
+        [
+          2360,
+          632
+        ],
+        [
+          2360,
+          1254
+        ],
+        [
+          221,
+          1254
+        ]
+      ],
+      "score": 0.9794731736183167,
+      "y_pos": 632,
+      "text": "Sau khi xem nhiệt độ ghi được tại các tỉnh huyệt ở các chi có thể nhận thấy sự khác biệt rõ về\nchỉ số này. Tuy nhiên có những trường hợp nhiệt độ ở chi dưới được đo ở các tỉnh huyệt hoặc\nthấp hoặc cao hơn nhiều so với trường hợp xác định bằng các loại nhiệt kế khác. Điều này có\nthể do sự khác biệt nhiệt độ ở các tỉnh huyệt với nhiệt độ ở các vùng da khác, hoặc do các điện\ncực được xác định để đo nhiệt độ tại các huyệt chưa thích hợp. Do đó, chúng tôi đề nghị hội\nSinh Lý học cùng tác giả của phương pháp chẩn đoán bệnh theo nhiệt độ tại các tỉnh\nhuyệt xem xét lại các datrit. Nếu do các đầu đo (datrit không thích hợp) nên cải tiến lại các đầu\nđo. Sau khi tiến hành công việc này, chúng tôi thấy có thể sử dụng rộng rãi phương tiện đo\nnhiệt độ của lương y Lê Văn Sửu vào thực tiễn để khám và theo dõi bệnh”.",
+      "confidence": 0.9985516771013655
+    },
+    {
+      "type": "text",
+      "img_path": "p0602_008_text.png",
+      "bbox": [
+        [
+          1511,
+          1292
+        ],
+        [
+          2131,
+          1292
+        ],
+        [
+          2131,
+          1345
+        ],
+        [
+          1511,
+          1345
+        ]
+      ],
+      "score": 0.7200770378112793,
+      "y_pos": 1292,
+      "text": "Ngày 16 tháng 6 năm 2000",
+      "confidence": 0.9841556686621445
+    },
+    {
+      "type": "text",
+      "img_path": "p0602_010_text.png",
+      "bbox": [
+        [
+          1468,
+          1388
+        ],
+        [
+          2171,
+          1388
+        ],
+        [
+          2171,
+          1435
+        ],
+        [
+          1468,
+          1435
+        ]
+      ],
+      "score": 0.5164409875869751,
+      "y_pos": 1388,
+      "text": "Chủ trì buổi Sinh hoat khoa học",
+      "confidence": 0.9932878143859633
+    },
+    {
+      "type": "text",
+      "img_path": "p0602_009_text.png",
+      "bbox": [
+        [
+          1395,
+          1481
+        ],
+        [
+          2243,
+          1481
+        ],
+        [
+          2243,
+          1527
+        ],
+        [
+          1395,
+          1527
+        ]
+      ],
+      "score": 0.552691638469696,
+      "y_pos": 1481,
+      "text": "Phó chủ tịch Hội Sinh Lý học Việt Nam",
+      "confidence": 0.9405224078740829
+    },
+    {
+      "type": "text",
+      "img_path": "p0602_006_text.png",
+      "bbox": [
+        [
+          1539,
+          1658
+        ],
+        [
+          2100,
+          1658
+        ],
+        [
+          2100,
+          1711
+        ],
+        [
+          1539,
+          1711
+        ]
+      ],
+      "score": 0.8910744786262512,
+      "y_pos": 1658,
+      "text": "GS.TS. Đỗ Công Huỳnh",
+      "confidence": 0.738758387890729
+    },
+    {
+      "type": "number",
+      "img_path": "p0602_007_number.png",
+      "bbox": [
+        [
+          2331,
+          3338
+        ],
+        [
+          2355,
+          3338
+        ],
+        [
+          2355,
+          3374
+        ],
+        [
+          2331,
+          3374
+        ]
+      ],
+      "score": 0.8078980445861816,
+      "y_pos": 3338,
+      "text": "\n    \n    \n    \n\n\n\n\n\n    \n    \n\n        •\n    \n\n",
+      "confidence": 0.9748575606693825
+    },
+    {
+      "type": "footer",
+      "img_path": "p0602_005_footer.png",
+      "bbox": [
+        [
+          229,
+          3340
+        ],
+        [
+          1325,
+          3340
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.8960432410240173,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9989979435812752
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0602.png"
+}

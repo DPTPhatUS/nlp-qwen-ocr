@@ -1,0 +1,370 @@
+{
+  "page_num": 554,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0554_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2371,
+          144
+        ],
+        [
+          2371,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.916605532169342,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7566693045553707
+    },
+    {
+      "type": "header",
+      "img_path": "p0554_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1467,
+          152
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.920127272605896,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TẬN, KỲ HUYỆT",
+      "confidence": 0.9979400253295898
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0554_003_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          325
+        ],
+        [
+          679,
+          325
+        ],
+        [
+          679,
+          381
+        ],
+        [
+          226,
+          381
+        ]
+      ],
+      "score": 0.8424793481826782,
+      "y_pos": 325,
+      "text": "Phần 2. BÊNH MŨI",
+      "confidence": 0.7799454232056936
+    },
+    {
+      "type": "text",
+      "img_path": "p0554_007_text.png",
+      "bbox": [
+        [
+          227,
+          421
+        ],
+        [
+          1794,
+          421
+        ],
+        [
+          1794,
+          477
+        ],
+        [
+          227,
+          477
+        ]
+      ],
+      "score": 0.7540504932403564,
+      "y_pos": 421,
+      "text": "42. Viêm mũi: Tân Tán trúc, Tỵ lưu, Lục cảnh chùy bàng, Ấn đường.",
+      "confidence": 0.9995588064193726
+    },
+    {
+      "type": "text",
+      "img_path": "p0554_010_text.png",
+      "bbox": [
+        [
+          229,
+          511
+        ],
+        [
+          971,
+          511
+        ],
+        [
+          971,
+          568
+        ],
+        [
+          229,
+          568
+        ]
+      ],
+      "score": 0.7272282242774963,
+      "y_pos": 511,
+      "text": "43. Mũi có thịt thừa: Tỵ thông.",
+      "confidence": 0.9963217160918496
+    },
+    {
+      "type": "text",
+      "img_path": "p0554_009_text.png",
+      "bbox": [
+        [
+          229,
+          603
+        ],
+        [
+          993,
+          603
+        ],
+        [
+          993,
+          658
+        ],
+        [
+          229,
+          658
+        ]
+      ],
+      "score": 0.7478069067001343,
+      "y_pos": 603,
+      "text": "44. Viêm mũi co thắt: Tỵ thông.",
+      "confidence": 0.9799240610816262
+    },
+    {
+      "type": "text",
+      "img_path": "p0554_011_text.png",
+      "bbox": [
+        [
+          230,
+          694
+        ],
+        [
+          991,
+          694
+        ],
+        [
+          991,
+          745
+        ],
+        [
+          230,
+          745
+        ]
+      ],
+      "score": 0.7143076658248901,
+      "y_pos": 694,
+      "text": "<i>45.</i>    Viêm mũi tắc mũi: Tán tiểu.",
+      "confidence": 0.8709406321271886
+    },
+    {
+      "type": "text",
+      "img_path": "p0554_013_text.png",
+      "bbox": [
+        [
+          230,
+          788
+        ],
+        [
+          985,
+          788
+        ],
+        [
+          985,
+          840
+        ],
+        [
+          230,
+          840
+        ]
+      ],
+      "score": 0.6951451897621155,
+      "y_pos": 788,
+      "text": "46. Viêm mũi dị ứng: Tỵ thông.",
+      "confidence": 0.9742096420377493
+    },
+    {
+      "type": "text",
+      "img_path": "p0554_012_text.png",
+      "bbox": [
+        [
+          230,
+          880
+        ],
+        [
+          1077,
+          880
+        ],
+        [
+          1077,
+          933
+        ],
+        [
+          230,
+          933
+        ]
+      ],
+      "score": 0.6953346729278564,
+      "y_pos": 880,
+      "text": "47. Việm mũi giãn mạch: Tỵ thông.",
+      "confidence": 0.9632673161370414
+    },
+    {
+      "type": "text",
+      "img_path": "p0554_008_text.png",
+      "bbox": [
+        [
+          229,
+          972
+        ],
+        [
+          853,
+          972
+        ],
+        [
+          853,
+          1020
+        ],
+        [
+          229,
+          1020
+        ]
+      ],
+      "score": 0.7487843036651611,
+      "y_pos": 972,
+      "text": "48. Mũi có mun: Tán tiêu.",
+      "confidence": 0.9461934721028363
+    },
+    {
+      "type": "text",
+      "img_path": "p0554_005_text.png",
+      "bbox": [
+        [
+          229,
+          1064
+        ],
+        [
+          975,
+          1064
+        ],
+        [
+          975,
+          1115
+        ],
+        [
+          229,
+          1115
+        ]
+      ],
+      "score": 0.7677024602890015,
+      "y_pos": 1064,
+      "text": "49. Chảy máu mũi: Trung khôi.",
+      "confidence": 0.9696305259581535
+    },
+    {
+      "type": "text",
+      "img_path": "p0554_006_text.png",
+      "bbox": [
+        [
+          230,
+          1156
+        ],
+        [
+          1205,
+          1156
+        ],
+        [
+          1205,
+          1208
+        ],
+        [
+          230,
+          1208
+        ]
+      ],
+      "score": 0.7650441527366638,
+      "y_pos": 1156,
+      "text": "50. Khứu giác kém: Lục cảnh chùy bàng.",
+      "confidence": 0.9815597981214523
+    },
+    {
+      "type": "number",
+      "img_path": "p0554_004_number.png",
+      "bbox": [
+        [
+          2343,
+          3338
+        ],
+        [
+          2368,
+          3338
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2343,
+          3374
+        ]
+      ],
+      "score": 0.8219035863876343,
+      "y_pos": 3338,
+      "text": "\n    \n    \n\n    .\n\n\n\n\n    \n\n    ",
+      "confidence": 0.9672895836479524
+    },
+    {
+      "type": "footer",
+      "img_path": "p0554_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9097686409950256,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0554.png"
+}

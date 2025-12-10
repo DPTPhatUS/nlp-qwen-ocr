@@ -1,0 +1,630 @@
+{
+  "page_num": 47,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0047_015_header.png",
+      "bbox": [
+        [
+          1172,
+          503
+        ],
+        [
+          1303,
+          503
+        ],
+        [
+          1303,
+          548
+        ],
+        [
+          1172,
+          548
+        ]
+      ],
+      "score": 0.6067714691162109,
+      "y_pos": 503,
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "type": "doc_title",
+      "img_path": "p0047_014_doc_title.png",
+      "bbox": [
+        [
+          769,
+          639
+        ],
+        [
+          1702,
+          639
+        ],
+        [
+          1702,
+          729
+        ],
+        [
+          769,
+          729
+        ]
+      ],
+      "score": 0.631849467754364,
+      "y_pos": 639,
+      "text": "BỆNH NGOẠI CẨM ÔN BỆNH",
+      "confidence": 0.9870533719658852
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0047_013_paragraph_title.png",
+      "bbox": [
+        [
+          348,
+          917
+        ],
+        [
+          598,
+          917
+        ],
+        [
+          598,
+          979
+        ],
+        [
+          348,
+          979
+        ]
+      ],
+      "score": 0.8226428031921387,
+      "y_pos": 917,
+      "text": "<b>MUC TIÊU</b>",
+      "confidence": 0.9587937146425247
+    },
+    {
+      "type": "text",
+      "img_path": "p0047_022_text.png",
+      "bbox": [
+        [
+          351,
+          1120
+        ],
+        [
+          1315,
+          1120
+        ],
+        [
+          1315,
+          1172
+        ],
+        [
+          351,
+          1172
+        ]
+      ],
+      "score": 0.539699137210846,
+      "y_pos": 1120,
+      "text": "1. Định nghĩa được bệnh ngoại cảm ôn bệnh.",
+      "confidence": 0.996759760108861
+    },
+    {
+      "type": "text",
+      "img_path": "p0047_021_text.png",
+      "bbox": [
+        [
+          346,
+          1201
+        ],
+        [
+          1963,
+          1201
+        ],
+        [
+          1963,
+          1255
+        ],
+        [
+          346,
+          1255
+        ]
+      ],
+      "score": 0.5400868058204651,
+      "y_pos": 1201,
+      "text": "2. Trình bày được nguyên nhân và cơ chế sinh bệnh của ngoại cảm ôn bệnh.",
+      "confidence": 0.9995584737610173
+    },
+    {
+      "type": "text",
+      "img_path": "p0047_020_text.png",
+      "bbox": [
+        [
+          348,
+          1283
+        ],
+        [
+          2103,
+          1283
+        ],
+        [
+          2103,
+          1339
+        ],
+        [
+          348,
+          1339
+        ]
+      ],
+      "score": 0.5412678718566895,
+      "y_pos": 1283,
+      "text": "3. Liệt kê được những triệu chứng chính của từng giai đoạn của ngoại cảm ôn bệnh.",
+      "confidence": 0.9994640860212854
+    },
+    {
+      "type": "text",
+      "img_path": "p0047_017_text.png",
+      "bbox": [
+        [
+          347,
+          1365
+        ],
+        [
+          2126,
+          1365
+        ],
+        [
+          2126,
+          1473
+        ],
+        [
+          347,
+          1473
+        ]
+      ],
+      "score": 0.5759417414665222,
+      "y_pos": 1365,
+      "text": "4. Phân biệt được sự khác biệt chủ yếu giữa ngoại cảm ôn bệnh và ngoại cảm\nthương hàn.",
+      "confidence": 0.9953115285046188
+    },
+    {
+      "type": "text",
+      "img_path": "p0047_019_text.png",
+      "bbox": [
+        [
+          348,
+          1500
+        ],
+        [
+          1885,
+          1500
+        ],
+        [
+          1885,
+          1558
+        ],
+        [
+          348,
+          1558
+        ]
+      ],
+      "score": 0.5515835285186768,
+      "y_pos": 1500,
+      "text": "5. Trình bày được nguyên tắc điều trị và cách trị của từng thể lâm sàng.",
+      "confidence": 0.9995490594490154
+    },
+    {
+      "type": "text",
+      "img_path": "p0047_016_text.png",
+      "bbox": [
+        [
+          346,
+          1584
+        ],
+        [
+          1715,
+          1584
+        ],
+        [
+          1715,
+          1638
+        ],
+        [
+          346,
+          1638
+        ]
+      ],
+      "score": 0.5853147506713867,
+      "y_pos": 1584,
+      "text": "6. Phân tích được cơ sở lý luận Đông y của việc điều trị ôn bệnh.",
+      "confidence": 0.99925238338869
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0047_002_paragraph_title.png",
+      "bbox": [
+        [
+          349,
+          1902
+        ],
+        [
+          721,
+          1902
+        ],
+        [
+          721,
+          1953
+        ],
+        [
+          349,
+          1953
+        ]
+      ],
+      "score": 0.9341132640838623,
+      "y_pos": 1902,
+      "text": "1. ĐAI CƯƠNG",
+      "confidence": 0.9241947063377925
+    },
+    {
+      "type": "text",
+      "img_path": "p0047_000_text.png",
+      "bbox": [
+        [
+          344,
+          2003
+        ],
+        [
+          2125,
+          2003
+        ],
+        [
+          2125,
+          2109
+        ],
+        [
+          344,
+          2109
+        ]
+      ],
+      "score": 0.9621513485908508,
+      "y_pos": 2003,
+      "text": "Bệnh Ngoại cảm ôn bệnh là tên gọi chung của những bệnh ngoại cảm với\nnhững đặc điểm",
+      "confidence": 0.9941052011081151
+    },
+    {
+      "type": "text",
+      "img_path": "p0047_011_text.png",
+      "bbox": [
+        [
+          408,
+          2136
+        ],
+        [
+          948,
+          2136
+        ],
+        [
+          948,
+          2182
+        ],
+        [
+          408,
+          2182
+        ]
+      ],
+      "score": 0.9025964736938477,
+      "y_pos": 2136,
+      "text": "Khởi phát với sốt cao",
+      "confidence": 0.9951285745786584
+    },
+    {
+      "type": "text",
+      "img_path": "p0047_003_text.png",
+      "bbox": [
+        [
+          408,
+          2211
+        ],
+        [
+          1046,
+          2211
+        ],
+        [
+          1046,
+          2258
+        ],
+        [
+          408,
+          2258
+        ]
+      ],
+      "score": 0.9160718321800232,
+      "y_pos": 2211,
+      "text": "Bênh cảnh thiên về nhiệt",
+      "confidence": 0.9964746007552514
+    },
+    {
+      "type": "text",
+      "img_path": "p0047_007_text.png",
+      "bbox": [
+        [
+          409,
+          2286
+        ],
+        [
+          1009,
+          2286
+        ],
+        [
+          1009,
+          2336
+        ],
+        [
+          409,
+          2336
+        ]
+      ],
+      "score": 0.9125806093215942,
+      "y_pos": 2286,
+      "text": "Diễn biến theo quy luật",
+      "confidence": 0.5907729077339172
+    },
+    {
+      "type": "text",
+      "img_path": "p0047_023_text.png",
+      "bbox": [
+        [
+          407,
+          2361
+        ],
+        [
+          1910,
+          2361
+        ],
+        [
+          1910,
+          2416
+        ],
+        [
+          407,
+          2416
+        ]
+      ],
+      "score": 0.5041811466217041,
+      "y_pos": 2361,
+      "text": "- Bệnh thường cấp tính, diễn tiến nhanh, bệnh cảnh thường nặng",
+      "confidence": 0.993850783444941
+    },
+    {
+      "type": "text",
+      "img_path": "p0047_018_text.png",
+      "bbox": [
+        [
+          461,
+          2436
+        ],
+        [
+          1626,
+          2436
+        ],
+        [
+          1626,
+          2488
+        ],
+        [
+          461,
+          2488
+        ]
+      ],
+      "score": 0.574648380279541,
+      "y_pos": 2436,
+      "text": "Nếu bệnh phát thành dịch thì được gọi là \"ôn dịch\".",
+      "confidence": 0.9984880190975262
+    },
+    {
+      "type": "text",
+      "img_path": "p0047_001_text.png",
+      "bbox": [
+        [
+          343,
+          2510
+        ],
+        [
+          2123,
+          2510
+        ],
+        [
+          2123,
+          2617
+        ],
+        [
+          343,
+          2617
+        ]
+      ],
+      "score": 0.9585679173469543,
+      "y_pos": 2510,
+      "text": "Trong tài liệu cổ, có những cách gọi tên (cách phân chia) bệnh ngoại cảm\nôn bệnh khác nhau.",
+      "confidence": 0.9797419833573136
+    },
+    {
+      "type": "text",
+      "img_path": "p0047_009_text.png",
+      "bbox": [
+        [
+          462,
+          2642
+        ],
+        [
+          1432,
+          2642
+        ],
+        [
+          1432,
+          2694
+        ],
+        [
+          462,
+          2694
+        ]
+      ],
+      "score": 0.9071226716041565,
+      "y_pos": 2642,
+      "text": "Nếu dựa theo thời gian mà bệnh khởi phát",
+      "confidence": 0.9995331466197968
+    },
+    {
+      "type": "text",
+      "img_path": "p0047_008_text.png",
+      "bbox": [
+        [
+          464,
+          2719
+        ],
+        [
+          1756,
+          2719
+        ],
+        [
+          1756,
+          2767
+        ],
+        [
+          464,
+          2767
+        ]
+      ],
+      "score": 0.912520170211792,
+      "y_pos": 2719,
+      "text": "+ <i>Phong ôn, Xuân ôn</i>: khi bệnh khởi phát vào mùa xuân.",
+      "confidence": 0.984180330184468
+    },
+    {
+      "type": "text",
+      "img_path": "p0047_010_text.png",
+      "bbox": [
+        [
+          464,
+          2792
+        ],
+        [
+          1647,
+          2792
+        ],
+        [
+          1647,
+          2841
+        ],
+        [
+          464,
+          2841
+        ]
+      ],
+      "score": 0.9051394462585449,
+      "y_pos": 2792,
+      "text": "+ Thử ôn, Thấp ôn: khi bệnh khởi phát vào mùa hè.",
+      "confidence": 0.9496497958898544
+    },
+    {
+      "type": "text",
+      "img_path": "p0047_004_text.png",
+      "bbox": [
+        [
+          467,
+          2868
+        ],
+        [
+          1703,
+          2868
+        ],
+        [
+          1703,
+          2916
+        ],
+        [
+          467,
+          2916
+        ]
+      ],
+      "score": 0.9145057201385498,
+      "y_pos": 2868,
+      "text": "+ Phuc thử, Thu táo: khi bệnh khởi phát vào mùa thu.",
+      "confidence": 0.5294541462703988
+    },
+    {
+      "type": "text",
+      "img_path": "p0047_005_text.png",
+      "bbox": [
+        [
+          465,
+          2943
+        ],
+        [
+          1512,
+          2943
+        ],
+        [
+          1512,
+          2993
+        ],
+        [
+          465,
+          2993
+        ]
+      ],
+      "score": 0.9143930673599243,
+      "y_pos": 2943,
+      "text": "+ Đông ôn: khi bệnh khởi phát vào mùa đông.",
+      "confidence": 0.7430043551656935
+    },
+    {
+      "type": "number",
+      "img_path": "p0047_012_number.png",
+      "bbox": [
+        [
+          353,
+          3112
+        ],
+        [
+          405,
+          3112
+        ],
+        [
+          405,
+          3148
+        ],
+        [
+          353,
+          3148
+        ]
+      ],
+      "score": 0.8527691960334778,
+      "y_pos": 3112,
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0047_006_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3365
+        ],
+        [
+          293,
+          3365
+        ]
+      ],
+      "score": 0.9132941961288452,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8792689868382045
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0047.png"
+}

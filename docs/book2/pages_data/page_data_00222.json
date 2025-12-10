@@ -1,0 +1,680 @@
+{
+  "page_num": 222,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0222_010_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2370,
+          142
+        ],
+        [
+          2370,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9248625636100769,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7643194177321025
+    },
+    {
+      "type": "header",
+      "img_path": "p0222_020_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9137891530990601,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0222_016_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          365
+        ],
+        [
+          553,
+          365
+        ],
+        [
+          553,
+          418
+        ],
+        [
+          225,
+          418
+        ]
+      ],
+      "score": 0.9163448214530945,
+      "y_pos": 365,
+      "text": "48. Ha A môn",
+      "confidence": 0.9510347247123718
+    },
+    {
+      "type": "text",
+      "img_path": "p0222_023_text.png",
+      "bbox": [
+        [
+          289,
+          459
+        ],
+        [
+          1201,
+          459
+        ],
+        [
+          1201,
+          513
+        ],
+        [
+          289,
+          513
+        ]
+      ],
+      "score": 0.9097804427146912,
+      "y_pos": 459,
+      "text": "Vị trí: Dưới huyệt Á môn 1 thốn. (H.112)",
+      "confidence": 0.9823022257714045
+    },
+    {
+      "type": "text",
+      "img_path": "p0222_007_text.png",
+      "bbox": [
+        [
+          286,
+          552
+        ],
+        [
+          1347,
+          552
+        ],
+        [
+          1347,
+          601
+        ],
+        [
+          286,
+          601
+        ]
+      ],
+      "score": 0.9273386597633362,
+      "y_pos": 552,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 0,5 – 1 thốn.",
+      "confidence": 0.9763090769027142
+    },
+    {
+      "type": "text",
+      "img_path": "p0222_009_text.png",
+      "bbox": [
+        [
+          287,
+          646
+        ],
+        [
+          802,
+          646
+        ],
+        [
+          802,
+          696
+        ],
+        [
+          287,
+          696
+        ]
+      ],
+      "score": 0.925411581993103,
+      "y_pos": 646,
+      "text": "Chủ trị: Di chứng não.",
+      "confidence": 0.6040337284406027
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0222_018_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          734
+        ],
+        [
+          586,
+          734
+        ],
+        [
+          586,
+          783
+        ],
+        [
+          226,
+          783
+        ]
+      ],
+      "score": 0.9153764843940735,
+      "y_pos": 734,
+      "text": "49. Phó A môn",
+      "confidence": 0.9452789346377055
+    },
+    {
+      "type": "text",
+      "img_path": "p0222_008_text.png",
+      "bbox": [
+        [
+          289,
+          824
+        ],
+        [
+          1684,
+          824
+        ],
+        [
+          1684,
+          881
+        ],
+        [
+          289,
+          881
+        ]
+      ],
+      "score": 0.9266723394393921,
+      "y_pos": 824,
+      "text": "Vị trí: Dưới huyệt Á môn 1 thốn, sang ngang 0,5 thốn. (H.112)",
+      "confidence": 0.9892348013226948
+    },
+    {
+      "type": "text",
+      "img_path": "p0222_013_text.png",
+      "bbox": [
+        [
+          287,
+          919
+        ],
+        [
+          1350,
+          919
+        ],
+        [
+          1350,
+          969
+        ],
+        [
+          287,
+          969
+        ]
+      ],
+      "score": 0.9226753115653992,
+      "y_pos": 919,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 0,5 – 1 thôn.",
+      "confidence": 0.9746193340484132
+    },
+    {
+      "type": "text",
+      "img_path": "p0222_011_text.png",
+      "bbox": [
+        [
+          288,
+          1011
+        ],
+        [
+          803,
+          1011
+        ],
+        [
+          803,
+          1063
+        ],
+        [
+          288,
+          1063
+        ]
+      ],
+      "score": 0.9233955144882202,
+      "y_pos": 1011,
+      "text": "Chủ trị: Di chứng não.",
+      "confidence": 0.6246510992447535
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0222_025_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1101
+        ],
+        [
+          533,
+          1101
+        ],
+        [
+          533,
+          1148
+        ],
+        [
+          227,
+          1148
+        ]
+      ],
+      "score": 0.8863939642906189,
+      "y_pos": 1101,
+      "text": "50.    Tân nhât",
+      "confidence": 0.7812795415520668
+    },
+    {
+      "type": "text",
+      "img_path": "p0222_017_text.png",
+      "bbox": [
+        [
+          289,
+          1192
+        ],
+        [
+          1629,
+          1192
+        ],
+        [
+          1629,
+          1247
+        ],
+        [
+          289,
+          1247
+        ]
+      ],
+      "score": 0.915448784828186,
+      "y_pos": 1192,
+      "text": "Vị trí: Khe lõm dưới gai đốt sống cổ 5, trên mỏm 6. (H. 112)",
+      "confidence": 0.9922731864836908
+    },
+    {
+      "type": "text",
+      "img_path": "p0222_022_text.png",
+      "bbox": [
+        [
+          286,
+          1285
+        ],
+        [
+          1454,
+          1285
+        ],
+        [
+          1454,
+          1334
+        ],
+        [
+          286,
+          1334
+        ]
+      ],
+      "score": 0.9105532169342041,
+      "y_pos": 1285,
+      "text": "<b>Cách châm:</b> Châm hơi chếch kim. sâu 0.5 – 1 thốn.",
+      "confidence": 0.9829798724788886
+    },
+    {
+      "type": "text",
+      "img_path": "p0222_012_text.png",
+      "bbox": [
+        [
+          286,
+          1377
+        ],
+        [
+          1690,
+          1377
+        ],
+        [
+          1690,
+          1430
+        ],
+        [
+          286,
+          1430
+        ]
+      ],
+      "score": 0.9232426881790161,
+      "y_pos": 1377,
+      "text": "Chủ trị: Đại não kém phát triển, động kinh, thần kinh phân liệt.",
+      "confidence": 0.9756010996572899
+    },
+    {
+      "type": "image",
+      "img_path": "p0222_000_image.png",
+      "bbox": [
+        [
+          546,
+          1493
+        ],
+        [
+          2003,
+          1493
+        ],
+        [
+          2003,
+          2194
+        ],
+        [
+          546,
+          2194
+        ]
+      ],
+      "score": 0.9759597182273865,
+      "y_pos": 1493
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0222_019_figure_title.png",
+      "bbox": [
+        [
+          1072,
+          2281
+        ],
+        [
+          1517,
+          2281
+        ],
+        [
+          1517,
+          2322
+        ],
+        [
+          1072,
+          2322
+        ]
+      ],
+      "score": 0.9142721891403198,
+      "y_pos": 2281,
+      "text": "Hình 111 – Hình 112",
+      "confidence": 0.6138220883551098
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0222_014_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2369
+        ],
+        [
+          613,
+          2369
+        ],
+        [
+          613,
+          2416
+        ],
+        [
+          225,
+          2416
+        ]
+      ],
+      "score": 0.9199432134628296,
+      "y_pos": 2369,
+      "text": "51. Ha Tân thức",
+      "confidence": 0.9144842449356528
+    },
+    {
+      "type": "text",
+      "img_path": "p0222_001_text.png",
+      "bbox": [
+        [
+          281,
+          2459
+        ],
+        [
+          2356,
+          2459
+        ],
+        [
+          2356,
+          2584
+        ],
+        [
+          281,
+          2584
+        ]
+      ],
+      "score": 0.9652748107910156,
+      "y_pos": 2459,
+      "text": "Vị trí: Dưới huyệt <i>Tân thức</i> 0,5 thốn (dưới mỏm gai đốt cổ 3 sang ngang mỗi bên 1,5 thốn,\nlại xuống 0,5). (H.112)",
+      "confidence": 0.9597896010590636
+    },
+    {
+      "type": "text",
+      "img_path": "p0222_006_text.png",
+      "bbox": [
+        [
+          286,
+          2623
+        ],
+        [
+          1348,
+          2623
+        ],
+        [
+          1348,
+          2673
+        ],
+        [
+          286,
+          2673
+        ]
+      ],
+      "score": 0.930600106716156,
+      "y_pos": 2623,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 1 – 1,5 thôn.",
+      "confidence": 0.9740780243214141
+    },
+    {
+      "type": "text",
+      "img_path": "p0222_003_text.png",
+      "bbox": [
+        [
+          287,
+          2717
+        ],
+        [
+          827,
+          2717
+        ],
+        [
+          827,
+          2764
+        ],
+        [
+          287,
+          2764
+        ]
+      ],
+      "score": 0.9342320561408997,
+      "y_pos": 2717,
+      "text": "Chủ tri: U ha khâu não.",
+      "confidence": 0.41654407382011416
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0222_015_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2807
+        ],
+        [
+          569,
+          2807
+        ],
+        [
+          569,
+          2859
+        ],
+        [
+          227,
+          2859
+        ]
+      ],
+      "score": 0.9173675775527954,
+      "y_pos": 2807,
+      "text": "52. Trung tiếp",
+      "confidence": 0.8122051544487476
+    },
+    {
+      "type": "text",
+      "img_path": "p0222_004_text.png",
+      "bbox": [
+        [
+          289,
+          2898
+        ],
+        [
+          1330,
+          2898
+        ],
+        [
+          1330,
+          2950
+        ],
+        [
+          289,
+          2950
+        ]
+      ],
+      "score": 0.9339032173156738,
+      "y_pos": 2898,
+      "text": "Vi trí: Trên huyệt <i>Phong phủ</i> 0,7 thốn. (H.112)",
+      "confidence": 0.8612741017341614
+    },
+    {
+      "type": "text",
+      "img_path": "p0222_005_text.png",
+      "bbox": [
+        [
+          286,
+          2989
+        ],
+        [
+          1878,
+          2989
+        ],
+        [
+          1878,
+          3042
+        ],
+        [
+          286,
+          3042
+        ]
+      ],
+      "score": 0.9333896636962891,
+      "y_pos": 2989,
+      "text": "Cách châm: Châm chếch sang trái 0,5 thốn, chếch sang phải 0,5 thốn.",
+      "confidence": 0.4763786537923675
+    },
+    {
+      "type": "text",
+      "img_path": "p0222_002_text.png",
+      "bbox": [
+        [
+          287,
+          3083
+        ],
+        [
+          1110,
+          3083
+        ],
+        [
+          1110,
+          3135
+        ],
+        [
+          287,
+          3135
+        ]
+      ],
+      "score": 0.9357039332389832,
+      "y_pos": 3083,
+      "text": "Chủ trị: Não tích thuỷ (não ứ nước).",
+      "confidence": 0.6195869696767706
+    },
+    {
+      "type": "footer",
+      "img_path": "p0222_021_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9125292897224426,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0222_024_number.png",
+      "bbox": [
+        [
+          2278,
+          3338
+        ],
+        [
+          2350,
+          3338
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2278,
+          3377
+        ]
+      ],
+      "score": 0.8890396356582642,
+      "y_pos": 3338,
+      "text": "        \n    \n    \n\n\n    \n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0222.png"
+}

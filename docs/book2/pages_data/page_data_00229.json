@@ -1,0 +1,344 @@
+{
+  "page_num": 229,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0229_000_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9298112392425537,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7643314777385621
+    },
+    {
+      "type": "header",
+      "img_path": "p0229_002_header.png",
+      "bbox": [
+        [
+          229,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          203
+        ],
+        [
+          229,
+          203
+        ]
+      ],
+      "score": 0.9132760167121887,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6830399837987177
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_007_text.png",
+      "bbox": [
+        [
+          227,
+          341
+        ],
+        [
+          2088,
+          341
+        ],
+        [
+          2088,
+          580
+        ],
+        [
+          227,
+          580
+        ]
+      ],
+      "score": 0.5418748259544373,
+      "y_pos": 341,
+      "text": "90. Phế nhiệt huyệt (Trụ trắc, một trong hệ thống huyệt <i>Giáp tích</i>)\nVị trí: Mỏm gai đốt sống lưng 3 (D3) sang ngang mỗi bên 0,5 thốn. (H.114)\nCách châm: Viêm phế quản, viêm hung mạc, viêm phổi, đau vai lưng, thắt lưng.",
+      "confidence": 0.8083720474845761
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_012_text.png",
+      "bbox": [
+        [
+          229,
+          954
+        ],
+        [
+          2076,
+          954
+        ],
+        [
+          2076,
+          1280
+        ],
+        [
+          229,
+          1280
+        ]
+      ],
+      "score": 0.5036268830299377,
+      "y_pos": 954,
+      "text": "92. Can nhiệt huyệt (<i>Trung suyễn</i>, <i>Tích bàng</i>, một trong hệ thống huyệt <i>Giáp tích</i>)\nVi trí: Mỏm gai đốt sống lưng thứ 5 sang ngang mỗi bên 0,5 thốn. (H.114)\n<i>Cách châm</i>: Châm chếch kim, sâu 0,5 – 1 thốn.\nChủ trị: Viêm phế quản, viêm gan, viêm túi mật, đau thần kinh liên sườn.",
+      "confidence": 0.8324860205605358
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_008_text.png",
+      "bbox": [
+        [
+          229,
+          1304
+        ],
+        [
+          2059,
+          1304
+        ],
+        [
+          2059,
+          1629
+        ],
+        [
+          229,
+          1629
+        ]
+      ],
+      "score": 0.5304924249649048,
+      "y_pos": 1304,
+      "text": "93. Tỳ nhiệt huyệt (một trong hệ thống Giáp tích).\nVi trí: Mỏm gai đốt sống lưng thứ 6 (D6) sang ngang mỗi bên 0,5 thốn. (H.114)\nCách châm: Châm chếch 0,5 – 1 thốn.\nChủ trị: Viêm gan, viêm tuyến tụy, lách sưng to.",
+      "confidence": 0.6262027088088
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0229_006_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2003
+        ],
+        [
+          847,
+          2003
+        ],
+        [
+          847,
+          2067
+        ],
+        [
+          227,
+          2067
+        ]
+      ],
+      "score": 0.5693636536598206,
+      "y_pos": 2003,
+      "text": "95. An miên 3 (Khí suyễn)",
+      "confidence": 0.977039083286568
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_011_text.png",
+      "bbox": [
+        [
+          280,
+          2090
+        ],
+        [
+          2361,
+          2090
+        ],
+        [
+          2361,
+          2221
+        ],
+        [
+          280,
+          2221
+        ]
+      ],
+      "score": 0.5192286372184753,
+      "y_pos": 2090,
+      "text": "Vị trí: Huyệt Chí dương sang ngang 1,5 thốn là huyệt Cách du, sang ngang tiếp 0,5 thốn nữa\nlà <i>An miên 3</i>. (H.114)",
+      "confidence": 0.9891673716125281
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0229_004_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          2419
+        ],
+        [
+          717,
+          2419
+        ],
+        [
+          717,
+          2481
+        ],
+        [
+          228,
+          2481
+        ]
+      ],
+      "score": 0.6368398070335388,
+      "y_pos": 2419,
+      "text": "96. Kiên thống điểm",
+      "confidence": 0.9779170694805327
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0229_005_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          2771
+        ],
+        [
+          606,
+          2771
+        ],
+        [
+          606,
+          2827
+        ],
+        [
+          228,
+          2827
+        ]
+      ],
+      "score": 0.6230023503303528,
+      "y_pos": 2771,
+      "text": "97. Kiên minh 5",
+      "confidence": 0.951588090728311
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_009_text.png",
+      "bbox": [
+        [
+          280,
+          2857
+        ],
+        [
+          2362,
+          2857
+        ],
+        [
+          2362,
+          2987
+        ],
+        [
+          280,
+          2987
+        ]
+      ],
+      "score": 0.5252290368080139,
+      "y_pos": 2857,
+      "text": "Vị trí: Huyệt Can du xuống 0,5 thốn (ngang đỉnh mỏm gai đốt sống lưng 9 sang mỗi bên 1,5\nthốn). (H.114)",
+      "confidence": 0.9934638198465109
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_010_text.png",
+      "bbox": [
+        [
+          289,
+          3103
+        ],
+        [
+          1448,
+          3103
+        ],
+        [
+          1448,
+          3161
+        ],
+        [
+          289,
+          3161
+        ]
+      ],
+      "score": 0.5218434929847717,
+      "y_pos": 3103,
+      "text": "Chủ trị: Thần kinh nhìn bị teo, viêm võng mạc nhìn.",
+      "confidence": 0.8772801711874189
+    },
+    {
+      "type": "footer",
+      "img_path": "p0229_001_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1434,
+          3334
+        ],
+        [
+          1434,
+          3388
+        ],
+        [
+          228,
+          3388
+        ]
+      ],
+      "score": 0.9152953028678894,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.998719002840654
+    },
+    {
+      "type": "number",
+      "img_path": "p0229_003_number.png",
+      "bbox": [
+        [
+          2278,
+          3338
+        ],
+        [
+          2351,
+          3338
+        ],
+        [
+          2351,
+          3378
+        ],
+        [
+          2278,
+          3378
+        ]
+      ],
+      "score": 0.8849498629570007,
+      "y_pos": 3338,
+      "text": "        \n\n    \n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0229.png"
+}

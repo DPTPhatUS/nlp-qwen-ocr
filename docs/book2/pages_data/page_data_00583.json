@@ -1,0 +1,162 @@
+{
+  "page_num": 583,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0583_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2371,
+          144
+        ],
+        [
+          2371,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9138169288635254,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7566693045553707
+    },
+    {
+      "type": "header",
+      "img_path": "p0583_000_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1467,
+          152
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9202009439468384,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TÂN, KỲ HUYỆT",
+      "confidence": 0.9972447490692139
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0583_004_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          323
+        ],
+        [
+          856,
+          323
+        ],
+        [
+          856,
+          382
+        ],
+        [
+          227,
+          382
+        ]
+      ],
+      "score": 0.7566789388656616,
+      "y_pos": 323,
+      "text": "Phần 30. BÊNH CẨM CÚM",
+      "confidence": 0.8244852138602216
+    },
+    {
+      "type": "text",
+      "img_path": "p0583_005_text.png",
+      "bbox": [
+        [
+          227,
+          413
+        ],
+        [
+          1646,
+          413
+        ],
+        [
+          1646,
+          938
+        ],
+        [
+          227,
+          938
+        ]
+      ],
+      "score": 0.7003219723701477,
+      "y_pos": 413,
+      "text": "333. Cảm mạo: Tam thương, Ấn đường, Thái dương, Sùng cốt\n334. Cúm: Tam thường.\n335. Say nắng: Thập vương, Thập tuyên, Nội Nghing hương.\n336. <b>Hôn mê:</b> Thập tuyên, Thập nhị tỉnh.\n337. Choáng ngất: Thốn bình.\n338. Ngất xỉu: Thập tuyên.",
+      "confidence": 0.9609527531761106
+    },
+    {
+      "type": "number",
+      "img_path": "p0583_003_number.png",
+      "bbox": [
+        [
+          2316,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2316,
+          3374
+        ]
+      ],
+      "score": 0.8673974871635437,
+      "y_pos": 3337,
+      "text": "    \n            \n    \n\n\n\n    \n\n\n\n\n\n    \n    \n۰.\n\n",
+      "confidence": 0.9825209265947342
+    },
+    {
+      "type": "footer",
+      "img_path": "p0583_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9064935445785522,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0583.png"
+}

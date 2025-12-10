@@ -1,0 +1,58 @@
+{
+  "page_num": 7,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0007_001_text.png",
+      "bbox": [
+        [
+          367,
+          306
+        ],
+        [
+          893,
+          306
+        ],
+        [
+          893,
+          756
+        ],
+        [
+          367,
+          756
+        ]
+      ],
+      "score": 0.869853138923645,
+      "y_pos": 306,
+      "text": "Bệnh cảm mạo\nBệnh tinh thần, thần kinh\nCấp cứu choáng ngất\nBệnh ngoài da\nBênh bai\nBệnh đàn ông\nBệnh phụ khoa\nGây tê để mổ",
+      "confidence": 0.8901840659203353
+    },
+    {
+      "type": "text",
+      "img_path": "p0007_000_text.png",
+      "bbox": [
+        [
+          365,
+          930
+        ],
+        [
+          913,
+          930
+        ],
+        [
+          913,
+          2944
+        ],
+        [
+          365,
+          2944
+        ]
+      ],
+      "score": 0.9220911264419556,
+      "y_pos": 930,
+      "text": "Bệnh mặt\nBệnh tai\nBệnh mũi\nBệnh hầu họng miệng lưỡi\nBệnh mặt\nBệnh đâu\nBệnh gáy cổ\nBệnh chi trên\nBệnh lưng\nBệnh ngực\nBệnh chi dưới\nTrúng gió liệt nửa người\nBệnh não\nBệnh huyết áp\nBệnh tim\nBệnh phối\nBệnh gan mật\nBệnh lá lách, tuy\nBệnh dạ dày\nBệnh vùng bụng\nBệnh ô ruột\nKý sinh trùng đường ruột\nBệnh tiêu hoá\nBệnh thận, bàng quang\nBệnh hậu môn\nRăn căn\nBệnh về máu\nBệnh sốt\nBệnh mồ hôi\nBệnh cảm cúm\nTrẻ em kinh phong\nBệnh\nNôn mửa\nĐờm\nBệnh ngoài da",
+      "confidence": 0.8609861234527454
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0007.png"
+}

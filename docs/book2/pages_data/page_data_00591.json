@@ -1,0 +1,656 @@
+{
+  "page_num": 591,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0591_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.922588050365448,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0591_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1467,
+          152
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9243084788322449,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TẬN, KỲ HUYỆT",
+      "confidence": 0.9979400253295898
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0591_004_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          326
+        ],
+        [
+          882,
+          326
+        ],
+        [
+          882,
+          384
+        ],
+        [
+          227,
+          384
+        ]
+      ],
+      "score": 0.7552245855331421,
+      "y_pos": 326,
+      "text": "Phần 38. BÊNH PHU KHOA",
+      "confidence": 0.7868185093005499
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0591_022_reference_content.png",
+      "bbox": [
+        [
+          229,
+          420
+        ],
+        [
+          1203,
+          420
+        ],
+        [
+          1203,
+          480
+        ],
+        [
+          229,
+          480
+        ]
+      ],
+      "score": 0.512224018573761,
+      "y_pos": 420,
+      "text": "369. Bệnh phụ khoa: Yêu nhỡn, Yêu nghi.",
+      "confidence": 0.9774814030019249
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0591_006_reference_content.png",
+      "bbox": [
+        [
+          230,
+          509
+        ],
+        [
+          2363,
+          509
+        ],
+        [
+          2363,
+          640
+        ],
+        [
+          230,
+          640
+        ]
+      ],
+      "score": 0.6768413782119751,
+      "y_pos": 509,
+      "text": "370. Kinh nguyệt không đều: Bát phong, Ngoại Tứ mãn, Trường di, Tử cung, Hạ chùy, Giao\nnghi, Kinh trung, Liêu liêu, Túc la, Thái âm kiểu.",
+      "confidence": 0.9987271765728931
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0591_018_reference_content.png",
+      "bbox": [
+        [
+          230,
+          671
+        ],
+        [
+          2093,
+          671
+        ],
+        [
+          2093,
+          733
+        ],
+        [
+          230,
+          733
+        ]
+      ],
+      "score": 0.6096208095550537,
+      "y_pos": 671,
+      "text": "371. Hành kinh đau bụng: Thập thất chùy hạ, Tử cung, Định thần, Can viêm điểm.",
+      "confidence": 0.9995875909924508
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0591_020_reference_content.png",
+      "bbox": [
+        [
+          231,
+          762
+        ],
+        [
+          809,
+          762
+        ],
+        [
+          809,
+          825
+        ],
+        [
+          231,
+          825
+        ]
+      ],
+      "score": 0.5596439242362976,
+      "y_pos": 762,
+      "text": "372. Bế kinh: Huyết phủ.",
+      "confidence": 0.9922799124167516
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0591_015_reference_content.png",
+      "bbox": [
+        [
+          232,
+          855
+        ],
+        [
+          1297,
+          855
+        ],
+        [
+          1297,
+          915
+        ],
+        [
+          232,
+          915
+        ]
+      ],
+      "score": 0.6272662878036499,
+      "y_pos": 855,
+      "text": "373. Kinh nguyệt quá nhiều: Bào môn, Tử hộ.",
+      "confidence": 0.9891928513844808
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0591_017_reference_content.png",
+      "bbox": [
+        [
+          232,
+          947
+        ],
+        [
+          1230,
+          947
+        ],
+        [
+          1230,
+          1008
+        ],
+        [
+          232,
+          1008
+        ]
+      ],
+      "score": 0.6110632419586182,
+      "y_pos": 947,
+      "text": "374. Xuất huyết dạ con: Thập thất chùy hạ.",
+      "confidence": 0.9909361316399141
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0591_011_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1039
+        ],
+        [
+          1384,
+          1039
+        ],
+        [
+          1384,
+          1099
+        ],
+        [
+          232,
+          1099
+        ]
+      ],
+      "score": 0.6367354989051819,
+      "y_pos": 1039,
+      "text": "375. Công năng dạ con xuất huyết: Thái âm kiểu.",
+      "confidence": 0.9880866907080825
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0591_012_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1131
+        ],
+        [
+          1178,
+          1131
+        ],
+        [
+          1178,
+          1189
+        ],
+        [
+          231,
+          1189
+        ]
+      ],
+      "score": 0.6366210579872131,
+      "y_pos": 1131,
+      "text": "376. Xuất huyết do liệt dạ con: Khí môn.",
+      "confidence": 0.9990662478265309
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0591_007_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1223
+        ],
+        [
+          1587,
+          1223
+        ],
+        [
+          1587,
+          1283
+        ],
+        [
+          231,
+          1283
+        ]
+      ],
+      "score": 0.6709829568862915,
+      "y_pos": 1223,
+      "text": "377. Băng lậu huyết: Liêu liêu, Cưu kỷ, Long môn, Túc tâm.",
+      "confidence": 0.9941897034645081
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0591_008_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1316
+        ],
+        [
+          1105,
+          1316
+        ],
+        [
+          1105,
+          1374
+        ],
+        [
+          232,
+          1374
+        ]
+      ],
+      "score": 0.6623179316520691,
+      "y_pos": 1316,
+      "text": "378. Nhiều khí hư: Giao nghi, Cưu kỷ.",
+      "confidence": 0.9910884774648226
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0591_016_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1406
+        ],
+        [
+          975,
+          1406
+        ],
+        [
+          975,
+          1467
+        ],
+        [
+          232,
+          1467
+        ]
+      ],
+      "score": 0.6154274344444275,
+      "y_pos": 1406,
+      "text": "379. Viêm phần phụ: Trường di.",
+      "confidence": 0.9992379080504179
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0591_010_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1497
+        ],
+        [
+          1061,
+          1497
+        ],
+        [
+          1061,
+          1559
+        ],
+        [
+          232,
+          1559
+        ]
+      ],
+      "score": 0.640596330165863,
+      "y_pos": 1497,
+      "text": "380. Viêm buồng trứng: Huyết phủ.",
+      "confidence": 0.9950934035437448
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0591_009_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1589
+        ],
+        [
+          1295,
+          1589
+        ],
+        [
+          1295,
+          1652
+        ],
+        [
+          231,
+          1652
+        ]
+      ],
+      "score": 0.647847592830658,
+      "y_pos": 1589,
+      "text": "381. Viêm cổ dạ con mạn tính: Tử cung cảnh.",
+      "confidence": 0.9911546044879489
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0591_005_reference_content.png",
+      "bbox": [
+        [
+          230,
+          1681
+        ],
+        [
+          2362,
+          1681
+        ],
+        [
+          2362,
+          1813
+        ],
+        [
+          230,
+          1813
+        ]
+      ],
+      "score": 0.691359281539917,
+      "y_pos": 1681,
+      "text": "382. Sa da con: Thái âm kiểu, Duy bào, Tử cung, Đình đầu, Đề thác huyệt, Đề giang xơ, Xung\ngian, Bàng cường.",
+      "confidence": 0.9975760550295734
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0591_013_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1843
+        ],
+        [
+          1453,
+          1843
+        ],
+        [
+          1453,
+          1905
+        ],
+        [
+          231,
+          1905
+        ]
+      ],
+      "score": 0.6356034874916077,
+      "y_pos": 1843,
+      "text": "383. Vô sinh: Thái âm kiểu, Long môn, Tân Khí huyệt.",
+      "confidence": 0.9994255315374445
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0591_014_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1935
+        ],
+        [
+          1208,
+          1935
+        ],
+        [
+          1208,
+          1995
+        ],
+        [
+          232,
+          1995
+        ]
+      ],
+      "score": 0.6336981058120728,
+      "y_pos": 1935,
+      "text": "384. Muộn con: Tử cung, Bào môn, Tử hộ.",
+      "confidence": 0.9990420239727672
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0591_019_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2027
+        ],
+        [
+          1042,
+          2027
+        ],
+        [
+          1042,
+          2086
+        ],
+        [
+          232,
+          2086
+        ]
+      ],
+      "score": 0.5776284337043762,
+      "y_pos": 2027,
+      "text": "385. Không muốn đẻ: Tuyệt nhâm.",
+      "confidence": 0.9927000385342222
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0591_023_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2120
+        ],
+        [
+          791,
+          2120
+        ],
+        [
+          791,
+          2175
+        ],
+        [
+          232,
+          2175
+        ]
+      ],
+      "score": 0.5042883157730103,
+      "y_pos": 2120,
+      "text": "386. Khó đẻ: Ngọc điển.",
+      "confidence": 0.9878965997695923
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0591_021_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2304
+        ],
+        [
+          1328,
+          2304
+        ],
+        [
+          1328,
+          2357
+        ],
+        [
+          232,
+          2357
+        ]
+      ],
+      "score": 0.5242046117782593,
+      "y_pos": 2304,
+      "text": "388. Sốt cao sau đẻ: Đại luân, Túc minh, Túc la.",
+      "confidence": 0.9967311382293701
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0591_024_reference_content.png",
+      "bbox": [
+        [
+          230,
+          2397
+        ],
+        [
+          1090,
+          2397
+        ],
+        [
+          1090,
+          2448
+        ],
+        [
+          230,
+          2448
+        ]
+      ],
+      "score": 0.5033177733421326,
+      "y_pos": 2397,
+      "text": "389. Khí hư sau đẻ: Bào môn, Tử hộ.",
+      "confidence": 0.9967126878532203
+    },
+    {
+      "type": "number",
+      "img_path": "p0591_003_number.png",
+      "bbox": [
+        [
+          2318,
+          3338
+        ],
+        [
+          2368,
+          3338
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2318,
+          3374
+        ]
+      ],
+      "score": 0.8594568371772766,
+      "y_pos": 3338,
+      "text": "    ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0591_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1325,
+          3341
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9178867340087891,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987242975324955
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0591.png"
+}

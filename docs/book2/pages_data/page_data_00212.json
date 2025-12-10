@@ -1,0 +1,524 @@
+{
+  "page_num": 212,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0212_009_header.png",
+      "bbox": [
+        [
+          1607,
+          143
+        ],
+        [
+          2371,
+          143
+        ],
+        [
+          2371,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9250169992446899,
+      "y_pos": 143,
+      "text": "~ ~ ~\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7136032137842405
+    },
+    {
+      "type": "header",
+      "img_path": "p0212_013_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.915755033493042,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0212_011_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          370
+        ],
+        [
+          858,
+          370
+        ],
+        [
+          858,
+          420
+        ],
+        [
+          225,
+          420
+        ]
+      ],
+      "score": 0.9239919781684875,
+      "y_pos": 370,
+      "text": "26. Nhân trung (Thuỷ câu)",
+      "confidence": 0.9305963604538529
+    },
+    {
+      "type": "text",
+      "img_path": "p0212_010_text.png",
+      "bbox": [
+        [
+          288,
+          463
+        ],
+        [
+          2020,
+          463
+        ],
+        [
+          2020,
+          514
+        ],
+        [
+          288,
+          514
+        ]
+      ],
+      "score": 0.9246135354042053,
+      "y_pos": 463,
+      "text": "<i>Vị trí:</i> Giữa rãnh nước dưới mũi, cách 1/3 phía trên rãnh <i>Nhân trung</i>. (h. 102)",
+      "confidence": 0.987402018294277
+    },
+    {
+      "type": "image",
+      "img_path": "p0212_000_image.png",
+      "bbox": [
+        [
+          610,
+          565
+        ],
+        [
+          2028,
+          565
+        ],
+        [
+          2028,
+          1174
+        ],
+        [
+          610,
+          1174
+        ]
+      ],
+      "score": 0.9749212861061096,
+      "y_pos": 565
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0212_014_figure_title.png",
+      "bbox": [
+        [
+          1096,
+          1271
+        ],
+        [
+          1547,
+          1271
+        ],
+        [
+          1547,
+          1314
+        ],
+        [
+          1096,
+          1314
+        ]
+      ],
+      "score": 0.9129021763801575,
+      "y_pos": 1271,
+      "text": "Hình 102 – Hình 103",
+      "confidence": 0.7009082379795256
+    },
+    {
+      "type": "text",
+      "img_path": "p0212_004_text.png",
+      "bbox": [
+        [
+          281,
+          1360
+        ],
+        [
+          2359,
+          1360
+        ],
+        [
+          2359,
+          1481
+        ],
+        [
+          281,
+          1481
+        ]
+      ],
+      "score": 0.9657388925552368,
+      "y_pos": 1360,
+      "text": "Cách châm: Châm chếch kim, sâu 0,2 - 0,3 thốn, khi cấp cứu, cứ cách 1 đếm, vê kim một\nlần hoặc châm <i>Nhân trung</i> thấu <i>Ngận giao</i>. Không cứu.",
+      "confidence": 0.8380493331662251
+    },
+    {
+      "type": "text",
+      "img_path": "p0212_003_text.png",
+      "bbox": [
+        [
+          280,
+          1521
+        ],
+        [
+          2358,
+          1521
+        ],
+        [
+          2358,
+          1643
+        ],
+        [
+          280,
+          1643
+        ]
+      ],
+      "score": 0.9657635688781738,
+      "y_pos": 1521,
+      "text": "Chủ trị: Động kinh, hàm răng cắn chặt, trúng gió hư thoát, hôn mê, say nắng, chân tay co\nrúm, trẻ em co giất, bung ngực đau nhói.",
+      "confidence": 0.9772239202544802
+    },
+    {
+      "type": "text",
+      "img_path": "p0212_001_text.png",
+      "bbox": [
+        [
+          282,
+          1684
+        ],
+        [
+          2358,
+          1684
+        ],
+        [
+          2358,
+          1808
+        ],
+        [
+          282,
+          1808
+        ]
+      ],
+      "score": 0.9687800407409668,
+      "y_pos": 1684,
+      "text": "<i>Tác dụng phối hợp:</i> Với <i>Uỷ trung</i> trị lưng và sống lưng đau; với <i>Hợp cốc</i>, <i>Trung xung</i> trị say\nnắng, bất tỉnh nhân sự; với <i>Ngận giao</i> trị chứng đau vùng thắt lưng.",
+      "confidence": 0.9943964628371554
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0212_008_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1847
+        ],
+        [
+          565,
+          1847
+        ],
+        [
+          565,
+          1898
+        ],
+        [
+          226,
+          1898
+        ]
+      ],
+      "score": 0.9254152774810791,
+      "y_pos": 1847,
+      "text": "27. Ngận giao",
+      "confidence": 0.8653536637624105
+    },
+    {
+      "type": "text",
+      "img_path": "p0212_017_text.png",
+      "bbox": [
+        [
+          287,
+          1938
+        ],
+        [
+          2267,
+          1938
+        ],
+        [
+          2267,
+          1991
+        ],
+        [
+          287,
+          1991
+        ]
+      ],
+      "score": 0.902090311050415,
+      "y_pos": 1938,
+      "text": "Vị trí: Ở phía trong môi trên và lợi răng trên giao nhau, chỗ dây chẳng môi trên. (H. 103)",
+      "confidence": 0.9901145673964334
+    },
+    {
+      "type": "text",
+      "img_path": "p0212_018_text.png",
+      "bbox": [
+        [
+          284,
+          2029
+        ],
+        [
+          2333,
+          2029
+        ],
+        [
+          2333,
+          2081
+        ],
+        [
+          284,
+          2081
+        ]
+      ],
+      "score": 0.881438136100769,
+      "y_pos": 2029,
+      "text": "<b>Cách châm:</b> Châm mũi kim chếch lên, sâu 0,1 – 0,2 thốn, hoặc chích nặn máu. Không cứu.",
+      "confidence": 0.9903957388374243
+    },
+    {
+      "type": "text",
+      "img_path": "p0212_016_text.png",
+      "bbox": [
+        [
+          286,
+          2122
+        ],
+        [
+          993,
+          2122
+        ],
+        [
+          993,
+          2173
+        ],
+        [
+          286,
+          2173
+        ]
+      ],
+      "score": 0.9043428897857666,
+      "y_pos": 2122,
+      "text": "Chủ trị: Răng lợi sưng đau, trĩ.",
+      "confidence": 0.4081341028213501
+    },
+    {
+      "type": "text",
+      "img_path": "p0212_007_text.png",
+      "bbox": [
+        [
+          287,
+          2213
+        ],
+        [
+          1327,
+          2213
+        ],
+        [
+          1327,
+          2268
+        ],
+        [
+          287,
+          2268
+        ]
+      ],
+      "score": 0.9320347309112549,
+      "y_pos": 2213,
+      "text": "Tác dụng phối hợp: Với Trường cường trị trĩ.",
+      "confidence": 0.9901648124922877
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0212_012_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2306
+        ],
+        [
+          566,
+          2306
+        ],
+        [
+          566,
+          2349
+        ],
+        [
+          227,
+          2349
+        ]
+      ],
+      "score": 0.9197523593902588,
+      "y_pos": 2306,
+      "text": "28. Đoài đoan",
+      "confidence": 0.9695498545964559
+    },
+    {
+      "type": "text",
+      "img_path": "p0212_006_text.png",
+      "bbox": [
+        [
+          289,
+          2396
+        ],
+        [
+          1303,
+          2396
+        ],
+        [
+          1303,
+          2447
+        ],
+        [
+          289,
+          2447
+        ]
+      ],
+      "score": 0.9335649013519287,
+      "y_pos": 2396,
+      "text": "Vi trí: Chính giữa đầu chót môi trên. (H. 102)",
+      "confidence": 0.9902270461122195
+    },
+    {
+      "type": "text",
+      "img_path": "p0212_005_text.png",
+      "bbox": [
+        [
+          285,
+          2488
+        ],
+        [
+          1773,
+          2488
+        ],
+        [
+          1773,
+          2540
+        ],
+        [
+          285,
+          2540
+        ]
+      ],
+      "score": 0.9367234110832214,
+      "y_pos": 2488,
+      "text": "Cách châm: Ngậm miệng, ngửa hàm. Châm 0,2 thốn. Không cứu.",
+      "confidence": 0.4424494961897532
+    },
+    {
+      "type": "text",
+      "img_path": "p0212_002_text.png",
+      "bbox": [
+        [
+          280,
+          2580
+        ],
+        [
+          2360,
+          2580
+        ],
+        [
+          2360,
+          2702
+        ],
+        [
+          280,
+          2702
+        ]
+      ],
+      "score": 0.9676987528800964,
+      "y_pos": 2580,
+      "text": "Chủ trị: Điên nhổ bọt, đái vàng, lưỡi khô, máu cam chảy không dứt, sưng môi, miệng ngậm\nmà hàm khua lập cập, uống nhiều, đái nhiều, răng đau, tắc mũi, đờm dãi.",
+      "confidence": 0.997697584878046
+    },
+    {
+      "type": "footer",
+      "img_path": "p0212_015_footer.png",
+      "bbox": [
+        [
+          229,
+          3335
+        ],
+        [
+          1433,
+          3335
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          229,
+          3387
+        ]
+      ],
+      "score": 0.9124367833137512,
+      "y_pos": 3335,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982608286839612
+    },
+    {
+      "type": "number",
+      "img_path": "p0212_019_number.png",
+      "bbox": [
+        [
+          2301,
+          3340
+        ],
+        [
+          2350,
+          3340
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2301,
+          3377
+        ]
+      ],
+      "score": 0.8690118789672852,
+      "y_pos": 3340,
+      "text": "    \n    \n            \n    \n    \n\n\n\n\n\n\n\n    \n        \n    ۰\n\n",
+      "confidence": 0.9810934636209693
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0212.png"
+}

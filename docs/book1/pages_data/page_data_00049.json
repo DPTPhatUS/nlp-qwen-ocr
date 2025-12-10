@@ -1,0 +1,500 @@
+{
+  "page_num": 49,
+  "content": [
+    {
+      "type": "paragraph_title",
+      "img_path": "p0049_007_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          450
+        ],
+        [
+          960,
+          450
+        ],
+        [
+          960,
+          501
+        ],
+        [
+          344,
+          501
+        ]
+      ],
+      "score": 0.9306576251983643,
+      "y_pos": 450,
+      "text": "3.3. Bệnh cảnh lâm sàng",
+      "confidence": 0.9686853575706482
+    },
+    {
+      "type": "text",
+      "img_path": "p0049_005_text.png",
+      "bbox": [
+        [
+          343,
+          546
+        ],
+        [
+          2121,
+          546
+        ],
+        [
+          2121,
+          655
+        ],
+        [
+          343,
+          655
+        ]
+      ],
+      "score": 0.9638643860816956,
+      "y_pos": 546,
+      "text": "Một cách tổng quát, bệnh ở Vệ phận và Khí phận thuộc bệnh của khí.\nBệnh ở Dinh phận và Huyết phận được xếp vào nhóm bệnh của huyết.",
+      "confidence": 0.999337626544762
+    },
+    {
+      "type": "text",
+      "img_path": "p0049_001_text.png",
+      "bbox": [
+        [
+          340,
+          687
+        ],
+        [
+          2123,
+          687
+        ],
+        [
+          2123,
+          855
+        ],
+        [
+          340,
+          855
+        ]
+      ],
+      "score": 0.9771885871887207,
+      "y_pos": 687,
+      "text": "Bệnh ở Vệ phận (chủ biểu, chủ Phế và bì mao) là bệnh của khí nhưng có\nbiểu hiện nhẹ. Bệnh ở khí phận (chỉ ôn nhiệt tà đã vào sâu, vào lý; nhưng chưa\nvào huyết) là bệnh của khí nhưng biểu hiện nặng, sâu.",
+      "confidence": 0.9923854294453632
+    },
+    {
+      "type": "text",
+      "img_path": "p0049_002_text.png",
+      "bbox": [
+        [
+          341,
+          886
+        ],
+        [
+          2125,
+          886
+        ],
+        [
+          2125,
+          1053
+        ],
+        [
+          341,
+          1053
+        ]
+      ],
+      "score": 0.9769222736358643,
+      "y_pos": 886,
+      "text": "Bệnh ở Dinh phận (<i>tà vào Tâm, Tâm bào</i>) là bệnh của huyết nhưng có\nbiểu hiện nhẹ, nông. Bệnh ở Huyết phận (Tà vào Can huyết) là bệnh của huyết\n<i>với những triệu chứng</i> nặng, nghiêm trọng hơn.",
+      "confidence": 0.9907272393841738
+    },
+    {
+      "type": "text",
+      "img_path": "p0049_003_text.png",
+      "bbox": [
+        [
+          458,
+          1092
+        ],
+        [
+          2124,
+          1092
+        ],
+        [
+          2124,
+          1203
+        ],
+        [
+          458,
+          1203
+        ]
+      ],
+      "score": 0.9654224514961243,
+      "y_pos": 1092,
+      "text": "Ở Vệ phận, do nhiệt tà nhẹ nông, làm tổn thương âm chưa nhiều, hiện\ntượng táo tương đối nhẹ (ho khan không đàm, họng khô, khát không rõ).",
+      "confidence": 0.9961750222828941
+    },
+    {
+      "type": "text",
+      "img_path": "p0049_004_text.png",
+      "bbox": [
+        [
+          404,
+          1240
+        ],
+        [
+          2123,
+          1240
+        ],
+        [
+          2123,
+          1351
+        ],
+        [
+          404,
+          1351
+        ]
+      ],
+      "score": 0.9640740752220154,
+      "y_pos": 1240,
+      "text": "- Ở Khí phận, tân dịch bị thương tổn tương đối rõ nên thấy tâm phiền,\nmiêng khát, hoặc cầu bón.",
+      "confidence": 0.9931632047932037
+    },
+    {
+      "type": "text",
+      "img_path": "p0049_006_text.png",
+      "bbox": [
+        [
+          405,
+          1384
+        ],
+        [
+          1932,
+          1384
+        ],
+        [
+          1932,
+          1435
+        ],
+        [
+          405,
+          1435
+        ]
+      ],
+      "score": 0.9328095316886902,
+      "y_pos": 1384,
+      "text": "- Tân dịch bị thương ảnh hưởng đến huyết là tà đã vào Dinh phân.",
+      "confidence": 0.9916029527331843
+    },
+    {
+      "type": "text",
+      "img_path": "p0049_008_text.png",
+      "bbox": [
+        [
+          405,
+          1467
+        ],
+        [
+          1863,
+          1467
+        ],
+        [
+          1863,
+          1519
+        ],
+        [
+          405,
+          1519
+        ]
+      ],
+      "score": 0.926972508430481,
+      "y_pos": 1467,
+      "text": "- Huyết bị tổn thương tương đối nhiều là tà đã vào Huyết phận.",
+      "confidence": 0.990525537636131
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0049_012_paragraph_title.png",
+      "bbox": [
+        [
+          342,
+          1580
+        ],
+        [
+          2123,
+          1580
+        ],
+        [
+          2123,
+          1712
+        ],
+        [
+          342,
+          1712
+        ]
+      ],
+      "score": 0.7684367895126343,
+      "y_pos": 1580,
+      "text": "4. NHỮNG ĐIỂM KHÁC NHAU GIỮA NGOAI CẨM ÔN BÊNH VÀ NGOAI\nCẨM THƯƠNG HÀN",
+      "confidence": 0.9851808214984965
+    },
+    {
+      "type": "table",
+      "img_path": "p0049_000_table.png",
+      "bbox": [
+        [
+          351,
+          1789
+        ],
+        [
+          2123,
+          1789
+        ],
+        [
+          2123,
+          2240
+        ],
+        [
+          351,
+          2240
+        ]
+      ],
+      "score": 0.9870691299438477,
+      "y_pos": 1789,
+      "text": "STT    Ôn bênh    Thương hàn\nKhảo sát các bệnh ngoại cảm có Khảo sát tất cả các bệnh ngoại cảm\ntính chất nhiệt\n2    Khởi phát ngay với Nhiệt chứng    Khởi phát với Phong, Hàn, Thử, Thấp chứng.\nGiai đoạn sau mới xuất hiện Nhiệt chứng\n3    Diễn biến có quy luật, theo Vệ,    Diễn biến có quy luật, theo Lục kinh\nKhí, Dinh, Huyết và Tam tiêu",
+      "confidence": 0.9652680774735175
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0049_010_paragraph_title.png",
+      "bbox": [
+        [
+          932,
+          2361
+        ],
+        [
+          1560,
+          2361
+        ],
+        [
+          1560,
+          2426
+        ],
+        [
+          932,
+          2426
+        ]
+      ],
+      "score": 0.8569963574409485,
+      "y_pos": 2361,
+      "text": "ĐẶC ĐIỂM CỦA ÔN BÊNH",
+      "confidence": 0.9746021249077537
+    },
+    {
+      "type": "text",
+      "img_path": "p0049_017_text.png",
+      "bbox": [
+        [
+          368,
+          2513
+        ],
+        [
+          1096,
+          2513
+        ],
+        [
+          1096,
+          2563
+        ],
+        [
+          368,
+          2563
+        ]
+      ],
+      "score": 0.6522066593170166,
+      "y_pos": 2513,
+      "text": "- Ôn bệnh là một loại bệnh Ngoại cảm",
+      "confidence": 0.9490312996663546
+    },
+    {
+      "type": "text",
+      "img_path": "p0049_016_text.png",
+      "bbox": [
+        [
+          369,
+          2584
+        ],
+        [
+          1382,
+          2584
+        ],
+        [
+          1382,
+          2635
+        ],
+        [
+          369,
+          2635
+        ]
+      ],
+      "score": 0.6604764461517334,
+      "y_pos": 2584,
+      "text": "- Hai nguyên nhân gây bệnh của Ngoại cảm ôn bệnh:",
+      "confidence": 0.9913419076040679
+    },
+    {
+      "type": "text",
+      "img_path": "p0049_015_text.png",
+      "bbox": [
+        [
+          369,
+          2655
+        ],
+        [
+          917,
+          2655
+        ],
+        [
+          917,
+          2703
+        ],
+        [
+          369,
+          2703
+        ]
+      ],
+      "score": 0.7056046724319458,
+      "y_pos": 2655,
+      "text": "+ Lục dâm: chủ yếu Nhiệt tà.",
+      "confidence": 0.9892708043257396
+    },
+    {
+      "type": "text",
+      "img_path": "p0049_018_text.png",
+      "bbox": [
+        [
+          371,
+          2723
+        ],
+        [
+          533,
+          2723
+        ],
+        [
+          533,
+          2766
+        ],
+        [
+          371,
+          2766
+        ]
+      ],
+      "score": 0.5656247735023499,
+      "y_pos": 2723,
+      "text": "Lê khí",
+      "confidence": 0.9512652903795242
+    },
+    {
+      "type": "text",
+      "img_path": "p0049_013_text.png",
+      "bbox": [
+        [
+          368,
+          2790
+        ],
+        [
+          2126,
+          2790
+        ],
+        [
+          2126,
+          2889
+        ],
+        [
+          368,
+          2889
+        ]
+      ],
+      "score": 0.758454442024231,
+      "y_pos": 2790,
+      "text": "- Có 2 cách khảo sát diễn tiến có qui luật của Ngoại cảm ôn bệnh: diễn tiến từ ngoài vào\ntrong (Vệ, Khí, Dinh, Huyết) hoặc diễn tiến từ trên xuống (thượng tiêu, trung tiêu, hạ tiêu).",
+      "confidence": 0.9571191577360644
+    },
+    {
+      "type": "text",
+      "img_path": "p0049_014_text.png",
+      "bbox": [
+        [
+          368,
+          2913
+        ],
+        [
+          2128,
+          2913
+        ],
+        [
+          2128,
+          3012
+        ],
+        [
+          368,
+          3012
+        ]
+      ],
+      "score": 0.7364199161529541,
+      "y_pos": 2913,
+      "text": "- Những giai đoạn diễn biến của Ngoại cảm ôn bệnh phản ảnh tương quan lực lượng giữa sức\nđề kháng của cơ thể <i>(chính khí)</i> và tác nhân gây bệnh <i>(tà khí)</i>.",
+      "confidence": 0.9984945690904568
+    },
+    {
+      "type": "number",
+      "img_path": "p0049_011_number.png",
+      "bbox": [
+        [
+          352,
+          3111
+        ],
+        [
+          406,
+          3111
+        ],
+        [
+          406,
+          3147
+        ],
+        [
+          352,
+          3147
+        ]
+      ],
+      "score": 0.8495445847511292,
+      "y_pos": 3111,
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0049_009_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1072,
+          3311
+        ],
+        [
+          1072,
+          3365
+        ],
+        [
+          293,
+          3365
+        ]
+      ],
+      "score": 0.9227185845375061,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.879438819204058
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0049.png"
+}

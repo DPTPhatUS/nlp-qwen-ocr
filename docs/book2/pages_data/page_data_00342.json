@@ -1,0 +1,552 @@
+{
+  "page_num": 342,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0342_011_header.png",
+      "bbox": [
+        [
+          1679,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          195
+        ],
+        [
+          1679,
+          195
+        ]
+      ],
+      "score": 0.9225191473960876,
+      "y_pos": 142,
+      "text": "_______________________________________\nCAM NANG CHAN TRI ĐONG Y",
+      "confidence": 0.6296039422544149
+    },
+    {
+      "type": "header",
+      "img_path": "p0342_015_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1055,
+          152
+        ],
+        [
+          1055,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9161816835403442,
+      "y_pos": 152,
+      "text": "ÔN NHIỆT KINH BIÊN CHỨNG LUÂN TRI",
+      "confidence": 0.9413397720881871
+    },
+    {
+      "type": "text",
+      "img_path": "p0342_005_text.png",
+      "bbox": [
+        [
+          338,
+          306
+        ],
+        [
+          2357,
+          306
+        ],
+        [
+          2357,
+          430
+        ],
+        [
+          338,
+          430
+        ]
+      ],
+      "score": 0.9655404686927795,
+      "y_pos": 306,
+      "text": "Các loại bệnh viêm não, viêm não màng, nhiễm trùng máu, và ngộ độc khuẩn ly, say\nnắng, có biểu hiện chứng nhiệt nhập tâm bào, đều có thể theo phép này mà chữa.",
+      "confidence": 0.9973083145098716
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0342_016_paragraph_title.png",
+      "bbox": [
+        [
+          342,
+          471
+        ],
+        [
+          1486,
+          471
+        ],
+        [
+          1486,
+          522
+        ],
+        [
+          342,
+          522
+        ]
+      ],
+      "score": 0.9129446148872375,
+      "y_pos": 471,
+      "text": "d. Nhiệt động can phong (nhiệt cơ sinh phong)",
+      "confidence": 0.9597728341183764
+    },
+    {
+      "type": "text",
+      "img_path": "p0342_002_text.png",
+      "bbox": [
+        [
+          338,
+          558
+        ],
+        [
+          2358,
+          558
+        ],
+        [
+          2358,
+          754
+        ],
+        [
+          338,
+          754
+        ]
+      ],
+      "score": 0.9757224917411804,
+      "y_pos": 558,
+      "text": "Chủ trứng: Sốt cao, vật vã không yên, co quắp, hoặc tứ chi cong co, cứng gáy, uốn ván,\nlưỡi lệch, lưỡi rung, mạch huyền, sác, chất lưỡi hồng (thuộc khí phần), hoặc đỏ tía (thuộc\ndoanh phần), có khi kèm hôn mê.",
+      "confidence": 0.9478056888420382
+    },
+    {
+      "type": "text",
+      "img_path": "p0342_008_text.png",
+      "bbox": [
+        [
+          338,
+          793
+        ],
+        [
+          2357,
+          793
+        ],
+        [
+          2357,
+          918
+        ],
+        [
+          338,
+          918
+        ]
+      ],
+      "score": 0.9614946246147156,
+      "y_pos": 793,
+      "text": "Các chứng đó có thể xuất hiện ở khí phần, hoặc doanh phần, huyết phần, nhưng thường\nthấy nhất là ở doanh phần, huyết phần.",
+      "confidence": 0.9996527216890279
+    },
+    {
+      "type": "text",
+      "img_path": "p0342_001_text.png",
+      "bbox": [
+        [
+          339,
+          955
+        ],
+        [
+          2362,
+          955
+        ],
+        [
+          2362,
+          1219
+        ],
+        [
+          339,
+          1219
+        ]
+      ],
+      "score": 0.9806824922561646,
+      "y_pos": 955,
+      "text": "Phép chữa: Thanh nhiệt tức (dẹp) phong, nhằm vào chứng của bệnh ở khí phần, hoặc\ndoanh phần, huyết phần, rồi thêm vào đó các vị thuốc thanh nhiệt dẹp phong như: Địa\nlong, Câu đằng, Bạch cúc hoa, Bạch thược, Cẩu can thái (rau gan chó), Tượng nha ti, Chi\nkinh tán v.v...",
+      "confidence": 0.9932542460618623
+    },
+    {
+      "type": "text",
+      "img_path": "p0342_009_text.png",
+      "bbox": [
+        [
+          339,
+          1260
+        ],
+        [
+          2358,
+          1260
+        ],
+        [
+          2358,
+          1383
+        ],
+        [
+          339,
+          1383
+        ]
+      ],
+      "score": 0.9610849618911743,
+      "y_pos": 1260,
+      "text": "Viêm não, viêm màng não và các loại bệnh truyền nhiễm có phát kèm bệnh trúng độc não\nmà có biểu hiện những chứng nêu trên, đều có thể theo phép này mà chữa.",
+      "confidence": 0.9511384740305691
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0342_014_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          1420
+        ],
+        [
+          758,
+          1420
+        ],
+        [
+          758,
+          1475
+        ],
+        [
+          285,
+          1475
+        ]
+      ],
+      "score": 0.9177810549736023,
+      "y_pos": 1420,
+      "text": "4. Bệnh phần huyết",
+      "confidence": 0.9741567105054856
+    },
+    {
+      "type": "text",
+      "img_path": "p0342_010_text.png",
+      "bbox": [
+        [
+          339,
+          1514
+        ],
+        [
+          2358,
+          1514
+        ],
+        [
+          2358,
+          1637
+        ],
+        [
+          339,
+          1637
+        ]
+      ],
+      "score": 0.9602400660514832,
+      "y_pos": 1514,
+      "text": "Bệnh phần huyết là giai đoạn nguy kịch của bệnh sốt nóng, lúc này bệnh tà mới thịnh mà\nchính khí đã suy.",
+      "confidence": 0.9940371184685584
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0342_017_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          1675
+        ],
+        [
+          1353,
+          1675
+        ],
+        [
+          1353,
+          1731
+        ],
+        [
+          343,
+          1731
+        ]
+      ],
+      "score": 0.9105446934700012,
+      "y_pos": 1675,
+      "text": "a. Bệnh huyết phần (nhiệt tại huyết phần)",
+      "confidence": 0.9907562510911808
+    },
+    {
+      "type": "text",
+      "img_path": "p0342_003_text.png",
+      "bbox": [
+        [
+          339,
+          1765
+        ],
+        [
+          2360,
+          1765
+        ],
+        [
+          2360,
+          1963
+        ],
+        [
+          339,
+          1963
+        ]
+      ],
+      "score": 0.9750311970710754,
+      "y_pos": 1765,
+      "text": "Chủ trứng: Sốt cao, xuất huyết như thổ huyết, lạc huyết, nục huyết, niệu huyết, tiện huyết\n(nôn ra máu, ho ra máu, chảy máu mũi, đái ra máu, ỉa ra máu), ở da xuất hiện ban chẩn\ntím đen, nói nhảm hoặc thần mờ tối, co quắp, chất lưỡi tím tía, không rêu, mạch tế, sác.",
+      "confidence": 0.9967109109546284
+    },
+    {
+      "type": "text",
+      "img_path": "p0342_000_text.png",
+      "bbox": [
+        [
+          339,
+          1999
+        ],
+        [
+          2359,
+          1999
+        ],
+        [
+          2359,
+          2269
+        ],
+        [
+          339,
+          2269
+        ]
+      ],
+      "score": 0.980945348739624,
+      "y_pos": 1999,
+      "text": "Bệnh lý: Chứng này là tà nhập vào huyết phần, huyết nhiệt tích thịnh cho nên sốt cao,\nchất lưỡi tím tía không rêu, mạch tế, sác. Nhiệt tà áp huyết vọng hành, hoặc ban chẩn\nhiện rõ. Nhiệt nhiễu tâm thần, thì múa may lung tung và nói nhảm, hoặc thần mờ tối. Nhiệt\ncực sinh phong thì co quắp.",
+      "confidence": 0.939753079705728
+    },
+    {
+      "type": "text",
+      "img_path": "p0342_007_text.png",
+      "bbox": [
+        [
+          340,
+          2306
+        ],
+        [
+          2363,
+          2306
+        ],
+        [
+          2363,
+          2431
+        ],
+        [
+          340,
+          2431
+        ]
+      ],
+      "score": 0.9617135524749756,
+      "y_pos": 2306,
+      "text": "Phép chữa: Lương huyết, thanh nhiệt giải độc, thường dùng <i>Tê giác địa hoàng thanh</i>, (<i>tê</i>\ngiác có thể thay bằng 1-2 lạng sừng trâu).",
+      "confidence": 0.812524272519138
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0342_019_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          2469
+        ],
+        [
+          584,
+          2469
+        ],
+        [
+          584,
+          2519
+        ],
+        [
+          344,
+          2519
+        ]
+      ],
+      "score": 0.8789049386978149,
+      "y_pos": 2469,
+      "text": "Gia giảm:",
+      "confidence": 0.8326582962816412
+    },
+    {
+      "type": "text",
+      "img_path": "p0342_013_text.png",
+      "bbox": [
+        [
+          402,
+          2560
+        ],
+        [
+          1929,
+          2560
+        ],
+        [
+          1929,
+          2612
+        ],
+        [
+          402,
+          2612
+        ]
+      ],
+      "score": 0.919221818447113,
+      "y_pos": 2560,
+      "text": "- Xuất huyết nhiều, gia Han liên thảo, Tiên hac thảo, Tử châu thảo.",
+      "confidence": 0.9924444331639055
+    },
+    {
+      "type": "text",
+      "img_path": "p0342_012_text.png",
+      "bbox": [
+        [
+          403,
+          2651
+        ],
+        [
+          1706,
+          2651
+        ],
+        [
+          1706,
+          2705
+        ],
+        [
+          403,
+          2705
+        ]
+      ],
+      "score": 0.9213009476661682,
+      "y_pos": 2651,
+      "text": "Xuất ban chẩn tím đen, gia Huyền sâm, Đại thanh diệp.",
+      "confidence": 0.9897740190679377
+    },
+    {
+      "type": "text",
+      "img_path": "p0342_004_text.png",
+      "bbox": [
+        [
+          401,
+          2744
+        ],
+        [
+          2359,
+          2744
+        ],
+        [
+          2359,
+          2937
+        ],
+        [
+          401,
+          2937
+        ]
+      ],
+      "score": 0.9735451340675354,
+      "y_pos": 2744,
+      "text": "- Nếu lưỡi đỏ tía, tím chàm, kèm có đau bụng hoặc đau ngực, sợ sờ, vật vã không\nyên, là huyết nhiệt hiệp với ứ, cần dùng phương trên thêm vào trong phép đó một ít\nthuốc khử ứ hoại huyết, như Đào nhân, Đạn sâm...",
+      "confidence": 0.9990413521802264
+    },
+    {
+      "type": "text",
+      "img_path": "p0342_006_text.png",
+      "bbox": [
+        [
+          339,
+          2976
+        ],
+        [
+          2360,
+          2976
+        ],
+        [
+          2360,
+          3103
+        ],
+        [
+          339,
+          3103
+        ]
+      ],
+      "score": 0.9632923603057861,
+      "y_pos": 2976,
+      "text": "Ban và chẩn đều là một loại ban và chấm màu hồng xuất hiện ở bề mặt da, ban chẩn lấy\nhồng nhuận, giãn nổi, mỏng, thưa là thuận. Nếu tím tối, nhanh chóng, dày kín là nghịch.",
+      "confidence": 0.9997480394036894
+    },
+    {
+      "type": "footer",
+      "img_path": "p0342_018_footer.png",
+      "bbox": [
+        [
+          229,
+          3337
+        ],
+        [
+          1343,
+          3337
+        ],
+        [
+          1343,
+          3385
+        ],
+        [
+          229,
+          3385
+        ]
+      ],
+      "score": 0.905534565448761,
+      "y_pos": 3337,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.998581662492932
+    },
+    {
+      "type": "number",
+      "img_path": "p0342_020_number.png",
+      "bbox": [
+        [
+          2320,
+          3339
+        ],
+        [
+          2345,
+          3339
+        ],
+        [
+          2345,
+          3373
+        ],
+        [
+          2320,
+          3373
+        ]
+      ],
+      "score": 0.8203784823417664,
+      "y_pos": 3339,
+      "text": "\n\n    \n    \n\n    \n\n\n\n\n\n\n        \n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0342.png"
+}

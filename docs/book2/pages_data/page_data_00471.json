@@ -1,0 +1,318 @@
+{
+  "page_num": 471,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0471_003_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2369,
+          144
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9282215237617493,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7841731583078702
+    },
+    {
+      "type": "header",
+      "img_path": "p0471_005_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9156202673912048,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0471_004_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          328
+        ],
+        [
+          1191,
+          328
+        ],
+        [
+          1191,
+          380
+        ],
+        [
+          224,
+          380
+        ]
+      ],
+      "score": 0.9209368824958801,
+      "y_pos": 328,
+      "text": "40. Phong lỗ rốn (uốn ván ở trẻ sơ sinh)",
+      "confidence": 0.9960530882789975
+    },
+    {
+      "type": "text",
+      "img_path": "p0471_000_text.png",
+      "bbox": [
+        [
+          221,
+          418
+        ],
+        [
+          2358,
+          418
+        ],
+        [
+          2358,
+          684
+        ],
+        [
+          221,
+          684
+        ]
+      ],
+      "score": 0.9829503297805786,
+      "y_pos": 418,
+      "text": "Phong lỗ rốn là do trẻ sơ sinh lúc cắt rốn không sát trùng cẩn thận gây ra. Triệu chứng: Môi\nmiệng xanh, miệng cắn chặt, không chịu bú, chân tay co quắp, mình uốn vặn. Bệnh này thường\nxuất hiện khoảng sau sinh từ 4 đến 6 ngày, nên xử trí cấp cứu theo Tây y, cách chữa theo\nĐông y ở đây là để tham khảo khi cần.",
+      "confidence": 0.9988428579205133
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0471_009_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          727
+        ],
+        [
+          571,
+          727
+        ],
+        [
+          571,
+          770
+        ],
+        [
+          286,
+          770
+        ]
+      ],
+      "score": 0.7869607210159302,
+      "y_pos": 727,
+      "text": "Cách chữa:",
+      "confidence": 0.8504465421040853
+    },
+    {
+      "type": "text",
+      "img_path": "p0471_011_text.png",
+      "bbox": [
+        [
+          286,
+          814
+        ],
+        [
+          1140,
+          814
+        ],
+        [
+          1140,
+          867
+        ],
+        [
+          286,
+          867
+        ]
+      ],
+      "score": 0.689242422580719,
+      "y_pos": 814,
+      "text": "\n    Phương 1: Lấy huyệt Thần khuyết.\n",
+      "confidence": 0.9726496534100895
+    },
+    {
+      "type": "text",
+      "img_path": "p0471_001_text.png",
+      "bbox": [
+        [
+          338,
+          905
+        ],
+        [
+          2358,
+          905
+        ],
+        [
+          2358,
+          1029
+        ],
+        [
+          338,
+          1029
+        ]
+      ],
+      "score": 0.9636399149894714,
+      "y_pos": 905,
+      "text": "Giã tỏi nát như cháo đắp lên rốn, đặt mồi ngải lên trên tỏi, cứu đến khi trong mồm đứa trẻ\ncó mùi tỏi mới thôi, sau đó lai dùng nước tỏi nhỏ vào mũi đứa trẻ.",
+      "confidence": 0.9976896316270389
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0471_010_paragraph_title.png",
+      "bbox": [
+        [
+          288,
+          1074
+        ],
+        [
+          610,
+          1074
+        ],
+        [
+          610,
+          1120
+        ],
+        [
+          288,
+          1120
+        ]
+      ],
+      "score": 0.7087653875350952,
+      "y_pos": 1074,
+      "text": "Phương 2:",
+      "confidence": 0.8331535241820596
+    },
+    {
+      "type": "text",
+      "img_path": "p0471_002_text.png",
+      "bbox": [
+        [
+          334,
+          1159
+        ],
+        [
+          2358,
+          1159
+        ],
+        [
+          2358,
+          1285
+        ],
+        [
+          334,
+          1285
+        ]
+      ],
+      "score": 0.9562234878540039,
+      "y_pos": 1159,
+      "text": "Từ hố lõm dưới ngực đến rốn có một đường gân xanh, dùng điếu ngải cứu từ đầu trên\nđến dầu dưới gân xanh, làm đi làm lại đến khi nào gân xanh tiêu mất thì dừng.",
+      "confidence": 0.999802721120316
+    },
+    {
+      "type": "text",
+      "img_path": "p0471_007_text.png",
+      "bbox": [
+        [
+          282,
+          1325
+        ],
+        [
+          2150,
+          1325
+        ],
+        [
+          2150,
+          1379
+        ],
+        [
+          282,
+          1379
+        ]
+      ],
+      "score": 0.8904048204421997,
+      "y_pos": 1325,
+      "text": "Giảng nghĩa của phương: Cả hai phương đều dùng ôn dương khử tà hàn ở bụng.",
+      "confidence": 0.9969132644565482
+    },
+    {
+      "type": "number",
+      "img_path": "p0471_008_number.png",
+      "bbox": [
+        [
+          2304,
+          3300
+        ],
+        [
+          2352,
+          3300
+        ],
+        [
+          2352,
+          3335
+        ],
+        [
+          2304,
+          3335
+        ]
+      ],
+      "score": 0.8699018359184265,
+      "y_pos": 3300,
+      "text": "    \n    \n\n\n\n\n    \n    \n\n    \n    .\n    \n    ",
+      "confidence": 0.97219570123014
+    },
+    {
+      "type": "footer",
+      "img_path": "p0471_006_footer.png",
+      "bbox": [
+        [
+          229,
+          3310
+        ],
+        [
+          1324,
+          3310
+        ],
+        [
+          1324,
+          3355
+        ],
+        [
+          229,
+          3355
+        ]
+      ],
+      "score": 0.9109318852424622,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985551654167895
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0471.png"
+}

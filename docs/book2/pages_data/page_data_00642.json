@@ -1,0 +1,552 @@
+{
+  "page_num": 642,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0642_007_header.png",
+      "bbox": [
+        [
+          1674,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          196
+        ],
+        [
+          1674,
+          196
+        ]
+      ],
+      "score": 0.9272123575210571,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7277085834315845
+    },
+    {
+      "type": "header",
+      "img_path": "p0642_009_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.913714587688446,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "text",
+      "img_path": "p0642_016_text.png",
+      "bbox": [
+        [
+          372,
+          310
+        ],
+        [
+          588,
+          310
+        ],
+        [
+          588,
+          358
+        ],
+        [
+          372,
+          358
+        ]
+      ],
+      "score": 0.8387941122055054,
+      "y_pos": 310,
+      "text": "Như vây:",
+      "confidence": 0.9490770161151886
+    },
+    {
+      "type": "text",
+      "img_path": "p0642_020_text.png",
+      "bbox": [
+        [
+          445,
+          402
+        ],
+        [
+          1504,
+          402
+        ],
+        [
+          1504,
+          542
+        ],
+        [
+          445,
+          542
+        ]
+      ],
+      "score": 0.5966076850891113,
+      "y_pos": 402,
+      "text": "Ô3 bảng A, lần đo 1\n= Hệ số quy đổi chi trên\nÔ3' bảng A, lần đo 2",
+      "confidence": 0.9456167077069436
+    },
+    {
+      "type": "text",
+      "img_path": "p0642_008_text.png",
+      "bbox": [
+        [
+          372,
+          580
+        ],
+        [
+          1506,
+          580
+        ],
+        [
+          1506,
+          635
+        ],
+        [
+          372,
+          635
+        ]
+      ],
+      "score": 0.9196552634239197,
+      "y_pos": 580,
+      "text": "+ Hệ số quy đổi chi dưới: Tương tự như ở chi trên.",
+      "confidence": 0.9955483216505784
+    },
+    {
+      "type": "text",
+      "img_path": "p0642_017_text.png",
+      "bbox": [
+        [
+          373,
+          676
+        ],
+        [
+          588,
+          676
+        ],
+        [
+          588,
+          726
+        ],
+        [
+          373,
+          726
+        ]
+      ],
+      "score": 0.8380152583122253,
+      "y_pos": 676,
+      "text": "Như vậy:",
+      "confidence": 0.9576221466064453
+    },
+    {
+      "type": "text",
+      "img_path": "p0642_018_text.png",
+      "bbox": [
+        [
+          432,
+          778
+        ],
+        [
+          1524,
+          778
+        ],
+        [
+          1524,
+          917
+        ],
+        [
+          432,
+          917
+        ]
+      ],
+      "score": 0.719416618347168,
+      "y_pos": 778,
+      "text": "Ô3 bảng A, lần đo 1\n= Hệ số quy đổi chi dưới\nÔ3' bảng A, lần đo 2",
+      "confidence": 0.9258218638831309
+    },
+    {
+      "type": "text",
+      "img_path": "p0642_001_text.png",
+      "bbox": [
+        [
+          278,
+          945
+        ],
+        [
+          2359,
+          945
+        ],
+        [
+          2359,
+          1283
+        ],
+        [
+          278,
+          1283
+        ]
+      ],
+      "score": 0.9825477004051208,
+      "y_pos": 945,
+      "text": "Quy đổi số tương quan của lần đo sau: bằng cách lấy số tương quan của lần đo sau nhân\nvới hệ số quy đổi số tương quan nêu trên. Do số tương quan có mang dấu (là số đại số) nên\nsố tương quan đã quy đổi cũng mang dấu. <b>Số tương quan lần đo sau đã quy đổi</b> này\nmang ý nghĩa là số tương quan của lần đo sau trong điều kiện các yếu tố bên ngoài đã\ntương đồng với lần đo trước.",
+      "confidence": 0.9929022291578414
+    },
+    {
+      "type": "text",
+      "img_path": "p0642_000_text.png",
+      "bbox": [
+        [
+          280,
+          1321
+        ],
+        [
+          2359,
+          1321
+        ],
+        [
+          2359,
+          1803
+        ],
+        [
+          280,
+          1803
+        ]
+      ],
+      "score": 0.9871208071708679,
+      "y_pos": 1321,
+      "text": "Số tương quan lần đo sau đã quy đổi là số để so sánh với số tương quan của lần đo\ntrước nhằm nhận biết hoạt động công năng của từng tạng phủ tăng hay giảm bao nhiêu.\nPhép so sánh ở đây được thực hiện bằng một phép trừ đại số, do các số tương quan là các\nsố đại số (có mang dấu), lấy số tương quan đã được quy đổi trừ lần đo trước theo đúng\nchuẩn mực của đại số học. Kết quả tính được là một con số cụ thể có mang dấu, nếu là dấu\n+ nghĩa là hoạt động của công năng tạng phủ tăng, ngược lại nếu là dấu – nghĩa là hoạt\nđộng của công năng tạng phủ giảm.",
+      "confidence": 0.9989958264575952
+    },
+    {
+      "type": "text",
+      "img_path": "p0642_003_text.png",
+      "bbox": [
+        [
+          279,
+          1839
+        ],
+        [
+          2360,
+          1839
+        ],
+        [
+          2360,
+          2035
+        ],
+        [
+          279,
+          2035
+        ]
+      ],
+      "score": 0.9771432876586914,
+      "y_pos": 1839,
+      "text": "Phép so sánh định lượng mức độ tăng hay giảm của công năng tạng phủ được dùng để\nđánh giá hiệu quả điều trị của phác đồ điều trị, của từng phương dược hay phương huyệt\nđiều trị, hay đánh giá được tác động, hiệu lực của các tác nhân thí nghiệm.",
+      "confidence": 0.9994921805845459
+    },
+    {
+      "type": "text",
+      "img_path": "p0642_004_text.png",
+      "bbox": [
+        [
+          281,
+          2074
+        ],
+        [
+          2357,
+          2074
+        ],
+        [
+          2357,
+          2198
+        ],
+        [
+          281,
+          2198
+        ]
+      ],
+      "score": 0.9663198590278625,
+      "y_pos": 2074,
+      "text": "Chúng ta có thể thực hiện việc lượng giá hoạt động công năng tạng phủ thông qua Bảng\nlượng giá hoạt động công năng tạng phủ (gọi là bảng D) như mẫu ở các ví dụ sau.",
+      "confidence": 0.9981729791462507
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0642_012_paragraph_title.png",
+      "bbox": [
+        [
+          223,
+          2236
+        ],
+        [
+          1584,
+          2236
+        ],
+        [
+          1584,
+          2289
+        ],
+        [
+          223,
+          2289
+        ]
+      ],
+      "score": 0.8743971586227417,
+      "y_pos": 2236,
+      "text": "C. Về các bảng lượng giá hoạt động công năng tạng phủ",
+      "confidence": 0.99892122853886
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0642_013_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2329
+        ],
+        [
+          455,
+          2329
+        ],
+        [
+          455,
+          2378
+        ],
+        [
+          226,
+          2378
+        ]
+      ],
+      "score": 0.8708274960517883,
+      "y_pos": 2329,
+      "text": "1. Ví du 1",
+      "confidence": 0.9199192325274149
+    },
+    {
+      "type": "text",
+      "img_path": "p0642_002_text.png",
+      "bbox": [
+        [
+          275,
+          2418
+        ],
+        [
+          2360,
+          2418
+        ],
+        [
+          2360,
+          2613
+        ],
+        [
+          275,
+          2613
+        ]
+      ],
+      "score": 0.9791024327278137,
+      "y_pos": 2418,
+      "text": "Phân tích định lượng mức độ tăng giảm hoạt động công năng tạng phủ trước và sau khi ấn\nday huyệt, ở đối tượng thí nghiệm là bác sĩ Nguyễn Văn Th., các số liệu chỉ số nhiệt kinh lạc\nlấy ở phần các ví dụ về diễn biến chỉ số nhiệt kinh lạc, trang 850.",
+      "confidence": 0.9996424981017338
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0642_019_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          2654
+        ],
+        [
+          1416,
+          2654
+        ],
+        [
+          1416,
+          2706
+        ],
+        [
+          284,
+          2706
+        ]
+      ],
+      "score": 0.6242529153823853,
+      "y_pos": 2654,
+      "text": "Bảng lượng giá hoạt động công năng tạng phủ",
+      "confidence": 0.9988554994265239
+    },
+    {
+      "type": "text",
+      "img_path": "p0642_006_text.png",
+      "bbox": [
+        [
+          284,
+          2743
+        ],
+        [
+          1299,
+          2743
+        ],
+        [
+          1299,
+          2796
+        ],
+        [
+          284,
+          2796
+        ]
+      ],
+      "score": 0.9303945899009705,
+      "y_pos": 2743,
+      "text": "Tên người lượng giá: Bác sĩ Nguyễn Văn Th.",
+      "confidence": 0.9996208385987715
+    },
+    {
+      "type": "text",
+      "img_path": "p0642_005_text.png",
+      "bbox": [
+        [
+          281,
+          2834
+        ],
+        [
+          2209,
+          2834
+        ],
+        [
+          2209,
+          2890
+        ],
+        [
+          281,
+          2890
+        ]
+      ],
+      "score": 0.9318598508834839,
+      "y_pos": 2834,
+      "text": "Tác nhân làm thay đổi hoạt động của công năng tạng phủ: Trước và sau ấn day huyệt",
+      "confidence": 0.9996914734323341
+    },
+    {
+      "type": "text",
+      "img_path": "p0642_015_text.png",
+      "bbox": [
+        [
+          281,
+          2924
+        ],
+        [
+          1175,
+          2924
+        ],
+        [
+          1175,
+          2980
+        ],
+        [
+          281,
+          2980
+        ]
+      ],
+      "score": 0.8514666557312012,
+      "y_pos": 2924,
+      "text": "Hệ số quy đổi chi trên = 0,7 : 0,4 = 1,75",
+      "confidence": 0.9923073233560075
+    },
+    {
+      "type": "text",
+      "img_path": "p0642_011_text.png",
+      "bbox": [
+        [
+          283,
+          3016
+        ],
+        [
+          1166,
+          3016
+        ],
+        [
+          1166,
+          3072
+        ],
+        [
+          283,
+          3072
+        ]
+      ],
+      "score": 0.8746886849403381,
+      "y_pos": 3016,
+      "text": "Hệ số quy đổi chi dưới = 1,4 : 1,0 = 1,4",
+      "confidence": 0.9922376729193187
+    },
+    {
+      "type": "number",
+      "img_path": "p0642_014_number.png",
+      "bbox": [
+        [
+          2305,
+          3337
+        ],
+        [
+          2354,
+          3337
+        ],
+        [
+          2354,
+          3374
+        ],
+        [
+          2305,
+          3374
+        ]
+      ],
+      "score": 0.8627042174339294,
+      "y_pos": 3337,
+      "text": "    \n    \n\n\n\n\n    \n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0642_010_footer.png",
+      "bbox": [
+        [
+          228,
+          3339
+        ],
+        [
+          1322,
+          3339
+        ],
+        [
+          1322,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9049740433692932,
+      "y_pos": 3339,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9308746232176727
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0642.png"
+}

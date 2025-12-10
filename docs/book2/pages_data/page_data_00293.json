@@ -1,0 +1,214 @@
+{
+  "page_num": 293,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0293_001_header.png",
+      "bbox": [
+        [
+          1609,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1609,
+          202
+        ]
+      ],
+      "score": 0.9203193783760071,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7766122821541059
+    },
+    {
+      "type": "header",
+      "img_path": "p0293_002_header.png",
+      "bbox": [
+        [
+          230,
+          159
+        ],
+        [
+          1346,
+          159
+        ],
+        [
+          1346,
+          202
+        ],
+        [
+          230,
+          202
+        ]
+      ],
+      "score": 0.9104499220848083,
+      "y_pos": 159,
+      "text": "CÁC BẢNG TRA CỦU HUYỆT LIÊN QUAN TRONG CHÂM CỦU",
+      "confidence": 0.6763339066992
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0293_006_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          287
+        ],
+        [
+          1876,
+          287
+        ],
+        [
+          1876,
+          345
+        ],
+        [
+          225,
+          345
+        ]
+      ],
+      "score": 0.8005507588386536,
+      "y_pos": 287,
+      "text": "NGÀY GIỜ VÀ HUYẾT MỞ THEO PHÉP \"TÝ NGO LƯU TRÚ\": Bảng 21",
+      "confidence": 0.9950974984415646
+    },
+    {
+      "type": "text",
+      "img_path": "p0293_007_text.png",
+      "bbox": [
+        [
+          285,
+          386
+        ],
+        [
+          1633,
+          386
+        ],
+        [
+          1633,
+          440
+        ],
+        [
+          285,
+          440
+        ]
+      ],
+      "score": 0.7262334823608398,
+      "y_pos": 386,
+      "text": "Dùng để chữa những bệnh tăng giảm chứng theo ngày can.",
+      "confidence": 0.9997734980923789
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0293_004_figure_title.png",
+      "bbox": [
+        [
+          610,
+          468
+        ],
+        [
+          1977,
+          468
+        ],
+        [
+          1977,
+          518
+        ],
+        [
+          610,
+          518
+        ]
+      ],
+      "score": 0.841975748538971,
+      "y_pos": 468,
+      "text": "Bảng 21 - Bảng ngày giờ và huyệt mở theo phép \"Tý ngọ lưu trú\":",
+      "confidence": 0.9970919792468731
+    },
+    {
+      "type": "table",
+      "img_path": "p0293_000_table.png",
+      "bbox": [
+        [
+          330,
+          567
+        ],
+        [
+          2262,
+          567
+        ],
+        [
+          2262,
+          2922
+        ],
+        [
+          330,
+          2922
+        ]
+      ],
+      "score": 0.9916184544563293,
+      "y_pos": 567,
+      "text": "Ngày giờ    Giáp    Át    Bính    <b>Đinh</b>    Mậu\nΤý    Tiền cốc    Tam gian\nUyển cốc\nSửu    Hành gian    Thái bạch    Phục lưu\nThái xung\nDần    Khâu như    Côn lôn\nHãm cốc\nMão    Thần môn    Kinh cừ    Khúc tuyền\nThái khê\nĐại lăng\nThìn    Dương khê    Dương lăng\ntuyền\nΤý    Thương khâu    Âm cốc    Nap\nĐại lăng\nNgọ    Uỷ trung    Nạp    Lệ đoài\nTrung chử\nMùi    Xích trạch    Nạp    Thiếu xung\nLao cung\nThân    Nạp    Thiếu trạch    Nhị gian\nDịch môn\nDậu    Nap    Đại đôn    Đại đô\nTrung xung\nTuất    Khiếu âm    Nội đình    Thúc cốt\nXung dương\nΗợi    Thiếu phủ    Thái uyên\nThần môn",
+      "confidence": 0.9218674100870489
+    },
+    {
+      "type": "footer",
+      "img_path": "p0293_003_footer.png",
+      "bbox": [
+        [
+          230,
+          3334
+        ],
+        [
+          1434,
+          3334
+        ],
+        [
+          1434,
+          3387
+        ],
+        [
+          230,
+          3387
+        ]
+      ],
+      "score": 0.9045959115028381,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9984661992990745
+    },
+    {
+      "type": "number",
+      "img_path": "p0293_005_number.png",
+      "bbox": [
+        [
+          2330,
+          3340
+        ],
+        [
+          2355,
+          3340
+        ],
+        [
+          2355,
+          3373
+        ],
+        [
+          2330,
+          3373
+        ]
+      ],
+      "score": 0.8077004551887512,
+      "y_pos": 3340,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0293.png"
+}

@@ -1,0 +1,708 @@
+{
+  "page_num": 183,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0183_013_text.png",
+      "bbox": [
+        [
+          463,
+          452
+        ],
+        [
+          1013,
+          452
+        ],
+        [
+          1013,
+          500
+        ],
+        [
+          463,
+          500
+        ]
+      ],
+      "score": 0.9001337885856628,
+      "y_pos": 452,
+      "text": "+ Can hỏa thương viêm",
+      "confidence": 0.9755336098048998
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_011_text.png",
+      "bbox": [
+        [
+          463,
+          534
+        ],
+        [
+          874,
+          534
+        ],
+        [
+          874,
+          581
+        ],
+        [
+          463,
+          581
+        ]
+      ],
+      "score": 0.9027590751647949,
+      "y_pos": 534,
+      "text": "+ Can Vi bất hòa",
+      "confidence": 0.9469110237227546
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_024_text.png",
+      "bbox": [
+        [
+          462,
+          616
+        ],
+        [
+          1200,
+          616
+        ],
+        [
+          1200,
+          668
+        ],
+        [
+          462,
+          668
+        ]
+      ],
+      "score": 0.8692488670349121,
+      "y_pos": 616,
+      "text": "NHÓM BÊNH CHỨNG PHỦ ĐỞM",
+      "confidence": 0.9976337337493897
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_000_text.png",
+      "bbox": [
+        [
+          341,
+          701
+        ],
+        [
+          2125,
+          701
+        ],
+        [
+          2125,
+          983
+        ],
+        [
+          341,
+          983
+        ]
+      ],
+      "score": 0.9825909733772278,
+      "y_pos": 701,
+      "text": "Bênh chứng của Phủ Đởm do nội nhân hoặc do nguyên nhân khác thường\nthấy do Can âm hư. Chức năng Can chủ sơ tiết bị ảnh hưởng do đó tình chí\nkhông thoải mái, dễ kinh sợ. Đồng thời Đởm cũng bị ảnh hưởng theo, Đởm khí\như sinh ra chứng nghi ngờ, dễ lo lắng. Đây cũng là những triệu chứng thường\ngặp trong Đởm khí bất túc hay Đởm hư.",
+      "confidence": 0.998490793724395
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0183_002_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1042
+        ],
+        [
+          1043,
+          1042
+        ],
+        [
+          1043,
+          1090
+        ],
+        [
+          344,
+          1090
+        ]
+      ],
+      "score": 0.9292021989822388,
+      "y_pos": 1042,
+      "text": "2.1. Bênh chứng Can âm hư",
+      "confidence": 0.8668982960559704
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0183_003_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          1140
+        ],
+        [
+          818,
+          1140
+        ],
+        [
+          818,
+          1189
+        ],
+        [
+          343,
+          1189
+        ]
+      ],
+      "score": 0.9235314726829529,
+      "y_pos": 1140,
+      "text": "2.1.1. Bệnh nguyên",
+      "confidence": 0.9595682442188262
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_007_text.png",
+      "bbox": [
+        [
+          405,
+          1235
+        ],
+        [
+          1641,
+          1235
+        ],
+        [
+          1641,
+          1288
+        ],
+        [
+          405,
+          1288
+        ]
+      ],
+      "score": 0.9168906807899475,
+      "y_pos": 1235,
+      "text": "- Do bệnh lâu ngày của Can gây tổn thương phần âm.",
+      "confidence": 0.9866697197923293
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0183_004_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1345
+        ],
+        [
+          746,
+          1345
+        ],
+        [
+          746,
+          1392
+        ],
+        [
+          344,
+          1392
+        ]
+      ],
+      "score": 0.9224550724029541,
+      "y_pos": 1345,
+      "text": "2.1.2. Bênh sinh",
+      "confidence": 0.9435605671670702
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_009_text.png",
+      "bbox": [
+        [
+          462,
+          1440
+        ],
+        [
+          1426,
+          1440
+        ],
+        [
+          1426,
+          1492
+        ],
+        [
+          462,
+          1492
+        ]
+      ],
+      "score": 0.9052820801734924,
+      "y_pos": 1440,
+      "text": "Chứng trạng xuất hiện có những đặc điểm",
+      "confidence": 0.9957007402327003
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_001_text.png",
+      "bbox": [
+        [
+          406,
+          1529
+        ],
+        [
+          2123,
+          1529
+        ],
+        [
+          2123,
+          1640
+        ],
+        [
+          406,
+          1640
+        ]
+      ],
+      "score": 0.944088339805603,
+      "y_pos": 1529,
+      "text": "- Ở Can phận: đau đầu vùng đỉnh, mắt mờ, nhìn kém, hoa mắt, chóng mặt,\nđau tức hông sườn,...",
+      "confidence": 0.9953477214571935
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_018_text.png",
+      "bbox": [
+        [
+          406,
+          1671
+        ],
+        [
+          2064,
+          1671
+        ],
+        [
+          2064,
+          1725
+        ],
+        [
+          406,
+          1725
+        ]
+      ],
+      "score": 0.8933922052383423,
+      "y_pos": 1671,
+      "text": "- Âm hư sinh nội nhiệt: đạo hãn, sốt về chiều, cảm giác nóng, mạch tế sác...",
+      "confidence": 0.9892947654693555
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0183_005_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1783
+        ],
+        [
+          1050,
+          1783
+        ],
+        [
+          1050,
+          1832
+        ],
+        [
+          344,
+          1832
+        ]
+      ],
+      "score": 0.9218798875808716,
+      "y_pos": 1783,
+      "text": "2.1.3. Triệu chứng lâm sàng",
+      "confidence": 0.9975492748720892
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_019_text.png",
+      "bbox": [
+        [
+          459,
+          1879
+        ],
+        [
+          1775,
+          1879
+        ],
+        [
+          1775,
+          1930
+        ],
+        [
+          459,
+          1930
+        ]
+      ],
+      "score": 0.8932790160179138,
+      "y_pos": 1879,
+      "text": "Đau đầu, hoa mắt, chóng mặt, nhìn kém, thị lực giảm sút.",
+      "confidence": 0.9939948936988567
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_016_text.png",
+      "bbox": [
+        [
+          405,
+          1964
+        ],
+        [
+          1670,
+          1964
+        ],
+        [
+          1670,
+          2015
+        ],
+        [
+          405,
+          2015
+        ]
+      ],
+      "score": 0.898427426815033,
+      "y_pos": 1964,
+      "text": "- Sốt về chiều, người có cảm giác nóng, ra mồ hôi trộm.",
+      "confidence": 0.9923082746957478
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_014_text.png",
+      "bbox": [
+        [
+          405,
+          2045
+        ],
+        [
+          1979,
+          2045
+        ],
+        [
+          1979,
+          2099
+        ],
+        [
+          405,
+          2099
+        ]
+      ],
+      "score": 0.8997718691825867,
+      "y_pos": 2045,
+      "text": "- Có thể có rối loạn kinh nguyệt, đau vùng hông sườn, đau thắt lưng.",
+      "confidence": 0.9932781347206661
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_010_text.png",
+      "bbox": [
+        [
+          408,
+          2131
+        ],
+        [
+          1229,
+          2131
+        ],
+        [
+          1229,
+          2180
+        ],
+        [
+          408,
+          2180
+        ]
+      ],
+      "score": 0.9041658043861389,
+      "y_pos": 2131,
+      "text": "- Lưỡi đỏ, bêu. Mach tế, sác, vô lưc.",
+      "confidence": 0.9805171642547998
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0183_006_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          2239
+        ],
+        [
+          1209,
+          2239
+        ],
+        [
+          1209,
+          2289
+        ],
+        [
+          344,
+          2289
+        ]
+      ],
+      "score": 0.9205471873283386,
+      "y_pos": 2239,
+      "text": "2.1.4. Bệnh cảnh Tây y thường gặp",
+      "confidence": 0.9851991942950657
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_015_text.png",
+      "bbox": [
+        [
+          462,
+          2337
+        ],
+        [
+          803,
+          2337
+        ],
+        [
+          803,
+          2386
+        ],
+        [
+          462,
+          2386
+        ]
+      ],
+      "score": 0.898704469203949,
+      "y_pos": 2337,
+      "text": "Tăng huyết áp",
+      "confidence": 0.9585254987080892
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_012_text.png",
+      "bbox": [
+        [
+          407,
+          2420
+        ],
+        [
+          1151,
+          2420
+        ],
+        [
+          1151,
+          2471
+        ],
+        [
+          407,
+          2471
+        ]
+      ],
+      "score": 0.9019988179206848,
+      "y_pos": 2420,
+      "text": "- Rối loạn thần kinh chức năng.",
+      "confidence": 0.7383349573973453
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_020_text.png",
+      "bbox": [
+        [
+          410,
+          2503
+        ],
+        [
+          956,
+          2503
+        ],
+        [
+          956,
+          2554
+        ],
+        [
+          410,
+          2554
+        ]
+      ],
+      "score": 0.8917338252067566,
+      "y_pos": 2503,
+      "text": "- Rối loan kinh nguyệt.",
+      "confidence": 0.9398262357711792
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0183_008_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          2613
+        ],
+        [
+          709,
+          2613
+        ],
+        [
+          709,
+          2661
+        ],
+        [
+          343,
+          2661
+        ]
+      ],
+      "score": 0.908906102180481,
+      "y_pos": 2613,
+      "text": "2.1.5. Pháp tri",
+      "confidence": 0.946385639555314
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_021_text.png",
+      "bbox": [
+        [
+          463,
+          2708
+        ],
+        [
+          1260,
+          2708
+        ],
+        [
+          1260,
+          2761
+        ],
+        [
+          463,
+          2761
+        ]
+      ],
+      "score": 0.8827741146087646,
+      "y_pos": 2708,
+      "text": "Có thể sử dụng những pháp trị sau",
+      "confidence": 0.9994074804442269
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_022_text.png",
+      "bbox": [
+        [
+          410,
+          2791
+        ],
+        [
+          850,
+          2791
+        ],
+        [
+          850,
+          2840
+        ],
+        [
+          410,
+          2840
+        ]
+      ],
+      "score": 0.877984881401062,
+      "y_pos": 2791,
+      "text": "Tư bổ Can Thân.",
+      "confidence": 0.9800145766314339
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_023_text.png",
+      "bbox": [
+        [
+          408,
+          2876
+        ],
+        [
+          1237,
+          2876
+        ],
+        [
+          1237,
+          2924
+        ],
+        [
+          408,
+          2924
+        ]
+      ],
+      "score": 0.8707841634750366,
+      "y_pos": 2876,
+      "text": "    Dưỡng âm thanh nhiệt, điều kinh.",
+      "confidence": 0.9712994773598278
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_025_text.png",
+      "bbox": [
+        [
+          463,
+          2959
+        ],
+        [
+          888,
+          2959
+        ],
+        [
+          888,
+          3009
+        ],
+        [
+          463,
+          3009
+        ]
+      ],
+      "score": 0.8266196250915527,
+      "y_pos": 2959,
+      "text": "Tư âm dưỡng Can.",
+      "confidence": 0.9880367285675473
+    },
+    {
+      "type": "number",
+      "img_path": "p0183_026_number.png",
+      "bbox": [
+        [
+          352,
+          3108
+        ],
+        [
+          435,
+          3108
+        ],
+        [
+          435,
+          3148
+        ],
+        [
+          352,
+          3148
+        ]
+      ],
+      "score": 0.7570925354957581,
+      "y_pos": 3108,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0183_017_footer.png",
+      "bbox": [
+        [
+          292,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3365
+        ],
+        [
+          292,
+          3365
+        ]
+      ],
+      "score": 0.894078254699707,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8746405277933393
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0183.png"
+}

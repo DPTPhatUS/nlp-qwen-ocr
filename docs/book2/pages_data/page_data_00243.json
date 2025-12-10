@@ -1,0 +1,420 @@
+{
+  "page_num": 243,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0243_006_header.png",
+      "bbox": [
+        [
+          1608,
+          142
+        ],
+        [
+          2374,
+          142
+        ],
+        [
+          2374,
+          202
+        ],
+        [
+          1608,
+          202
+        ]
+      ],
+      "score": 0.9268087148666382,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.8076146773639179
+    },
+    {
+      "type": "header",
+      "img_path": "p0243_009_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9181841015815735,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0243_015_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          369
+        ],
+        [
+          884,
+          369
+        ],
+        [
+          884,
+          422
+        ],
+        [
+          228,
+          422
+        ]
+      ],
+      "score": 0.8313516974449158,
+      "y_pos": 369,
+      "text": "168. Than lập (Dương uỷ 2)",
+      "confidence": 0.9721674025058746
+    },
+    {
+      "type": "image",
+      "img_path": "p0243_000_image.png",
+      "bbox": [
+        [
+          760,
+          482
+        ],
+        [
+          1773,
+          482
+        ],
+        [
+          1773,
+          1834
+        ],
+        [
+          760,
+          1834
+        ]
+      ],
+      "score": 0.9824510216712952,
+      "y_pos": 482
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0243_011_figure_title.png",
+      "bbox": [
+        [
+          1193,
+          1914
+        ],
+        [
+          1394,
+          1914
+        ],
+        [
+          1394,
+          1955
+        ],
+        [
+          1193,
+          1955
+        ]
+      ],
+      "score": 0.9025699496269226,
+      "y_pos": 1914,
+      "text": "Hình    120",
+      "confidence": 0.7942219480872155
+    },
+    {
+      "type": "text",
+      "img_path": "p0243_001_text.png",
+      "bbox": [
+        [
+          285,
+          2000
+        ],
+        [
+          2161,
+          2000
+        ],
+        [
+          2161,
+          2142
+        ],
+        [
+          285,
+          2142
+        ]
+      ],
+      "score": 0.9655771851539612,
+      "y_pos": 2000,
+      "text": "Vị trí: Cạnh ngoài phía trên xương bánh chè lên bằng bề ngang 5 ngón tay. (H.120)\n<b>Cách châm:</b> Châm đứng kim, sâu 1 – 2 thốn.",
+      "confidence": 0.98441548729278
+    },
+    {
+      "type": "text",
+      "img_path": "p0243_008_text.png",
+      "bbox": [
+        [
+          287,
+          2185
+        ],
+        [
+          1010,
+          2185
+        ],
+        [
+          1010,
+          2234
+        ],
+        [
+          287,
+          2234
+        ]
+      ],
+      "score": 0.9186611175537109,
+      "y_pos": 2185,
+      "text": "<i>Chủ tri:</i> Chi dưới tê bai, bai liêt.",
+      "confidence": 0.9775839149951935
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0243_012_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          2275
+        ],
+        [
+          963,
+          2275
+        ],
+        [
+          963,
+          2327
+        ],
+        [
+          228,
+          2327
+        ]
+      ],
+      "score": 0.9019489884376526,
+      "y_pos": 2275,
+      "text": "169. Than khang (Dương uỷ 3)",
+      "confidence": 0.9318398793538412
+    },
+    {
+      "type": "text",
+      "img_path": "p0243_002_text.png",
+      "bbox": [
+        [
+          284,
+          2366
+        ],
+        [
+          2161,
+          2366
+        ],
+        [
+          2161,
+          2509
+        ],
+        [
+          284,
+          2509
+        ]
+      ],
+      "score": 0.9500815272331238,
+      "y_pos": 2366,
+      "text": "Vị trí: Cạnh ngoài phía trên xương bánh chè lên bằng bề ngang 7 ngón tay. (H.120)\n<b>Cách châm:</b> Châm đứng kim, sâu 1 – 2 thốn.",
+      "confidence": 0.9841397327072968
+    },
+    {
+      "type": "text",
+      "img_path": "p0243_003_text.png",
+      "bbox": [
+        [
+          286,
+          2551
+        ],
+        [
+          1035,
+          2551
+        ],
+        [
+          1035,
+          2601
+        ],
+        [
+          286,
+          2601
+        ]
+      ],
+      "score": 0.9333904981613159,
+      "y_pos": 2551,
+      "text": "Chủ tri: Chi dưới bai liệt, bai liệt.",
+      "confidence": 0.9595554165351086
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0243_013_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          2643
+        ],
+        [
+          591,
+          2643
+        ],
+        [
+          591,
+          2693
+        ],
+        [
+          228,
+          2693
+        ]
+      ],
+      "score": 0.8994147777557373,
+      "y_pos": 2643,
+      "text": "170. Tứ cường",
+      "confidence": 0.9846612691879273
+    },
+    {
+      "type": "text",
+      "img_path": "p0243_007_text.png",
+      "bbox": [
+        [
+          288,
+          2734
+        ],
+        [
+          1767,
+          2734
+        ],
+        [
+          1767,
+          2787
+        ],
+        [
+          288,
+          2787
+        ]
+      ],
+      "score": 0.9266179203987122,
+      "y_pos": 2734,
+      "text": "Vị trí: Chính giữa phía trên xương bánh chè lên 4, 5 thốn. (H.120)",
+      "confidence": 0.9915265177979189
+    },
+    {
+      "type": "text",
+      "img_path": "p0243_004_text.png",
+      "bbox": [
+        [
+          286,
+          2825
+        ],
+        [
+          1350,
+          2825
+        ],
+        [
+          1350,
+          2875
+        ],
+        [
+          286,
+          2875
+        ]
+      ],
+      "score": 0.932038426399231,
+      "y_pos": 2825,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 1 – 2,5 thôn.",
+      "confidence": 0.9720091718308469
+    },
+    {
+      "type": "text",
+      "img_path": "p0243_005_text.png",
+      "bbox": [
+        [
+          287,
+          2919
+        ],
+        [
+          1007,
+          2919
+        ],
+        [
+          1007,
+          2968
+        ],
+        [
+          287,
+          2968
+        ]
+      ],
+      "score": 0.9274876117706299,
+      "y_pos": 2919,
+      "text": "Chủ tri: Chi dưới bai liệt, tê liệt.",
+      "confidence": 0.9648013256098095
+    },
+    {
+      "type": "footer",
+      "img_path": "p0243_010_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9171608090400696,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0243_014_number.png",
+      "bbox": [
+        [
+          2279,
+          3338
+        ],
+        [
+          2350,
+          3338
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2279,
+          3377
+        ]
+      ],
+      "score": 0.8861050009727478,
+      "y_pos": 3338,
+      "text": "    \n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0243.png"
+}

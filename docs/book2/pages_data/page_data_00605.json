@@ -1,0 +1,240 @@
+{
+  "page_num": 605,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0605_004_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9222191572189331,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.784148439410187
+    },
+    {
+      "type": "header",
+      "img_path": "p0605_005_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1172,
+          152
+        ],
+        [
+          1172,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9144183397293091,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BÁNG NHIỆT ĐÔ KINH LẠC",
+      "confidence": 0.9933017049080286
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0605_006_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          308
+        ],
+        [
+          1765,
+          308
+        ],
+        [
+          1765,
+          360
+        ],
+        [
+          224,
+          360
+        ]
+      ],
+      "score": 0.9096590876579285,
+      "y_pos": 308,
+      "text": "3. Cơ sở biện chứng của phép chấn bệnh bằng nhiệt độ kinh lạc",
+      "confidence": 0.9936634112918188
+    },
+    {
+      "type": "text",
+      "img_path": "p0605_000_text.png",
+      "bbox": [
+        [
+          265,
+          400
+        ],
+        [
+          2361,
+          400
+        ],
+        [
+          2361,
+          880
+        ],
+        [
+          265,
+          880
+        ]
+      ],
+      "score": 0.9837470650672913,
+      "y_pos": 400,
+      "text": "Tứ chẩn của Đông y là một thành tựu có được từ quá trình thực nghiệm lâu đời của các y\ngia lỗi lạc phương Đông. Khi chẩn bệnh, người thầy thuốc luôn phải vận dụng tứ chẩn để\ntrên cơ sở những dữ liệu thu gom được ấy, tiến hành tổng hợp, phân tích, loại trừ, đạt đến\nxuyên qua các biện pháp, các hiện tượng để tìm bản chất, tìm mâu thuẫn chủ yếu, như thế\nmới đi đến quyết định phương hướng và phép chữa bệnh hiệu quả. Cái bản chất, cái mâu\nthuẫn chủ yếu đó chính là sự mất điều hoà âm dương trong con người, có cơ sở từ sự\nchênh lệch mức độ hoạt động của các công năng tạng phủ gây nên.",
+      "confidence": 0.999736311317161
+    },
+    {
+      "type": "text",
+      "img_path": "p0605_002_text.png",
+      "bbox": [
+        [
+          277,
+          914
+        ],
+        [
+          2360,
+          914
+        ],
+        [
+          2360,
+          1180
+        ],
+        [
+          277,
+          1180
+        ]
+      ],
+      "score": 0.9764226675033569,
+      "y_pos": 914,
+      "text": "Con đường tiếp cận hiểu biết đúng về mức độ hoạt công năng của các tạng phủ thông qua\ntứ chẩn là quá dài và phức tạp, bởi những biểu hiện chứng trạng thu nhận được rất phong\nphú và đa dạng, lại đòi hỏi người thầy thuốc cần có nhiều kinh nghiệm bản thân, đã được\ntiếp xúc với nhiều người bệnh.",
+      "confidence": 0.9994050827129701
+    },
+    {
+      "type": "text",
+      "img_path": "p0605_001_text.png",
+      "bbox": [
+        [
+          281,
+          1219
+        ],
+        [
+          2360,
+          1219
+        ],
+        [
+          2360,
+          1485
+        ],
+        [
+          281,
+          1485
+        ]
+      ],
+      "score": 0.9776784181594849,
+      "y_pos": 1219,
+      "text": "Trong khi ấy, một quy luật đơn giản của vạn vật là “công sinh nhiệt” cũng được thể hiện\ntrong con người, tức là khi công năng tạng phủ hoạt động tăng thì nhiệt tăng, khi công năng\ntạng phủ hoạt động giảm thì nhiệt giảm, sự tăng giảm nhiệt độ ấy thể hiện qua tỉnh huyệt\nbằng quan hệ kinh lạc.",
+      "confidence": 0.9970620507038273
+    },
+    {
+      "type": "text",
+      "img_path": "p0605_003_text.png",
+      "bbox": [
+        [
+          280,
+          1523
+        ],
+        [
+          2361,
+          1523
+        ],
+        [
+          2361,
+          1722
+        ],
+        [
+          280,
+          1722
+        ]
+      ],
+      "score": 0.9680469632148743,
+      "y_pos": 1523,
+      "text": "Dùng nhiệt kế điện tử để đo nhiệt độ tỉnh huyệt, thông qua nhiệt độ của từng tỉnh huyệt\nđể đánh giá mức độ hoạt động công năng các tạng phủ khác nhau, tức là ta đã đi trên\ncon đường gần nhất, trực tiếp nhất đến bản chất của hiện tượng bệnh tật trong con người.",
+      "confidence": 0.9997145106299516
+    },
+    {
+      "type": "number",
+      "img_path": "p0605_008_number.png",
+      "bbox": [
+        [
+          2329,
+          3338
+        ],
+        [
+          2354,
+          3338
+        ],
+        [
+          2354,
+          3374
+        ],
+        [
+          2329,
+          3374
+        ]
+      ],
+      "score": 0.8124356269836426,
+      "y_pos": 3338,
+      "text": "\n    \n\n\n\n\n    \n\n    ۰    \n    -\n    \n        ",
+      "confidence": 0.9476098619401455
+    },
+    {
+      "type": "footer",
+      "img_path": "p0605_007_footer.png",
+      "bbox": [
+        [
+          229,
+          3340
+        ],
+        [
+          1325,
+          3340
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.8975343108177185,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9989979435812752
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0605.png"
+}

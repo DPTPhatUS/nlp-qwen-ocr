@@ -1,0 +1,162 @@
+{
+  "page_num": 412,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0412_002_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1678,
+          196
+        ]
+      ],
+      "score": 0.917231559753418,
+      "y_pos": 142,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7456070706248283
+    },
+    {
+      "type": "header",
+      "img_path": "p0412_003_header.png",
+      "bbox": [
+        [
+          228,
+          146
+        ],
+        [
+          1094,
+          146
+        ],
+        [
+          1094,
+          197
+        ],
+        [
+          228,
+          197
+        ]
+      ],
+      "score": 0.9133056998252869,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SÀNG",
+      "confidence": 0.989194895539965
+    },
+    {
+      "type": "text",
+      "img_path": "p0412_000_text.png",
+      "bbox": [
+        [
+          223,
+          306
+        ],
+        [
+          2361,
+          306
+        ],
+        [
+          2361,
+          433
+        ],
+        [
+          223,
+          433
+        ]
+      ],
+      "score": 0.9470887184143066,
+      "y_pos": 306,
+      "text": "- Lâu cô tán bột 2 phân, Lâu suất tán bột 3 phân, Lượng đó uống 1 lần. (Lâu cô: dế chũi, Lâu\nsuất: dế mèn). Ngày một, hai lần, dùng vào chứng phù thũng nghiêm trọng.",
+      "confidence": 0.8890183252325821
+    },
+    {
+      "type": "text",
+      "img_path": "p0412_001_text.png",
+      "bbox": [
+        [
+          222,
+          468
+        ],
+        [
+          2358,
+          468
+        ],
+        [
+          2358,
+          594
+        ],
+        [
+          222,
+          594
+        ]
+      ],
+      "score": 0.9336581230163574,
+      "y_pos": 468,
+      "text": "- Dĩ nhân 5 đồng cân đến 1 lạng. Đậu nhỏ màu đỏ (Xích tiểu đậu) 1 đến 2 lạng, sắc với nước\nuống, <b>dùng vào tỳ hư phù thũng</b>.",
+      "confidence": 0.9902088304669221
+    },
+    {
+      "type": "number",
+      "img_path": "p0412_005_number.png",
+      "bbox": [
+        [
+          2307,
+          3334
+        ],
+        [
+          2357,
+          3334
+        ],
+        [
+          2357,
+          3371
+        ],
+        [
+          2307,
+          3371
+        ]
+      ],
+      "score": 0.8633632063865662,
+      "y_pos": 3334,
+      "text": "\n    \n    \n\n\n\n    \n\n    \n٠.    \n\n\n",
+      "confidence": 0.9742713189787335
+    },
+    {
+      "type": "footer",
+      "img_path": "p0412_004_footer.png",
+      "bbox": [
+        [
+          228,
+          3336
+        ],
+        [
+          1342,
+          3336
+        ],
+        [
+          1342,
+          3383
+        ],
+        [
+          228,
+          3383
+        ]
+      ],
+      "score": 0.900107741355896,
+      "y_pos": 3336,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.937709501329458
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0412.png"
+}

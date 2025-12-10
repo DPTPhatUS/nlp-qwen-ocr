@@ -1,0 +1,58 @@
+{
+  "page_num": 4,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0004_000_text.png",
+      "bbox": [
+        [
+          364,
+          297
+        ],
+        [
+          1424,
+          297
+        ],
+        [
+          1424,
+          644
+        ],
+        [
+          364,
+          644
+        ]
+      ],
+      "score": 0.7430612444877625,
+      "y_pos": 297,
+      "text": "Phế và đại trường\nThận và bàng quang\nX. ÔN NHIỆT KINH BIỆN CHỨNG LUẬN TRỊ\nVệ, khí, doanh, huyết biện chứng luận trị\nLục kinh biện chứng và tam tiêu biện chứng\nTóm tắt chung các loại biện chứng",
+      "confidence": 0.9875924746789542
+    },
+    {
+      "type": "text",
+      "img_path": "p0004_001_text.png",
+      "bbox": [
+        [
+          364,
+          2260
+        ],
+        [
+          789,
+          2260
+        ],
+        [
+          789,
+          2947
+        ],
+        [
+          364,
+          2947
+        ]
+      ],
+      "score": 0.7263034582138062,
+      "y_pos": 2260,
+      "text": "Cảm mao\nHo\nHen\nĐau đầu\nChoáng váng\nMất ngủ\nSay nắng\nHôn mê\nChoáng\nTrúng gió\nMiệng mắt méo lệch\nChứng giản",
+      "confidence": 0.8467710788152045
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0004.png"
+}

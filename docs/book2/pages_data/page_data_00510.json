@@ -1,0 +1,526 @@
+{
+  "page_num": 510,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0510_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2371,
+          144
+        ],
+        [
+          2371,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.923126757144928,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7566693045553707
+    },
+    {
+      "type": "header",
+      "img_path": "p0510_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.9270555973052979,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9977136671543121
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0510_004_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          324
+        ],
+        [
+          2059,
+          324
+        ],
+        [
+          2059,
+          386
+        ],
+        [
+          224,
+          386
+        ]
+      ],
+      "score": 0.633729100227356,
+      "y_pos": 324,
+      "text": "CÁC PHƯƠNG HUYẾT CHỮA TRỊ BỆNH CỦA 14 ĐƯỜNG KINH (851 phương)",
+      "confidence": 0.9952374564276801
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0510_005_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          415
+        ],
+        [
+          855,
+          415
+        ],
+        [
+          855,
+          476
+        ],
+        [
+          227,
+          476
+        ]
+      ],
+      "score": 0.6250919699668884,
+      "y_pos": 415,
+      "text": "Phần 1. BÊNH VÙNG ĐẦU",
+      "confidence": 0.8073029595872631
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0510_013_reference_content.png",
+      "bbox": [
+        [
+          231,
+          969
+        ],
+        [
+          1366,
+          969
+        ],
+        [
+          1366,
+          1030
+        ],
+        [
+          231,
+          1030
+        ]
+      ],
+      "score": 0.5263080596923828,
+      "y_pos": 969,
+      "text": "6.    Đầu phong: Bách hội, Thượng tinh, Hợp cốc.",
+      "confidence": 0.9797269333944176
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0510_018_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1061
+        ],
+        [
+          1180,
+          1061
+        ],
+        [
+          1180,
+          1121
+        ],
+        [
+          232,
+          1121
+        ]
+      ],
+      "score": 0.5071558952331543,
+      "y_pos": 1061,
+      "text": "7.    Đau đầu: Tam dương lạc, Phong trì.",
+      "confidence": 0.7940722844666905
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0510_019_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1151
+        ],
+        [
+          2089,
+          1151
+        ],
+        [
+          2089,
+          1214
+        ],
+        [
+          231,
+          1214
+        ]
+      ],
+      "score": 0.5028088688850403,
+      "y_pos": 1151,
+      "text": "8.    Đau đầu: Tứ độc, Phong trì thấu Phong trì bên kia, Thái dương thấu Suất cốc.",
+      "confidence": 0.9824662647950344
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0510_008_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1245
+        ],
+        [
+          1589,
+          1245
+        ],
+        [
+          1589,
+          1308
+        ],
+        [
+          232,
+          1308
+        ]
+      ],
+      "score": 0.5661135315895081,
+      "y_pos": 1245,
+      "text": "9. Đau đầu: Đồng tử liêu, Tán trúc, Phong trì, Dương phụ.",
+      "confidence": 0.987077949410778
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0510_017_reference_content.png",
+      "bbox": [
+        [
+          236,
+          1426
+        ],
+        [
+          1591,
+          1426
+        ],
+        [
+          1591,
+          1490
+        ],
+        [
+          236,
+          1490
+        ]
+      ],
+      "score": 0.5092849731445312,
+      "y_pos": 1426,
+      "text": "11. Đau đầu: Thông thiên, Thái dương, Phong trì, Hợp cốc.",
+      "confidence": 0.9993671896093983
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0510_014_reference_content.png",
+      "bbox": [
+        [
+          237,
+          1519
+        ],
+        [
+          1022,
+          1519
+        ],
+        [
+          1022,
+          1579
+        ],
+        [
+          237,
+          1579
+        ]
+      ],
+      "score": 0.5162451863288879,
+      "y_pos": 1519,
+      "text": "12. Đau đầu: Can du, Mệnh môn.",
+      "confidence": 0.9692713599652052
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0510_006_reference_content.png",
+      "bbox": [
+        [
+          237,
+          1609
+        ],
+        [
+          1549,
+          1609
+        ],
+        [
+          1549,
+          1673
+        ],
+        [
+          237,
+          1673
+        ]
+      ],
+      "score": 0.5788750648498535,
+      "y_pos": 1609,
+      "text": "13. Váng đầu mất ngủ: Phong long, An miên, Thần môn.",
+      "confidence": 0.9919860848674068
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0510_009_reference_content.png",
+      "bbox": [
+        [
+          237,
+          1701
+        ],
+        [
+          1635,
+          1701
+        ],
+        [
+          1635,
+          1765
+        ],
+        [
+          237,
+          1765
+        ]
+      ],
+      "score": 0.5636284947395325,
+      "y_pos": 1701,
+      "text": "14. Đau phía trước đầu: Thần đình, Thượng tinh, Ấn đường.",
+      "confidence": 0.999687489816698
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0510_010_reference_content.png",
+      "bbox": [
+        [
+          237,
+          1793
+        ],
+        [
+          1454,
+          1793
+        ],
+        [
+          1454,
+          1857
+        ],
+        [
+          237,
+          1857
+        ]
+      ],
+      "score": 0.5561044812202454,
+      "y_pos": 1793,
+      "text": "15. Đau phía sau đầu: Phong trì, Đại chùy, Hậu khê.",
+      "confidence": 0.9943602996052436
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0510_007_reference_content.png",
+      "bbox": [
+        [
+          235,
+          1886
+        ],
+        [
+          1557,
+          1886
+        ],
+        [
+          1557,
+          1948
+        ],
+        [
+          235,
+          1948
+        ]
+      ],
+      "score": 0.5739244222640991,
+      "y_pos": 1886,
+      "text": "16. Đau một bên đầu: Phong trì, Huyền chung, Hiệp khê.",
+      "confidence": 0.9843298239367348
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0510_011_reference_content.png",
+      "bbox": [
+        [
+          236,
+          1978
+        ],
+        [
+          1596,
+          1978
+        ],
+        [
+          1596,
+          2040
+        ],
+        [
+          236,
+          2040
+        ]
+      ],
+      "score": 0.5412802696228027,
+      "y_pos": 1978,
+      "text": "17. Đau một bên đầu: Phong trì, Ty trúc không, Trung chử.",
+      "confidence": 0.9862846812959445
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0510_016_reference_content.png",
+      "bbox": [
+        [
+          235,
+          2069
+        ],
+        [
+          1261,
+          2069
+        ],
+        [
+          1261,
+          2131
+        ],
+        [
+          235,
+          2131
+        ]
+      ],
+      "score": 0.5120187401771545,
+      "y_pos": 2069,
+      "text": "18. Đau một bên đầu: Đầu duy, Liệt khuyết.",
+      "confidence": 0.9911019504070282
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0510_012_reference_content.png",
+      "bbox": [
+        [
+          235,
+          2157
+        ],
+        [
+          1853,
+          2157
+        ],
+        [
+          1853,
+          2223
+        ],
+        [
+          235,
+          2223
+        ]
+      ],
+      "score": 0.5300610661506653,
+      "y_pos": 2157,
+      "text": "19. Đau một bên đầu: Đầu duy, Suất cốc hoặc Đầu duy thấu Suất cốc.",
+      "confidence": 0.9997934479923809
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0510_015_reference_content.png",
+      "bbox": [
+        [
+          229,
+          2618
+        ],
+        [
+          2360,
+          2618
+        ],
+        [
+          2360,
+          2746
+        ],
+        [
+          229,
+          2746
+        ]
+      ],
+      "score": 0.51344233751297,
+      "y_pos": 2618,
+      "text": "24. Đại não phát triển không đều khắp: Á môn, Đại chùy, É minh, Nội quan, Túc tam lý,\nTích tam huyệt.",
+      "confidence": 0.9628972523795987
+    },
+    {
+      "type": "number",
+      "img_path": "p0510_003_number.png",
+      "bbox": [
+        [
+          2344,
+          3340
+        ],
+        [
+          2365,
+          3340
+        ],
+        [
+          2365,
+          3374
+        ],
+        [
+          2344,
+          3374
+        ]
+      ],
+      "score": 0.7991126775741577,
+      "y_pos": 3340,
+      "text": "\n\n\n\n\n\n\n\n    \n۰\n٠.\n",
+      "confidence": 0.9234057538784467
+    },
+    {
+      "type": "footer",
+      "img_path": "p0510_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3341
+        ],
+        [
+          1324,
+          3341
+        ],
+        [
+          1324,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.9169629216194153,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987223969315583
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0510.png"
+}

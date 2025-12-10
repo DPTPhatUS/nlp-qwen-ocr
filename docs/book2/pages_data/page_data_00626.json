@@ -1,0 +1,474 @@
+{
+  "page_num": 626,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0626_009_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.924913227558136,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0626_010_header.png",
+      "bbox": [
+        [
+          229,
+          151
+        ],
+        [
+          1172,
+          151
+        ],
+        [
+          1172,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9143921732902527,
+      "y_pos": 151,
+      "text": "PHÉP CHẨN BẾNH BÁNG NHIỆT ĐÔ KINH LẠC",
+      "confidence": 0.9933017049080286
+    },
+    {
+      "type": "table",
+      "img_path": "p0626_016_table.png",
+      "bbox": [
+        [
+          410,
+          345
+        ],
+        [
+          2174,
+          345
+        ],
+        [
+          2174,
+          521
+        ],
+        [
+          410,
+          521
+        ]
+      ],
+      "score": 0.734488844871521,
+      "y_pos": 345,
+      "text": "33,1    <math>^{\\circ}</math>    <b>Z</b>,<b>Z</b>    32,0    0,37    32,37\n30,9    31,83",
+      "confidence": 0.8254449810546177
+    },
+    {
+      "type": "table",
+      "img_path": "p0626_014_table.png",
+      "bbox": [
+        [
+          411,
+          572
+        ],
+        [
+          2175,
+          572
+        ],
+        [
+          2175,
+          1088
+        ],
+        [
+          411,
+          1088
+        ]
+      ],
+      "score": 0.769298791885376,
+      "y_pos": 572,
+      "text": "Bàng    -30,9    30,95    -1,05    -31,0    0,1\nThận    -31,6    31,55    -0,45    -31,5    0,1\nĐảm    -31,3    31,35    -0,65    -31,4    0\nVį    -31,3    31,30    -0,70    -31,3    0\nCan    +32,6    32,85    +0,85    +33,1    0,5\nΤỳ    +32,5    32,55    +0,55    +32,6    0,1",
+      "confidence": 0.902814388109578
+    },
+    {
+      "type": "text",
+      "img_path": "p0626_007_text.png",
+      "bbox": [
+        [
+          298,
+          1268
+        ],
+        [
+          1708,
+          1268
+        ],
+        [
+          1708,
+          1321
+        ],
+        [
+          298,
+          1321
+        ]
+      ],
+      "score": 0.930158257484436,
+      "y_pos": 1268,
+      "text": "<b>Lý nhiệt:</b> Đại, Can, Tỳ. <b>Lý hàn:</b> Tiếu, Bàng, Thận, Đảm, Vị.",
+      "confidence": 0.990523743443191
+    },
+    {
+      "type": "text",
+      "img_path": "p0626_008_text.png",
+      "bbox": [
+        [
+          300,
+          1358
+        ],
+        [
+          1634,
+          1358
+        ],
+        [
+          1634,
+          1411
+        ],
+        [
+          300,
+          1411
+        ]
+      ],
+      "score": 0.9298592209815979,
+      "y_pos": 1358,
+      "text": "Biểu nhiệt: Bào, Phế (phải). Biểu hàn: Tâm, Tam (trái).",
+      "confidence": 0.9926277127182275
+    },
+    {
+      "type": "text",
+      "img_path": "p0626_005_text.png",
+      "bbox": [
+        [
+          299,
+          1451
+        ],
+        [
+          1390,
+          1451
+        ],
+        [
+          1390,
+          1502
+        ],
+        [
+          299,
+          1502
+        ]
+      ],
+      "score": 0.9351065754890442,
+      "y_pos": 1451,
+      "text": "Dao đông nhiều: Bào, Phế, Tâm, Tam, Can.",
+      "confidence": 0.626053946358817
+    },
+    {
+      "type": "text",
+      "img_path": "p0626_015_text.png",
+      "bbox": [
+        [
+          223,
+          1543
+        ],
+        [
+          2358,
+          1543
+        ],
+        [
+          2358,
+          1664
+        ],
+        [
+          223,
+          1664
+        ]
+      ],
+      "score": 0.7610087394714355,
+      "y_pos": 1543,
+      "text": "B. Theo dõi diễn biến mức độ bệnh lý, sinh lý trên các kinh của từng người theo các chỉ\nsố nhiệt kinh lạc qua các lần đo",
+      "confidence": 0.988785933557915
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0626_013_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1703
+        ],
+        [
+          1723,
+          1703
+        ],
+        [
+          1723,
+          1756
+        ],
+        [
+          226,
+          1756
+        ]
+      ],
+      "score": 0.8241005539894104,
+      "y_pos": 1703,
+      "text": "1. Theo dõi diễn biến bằng bảng thống kê so sánh chỉ số nhiệt",
+      "confidence": 0.9982891148991055
+    },
+    {
+      "type": "text",
+      "img_path": "p0626_001_text.png",
+      "bbox": [
+        [
+          250,
+          1794
+        ],
+        [
+          2358,
+          1794
+        ],
+        [
+          2358,
+          2134
+        ],
+        [
+          250,
+          2134
+        ]
+      ],
+      "score": 0.9822529554367065,
+      "y_pos": 1794,
+      "text": "Mức độ bệnh lý, sinh lý trên các kinh biểu hiện qua các chỉ số nhiệt kinh lạc, nhất là số tương\nquan. Bằng cách <b>thống kê so sánh diễn biến chỉ số</b> “số tương quan” và một vài chỉ số\nkhác qua các lần đo ta nắm được diễn biến mức độ bệnh lý, sinh lý trên các kinh ở từng\nngười. Việc thống kê so sánh trên thực hiện bằng một bảng gọi là Bảng diễn biến chỉ số\nnhiệt kinh lạc của từng người, bảng có kết cấu như mẫu dưới đây (gọi tắt là bảng B).",
+      "confidence": 0.9979709839561346
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0626_017_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          2173
+        ],
+        [
+          1568,
+          2173
+        ],
+        [
+          1568,
+          2222
+        ],
+        [
+          286,
+          2222
+        ]
+      ],
+      "score": 0.7035711407661438,
+      "y_pos": 2173,
+      "text": "Các chỉ số được đưa vào bảng theo các côt như sau:",
+      "confidence": 0.999092637346341
+    },
+    {
+      "type": "text",
+      "img_path": "p0626_006_text.png",
+      "bbox": [
+        [
+          297,
+          2264
+        ],
+        [
+          2125,
+          2264
+        ],
+        [
+          2125,
+          2316
+        ],
+        [
+          297,
+          2316
+        ]
+      ],
+      "score": 0.9319666028022766,
+      "y_pos": 2264,
+      "text": "\n    Sai số giới hạn chi trên (tay): ghi vào cột 2 của bảng B (lấy từ ô 5 của bảng A).\n",
+      "confidence": 0.9892863547690561
+    },
+    {
+      "type": "text",
+      "img_path": "p0626_004_text.png",
+      "bbox": [
+        [
+          299,
+          2355
+        ],
+        [
+          2196,
+          2355
+        ],
+        [
+          2196,
+          2408
+        ],
+        [
+          299,
+          2408
+        ]
+      ],
+      "score": 0.9381545186042786,
+      "y_pos": 2355,
+      "text": "\n    Sai số giới hạn chi dưới (chân): ghi vào cột 3 của bảng B (lấy từ ô 5' của bảng A).\n",
+      "confidence": 0.988952800768231
+    },
+    {
+      "type": "text",
+      "img_path": "p0626_003_text.png",
+      "bbox": [
+        [
+          300,
+          2448
+        ],
+        [
+          2360,
+          2448
+        ],
+        [
+          2360,
+          2570
+        ],
+        [
+          300,
+          2570
+        ]
+      ],
+      "score": 0.9690255522727966,
+      "y_pos": 2448,
+      "text": "\n    Hiệu số của nhiệt độ trung bình chi trên trừ nhiệt độ trung bình chi dưới: ghi vào cột 4\n\ncủa bảng B (lấy từ ô 13 của bảng A).",
+      "confidence": 0.9926316079340483
+    },
+    {
+      "type": "text",
+      "img_path": "p0626_000_text.png",
+      "bbox": [
+        [
+          298,
+          2609
+        ],
+        [
+          2361,
+          2609
+        ],
+        [
+          2361,
+          2948
+        ],
+        [
+          298,
+          2948
+        ]
+      ],
+      "score": 0.9847683310508728,
+      "y_pos": 2609,
+      "text": "• Số tương quan: Là hiệu của nhiệt độ trung bình từng kinh trừ nhiệt độ trung bình của\nchi tương ứng. (lấy từ cột 10 và 10' của bảng A). Dấu của số tương quan cho ta phân\nđịnh được hàn nhiệt của từng kinh, giá trị tuyệt đối của số tương quan (trị số không\ndấu) đem so sánh với sai số giới hạn ta nhận định được mức độ hàn, nhiệt đã đến mức\nbệnh lý hay chưa (giá trị tuyệt đối số tương quan lớn hơn sai số giới hạn là bệnh lý).",
+      "confidence": 0.9638998231434464
+    },
+    {
+      "type": "text",
+      "img_path": "p0626_002_text.png",
+      "bbox": [
+        [
+          279,
+          2982
+        ],
+        [
+          2360,
+          2982
+        ],
+        [
+          2360,
+          3180
+        ],
+        [
+          279,
+          3180
+        ]
+      ],
+      "score": 0.975555419921875,
+      "y_pos": 2982,
+      "text": "Do yêu cầu trực quan, ta tách số tương quan dương (mang dấu +) ghi vào các cột từ 5 đến\n16 theo các kinh tương ứng, các số tương quan âm (mang dấu -) và bằng 0 ghi vào các cột\ntừ 17 đến 28 theo các kinh tương ứng của bảng B (chỉ ghi trị số không dấu).",
+      "confidence": 0.998116592273353
+    },
+    {
+      "type": "number",
+      "img_path": "p0626_012_number.png",
+      "bbox": [
+        [
+          2304,
+          3336
+        ],
+        [
+          2353,
+          3336
+        ],
+        [
+          2353,
+          3374
+        ],
+        [
+          2304,
+          3374
+        ]
+      ],
+      "score": 0.8668001294136047,
+      "y_pos": 3336,
+      "text": "\n    \n\n\n\n\n\n\n    \n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0626_011_footer.png",
+      "bbox": [
+        [
+          228,
+          3339
+        ],
+        [
+          1323,
+          3339
+        ],
+        [
+          1323,
+          3388
+        ],
+        [
+          228,
+          3388
+        ]
+      ],
+      "score": 0.9083932042121887,
+      "y_pos": 3339,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9428327072341487
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0626.png"
+}

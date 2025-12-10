@@ -1,0 +1,344 @@
+{
+  "page_num": 415,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0415_002_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1678,
+          196
+        ]
+      ],
+      "score": 0.923585057258606,
+      "y_pos": 142,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7456070706248283
+    },
+    {
+      "type": "header",
+      "img_path": "p0415_005_header.png",
+      "bbox": [
+        [
+          229,
+          146
+        ],
+        [
+          1096,
+          146
+        ],
+        [
+          1096,
+          197
+        ],
+        [
+          229,
+          197
+        ]
+      ],
+      "score": 0.9061130285263062,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SÀNG",
+      "confidence": 0.9907518233571734
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0415_008_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          305
+        ],
+        [
+          822,
+          305
+        ],
+        [
+          822,
+          357
+        ],
+        [
+          225,
+          357
+        ]
+      ],
+      "score": 0.8989961743354797,
+      "y_pos": 305,
+      "text": "3. Bài thuốc một vài vi lẻ",
+      "confidence": 0.9986770365919385
+    },
+    {
+      "type": "text",
+      "img_path": "p0415_007_text.png",
+      "bbox": [
+        [
+          224,
+          397
+        ],
+        [
+          1994,
+          397
+        ],
+        [
+          1994,
+          453
+        ],
+        [
+          224,
+          453
+        ]
+      ],
+      "score": 0.9035811424255371,
+      "y_pos": 397,
+      "text": "- Toan thương thảo tươi (cỏ chua me) 2 lạng, giã nát lấy nước, thêm mật uống.",
+      "confidence": 0.9961557086509994
+    },
+    {
+      "type": "text",
+      "img_path": "p0415_006_text.png",
+      "bbox": [
+        [
+          226,
+          488
+        ],
+        [
+          1563,
+          488
+        ],
+        [
+          1563,
+          544
+        ],
+        [
+          226,
+          544
+        ]
+      ],
+      "score": 0.9039965271949768,
+      "y_pos": 488,
+      "text": "- Xa tiền thảo 6 đồng cân, Thăng ma 2 đồng cân, sắc uống.",
+      "confidence": 0.9361529218948493
+    },
+    {
+      "type": "text",
+      "img_path": "p0415_004_text.png",
+      "bbox": [
+        [
+          226,
+          581
+        ],
+        [
+          1820,
+          581
+        ],
+        [
+          1820,
+          635
+        ],
+        [
+          226,
+          635
+        ]
+      ],
+      "score": 0.906773030757904,
+      "y_pos": 581,
+      "text": "- Đạm trúc diệp 3 đồng cân, Đăng tâm 1 nắm, nấu với nước chín uống.",
+      "confidence": 0.9837481820065043
+    },
+    {
+      "type": "text",
+      "img_path": "p0415_001_text.png",
+      "bbox": [
+        [
+          224,
+          669
+        ],
+        [
+          2358,
+          669
+        ],
+        [
+          2358,
+          798
+        ],
+        [
+          224,
+          798
+        ]
+      ],
+      "score": 0.9572108387947083,
+      "y_pos": 669,
+      "text": "- Trầm hương 4 phân, Hổ phách 4 phân, đế mền, đế chũi (lâu cô, lâu suất), một đôi, đổ chung\nnghiền nhỏ, chia làm 2 lần, ngoáy với nước sôi uống.",
+      "confidence": 0.8229941859253846
+    },
+    {
+      "type": "text",
+      "img_path": "p0415_000_text.png",
+      "bbox": [
+        [
+          223,
+          834
+        ],
+        [
+          2361,
+          834
+        ],
+        [
+          2361,
+          1031
+        ],
+        [
+          223,
+          1031
+        ]
+      ],
+      "score": 0.9717807769775391,
+      "y_pos": 834,
+      "text": "- Hành trắng sống 1 cân, giã nát. Xạ hương 1 phân, trộn đều chia làm 2 gói. Trước hết là đặt\nmột gói lên trên rốn rồi chườm nóng trên đó chừng 15 phút, sau lại đổi một gói khác, lần này lấy\nnước đá chườm 15 phút. Cứ thế thay đổi đến khi tiểu tiện được mới dừng.",
+      "confidence": 0.999006237891455
+    },
+    {
+      "type": "text",
+      "img_path": "p0415_011_text.png",
+      "bbox": [
+        [
+          225,
+          1067
+        ],
+        [
+          2317,
+          1067
+        ],
+        [
+          2317,
+          1122
+        ],
+        [
+          225,
+          1122
+        ]
+      ],
+      "score": 0.8264340162277222,
+      "y_pos": 1067,
+      "text": "- Một củ tỏi, Dành dành 3 quả, muối ăn một ít, giã nát cả ba thứ, dàn ra giấy, dán lên trên rốn.",
+      "confidence": 0.993454746445831
+    },
+    {
+      "type": "text",
+      "img_path": "p0415_012_text.png",
+      "bbox": [
+        [
+          226,
+          1156
+        ],
+        [
+          1977,
+          1156
+        ],
+        [
+          1977,
+          1216
+        ],
+        [
+          226,
+          1216
+        ]
+      ],
+      "score": 0.7711007595062256,
+      "y_pos": 1156,
+      "text": "- Bồ kết, lấy 1 đến 2 phân, nghiền nhỏ mịn. Thổi vào trong mũi để gây hắt hơi.",
+      "confidence": 0.9805714897811413
+    },
+    {
+      "type": "text",
+      "img_path": "p0415_010_text.png",
+      "bbox": [
+        [
+          224,
+          1251
+        ],
+        [
+          1775,
+          1251
+        ],
+        [
+          1775,
+          1306
+        ],
+        [
+          224,
+          1306
+        ]
+      ],
+      "score": 0.8639426827430725,
+      "y_pos": 1251,
+      "text": "Các thứ thuốc vừa kể trên đây phần lớn là thích hợp với thực chứng.",
+      "confidence": 0.9996667867121489
+    },
+    {
+      "type": "number",
+      "img_path": "p0415_009_number.png",
+      "bbox": [
+        [
+          2307,
+          3334
+        ],
+        [
+          2357,
+          3334
+        ],
+        [
+          2357,
+          3371
+        ],
+        [
+          2307,
+          3371
+        ]
+      ],
+      "score": 0.8699842095375061,
+      "y_pos": 3334,
+      "text": "\n    \n    \n.\n    \n\n\n\n\n\n٠.\n    \n    \n\n    . .    \n",
+      "confidence": 0.9288905107456705
+    },
+    {
+      "type": "footer",
+      "img_path": "p0415_003_footer.png",
+      "bbox": [
+        [
+          229,
+          3337
+        ],
+        [
+          1344,
+          3337
+        ],
+        [
+          1344,
+          3383
+        ],
+        [
+          229,
+          3383
+        ]
+      ],
+      "score": 0.9068519473075867,
+      "y_pos": 3337,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9984658506681334
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0415.png"
+}

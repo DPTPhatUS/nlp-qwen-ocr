@@ -1,0 +1,552 @@
+{
+  "page_num": 539,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0539_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9232968688011169,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0539_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1470,
+          152
+        ],
+        [
+          1470,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.9261725544929504,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9963005375862122
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0539_004_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          325
+        ],
+        [
+          859,
+          325
+        ],
+        [
+          859,
+          383
+        ],
+        [
+          226,
+          383
+        ]
+      ],
+      "score": 0.8230969905853271,
+      "y_pos": 325,
+      "text": "Phần 23. BỆNH CẨM MẠO",
+      "confidence": 0.8451528730599777
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0539_016_reference_content.png",
+      "bbox": [
+        [
+          232,
+          786
+        ],
+        [
+          1476,
+          786
+        ],
+        [
+          1476,
+          843
+        ],
+        [
+          232,
+          843
+        ]
+      ],
+      "score": 0.5259939432144165,
+      "y_pos": 786,
+      "text": "558. Cảm mạo: Đại trữ, Phong trì, Phong môn, Phế du.",
+      "confidence": 0.997082570084819
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0539_015_reference_content.png",
+      "bbox": [
+        [
+          232,
+          878
+        ],
+        [
+          1250,
+          878
+        ],
+        [
+          1250,
+          934
+        ],
+        [
+          232,
+          934
+        ]
+      ],
+      "score": 0.5273141264915466,
+      "y_pos": 878,
+      "text": "559. Cảm cúm: Phong trì, Đại chùy, Khúc trì.",
+      "confidence": 0.9892467519511348
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0539_013_reference_content.png",
+      "bbox": [
+        [
+          231,
+          969
+        ],
+        [
+          1885,
+          969
+        ],
+        [
+          1885,
+          1028
+        ],
+        [
+          231,
+          1028
+        ]
+      ],
+      "score": 0.532860517501831,
+      "y_pos": 969,
+      "text": "560. Cảm cúm: Phong môn, Đại chùy, Hợp cốc (châm xong gia bầu giác).",
+      "confidence": 0.998177512202944
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0539_009_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1061
+        ],
+        [
+          1546,
+          1061
+        ],
+        [
+          1546,
+          1119
+        ],
+        [
+          232,
+          1119
+        ]
+      ],
+      "score": 0.5413336753845215,
+      "y_pos": 1061,
+      "text": "561. Cảm mạo đau đầu: Thái dương, Ấn đường, Hợp cốc.",
+      "confidence": 0.9995047339686641
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0539_018_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1152
+        ],
+        [
+          1535,
+          1152
+        ],
+        [
+          1535,
+          1211
+        ],
+        [
+          232,
+          1211
+        ]
+      ],
+      "score": 0.516793966293335,
+      "y_pos": 1152,
+      "text": "562. Cảm mạo ho hẳng, viêm phổi: Phong môn, Phế du.",
+      "confidence": 0.9953426741204172
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0539_014_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1246
+        ],
+        [
+          1501,
+          1246
+        ],
+        [
+          1501,
+          1303
+        ],
+        [
+          231,
+          1303
+        ]
+      ],
+      "score": 0.5293722152709961,
+      "y_pos": 1246,
+      "text": "563. Cảm mạo phát sốt: Hợp cốc, Khúc trì, Phong môn.",
+      "confidence": 0.9992829826143053
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0539_020_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1426
+        ],
+        [
+          1028,
+          1426
+        ],
+        [
+          1028,
+          1486
+        ],
+        [
+          231,
+          1486
+        ]
+      ],
+      "score": 0.5093244314193726,
+      "y_pos": 1426,
+      "text": "565. Sốt cao: Khúc trì, Thiếu xung.",
+      "confidence": 0.9909501446259988
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0539_019_reference_content.png",
+      "bbox": [
+        [
+          230,
+          1518
+        ],
+        [
+          855,
+          1518
+        ],
+        [
+          855,
+          1574
+        ],
+        [
+          230,
+          1574
+        ]
+      ],
+      "score": 0.5104251503944397,
+      "y_pos": 1518,
+      "text": "566. Sốt: Đào đạo, Phế du.",
+      "confidence": 0.9945017610277448
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0539_006_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1610
+        ],
+        [
+          1252,
+          1610
+        ],
+        [
+          1252,
+          1668
+        ],
+        [
+          231,
+          1668
+        ]
+      ],
+      "score": 0.5579466819763184,
+      "y_pos": 1610,
+      "text": "567. Sốt cao: Khúc trì, Đại chùy, Thập tuyên.",
+      "confidence": 0.9979814570000831
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0539_010_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1701
+        ],
+        [
+          1180,
+          1701
+        ],
+        [
+          1180,
+          1758
+        ],
+        [
+          231,
+          1758
+        ]
+      ],
+      "score": 0.5342086553573608,
+      "y_pos": 1701,
+      "text": "568. Mồ hôi ra nhiều: Hợp cốc, Phục lưu.",
+      "confidence": 0.9935154943239122
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0539_017_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1794
+        ],
+        [
+          1187,
+          1794
+        ],
+        [
+          1187,
+          1851
+        ],
+        [
+          231,
+          1851
+        ]
+      ],
+      "score": 0.5248855948448181,
+      "y_pos": 1794,
+      "text": "569. Mồ hôi ra khắp các khớp: Hậu đỉnh.",
+      "confidence": 0.9993437659449693
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0539_007_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1885
+        ],
+        [
+          1408,
+          1885
+        ],
+        [
+          1408,
+          1943
+        ],
+        [
+          231,
+          1943
+        ]
+      ],
+      "score": 0.5522763133049011,
+      "y_pos": 1885,
+      "text": "570. Sốt cao không ra mồ hôi: Thiên trụ, Phong trì.",
+      "confidence": 0.9909523939186672
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0539_005_reference_content.png",
+      "bbox": [
+        [
+          230,
+          1978
+        ],
+        [
+          1493,
+          1978
+        ],
+        [
+          1493,
+          2035
+        ],
+        [
+          230,
+          2035
+        ]
+      ],
+      "score": 0.5604764223098755,
+      "y_pos": 1978,
+      "text": "571. Say nắng sốt cao: Thập tuyên, Đại chùy, Nhĩ tiêm.",
+      "confidence": 0.991019473544189
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0539_012_reference_content.png",
+      "bbox": [
+        [
+          230,
+          2070
+        ],
+        [
+          1646,
+          2070
+        ],
+        [
+          1646,
+          2129
+        ],
+        [
+          230,
+          2129
+        ]
+      ],
+      "score": 0.5334838628768921,
+      "y_pos": 2070,
+      "text": "572. Say nắng: Nhân trung, Thập tuyên, Dũng tuyên, Úy trung.",
+      "confidence": 0.9938550553014202
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0539_011_reference_content.png",
+      "bbox": [
+        [
+          229,
+          2160
+        ],
+        [
+          1364,
+          2160
+        ],
+        [
+          1364,
+          2220
+        ],
+        [
+          229,
+          2220
+        ]
+      ],
+      "score": 0.5337923765182495,
+      "y_pos": 2160,
+      "text": "573. Say nắng: Ủy trung, Thập tuyên, Nhân trung.",
+      "confidence": 0.9916604530811309
+    },
+    {
+      "type": "text",
+      "img_path": "p0539_008_text.png",
+      "bbox": [
+        [
+          228,
+          2527
+        ],
+        [
+          1525,
+          2527
+        ],
+        [
+          1525,
+          2585
+        ],
+        [
+          228,
+          2585
+        ]
+      ],
+      "score": 0.5419033169746399,
+      "y_pos": 2527,
+      "text": "577. Thân nhiệt giảm thấp: Côn lôn, Thái khê (đều cứu).",
+      "confidence": 0.9992396256379914
+    },
+    {
+      "type": "number",
+      "img_path": "p0539_003_number.png",
+      "bbox": [
+        [
+          2318,
+          3337
+        ],
+        [
+          2367,
+          3337
+        ],
+        [
+          2367,
+          3374
+        ],
+        [
+          2318,
+          3374
+        ]
+      ],
+      "score": 0.8641823530197144,
+      "y_pos": 3337,
+      "text": "    \n            \n            \n\n    \n    \n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0539_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3341
+        ],
+        [
+          1324,
+          3341
+        ],
+        [
+          1324,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.9202401041984558,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987223969315583
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0539.png"
+}

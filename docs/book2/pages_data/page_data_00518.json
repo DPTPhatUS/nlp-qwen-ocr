@@ -1,0 +1,786 @@
+{
+  "page_num": 518,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0518_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9190154075622559,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0518_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.924544632434845,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9977066326141357
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0518_004_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          325
+        ],
+        [
+          858,
+          325
+        ],
+        [
+          858,
+          384
+        ],
+        [
+          227,
+          384
+        ]
+      ],
+      "score": 0.7416602373123169,
+      "y_pos": 325,
+      "text": "Phần 8. BỆNH HẦU HỌNG",
+      "confidence": 0.9876435606375985
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_028_reference_content.png",
+      "bbox": [
+        [
+          233,
+          419
+        ],
+        [
+          1260,
+          419
+        ],
+        [
+          1260,
+          480
+        ],
+        [
+          233,
+          480
+        ]
+      ],
+      "score": 0.5462454557418823,
+      "y_pos": 419,
+      "text": "172. Quai bị: Khiên chính, Ê phong, Hợp cốc.",
+      "confidence": 0.9743081266465394
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_027_reference_content.png",
+      "bbox": [
+        [
+          235,
+          508
+        ],
+        [
+          1170,
+          508
+        ],
+        [
+          1170,
+          571
+        ],
+        [
+          235,
+          571
+        ]
+      ],
+      "score": 0.5920411348342896,
+      "y_pos": 508,
+      "text": "173. Quai bị: É phong, Giáp xa, Hợp cốc.",
+      "confidence": 0.9835329084169298
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_025_reference_content.png",
+      "bbox": [
+        [
+          236,
+          601
+        ],
+        [
+          1304,
+          601
+        ],
+        [
+          1304,
+          662
+        ],
+        [
+          236,
+          662
+        ]
+      ],
+      "score": 0.6229270696640015,
+      "y_pos": 601,
+      "text": "174. Viêm amiđan: Ê phong, Giáp xa, Hợp cốc.",
+      "confidence": 0.9987109277559363
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_021_reference_content.png",
+      "bbox": [
+        [
+          236,
+          693
+        ],
+        [
+          1119,
+          693
+        ],
+        [
+          1119,
+          752
+        ],
+        [
+          236,
+          752
+        ]
+      ],
+      "score": 0.6523191928863525,
+      "y_pos": 693,
+      "text": "175. Viêm amiđan: Biển đào, Hợp cốc.",
+      "confidence": 0.9994033763283178
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_017_reference_content.png",
+      "bbox": [
+        [
+          236,
+          785
+        ],
+        [
+          1171,
+          785
+        ],
+        [
+          1171,
+          844
+        ],
+        [
+          236,
+          844
+        ]
+      ],
+      "score": 0.6800591349601746,
+      "y_pos": 785,
+      "text": "176. Viêm amiđan: Thiên dung, Hợp cốc.",
+      "confidence": 0.9988051101565361
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_018_reference_content.png",
+      "bbox": [
+        [
+          235,
+          875
+        ],
+        [
+          1912,
+          875
+        ],
+        [
+          1912,
+          938
+        ],
+        [
+          235,
+          938
+        ]
+      ],
+      "score": 0.678581714630127,
+      "y_pos": 875,
+      "text": "177. Viêm amiđan cấp tính: Chích Thiếu thương nặn máu, châm Hợp cốc.",
+      "confidence": 0.9975602907793862
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_008_reference_content.png",
+      "bbox": [
+        [
+          236,
+          969
+        ],
+        [
+          1249,
+          969
+        ],
+        [
+          1249,
+          1029
+        ],
+        [
+          236,
+          1029
+        ]
+      ],
+      "score": 0.7056624293327332,
+      "y_pos": 969,
+      "text": "178. Sưng trong họng: Nhiên cốc, Thái khê.",
+      "confidence": 0.9729617996649309
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_005_reference_content.png",
+      "bbox": [
+        [
+          236,
+          1061
+        ],
+        [
+          1445,
+          1061
+        ],
+        [
+          1445,
+          1121
+        ],
+        [
+          236,
+          1121
+        ]
+      ],
+      "score": 0.7224409580230713,
+      "y_pos": 1061,
+      "text": "179. Viêm hầu họng: Thiên dung, Thiên trụ, Hợp cốc.",
+      "confidence": 0.9836914764260346
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_006_reference_content.png",
+      "bbox": [
+        [
+          236,
+          1154
+        ],
+        [
+          1512,
+          1154
+        ],
+        [
+          1512,
+          1215
+        ],
+        [
+          236,
+          1215
+        ]
+      ],
+      "score": 0.7089683413505554,
+      "y_pos": 1154,
+      "text": "180. Họng đau không ăn được: Dũng tuyền, Thái xung.",
+      "confidence": 0.9989415598365495
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_010_reference_content.png",
+      "bbox": [
+        [
+          236,
+          1245
+        ],
+        [
+          1281,
+          1245
+        ],
+        [
+          1281,
+          1306
+        ],
+        [
+          236,
+          1306
+        ]
+      ],
+      "score": 0.6947063207626343,
+      "y_pos": 1245,
+      "text": "181. Viêm hầu họng: Thiên trụ, Thiếu thương.",
+      "confidence": 0.9993508341519729
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_011_reference_content.png",
+      "bbox": [
+        [
+          237,
+          1334
+        ],
+        [
+          1506,
+          1334
+        ],
+        [
+          1506,
+          1397
+        ],
+        [
+          237,
+          1397
+        ]
+      ],
+      "score": 0.6930902600288391,
+      "y_pos": 1334,
+      "text": "182. Viêm hầu họng: Biển đào, Thiên trụ, Thiếu thương.",
+      "confidence": 0.9995569512248039
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_015_reference_content.png",
+      "bbox": [
+        [
+          237,
+          1425
+        ],
+        [
+          1619,
+          1425
+        ],
+        [
+          1619,
+          1489
+        ],
+        [
+          237,
+          1489
+        ]
+      ],
+      "score": 0.6853281855583191,
+      "y_pos": 1425,
+      "text": "183. Hầu họng sưng đau: Thiếu thương, Thiên đột, Hợp cốc.",
+      "confidence": 0.9992063500113406
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_020_reference_content.png",
+      "bbox": [
+        [
+          236,
+          1517
+        ],
+        [
+          1968,
+          1517
+        ],
+        [
+          1968,
+          1581
+        ],
+        [
+          236,
+          1581
+        ]
+      ],
+      "score": 0.6731933951377869,
+      "y_pos": 1517,
+      "text": "184. Hầu họng sưng đau: Thiếu thương, Thương dương đều chích nặn máu.",
+      "confidence": 0.9987112720247725
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_014_reference_content.png",
+      "bbox": [
+        [
+          236,
+          1611
+        ],
+        [
+          1493,
+          1611
+        ],
+        [
+          1493,
+          1672
+        ],
+        [
+          236,
+          1672
+        ]
+      ],
+      "score": 0.688888430595398,
+      "y_pos": 1611,
+      "text": "185. Đau hầu họng: Bách hội, Thái xung, Tam âm giao.",
+      "confidence": 0.9983263556604032
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_012_reference_content.png",
+      "bbox": [
+        [
+          237,
+          1702
+        ],
+        [
+          1180,
+          1702
+        ],
+        [
+          1180,
+          1763
+        ],
+        [
+          237,
+          1763
+        ]
+      ],
+      "score": 0.6910701394081116,
+      "y_pos": 1702,
+      "text": "186. Đau hầu họng: Thái khê, Trung chử.",
+      "confidence": 0.9965925027684468
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_016_reference_content.png",
+      "bbox": [
+        [
+          237,
+          1793
+        ],
+        [
+          984,
+          1793
+        ],
+        [
+          984,
+          1853
+        ],
+        [
+          237,
+          1853
+        ]
+      ],
+      "score": 0.6815370917320251,
+      "y_pos": 1793,
+      "text": "187. Đau hầu: Dịch môn, Ngư tế.",
+      "confidence": 0.991387690558578
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_007_reference_content.png",
+      "bbox": [
+        [
+          236,
+          1886
+        ],
+        [
+          1412,
+          1886
+        ],
+        [
+          1412,
+          1945
+        ],
+        [
+          236,
+          1945
+        ]
+      ],
+      "score": 0.7059962749481201,
+      "y_pos": 1886,
+      "text": "188. Đau hầu họng: Bách hội, Chiếu hải, Thái xung.",
+      "confidence": 0.9953600947673504
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_009_reference_content.png",
+      "bbox": [
+        [
+          236,
+          1978
+        ],
+        [
+          1354,
+          1978
+        ],
+        [
+          1354,
+          2038
+        ],
+        [
+          236,
+          2038
+        ]
+      ],
+      "score": 0.6981161236763,
+      "y_pos": 1978,
+      "text": "189. Đau hầu họng: Thiên dù, É phong, Hợp cốc.",
+      "confidence": 0.9851842671632767
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_019_reference_content.png",
+      "bbox": [
+        [
+          236,
+          2071
+        ],
+        [
+          1098,
+          2071
+        ],
+        [
+          1098,
+          2129
+        ],
+        [
+          236,
+          2129
+        ]
+      ],
+      "score": 0.67555171251297,
+      "y_pos": 2071,
+      "text": "190. Đau họng: Thái khê, Thiếu trạch.",
+      "confidence": 0.98622788527073
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_013_reference_content.png",
+      "bbox": [
+        [
+          236,
+          2159
+        ],
+        [
+          1029,
+          2159
+        ],
+        [
+          1029,
+          2221
+        ],
+        [
+          236,
+          2221
+        ]
+      ],
+      "score": 0.6897542476654053,
+      "y_pos": 2159,
+      "text": "191. Họng khô: Thái uyên, Ngư tế.",
+      "confidence": 0.9811886174338205
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_023_reference_content.png",
+      "bbox": [
+        [
+          237,
+          2253
+        ],
+        [
+          1321,
+          2253
+        ],
+        [
+          1321,
+          2315
+        ],
+        [
+          237,
+          2315
+        ]
+      ],
+      "score": 0.6336507201194763,
+      "y_pos": 2253,
+      "text": "192. Họng khô hay khát: Hành gian, Thái xung.",
+      "confidence": 0.9994215102905922
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_026_reference_content.png",
+      "bbox": [
+        [
+          237,
+          2344
+        ],
+        [
+          964,
+          2344
+        ],
+        [
+          964,
+          2403
+        ],
+        [
+          237,
+          2403
+        ]
+      ],
+      "score": 0.6108590364456177,
+      "y_pos": 2344,
+      "text": "193. Hầu bại: Cách du, Kinh cừ.",
+      "confidence": 0.9951300024986267
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_024_reference_content.png",
+      "bbox": [
+        [
+          237,
+          2436
+        ],
+        [
+          1527,
+          2436
+        ],
+        [
+          1527,
+          2497
+        ],
+        [
+          237,
+          2497
+        ]
+      ],
+      "score": 0.6275808215141296,
+      "y_pos": 2436,
+      "text": "194. Cường tuyến giáp: Gian sử, Khí anh, Tam âm giao.",
+      "confidence": 0.9994331576607444
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_022_reference_content.png",
+      "bbox": [
+        [
+          235,
+          2526
+        ],
+        [
+          2359,
+          2526
+        ],
+        [
+          2359,
+          2656
+        ],
+        [
+          235,
+          2656
+        ]
+      ],
+      "score": 0.6398613452911377,
+      "y_pos": 2526,
+      "text": "195. Viêm tuyến giáp: Nhân nghinh thấu Thiên đột, Hợp cốc, Túc tam lý, Trạch tiền, Thái khê,\nNôi guan, Tam âm giao.",
+      "confidence": 0.9672255458719764
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0518_029_reference_content.png",
+      "bbox": [
+        [
+          235,
+          2781
+        ],
+        [
+          1288,
+          2781
+        ],
+        [
+          1288,
+          2836
+        ],
+        [
+          235,
+          2836
+        ]
+      ],
+      "score": 0.5289106965065002,
+      "y_pos": 2781,
+      "text": "197. Lao hạch ở đầu hầu: Côn lôn, Bổ tham.",
+      "confidence": 0.9992737106301568
+    },
+    {
+      "type": "number",
+      "img_path": "p0518_003_number.png",
+      "bbox": [
+        [
+          2342,
+          3339
+        ],
+        [
+          2368,
+          3339
+        ],
+        [
+          2368,
+          3373
+        ],
+        [
+          2342,
+          3373
+        ]
+      ],
+      "score": 0.8291922807693481,
+      "y_pos": 3339,
+      "text": "\n    \n    \n    \n\n\n\n    \n\n            \n    ٥\n\n\n\n    ",
+      "confidence": 0.9714573053643107
+    },
+    {
+      "type": "footer",
+      "img_path": "p0518_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3341
+        ],
+        [
+          1324,
+          3341
+        ],
+        [
+          1324,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.9150399565696716,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987223969315583
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0518.png"
+}

@@ -1,0 +1,422 @@
+{
+  "page_num": 40,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0040_007_header.png",
+      "bbox": [
+        [
+          1608,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          202
+        ],
+        [
+          1608,
+          202
+        ]
+      ],
+      "score": 0.92605060338974,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7642816684785343
+    },
+    {
+      "type": "header",
+      "img_path": "p0040_011_header.png",
+      "bbox": [
+        [
+          229,
+          155
+        ],
+        [
+          765,
+          155
+        ],
+        [
+          765,
+          201
+        ],
+        [
+          229,
+          201
+        ]
+      ],
+      "score": 0.9131045937538147,
+      "y_pos": 155,
+      "text": "BÁT CƯƠNG BIÊN CHỨNG",
+      "confidence": 0.9848529317162253
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0040_009_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          313
+        ],
+        [
+          637,
+          313
+        ],
+        [
+          637,
+          362
+        ],
+        [
+          225,
+          362
+        ]
+      ],
+      "score": 0.9169349670410156,
+      "y_pos": 313,
+      "text": "IV. AM VA DƯƠNG",
+      "confidence": 0.9831000145743874
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_003_text.png",
+      "bbox": [
+        [
+          221,
+          401
+        ],
+        [
+          2359,
+          401
+        ],
+        [
+          2359,
+          655
+        ],
+        [
+          221,
+          655
+        ]
+      ],
+      "score": 0.9790725111961365,
+      "y_pos": 401,
+      "text": "Biểu và lý, hàn và nhiệt, hư và thực, nhất loạt có thể dùng 2 cương (2 đầu mối) âm dương khái\nquát lại thêm, tức là biểu, nhiệt, thực, thuộc dương chứng, lý, hư, hàn thuộc âm chứng, bởi thế\nâm và dương là 2 tổng cương của bát cương. Nhất loạt bệnh chứng, đều có thể quy nạp vào 2\nloại lớn là âm chứng và dương chứng.",
+      "confidence": 0.99503226817279
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0040_013_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          692
+        ],
+        [
+          549,
+          692
+        ],
+        [
+          549,
+          744
+        ],
+        [
+          226,
+          744
+        ]
+      ],
+      "score": 0.9071794748306274,
+      "y_pos": 692,
+      "text": "A. Am chứng",
+      "confidence": 0.9525727354563199
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_004_text.png",
+      "bbox": [
+        [
+          275,
+          770
+        ],
+        [
+          2358,
+          770
+        ],
+        [
+          2358,
+          1026
+        ],
+        [
+          275,
+          1026
+        ]
+      ],
+      "score": 0.9777113795280457,
+      "y_pos": 770,
+      "text": "Nhất loạt biểu hiện tinh thần ủy mị, sắc mặt tối mờ, thân hàn chi lạnh, nằm ưa co quắp, ngắn\nhơi ngại nói, tiếng nói thấp nhỏ, ưa sự yên lặng, không khát hoặc ưa uống nước nóng, bụng\nđau ưa sờ nắn, đại tiện lỏng nhão, tiểu tiện lỏng trong, chất lưỡi nhạt non, rêu lưỡi nhuận\nhoạt, mạch tượng thường trầm, trì, tế, nhược.",
+      "confidence": 0.9986764451325801
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0040_008_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1065
+        ],
+        [
+          638,
+          1065
+        ],
+        [
+          638,
+          1115
+        ],
+        [
+          226,
+          1115
+        ]
+      ],
+      "score": 0.9210217595100403,
+      "y_pos": 1065,
+      "text": "B. Dương chứng",
+      "confidence": 0.745853815227747
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_005_text.png",
+      "bbox": [
+        [
+          260,
+          1146
+        ],
+        [
+          2359,
+          1146
+        ],
+        [
+          2359,
+          1415
+        ],
+        [
+          260,
+          1415
+        ]
+      ],
+      "score": 0.9751048684120178,
+      "y_pos": 1146,
+      "text": "Nhất loạt biểu hiện tinh thần căng phấn, sắc mặt phát hồng, thwn nóng chi ấm, nằm thì ưa\ndạng duooĩ, khí thô, nói nhiều, tiếng nói to vang, hay động, miệng khát hoặc ưa uống mát,\nbụng đau sợ sờ nắn, đại tiện khô kết, tiểu tiện ngắn đỏ, chất lưỡi hồng tía, rắn, già, rêu lưỡi\nvàng, táo, mạch tượng thường hồng sác, có sức.",
+      "confidence": 0.9977523600073128
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0040_012_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1447
+        ],
+        [
+          465,
+          1447
+        ],
+        [
+          465,
+          1498
+        ],
+        [
+          227,
+          1498
+        ]
+      ],
+      "score": 0.9080412983894348,
+      "y_pos": 1447,
+      "text": "Am hư",
+      "confidence": 0.7363000767571586
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_002_text.png",
+      "bbox": [
+        [
+          270,
+          1533
+        ],
+        [
+          2357,
+          1533
+        ],
+        [
+          2357,
+          1870
+        ],
+        [
+          270,
+          1870
+        ]
+      ],
+      "score": 0.9803345203399658,
+      "y_pos": 1533,
+      "text": "Là chỉ về âm phần bất túc. \"Âm hư sinh nội nhiệt\", thường nói hư nhiệt tức là chỉ về cái đó,\nbiểu hiện chủ yếu là lòng bàn tay bàn chân nóng, sốt về chiều (sau ngọ), gầy mòn, mồ hôi\ntrộm, miệng táo họng khô, tiểu tiện ngắn đỏ, đại tiện khô mà rít, chất lưỡi hồng, lưỡi ít rêu\nhoặc không rêu, mạch tế sác, vô lực, là chứng của hư nhiệt, có thể thấy ở chứng lao phổi,\nbênh man tính tiêu hao.",
+      "confidence": 0.9968331258340708
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0040_010_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1911
+        ],
+        [
+          553,
+          1911
+        ],
+        [
+          553,
+          1960
+        ],
+        [
+          226,
+          1960
+        ]
+      ],
+      "score": 0.9143273830413818,
+      "y_pos": 1911,
+      "text": "D. Dương hư",
+      "confidence": 0.9095127674249502
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_000_text.png",
+      "bbox": [
+        [
+          245,
+          1990
+        ],
+        [
+          2359,
+          1990
+        ],
+        [
+          2359,
+          2402
+        ],
+        [
+          245,
+          2402
+        ]
+      ],
+      "score": 0.9825842976570129,
+      "y_pos": 1990,
+      "text": "Là chỉ về dương khí bất túc. \"Dương hư thì sinh hàn\". Nhất loạt hư hàn mà nói là chỉ về thứ\nđó, biểu hiện chủ yếu của nó là mệt mỏi không có sức ít hơi ngại nói, sợ rét, chân tay lạnh,\ntự ra mồ hôi, sắc mặt trắng xanh, nước tiểu trong mà dài, phân nát, lỏng, chất lưỡi nhạt, non,\nrêu lưỡi trắng, mạch trì, nhược, hoặc đại mà vô lực là chứng hư hàn, thường thấy ở người\ncông năng cơ thể suy thoái, các loại bệnh tật cơ sở thay cũ đổi mới (đại tạ) giảm thấp, và\nngười già thể yếu.",
+      "confidence": 0.9991392205823398
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_001_text.png",
+      "bbox": [
+        [
+          276,
+          2429
+        ],
+        [
+          2359,
+          2429
+        ],
+        [
+          2359,
+          2768
+        ],
+        [
+          276,
+          2768
+        ]
+      ],
+      "score": 0.9823871850967407,
+      "y_pos": 2429,
+      "text": "Ngoài ra, lại có 2 loại vong âm, vong dương, là chỉ về sốt cao ra nhiều mồ hôi, nôn mửa, ỉa\nchảy dữ đọi, mất nước quá nhiều, hoặc là tình huống âm thịnh hoặc dương khí mất đi nhanh\nchóng một số lượng lớn, xuất hiện chứng nguy nặng, lúc này phải kịp thời chẩn đoán chính\nxác, tích cực tiến hành cấp cứu. Vong âm và vong dương, ngoài những chứng nguy nặng\ncủa các loại bệnh nguyên phát tính, chúng có những đặc điểm khác nhau như sau:",
+      "confidence": 0.9993608779409767
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_006_text.png",
+      "bbox": [
+        [
+          341,
+          2797
+        ],
+        [
+          2357,
+          2797
+        ],
+        [
+          2357,
+          2991
+        ],
+        [
+          341,
+          2991
+        ]
+      ],
+      "score": 0.970061719417572,
+      "y_pos": 2797,
+      "text": "- Vong âm biểu hiện chủ yếu là mồ hôi nóng, nước bọt mạn không dính, tứ chi ấm nóng,\nhơi thở rất thô, miệng khát ham uống, sắc mặt về chiều ửng hồng lên, lưỡi hồng khô,\nmach hư, đai, sác, mà vô lưc.",
+      "confidence": 0.9517563723006116
+    },
+    {
+      "type": "footer",
+      "img_path": "p0040_014_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9058465361595154,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0040_015_number.png",
+      "bbox": [
+        [
+          2332,
+          3340
+        ],
+        [
+          2357,
+          3340
+        ],
+        [
+          2357,
+          3373
+        ],
+        [
+          2332,
+          3373
+        ]
+      ],
+      "score": 0.8186106085777283,
+      "y_pos": 3340,
+      "text": "        \n    \n    \n.\n    \n\n\n\n\n\n\n        \n",
+      "confidence": 0.9723748102784157
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0040.png"
+}

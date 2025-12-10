@@ -1,0 +1,552 @@
+{
+  "page_num": 34,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0034_009_header.png",
+      "bbox": [
+        [
+          1608,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1608,
+          201
+        ]
+      ],
+      "score": 0.9280347228050232,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7565815800002643
+    },
+    {
+      "type": "header",
+      "img_path": "p0034_013_header.png",
+      "bbox": [
+        [
+          228,
+          155
+        ],
+        [
+          764,
+          155
+        ],
+        [
+          764,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9134944081306458,
+      "y_pos": 155,
+      "text": "BÁT CƯƠNG BIÊN CHỨNG",
+      "confidence": 0.7147865972735665
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0034_014_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          317
+        ],
+        [
+          492,
+          317
+        ],
+        [
+          492,
+          366
+        ],
+        [
+          225,
+          366
+        ]
+      ],
+      "score": 0.9096590280532837,
+      "y_pos": 317,
+      "text": "<b>BIÊU VÀ LÝ</b>",
+      "confidence": 0.9488893279007503
+    },
+    {
+      "type": "text",
+      "img_path": "p0034_002_text.png",
+      "bbox": [
+        [
+          276,
+          401
+        ],
+        [
+          2358,
+          401
+        ],
+        [
+          2358,
+          595
+        ],
+        [
+          276,
+          595
+        ]
+      ],
+      "score": 0.9753555655479431,
+      "y_pos": 401,
+      "text": "Biểu và lý là chỉ bệnh biến ở vùng nông hay sâu, và bệnh tình nặng hay nhẹ. Nhất loạt bệnh\nở cơ biểu thuộc biểu, bệnh tình nhẹ mà vùng bệnh ở nông. Bệnh ở tạng phủ thuộc lý, bệnh\ntình năng và nơi có bênh ở sâu.",
+      "confidence": 0.9994930451137399
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0034_012_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          633
+        ],
+        [
+          575,
+          633
+        ],
+        [
+          575,
+          686
+        ],
+        [
+          226,
+          686
+        ]
+      ],
+      "score": 0.915147066116333,
+      "y_pos": 633,
+      "text": "A. Biểu chứng",
+      "confidence": 0.945527990659078
+    },
+    {
+      "type": "text",
+      "img_path": "p0034_004_text.png",
+      "bbox": [
+        [
+          269,
+          713
+        ],
+        [
+          2359,
+          713
+        ],
+        [
+          2359,
+          904
+        ],
+        [
+          269,
+          904
+        ]
+      ],
+      "score": 0.9684850573539734,
+      "y_pos": 713,
+      "text": "Thường thấy ở thời kỳ đầu của bệnh ngoại cảm, biểu hiện lâm sàng chủ yếu là phát sốt sợ\nlạnh (hoặc sợ gió), đau đầu, tứ chi buốt đau, mũi tắc, ho nhẹ, rêu lưỡi trắng mỏng, mạch\nphù, trong đó có phát sốt, sợ lạnh, mạch phù là đặc trưng của biểu chứng.",
+      "confidence": 0.9996691816244034
+    },
+    {
+      "type": "text",
+      "img_path": "p0034_017_text.png",
+      "bbox": [
+        [
+          282,
+          925
+        ],
+        [
+          1697,
+          925
+        ],
+        [
+          1697,
+          979
+        ],
+        [
+          282,
+          979
+        ]
+      ],
+      "score": 0.8755910396575928,
+      "y_pos": 925,
+      "text": "Biểu chứng có chia ra biểu hàn, biểu nhiệt, biểu hư, biểu thực:",
+      "confidence": 0.9969260463347802
+    },
+    {
+      "type": "text",
+      "img_path": "p0034_006_text.png",
+      "bbox": [
+        [
+          342,
+          1006
+        ],
+        [
+          2357,
+          1006
+        ],
+        [
+          2357,
+          1124
+        ],
+        [
+          342,
+          1124
+        ]
+      ],
+      "score": 0.9601661562919617,
+      "y_pos": 1006,
+      "text": "\n    Sợ lạnh nặng, phát sốt nhẹ, mạch phù khẩn là biểu hàn chứng, chữa thì dùng tân ôn\n\ngiải biểu.",
+      "confidence": 0.9640096254948515
+    },
+    {
+      "type": "text",
+      "img_path": "p0034_005_text.png",
+      "bbox": [
+        [
+          341,
+          1153
+        ],
+        [
+          2357,
+          1153
+        ],
+        [
+          2357,
+          1270
+        ],
+        [
+          341,
+          1270
+        ]
+      ],
+      "score": 0.9616516828536987,
+      "y_pos": 1153,
+      "text": "\n    Sợ lạnh nhẹ, phát sốt nặng, mạch phù sác gọi là biểu nhiệt chứng, chữa thì dùng tân\n\nlương giải biểu.",
+      "confidence": 0.9500102836270337
+    },
+    {
+      "type": "text",
+      "img_path": "p0034_016_text.png",
+      "bbox": [
+        [
+          342,
+          1296
+        ],
+        [
+          2343,
+          1296
+        ],
+        [
+          2343,
+          1353
+        ],
+        [
+          342,
+          1353
+        ]
+      ],
+      "score": 0.8833924531936646,
+      "y_pos": 1296,
+      "text": "\n    Biểu chứng không có mồ hôi, gọi là biểu thực, chữa thì dùng thuốc phát biểu rất mạnh.\n",
+      "confidence": 0.9861639636056917
+    },
+    {
+      "type": "text",
+      "img_path": "p0034_019_text.png",
+      "bbox": [
+        [
+          342,
+          1375
+        ],
+        [
+          2290,
+          1375
+        ],
+        [
+          2290,
+          1432
+        ],
+        [
+          342,
+          1432
+        ]
+      ],
+      "score": 0.8521896600723267,
+      "y_pos": 1375,
+      "text": "\n    Biểu chứng nhiều mồ hôi, gọi là biểu hư, không thể dùng quá nhiều thuốc phát biểu.\n",
+      "confidence": 0.9842487270081485
+    },
+    {
+      "type": "text",
+      "img_path": "p0034_018_text.png",
+      "bbox": [
+        [
+          283,
+          1456
+        ],
+        [
+          2346,
+          1456
+        ],
+        [
+          2346,
+          1513
+        ],
+        [
+          283,
+          1513
+        ]
+      ],
+      "score": 0.8636117577552795,
+      "y_pos": 1456,
+      "text": "Người già, người thể yếu mà có biểu chứng, phải đồng thời với giải biểu là chú ý phù chính.",
+      "confidence": 0.9997290744576403
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0034_010_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1548
+        ],
+        [
+          528,
+          1548
+        ],
+        [
+          528,
+          1598
+        ],
+        [
+          226,
+          1598
+        ]
+      ],
+      "score": 0.920481264591217,
+      "y_pos": 1548,
+      "text": "B. Lý chứng",
+      "confidence": 0.8753259686323313
+    },
+    {
+      "type": "text",
+      "img_path": "p0034_000_text.png",
+      "bbox": [
+        [
+          268,
+          1626
+        ],
+        [
+          2359,
+          1626
+        ],
+        [
+          2359,
+          2014
+        ],
+        [
+          268,
+          2014
+        ]
+      ],
+      "score": 0.9845178723335266,
+      "y_pos": 1626,
+      "text": "Thường thấy ở thời kỳ giữa và thời kỳ cực thịnh của các loại ngoại cảm, lúc đó biểu chứng\nđã giải, bệnh tà chuyển vào lý, chồng lên (lũy) đến tạng phủ. Mặt khác, các loại bệnh nội\nthương đều là lý chứng. Biểu hiện lâm sàng của lý chứng là nhiều loại, nhiều dạng, không\nnhững có các phần hàn, nhiệt, hư, thực mà còn do các tạng phủ khác nhau dẫn đến, biểu\nhiện cụ thể của cái đó đã đem trình bày trong tạng phủ biện chứng luận trị và ôn nhiệt bệnh\nbiên chứng luân tri.",
+      "confidence": 0.9963623716073803
+    },
+    {
+      "type": "text",
+      "img_path": "p0034_007_text.png",
+      "bbox": [
+        [
+          278,
+          2039
+        ],
+        [
+          2358,
+          2039
+        ],
+        [
+          2358,
+          2160
+        ],
+        [
+          278,
+          2160
+        ]
+      ],
+      "score": 0.9578477144241333,
+      "y_pos": 2039,
+      "text": "Lý chứng nhất loạt không sợ gió, không sợ lạnh, mạch tượng nhất loạt là mạch trầm, chất\nlưỡi thường có cải biến, rêu lưỡi thường vàng hoặc đen.",
+      "confidence": 0.9995742067768097
+    },
+    {
+      "type": "text",
+      "img_path": "p0034_003_text.png",
+      "bbox": [
+        [
+          275,
+          2183
+        ],
+        [
+          2359,
+          2183
+        ],
+        [
+          2359,
+          2650
+        ],
+        [
+          275,
+          2650
+        ]
+      ],
+      "score": 0.9742705821990967,
+      "y_pos": 2183,
+      "text": "Như mới bắt đầu viêm phổi, có các chứng sợ lạnh phát sốt, đau đầu, đau mình, mạch phù\nsác thuộc về biểu chứng. Nếu bệnh tình phát triển, người bệnh xuất hiện sốt cao, mặt đỏ,\nkhông sợ lạnh, miệng khát, ngực đau, ho dữ dội, mửa ra đờm có màu rỉ sắt, vật vã (phiền\nthao), lưỡi hồng, rêu lưỡi vàng, mạch hồng sác là chứng của phế nhiệt, đó là thuộc lý chứng.\nLý chứng không những có lý hàn, lý nhiệt, lý hư, lý thực mà khi bệnh biến phức tạp, lại cần\nphân riêng ra hư hàn, mà lại là hàn thực, là hư nhiệt mà lại là thực nhiệt. Cái đó ở các\nchương dưới sẽ chia ra trình bày rõ.",
+      "confidence": 0.9987868936024845
+    },
+    {
+      "type": "text",
+      "img_path": "p0034_008_text.png",
+      "bbox": [
+        [
+          279,
+          2674
+        ],
+        [
+          2358,
+          2674
+        ],
+        [
+          2358,
+          2799
+        ],
+        [
+          279,
+          2799
+        ]
+      ],
+      "score": 0.9553959965705872,
+      "y_pos": 2674,
+      "text": "Ngoài ra, bệnh không tại biểu, cũng không ở lý, nằm gọn giữa biểu và lý, gọi là bán biểu bán\nlý chứng. Chứng trạng chủ yếu của nó là hàn nhiệt vãng lai, chữa thì dùng phép hòa giải.",
+      "confidence": 0.9964733984946641
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0034_011_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2832
+        ],
+        [
+          734,
+          2832
+        ],
+        [
+          734,
+          2887
+        ],
+        [
+          226,
+          2887
+        ]
+      ],
+      "score": 0.9187875986099243,
+      "y_pos": 2832,
+      "text": "C. Biểu lý đồng bệnh",
+      "confidence": 0.9505067765712738
+    },
+    {
+      "type": "text",
+      "img_path": "p0034_001_text.png",
+      "bbox": [
+        [
+          276,
+          2912
+        ],
+        [
+          2359,
+          2912
+        ],
+        [
+          2359,
+          3170
+        ],
+        [
+          276,
+          3170
+        ]
+      ],
+      "score": 0.9771331548690796,
+      "y_pos": 2912,
+      "text": "Biểu và lý có khi cùng bị bệnh một lúc. Như thời kỳ đầu của chứng cấp tính khuẩn lỵ, đã có\nđau bụng, đại tiện mủ máu, miệng khát, rêu lưỡi vàng trắng là chứng trạng của lý chứng, lại\ncó sợ lạnh phát sốt, tứ chi buốt đau, mạch phù sác là chứng trạng của biểu chứng, đó gọi là\nbiểu lý đồng bệnh. Biểu lý đồng bệnh thường thấy ở 2 loại tình hình, một là: Bệnh ngoại cảm",
+      "confidence": 0.9996621181988978
+    },
+    {
+      "type": "footer",
+      "img_path": "p0034_015_footer.png",
+      "bbox": [
+        [
+          227,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.9019718766212463,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.952197735039693
+    },
+    {
+      "type": "number",
+      "img_path": "p0034_020_number.png",
+      "bbox": [
+        [
+          2332,
+          3340
+        ],
+        [
+          2357,
+          3340
+        ],
+        [
+          2357,
+          3373
+        ],
+        [
+          2332,
+          3373
+        ]
+      ],
+      "score": 0.816406786441803,
+      "y_pos": 3340,
+      "text": "        \n    \n    \n\n    \n\n\n\n    \n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0034.png"
+}

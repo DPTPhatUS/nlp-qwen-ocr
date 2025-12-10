@@ -1,0 +1,890 @@
+{
+  "page_num": 520,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0520_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9203515648841858,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0520_000_header.png",
+      "bbox": [
+        [
+          228,
+          151
+        ],
+        [
+          1470,
+          151
+        ],
+        [
+          1470,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9232848882675171,
+      "y_pos": 151,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9086961543560028
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0520_004_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          326
+        ],
+        [
+          866,
+          326
+        ],
+        [
+          866,
+          386
+        ],
+        [
+          226,
+          386
+        ]
+      ],
+      "score": 0.6852807402610779,
+      "y_pos": 326,
+      "text": "Phần 10. BÊNH TIM MACH",
+      "confidence": 0.7558843890825907
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_031_reference_content.png",
+      "bbox": [
+        [
+          229,
+          418
+        ],
+        [
+          1888,
+          418
+        ],
+        [
+          1888,
+          482
+        ],
+        [
+          229,
+          482
+        ]
+      ],
+      "score": 0.5536407232284546,
+      "y_pos": 418,
+      "text": "222. Viêm cơ tim: Kinh cốt, Khích thượng, Nội quan, Thông lý, Thiếu phủ.",
+      "confidence": 0.9992649192745621
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_025_reference_content.png",
+      "bbox": [
+        [
+          232,
+          508
+        ],
+        [
+          1622,
+          508
+        ],
+        [
+          1622,
+          574
+        ],
+        [
+          232,
+          574
+        ]
+      ],
+      "score": 0.5802947282791138,
+      "y_pos": 508,
+      "text": "223. Tim đập quá chậm: Thông lý, Tố liêu, Hưng phấn huyệt.",
+      "confidence": 0.9957869152228037
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_026_reference_content.png",
+      "bbox": [
+        [
+          233,
+          599
+        ],
+        [
+          1845,
+          599
+        ],
+        [
+          1845,
+          666
+        ],
+        [
+          233,
+          666
+        ]
+      ],
+      "score": 0.580049455165863,
+      "y_pos": 599,
+      "text": "224. Tim đập quá chậm, huyết áp thấp: Tố liêu, Hưng phấn, Nội quan.",
+      "confidence": 0.9940966264061306
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_021_reference_content.png",
+      "bbox": [
+        [
+          232,
+          693
+        ],
+        [
+          1310,
+          693
+        ],
+        [
+          1310,
+          756
+        ],
+        [
+          232,
+          756
+        ]
+      ],
+      "score": 0.6095836162567139,
+      "y_pos": 693,
+      "text": "225. Tim đập quá nhanh: Thần môn, Nội quan.",
+      "confidence": 0.9897642546229892
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_016_reference_content.png",
+      "bbox": [
+        [
+          233,
+          784
+        ],
+        [
+          1614,
+          784
+        ],
+        [
+          1614,
+          848
+        ],
+        [
+          233,
+          848
+        ]
+      ],
+      "score": 0.6442993879318237,
+      "y_pos": 784,
+      "text": "226. Tim đập quá nhanh: Quyết âm du, Thiếu phủ, Thông lý.",
+      "confidence": 0.9946358052350707
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_014_reference_content.png",
+      "bbox": [
+        [
+          232,
+          876
+        ],
+        [
+          1493,
+          876
+        ],
+        [
+          1493,
+          940
+        ],
+        [
+          232,
+          940
+        ]
+      ],
+      "score": 0.6450820565223694,
+      "y_pos": 876,
+      "text": "227. Tim đập mạnh: Quyết âm du, Thiếu phủ, Thông lý.",
+      "confidence": 0.9950516974484479
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_019_reference_content.png",
+      "bbox": [
+        [
+          233,
+          969
+        ],
+        [
+          1331,
+          969
+        ],
+        [
+          1331,
+          1032
+        ],
+        [
+          233,
+          1032
+        ]
+      ],
+      "score": 0.6367033123970032,
+      "y_pos": 969,
+      "text": "228. Nhịp tim không đều: Chí dương, Nội quan.",
+      "confidence": 0.9901758495797502
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_020_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1060
+        ],
+        [
+          1256,
+          1060
+        ],
+        [
+          1256,
+          1124
+        ],
+        [
+          232,
+          1124
+        ]
+      ],
+      "score": 0.6364663243293762,
+      "y_pos": 1060,
+      "text": "229. Nhịp tim không đều: Tâm du, Thông lý.",
+      "confidence": 0.9995702870867469
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_005_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1152
+        ],
+        [
+          1747,
+          1152
+        ],
+        [
+          1747,
+          1217
+        ],
+        [
+          233,
+          1217
+        ]
+      ],
+      "score": 0.6820390224456787,
+      "y_pos": 1152,
+      "text": "230. Nhịp tim không đều: Thiếu phủ, Thông lý, Nội quan, Đại lăng.",
+      "confidence": 0.9995695290280812
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_006_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1244
+        ],
+        [
+          1937,
+          1244
+        ],
+        [
+          1937,
+          1309
+        ],
+        [
+          232,
+          1309
+        ]
+      ],
+      "score": 0.6705136895179749,
+      "y_pos": 1244,
+      "text": "231. Nhịp tim không đều: Thần môn, Tâm du, Nội quan, Dương lăng tuyền.",
+      "confidence": 0.9993849587109354
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_015_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1332
+        ],
+        [
+          1337,
+          1332
+        ],
+        [
+          1337,
+          1397
+        ],
+        [
+          232,
+          1397
+        ]
+      ],
+      "score": 0.6447022557258606,
+      "y_pos": 1332,
+      "text": "232. Tim cắn đau: Cực tuyền, Âm giao, Lậu cốc.",
+      "confidence": 0.9992905085285505
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_010_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1425
+        ],
+        [
+          1604,
+          1425
+        ],
+        [
+          1604,
+          1491
+        ],
+        [
+          232,
+          1491
+        ]
+      ],
+      "score": 0.6542614698410034,
+      "y_pos": 1425,
+      "text": "233. Tim cắn đau: Cự khuyết, Tâm du, Khích môn, Thông lý.",
+      "confidence": 0.999198196297985
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_007_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1518
+        ],
+        [
+          1355,
+          1518
+        ],
+        [
+          1355,
+          1581
+        ],
+        [
+          232,
+          1581
+        ]
+      ],
+      "score": 0.6665334701538086,
+      "y_pos": 1518,
+      "text": "234. Tim cắn đau: Nội quan, Gian sử, Túc tam lý.",
+      "confidence": 0.9989966690540314
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_013_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1610
+        ],
+        [
+          1496,
+          1610
+        ],
+        [
+          1496,
+          1674
+        ],
+        [
+          232,
+          1674
+        ]
+      ],
+      "score": 0.6461977958679199,
+      "y_pos": 1610,
+      "text": "235. Tim cắn đau: Nội quan, Tam âm giao, Chiên trung.",
+      "confidence": 0.9994608662345192
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_009_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1702
+        ],
+        [
+          1114,
+          1702
+        ],
+        [
+          1114,
+          1765
+        ],
+        [
+          232,
+          1765
+        ]
+      ],
+      "score": 0.65870600938797,
+      "y_pos": 1702,
+      "text": "236. Tim buồn bã: Lao cung, Đại lăng.",
+      "confidence": 0.9960002318406717
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_008_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1794
+        ],
+        [
+          1197,
+          1794
+        ],
+        [
+          1197,
+          1855
+        ],
+        [
+          232,
+          1855
+        ]
+      ],
+      "score": 0.6612712740898132,
+      "y_pos": 1794,
+      "text": "237. Tim buồn bã: Xích trạch, Thiếu trạch.",
+      "confidence": 0.9996194487268274
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_012_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1886
+        ],
+        [
+          1196,
+          1886
+        ],
+        [
+          1196,
+          1947
+        ],
+        [
+          232,
+          1947
+        ]
+      ],
+      "score": 0.6471303701400757,
+      "y_pos": 1886,
+      "text": "238. Tim hoảng hốt: Cách du, Chí dương.",
+      "confidence": 0.9949851195986678
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_018_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1977
+        ],
+        [
+          1075,
+          1977
+        ],
+        [
+          1075,
+          2039
+        ],
+        [
+          232,
+          2039
+        ]
+      ],
+      "score": 0.6397573947906494,
+      "y_pos": 1977,
+      "text": "239. Tâm phiền: Cự khuyết, Tâm du.",
+      "confidence": 0.991396983464559
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_011_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2070
+        ],
+        [
+          1247,
+          2070
+        ],
+        [
+          1247,
+          2131
+        ],
+        [
+          232,
+          2131
+        ]
+      ],
+      "score": 0.6510221362113953,
+      "y_pos": 2070,
+      "text": "240. Đau tim: Khúc trạch, Thận du, Cách du.",
+      "confidence": 0.9900064494874742
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_017_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2160
+        ],
+        [
+          1384,
+          2160
+        ],
+        [
+          1384,
+          2224
+        ],
+        [
+          231,
+          2224
+        ]
+      ],
+      "score": 0.6419585347175598,
+      "y_pos": 2160,
+      "text": "241. Đau tim: Chiên trung, Nội quan, Tam âm giao.",
+      "confidence": 0.9845798681764042
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_027_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2252
+        ],
+        [
+          1122,
+          2252
+        ],
+        [
+          1122,
+          2313
+        ],
+        [
+          231,
+          2313
+        ]
+      ],
+      "score": 0.5731898546218872,
+      "y_pos": 2252,
+      "text": "242. Đau tim: Quyết âm du, Thần môn.",
+      "confidence": 0.9949358215457514
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_024_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2342
+        ],
+        [
+          1357,
+          2342
+        ],
+        [
+          1357,
+          2406
+        ],
+        [
+          231,
+          2406
+        ]
+      ],
+      "score": 0.5810312032699585,
+      "y_pos": 2342,
+      "text": "243. Đau tim: Quyết âm du, Thần môn, Lập khấp.",
+      "confidence": 0.996104416747888
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_023_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2436
+        ],
+        [
+          1520,
+          2436
+        ],
+        [
+          1520,
+          2497
+        ],
+        [
+          231,
+          2497
+        ]
+      ],
+      "score": 0.5817108750343323,
+      "y_pos": 2436,
+      "text": "244. Tim đau, nôn khan, bứt rứt: Cực tuyền, Hiệp bạch.",
+      "confidence": 0.9993564443928855
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_030_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2618
+        ],
+        [
+          1933,
+          2618
+        ],
+        [
+          1933,
+          2681
+        ],
+        [
+          231,
+          2681
+        ]
+      ],
+      "score": 0.5541127920150757,
+      "y_pos": 2618,
+      "text": "246. Bệnh tim do phong thấp: Thiếu phủ, Khúc trạch, Khích môn, Gian sử.",
+      "confidence": 0.9936112834982676
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_029_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2710
+        ],
+        [
+          1895,
+          2710
+        ],
+        [
+          1895,
+          2771
+        ],
+        [
+          231,
+          2771
+        ]
+      ],
+      "score": 0.562690258026123,
+      "y_pos": 2710,
+      "text": "247. Bệnh tim do phong thấp: Thiếu phủ, Khúc trạch, Nội quan, Gian sử.",
+      "confidence": 0.9996565936340226
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_033_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2803
+        ],
+        [
+          1372,
+          2803
+        ],
+        [
+          1372,
+          2863
+        ],
+        [
+          232,
+          2863
+        ]
+      ],
+      "score": 0.5361061096191406,
+      "y_pos": 2803,
+      "text": "248. Bệnh tim do phong thấp: Tâm du, Nội quan.",
+      "confidence": 0.9770536137123903
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_028_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2893
+        ],
+        [
+          1737,
+          2893
+        ],
+        [
+          1737,
+          2956
+        ],
+        [
+          232,
+          2956
+        ]
+      ],
+      "score": 0.565368115901947,
+      "y_pos": 2893,
+      "text": "249. Bệnh tim do phong thấp: Tâm du (thủy châm), Quyết âm du.",
+      "confidence": 0.9904065406511701
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_032_reference_content.png",
+      "bbox": [
+        [
+          230,
+          2984
+        ],
+        [
+          2054,
+          2984
+        ],
+        [
+          2054,
+          3049
+        ],
+        [
+          230,
+          3049
+        ]
+      ],
+      "score": 0.5504071116447449,
+      "y_pos": 2984,
+      "text": "250. Bệnh tim do phong thấp: Quyết âm du, Tâm du, Tam âm giao (thủy châm).",
+      "confidence": 0.9896836335721769
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0520_022_reference_content.png",
+      "bbox": [
+        [
+          229,
+          3075
+        ],
+        [
+          2360,
+          3075
+        ],
+        [
+          2360,
+          3208
+        ],
+        [
+          229,
+          3208
+        ]
+      ],
+      "score": 0.6073402762413025,
+      "y_pos": 3075,
+      "text": "251. Bệnh tim do phong thấp, dẫn đến phù, cổ trướng (suy tim): Trung cực thấu Khúc cốt,\nThủy tuyền, Thủy phân, Tam âm giao thấu Huyền chung, Phục lưu.",
+      "confidence": 0.9992939839191902
+    },
+    {
+      "type": "number",
+      "img_path": "p0520_003_number.png",
+      "bbox": [
+        [
+          2318,
+          3337
+        ],
+        [
+          2365,
+          3337
+        ],
+        [
+          2365,
+          3374
+        ],
+        [
+          2318,
+          3374
+        ]
+      ],
+      "score": 0.8489980697631836,
+      "y_pos": 3337,
+      "text": "    \n\n                    \n\n    ۰\n    ٠.\n    ",
+      "confidence": 0.9360632337629795
+    },
+    {
+      "type": "footer",
+      "img_path": "p0520_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1324,
+          3340
+        ],
+        [
+          1324,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.9097343683242798,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9988329028183559
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0520.png"
+}

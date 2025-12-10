@@ -1,0 +1,500 @@
+{
+  "page_num": 304,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0304_010_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9284733533859253,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7576541084618795
+    },
+    {
+      "type": "header",
+      "img_path": "p0304_012_header.png",
+      "bbox": [
+        [
+          230,
+          155
+        ],
+        [
+          945,
+          155
+        ],
+        [
+          945,
+          205
+        ],
+        [
+          230,
+          205
+        ]
+      ],
+      "score": 0.9161721467971802,
+      "y_pos": 155,
+      "text": "TẠNG PHỦ BIỆN CHÚNG LUẬN TRỊ",
+      "confidence": 0.9257833699385325
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0304_018_paragraph_title.png",
+      "bbox": [
+        [
+          726,
+          310
+        ],
+        [
+          1859,
+          310
+        ],
+        [
+          1859,
+          383
+        ],
+        [
+          726,
+          383
+        ]
+      ],
+      "score": 0.7680491209030151,
+      "y_pos": 310,
+      "text": "TANG PHỦ BIÊN CHỨNG LUÂN TRI",
+      "confidence": 0.9912212649981181
+    },
+    {
+      "type": "text",
+      "img_path": "p0304_007_text.png",
+      "bbox": [
+        [
+          221,
+          427
+        ],
+        [
+          2358,
+          427
+        ],
+        [
+          2358,
+          552
+        ],
+        [
+          221,
+          552
+        ]
+      ],
+      "score": 0.9606643915176392,
+      "y_pos": 427,
+      "text": "Lấy tạng phủ làm đầu mối tiến hành biện chứng luận trị gọi tắt là \"Tạng phủ chứng trị\". Nó là cơ\nsở lâm sàng khoa học chẩn đoán trị liệu.",
+      "confidence": 0.9996520873843407
+    },
+    {
+      "type": "text",
+      "img_path": "p0304_002_text.png",
+      "bbox": [
+        [
+          220,
+          591
+        ],
+        [
+          2358,
+          591
+        ],
+        [
+          2358,
+          858
+        ],
+        [
+          220,
+          858
+        ]
+      ],
+      "score": 0.9792433381080627,
+      "y_pos": 591,
+      "text": "Công năng của mỗi tạng phủ có nhiều mặt, quan hệ giữa tạng phủ, tổ chức cơ quan với nhau\nrất phức tạp, do vậy, hình thái bệnh các tạng phủ có nhiều vẻ. Về lâm sàng cần xuyên qua các\nbiện pháp, các hiện tượng để tìm bản chất, tìm mâu thuẫn chủ yếu. Trong những chứng trạng\nchung ấy, phải tìm ra một số chủ chứng có tính chất then chốt để phân tích.",
+      "confidence": 0.9980132711541334
+    },
+    {
+      "type": "text",
+      "img_path": "p0304_009_text.png",
+      "bbox": [
+        [
+          220,
+          893
+        ],
+        [
+          2358,
+          893
+        ],
+        [
+          2358,
+          1023
+        ],
+        [
+          220,
+          1023
+        ]
+      ],
+      "score": 0.9571748971939087,
+      "y_pos": 893,
+      "text": "Để tiện cho việc học tập, ở mỗi chứng cử ra mấy bệnh danh theo Tây y cho dễ nhận biết (trong\nTây y là một loại bệnh thì trong Đông y có thể phân thành mấy loại hình hoặc mấy loại chứng).",
+      "confidence": 0.9987472773499344
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0304_013_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1052
+        ],
+        [
+          794,
+          1052
+        ],
+        [
+          794,
+          1103
+        ],
+        [
+          225,
+          1103
+        ]
+      ],
+      "score": 0.9034422039985657,
+      "y_pos": 1052,
+      "text": "TÂM VÀ TIỂU TRƯỜNG",
+      "confidence": 0.8152726531028748
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0304_015_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1153
+        ],
+        [
+          716,
+          1153
+        ],
+        [
+          716,
+          1201
+        ],
+        [
+          225,
+          1201
+        ]
+      ],
+      "score": 0.8974438905715942,
+      "y_pos": 1153,
+      "text": "A. Biện chứng luận tri",
+      "confidence": 0.9237002183993658
+    },
+    {
+      "type": "text",
+      "img_path": "p0304_000_text.png",
+      "bbox": [
+        [
+          220,
+          1240
+        ],
+        [
+          2358,
+          1240
+        ],
+        [
+          2358,
+          1648
+        ],
+        [
+          220,
+          1648
+        ]
+      ],
+      "score": 0.985594630241394,
+      "y_pos": 1240,
+      "text": "Công năng chủ yếu của tâm là chủ huyết mạch và chủ thần chí, do đó phản ứng chủ yếu của\ntâm là nhưng biểu hiện khác thường về mặt huyết mạch và thần chí. Căn cứ vào những biểu\nhiện lâm sàng, có những chứng: Tâm dương hư, tâm âm hư, tâm huyết ứ ... Thuộc về mặt chủ\nthần chí, có những chứng: Đàm hỏa nội nhiễu, đàm mê tâm khiếu. Về phía tiểu trường thấy\nbệnh chứng là: Tâm di nhiệt sang tiểu trường. Còn nhiệt nhập tâm bào thì thuộc về phạm vi ôn\nnhiệt bệnh, sẽ nghiên cứu về biến chứng luận trị sau.",
+      "confidence": 0.9984587171357405
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0304_011_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1684
+        ],
+        [
+          1291,
+          1684
+        ],
+        [
+          1291,
+          1738
+        ],
+        [
+          226,
+          1738
+        ]
+      ],
+      "score": 0.9186577796936035,
+      "y_pos": 1684,
+      "text": "1. Tâm dương bất túc (tâm dương bất chấn)",
+      "confidence": 0.9948224730269853
+    },
+    {
+      "type": "text",
+      "img_path": "p0304_005_text.png",
+      "bbox": [
+        [
+          284,
+          1777
+        ],
+        [
+          2357,
+          1777
+        ],
+        [
+          2357,
+          1903
+        ],
+        [
+          284,
+          1903
+        ]
+      ],
+      "score": 0.961905300617218,
+      "y_pos": 1777,
+      "text": "a. Triệu chứng: Gồm tâm khí hư, tâm dương hư, tâm dương hư suy. Biểu hiện chung: Hồi\nhộp, đoản hơi (khi hoạt động nặng thêm), tự ra mồ hôi, lưỡi nhạt, rêu lưỡi trắng.",
+      "confidence": 0.9977521406782546
+    },
+    {
+      "type": "text",
+      "img_path": "p0304_006_text.png",
+      "bbox": [
+        [
+          335,
+          1939
+        ],
+        [
+          2357,
+          1939
+        ],
+        [
+          2357,
+          2062
+        ],
+        [
+          335,
+          2062
+        ]
+      ],
+      "score": 0.9611242413520813,
+      "y_pos": 1939,
+      "text": "- Tâm khí hư: Thấy mệt mỏi, uể oải, sắt mặt trắng bợt, hay thở dài, lưỡi phì nộn (béo\nnon), đoản hơi.",
+      "confidence": 0.9943895556380251
+    },
+    {
+      "type": "text",
+      "img_path": "p0304_004_text.png",
+      "bbox": [
+        [
+          336,
+          2102
+        ],
+        [
+          2358,
+          2102
+        ],
+        [
+          2358,
+          2228
+        ],
+        [
+          336,
+          2228
+        ]
+      ],
+      "score": 0.9621756076812744,
+      "y_pos": 2102,
+      "text": "- Tâm dương hư: Mình hàn, chi lạnh, khó chịu vùng tim, đau tim, mạch tế, nhược hoặc\nkết, đại (mạch nhỏ yếu hoặc loạn nhịp).",
+      "confidence": 0.9976927716129993
+    },
+    {
+      "type": "text",
+      "img_path": "p0304_008_text.png",
+      "bbox": [
+        [
+          336,
+          2264
+        ],
+        [
+          2359,
+          2264
+        ],
+        [
+          2359,
+          2389
+        ],
+        [
+          336,
+          2389
+        ]
+      ],
+      "score": 0.9595215916633606,
+      "y_pos": 2264,
+      "text": "- Tâm dương hư suy (hư thoát): Mồ hôi ra dần dề, tứ chi rất lạnh, môi xanh tím, hơi thở\nhít nhỏ yếu, có khi choáng váng hôn mê, mạch nhỏ như muốn mất.",
+      "confidence": 0.9842483239206538
+    },
+    {
+      "type": "text",
+      "img_path": "p0304_001_text.png",
+      "bbox": [
+        [
+          284,
+          2428
+        ],
+        [
+          2359,
+          2428
+        ],
+        [
+          2359,
+          2763
+        ],
+        [
+          284,
+          2763
+        ]
+      ],
+      "score": 0.9834073185920715,
+      "y_pos": 2428,
+      "text": "b. Bệnh lý: Tâm khí hư do tâm khí không đủ sức thôi động huyết mạch, do đó xuất hiện\nchứng hồi hộp, ngắn hơi, mạch hư. Tâm dương hư, do dương suy nên thấy hiện tượng\nhàn. Tâm dương hư suy là tâm khí bất túc<sup>(*)</sup> lại kiêm tâm dương hư nên bệnh biến hóa\nnghiêm trọng. Mạch vi tế, thấy hồi hộp. Dương khí đại hư sẽ thấy ra nhiều mồ hôi, tứ chi\nrất lanh làm ảnh hưởng đến thần chí, có thể đưa đến bất tỉnh.",
+      "confidence": 0.9487213173279763
+    },
+    {
+      "type": "text",
+      "img_path": "p0304_003_text.png",
+      "bbox": [
+        [
+          286,
+          2802
+        ],
+        [
+          2359,
+          2802
+        ],
+        [
+          2359,
+          3070
+        ],
+        [
+          286,
+          3070
+        ]
+      ],
+      "score": 0.9761273264884949,
+      "y_pos": 2802,
+      "text": "c. Phép chữa: Tâm khí hư nên bổ tâm khí, an tâm thần dùng Tứ quan tử thang để bổ khí,\ngia thêm Toan táo nhân, Viễn chi, Ngũ vị tử để dưỡng tâm an thần. Tâm dương hư nên\nthông tâm dương, dùng <i>Qua lâu ung bạch Quế chi thang</i>; nếu như kiêm ứ trệ nên dùng\nthêm Thất Tiếu tán để hoạt huyết tán ứ, Tâm dương hư suy nên hồi dương cứu nghịch,",
+      "confidence": 0.9868705627342491
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0304_016_footnote.png",
+      "bbox": [
+        [
+          226,
+          3153
+        ],
+        [
+          1096,
+          3153
+        ],
+        [
+          1096,
+          3206
+        ],
+        [
+          226,
+          3206
+        ]
+      ],
+      "score": 0.8878733515739441,
+      "y_pos": 3153,
+      "text": "(*) Tâm khí bất túc: Sức co bóp ở tim không đủ.",
+      "confidence": 0.9953589621855288
+    },
+    {
+      "type": "footer",
+      "img_path": "p0304_014_footer.png",
+      "bbox": [
+        [
+          227,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.9010263681411743,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.952197735039693
+    },
+    {
+      "type": "number",
+      "img_path": "p0304_017_number.png",
+      "bbox": [
+        [
+          2332,
+          3340
+        ],
+        [
+          2351,
+          3340
+        ],
+        [
+          2351,
+          3373
+        ],
+        [
+          2332,
+          3373
+        ]
+      ],
+      "score": 0.7821781039237976,
+      "y_pos": 3340,
+      "text": "    \n    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0304.png"
+}

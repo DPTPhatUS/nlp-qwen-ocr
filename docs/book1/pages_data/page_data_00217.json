@@ -1,0 +1,396 @@
+{
+  "page_num": 217,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0217_003_text.png",
+      "bbox": [
+        [
+          407,
+          450
+        ],
+        [
+          2122,
+          450
+        ],
+        [
+          2122,
+          562
+        ],
+        [
+          407,
+          562
+        ]
+      ],
+      "score": 0.9674889445304871,
+      "y_pos": 450,
+      "text": "- Nếu năng hơn: tay chân lạnh. Vã mồ hôi. Mặt môi xanh tím. Đau tức\nngực, nghẹt thổ.",
+      "confidence": 0.8326401824248586
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0217_009_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          619
+        ],
+        [
+          1202,
+          619
+        ],
+        [
+          1202,
+          671
+        ],
+        [
+          345,
+          671
+        ]
+      ],
+      "score": 0.9205660223960876,
+      "y_pos": 619,
+      "text": "2.2.1.4. Bệnh chứng Tây y thường gặp",
+      "confidence": 0.9975065400725917
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_010_text.png",
+      "bbox": [
+        [
+          408,
+          716
+        ],
+        [
+          892,
+          716
+        ],
+        [
+          892,
+          765
+        ],
+        [
+          408,
+          765
+        ]
+      ],
+      "score": 0.9192236661911011,
+      "y_pos": 716,
+      "text": "Cơn đau thắt ngưc",
+      "confidence": 0.9886825492507533
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_006_text.png",
+      "bbox": [
+        [
+          409,
+          798
+        ],
+        [
+          857,
+          798
+        ],
+        [
+          857,
+          847
+        ],
+        [
+          409,
+          847
+        ]
+      ],
+      "score": 0.9245644211769104,
+      "y_pos": 798,
+      "text": "Thiếu năng vành",
+      "confidence": 0.9827762736993677
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0217_011_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          906
+        ],
+        [
+          723,
+          906
+        ],
+        [
+          723,
+          954
+        ],
+        [
+          344,
+          954
+        ]
+      ],
+      "score": 0.9190313816070557,
+      "y_pos": 906,
+      "text": "2.2.1.5. Pháp tri",
+      "confidence": 0.9613569818044964
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_004_text.png",
+      "bbox": [
+        [
+          409,
+          1002
+        ],
+        [
+          1366,
+          1002
+        ],
+        [
+          1366,
+          1053
+        ],
+        [
+          409,
+          1053
+        ]
+      ],
+      "score": 0.9281017780303955,
+      "y_pos": 1002,
+      "text": "- Hoạt huyết, khủ ứ, hành khí, chỉ thống.",
+      "confidence": 0.594845968623494
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_008_text.png",
+      "bbox": [
+        [
+          462,
+          1087
+        ],
+        [
+          917,
+          1087
+        ],
+        [
+          917,
+          1136
+        ],
+        [
+          462,
+          1136
+        ]
+      ],
+      "score": 0.9233588576316833,
+      "y_pos": 1087,
+      "text": "Thông dương hóa ứ.",
+      "confidence": 0.9964737683534622
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_005_text.png",
+      "bbox": [
+        [
+          407,
+          1170
+        ],
+        [
+          1670,
+          1170
+        ],
+        [
+          1670,
+          1219
+        ],
+        [
+          407,
+          1219
+        ]
+      ],
+      "score": 0.9265662431716919,
+      "y_pos": 1170,
+      "text": "- Nếu năng: hồi dương, cứu nghịch, ích khí, sinh mạch.",
+      "confidence": 0.49171617946454454
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_007_text.png",
+      "bbox": [
+        [
+          461,
+          1251
+        ],
+        [
+          1890,
+          1251
+        ],
+        [
+          1890,
+          1301
+        ],
+        [
+          461,
+          1301
+        ]
+      ],
+      "score": 0.9236807227134705,
+      "y_pos": 1251,
+      "text": "* Phân tích bài thuốc Huyết phủ truc ứ thang (Y Lâm cải thác)",
+      "confidence": 0.9954701680985708
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_002_text.png",
+      "bbox": [
+        [
+          456,
+          1335
+        ],
+        [
+          2122,
+          1335
+        ],
+        [
+          2122,
+          1500
+        ],
+        [
+          456,
+          1500
+        ]
+      ],
+      "score": 0.9749740958213806,
+      "y_pos": 1335,
+      "text": "Tác dụng: hoạt huyết, khử ứ, hành khí, chỉ thống. Chủ trị: huyết ứ, các\nchứng đau không cho nắn vào hoặc thân mình có huyết bị ứ đong lại\nthành hòn, ban lưỡi đen, đai tiên đen mà ít.",
+      "confidence": 0.9963968494071693
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_014_text.png",
+      "bbox": [
+        [
+          409,
+          1534
+        ],
+        [
+          921,
+          1534
+        ],
+        [
+          921,
+          1580
+        ],
+        [
+          409,
+          1580
+        ]
+      ],
+      "score": 0.762712836265564,
+      "y_pos": 1534,
+      "text": "Phân tích bài thuốc.",
+      "confidence": 0.9942242259329016
+    },
+    {
+      "type": "table",
+      "img_path": "p0217_000_table.png",
+      "bbox": [
+        [
+          350,
+          1637
+        ],
+        [
+          2124,
+          1637
+        ],
+        [
+          2124,
+          2530
+        ],
+        [
+          350,
+          2530
+        ]
+      ],
+      "score": 0.990894079208374,
+      "y_pos": 1637,
+      "text": "Vị thuốc    Dược lý Đông y\nĐào nhân    Ngot, đẳng, bình. Hoat huyết, thông kinh\nHồng hoa    Hoạt huyết, hóa ứ, thông kinh\nXuyên khung    Đắng, ấm. Hành khí, hoạt huyết, khu phong, chỉ thống\n<b>Đương quy</b>    Ngot, cay, ấm. Bổ huyết, hành huyết\nSinh địa    Ngot, đẳng, hàn. Dưỡng âm, dưỡng huyết\nChỉ xác    Đẳng, chua, bình. Lý khí, khoan hung\nNgưu tất    Đắng, chua, bình. Hoạt huyết, thông kinh, giải độc thấp nhiệt\nCát cánh    Đắng, cay, ấm. Ôn Phế tán hàn, trừ đàm\nCam thảo    Điều hòa các vi thuốc",
+      "confidence": 0.9120977812206773
+    },
+    {
+      "type": "text",
+      "img_path": "p0217_001_text.png",
+      "bbox": [
+        [
+          340,
+          2616
+        ],
+        [
+          2122,
+          2616
+        ],
+        [
+          2122,
+          2957
+        ],
+        [
+          340,
+          2957
+        ]
+      ],
+      "score": 0.9831600785255432,
+      "y_pos": 2616,
+      "text": "Bài này do Vương Thi Trù lập ra để chữa huyết ứ ở ngưc, huyết hành\nkhông thông lợi. Ngực đau, đầu đau không khỏi, đau như kim châm, chỗ đau\ncố định, hoặc nấc lâu không khỏi, hoặc uống nước thì sặc, nôn khan, hoặc\ntrống ngực hồi hộp, hoặc đêm ngủ không được, ngủ không yên giấc, dễ cáu gắt,\nlưỡi có điểm tím, rìa lưỡi có huyết ứ, hai mắt thầm quầng tím. Mạch sáp hoặc\nhuyền khẩn.",
+      "confidence": 0.9965957015121659
+    },
+    {
+      "type": "number",
+      "img_path": "p0217_013_number.png",
+      "bbox": [
+        [
+          350,
+          3110
+        ],
+        [
+          433,
+          3110
+        ],
+        [
+          433,
+          3147
+        ],
+        [
+          350,
+          3147
+        ]
+      ],
+      "score": 0.8692864179611206,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0217_012_footer.png",
+      "bbox": [
+        [
+          293,
+          3310
+        ],
+        [
+          1071,
+          3310
+        ],
+        [
+          1071,
+          3365
+        ],
+        [
+          293,
+          3365
+        ]
+      ],
+      "score": 0.9179990291595459,
+      "y_pos": 3310,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8885922925812858
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0217.png"
+}

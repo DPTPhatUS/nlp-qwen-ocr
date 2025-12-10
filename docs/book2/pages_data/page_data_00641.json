@@ -1,0 +1,370 @@
+{
+  "page_num": 641,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0641_005_header.png",
+      "bbox": [
+        [
+          1674,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1674,
+          197
+        ]
+      ],
+      "score": 0.917817234992981,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.710203885677315
+    },
+    {
+      "type": "header",
+      "img_path": "p0641_006_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.91342693567276,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0641_011_paragraph_title.png",
+      "bbox": [
+        [
+          220,
+          322
+        ],
+        [
+          2356,
+          322
+        ],
+        [
+          2356,
+          452
+        ],
+        [
+          220,
+          452
+        ]
+      ],
+      "score": 0.7987012267112732,
+      "y_pos": 322,
+      "text": "LƯỢNG GIÁ MỨC ĐỘ HOẠT ĐỘNG CỦA CÔNG NĂNG TẠNG PHỦ THEO CHỈ SỐ NHIỆT\nKINH LẠC QUA CÁC LẦN ĐO NHIỆT ĐỘ KINH LẠC",
+      "confidence": 0.9930299629476442
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0641_009_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          493
+        ],
+        [
+          519,
+          493
+        ],
+        [
+          519,
+          540
+        ],
+        [
+          224,
+          540
+        ]
+      ],
+      "score": 0.8927513957023621,
+      "y_pos": 493,
+      "text": "A. Muc đích",
+      "confidence": 0.9468410244354835
+    },
+    {
+      "type": "text",
+      "img_path": "p0641_001_text.png",
+      "bbox": [
+        [
+          273,
+          578
+        ],
+        [
+          2359,
+          578
+        ],
+        [
+          2359,
+          1203
+        ],
+        [
+          273,
+          1203
+        ]
+      ],
+      "score": 0.9865738749504089,
+      "y_pos": 578,
+      "text": "Ở các phần trước, chúng ta đã thực hiện các thể thức so sánh các chỉ số nhiệt kinh lạc nhằm\nvào các mục đích khác nhau. So sánh, tìm quy luật của số tương quan để dựng nên <b>mô</b>\nhình chỉ số nhiệt kinh lạc cho từng bệnh chứng thông qua thực tế lâm sàng phong phú,\nđể rồi ngược lại dựa vào mô hình chỉ số nhiệt bệnh chứng này giúp chúng ta nhận diện được\nbệnh chứng làm căn cứ xác định chẩn đoán trên lâm sàng. Hay cũng là cách so sánh, nhận\nxét số tương quan nhưng nhằm mục đích theo dõi diễn biến bệnh tình, mức bệnh lý, sinh\nlý của sự biến đổi vận động trong kinh lạc ở từng bệnh chứng, từng tác nhân thí nghiệm\nđể nhận biết được cụ thể, đích xác kinh nào giữ vai trò vận động chủ chốt trong bệnh chứng\nđó hay kinh nào bị tác động mạnh nhất do tác nhân thí nghiệm...",
+      "confidence": 0.9993683087765339
+    },
+    {
+      "type": "text",
+      "img_path": "p0641_002_text.png",
+      "bbox": [
+        [
+          277,
+          1239
+        ],
+        [
+          2360,
+          1239
+        ],
+        [
+          2360,
+          1579
+        ],
+        [
+          277,
+          1579
+        ]
+      ],
+      "score": 0.9816895723342896,
+      "y_pos": 1239,
+      "text": "Không dừng lại ở việc chỉ nhận biết sự vận động công năng tạng phủ có thay đổi hay không,\nhay chỉ áng chừng mức độ nặng nhẹ trong sự biến đổi bệnh lý, sinh lý của kinh, ở phần này\nchúng ta tiến hành so sánh các chỉ số nhiệt giữa các lần đo nhiệt độ kinh lạc nhằm nắm bắt\nđược sự thay đổi mức độ hoạt động của công năng tạng phủ cụ thể là bao nhiêu, lượng\ntăng hay giảm của mức độ hoạt động công năng phải được cụ thể bằng số liệu.",
+      "confidence": 0.998493973889303
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0641_007_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1617
+        ],
+        [
+          1388,
+          1617
+        ],
+        [
+          1388,
+          1671
+        ],
+        [
+          225,
+          1671
+        ]
+      ],
+      "score": 0.9124888777732849,
+      "y_pos": 1617,
+      "text": "B. Cách lượng giá và ý nghĩa của việc lượng giá",
+      "confidence": 0.9983486922419801
+    },
+    {
+      "type": "text",
+      "img_path": "p0641_000_text.png",
+      "bbox": [
+        [
+          260,
+          1707
+        ],
+        [
+          2361,
+          1707
+        ],
+        [
+          2361,
+          2537
+        ],
+        [
+          260,
+          2537
+        ]
+      ],
+      "score": 0.9867821931838989,
+      "y_pos": 1707,
+      "text": "Giữa hai lần đo nhiệt độ kinh lạc, do diễn biến của bệnh tình, hay do các tác nhân can thiệp\nvào cơ thể (một đợt điều trị dùng thuốc hay châm cứu, hoặc một tác nhân thí nghiệm), mà\nhoạt động công năng tạng phủ có thay đổi dẫn đến việc các chỉ số nhiệt kinh lạc có thay đổi,\nmà thể hiện thực chất nhất cho sự thay đổi trong kinh là <b>số tương quan</b>. Nhưng chúng ta\nkhông thể so sánh số tương quan giữa hai lần đo của từng kinh một cách đơn giản là lấy số\ntương quan của lần đo sau trừ số tương quan của lần đo trước, do số tương quan phụ thuộc\nvào nhiệt độ tỉnh huyệt của các kinh, mà nhiệt độ này lại bị ảnh hưởng bởi các yếu tố bên\nngoài như nhiệt độ, độ ẩm môi trường, các tác nhân vật lý khác... Để loại bỏ sự sai lệch do\nảnh hưởng của các yếu tố bên ngoài trong việc so sánh số tương quan, tức là phải quy các\nyếu tố bên ngoài của lần đo sau tương đồng với các yếu tố bên ngoài của lần đo trước, ta\ncần có <b>hệ số quy đổi số tương quan</b> giữa hai lần đo, để quy đổi số tương quan của lần đo\nsau.",
+      "confidence": 0.9984458896517204
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0641_012_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          2576
+        ],
+        [
+          1434,
+          2576
+        ],
+        [
+          1434,
+          2632
+        ],
+        [
+          285,
+          2632
+        ]
+      ],
+      "score": 0.7669983506202698,
+      "y_pos": 2576,
+      "text": "Hệ số quy đổi số tương quan được tính như sau:",
+      "confidence": 0.9982557743787766
+    },
+    {
+      "type": "text",
+      "img_path": "p0641_004_text.png",
+      "bbox": [
+        [
+          296,
+          2667
+        ],
+        [
+          2357,
+          2667
+        ],
+        [
+          2357,
+          2792
+        ],
+        [
+          296,
+          2792
+        ]
+      ],
+      "score": 0.9561114311218262,
+      "y_pos": 2667,
+      "text": "• Hệ số quy đổi số tương quan giữa hai lần đo cũng được phân ra theo chi trên (tay) và\nchi dưới (chân).",
+      "confidence": 0.9939805974224301
+    },
+    {
+      "type": "text",
+      "img_path": "p0641_013_text.png",
+      "bbox": [
+        [
+          302,
+          2834
+        ],
+        [
+          616,
+          2834
+        ],
+        [
+          616,
+          2880
+        ],
+        [
+          302,
+          2880
+        ]
+      ],
+      "score": 0.5651528835296631,
+      "y_pos": 2834,
+      "text": "Cách tính:",
+      "confidence": 0.8890518695116043
+    },
+    {
+      "type": "text",
+      "img_path": "p0641_003_text.png",
+      "bbox": [
+        [
+          367,
+          2919
+        ],
+        [
+          2357,
+          2919
+        ],
+        [
+          2357,
+          3114
+        ],
+        [
+          367,
+          3114
+        ]
+      ],
+      "score": 0.9701021313667297,
+      "y_pos": 2919,
+      "text": "+ Hệ số quy đổi chi trên: Lấy hiệu số giữa nhiệt độ cao nhất và thấp nhất của chi trên\ntrong lần đo trước chia cho hiệu số giữa nhiệt độ cao nhất và thấp nhất của chi trên trong\nlần đo sau.",
+      "confidence": 0.9939564251559622
+    },
+    {
+      "type": "number",
+      "img_path": "p0641_010_number.png",
+      "bbox": [
+        [
+          2305,
+          3337
+        ],
+        [
+          2354,
+          3337
+        ],
+        [
+          2354,
+          3374
+        ],
+        [
+          2305,
+          3374
+        ]
+      ],
+      "score": 0.8473107814788818,
+      "y_pos": 3337,
+      "text": "    \n    \n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0641_008_footer.png",
+      "bbox": [
+        [
+          227,
+          3340
+        ],
+        [
+          1322,
+          3340
+        ],
+        [
+          1322,
+          3388
+        ],
+        [
+          227,
+          3388
+        ]
+      ],
+      "score": 0.8948392868041992,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9255358059451265
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0641.png"
+}

@@ -1,0 +1,214 @@
+{
+  "page_num": 584,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0584_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9144734740257263,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0584_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1467,
+          152
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9208052754402161,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TẬN, KỲ HUYỆT",
+      "confidence": 0.9979400253295898
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0584_004_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          325
+        ],
+        [
+          978,
+          325
+        ],
+        [
+          978,
+          379
+        ],
+        [
+          224,
+          379
+        ]
+      ],
+      "score": 0.7869410514831543,
+      "y_pos": 325,
+      "text": "Phần 31. TRỂ EM KINH PHONG",
+      "confidence": 0.9900153875350952
+    },
+    {
+      "type": "text",
+      "img_path": "p0584_006_text.png",
+      "bbox": [
+        [
+          226,
+          420
+        ],
+        [
+          1799,
+          420
+        ],
+        [
+          1799,
+          477
+        ],
+        [
+          226,
+          477
+        ]
+      ],
+      "score": 0.5802550315856934,
+      "y_pos": 420,
+      "text": "339. Trẻ em co giật: Ấn đường, Yến khẩu, Nội Dương trì, Thập tuyên.",
+      "confidence": 0.9994534919227379
+    },
+    {
+      "type": "text",
+      "img_path": "p0584_007_text.png",
+      "bbox": [
+        [
+          227,
+          510
+        ],
+        [
+          1179,
+          510
+        ],
+        [
+          1179,
+          566
+        ],
+        [
+          227,
+          566
+        ]
+      ],
+      "score": 0.5585218071937561,
+      "y_pos": 510,
+      "text": "340. Sốt cao co giật: Thập nhị tỉnh huyệt.",
+      "confidence": 0.998878993771293
+    },
+    {
+      "type": "text",
+      "img_path": "p0584_005_text.png",
+      "bbox": [
+        [
+          226,
+          604
+        ],
+        [
+          1385,
+          604
+        ],
+        [
+          1385,
+          657
+        ],
+        [
+          226,
+          657
+        ]
+      ],
+      "score": 0.619059681892395,
+      "y_pos": 604,
+      "text": "341. Trẻ em kinh phong: Thập vương, Lý nội đình.",
+      "confidence": 0.9987395024299621
+    },
+    {
+      "type": "number",
+      "img_path": "p0584_003_number.png",
+      "bbox": [
+        [
+          2316,
+          3336
+        ],
+        [
+          2367,
+          3336
+        ],
+        [
+          2367,
+          3374
+        ],
+        [
+          2316,
+          3374
+        ]
+      ],
+      "score": 0.864166796207428,
+      "y_pos": 3336,
+      "text": "    \n            \n\n    \n    \n    \n    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0584_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1325,
+          3341
+        ],
+        [
+          1325,
+          3388
+        ],
+        [
+          229,
+          3388
+        ]
+      ],
+      "score": 0.9032047390937805,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985828905735376
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0584.png"
+}

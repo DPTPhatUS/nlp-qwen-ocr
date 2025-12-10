@@ -1,0 +1,214 @@
+{
+  "page_num": 124,
+  "content": [
+    {
+      "type": "paragraph_title",
+      "img_path": "p0124_005_paragraph_title.png",
+      "bbox": [
+        [
+          347,
+          455
+        ],
+        [
+          548,
+          455
+        ],
+        [
+          548,
+          504
+        ],
+        [
+          347,
+          504
+        ]
+      ],
+      "score": 0.5536997318267822,
+      "y_pos": 455,
+      "text": "Δ    ٨    N",
+      "confidence": 0.7282078266143799
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0124_003_figure_title.png",
+      "bbox": [
+        [
+          347,
+          587
+        ],
+        [
+          1353,
+          587
+        ],
+        [
+          1353,
+          647
+        ],
+        [
+          347,
+          647
+        ]
+      ],
+      "score": 0.7370473742485046,
+      "y_pos": 587,
+      "text": "CAU HOI 5 CHON 1 - CHON CAU ĐUNG",
+      "confidence": 0.7002353475374334
+    },
+    {
+      "type": "table",
+      "img_path": "p0124_004_table.png",
+      "bbox": [
+        [
+          1415,
+          698
+        ],
+        [
+          2125,
+          698
+        ],
+        [
+          2125,
+          1033
+        ],
+        [
+          1415,
+          1033
+        ]
+      ],
+      "score": 0.6272812485694885,
+      "y_pos": 698,
+      "text": "STT    Đáp án\nВ\n5    B\nഒ    R",
+      "confidence": 0.7299263530543872
+    },
+    {
+      "type": "table",
+      "img_path": "p0124_006_table.png",
+      "bbox": [
+        [
+          440,
+          699
+        ],
+        [
+          1004,
+          699
+        ],
+        [
+          1004,
+          1032
+        ],
+        [
+          440,
+          1032
+        ]
+      ],
+      "score": 0.5309721231460571,
+      "y_pos": 699,
+      "text": "STT    Đáp án\nД\n2    I)\n3    4",
+      "confidence": 0.8447953079427991
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0124_002_figure_title.png",
+      "bbox": [
+        [
+          349,
+          1111
+        ],
+        [
+          895,
+          1111
+        ],
+        [
+          895,
+          1175
+        ],
+        [
+          349,
+          1175
+        ]
+      ],
+      "score": 0.7499736547470093,
+      "y_pos": 1111,
+      "text": "CAU HOI NHAN QUA",
+      "confidence": 0.6634065906206766
+    },
+    {
+      "type": "table",
+      "img_path": "p0124_007_table.png",
+      "bbox": [
+        [
+          1059,
+          1230
+        ],
+        [
+          1537,
+          1230
+        ],
+        [
+          1537,
+          1559
+        ],
+        [
+          1059,
+          1559
+        ]
+      ],
+      "score": 0.5202273726463318,
+      "y_pos": 1230,
+      "text": "STT    Đáp án\n4    D\n5    Д\n6    Ε",
+      "confidence": 0.9049537163227797
+    },
+    {
+      "type": "number",
+      "img_path": "p0124_001_number.png",
+      "bbox": [
+        [
+          2043,
+          3110
+        ],
+        [
+          2122,
+          3110
+        ],
+        [
+          2122,
+          3147
+        ],
+        [
+          2043,
+          3147
+        ]
+      ],
+      "score": 0.8590759038925171,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0124_000_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1075,
+          3311
+        ],
+        [
+          1075,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.9100470542907715,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8916404400553022
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0124.png"
+}

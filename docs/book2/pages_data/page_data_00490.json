@@ -1,0 +1,448 @@
+{
+  "page_num": 490,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0490_005_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9269060492515564,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0490_011_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1449,
+          150
+        ],
+        [
+          1449,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.914993941783905,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỬU",
+      "confidence": 0.9870374363202316
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0490_010_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          326
+        ],
+        [
+          528,
+          326
+        ],
+        [
+          528,
+          378
+        ],
+        [
+          226,
+          378
+        ]
+      ],
+      "score": 0.9167464971542358,
+      "y_pos": 326,
+      "text": "59. Lao phổi",
+      "confidence": 0.9251867703029087
+    },
+    {
+      "type": "text",
+      "img_path": "p0490_002_text.png",
+      "bbox": [
+        [
+          222,
+          417
+        ],
+        [
+          2360,
+          417
+        ],
+        [
+          2360,
+          545
+        ],
+        [
+          222,
+          545
+        ]
+      ],
+      "score": 0.966799259185791,
+      "y_pos": 417,
+      "text": "Lưu ý bệnh này cần phải chữa trị triệt để bằng Tây y trong chương trình chống lao quốc gia, vì\nảnh hưởng tới sức khỏe cộng đồng. Các chữa theo Đông y chỉ để tham khảo.",
+      "confidence": 0.999553370960728
+    },
+    {
+      "type": "text",
+      "img_path": "p0490_000_text.png",
+      "bbox": [
+        [
+          221,
+          580
+        ],
+        [
+          2360,
+          580
+        ],
+        [
+          2360,
+          919
+        ],
+        [
+          221,
+          919
+        ]
+      ],
+      "score": 0.9854331612586975,
+      "y_pos": 580,
+      "text": "Chứng trạng của lao phổi là chớm bị bệnh có ho nhẹ, thấy tức ngực và hơi đau, tinh thần mỏi\nmệt và kém ăn, rồi dần dần nặng hơn, trong đờm có lẫn máu, sốt về chiều, hai gò má ửng đỏ,\nkhi ngủ ra mồ hôi, hình thể dần dần gầy yếu. Bệnh nặng quá thì ho ra rất nhiều máu, mất tiếng.\nĐàn bà bị bệnh này, ở thời kỳ cuối thường tắc kinh. Bệnh ở thời kỳ đầu, dùng phép cứu mà\nchữa hiệu quả rất tốt. Thời kỳ cuối cả châm và cứu cũng có thể giảm nhẹ chứng trạng.",
+      "confidence": 0.9988666453218318
+    },
+    {
+      "type": "text",
+      "img_path": "p0490_004_text.png",
+      "bbox": [
+        [
+          280,
+          958
+        ],
+        [
+          2359,
+          958
+        ],
+        [
+          2359,
+          1078
+        ],
+        [
+          280,
+          1078
+        ]
+      ],
+      "score": 0.9624467492103577,
+      "y_pos": 958,
+      "text": "Cách chữa: Căn cứ vào chứng trạng khác nhau, phải dùng nhiều huyệt vị khác nhau, có thể\ncùng châm và cứu.",
+      "confidence": 0.9963507631133817
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0490_016_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          1120
+        ],
+        [
+          837,
+          1120
+        ],
+        [
+          837,
+          1174
+        ],
+        [
+          284,
+          1174
+        ]
+      ],
+      "score": 0.6090770363807678,
+      "y_pos": 1120,
+      "text": "Lấy huyệt theo chứng:",
+      "confidence": 0.9615755055261694
+    },
+    {
+      "type": "text",
+      "img_path": "p0490_009_text.png",
+      "bbox": [
+        [
+          284,
+          1212
+        ],
+        [
+          1388,
+          1212
+        ],
+        [
+          1388,
+          1262
+        ],
+        [
+          284,
+          1262
+        ]
+      ],
+      "score": 0.9187642335891724,
+      "y_pos": 1212,
+      "text": "\n    Ho: Phê du, Xích trach, Thái uyên (đều châm).\n",
+      "confidence": 0.9777582875439819
+    },
+    {
+      "type": "text",
+      "img_path": "p0490_006_text.png",
+      "bbox": [
+        [
+          284,
+          1304
+        ],
+        [
+          1685,
+          1304
+        ],
+        [
+          1685,
+          1355
+        ],
+        [
+          284,
+          1355
+        ]
+      ],
+      "score": 0.9237006902694702,
+      "y_pos": 1304,
+      "text": "\n    Sốt về chiều: Đại chùy, Gian sử, Tam âm giao (dùng châm).\n",
+      "confidence": 0.9827418887471578
+    },
+    {
+      "type": "text",
+      "img_path": "p0490_007_text.png",
+      "bbox": [
+        [
+          285,
+          1396
+        ],
+        [
+          1796,
+          1396
+        ],
+        [
+          1796,
+          1446
+        ],
+        [
+          285,
+          1446
+        ]
+      ],
+      "score": 0.9232790470123291,
+      "y_pos": 1396,
+      "text": "\n    Ho ra máu: Xích trạch, Ngư tế, Cách du, Hành gian (dùng châm).\n",
+      "confidence": 0.9845992455428297
+    },
+    {
+      "type": "text",
+      "img_path": "p0490_008_text.png",
+      "bbox": [
+        [
+          285,
+          1486
+        ],
+        [
+          1378,
+          1486
+        ],
+        [
+          1378,
+          1538
+        ],
+        [
+          285,
+          1538
+        ]
+      ],
+      "score": 0.9223784804344177,
+      "y_pos": 1486,
+      "text": "\n    Mổ hôi trộm: Âm khích, Hậu khê (dùng châm).\n",
+      "confidence": 0.9798435162806857
+    },
+    {
+      "type": "text",
+      "img_path": "p0490_014_text.png",
+      "bbox": [
+        [
+          284,
+          1580
+        ],
+        [
+          1118,
+          1580
+        ],
+        [
+          1118,
+          1630
+        ],
+        [
+          284,
+          1630
+        ]
+      ],
+      "score": 0.8906562924385071,
+      "y_pos": 1580,
+      "text": "Các huyệt trên đều châm nhẹ nhàng.",
+      "confidence": 0.9887397040923437
+    },
+    {
+      "type": "text",
+      "img_path": "p0490_001_text.png",
+      "bbox": [
+        [
+          280,
+          1667
+        ],
+        [
+          2360,
+          1667
+        ],
+        [
+          2360,
+          1793
+        ],
+        [
+          280,
+          1793
+        ]
+      ],
+      "score": 0.9671344757080078,
+      "y_pos": 1667,
+      "text": "Nếu không sốt dùng thêm mồi ngải cứu <i>Phế du, Cao hoang du, Tứ hoa,</i> mỗi huyệt từ 3-5\nmồi. Hai ngày cứu một lần.",
+      "confidence": 0.9963458836910564
+    },
+    {
+      "type": "text",
+      "img_path": "p0490_003_text.png",
+      "bbox": [
+        [
+          279,
+          1829
+        ],
+        [
+          2358,
+          1829
+        ],
+        [
+          2358,
+          1952
+        ],
+        [
+          279,
+          1952
+        ]
+      ],
+      "score": 0.9655223488807678,
+      "y_pos": 1829,
+      "text": "Đối với lao sơ nhiễm, kết quả đặc biệt rõ. Khi thấy sốt ngừng cứu, giảm sốt lại tiếp tục cứu\nđến khi khỏi thì thôi.",
+      "confidence": 0.9994876113660792
+    },
+    {
+      "type": "text",
+      "img_path": "p0490_013_text.png",
+      "bbox": [
+        [
+          282,
+          1995
+        ],
+        [
+          1504,
+          1995
+        ],
+        [
+          1504,
+          2048
+        ],
+        [
+          282,
+          2048
+        ]
+      ],
+      "score": 0.9089817404747009,
+      "y_pos": 1995,
+      "text": "(<i>Tứ hoa</i> là 4 huyệt: 2 huyệt <i>Cách du</i>, 2 huyệt <i>Đảm du</i>).",
+      "confidence": 0.984029077115606
+    },
+    {
+      "type": "number",
+      "img_path": "p0490_015_number.png",
+      "bbox": [
+        [
+          2304,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3334
+        ],
+        [
+          2304,
+          3334
+        ]
+      ],
+      "score": 0.8655980229377747,
+      "y_pos": 3300,
+      "text": "\n    \n\n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0490_012_footer.png",
+      "bbox": [
+        [
+          229,
+          3310
+        ],
+        [
+          1324,
+          3310
+        ],
+        [
+          1324,
+          3355
+        ],
+        [
+          229,
+          3355
+        ]
+      ],
+      "score": 0.9120805263519287,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985551654167895
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0490.png"
+}

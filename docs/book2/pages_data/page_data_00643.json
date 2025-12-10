@@ -1,0 +1,266 @@
+{
+  "page_num": 643,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0643_005_header.png",
+      "bbox": [
+        [
+          1676,
+          143
+        ],
+        [
+          2370,
+          143
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1676,
+          198
+        ]
+      ],
+      "score": 0.8993160724639893,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7428941332868167
+    },
+    {
+      "type": "header",
+      "img_path": "p0643_007_header.png",
+      "bbox": [
+        [
+          230,
+          152
+        ],
+        [
+          1172,
+          152
+        ],
+        [
+          1172,
+          200
+        ],
+        [
+          230,
+          200
+        ]
+      ],
+      "score": 0.8908898234367371,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BÁNG NHIỆT ĐÔ KINH LẠC",
+      "confidence": 0.8920903435120215
+    },
+    {
+      "type": "table",
+      "img_path": "p0643_000_table.png",
+      "bbox": [
+        [
+          296,
+          291
+        ],
+        [
+          2297,
+          291
+        ],
+        [
+          2297,
+          1432
+        ],
+        [
+          296,
+          1432
+        ]
+      ],
+      "score": 0.9883378148078918,
+      "y_pos": 291,
+      "text": "Hệ số quy    Mức tăng\nSố tương    Số tương    Số tương\nquan lần đo    đối    giảm hoạt\nTên Kinh    quan lần đo    quan lần đo\nđộng công\ntrước    sau    sau đã quy đổi\nnăng\nTiếu trường    -0,45    -0,15    1,43    -0,2145    +0,2355\nTâm    0,20    +0,05    1,43    +0,0715    +0,2715\nTam tiêu    -0,35    +0,10    1,43    +0,1430    +0,4930\nTâm bào    +0,05    +0,25    1,43    +0,3575    +0,3075\nĐại trường    +0,20    -0,20    1,43    -0,2860    -0,4860\nPhế    +0,05    +0,10    1,43    +0,1430    +0,0930\nBàng quang    -0,20    -0,15    1,50    -0,225    -0,025\nThận    -0,15    0    1,50    0    +0,150\nĐảm    -0,20    -0,05    1,50    -0,075    +0,125\nVį    -0,4    -0,10    1,50    -0,15    +0,250\nCan    +0,30    +0,10    1,50    +0,15    -0,150\nΤỳ    +0,20    +0,20    1,50    +0,30    +0,100",
+      "confidence": 0.9283589702968617
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0643_004_figure_title.png",
+      "bbox": [
+        [
+          280,
+          1471
+        ],
+        [
+          2358,
+          1471
+        ],
+        [
+          2358,
+          1667
+        ],
+        [
+          280,
+          1667
+        ]
+      ],
+      "score": 0.9575640559196472,
+      "y_pos": 1471,
+      "text": "Nhận xét: Như vậy, sau khi ấn day ở huyệt <i>Tán trúc</i>, lão âm số (6 x 6 = 36 lần, tả pháp), ta\ncó kết quả lượng giá mức độ thay đổi tăng giảm hoạt động của công năng tạng phủ so với\ntrước khi day ấn huyệt như sau:",
+      "confidence": 0.9974702180564751
+    },
+    {
+      "type": "table",
+      "img_path": "p0643_003_table.png",
+      "bbox": [
+        [
+          303,
+          1721
+        ],
+        [
+          2142,
+          1721
+        ],
+        [
+          2142,
+          2245
+        ],
+        [
+          303,
+          2245
+        ]
+      ],
+      "score": 0.9592211842536926,
+      "y_pos": 1721,
+      "text": "Tiểu trường    tăng    +0,025    Bàng quang    tăng    +0,18\nTâm    giảm    -0,2375    Thân    tăng    +0,40\nTam tiêu    giảm    -0,1625    Đảm    tăng    +0,17\nTâm bào    tăng    +0,15    Vi    không    0\nĐại trường    tăng    +0,15    Can    tăng    +0,36\nPhế    tăng    +0,40    Τỳ    giảm    -0,04",
+      "confidence": 0.9237405434286209
+    },
+    {
+      "type": "text",
+      "img_path": "p0643_001_text.png",
+      "bbox": [
+        [
+          279,
+          2279
+        ],
+        [
+          2361,
+          2279
+        ],
+        [
+          2361,
+          2759
+        ],
+        [
+          279,
+          2759
+        ]
+      ],
+      "score": 0.9835516810417175,
+      "y_pos": 2279,
+      "text": "Tất cả các công năng tạng phủ đều được tăng hoạt động trừ ba công năng tạng phủ trước\nhoạt động cao là Tâm, Tam tiêu và Tỳ thì nay giảm xuống, trong đó Tâm và Tam tiêu giảm\nnhiều, Tỳ giảm rất ít (-0,04), còn hoạt động công năng của các tạng phủ như Bàng quang,\nThận, Đảm đều tăng lên khá nhiều. Chứng tỏ rằng huyệt <i>Tán trúc</i> mà sách cổ ghi có tác\ndụng chống choáng tiền đình là đúng, vì loại choáng này do Thận dương hư sinh ra, khi ấn\nday huyệt này rồi kiểm chứng bằng máy đu-lắc cơ học điện láy mắt đã ngăn được cơn\nchoáng do máy gây ra.",
+      "confidence": 0.9992467615896332
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0643_006_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2797
+        ],
+        [
+          457,
+          2797
+        ],
+        [
+          457,
+          2847
+        ],
+        [
+          226,
+          2847
+        ]
+      ],
+      "score": 0.8979276418685913,
+      "y_pos": 2797,
+      "text": "2. Ví du 2",
+      "confidence": 0.9233423670132955
+    },
+    {
+      "type": "text",
+      "img_path": "p0643_002_text.png",
+      "bbox": [
+        [
+          281,
+          2888
+        ],
+        [
+          2358,
+          2888
+        ],
+        [
+          2358,
+          3083
+        ],
+        [
+          281,
+          3083
+        ]
+      ],
+      "score": 0.9678807854652405,
+      "y_pos": 2888,
+      "text": "Phân tích định lượng mức độ tăng giảm hoạt động công năng các tạng phủ, trước và sau\nchâm kim, ở đối tượng thí nghiệm: Cụ Bùi Thị Đ.. Các số liệu chỉ số nhiệt kinh lạc lấy ở phần\ncác ví dụ về diễn biến chỉ số nhệt kinh lạc, trang 851.",
+      "confidence": 0.9996796788422571
+    },
+    {
+      "type": "number",
+      "img_path": "p0643_009_number.png",
+      "bbox": [
+        [
+          2305,
+          3337
+        ],
+        [
+          2354,
+          3337
+        ],
+        [
+          2354,
+          3374
+        ],
+        [
+          2305,
+          3374
+        ]
+      ],
+      "score": 0.8370038270950317,
+      "y_pos": 3337,
+      "text": "    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0643_008_footer.png",
+      "bbox": [
+        [
+          227,
+          3339
+        ],
+        [
+          1323,
+          3339
+        ],
+        [
+          1323,
+          3389
+        ],
+        [
+          227,
+          3389
+        ]
+      ],
+      "score": 0.8887606859207153,
+      "y_pos": 3339,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987236002706131
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0643.png"
+}

@@ -1,0 +1,602 @@
+{
+  "page_num": 126,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0126_014_header.png",
+      "bbox": [
+        [
+          1606,
+          142
+        ],
+        [
+          2372,
+          142
+        ],
+        [
+          2372,
+          201
+        ],
+        [
+          1606,
+          201
+        ]
+      ],
+      "score": 0.9281466603279114,
+      "y_pos": 142,
+      "text": "~7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6962933362949462
+    },
+    {
+      "type": "header",
+      "img_path": "p0126_018_header.png",
+      "bbox": [
+        [
+          229,
+          155
+        ],
+        [
+          906,
+          155
+        ],
+        [
+          906,
+          201
+        ],
+        [
+          229,
+          201
+        ]
+      ],
+      "score": 0.915742814540863,
+      "y_pos": 155,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6830399837987177
+    },
+    {
+      "type": "image",
+      "img_path": "p0126_001_image.png",
+      "bbox": [
+        [
+          588,
+          383
+        ],
+        [
+          1997,
+          383
+        ],
+        [
+          1997,
+          1150
+        ],
+        [
+          588,
+          1150
+        ]
+      ],
+      "score": 0.972491979598999,
+      "y_pos": 383
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0126_021_figure_title.png",
+      "bbox": [
+        [
+          1103,
+          1243
+        ],
+        [
+          1484,
+          1243
+        ],
+        [
+          1484,
+          1289
+        ],
+        [
+          1103,
+          1289
+        ]
+      ],
+      "score": 0.8882041573524475,
+      "y_pos": 1243,
+      "text": "Hình 43 - Hình 44",
+      "confidence": 0.6270155592968589
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0126_015_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1331
+        ],
+        [
+          472,
+          1331
+        ],
+        [
+          472,
+          1381
+        ],
+        [
+          225,
+          1381
+        ]
+      ],
+      "score": 0.9249588251113892,
+      "y_pos": 1331,
+      "text": "8. Ha liêm",
+      "confidence": 0.9185514748096466
+    },
+    {
+      "type": "text",
+      "img_path": "p0126_013_text.png",
+      "bbox": [
+        [
+          289,
+          1420
+        ],
+        [
+          1083,
+          1420
+        ],
+        [
+          1083,
+          1475
+        ],
+        [
+          289,
+          1475
+        ]
+      ],
+      "score": 0.9300025105476379,
+      "y_pos": 1420,
+      "text": "Vị trí: Khúc trì xuống 4 thốn (H. 43)",
+      "confidence": 0.6480684647193322
+    },
+    {
+      "type": "text",
+      "img_path": "p0126_012_text.png",
+      "bbox": [
+        [
+          286,
+          1513
+        ],
+        [
+          1556,
+          1513
+        ],
+        [
+          1556,
+          1564
+        ],
+        [
+          286,
+          1564
+        ]
+      ],
+      "score": 0.9321529865264893,
+      "y_pos": 1513,
+      "text": "Cách châm: Châm đứng kim, sâu 1 - 2 thốn. Cứu 5 mồi.",
+      "confidence": 0.9890257109094549
+    },
+    {
+      "type": "text",
+      "img_path": "p0126_006_text.png",
+      "bbox": [
+        [
+          285,
+          1607
+        ],
+        [
+          1729,
+          1607
+        ],
+        [
+          1729,
+          1660
+        ],
+        [
+          285,
+          1660
+        ]
+      ],
+      "score": 0.937006950378418,
+      "y_pos": 1607,
+      "text": "Chủ trị: Khuyu, cánh tay đau, viêm tuyến vú, đau bụng, rụng tóc",
+      "confidence": 0.5430298548478346
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0126_017_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1699
+        ],
+        [
+          604,
+          1699
+        ],
+        [
+          604,
+          1747
+        ],
+        [
+          226,
+          1747
+        ]
+      ],
+      "score": 0.9166104197502136,
+      "y_pos": 1699,
+      "text": "9. Thương liệm",
+      "confidence": 0.991693414747715
+    },
+    {
+      "type": "text",
+      "img_path": "p0126_011_text.png",
+      "bbox": [
+        [
+          290,
+          1788
+        ],
+        [
+          1083,
+          1788
+        ],
+        [
+          1083,
+          1842
+        ],
+        [
+          290,
+          1842
+        ]
+      ],
+      "score": 0.9337003827095032,
+      "y_pos": 1788,
+      "text": "Vị trí: Khúc trì xuống 3 thốn (H. 43)",
+      "confidence": 0.6709946959446638
+    },
+    {
+      "type": "text",
+      "img_path": "p0126_009_text.png",
+      "bbox": [
+        [
+          286,
+          1881
+        ],
+        [
+          1547,
+          1881
+        ],
+        [
+          1547,
+          1930
+        ],
+        [
+          286,
+          1930
+        ]
+      ],
+      "score": 0.9342546463012695,
+      "y_pos": 1881,
+      "text": "Cách châm: Châm đứng kim. sâu 1 - 2 thốn. Cứu 5 mồi",
+      "confidence": 0.9869132761685353
+    },
+    {
+      "type": "text",
+      "img_path": "p0126_007_text.png",
+      "bbox": [
+        [
+          285,
+          1973
+        ],
+        [
+          1882,
+          1973
+        ],
+        [
+          1882,
+          2025
+        ],
+        [
+          285,
+          2025
+        ]
+      ],
+      "score": 0.9362234473228455,
+      "y_pos": 1973,
+      "text": "Chủ trị: Vai, cánh tay đau buốt, chi trên tế dại, bại, sôi bụng, đau bụng.",
+      "confidence": 0.3511188296895278
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0126_016_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          2064
+        ],
+        [
+          581,
+          2064
+        ],
+        [
+          581,
+          2115
+        ],
+        [
+          229,
+          2115
+        ]
+      ],
+      "score": 0.9178763628005981,
+      "y_pos": 2064,
+      "text": "10. Thủ tam lý",
+      "confidence": 0.9367320537567139
+    },
+    {
+      "type": "text",
+      "img_path": "p0126_005_text.png",
+      "bbox": [
+        [
+          288,
+          2155
+        ],
+        [
+          1479,
+          2155
+        ],
+        [
+          1479,
+          2208
+        ],
+        [
+          288,
+          2208
+        ]
+      ],
+      "score": 0.9387136697769165,
+      "y_pos": 2155,
+      "text": "Vị trí: Khúc trì xuống 2 thốn (trên đường kinh). (H44)",
+      "confidence": 0.736094845192773
+    },
+    {
+      "type": "text",
+      "img_path": "p0126_008_text.png",
+      "bbox": [
+        [
+          285,
+          2247
+        ],
+        [
+          1687,
+          2247
+        ],
+        [
+          1687,
+          2297
+        ],
+        [
+          285,
+          2297
+        ]
+      ],
+      "score": 0.9350307583808899,
+      "y_pos": 2247,
+      "text": "Cách châm: Châm đứng kim, sâu 0,5 – 2 thốn. Cứu 3 – 7 mồi",
+      "confidence": 0.9824891489441112
+    },
+    {
+      "type": "text",
+      "img_path": "p0126_002_text.png",
+      "bbox": [
+        [
+          280,
+          2340
+        ],
+        [
+          2357,
+          2340
+        ],
+        [
+          2357,
+          2463
+        ],
+        [
+          280,
+          2463
+        ]
+      ],
+      "score": 0.969242513179779,
+      "y_pos": 2340,
+      "text": "Chủ trị: Vai, cánh tay đau, chi trên tê bại, liệt nửa người, đau bụng, nôn mửa, ỉa chảy, cao\nhuyết áp, quai bị.",
+      "confidence": 0.9899252722555019
+    },
+    {
+      "type": "text",
+      "img_path": "p0126_000_text.png",
+      "bbox": [
+        [
+          279,
+          2500
+        ],
+        [
+          2358,
+          2500
+        ],
+        [
+          2358,
+          2696
+        ],
+        [
+          279,
+          2696
+        ]
+      ],
+      "score": 0.977927565574646,
+      "y_pos": 2500,
+      "text": "Tác dụng phối hợp: Với <i>Túc tam lý</i> có thể làm giảm nhu động ruột, chữa bệnh đường ruột,\nvới <i>Kiên ngung, Trung chử</i> trị vai đau, viêm quanh khớp vai, với <i>Hợp cốc, Dưỡng lão</i> chữa\nung nhọt, với <i>Thiếu hải</i> trị bàn và cánh tay tê dại.",
+      "confidence": 0.9941971315595165
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0126_019_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          2736
+        ],
+        [
+          518,
+          2736
+        ],
+        [
+          518,
+          2783
+        ],
+        [
+          228,
+          2783
+        ]
+      ],
+      "score": 0.9154834747314453,
+      "y_pos": 2736,
+      "text": "11. Khúc trì",
+      "confidence": 0.9366530733449119
+    },
+    {
+      "type": "text",
+      "img_path": "p0126_010_text.png",
+      "bbox": [
+        [
+          287,
+          2823
+        ],
+        [
+          1625,
+          2823
+        ],
+        [
+          1625,
+          2881
+        ],
+        [
+          287,
+          2881
+        ]
+      ],
+      "score": 0.934025764465332,
+      "y_pos": 2823,
+      "text": "Vị trí: Ở đầu cao, chỗ cuối cùng của nếp khuỷu tay. (H. 45).",
+      "confidence": 0.9948389924341633
+    },
+    {
+      "type": "text",
+      "img_path": "p0126_004_text.png",
+      "bbox": [
+        [
+          280,
+          2916
+        ],
+        [
+          2357,
+          2916
+        ],
+        [
+          2357,
+          3041
+        ],
+        [
+          280,
+          3041
+        ]
+      ],
+      "score": 0.9667713046073914,
+      "y_pos": 2916,
+      "text": "Cách lấy huyệt: Ngồi ngay, co khuỷu tay thành góc vuông, chỗ giữa đầu nếp gấp khuỷu tay\nvà lồi xương cánh tay.",
+      "confidence": 0.9257633328326187
+    },
+    {
+      "type": "text",
+      "img_path": "p0126_003_text.png",
+      "bbox": [
+        [
+          280,
+          3081
+        ],
+        [
+          2357,
+          3081
+        ],
+        [
+          2357,
+          3203
+        ],
+        [
+          280,
+          3203
+        ]
+      ],
+      "score": 0.966780424118042,
+      "y_pos": 3081,
+      "text": "Cách châm: Châm đứng kim, sâu 1 - 2 thốn, có thể xuyên tới Thiếu hải, tê lan tới bàn, cánh\ntay. Cứu 3 – 7 mồi.",
+      "confidence": 0.9698850508802426
+    },
+    {
+      "type": "footer",
+      "img_path": "p0126_020_footer.png",
+      "bbox": [
+        [
+          227,
+          3333
+        ],
+        [
+          1433,
+          3333
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.9121476411819458,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9493657609201828
+    },
+    {
+      "type": "number",
+      "img_path": "p0126_022_number.png",
+      "bbox": [
+        [
+          2326,
+          3340
+        ],
+        [
+          2351,
+          3340
+        ],
+        [
+          2351,
+          3377
+        ],
+        [
+          2326,
+          3377
+        ]
+      ],
+      "score": 0.813412606716156,
+      "y_pos": 3340,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0126.png"
+}

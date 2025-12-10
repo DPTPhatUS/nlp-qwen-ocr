@@ -1,0 +1,474 @@
+{
+  "page_num": 467,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0467_007_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9296125769615173,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0467_010_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9196001291275024,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0467_012_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          330
+        ],
+        [
+          555,
+          330
+        ],
+        [
+          555,
+          379
+        ],
+        [
+          225,
+          379
+        ]
+      ],
+      "score": 0.9149420857429504,
+      "y_pos": 330,
+      "text": "37. Sa da con",
+      "confidence": 0.945216445128123
+    },
+    {
+      "type": "text",
+      "img_path": "p0467_001_text.png",
+      "bbox": [
+        [
+          221,
+          417
+        ],
+        [
+          2357,
+          417
+        ],
+        [
+          2357,
+          614
+        ],
+        [
+          221,
+          614
+        ]
+      ],
+      "score": 0.9781960248947144,
+      "y_pos": 417,
+      "text": "Dạ con không ở vị trí bình thường mà theo âm đạo trụt xuống, gọi là sa dạ con, Chủ yếu do thể\nchất ốm yếu, đẻ xong khí huyết chưa hồi phục, lúc đẻ rặn quá nhiều, hoặc đẻ xong phải làm\nviệc nặng nhọc.",
+      "confidence": 0.9964782926228363
+    },
+    {
+      "type": "text",
+      "img_path": "p0467_014_text.png",
+      "bbox": [
+        [
+          224,
+          657
+        ],
+        [
+          1255,
+          657
+        ],
+        [
+          1255,
+          705
+        ],
+        [
+          224,
+          705
+        ]
+      ],
+      "score": 0.8914237022399902,
+      "y_pos": 657,
+      "text": "Sa da con chia làm 3 mức: Nhẹ, vừa và nặng.",
+      "confidence": 0.9936866601308186
+    },
+    {
+      "type": "text",
+      "img_path": "p0467_005_text.png",
+      "bbox": [
+        [
+          284,
+          744
+        ],
+        [
+          1495,
+          744
+        ],
+        [
+          1495,
+          797
+        ],
+        [
+          284,
+          797
+        ]
+      ],
+      "score": 0.9322252869606018,
+      "y_pos": 744,
+      "text": "\n    Nhẹ: Tự cảm giác trong âm đạo có vật gì sa xuống.\n",
+      "confidence": 0.9835128879547119
+    },
+    {
+      "type": "text",
+      "img_path": "p0467_006_text.png",
+      "bbox": [
+        [
+          286,
+          837
+        ],
+        [
+          1346,
+          837
+        ],
+        [
+          1346,
+          887
+        ],
+        [
+          286,
+          887
+        ]
+      ],
+      "score": 0.9320985078811646,
+      "y_pos": 837,
+      "text": "Vừa: Một phân da con lòi ra ngoài cửa mình.",
+      "confidence": 0.8855918672349717
+    },
+    {
+      "type": "text",
+      "img_path": "p0467_000_text.png",
+      "bbox": [
+        [
+          284,
+          928
+        ],
+        [
+          2360,
+          928
+        ],
+        [
+          2360,
+          1191
+        ],
+        [
+          284,
+          1191
+        ]
+      ],
+      "score": 0.983215868473053,
+      "y_pos": 928,
+      "text": "• Nặng: Toàn bộ dạ con lòi ra ngoài âm đạo, to như quả trứng gà, nằm nghỉ ngơi xong có\nthể tự co vào, khi ho, đi bộ thì thòi ra nhiều, làm việc nặng lại phát trở lại. Người bệnh thấy\nlưng buốt, đùi mỏi khác thường, bụng chân chảy xuống, đi đái nhiều lần hơn, nặng thì ra\nkhí hư trắng, nước vàng, tinh thần uể oải.",
+      "confidence": 0.9972281372051834
+    },
+    {
+      "type": "text",
+      "img_path": "p0467_013_text.png",
+      "bbox": [
+        [
+          283,
+          1234
+        ],
+        [
+          1514,
+          1234
+        ],
+        [
+          1514,
+          1284
+        ],
+        [
+          283,
+          1284
+        ]
+      ],
+      "score": 0.9075462818145752,
+      "y_pos": 1234,
+      "text": "Cách chữa: Lấy huyệt Duy bào, Quy lai, Tam âm giao.",
+      "confidence": 0.5774605600339062
+    },
+    {
+      "type": "text",
+      "img_path": "p0467_003_text.png",
+      "bbox": [
+        [
+          281,
+          1323
+        ],
+        [
+          2359,
+          1323
+        ],
+        [
+          2359,
+          1448
+        ],
+        [
+          281,
+          1448
+        ]
+      ],
+      "score": 0.9647080302238464,
+      "y_pos": 1323,
+      "text": "Trước hết lấy hào kim châm <i>Duy bào,</i> chếch theo rãnh háng vê góc độ lớn tiến kim, làm cho\nchỗ <i>Hội âm</i> có cảm giác co lên. Nếu hiệu quả không rõ thì châm <i>Quy lai, Tâm âm giao.</i>",
+      "confidence": 0.9972012988207511
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0467_017_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          1488
+        ],
+        [
+          523,
+          1488
+        ],
+        [
+          523,
+          1537
+        ],
+        [
+          284,
+          1537
+        ]
+      ],
+      "score": 0.8359953165054321,
+      "y_pos": 1488,
+      "text": "Gia giám:",
+      "confidence": 0.8260176398537376
+    },
+    {
+      "type": "text",
+      "img_path": "p0467_008_text.png",
+      "bbox": [
+        [
+          286,
+          1579
+        ],
+        [
+          1308,
+          1579
+        ],
+        [
+          1308,
+          1629
+        ],
+        [
+          286,
+          1629
+        ]
+      ],
+      "score": 0.9286914467811584,
+      "y_pos": 1579,
+      "text": "\n    Nếu khí hư, gia cứu Khí hải, Quan nguyên.\n",
+      "confidence": 0.9812765548478312
+    },
+    {
+      "type": "text",
+      "img_path": "p0467_009_text.png",
+      "bbox": [
+        [
+          286,
+          1668
+        ],
+        [
+          1473,
+          1668
+        ],
+        [
+          1473,
+          1722
+        ],
+        [
+          286,
+          1722
+        ]
+      ],
+      "score": 0.9282084703445435,
+      "y_pos": 1668,
+      "text": "Thập nhiệt thì gia châm Am lăng tuyên, Thái xung.",
+      "confidence": 0.9873456358909607
+    },
+    {
+      "type": "text",
+      "img_path": "p0467_004_text.png",
+      "bbox": [
+        [
+          285,
+          1761
+        ],
+        [
+          2357,
+          1761
+        ],
+        [
+          2357,
+          1880
+        ],
+        [
+          285,
+          1880
+        ]
+      ],
+      "score": 0.9634848833084106,
+      "y_pos": 1761,
+      "text": "• Lâu ngày chưa khỏi thì châm Túc tam lý, Tâm âm giao, dùng phép bổ và cứu huyệt Bách\nhôi.",
+      "confidence": 0.990962965049963
+    },
+    {
+      "type": "text",
+      "img_path": "p0467_002_text.png",
+      "bbox": [
+        [
+          279,
+          1923
+        ],
+        [
+          2358,
+          1923
+        ],
+        [
+          2358,
+          2119
+        ],
+        [
+          279,
+          2119
+        ]
+      ],
+      "score": 0.9750326871871948,
+      "y_pos": 1923,
+      "text": "Giảng nghĩa của phương: Quy lai có tác dụng ôn thông<sup>(*)</sup> dạ con. <i>Duy hào</i> là huyệt chủ yếu\ntrị sa dạ con. Cứu Q<i>uan nguyên, Khí hải</i> để bổ nguyên khí. <i>Thái xung, Âm lăng tuyền</i> để tả\nnhiệt ở can, tỳ. Bổ <i>Túc tam lý</i> để tăng vận khí của vị. <i>Bách hội</i> để nâng dương khí lên.",
+      "confidence": 0.9959827264379727
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0467_015_footnote.png",
+      "bbox": [
+        [
+          228,
+          3166
+        ],
+        [
+          764,
+          3166
+        ],
+        [
+          764,
+          3210
+        ],
+        [
+          228,
+          3210
+        ]
+      ],
+      "score": 0.8799129724502563,
+      "y_pos": 3166,
+      "text": "(*)Ôn thông: Dùng sức ấm làm nóng",
+      "confidence": 0.7357866372380938
+    },
+    {
+      "type": "number",
+      "img_path": "p0467_016_number.png",
+      "bbox": [
+        [
+          2303,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2303,
+          3335
+        ]
+      ],
+      "score": 0.8642924427986145,
+      "y_pos": 3300,
+      "text": "    \n    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0467_011_footer.png",
+      "bbox": [
+        [
+          228,
+          3310
+        ],
+        [
+          1323,
+          3310
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          228,
+          3355
+        ]
+      ],
+      "score": 0.9165768027305603,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9293094086197188
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0467.png"
+}

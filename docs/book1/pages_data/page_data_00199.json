@@ -1,0 +1,812 @@
+{
+  "page_num": 199,
+  "content": [
+    {
+      "type": "paragraph_title",
+      "img_path": "p0199_001_paragraph_title.png",
+      "bbox": [
+        [
+          346,
+          450
+        ],
+        [
+          774,
+          450
+        ],
+        [
+          774,
+          514
+        ],
+        [
+          346,
+          514
+        ]
+      ],
+      "score": 0.8605921268463135,
+      "y_pos": 450,
+      "text": "CÂU HỔI ÔN TẬP",
+      "confidence": 0.9661118872463703
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0199_003_paragraph_title.png",
+      "bbox": [
+        [
+          347,
+          562
+        ],
+        [
+          1312,
+          562
+        ],
+        [
+          1312,
+          622
+        ],
+        [
+          347,
+          622
+        ]
+      ],
+      "score": 0.798541247844696,
+      "y_pos": 562,
+      "text": "CAU HOI 5 CHON 1 - CHON CAU ĐUNG",
+      "confidence": 0.702603198149625
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_009_text.png",
+      "bbox": [
+        [
+          466,
+          665
+        ],
+        [
+          1282,
+          665
+        ],
+        [
+          1282,
+          717
+        ],
+        [
+          466,
+          717
+        ]
+      ],
+      "score": 0.6479259133338928,
+      "y_pos": 665,
+      "text": "1. Nguyên nhân của HC Can âm hư",
+      "confidence": 0.9704660863587351
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_016_text.png",
+      "bbox": [
+        [
+          513,
+          748
+        ],
+        [
+          1113,
+          748
+        ],
+        [
+          1113,
+          802
+        ],
+        [
+          513,
+          802
+        ]
+      ],
+      "score": 0.6336025595664978,
+      "y_pos": 748,
+      "text": "A. Sang chấn gây ứ huyết",
+      "confidence": 0.9900947350722092
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_018_text.png",
+      "bbox": [
+        [
+          515,
+          831
+        ],
+        [
+          1058,
+          831
+        ],
+        [
+          1058,
+          884
+        ],
+        [
+          515,
+          884
+        ]
+      ],
+      "score": 0.6320796012878418,
+      "y_pos": 831,
+      "text": "B. Can Đởm thấp nhiệt",
+      "confidence": 0.9985095366187717
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_017_text.png",
+      "bbox": [
+        [
+          514,
+          911
+        ],
+        [
+          954,
+          911
+        ],
+        [
+          954,
+          962
+        ],
+        [
+          514,
+          962
+        ]
+      ],
+      "score": 0.6321789622306824,
+      "y_pos": 911,
+      "text": "C. Can khí uất kết",
+      "confidence": 0.966365110874176
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_012_text.png",
+      "bbox": [
+        [
+          515,
+          997
+        ],
+        [
+          1083,
+          997
+        ],
+        [
+          1083,
+          1048
+        ],
+        [
+          515,
+          1048
+        ]
+      ],
+      "score": 0.642514705657959,
+      "y_pos": 997,
+      "text": "D. Thận âm hư lâu ngày",
+      "confidence": 0.9540710573395094
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_023_text.png",
+      "bbox": [
+        [
+          517,
+          1078
+        ],
+        [
+          962,
+          1078
+        ],
+        [
+          962,
+          1127
+        ],
+        [
+          517,
+          1127
+        ]
+      ],
+      "score": 0.6103898286819458,
+      "y_pos": 1078,
+      "text": "E. Tình chí uất kết",
+      "confidence": 0.9711378784406752
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_027_text.png",
+      "bbox": [
+        [
+          465,
+          1161
+        ],
+        [
+          1252,
+          1161
+        ],
+        [
+          1252,
+          1213
+        ],
+        [
+          465,
+          1213
+        ]
+      ],
+      "score": 0.6025959849357605,
+      "y_pos": 1161,
+      "text": "2. Triệu chứng của HC Can âm hư",
+      "confidence": 0.9992814642010313
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_013_text.png",
+      "bbox": [
+        [
+          513,
+          1243
+        ],
+        [
+          1571,
+          1243
+        ],
+        [
+          1571,
+          1298
+        ],
+        [
+          513,
+          1298
+        ]
+      ],
+      "score": 0.6411324739456177,
+      "y_pos": 1243,
+      "text": "A. Sốt về chiều, ra mồ hôi trộm, đau thắt lưng",
+      "confidence": 0.999778917680184
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_020_text.png",
+      "bbox": [
+        [
+          514,
+          1325
+        ],
+        [
+          1992,
+          1325
+        ],
+        [
+          1992,
+          1379
+        ],
+        [
+          514,
+          1379
+        ]
+      ],
+      "score": 0.6282024383544922,
+      "y_pos": 1325,
+      "text": "B. Sốt về chiều, lưỡi đỏ rực, mạch tế sác vô lực, đau đầu, hoa mắt",
+      "confidence": 0.9998152177123463
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_014_text.png",
+      "bbox": [
+        [
+          515,
+          1408
+        ],
+        [
+          2086,
+          1408
+        ],
+        [
+          2086,
+          1464
+        ],
+        [
+          515,
+          1464
+        ]
+      ],
+      "score": 0.6353910565376282,
+      "y_pos": 1408,
+      "text": "C. Đau đầu, hoa mắt, chóng mặt, lưỡi đỏ, mạch tế sác vô lực, đạo hãn",
+      "confidence": 0.9991210120064872
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_021_text.png",
+      "bbox": [
+        [
+          515,
+          1491
+        ],
+        [
+          2114,
+          1491
+        ],
+        [
+          2114,
+          1549
+        ],
+        [
+          515,
+          1549
+        ]
+      ],
+      "score": 0.6223836541175842,
+      "y_pos": 1491,
+      "text": "D. Thị lực kém, đau đầu, chóng mặt, rối loạn kinh nguyệt, cảm giác nóng",
+      "confidence": 0.999853500764664
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_029_text.png",
+      "bbox": [
+        [
+          516,
+          1573
+        ],
+        [
+          2077,
+          1573
+        ],
+        [
+          2077,
+          1628
+        ],
+        [
+          516,
+          1628
+        ]
+      ],
+      "score": 0.564686119556427,
+      "y_pos": 1573,
+      "text": "E. Đau đầu, sốt về chiều, đạo hãn, rối loạn kinh nguyệt, mạch tế sác.",
+      "confidence": 0.9998391623228369
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_025_text.png",
+      "bbox": [
+        [
+          465,
+          1656
+        ],
+        [
+          1311,
+          1656
+        ],
+        [
+          1311,
+          1709
+        ],
+        [
+          465,
+          1709
+        ]
+      ],
+      "score": 0.6044018864631653,
+      "y_pos": 1656,
+      "text": "3. Triệu chứng của HC Can huyết hư",
+      "confidence": 0.9992242786619399
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_024_text.png",
+      "bbox": [
+        [
+          513,
+          1739
+        ],
+        [
+          1986,
+          1739
+        ],
+        [
+          1986,
+          1794
+        ],
+        [
+          513,
+          1794
+        ]
+      ],
+      "score": 0.6097826361656189,
+      "y_pos": 1739,
+      "text": "A. Đau đầu, hoa mắt, chóng mặt, mắt mờ, quáng gà, mạch tế sác",
+      "confidence": 0.9996875467754546
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_022_text.png",
+      "bbox": [
+        [
+          514,
+          1823
+        ],
+        [
+          2119,
+          1823
+        ],
+        [
+          2119,
+          1878
+        ],
+        [
+          514,
+          1878
+        ]
+      ],
+      "score": 0.6213337182998657,
+      "y_pos": 1823,
+      "text": "B. Rối loạn kinh nguyệt, đau vùng hông sườn, đau thắt lưng, mạch tế sác",
+      "confidence": 0.9994151396294163
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_005_text.png",
+      "bbox": [
+        [
+          514,
+          1903
+        ],
+        [
+          2124,
+          1903
+        ],
+        [
+          2124,
+          2014
+        ],
+        [
+          514,
+          2014
+        ]
+      ],
+      "score": 0.7057597637176514,
+      "y_pos": 1903,
+      "text": "C. Sốt về chiều, người có cảm giác nóng, ra mồ hôi trộm, lưỡi đỏ, mạch\ntế sác",
+      "confidence": 0.9923706332014667
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_004_text.png",
+      "bbox": [
+        [
+          513,
+          2045
+        ],
+        [
+          2125,
+          2045
+        ],
+        [
+          2125,
+          2158
+        ],
+        [
+          513,
+          2158
+        ]
+      ],
+      "score": 0.7091370820999146,
+      "y_pos": 2045,
+      "text": "D. Mệt nhọc, chóng mặt, kinh ít, mắt khô, nhìn kém, run, rối loan kinh\nnguyệt",
+      "confidence": 0.9959641873599991
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_007_text.png",
+      "bbox": [
+        [
+          514,
+          2185
+        ],
+        [
+          2059,
+          2185
+        ],
+        [
+          2059,
+          2239
+        ],
+        [
+          514,
+          2239
+        ]
+      ],
+      "score": 0.6502040028572083,
+      "y_pos": 2185,
+      "text": "E. Đau đầu, chóng mặt, hoa mắt, ù tai, nói khó, lưỡi đỏ, mạch tế sác",
+      "confidence": 0.9997583397797176
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_008_text.png",
+      "bbox": [
+        [
+          464,
+          2281
+        ],
+        [
+          1705,
+          2281
+        ],
+        [
+          1705,
+          2336
+        ],
+        [
+          464,
+          2336
+        ]
+      ],
+      "score": 0.6489875912666321,
+      "y_pos": 2281,
+      "text": "4. Phép trị nào <i>KHÔNG</i> phù hợp với HC Can huyết hư",
+      "confidence": 0.986047477092383
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_019_text.png",
+      "bbox": [
+        [
+          515,
+          2365
+        ],
+        [
+          976,
+          2365
+        ],
+        [
+          976,
+          2416
+        ],
+        [
+          515,
+          2416
+        ]
+      ],
+      "score": 0.6296899914741516,
+      "y_pos": 2365,
+      "text": "A. Tư bổ Can, Thân",
+      "confidence": 0.9816399306058884
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_026_text.png",
+      "bbox": [
+        [
+          515,
+          2447
+        ],
+        [
+          1037,
+          2447
+        ],
+        [
+          1037,
+          2499
+        ],
+        [
+          515,
+          2499
+        ]
+      ],
+      "score": 0.6028873920440674,
+      "y_pos": 2447,
+      "text": "B. Tư âm dưỡng huyết",
+      "confidence": 0.9782899861985986
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_011_text.png",
+      "bbox": [
+        [
+          515,
+          2531
+        ],
+        [
+          1027,
+          2531
+        ],
+        [
+          1027,
+          2581
+        ],
+        [
+          515,
+          2581
+        ]
+      ],
+      "score": 0.6452329754829407,
+      "y_pos": 2531,
+      "text": "C. Tư âm thanh nhiệt",
+      "confidence": 0.9627189988439734
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_010_text.png",
+      "bbox": [
+        [
+          516,
+          2614
+        ],
+        [
+          1159,
+          2614
+        ],
+        [
+          1159,
+          2665
+        ],
+        [
+          516,
+          2665
+        ]
+      ],
+      "score": 0.6463983058929443,
+      "y_pos": 2614,
+      "text": "D. Thanh nhiệt lương huyết",
+      "confidence": 0.9835492351225444
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_015_text.png",
+      "bbox": [
+        [
+          518,
+          2698
+        ],
+        [
+          1024,
+          2698
+        ],
+        [
+          1024,
+          2750
+        ],
+        [
+          518,
+          2750
+        ]
+      ],
+      "score": 0.6352646350860596,
+      "y_pos": 2698,
+      "text": "E. Tư âm ghìm dương",
+      "confidence": 0.9636165102322897
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_006_text.png",
+      "bbox": [
+        [
+          465,
+          2791
+        ],
+        [
+          1769,
+          2791
+        ],
+        [
+          1769,
+          2848
+        ],
+        [
+          465,
+          2848
+        ]
+      ],
+      "score": 0.6717219352722168,
+      "y_pos": 2791,
+      "text": "5. Phép trị nào <i>KHÔNG</i> phù hợp cho HC Can dương xung",
+      "confidence": 0.985507980259982
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_030_text.png",
+      "bbox": [
+        [
+          515,
+          2877
+        ],
+        [
+          976,
+          2877
+        ],
+        [
+          976,
+          2928
+        ],
+        [
+          515,
+          2928
+        ]
+      ],
+      "score": 0.5504445433616638,
+      "y_pos": 2877,
+      "text": "A. Tư âm giáng hỏa",
+      "confidence": 0.9652625173330307
+    },
+    {
+      "type": "text",
+      "img_path": "p0199_028_text.png",
+      "bbox": [
+        [
+          516,
+          2961
+        ],
+        [
+          1023,
+          2961
+        ],
+        [
+          1023,
+          3013
+        ],
+        [
+          516,
+          3013
+        ]
+      ],
+      "score": 0.5896461009979248,
+      "y_pos": 2961,
+      "text": "B. Tư âm ghìm dương",
+      "confidence": 0.9644566405387152
+    },
+    {
+      "type": "number",
+      "img_path": "p0199_002_number.png",
+      "bbox": [
+        [
+          354,
+          3110
+        ],
+        [
+          434,
+          3110
+        ],
+        [
+          434,
+          3149
+        ],
+        [
+          354,
+          3149
+        ]
+      ],
+      "score": 0.8349197506904602,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0199_000_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1074,
+          3311
+        ],
+        [
+          1074,
+          3367
+        ],
+        [
+          294,
+          3367
+        ]
+      ],
+      "score": 0.9148149490356445,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8891090188707624
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0199.png"
+}

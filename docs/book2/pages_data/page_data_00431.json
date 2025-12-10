@@ -1,0 +1,422 @@
+{
+  "page_num": 431,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0431_004_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          196
+        ],
+        [
+          1675,
+          196
+        ]
+      ],
+      "score": 0.927903413772583,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7141765639895484
+    },
+    {
+      "type": "header",
+      "img_path": "p0431_010_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9187577962875366,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0431_009_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          330
+        ],
+        [
+          608,
+          330
+        ],
+        [
+          608,
+          380
+        ],
+        [
+          225,
+          380
+        ]
+      ],
+      "score": 0.920443594455719,
+      "y_pos": 330,
+      "text": "5. Choáng váng",
+      "confidence": 0.7980165891349316
+    },
+    {
+      "type": "text",
+      "img_path": "p0431_001_text.png",
+      "bbox": [
+        [
+          221,
+          417
+        ],
+        [
+          2358,
+          417
+        ],
+        [
+          2358,
+          685
+        ],
+        [
+          221,
+          685
+        ]
+      ],
+      "score": 0.9820804595947266,
+      "y_pos": 417,
+      "text": "Choáng váng, còn gọi là \"Huyễn vận\", \"Huyền não\", là bệnh nhân cảm thấy chóng mặt, hai mắt\nmờ tối như ngồi trên thuyền con bị chòng chành, mỗi lần đứng lên là lại đổ xuống, có thể kèm\nchứng quặn bụng nôn nao, thường gọi là tối mặt, hoa mắt. Bệnh này thường do khí huyết hư\nnhược gây ra (hội chứng thần kinh tiền đình).",
+      "confidence": 0.997881430013015
+    },
+    {
+      "type": "text",
+      "img_path": "p0431_005_text.png",
+      "bbox": [
+        [
+          284,
+          725
+        ],
+        [
+          1242,
+          725
+        ],
+        [
+          1242,
+          774
+        ],
+        [
+          284,
+          774
+        ]
+      ],
+      "score": 0.9254907369613647,
+      "y_pos": 725,
+      "text": "<b>Cách chữa:</b> Lấy huyết <i>Bách hôi, Thái kh</i>ể.",
+      "confidence": 0.9611109430375306
+    },
+    {
+      "type": "text",
+      "img_path": "p0431_008_text.png",
+      "bbox": [
+        [
+          283,
+          816
+        ],
+        [
+          1528,
+          816
+        ],
+        [
+          1528,
+          867
+        ],
+        [
+          283,
+          867
+        ]
+      ],
+      "score": 0.9233629107475281,
+      "y_pos": 816,
+      "text": "Dùng ngải cứu, cứu hai huyệt Bách hội, Thái khê trước.",
+      "confidence": 0.9996542707085609
+    },
+    {
+      "type": "text",
+      "img_path": "p0431_015_text.png",
+      "bbox": [
+        [
+          284,
+          908
+        ],
+        [
+          511,
+          908
+        ],
+        [
+          511,
+          958
+        ],
+        [
+          284,
+          958
+        ]
+      ],
+      "score": 0.8048116564750671,
+      "y_pos": 908,
+      "text": "Gia giam:",
+      "confidence": 0.9498093832622875
+    },
+    {
+      "type": "text",
+      "img_path": "p0431_003_text.png",
+      "bbox": [
+        [
+          281,
+          998
+        ],
+        [
+          1548,
+          998
+        ],
+        [
+          1548,
+          1051
+        ],
+        [
+          281,
+          1051
+        ]
+      ],
+      "score": 0.9334474205970764,
+      "y_pos": 998,
+      "text": "Nếu váng đầu, ngủ không yên, cứu <i>Túc tam lý, Hợp cốc</i>.",
+      "confidence": 0.9906830317095706
+    },
+    {
+      "type": "text",
+      "img_path": "p0431_006_text.png",
+      "bbox": [
+        [
+          281,
+          1089
+        ],
+        [
+          1813,
+          1089
+        ],
+        [
+          1813,
+          1142
+        ],
+        [
+          281,
+          1142
+        ]
+      ],
+      "score": 0.9246346354484558,
+      "y_pos": 1089,
+      "text": "Nếu buồn nôn châm thêm <i>Trung quản, Nội quan</i>, châm xong lại cứu.",
+      "confidence": 0.9886136312982929
+    },
+    {
+      "type": "text",
+      "img_path": "p0431_007_text.png",
+      "bbox": [
+        [
+          282,
+          1179
+        ],
+        [
+          1405,
+          1179
+        ],
+        [
+          1405,
+          1232
+        ],
+        [
+          282,
+          1232
+        ]
+      ],
+      "score": 0.9244310259819031,
+      "y_pos": 1179,
+      "text": "Nêu tâm phiên tim hội hộp, châm thêm <i>Thân môn</i>.",
+      "confidence": 0.9833241975307465
+    },
+    {
+      "type": "text",
+      "img_path": "p0431_000_text.png",
+      "bbox": [
+        [
+          279,
+          1271
+        ],
+        [
+          2361,
+          1271
+        ],
+        [
+          2361,
+          1678
+        ],
+        [
+          279,
+          1678
+        ]
+      ],
+      "score": 0.9864382743835449,
+      "y_pos": 1271,
+      "text": "Giảng nghĩa của phương: Phương này chủ yếu là an thần, kiện tỳ, tư thận<sup>(*)</sup>. Bệnh này phần\nnhiều do khí huyết hư nhược, dương khí không thể đi lên. <i>Bách hội</i> khai thượng tiêu, thanh\nkhiếu. <i>Thái khê</i> để tư thận âm. <i>Túc tam lý</i> ôn bổ tỳ, vị, tăng tiến việc ăn uống, làm cho khí\nhuyệt được dồi dào, phối <i>Hợp cốc</i> để tăng thông suốt kinh khí, giúp cho đầu mắt được thanh,\nchoáng váng tự trừ. <i>Trung quản, Nội quan</i> là hai huyệt nới giãn lồng ngực, giáng vị khí. <i>Thần</i>\n<i>môn</i> an thần, định chí có kết quả rất rõ rêt.",
+      "confidence": 0.9957157181592554
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0431_013_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          1722
+        ],
+        [
+          1355,
+          1722
+        ],
+        [
+          1355,
+          1772
+        ],
+        [
+          283,
+          1772
+        ]
+      ],
+      "score": 0.8573653101921082,
+      "y_pos": 1722,
+      "text": "Phương huyệt kinh nghiệm đạt hiệu quả cao",
+      "confidence": 0.9541279618130174
+    },
+    {
+      "type": "text",
+      "img_path": "p0431_002_text.png",
+      "bbox": [
+        [
+          284,
+          1812
+        ],
+        [
+          2358,
+          1812
+        ],
+        [
+          2358,
+          2007
+        ],
+        [
+          284,
+          2007
+        ]
+      ],
+      "score": 0.9749376177787781,
+      "y_pos": 1812,
+      "text": "• Bệnh này là \"Rối loạn thần kinh tiền đình\", nguyên nhân rất phức tạp, có một phương cho\nkết quả tốt, tỷ lệ khỏi bệnh cao, các huyệt như sau: <i>Bách hội, phong trì, Can du</i> (đều tả),\nThận du, Nội quan, Túc tam lý, Âm lăng tuyền, Tam âm giao, Thái khê (đều bổ).",
+      "confidence": 0.9919578690369594
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0431_012_footnote.png",
+      "bbox": [
+        [
+          228,
+          3166
+        ],
+        [
+          741,
+          3166
+        ],
+        [
+          741,
+          3208
+        ],
+        [
+          228,
+          3208
+        ]
+      ],
+      "score": 0.8741715550422668,
+      "y_pos": 3166,
+      "text": "(*) Tư là béo bổ, tư thận là bổ thận.",
+      "confidence": 0.8387500735429617
+    },
+    {
+      "type": "number",
+      "img_path": "p0431_014_number.png",
+      "bbox": [
+        [
+          2307,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2307,
+          3335
+        ]
+      ],
+      "score": 0.855624794960022,
+      "y_pos": 3300,
+      "text": "    \n    \n    \n\n\n\n\n\n    \n    \n\n\n.\n\n",
+      "confidence": 0.9708647534251214
+    },
+    {
+      "type": "footer",
+      "img_path": "p0431_011_footer.png",
+      "bbox": [
+        [
+          228,
+          3310
+        ],
+        [
+          1323,
+          3310
+        ],
+        [
+          1323,
+          3354
+        ],
+        [
+          228,
+          3354
+        ]
+      ],
+      "score": 0.913331151008606,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9981425269594733
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0431.png"
+}

@@ -1,0 +1,734 @@
+{
+  "page_num": 516,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0516_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2371,
+          144
+        ],
+        [
+          2371,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9230596423149109,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7566693045553707
+    },
+    {
+      "type": "header",
+      "img_path": "p0516_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9250761270523071,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9977066326141357
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0516_007_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          325
+        ],
+        [
+          1084,
+          325
+        ],
+        [
+          1084,
+          383
+        ],
+        [
+          226,
+          383
+        ]
+      ],
+      "score": 0.5994564890861511,
+      "y_pos": 325,
+      "text": "Phần 6. BỆNH MIỆNG, RĂNG, LƯỚI",
+      "confidence": 0.9950995985418558
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0516_026_reference_content.png",
+      "bbox": [
+        [
+          236,
+          603
+        ],
+        [
+          1308,
+          603
+        ],
+        [
+          1308,
+          662
+        ],
+        [
+          236,
+          662
+        ]
+      ],
+      "score": 0.5015515089035034,
+      "y_pos": 603,
+      "text": "121. Viêm khớp hàm dưới: É phong, Hạ quan.",
+      "confidence": 0.9983566037633202
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0516_021_reference_content.png",
+      "bbox": [
+        [
+          235,
+          694
+        ],
+        [
+          2133,
+          694
+        ],
+        [
+          2133,
+          754
+        ],
+        [
+          235,
+          754
+        ]
+      ],
+      "score": 0.5415217876434326,
+      "y_pos": 694,
+      "text": "123. Vòm miệng lở loét: Khiên chính, Thừa tương, Ngận giao, Địa thương, Hợp cốc.",
+      "confidence": 0.9907777382106315
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0516_006_reference_content.png",
+      "bbox": [
+        [
+          236,
+          786
+        ],
+        [
+          1590,
+          786
+        ],
+        [
+          1590,
+          845
+        ],
+        [
+          236,
+          845
+        ]
+      ],
+      "score": 0.6040742993354797,
+      "y_pos": 786,
+      "text": "124. Miệng ngậm không há: Giáp xa, Địa thương, Hợp cốc.",
+      "confidence": 0.9974677259461922
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0516_005_reference_content.png",
+      "bbox": [
+        [
+          236,
+          879
+        ],
+        [
+          1294,
+          879
+        ],
+        [
+          1294,
+          936
+        ],
+        [
+          236,
+          936
+        ]
+      ],
+      "score": 0.6096730828285217,
+      "y_pos": 879,
+      "text": "125. Góc mép cứng đơ: Địa thương, Hậu khê.",
+      "confidence": 0.9985248229720376
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0516_008_reference_content.png",
+      "bbox": [
+        [
+          236,
+          971
+        ],
+        [
+          1208,
+          971
+        ],
+        [
+          1208,
+          1029
+        ],
+        [
+          236,
+          1029
+        ]
+      ],
+      "score": 0.5972339510917664,
+      "y_pos": 971,
+      "text": "126. Môi lở mụn: Thừa tương, Địa thương.",
+      "confidence": 0.9804503435180301
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0516_012_reference_content.png",
+      "bbox": [
+        [
+          235,
+          1062
+        ],
+        [
+          1206,
+          1062
+        ],
+        [
+          1206,
+          1119
+        ],
+        [
+          235,
+          1119
+        ]
+      ],
+      "score": 0.5723490715026855,
+      "y_pos": 1062,
+      "text": "127. Miệng chảy dãi: Nhiên cốc, Phục lưu.",
+      "confidence": 0.9707308591798295
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0516_011_reference_content.png",
+      "bbox": [
+        [
+          236,
+          1154
+        ],
+        [
+          1757,
+          1154
+        ],
+        [
+          1757,
+          1214
+        ],
+        [
+          236,
+          1214
+        ]
+      ],
+      "score": 0.5801395177841187,
+      "y_pos": 1154,
+      "text": "128. Miệng chảy dãi: Thượng Liêm tuyền, Thừa tương, Địa thương.",
+      "confidence": 0.9986698434903072
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0516_009_reference_content.png",
+      "bbox": [
+        [
+          236,
+          1245
+        ],
+        [
+          1503,
+          1245
+        ],
+        [
+          1503,
+          1305
+        ],
+        [
+          236,
+          1305
+        ]
+      ],
+      "score": 0.5925097465515137,
+      "y_pos": 1245,
+      "text": "129. Chảy nước dãi: Địa thương, Thừa tương, Hợp cốc.",
+      "confidence": 0.9967993685492763
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0516_022_reference_content.png",
+      "bbox": [
+        [
+          236,
+          1334
+        ],
+        [
+          1661,
+          1334
+        ],
+        [
+          1661,
+          1397
+        ],
+        [
+          236,
+          1397
+        ]
+      ],
+      "score": 0.5411112904548645,
+      "y_pos": 1334,
+      "text": "130. Nói không rõ tiếng: Thượng Liêm tuyền, Á môn, Hợp cốc.",
+      "confidence": 0.9994819535583747
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0516_027_reference_content.png",
+      "bbox": [
+        [
+          236,
+          1518
+        ],
+        [
+          1887,
+          1518
+        ],
+        [
+          1887,
+          1581
+        ],
+        [
+          236,
+          1581
+        ]
+      ],
+      "score": 0.5006178617477417,
+      "y_pos": 1518,
+      "text": "132. Di chứng não gây mất tiếng: Thượng Liêm tuyền, Tăng âm, Á môn.",
+      "confidence": 0.9991696027741916
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0516_023_reference_content.png",
+      "bbox": [
+        [
+          237,
+          1611
+        ],
+        [
+          1088,
+          1611
+        ],
+        [
+          1088,
+          1670
+        ],
+        [
+          237,
+          1670
+        ]
+      ],
+      "score": 0.5370224118232727,
+      "y_pos": 1611,
+      "text": "133. Đau răng: Thái dương, Ê phong.",
+      "confidence": 0.9538606695226721
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0516_019_reference_content.png",
+      "bbox": [
+        [
+          237,
+          1704
+        ],
+        [
+          1131,
+          1704
+        ],
+        [
+          1131,
+          1762
+        ],
+        [
+          237,
+          1762
+        ]
+      ],
+      "score": 0.5510854721069336,
+      "y_pos": 1704,
+      "text": "134. Đau răng: Nhĩ môn, Ty trúc không.",
+      "confidence": 0.9520739123225213
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0516_014_reference_content.png",
+      "bbox": [
+        [
+          236,
+          1795
+        ],
+        [
+          1807,
+          1795
+        ],
+        [
+          1807,
+          1854
+        ],
+        [
+          236,
+          1854
+        ]
+      ],
+      "score": 0.5673519372940063,
+      "y_pos": 1795,
+      "text": "135. Đau răng: Giáp xa, Nha thống điểm, Hạ quan, Hợp cốc, Nội đình.",
+      "confidence": 0.9789671846058058
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0516_010_reference_content.png",
+      "bbox": [
+        [
+          235,
+          1887
+        ],
+        [
+          1326,
+          1887
+        ],
+        [
+          1326,
+          1944
+        ],
+        [
+          235,
+          1944
+        ]
+      ],
+      "score": 0.5839901566505432,
+      "y_pos": 1887,
+      "text": "136. Đau răng: Thiên lịch, Ngoại quan, Hợp cốc.",
+      "confidence": 0.9555328050438239
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0516_015_reference_content.png",
+      "bbox": [
+        [
+          235,
+          1980
+        ],
+        [
+          1071,
+          1980
+        ],
+        [
+          1071,
+          2035
+        ],
+        [
+          235,
+          2035
+        ]
+      ],
+      "score": 0.5662367343902588,
+      "y_pos": 1980,
+      "text": "137. Đau răng và trụt lợi: Hàm yếm.",
+      "confidence": 0.9978338157808458
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0516_025_reference_content.png",
+      "bbox": [
+        [
+          235,
+          2072
+        ],
+        [
+          927,
+          2072
+        ],
+        [
+          927,
+          2127
+        ],
+        [
+          235,
+          2127
+        ]
+      ],
+      "score": 0.5045539140701294,
+      "y_pos": 2072,
+      "text": "138. Răng cửa khô: Đại chùy.",
+      "confidence": 0.9779552559057871
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0516_004_reference_content.png",
+      "bbox": [
+        [
+          236,
+          2161
+        ],
+        [
+          1332,
+          2161
+        ],
+        [
+          1332,
+          2219
+        ],
+        [
+          236,
+          2219
+        ]
+      ],
+      "score": 0.622837483882904,
+      "y_pos": 2161,
+      "text": "139. Đau răng viêm amiđan: Nội đình, Hợp cốc.",
+      "confidence": 0.9523544869524367
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0516_016_reference_content.png",
+      "bbox": [
+        [
+          235,
+          2254
+        ],
+        [
+          1248,
+          2254
+        ],
+        [
+          1248,
+          2310
+        ],
+        [
+          235,
+          2310
+        ]
+      ],
+      "score": 0.5637349486351013,
+      "y_pos": 2254,
+      "text": "140. Đau răng hàm dưới: Giáp xa, Hợp cốc.",
+      "confidence": 0.9981680900551552
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0516_017_reference_content.png",
+      "bbox": [
+        [
+          236,
+          2346
+        ],
+        [
+          1308,
+          2346
+        ],
+        [
+          1308,
+          2402
+        ],
+        [
+          236,
+          2402
+        ]
+      ],
+      "score": 0.5569663047790527,
+      "y_pos": 2346,
+      "text": "141. Đau răng hàm trên: Thái dương, Hợp cốc.",
+      "confidence": 0.9709814126076906
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0516_020_reference_content.png",
+      "bbox": [
+        [
+          236,
+          2438
+        ],
+        [
+          1401,
+          2438
+        ],
+        [
+          1401,
+          2493
+        ],
+        [
+          236,
+          2493
+        ]
+      ],
+      "score": 0.5426583290100098,
+      "y_pos": 2438,
+      "text": "142. Dưới lưỡi sưng đau: Liêm tuyến, Trung xung.",
+      "confidence": 0.9986582064628601
+    },
+    {
+      "type": "text",
+      "img_path": "p0516_024_text.png",
+      "bbox": [
+        [
+          235,
+          2530
+        ],
+        [
+          1621,
+          2530
+        ],
+        [
+          1621,
+          2585
+        ],
+        [
+          235,
+          2585
+        ]
+      ],
+      "score": 0.534514844417572,
+      "y_pos": 2530,
+      "text": "143. Lưỡi nứt chảy máu: Nội quan, Tam âm giao, Thái xung.",
+      "confidence": 0.9982940685951104
+    },
+    {
+      "type": "text",
+      "img_path": "p0516_018_text.png",
+      "bbox": [
+        [
+          236,
+          2621
+        ],
+        [
+          1317,
+          2621
+        ],
+        [
+          1317,
+          2676
+        ],
+        [
+          236,
+          2676
+        ]
+      ],
+      "score": 0.5559553503990173,
+      "y_pos": 2621,
+      "text": "144. Lưỡi mềm không nói: Á môn, Quan xung.",
+      "confidence": 0.9992669942704114
+    },
+    {
+      "type": "text",
+      "img_path": "p0516_013_text.png",
+      "bbox": [
+        [
+          234,
+          2714
+        ],
+        [
+          1431,
+          2714
+        ],
+        [
+          1431,
+          2767
+        ],
+        [
+          234,
+          2767
+        ]
+      ],
+      "score": 0.5693182945251465,
+      "y_pos": 2714,
+      "text": "145. Lưỡi cứng không nói: Trung xung, Quan xung.",
+      "confidence": 0.9986821854114533
+    },
+    {
+      "type": "number",
+      "img_path": "p0516_003_number.png",
+      "bbox": [
+        [
+          2343,
+          3339
+        ],
+        [
+          2368,
+          3339
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2343,
+          3374
+        ]
+      ],
+      "score": 0.8165901899337769,
+      "y_pos": 3339,
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0516_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3341
+        ],
+        [
+          1324,
+          3341
+        ],
+        [
+          1324,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.9163197875022888,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987223969315583
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0516.png"
+}

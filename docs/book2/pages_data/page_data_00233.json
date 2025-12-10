@@ -1,0 +1,890 @@
+{
+  "page_num": 233,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0233_001_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9447359442710876,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.723309953652677
+    },
+    {
+      "type": "header",
+      "img_path": "p0233_013_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9264634847640991,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0233_024_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          349
+        ],
+        [
+          546,
+          349
+        ],
+        [
+          546,
+          394
+        ],
+        [
+          227,
+          394
+        ]
+      ],
+      "score": 0.9182381629943848,
+      "y_pos": 349,
+      "text": "114. Đả nhãn",
+      "confidence": 0.9796337059565953
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_023_text.png",
+      "bbox": [
+        [
+          287,
+          437
+        ],
+        [
+          2023,
+          437
+        ],
+        [
+          2023,
+          495
+        ],
+        [
+          287,
+          495
+        ]
+      ],
+      "score": 0.9182887077331543,
+      "y_pos": 437,
+      "text": "Vị trí: Ở Yêu du sang ngang mỗi bên 2,5 thốn, lại xuống 0,5 – 1 thốn. (H.114)",
+      "confidence": 0.9903619934486437
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_016_text.png",
+      "bbox": [
+        [
+          287,
+          532
+        ],
+        [
+          1110,
+          532
+        ],
+        [
+          1110,
+          582
+        ],
+        [
+          287,
+          582
+        ]
+      ],
+      "score": 0.923933744430542,
+      "y_pos": 532,
+      "text": "<b>Cách châm:</b> Châm đứng 3 – 4 thôn.",
+      "confidence": 0.9631983439127604
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_002_text.png",
+      "bbox": [
+        [
+          287,
+          623
+        ],
+        [
+          1267,
+          623
+        ],
+        [
+          1267,
+          675
+        ],
+        [
+          287,
+          675
+        ]
+      ],
+      "score": 0.9353548288345337,
+      "y_pos": 623,
+      "text": "Chủ trị: Bại liệt dẫn tới đái la không tự chủ.",
+      "confidence": 0.7399820884068807
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0233_031_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          715
+        ],
+        [
+          512,
+          715
+        ],
+        [
+          512,
+          766
+        ],
+        [
+          229,
+          766
+        ]
+      ],
+      "score": 0.904240071773529,
+      "y_pos": 715,
+      "text": "115. Lý tiên",
+      "confidence": 0.9620465125356402
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_029_text.png",
+      "bbox": [
+        [
+          288,
+          805
+        ],
+        [
+          2080,
+          805
+        ],
+        [
+          2080,
+          861
+        ],
+        [
+          288,
+          861
+        ]
+      ],
+      "score": 0.9090108275413513,
+      "y_pos": 805,
+      "text": "Vị trí: Ở đầu chót xương đuôi, từ đốc mạch sang ngang mỗi bên 1 thốn. (H.114)",
+      "confidence": 0.990416814254809
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_020_text.png",
+      "bbox": [
+        [
+          287,
+          898
+        ],
+        [
+          1201,
+          898
+        ],
+        [
+          1201,
+          948
+        ],
+        [
+          287,
+          948
+        ]
+      ],
+      "score": 0.9202895760536194,
+      "y_pos": 898,
+      "text": "<b>Cách châm:</b> Châm đứng kim 2 – 3 thôn.",
+      "confidence": 0.969729195535183
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_012_text.png",
+      "bbox": [
+        [
+          288,
+          990
+        ],
+        [
+          1294,
+          990
+        ],
+        [
+          1294,
+          1042
+        ],
+        [
+          288,
+          1042
+        ]
+      ],
+      "score": 0.9284279942512512,
+      "y_pos": 990,
+      "text": "Chủ trị: Bại liệt dẫn đến đái ỉa không tự chủ.",
+      "confidence": 0.7488918614884218
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0233_022_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1078
+        ],
+        [
+          577,
+          1078
+        ],
+        [
+          577,
+          1134
+        ],
+        [
+          229,
+          1134
+        ]
+      ],
+      "score": 0.9192684888839722,
+      "y_pos": 1078,
+      "text": "116. Bế khổng",
+      "confidence": 0.9740187803904216
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_028_text.png",
+      "bbox": [
+        [
+          288,
+          1171
+        ],
+        [
+          1624,
+          1171
+        ],
+        [
+          1624,
+          1226
+        ],
+        [
+          288,
+          1226
+        ]
+      ],
+      "score": 0.9129292368888855,
+      "y_pos": 1171,
+      "text": "Vị trí: Ở đầu chót xương đuôi sang mỗi bên 2 thốn. (H.114)",
+      "confidence": 0.9948745290438334
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_015_text.png",
+      "bbox": [
+        [
+          287,
+          1265
+        ],
+        [
+          1201,
+          1265
+        ],
+        [
+          1201,
+          1314
+        ],
+        [
+          287,
+          1314
+        ]
+      ],
+      "score": 0.9245303869247437,
+      "y_pos": 1265,
+      "text": "<b>Cách châm:</b> Châm đứng kim 3 – 4 thôn.",
+      "confidence": 0.9700093537569046
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_007_text.png",
+      "bbox": [
+        [
+          287,
+          1357
+        ],
+        [
+          1248,
+          1357
+        ],
+        [
+          1248,
+          1408
+        ],
+        [
+          287,
+          1408
+        ]
+      ],
+      "score": 0.9310736060142517,
+      "y_pos": 1357,
+      "text": "Chủ tri: Đau thần kinh toa, chi dưới bai tê.",
+      "confidence": 0.6589984232964723
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0233_033_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1448
+        ],
+        [
+          607,
+          1448
+        ],
+        [
+          607,
+          1499
+        ],
+        [
+          229,
+          1499
+        ]
+      ],
+      "score": 0.884480357170105,
+      "y_pos": 1448,
+      "text": "117.Vĩ cốt bàng",
+      "confidence": 0.967971426599166
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_008_text.png",
+      "bbox": [
+        [
+          290,
+          1540
+        ],
+        [
+          1360,
+          1540
+        ],
+        [
+          1360,
+          1593
+        ],
+        [
+          290,
+          1593
+        ]
+      ],
+      "score": 0.9303515553474426,
+      "y_pos": 1540,
+      "text": "Vị trí: Huyệt Hội dương xuống 0,5 thốn. (H.114)",
+      "confidence": 0.40047702071618063
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_003_text.png",
+      "bbox": [
+        [
+          287,
+          1633
+        ],
+        [
+          1201,
+          1633
+        ],
+        [
+          1201,
+          1681
+        ],
+        [
+          287,
+          1681
+        ]
+      ],
+      "score": 0.9322291612625122,
+      "y_pos": 1633,
+      "text": "<b>Cách châm:</b> Châm đứng kim 2 – 3 thôn.",
+      "confidence": 0.9695338532328606
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_005_text.png",
+      "bbox": [
+        [
+          287,
+          1724
+        ],
+        [
+          1251,
+          1724
+        ],
+        [
+          1251,
+          1776
+        ],
+        [
+          287,
+          1776
+        ]
+      ],
+      "score": 0.9319685697555542,
+      "y_pos": 1724,
+      "text": "Chủ trị: Bại liệt gây ra đái ỉa không tự chủ.",
+      "confidence": 0.6537485350953772
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0233_018_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1816
+        ],
+        [
+          650,
+          1816
+        ],
+        [
+          650,
+          1868
+        ],
+        [
+          229,
+          1868
+        ]
+      ],
+      "score": 0.9209188222885132,
+      "y_pos": 1816,
+      "text": "118. Bàng cường",
+      "confidence": 0.9584964198224685
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_021_text.png",
+      "bbox": [
+        [
+          288,
+          1908
+        ],
+        [
+          1712,
+          1908
+        ],
+        [
+          1712,
+          1960
+        ],
+        [
+          288,
+          1960
+        ]
+      ],
+      "score": 0.9200189113616943,
+      "y_pos": 1908,
+      "text": "Vị trí: Từ Trường cường sang ngang mỗi bên 1,5 thốn. (H.114).",
+      "confidence": 0.6824560070794726
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_014_text.png",
+      "bbox": [
+        [
+          287,
+          1998
+        ],
+        [
+          1209,
+          1998
+        ],
+        [
+          1209,
+          2047
+        ],
+        [
+          287,
+          2047
+        ]
+      ],
+      "score": 0.9259843230247498,
+      "y_pos": 1998,
+      "text": "Cách châm: Châm chếch lên 3 – 4 thốn.",
+      "confidence": 0.41229398663227373
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_004_text.png",
+      "bbox": [
+        [
+          287,
+          2092
+        ],
+        [
+          999,
+          2092
+        ],
+        [
+          999,
+          2141
+        ],
+        [
+          287,
+          2141
+        ]
+      ],
+      "score": 0.9320681691169739,
+      "y_pos": 2092,
+      "text": "<i>Chủ tri:</i> Lòi dom, trĩ, sa da con.",
+      "confidence": 0.9695009411992254
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0233_030_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          2183
+        ],
+        [
+          906,
+          2183
+        ],
+        [
+          906,
+          2234
+        ],
+        [
+          228,
+          2234
+        ]
+      ],
+      "score": 0.9075432419776917,
+      "y_pos": 2183,
+      "text": "119. Khách hậu thượng cức",
+      "confidence": 0.9882725499294422
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_017_text.png",
+      "bbox": [
+        [
+          289,
+          2273
+        ],
+        [
+          1816,
+          2273
+        ],
+        [
+          1816,
+          2328
+        ],
+        [
+          289,
+          2328
+        ]
+      ],
+      "score": 0.9226511716842651,
+      "y_pos": 2273,
+      "text": "Vị trí: Ở trên gai sau xương chậu, sát bờ mảng xương cùng. (H114)",
+      "confidence": 0.9897633728696339
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_006_text.png",
+      "bbox": [
+        [
+          287,
+          2366
+        ],
+        [
+          1200,
+          2366
+        ],
+        [
+          1200,
+          2414
+        ],
+        [
+          287,
+          2414
+        ]
+      ],
+      "score": 0.9318477511405945,
+      "y_pos": 2366,
+      "text": "<b>Cách châm:</b> Châm đứng kim 1 – 2 thôn.",
+      "confidence": 0.967008538544178
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_011_text.png",
+      "bbox": [
+        [
+          288,
+          2459
+        ],
+        [
+          850,
+          2459
+        ],
+        [
+          850,
+          2507
+        ],
+        [
+          288,
+          2507
+        ]
+      ],
+      "score": 0.9288251399993896,
+      "y_pos": 2459,
+      "text": "Chủ tri: Chi dưới bai liệt",
+      "confidence": 0.4767824411392212
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0233_027_paragraph_title.png",
+      "bbox": [
+        [
+          230,
+          2549
+        ],
+        [
+          633,
+          2549
+        ],
+        [
+          633,
+          2597
+        ],
+        [
+          230,
+          2597
+        ]
+      ],
+      "score": 0.9146077036857605,
+      "y_pos": 2549,
+      "text": "120. Khiêu dược",
+      "confidence": 0.8932406481574563
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_019_text.png",
+      "bbox": [
+        [
+          288,
+          2638
+        ],
+        [
+          1945,
+          2638
+        ],
+        [
+          1945,
+          2694
+        ],
+        [
+          288,
+          2694
+        ]
+      ],
+      "score": 0.9207347631454468,
+      "y_pos": 2638,
+      "text": "Vị trí: Chỗ cao nhất của mào sau xương chậu thẳng xuống 2 thốn. (H114)",
+      "confidence": 0.9948880167471038
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_009_text.png",
+      "bbox": [
+        [
+          287,
+          2733
+        ],
+        [
+          1108,
+          2733
+        ],
+        [
+          1108,
+          2782
+        ],
+        [
+          287,
+          2782
+        ]
+      ],
+      "score": 0.9300796389579773,
+      "y_pos": 2733,
+      "text": "<b>Cách châm:</b> Châm đứng 2 – 3 thôn.",
+      "confidence": 0.9646739810705185
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_010_text.png",
+      "bbox": [
+        [
+          287,
+          2824
+        ],
+        [
+          1072,
+          2824
+        ],
+        [
+          1072,
+          2876
+        ],
+        [
+          287,
+          2876
+        ]
+      ],
+      "score": 0.929633378982544,
+      "y_pos": 2824,
+      "text": "Chủ trị: Trẻ em bị di chứng bại liệt",
+      "confidence": 0.5207209445928273
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0233_026_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          2916
+        ],
+        [
+          620,
+          2916
+        ],
+        [
+          620,
+          2965
+        ],
+        [
+          229,
+          2965
+        ]
+      ],
+      "score": 0.9153072834014893,
+      "y_pos": 2916,
+      "text": "121. Hoàn được",
+      "confidence": 0.9056960418820381
+    },
+    {
+      "type": "text",
+      "img_path": "p0233_000_text.png",
+      "bbox": [
+        [
+          283,
+          3005
+        ],
+        [
+          2359,
+          3005
+        ],
+        [
+          2359,
+          3131
+        ],
+        [
+          283,
+          3131
+        ]
+      ],
+      "score": 0.9667880535125732,
+      "y_pos": 3005,
+      "text": "Vị trí: Từ mỏm gai đốt thắt lưng thứ 5 (L5) đến mấu chuyển động lớn, từ mào chậu trước\nđến xương đuôi cặt chéo nhau là huyệt. (H.114)",
+      "confidence": 0.9966808563719194
+    },
+    {
+      "type": "footer",
+      "img_path": "p0233_025_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9178466200828552,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0233_032_number.png",
+      "bbox": [
+        [
+          2278,
+          3338
+        ],
+        [
+          2351,
+          3338
+        ],
+        [
+          2351,
+          3377
+        ],
+        [
+          2278,
+          3377
+        ]
+      ],
+      "score": 0.8901650309562683,
+      "y_pos": 3338,
+      "text": "",
+      "confidence": 0.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0233.png"
+}

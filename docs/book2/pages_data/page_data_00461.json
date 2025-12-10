@@ -1,0 +1,422 @@
+{
+  "page_num": 461,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0461_006_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9241963624954224,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0461_010_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1449,
+          150
+        ],
+        [
+          1449,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9151811599731445,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỬU",
+      "confidence": 0.9870374363202316
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0461_009_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          326
+        ],
+        [
+          522,
+          326
+        ],
+        [
+          522,
+          376
+        ],
+        [
+          226,
+          376
+        ]
+      ],
+      "score": 0.9154049754142761,
+      "y_pos": 326,
+      "text": "31. Tắc kinh",
+      "confidence": 0.8983948826789856
+    },
+    {
+      "type": "text",
+      "img_path": "p0461_001_text.png",
+      "bbox": [
+        [
+          220,
+          419
+        ],
+        [
+          2359,
+          419
+        ],
+        [
+          2359,
+          686
+        ],
+        [
+          220,
+          686
+        ]
+      ],
+      "score": 0.9804484248161316,
+      "y_pos": 419,
+      "text": "Phụ nữ tới thời kỳ hành kinh mà không có kinh nguyệt gọi là tắc kinh. Con gái phát dục bình\nthường, khoảng trên dưới 14 tuổi thấy có hành kinh. Nếu vượt quá tuổi đó mà không thấy kinh\nnguyệt, hoặc trước đã có kinh, qua một thời gian dài không thấy kinh nhưng không có thai,\nđồng thời xuất hiện những triệu chứng kèm theo, đều gọi là tắc kinh.",
+      "confidence": 0.9997240164844643
+    },
+    {
+      "type": "text",
+      "img_path": "p0461_000_text.png",
+      "bbox": [
+        [
+          221,
+          723
+        ],
+        [
+          2361,
+          723
+        ],
+        [
+          2361,
+          1131
+        ],
+        [
+          221,
+          1131
+        ]
+      ],
+      "score": 0.9860418438911438,
+      "y_pos": 723,
+      "text": "Nếu do sau khi bị bệnh nặng, khí huyết hao tổn, hoặc sau đẻ ra máu quá nhiều, các lần hành\nkinh sau dần dần giảm ít hoặc tắc hẳn, tiêu hoá kém, phân nát, chân tay lạnh, đầu váng, hồi\nhộp, tinh thần mệt mỏi, toàn thân không có khí lực, môi mặt kém tươi, gọi là huyết khô tắc kinh.\nNếu cáu giận, suy nghĩ, hoặc hành kinh bị cảm phong, thấp, ăn thứ tươi sống đưa đến huyết\nmạch ứ trệ, kinh nguyệt tự nhiên ngừng dứt, đau bụng dưới, khi đau không cho sờ, ngực tức,\nsườn đau, miệng đắng, táo bón, gọi là huyết trệ tắc kinh.",
+      "confidence": 0.9994169865205395
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0461_008_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          1169
+        ],
+        [
+          799,
+          1169
+        ],
+        [
+          799,
+          1220
+        ],
+        [
+          286,
+          1220
+        ]
+      ],
+      "score": 0.9161121249198914,
+      "y_pos": 1169,
+      "text": "a. Huyết khô tắc kinh",
+      "confidence": 0.9624148788659469
+    },
+    {
+      "type": "text",
+      "img_path": "p0461_012_text.png",
+      "bbox": [
+        [
+          284,
+          1261
+        ],
+        [
+          1606,
+          1261
+        ],
+        [
+          1606,
+          1314
+        ],
+        [
+          284,
+          1314
+        ]
+      ],
+      "score": 0.9140148758888245,
+      "y_pos": 1261,
+      "text": "Cách chữa: Lấy huyệt Thận du, Tỳ du, Khí hải, Túc tam lý.",
+      "confidence": 0.6776005878286847
+    },
+    {
+      "type": "text",
+      "img_path": "p0461_007_text.png",
+      "bbox": [
+        [
+          283,
+          1350
+        ],
+        [
+          1418,
+          1350
+        ],
+        [
+          1418,
+          1407
+        ],
+        [
+          283,
+          1407
+        ]
+      ],
+      "score": 0.9198228716850281,
+      "y_pos": 1350,
+      "text": "Đều dùng pháp bổ, không lưu kim, chủ yếu là cứu.",
+      "confidence": 0.9922476100921631
+    },
+    {
+      "type": "text",
+      "img_path": "p0461_002_text.png",
+      "bbox": [
+        [
+          280,
+          1442
+        ],
+        [
+          2360,
+          1442
+        ],
+        [
+          2360,
+          1640
+        ],
+        [
+          280,
+          1640
+        ]
+      ],
+      "score": 0.9762646555900574,
+      "y_pos": 1442,
+      "text": "Giải nghĩa của phương: Phương này chủ yếu là điều bổ khí huyết. Đàn bà lấy huyết làm\nchủ tỳ thống huyết, lấy Tỳ du, Khí hải có thể ôn thông hạ tiêu, điều bổ nguyên khí Túc tam lý\nđiều bổ trung khí. Thận du bồi nguyên cố bản. Kinh khí sung túc mà kinh tự hành.",
+      "confidence": 0.9995979542155286
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0461_011_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          1676
+        ],
+        [
+          775,
+          1676
+        ],
+        [
+          775,
+          1730
+        ],
+        [
+          285,
+          1730
+        ]
+      ],
+      "score": 0.914985716342926,
+      "y_pos": 1676,
+      "text": "b. Huyết trệ tắc kinh",
+      "confidence": 0.8695045269053915
+    },
+    {
+      "type": "text",
+      "img_path": "p0461_013_text.png",
+      "bbox": [
+        [
+          283,
+          1768
+        ],
+        [
+          1847,
+          1768
+        ],
+        [
+          1847,
+          1822
+        ],
+        [
+          283,
+          1822
+        ]
+      ],
+      "score": 0.9114087820053101,
+      "y_pos": 1768,
+      "text": "Cách chữa: Lấy huyệt Huyết phủ, Túc tam lý, Tam âm giao, Hợp cốc.",
+      "confidence": 0.9957481916271039
+    },
+    {
+      "type": "text",
+      "img_path": "p0461_003_text.png",
+      "bbox": [
+        [
+          281,
+          1860
+        ],
+        [
+          2358,
+          1860
+        ],
+        [
+          2358,
+          2055
+        ],
+        [
+          281,
+          2055
+        ]
+      ],
+      "score": 0.9757989645004272,
+      "y_pos": 1860,
+      "text": "Huyết phủ dùng hào kim vê chuyển tiến kim theo tả pháp, lưu kim 30 phút (thời gian lưu kim\nkhông vê). Sau khi rút kim, nghỉ 5 phút lại châm Túc tam lý, Tam âm giao, Hợp cốc. Lưu kim\n30 phút. Cách 4 ngày châm một lần.",
+      "confidence": 0.9929292308295598
+    },
+    {
+      "type": "text",
+      "img_path": "p0461_005_text.png",
+      "bbox": [
+        [
+          281,
+          2093
+        ],
+        [
+          2358,
+          2093
+        ],
+        [
+          2358,
+          2218
+        ],
+        [
+          281,
+          2218
+        ]
+      ],
+      "score": 0.9615355134010315,
+      "y_pos": 2093,
+      "text": "Các huyệt khác như Cách du, Trung cực, Hành gian, Khí hải, Thận du, đều có thể dùng, mỗi\nlần mấy huyệt, thay nhau châm trị.",
+      "confidence": 0.9954223205645879
+    },
+    {
+      "type": "text",
+      "img_path": "p0461_004_text.png",
+      "bbox": [
+        [
+          279,
+          2256
+        ],
+        [
+          2357,
+          2256
+        ],
+        [
+          2357,
+          2447
+        ],
+        [
+          279,
+          2447
+        ]
+      ],
+      "score": 0.974648654460907,
+      "y_pos": 2256,
+      "text": "Giải nghĩa của phương: Huyết phủ là huyệt kinh nghiệm để chữa tắc kinh. Túc tam lý lưu\nthông kinh khí dương minh. Hợp cốc, Tam âm giao làm cho khí huyết đi xuống để thông\nkinh.",
+      "confidence": 0.9960624081106596
+    },
+    {
+      "type": "number",
+      "img_path": "p0461_015_number.png",
+      "bbox": [
+        [
+          2303,
+          3301
+        ],
+        [
+          2353,
+          3301
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2303,
+          3335
+        ]
+      ],
+      "score": 0.8578985333442688,
+      "y_pos": 3301,
+      "text": "    \n    \n    \n\n    \n    .\n\n\n\n",
+      "confidence": 0.9613547652959824
+    },
+    {
+      "type": "footer",
+      "img_path": "p0461_014_footer.png",
+      "bbox": [
+        [
+          229,
+          3310
+        ],
+        [
+          1324,
+          3310
+        ],
+        [
+          1324,
+          3355
+        ],
+        [
+          229,
+          3355
+        ]
+      ],
+      "score": 0.9076808094978333,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985551654167895
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0461.png"
+}

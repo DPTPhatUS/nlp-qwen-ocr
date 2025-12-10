@@ -1,0 +1,292 @@
+{
+  "page_num": 11,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0011_002_header.png",
+      "bbox": [
+        [
+          1608,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1608,
+          202
+        ]
+      ],
+      "score": 0.920991837978363,
+      "y_pos": 143,
+      "text": "~ ~ ~\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7141398120494116
+    },
+    {
+      "type": "header",
+      "img_path": "p0011_003_header.png",
+      "bbox": [
+        [
+          227,
+          154
+        ],
+        [
+          1329,
+          154
+        ],
+        [
+          1329,
+          202
+        ],
+        [
+          227,
+          202
+        ]
+      ],
+      "score": 0.909952700138092,
+      "y_pos": 154,
+      "text": "VŨ TRU QUAN VÀ CÁC THUYẾT CƠ BÁN CỦA ĐÔNG Y",
+      "confidence": 0.9962137964036729
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0011_004_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          287
+        ],
+        [
+          989,
+          287
+        ],
+        [
+          989,
+          340
+        ],
+        [
+          224,
+          340
+        ]
+      ],
+      "score": 0.9097039103507996,
+      "y_pos": 287,
+      "text": "VŨ TRU QUAN PHƯƠNG ĐỒNG",
+      "confidence": 0.9534815907478332
+    },
+    {
+      "type": "text",
+      "img_path": "p0011_000_text.png",
+      "bbox": [
+        [
+          273,
+          377
+        ],
+        [
+          2357,
+          377
+        ],
+        [
+          2357,
+          928
+        ],
+        [
+          273,
+          928
+        ]
+      ],
+      "score": 0.9858642816543579,
+      "y_pos": 377,
+      "text": "Vũ trụ quan Phương Đông là phương pháp quan sát vạn vật trong sự biến đổi của không\ngian (vũ) và biến đổi của thời gian (trụ). Khi quan sát theo không gian, người ta sử dụng\ncách quy nạp đồng dạng. Khi quan sát theo thời gian, người ta sử dụng cách quy nạp tương\nứng. Những giá trị đồng dạng và tương ứng là những giá trị cơ bản để thiết lập nên các quy\nluật Âm Dương, Ngũ Hnàh. Khi người ta đem so sánh giữa những giá trị tương ứng và giá trị\nđồng dạng với nhau, người ta lại tìm được những gia trị tương tác giữa chúng với nhau, đó\nlà quy luật tương sinh, tương khắc trong quy luật Ngũ Hành, quy luật tiêu tưởng, chuyển hóa\ntrong quy luật Âm Dương.",
+      "confidence": 0.9990905079183134
+    },
+    {
+      "type": "text",
+      "img_path": "p0011_001_text.png",
+      "bbox": [
+        [
+          278,
+          956
+        ],
+        [
+          2358,
+          956
+        ],
+        [
+          2358,
+          1221
+        ],
+        [
+          278,
+          1221
+        ]
+      ],
+      "score": 0.9767684936523438,
+      "y_pos": 956,
+      "text": "Giá trị của vũ trụ quan Phương Đông trong đời sống con người là những kết quả ứng dụng\ncủa nó dưới dạng những quy luật vô cùng phong phu svà hiệu quả. Trong phạm vi y học,\nngười ta chọn dùng một số có giá trị rõ nét và thiết thực với chuyên ngành của mình, mấy\nvấn đề thường được sử dụng trong y học là:",
+      "confidence": 0.9994070326309543
+    },
+    {
+      "type": "text",
+      "img_path": "p0011_009_text.png",
+      "bbox": [
+        [
+          416,
+          1243
+        ],
+        [
+          785,
+          1243
+        ],
+        [
+          785,
+          1294
+        ],
+        [
+          416,
+          1294
+        ]
+      ],
+      "score": 0.9013341665267944,
+      "y_pos": 1243,
+      "text": "Am Dương",
+      "confidence": 0.8774951517581939
+    },
+    {
+      "type": "text",
+      "img_path": "p0011_005_text.png",
+      "bbox": [
+        [
+          417,
+          1321
+        ],
+        [
+          764,
+          1321
+        ],
+        [
+          764,
+          1366
+        ],
+        [
+          417,
+          1366
+        ]
+      ],
+      "score": 0.9086050391197205,
+      "y_pos": 1321,
+      "text": "Ngũ Hành",
+      "confidence": 0.8655834078788758
+    },
+    {
+      "type": "text",
+      "img_path": "p0011_006_text.png",
+      "bbox": [
+        [
+          417,
+          1395
+        ],
+        [
+          759,
+          1395
+        ],
+        [
+          759,
+          1438
+        ],
+        [
+          417,
+          1438
+        ]
+      ],
+      "score": 0.9056152105331421,
+      "y_pos": 1395,
+      "text": "Thiên can",
+      "confidence": 0.92572636495937
+    },
+    {
+      "type": "text",
+      "img_path": "p0011_008_text.png",
+      "bbox": [
+        [
+          417,
+          1467
+        ],
+        [
+          693,
+          1467
+        ],
+        [
+          693,
+          1513
+        ],
+        [
+          417,
+          1513
+        ]
+      ],
+      "score": 0.9020389914512634,
+      "y_pos": 1467,
+      "text": "Dia chi",
+      "confidence": 0.5323512686623467
+    },
+    {
+      "type": "footer",
+      "img_path": "p0011_007_footer.png",
+      "bbox": [
+        [
+          230,
+          3334
+        ],
+        [
+          1437,
+          3334
+        ],
+        [
+          1437,
+          3387
+        ],
+        [
+          230,
+          3387
+        ]
+      ],
+      "score": 0.9045711159706116,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9983688143064391
+    },
+    {
+      "type": "number",
+      "img_path": "p0011_010_number.png",
+      "bbox": [
+        [
+          2332,
+          3340
+        ],
+        [
+          2357,
+          3340
+        ],
+        [
+          2357,
+          3373
+        ],
+        [
+          2332,
+          3373
+        ]
+      ],
+      "score": 0.8149552941322327,
+      "y_pos": 3340,
+      "text": "        \n    \n    \n\n    \n\n\n\n    \n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0011.png"
+}

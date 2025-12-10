@@ -1,0 +1,162 @@
+{
+  "page_num": 572,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0572_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9134067296981812,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0572_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1467,
+          152
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9194720387458801,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TẬN, KỲ HUYỆT",
+      "confidence": 0.9979400253295898
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0572_004_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          325
+        ],
+        [
+          806,
+          325
+        ],
+        [
+          806,
+          383
+        ],
+        [
+          226,
+          383
+        ]
+      ],
+      "score": 0.8135395646095276,
+      "y_pos": 325,
+      "text": "Phần 19. BÊNH DA DÀY",
+      "confidence": 0.8046154488216747
+    },
+    {
+      "type": "text",
+      "img_path": "p0572_005_text.png",
+      "bbox": [
+        [
+          228,
+          509
+        ],
+        [
+          2362,
+          509
+        ],
+        [
+          2362,
+          640
+        ],
+        [
+          228,
+          640
+        ]
+      ],
+      "score": 0.5198552012443542,
+      "y_pos": 509,
+      "text": "265. Đau dạ dày: Tiếp cốt, Lạc chẩm, Quan thỏ, Bát phong, Thượng Bát phong, Vị lạc, Trung\ntuyền, Thống linh, Vị nhiệt huyệt, Thực thương, Long hàm.",
+      "confidence": 0.9996563962416667
+    },
+    {
+      "type": "number",
+      "img_path": "p0572_003_number.png",
+      "bbox": [
+        [
+          2316,
+          3336
+        ],
+        [
+          2363,
+          3336
+        ],
+        [
+          2363,
+          3374
+        ],
+        [
+          2316,
+          3374
+        ]
+      ],
+      "score": 0.8556382656097412,
+      "y_pos": 3336,
+      "text": "    \n    \n    \n\n\n    \n\n\n\n\n\n    \n    \n\n۰\n\n\n\n",
+      "confidence": 0.980833250284195
+    },
+    {
+      "type": "footer",
+      "img_path": "p0572_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9110910296440125,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0572.png"
+}

@@ -1,0 +1,472 @@
+{
+  "page_num": 123,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0123_006_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9269722700119019,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7643314777385621
+    },
+    {
+      "type": "header",
+      "img_path": "p0123_010_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          905,
+          156
+        ],
+        [
+          905,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9147769212722778,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9866287461642561
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0123_011_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          367
+        ],
+        [
+          486,
+          367
+        ],
+        [
+          486,
+          419
+        ],
+        [
+          228,
+          419
+        ]
+      ],
+      "score": 0.9147716760635376,
+      "y_pos": 367,
+      "text": "10. Ngư tế",
+      "confidence": 0.9669855982065201
+    },
+    {
+      "type": "text",
+      "img_path": "p0123_012_text.png",
+      "bbox": [
+        [
+          288,
+          461
+        ],
+        [
+          1659,
+          461
+        ],
+        [
+          1659,
+          514
+        ],
+        [
+          288,
+          514
+        ]
+      ],
+      "score": 0.9143180251121521,
+      "y_pos": 461,
+      "text": "Vị trí: Trên mô cái, phía trong khớp ngón cái và đốt bàn số 1.",
+      "confidence": 0.9905278077349067
+    },
+    {
+      "type": "text",
+      "img_path": "p0123_003_text.png",
+      "bbox": [
+        [
+          282,
+          552
+        ],
+        [
+          2357,
+          552
+        ],
+        [
+          2357,
+          677
+        ],
+        [
+          282,
+          677
+        ]
+      ],
+      "score": 0.9636388421058655,
+      "y_pos": 552,
+      "text": "Cách lấy huyệt: Lòng bàn tay ngửa, từ tâm bàn tay kẻ vuông góc với cạnh ngoài xương bàn\nngón một, huyệt ở ¼ đường nối đó, từ phía ngoài vào. (H39)",
+      "confidence": 0.9978868006153053
+    },
+    {
+      "type": "text",
+      "img_path": "p0123_005_text.png",
+      "bbox": [
+        [
+          285,
+          715
+        ],
+        [
+          1622,
+          715
+        ],
+        [
+          1622,
+          765
+        ],
+        [
+          285,
+          765
+        ]
+      ],
+      "score": 0.9290534257888794,
+      "y_pos": 715,
+      "text": "Cách châm: Châm sâu 0,3-0,5 thốn. Cứu 3 mồi, hơ 5 phút.",
+      "confidence": 0.5621611026295444
+    },
+    {
+      "type": "text",
+      "img_path": "p0123_009_text.png",
+      "bbox": [
+        [
+          285,
+          807
+        ],
+        [
+          1603,
+          807
+        ],
+        [
+          1603,
+          859
+        ],
+        [
+          285,
+          859
+        ]
+      ],
+      "score": 0.9216421246528625,
+      "y_pos": 807,
+      "text": "Chủ trị: Sốt, ho, đau sườn ngực, đau hầu, các thứ nghiện.",
+      "confidence": 0.9670785372540102
+    },
+    {
+      "type": "text",
+      "img_path": "p0123_007_text.png",
+      "bbox": [
+        [
+          288,
+          897
+        ],
+        [
+          1350,
+          897
+        ],
+        [
+          1350,
+          951
+        ],
+        [
+          288,
+          951
+        ]
+      ],
+      "score": 0.9222885370254517,
+      "y_pos": 897,
+      "text": "<b>Tác dụng phối hợp:</b> Với <i>Dịch môn</i> trị đau hầu.",
+      "confidence": 0.9802542561292649
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0123_014_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          989
+        ],
+        [
+          652,
+          989
+        ],
+        [
+          652,
+          1041
+        ],
+        [
+          227,
+          1041
+        ]
+      ],
+      "score": 0.9078713655471802,
+      "y_pos": 989,
+      "text": "11. Thiếu thương",
+      "confidence": 0.9117656416363187
+    },
+    {
+      "type": "text",
+      "img_path": "p0123_000_text.png",
+      "bbox": [
+        [
+          282,
+          1080
+        ],
+        [
+          2357,
+          1080
+        ],
+        [
+          2357,
+          1207
+        ],
+        [
+          282,
+          1207
+        ]
+      ],
+      "score": 0.9650806188583374,
+      "y_pos": 1080,
+      "text": "Vị trí: Ở cạnh trong gốc móng ngón tay cái (cạnh quay), cách gốc móng ra hơn 1 phân (bên\nngoài góc móng chìm dưới da). (H40)",
+      "confidence": 0.9949663931364053
+    },
+    {
+      "type": "text",
+      "img_path": "p0123_008_text.png",
+      "bbox": [
+        [
+          284,
+          1241
+        ],
+        [
+          1534,
+          1241
+        ],
+        [
+          1534,
+          1298
+        ],
+        [
+          284,
+          1298
+        ]
+      ],
+      "score": 0.9217506051063538,
+      "y_pos": 1241,
+      "text": "Cách lấy huyệt: Bàn tay nắm, ngón cái thẳng tự nhiên.",
+      "confidence": 0.774345524744554
+    },
+    {
+      "type": "text",
+      "img_path": "p0123_002_text.png",
+      "bbox": [
+        [
+          280,
+          1335
+        ],
+        [
+          2355,
+          1335
+        ],
+        [
+          2355,
+          1458
+        ],
+        [
+          280,
+          1458
+        ]
+      ],
+      "score": 0.9641199111938477,
+      "y_pos": 1335,
+      "text": "Cách châm: Mũi kim hơi hướng về phía trên, châm chếch sâu hơn 1 thốn, nói chung thường\ndùng kim 3 cạnh chích máu.",
+      "confidence": 0.9953693389989339
+    },
+    {
+      "type": "image",
+      "img_path": "p0123_001_image.png",
+      "bbox": [
+        [
+          764,
+          1510
+        ],
+        [
+          1904,
+          1510
+        ],
+        [
+          1904,
+          2118
+        ],
+        [
+          764,
+          2118
+        ]
+      ],
+      "score": 0.9648712277412415,
+      "y_pos": 1510
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0123_013_figure_title.png",
+      "bbox": [
+        [
+          1130,
+          2199
+        ],
+        [
+          1517,
+          2199
+        ],
+        [
+          1517,
+          2243
+        ],
+        [
+          1130,
+          2243
+        ]
+      ],
+      "score": 0.9106273651123047,
+      "y_pos": 2199,
+      "text": "Hình 39 - Hình 40",
+      "confidence": 0.6921638313092684
+    },
+    {
+      "type": "text",
+      "img_path": "p0123_004_text.png",
+      "bbox": [
+        [
+          282,
+          2286
+        ],
+        [
+          2357,
+          2286
+        ],
+        [
+          2357,
+          2413
+        ],
+        [
+          282,
+          2413
+        ]
+      ],
+      "score": 0.961493194103241,
+      "y_pos": 2286,
+      "text": "Chủ trị: Chảy máu mũi, nôn oẹ, ho, sốt, đau mắt đỏ cấp, ho gà, động kinh, đột nhiên\nchoáng, quay cuồng (thi quyết) hầu họng sưng đau, viêm amiđan.",
+      "confidence": 0.9900198092300664
+    },
+    {
+      "type": "text",
+      "img_path": "p0123_016_text.png",
+      "bbox": [
+        [
+          287,
+          2449
+        ],
+        [
+          2086,
+          2449
+        ],
+        [
+          2086,
+          2504
+        ],
+        [
+          287,
+          2504
+        ]
+      ],
+      "score": 0.9066020250320435,
+      "y_pos": 2449,
+      "text": "<i>Tác dụng phối hợp:</i> Với <i>Thương dương</i>, chích nặn máu trị hầu họng sưng đau.",
+      "confidence": 0.9927633272696145
+    },
+    {
+      "type": "footer",
+      "img_path": "p0123_015_footer.png",
+      "bbox": [
+        [
+          230,
+          3334
+        ],
+        [
+          1436,
+          3334
+        ],
+        [
+          1436,
+          3387
+        ],
+        [
+          230,
+          3387
+        ]
+      ],
+      "score": 0.9070573449134827,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9399857813457273
+    },
+    {
+      "type": "number",
+      "img_path": "p0123_017_number.png",
+      "bbox": [
+        [
+          2327,
+          3342
+        ],
+        [
+          2351,
+          3342
+        ],
+        [
+          2351,
+          3377
+        ],
+        [
+          2327,
+          3377
+        ]
+      ],
+      "score": 0.803541898727417,
+      "y_pos": 3342,
+      "text": "\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0123.png"
+}

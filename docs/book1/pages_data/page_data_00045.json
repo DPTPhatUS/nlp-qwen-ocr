@@ -1,0 +1,786 @@
+{
+  "page_num": 45,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0045_021_text.png",
+      "bbox": [
+        [
+          464,
+          462
+        ],
+        [
+          1631,
+          462
+        ],
+        [
+          1631,
+          517
+        ],
+        [
+          464,
+          517
+        ]
+      ],
+      "score": 0.7797358632087708,
+      "y_pos": 462,
+      "text": "8. Triệu chứng nào <i>KHÔNG có</i> trong H/C Quyết âm",
+      "confidence": 0.9866262245178222
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_029_text.png",
+      "bbox": [
+        [
+          514,
+          548
+        ],
+        [
+          1010,
+          548
+        ],
+        [
+          1010,
+          600
+        ],
+        [
+          514,
+          600
+        ]
+      ],
+      "score": 0.7142367959022522,
+      "y_pos": 548,
+      "text": "A. Động kinh, co giật",
+      "confidence": 0.9850439792094023
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_027_text.png",
+      "bbox": [
+        [
+          514,
+          631
+        ],
+        [
+          1070,
+          631
+        ],
+        [
+          1070,
+          682
+        ],
+        [
+          514,
+          682
+        ]
+      ],
+      "score": 0.731029212474823,
+      "y_pos": 631,
+      "text": "B. Trên nóng, dưới lạnh",
+      "confidence": 0.9985044884681702
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_020_text.png",
+      "bbox": [
+        [
+          512,
+          713
+        ],
+        [
+          1407,
+          713
+        ],
+        [
+          1407,
+          766
+        ],
+        [
+          512,
+          766
+        ]
+      ],
+      "score": 0.7894530296325684,
+      "y_pos": 713,
+      "text": "C. Tay chân móp lạnh xen lẫn phát sốt",
+      "confidence": 0.9826061618633759
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_024_text.png",
+      "bbox": [
+        [
+          513,
+          798
+        ],
+        [
+          1031,
+          798
+        ],
+        [
+          1031,
+          849
+        ],
+        [
+          513,
+          849
+        ]
+      ],
+      "score": 0.7538747787475586,
+      "y_pos": 798,
+      "text": "D. Tay chân móp lạnh",
+      "confidence": 0.9710397151383486
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_028_text.png",
+      "bbox": [
+        [
+          516,
+          880
+        ],
+        [
+          1041,
+          880
+        ],
+        [
+          1041,
+          930
+        ],
+        [
+          516,
+          930
+        ]
+      ],
+      "score": 0.7207304239273071,
+      "y_pos": 880,
+      "text": "E. Tiêu chảy, nôn mửa",
+      "confidence": 0.9985239635343137
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0045_002_paragraph_title.png",
+      "bbox": [
+        [
+          346,
+          989
+        ],
+        [
+          874,
+          989
+        ],
+        [
+          874,
+          1047
+        ],
+        [
+          346,
+          1047
+        ]
+      ],
+      "score": 0.877301037311554,
+      "y_pos": 989,
+      "text": "CAU HOI NHAN QUA",
+      "confidence": 0.6467693547407786
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_004_text.png",
+      "bbox": [
+        [
+          343,
+          1095
+        ],
+        [
+          2126,
+          1095
+        ],
+        [
+          2126,
+          1203
+        ],
+        [
+          343,
+          1203
+        ]
+      ],
+      "score": 0.8551369905471802,
+      "y_pos": 1095,
+      "text": "1. Trong bài Ma hoàng thang chữa chứng Thái dương thương hàn gồm:\nMa hoàng, Quế chi, Hanh nhân, Cam thảo",
+      "confidence": 0.9966018182906642
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_008_text.png",
+      "bbox": [
+        [
+          463,
+          1236
+        ],
+        [
+          1111,
+          1236
+        ],
+        [
+          1111,
+          1285
+        ],
+        [
+          463,
+          1285
+        ]
+      ],
+      "score": 0.8200587630271912,
+      "y_pos": 1236,
+      "text": "a. Vi Cam thảo làm tá bởi vì",
+      "confidence": 0.9784530321756999
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_006_text.png",
+      "bbox": [
+        [
+          463,
+          1318
+        ],
+        [
+          1486,
+          1318
+        ],
+        [
+          1486,
+          1369
+        ],
+        [
+          463,
+          1369
+        ]
+      ],
+      "score": 0.8467932343482971,
+      "y_pos": 1318,
+      "text": "b. Cam thảo có tác dụng thanh nhiệt giải độc",
+      "confidence": 0.9989492906176526
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_018_text.png",
+      "bbox": [
+        [
+          512,
+          1400
+        ],
+        [
+          1717,
+          1400
+        ],
+        [
+          1717,
+          1452
+        ],
+        [
+          512,
+          1452
+        ]
+      ],
+      "score": 0.796541154384613,
+      "y_pos": 1400,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.9974961753161449
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_012_text.png",
+      "bbox": [
+        [
+          512,
+          1482
+        ],
+        [
+          1809,
+          1482
+        ],
+        [
+          1809,
+          1536
+        ],
+        [
+          512,
+          1536
+        ]
+      ],
+      "score": 0.8130627274513245,
+      "y_pos": 1482,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.9967216572591237
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_005_text.png",
+      "bbox": [
+        [
+          513,
+          1565
+        ],
+        [
+          992,
+          1565
+        ],
+        [
+          992,
+          1616
+        ],
+        [
+          513,
+          1616
+        ]
+      ],
+      "score": 0.8498265147209167,
+      "y_pos": 1565,
+      "text": "C. Nếu a đúng, b sai",
+      "confidence": 0.9730388630520214
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_007_text.png",
+      "bbox": [
+        [
+          514,
+          1648
+        ],
+        [
+          993,
+          1648
+        ],
+        [
+          993,
+          1700
+        ],
+        [
+          514,
+          1700
+        ]
+      ],
+      "score": 0.8254425525665283,
+      "y_pos": 1648,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9867173324931752
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_016_text.png",
+      "bbox": [
+        [
+          516,
+          1732
+        ],
+        [
+          945,
+          1732
+        ],
+        [
+          945,
+          1779
+        ],
+        [
+          516,
+          1779
+        ]
+      ],
+      "score": 0.8017277121543884,
+      "y_pos": 1732,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.9797126792726063
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_001_text.png",
+      "bbox": [
+        [
+          343,
+          1815
+        ],
+        [
+          2127,
+          1815
+        ],
+        [
+          2127,
+          1923
+        ],
+        [
+          343,
+          1923
+        ]
+      ],
+      "score": 0.8922277092933655,
+      "y_pos": 1815,
+      "text": "2. Trong phương huyệt điều trị hai chứng Thái dương súc thủy và Thái\ndương súc huyết",
+      "confidence": 0.9976108138551232
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_009_text.png",
+      "bbox": [
+        [
+          464,
+          1954
+        ],
+        [
+          1522,
+          1954
+        ],
+        [
+          1522,
+          2006
+        ],
+        [
+          464,
+          2006
+        ]
+      ],
+      "score": 0.8183447122573853,
+      "y_pos": 1954,
+      "text": "a. Người ta đều châm bổ huyệt Nội quan bởi vì",
+      "confidence": 0.999521421625259
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_013_text.png",
+      "bbox": [
+        [
+          463,
+          2036
+        ],
+        [
+          1281,
+          2036
+        ],
+        [
+          1281,
+          2088
+        ],
+        [
+          463,
+          2088
+        ]
+      ],
+      "score": 0.812723696231842,
+      "y_pos": 2036,
+      "text": "b. Nội quan có tác dụng phá kết khí",
+      "confidence": 0.9649685524605416
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_019_text.png",
+      "bbox": [
+        [
+          514,
+          2118
+        ],
+        [
+          1716,
+          2118
+        ],
+        [
+          1716,
+          2170
+        ],
+        [
+          514,
+          2170
+        ]
+      ],
+      "score": 0.7915735244750977,
+      "y_pos": 2118,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.9950963787312778
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_015_text.png",
+      "bbox": [
+        [
+          512,
+          2201
+        ],
+        [
+          1808,
+          2201
+        ],
+        [
+          1808,
+          2254
+        ],
+        [
+          512,
+          2254
+        ]
+      ],
+      "score": 0.8021249175071716,
+      "y_pos": 2201,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.9950954967311451
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_017_text.png",
+      "bbox": [
+        [
+          514,
+          2284
+        ],
+        [
+          993,
+          2284
+        ],
+        [
+          993,
+          2334
+        ],
+        [
+          514,
+          2334
+        ]
+      ],
+      "score": 0.7991688251495361,
+      "y_pos": 2284,
+      "text": "C. Nếu a đúng, b sai",
+      "confidence": 0.9705587273294275
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_010_text.png",
+      "bbox": [
+        [
+          515,
+          2368
+        ],
+        [
+          993,
+          2368
+        ],
+        [
+          993,
+          2419
+        ],
+        [
+          515,
+          2419
+        ]
+      ],
+      "score": 0.8168180584907532,
+      "y_pos": 2368,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9853296225721185
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_014_text.png",
+      "bbox": [
+        [
+          516,
+          2451
+        ],
+        [
+          944,
+          2451
+        ],
+        [
+          944,
+          2497
+        ],
+        [
+          516,
+          2497
+        ]
+      ],
+      "score": 0.8118021488189697,
+      "y_pos": 2451,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.9802839841161456
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_003_text.png",
+      "bbox": [
+        [
+          342,
+          2532
+        ],
+        [
+          2124,
+          2532
+        ],
+        [
+          2124,
+          2643
+        ],
+        [
+          342,
+          2643
+        ]
+      ],
+      "score": 0.8736494183540344,
+      "y_pos": 2532,
+      "text": "3. Trong bài thuốc Hoàng liên thang chữa HC Quyết âm gồm: Nhân sâm,\nĐại táo, Hoàng liên, Quế chi, Can khương, Bán hạ, Cam thảo bắc",
+      "confidence": 0.9855112480607046
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_022_text.png",
+      "bbox": [
+        [
+          464,
+          2673
+        ],
+        [
+          1166,
+          2673
+        ],
+        [
+          1166,
+          2724
+        ],
+        [
+          464,
+          2724
+        ]
+      ],
+      "score": 0.7783418893814087,
+      "y_pos": 2673,
+      "text": "a. Vị Can khương làm tá bởi vì",
+      "confidence": 0.9963063020259142
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_023_text.png",
+      "bbox": [
+        [
+          463,
+          2756
+        ],
+        [
+          1576,
+          2756
+        ],
+        [
+          1576,
+          2806
+        ],
+        [
+          463,
+          2806
+        ]
+      ],
+      "score": 0.7733189463615417,
+      "y_pos": 2756,
+      "text": "b. Can khương có tác dụng ôn trung trừ nôn mửa",
+      "confidence": 0.9984879344701767
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_026_text.png",
+      "bbox": [
+        [
+          514,
+          2838
+        ],
+        [
+          1716,
+          2838
+        ],
+        [
+          1716,
+          2889
+        ],
+        [
+          514,
+          2889
+        ]
+      ],
+      "score": 0.734761655330658,
+      "y_pos": 2838,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.9950678562218288
+    },
+    {
+      "type": "text",
+      "img_path": "p0045_025_text.png",
+      "bbox": [
+        [
+          512,
+          2920
+        ],
+        [
+          1807,
+          2920
+        ],
+        [
+          1807,
+          2973
+        ],
+        [
+          512,
+          2973
+        ]
+      ],
+      "score": 0.7524856328964233,
+      "y_pos": 2920,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.9966884180903435
+    },
+    {
+      "type": "number",
+      "img_path": "p0045_011_number.png",
+      "bbox": [
+        [
+          352,
+          3112
+        ],
+        [
+          405,
+          3112
+        ],
+        [
+          405,
+          3148
+        ],
+        [
+          352,
+          3148
+        ]
+      ],
+      "score": 0.8152342438697815,
+      "y_pos": 3112,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0045_000_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1074,
+          3311
+        ],
+        [
+          1074,
+          3367
+        ],
+        [
+          294,
+          3367
+        ]
+      ],
+      "score": 0.9103336334228516,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8891090188707624
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0045.png"
+}

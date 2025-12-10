@@ -1,0 +1,786 @@
+{
+  "page_num": 201,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0201_000_text.png",
+      "bbox": [
+        [
+          511,
+          450
+        ],
+        [
+          2127,
+          450
+        ],
+        [
+          2127,
+          555
+        ],
+        [
+          511,
+          555
+        ]
+      ],
+      "score": 0.9138901829719543,
+      "y_pos": 450,
+      "text": "C. Do té ngã đưa đến huyết ứ ảnh hưởng đến chức năng tàng huyết\ncủa Can",
+      "confidence": 0.9899005347337478
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_021_text.png",
+      "bbox": [
+        [
+          510,
+          590
+        ],
+        [
+          1749,
+          590
+        ],
+        [
+          1749,
+          643
+        ],
+        [
+          510,
+          643
+        ]
+      ],
+      "score": 0.8372156620025635,
+      "y_pos": 590,
+      "text": "D. Do Thận âm hư đưa đến Can mộc vượng lấn Tỳ thổ",
+      "confidence": 0.9857885042826334
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_025_text.png",
+      "bbox": [
+        [
+          515,
+          674
+        ],
+        [
+          924,
+          674
+        ],
+        [
+          924,
+          723
+        ],
+        [
+          515,
+          723
+        ]
+      ],
+      "score": 0.8091763854026794,
+      "y_pos": 674,
+      "text": "E. Do Can âm hư",
+      "confidence": 0.9928895655800315
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0201_010_paragraph_title.png",
+      "bbox": [
+        [
+          346,
+          783
+        ],
+        [
+          898,
+          783
+        ],
+        [
+          898,
+          845
+        ],
+        [
+          346,
+          845
+        ]
+      ],
+      "score": 0.8567747473716736,
+      "y_pos": 783,
+      "text": "CAU HOI NHAN QUA",
+      "confidence": 0.6343966954284244
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_027_text.png",
+      "bbox": [
+        [
+          465,
+          893
+        ],
+        [
+          1983,
+          893
+        ],
+        [
+          1983,
+          945
+        ],
+        [
+          465,
+          945
+        ]
+      ],
+      "score": 0.7590790390968323,
+      "y_pos": 893,
+      "text": "1. a- Trong HC Can âm hư, có triệu chứng mắt mờ, nhìn kém bởi vì",
+      "confidence": 0.9983875507658179
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_026_text.png",
+      "bbox": [
+        [
+          463,
+          977
+        ],
+        [
+          2100,
+          977
+        ],
+        [
+          2100,
+          1029
+        ],
+        [
+          463,
+          1029
+        ]
+      ],
+      "score": 0.8069719076156616,
+      "y_pos": 977,
+      "text": "b- Can khai khiếu ra mắt, nay âm tinh không đủ nên có triệu chứng này",
+      "confidence": 0.9968833595934049
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_024_text.png",
+      "bbox": [
+        [
+          510,
+          1060
+        ],
+        [
+          1718,
+          1060
+        ],
+        [
+          1718,
+          1112
+        ],
+        [
+          510,
+          1112
+        ]
+      ],
+      "score": 0.8217197060585022,
+      "y_pos": 1060,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.9969603880396429
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_015_text.png",
+      "bbox": [
+        [
+          512,
+          1140
+        ],
+        [
+          1809,
+          1140
+        ],
+        [
+          1809,
+          1193
+        ],
+        [
+          512,
+          1193
+        ]
+      ],
+      "score": 0.8456733822822571,
+      "y_pos": 1140,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.9955471104809216
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_011_text.png",
+      "bbox": [
+        [
+          513,
+          1223
+        ],
+        [
+          992,
+          1223
+        ],
+        [
+          992,
+          1274
+        ],
+        [
+          513,
+          1274
+        ]
+      ],
+      "score": 0.8513011932373047,
+      "y_pos": 1223,
+      "text": "C. Nếu a đúng, b sai",
+      "confidence": 0.9730388630520214
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_013_text.png",
+      "bbox": [
+        [
+          513,
+          1306
+        ],
+        [
+          994,
+          1306
+        ],
+        [
+          994,
+          1358
+        ],
+        [
+          513,
+          1358
+        ]
+      ],
+      "score": 0.8469849228858948,
+      "y_pos": 1306,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9853905601934954
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_022_text.png",
+      "bbox": [
+        [
+          516,
+          1389
+        ],
+        [
+          945,
+          1389
+        ],
+        [
+          945,
+          1437
+        ],
+        [
+          516,
+          1437
+        ]
+      ],
+      "score": 0.8345815539360046,
+      "y_pos": 1389,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.9797126792726063
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_019_text.png",
+      "bbox": [
+        [
+          345,
+          1471
+        ],
+        [
+          2123,
+          1471
+        ],
+        [
+          2123,
+          1579
+        ],
+        [
+          345,
+          1579
+        ]
+      ],
+      "score": 0.8417457938194275,
+      "y_pos": 1471,
+      "text": "2. Trong bài Nhất quán tiễn chữa chứng Can âm hư gồm Sa sâm, Câu kỷ,\nSinh địa, rễ Trinh nữ, Mạch đông, Hà thủ ô",
+      "confidence": 0.9976221232445208
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_017_text.png",
+      "bbox": [
+        [
+          462,
+          1612
+        ],
+        [
+          1729,
+          1612
+        ],
+        [
+          1729,
+          1664
+        ],
+        [
+          462,
+          1664
+        ]
+      ],
+      "score": 0.8440924882888794,
+      "y_pos": 1612,
+      "text": "a- Ba vị Sinh địa, Câu kỷ, Hà thủ ô đều làm quân bởi vì",
+      "confidence": 0.9196152802099261
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_018_text.png",
+      "bbox": [
+        [
+          463,
+          1695
+        ],
+        [
+          1949,
+          1695
+        ],
+        [
+          1949,
+          1747
+        ],
+        [
+          463,
+          1747
+        ]
+      ],
+      "score": 0.8428051471710205,
+      "y_pos": 1695,
+      "text": "b- Ba vị Sinh địa, Câu kỷ, Hà thủ ô đều có tác dụng bổ Can, Thận",
+      "confidence": 0.8929226524902113
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_014_text.png",
+      "bbox": [
+        [
+          513,
+          1777
+        ],
+        [
+          1718,
+          1777
+        ],
+        [
+          1718,
+          1828
+        ],
+        [
+          513,
+          1828
+        ]
+      ],
+      "score": 0.8464152216911316,
+      "y_pos": 1777,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.9963293120546161
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_023_text.png",
+      "bbox": [
+        [
+          512,
+          1859
+        ],
+        [
+          1808,
+          1859
+        ],
+        [
+          1808,
+          1912
+        ],
+        [
+          512,
+          1912
+        ]
+      ],
+      "score": 0.8337336778640747,
+      "y_pos": 1859,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.9949217555778367
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_009_text.png",
+      "bbox": [
+        [
+          513,
+          1942
+        ],
+        [
+          993,
+          1942
+        ],
+        [
+          993,
+          1993
+        ],
+        [
+          513,
+          1993
+        ]
+      ],
+      "score": 0.8582722544670105,
+      "y_pos": 1942,
+      "text": "C. Nếu a đúng, b sai",
+      "confidence": 0.9691653495485132
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_007_text.png",
+      "bbox": [
+        [
+          513,
+          2026
+        ],
+        [
+          993,
+          2026
+        ],
+        [
+          993,
+          2076
+        ],
+        [
+          513,
+          2076
+        ]
+      ],
+      "score": 0.8662153482437134,
+      "y_pos": 2026,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9858696027235552
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_012_text.png",
+      "bbox": [
+        [
+          515,
+          2109
+        ],
+        [
+          945,
+          2109
+        ],
+        [
+          945,
+          2156
+        ],
+        [
+          515,
+          2156
+        ]
+      ],
+      "score": 0.8475133180618286,
+      "y_pos": 2109,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.9816462284042722
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_029_text.png",
+      "bbox": [
+        [
+          463,
+          2191
+        ],
+        [
+          1903,
+          2191
+        ],
+        [
+          1903,
+          2242
+        ],
+        [
+          463,
+          2242
+        ]
+      ],
+      "score": 0.6193296909332275,
+      "y_pos": 2191,
+      "text": "3. a- Trong HC Can Thận âm hư, có triệu chứng ngủ kém bởi vì",
+      "confidence": 0.9897600854596784
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_002_text.png",
+      "bbox": [
+        [
+          345,
+          2273
+        ],
+        [
+          2126,
+          2273
+        ],
+        [
+          2126,
+          2383
+        ],
+        [
+          345,
+          2383
+        ]
+      ],
+      "score": 0.8890294432640076,
+      "y_pos": 2273,
+      "text": "b- Can tàng huyết, nay Can âm hư, Can không tàng được huyết mà sinh\nra triệu chứng này",
+      "confidence": 0.9207952559426211
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_020_text.png",
+      "bbox": [
+        [
+          511,
+          2413
+        ],
+        [
+          1719,
+          2413
+        ],
+        [
+          1719,
+          2464
+        ],
+        [
+          511,
+          2464
+        ]
+      ],
+      "score": 0.8413729071617126,
+      "y_pos": 2413,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.9947644798260815
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_016_text.png",
+      "bbox": [
+        [
+          511,
+          2495
+        ],
+        [
+          1808,
+          2495
+        ],
+        [
+          1808,
+          2548
+        ],
+        [
+          511,
+          2548
+        ]
+      ],
+      "score": 0.8452964425086975,
+      "y_pos": 2495,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.9948070773056575
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_006_text.png",
+      "bbox": [
+        [
+          513,
+          2578
+        ],
+        [
+          992,
+          2578
+        ],
+        [
+          992,
+          2629
+        ],
+        [
+          513,
+          2629
+        ]
+      ],
+      "score": 0.8697178959846497,
+      "y_pos": 2578,
+      "text": "C. Nếu a đúng, b sai",
+      "confidence": 0.9730388630520214
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_005_text.png",
+      "bbox": [
+        [
+          514,
+          2661
+        ],
+        [
+          993,
+          2661
+        ],
+        [
+          993,
+          2712
+        ],
+        [
+          514,
+          2712
+        ]
+      ],
+      "score": 0.8715561628341675,
+      "y_pos": 2661,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9834472862156954
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_003_text.png",
+      "bbox": [
+        [
+          515,
+          2745
+        ],
+        [
+          944,
+          2745
+        ],
+        [
+          944,
+          2791
+        ],
+        [
+          515,
+          2791
+        ]
+      ],
+      "score": 0.8787536025047302,
+      "y_pos": 2745,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.972496489683787
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_008_text.png",
+      "bbox": [
+        [
+          343,
+          2826
+        ],
+        [
+          2124,
+          2826
+        ],
+        [
+          2124,
+          2937
+        ],
+        [
+          343,
+          2937
+        ]
+      ],
+      "score": 0.8603845238685608,
+      "y_pos": 2826,
+      "text": "4. Trong bài Kỷ cúc địa hoàng chữa chứng Can, Thận âm hư gồm Thục\nđịa, Hoài sơn, Kỷ tử, Sơn thù, Phục linh, Đơn bì, Trạch tả, Cúc hoa trắng.",
+      "confidence": 0.999377419722895
+    },
+    {
+      "type": "text",
+      "img_path": "p0201_004_text.png",
+      "bbox": [
+        [
+          462,
+          2967
+        ],
+        [
+          1093,
+          2967
+        ],
+        [
+          1093,
+          3018
+        ],
+        [
+          462,
+          3018
+        ]
+      ],
+      "score": 0.8750854134559631,
+      "y_pos": 2967,
+      "text": "a- Vị Kỷ tử làm thần, bởi vì",
+      "confidence": 0.9206928769747417
+    },
+    {
+      "type": "number",
+      "img_path": "p0201_028_number.png",
+      "bbox": [
+        [
+          350,
+          3109
+        ],
+        [
+          436,
+          3109
+        ],
+        [
+          436,
+          3149
+        ],
+        [
+          350,
+          3149
+        ]
+      ],
+      "score": 0.7500015497207642,
+      "y_pos": 3109,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0201_001_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1074,
+          3311
+        ],
+        [
+          1074,
+          3367
+        ],
+        [
+          293,
+          3367
+        ]
+      ],
+      "score": 0.9023196697235107,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8915173768997192
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0201.png"
+}

@@ -1,0 +1,396 @@
+{
+  "page_num": 460,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0460_005_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9181823134422302,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0460_006_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9141473174095154,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0460_007_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          331
+        ],
+        [
+          799,
+          331
+        ],
+        [
+          799,
+          379
+        ],
+        [
+          226,
+          379
+        ]
+      ],
+      "score": 0.9114817380905151,
+      "y_pos": 331,
+      "text": "30. Hành kinh đau bung",
+      "confidence": 0.818179634710153
+    },
+    {
+      "type": "text",
+      "img_path": "p0460_000_text.png",
+      "bbox": [
+        [
+          221,
+          419
+        ],
+        [
+          2359,
+          419
+        ],
+        [
+          2359,
+          900
+        ],
+        [
+          221,
+          900
+        ]
+      ],
+      "score": 0.9856470227241516,
+      "y_pos": 419,
+      "text": "Phụ nữ trước, sau, hoặc trong khi hành kinh, từ rốn trở xuống và lưng đau đớn, có khi đau quá\nkhông chịu nổi, gọi là đau bụng kinh. Bệnh này do cuộc sống tình cảm không tốt, tinh thần căng\nthẳng, hoặc bị lạnh, bị rét, ăn nhiều thứ tươi sống làm cho khí trệ, huyết ứ, hoặc khí huyết bất\ntúc gây ra. Trước và trong khi hành kinh, bụng dưới đau dữ dội, sờ nắn đau tăng, có khi bầu vú\ncũng sưng đau, thậm chí có kèm đau lưng đùi. Sau khi thấy kinh các chứng giảm dần. Máu\nkinh màu tím có lẫn cục đỏ là chứng thực. Cuối kỳ hành kinh, hoặc sau kỳ hành kinh mà bụng\ndưới thấy đau, sờ nắn vào thấy giảm đau, máu kinh màu nhạt và ít, đó là chứng hư.",
+      "confidence": 0.9996295577061548
+    },
+    {
+      "type": "text",
+      "img_path": "p0460_003_text.png",
+      "bbox": [
+        [
+          222,
+          935
+        ],
+        [
+          2358,
+          935
+        ],
+        [
+          2358,
+          1061
+        ],
+        [
+          222,
+          1061
+        ]
+      ],
+      "score": 0.9569227695465088,
+      "y_pos": 935,
+      "text": "Châm cứu trị hành kinh đau bụng kết quả rất tốt. Nhưng cần phải bắt đầu chữa trước đợt hành\nkinh vài ba ngày và cần liên tục chữa khoảng 3 kỳ hành kinh như vậy.",
+      "confidence": 0.9994782460999379
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0460_014_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          1101
+        ],
+        [
+          571,
+          1101
+        ],
+        [
+          571,
+          1146
+        ],
+        [
+          284,
+          1146
+        ]
+      ],
+      "score": 0.6592615246772766,
+      "y_pos": 1101,
+      "text": "Cách chữa:",
+      "confidence": 0.8602731426556905
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0460_013_paragraph_title.png",
+      "bbox": [
+        [
+          342,
+          1193
+        ],
+        [
+          2178,
+          1193
+        ],
+        [
+          2178,
+          1245
+        ],
+        [
+          342,
+          1245
+        ]
+      ],
+      "score": 0.6595101952552795,
+      "y_pos": 1193,
+      "text": "a. Trước hoặc trong kỳ hành kinh đau bụng, lấy huyệt: Nội đình, Tam âm giao.",
+      "confidence": 0.9947922420807374
+    },
+    {
+      "type": "text",
+      "img_path": "p0460_002_text.png",
+      "bbox": [
+        [
+          340,
+          1282
+        ],
+        [
+          2358,
+          1282
+        ],
+        [
+          2358,
+          1477
+        ],
+        [
+          340,
+          1477
+        ]
+      ],
+      "score": 0.9716065526008606,
+      "y_pos": 1282,
+      "text": "Trước hết dùng hào kim châm <i>Nội đình</i>, sau châm huyệt <i>Tam âm giao</i>, đều theo tả châm,\nlưu kim 20 đến 30 phút có thể dứt đau. Nếu chưa có thể châm thêm Hợp cốc, Túc tam lý,\nQuan nguyên, Trung cực, nhẹ thì 1-2 lần, nặng thì 4-5 lần.",
+      "confidence": 0.9306233235188186
+    },
+    {
+      "type": "text",
+      "img_path": "p0460_001_text.png",
+      "bbox": [
+        [
+          339,
+          1513
+        ],
+        [
+          2360,
+          1513
+        ],
+        [
+          2360,
+          1780
+        ],
+        [
+          339,
+          1780
+        ]
+      ],
+      "score": 0.9799291491508484,
+      "y_pos": 1513,
+      "text": "Giảng nghĩa của phương: Tả Nội đình để khí huyết đi xuống, phối hợp Tam âm giao để\nthông xướng<sup>(*)</sup> khí của ba kinh âm, gia <i>Hợp cốc</i> để đẩy mạnh khí huyết xuống mà giảm\nđau. <i>Quan nguyên</i> điều kinh khí của nhâm mạch. <i>Túc tam lý</i> thông xướng tỳ, vị. <i>Trung cực</i>\nlý hạ tiêu, đầu cuối đều có tác dụng dứt đau.",
+      "confidence": 0.9941422519159709
+    },
+    {
+      "type": "text",
+      "img_path": "p0460_011_text.png",
+      "bbox": [
+        [
+          340,
+          1821
+        ],
+        [
+          2360,
+          1821
+        ],
+        [
+          2360,
+          1943
+        ],
+        [
+          340,
+          1943
+        ]
+      ],
+      "score": 0.8771027326583862,
+      "y_pos": 1821,
+      "text": "<b>b. Sau kỳ hành kinh đau bụng:</b> Lấy huyệt <i>Thận du, Mệnh môn, Quan nguyên, Túc tam</i>\nlý, Tam âm giao.",
+      "confidence": 0.9084636637587953
+    },
+    {
+      "type": "text",
+      "img_path": "p0460_009_text.png",
+      "bbox": [
+        [
+          340,
+          1983
+        ],
+        [
+          1219,
+          1983
+        ],
+        [
+          1219,
+          2034
+        ],
+        [
+          340,
+          2034
+        ]
+      ],
+      "score": 0.8959856033325195,
+      "y_pos": 1983,
+      "text": "Đều dùng phép bố, châm xong thì cứu.",
+      "confidence": 0.9858427910428298
+    },
+    {
+      "type": "text",
+      "img_path": "p0460_004_text.png",
+      "bbox": [
+        [
+          339,
+          2075
+        ],
+        [
+          2359,
+          2075
+        ],
+        [
+          2359,
+          2200
+        ],
+        [
+          339,
+          2200
+        ]
+      ],
+      "score": 0.9560303688049316,
+      "y_pos": 2075,
+      "text": "Giảng nghĩa của phương: <i>Thận du, Mệnh môn</i> ôn dương, tán hàn. Q<i>uan nguyên</i> đại bố\nnguyên khí. <i>Túc tam lý</i> kiện vận khí của tỳ, vị. Bổ <i>Tam âm giao</i>, ôn thông kinh khí tam âm.",
+      "confidence": 0.9947397695237269
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0460_010_footnote.png",
+      "bbox": [
+        [
+          228,
+          3167
+        ],
+        [
+          818,
+          3167
+        ],
+        [
+          818,
+          3211
+        ],
+        [
+          228,
+          3211
+        ]
+      ],
+      "score": 0.8860113024711609,
+      "y_pos": 3167,
+      "text": "(*) Thông xướng: Thông đạt, thông thấu",
+      "confidence": 0.9863200634717941
+    },
+    {
+      "type": "number",
+      "img_path": "p0460_012_number.png",
+      "bbox": [
+        [
+          2303,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3334
+        ],
+        [
+          2303,
+          3334
+        ]
+      ],
+      "score": 0.8563006520271301,
+      "y_pos": 3300,
+      "text": "    \n    \n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0460_008_footer.png",
+      "bbox": [
+        [
+          228,
+          3310
+        ],
+        [
+          1323,
+          3310
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          228,
+          3355
+        ]
+      ],
+      "score": 0.9106146097183228,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9293094086197188
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0460.png"
+}

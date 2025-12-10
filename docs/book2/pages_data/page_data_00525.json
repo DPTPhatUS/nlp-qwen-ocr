@@ -1,0 +1,162 @@
+{
+  "page_num": 525,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0525_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9188889265060425,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0525_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.9201441407203674,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9977136671543121
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0525_004_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          326
+        ],
+        [
+          981,
+          326
+        ],
+        [
+          981,
+          383
+        ],
+        [
+          226,
+          383
+        ]
+      ],
+      "score": 0.8134512901306152,
+      "y_pos": 326,
+      "text": "Phần 13. BỆNH MẬT, VÀNG DA",
+      "confidence": 0.8650379478931427
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0525_005_reference_content.png",
+      "bbox": [
+        [
+          230,
+          786
+        ],
+        [
+          2363,
+          786
+        ],
+        [
+          2363,
+          915
+        ],
+        [
+          230,
+          915
+        ]
+      ],
+      "score": 0.5556071400642395,
+      "y_pos": 786,
+      "text": "314. Giun chui ống mật: Tứ bạch thấu Nghinh hương, Nhân trung, Đảm nang huyệt, Túc tam\nlý, Trung quản.",
+      "confidence": 0.9582418463327349
+    },
+    {
+      "type": "number",
+      "img_path": "p0525_003_number.png",
+      "bbox": [
+        [
+          2319,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2319,
+          3374
+        ]
+      ],
+      "score": 0.8602820038795471,
+      "y_pos": 3337,
+      "text": "    \n    \n\n\n\n\n    \n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0525_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9140877723693848,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0525.png"
+}

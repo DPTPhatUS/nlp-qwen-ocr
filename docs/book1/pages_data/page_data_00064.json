@@ -1,0 +1,526 @@
+{
+  "page_num": 64,
+  "content": [
+    {
+      "type": "paragraph_title",
+      "img_path": "p0064_007_paragraph_title.png",
+      "bbox": [
+        [
+          969,
+          538
+        ],
+        [
+          1502,
+          538
+        ],
+        [
+          1502,
+          604
+        ],
+        [
+          969,
+          604
+        ]
+      ],
+      "score": 0.6663262248039246,
+      "y_pos": 538,
+      "text": "<b>HUYẾT PHÂN CHỨNG</b>",
+      "confidence": 0.9643616795539856
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_015_text.png",
+      "bbox": [
+        [
+          370,
+          796
+        ],
+        [
+          2105,
+          796
+        ],
+        [
+          2105,
+          896
+        ],
+        [
+          370,
+          896
+        ]
+      ],
+      "score": 0.6084107160568237,
+      "y_pos": 796,
+      "text": "- Bênh chứng ở Dinh phân bao gồm 4 bênh cảnh: Huyết nhiệt vong hành, Can nhiệt động\nphong, Huyết nhiệt thương âm và Vong âm thất thủy.",
+      "confidence": 0.9600507590093763
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_006_text.png",
+      "bbox": [
+        [
+          369,
+          918
+        ],
+        [
+          2106,
+          918
+        ],
+        [
+          2106,
+          1019
+        ],
+        [
+          369,
+          1019
+        ]
+      ],
+      "score": 0.686021625995636,
+      "y_pos": 918,
+      "text": "- Triệu chứng quan trọng của bệnh cảnh Huyết nhiệt vong hành: sốt cao, dấu xuất huyết\nngoài da và nôi tang.",
+      "confidence": 0.9925447265128384
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_018_text.png",
+      "bbox": [
+        [
+          370,
+          1186
+        ],
+        [
+          1949,
+          1186
+        ],
+        [
+          1949,
+          1239
+        ],
+        [
+          370,
+          1239
+        ]
+      ],
+      "score": 0.5667435526847839,
+      "y_pos": 1186,
+      "text": "- Triệu chứng quan trọng của bệnh cảnh Vong âm thất thủy: dấu mất nước nặng nề.",
+      "confidence": 0.9997415792794875
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0064_002_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          1824
+        ],
+        [
+          773,
+          1824
+        ],
+        [
+          773,
+          1885
+        ],
+        [
+          345,
+          1885
+        ]
+      ],
+      "score": 0.906456708908081,
+      "y_pos": 1824,
+      "text": "CÂU HÓI ÔN TẬP",
+      "confidence": 0.9562930911779404
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0064_003_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          1935
+        ],
+        [
+          1312,
+          1935
+        ],
+        [
+          1312,
+          1993
+        ],
+        [
+          345,
+          1993
+        ]
+      ],
+      "score": 0.8600095510482788,
+      "y_pos": 1935,
+      "text": "CAU HOI 5 CHON 1 - CHON CAU ĐUNG",
+      "confidence": 0.7460233551614425
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_000_text.png",
+      "bbox": [
+        [
+          341,
+          2037
+        ],
+        [
+          2122,
+          2037
+        ],
+        [
+          2122,
+          2144
+        ],
+        [
+          341,
+          2144
+        ]
+      ],
+      "score": 0.9384773373603821,
+      "y_pos": 2037,
+      "text": "1. Trong ôn bệnh, nếu mới mắc bệnh mà phát ra ngay, bệnh cảnh sẽ xuất\nhiên ở",
+      "confidence": 0.997096450395987
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_016_text.png",
+      "bbox": [
+        [
+          513,
+          2176
+        ],
+        [
+          786,
+          2176
+        ],
+        [
+          786,
+          2227
+        ],
+        [
+          513,
+          2227
+        ]
+      ],
+      "score": 0.587783694267273,
+      "y_pos": 2176,
+      "text": "e phan",
+      "confidence": 0.981041431427002
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_014_text.png",
+      "bbox": [
+        [
+          514,
+          2253
+        ],
+        [
+          810,
+          2253
+        ],
+        [
+          810,
+          2305
+        ],
+        [
+          514,
+          2305
+        ]
+      ],
+      "score": 0.6087607145309448,
+      "y_pos": 2253,
+      "text": "oni bhan",
+      "confidence": 0.2827631950378418
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_009_text.png",
+      "bbox": [
+        [
+          514,
+          2332
+        ],
+        [
+          838,
+          2332
+        ],
+        [
+          838,
+          2383
+        ],
+        [
+          514,
+          2383
+        ]
+      ],
+      "score": 0.6402565240859985,
+      "y_pos": 2332,
+      "text": "Dinh phân",
+      "confidence": 0.994061291217804
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_010_text.png",
+      "bbox": [
+        [
+          512,
+          2409
+        ],
+        [
+          1167,
+          2409
+        ],
+        [
+          1167,
+          2464
+        ],
+        [
+          512,
+          2464
+        ]
+      ],
+      "score": 0.6271060109138489,
+      "y_pos": 2409,
+      "text": "D. Vệ phối hợp với Khí phận",
+      "confidence": 0.9971876699348976
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_008_text.png",
+      "bbox": [
+        [
+          516,
+          2488
+        ],
+        [
+          866,
+          2488
+        ],
+        [
+          866,
+          2542
+        ],
+        [
+          516,
+          2542
+        ]
+      ],
+      "score": 0.645686686038971,
+      "y_pos": 2488,
+      "text": "Huyết phân",
+      "confidence": 0.9641454269488653
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_005_text.png",
+      "bbox": [
+        [
+          463,
+          2582
+        ],
+        [
+          1748,
+          2582
+        ],
+        [
+          1748,
+          2637
+        ],
+        [
+          463,
+          2637
+        ]
+      ],
+      "score": 0.7840816974639893,
+      "y_pos": 2582,
+      "text": "2. Triệu chứng nào <i>KHÔNG</i> có trong ôn bệnh ở Khí phận",
+      "confidence": 0.9846423027808207
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_017_text.png",
+      "bbox": [
+        [
+          516,
+          2662
+        ],
+        [
+          939,
+          2662
+        ],
+        [
+          939,
+          2716
+        ],
+        [
+          516,
+          2716
+        ]
+      ],
+      "score": 0.5747529864311218,
+      "y_pos": 2662,
+      "text": "A. Sốt, sợ gió lạnh",
+      "confidence": 0.9968663397289458
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_019_text.png",
+      "bbox": [
+        [
+          516,
+          2743
+        ],
+        [
+          757,
+          2743
+        ],
+        [
+          757,
+          2791
+        ],
+        [
+          516,
+          2791
+        ]
+      ],
+      "score": 0.5574801564216614,
+      "y_pos": 2743,
+      "text": "В.    Sốt cao",
+      "confidence": 0.9173176172706816
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_012_text.png",
+      "bbox": [
+        [
+          516,
+          2820
+        ],
+        [
+          772,
+          2820
+        ],
+        [
+          772,
+          2867
+        ],
+        [
+          516,
+          2867
+        ]
+      ],
+      "score": 0.6135966777801514,
+      "y_pos": 2820,
+      "text": "C.    Táo bón",
+      "confidence": 0.9214727563990487
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_011_text.png",
+      "bbox": [
+        [
+          515,
+          2899
+        ],
+        [
+          818,
+          2899
+        ],
+        [
+          818,
+          2950
+        ],
+        [
+          515,
+          2950
+        ]
+      ],
+      "score": 0.6248372793197632,
+      "y_pos": 2899,
+      "text": "Tiêu chay",
+      "confidence": 0.7367242737249895
+    },
+    {
+      "type": "text",
+      "img_path": "p0064_013_text.png",
+      "bbox": [
+        [
+          517,
+          2979
+        ],
+        [
+          893,
+          2979
+        ],
+        [
+          893,
+          3029
+        ],
+        [
+          517,
+          3029
+        ]
+      ],
+      "score": 0.609722375869751,
+      "y_pos": 2979,
+      "text": "E. Đau ngực, ho",
+      "confidence": 0.9658390423830818
+    },
+    {
+      "type": "number",
+      "img_path": "p0064_004_number.png",
+      "bbox": [
+        [
+          2069,
+          3112
+        ],
+        [
+          2122,
+          3112
+        ],
+        [
+          2122,
+          3147
+        ],
+        [
+          2069,
+          3147
+        ]
+      ],
+      "score": 0.8471032977104187,
+      "y_pos": 3112,
+      "text": "    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0064_001_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.9116607308387756,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8789173466818673
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0064.png"
+}

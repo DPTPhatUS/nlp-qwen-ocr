@@ -1,0 +1,472 @@
+{
+  "page_num": 267,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0267_009_header.png",
+      "bbox": [
+        [
+          1609,
+          142
+        ],
+        [
+          2373,
+          142
+        ],
+        [
+          2373,
+          202
+        ],
+        [
+          1609,
+          202
+        ]
+      ],
+      "score": 0.9213905930519104,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.8071261747252374
+    },
+    {
+      "type": "header",
+      "img_path": "p0267_013_header.png",
+      "bbox": [
+        [
+          229,
+          156
+        ],
+        [
+          907,
+          156
+        ],
+        [
+          907,
+          202
+        ],
+        [
+          229,
+          202
+        ]
+      ],
+      "score": 0.9150195121765137,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9881776160207288
+    },
+    {
+      "type": "image",
+      "img_path": "p0267_000_image.png",
+      "bbox": [
+        [
+          537,
+          371
+        ],
+        [
+          2031,
+          371
+        ],
+        [
+          2031,
+          1664
+        ],
+        [
+          537,
+          1664
+        ]
+      ],
+      "score": 0.978648841381073,
+      "y_pos": 371
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0267_016_figure_title.png",
+      "bbox": [
+        [
+          1195,
+          1754
+        ],
+        [
+          1393,
+          1754
+        ],
+        [
+          1393,
+          1796
+        ],
+        [
+          1195,
+          1796
+        ]
+      ],
+      "score": 0.8993867635726929,
+      "y_pos": 1754,
+      "text": "<b>Hình 134</b>",
+      "confidence": 0.9502739657958349
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0267_008_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1841
+        ],
+        [
+          563,
+          1841
+        ],
+        [
+          563,
+          1888
+        ],
+        [
+          226,
+          1888
+        ]
+      ],
+      "score": 0.9253465533256531,
+      "y_pos": 1841,
+      "text": "294. Khu biên",
+      "confidence": 0.9469001412391662
+    },
+    {
+      "type": "text",
+      "img_path": "p0267_010_text.png",
+      "bbox": [
+        [
+          288,
+          1932
+        ],
+        [
+          1780,
+          1932
+        ],
+        [
+          1780,
+          1987
+        ],
+        [
+          288,
+          1987
+        ]
+      ],
+      "score": 0.9212034940719604,
+      "y_pos": 1932,
+      "text": "Vị trí: Ở mỏm gai đốt sống 10 sang ngang mỗi bên 1 thốn. (H.134)",
+      "confidence": 0.9950214976614172
+    },
+    {
+      "type": "text",
+      "img_path": "p0267_005_text.png",
+      "bbox": [
+        [
+          287,
+          2025
+        ],
+        [
+          1327,
+          2025
+        ],
+        [
+          1327,
+          2074
+        ],
+        [
+          287,
+          2074
+        ]
+      ],
+      "score": 0.9307391047477722,
+      "y_pos": 2025,
+      "text": "Cách châm: Châm chếch kim, sâu 0,5-1 thốn.",
+      "confidence": 0.39533148976889526
+    },
+    {
+      "type": "text",
+      "img_path": "p0267_003_text.png",
+      "bbox": [
+        [
+          287,
+          2118
+        ],
+        [
+          1116,
+          2118
+        ],
+        [
+          1116,
+          2170
+        ],
+        [
+          287,
+          2170
+        ]
+      ],
+      "score": 0.93816077709198,
+      "y_pos": 2118,
+      "text": "Chủ trị: Bệnh dạ dày, bệnh gan mật.",
+      "confidence": 0.6047151652542321
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0267_012_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2209
+        ],
+        [
+          563,
+          2209
+        ],
+        [
+          563,
+          2260
+        ],
+        [
+          227,
+          2260
+        ]
+      ],
+      "score": 0.9170624613761902,
+      "y_pos": 2209,
+      "text": "295. Troc duc",
+      "confidence": 0.9098225593566894
+    },
+    {
+      "type": "text",
+      "img_path": "p0267_004_text.png",
+      "bbox": [
+        [
+          288,
+          2296
+        ],
+        [
+          1823,
+          2296
+        ],
+        [
+          1823,
+          2354
+        ],
+        [
+          288,
+          2354
+        ]
+      ],
+      "score": 0.9374194145202637,
+      "y_pos": 2296,
+      "text": "Vị trí: Ở mỏm gai đốt sống 10 sang ngang mỗi bên 2,5 thốn. (H.134)",
+      "confidence": 0.9950691119712942
+    },
+    {
+      "type": "text",
+      "img_path": "p0267_002_text.png",
+      "bbox": [
+        [
+          287,
+          2392
+        ],
+        [
+          1330,
+          2392
+        ],
+        [
+          1330,
+          2440
+        ],
+        [
+          287,
+          2440
+        ]
+      ],
+      "score": 0.9390760660171509,
+      "y_pos": 2392,
+      "text": "<b>Cách châm:</b> Châm chếch kim, sâu 0.5-1 thốn.",
+      "confidence": 0.981078507459682
+    },
+    {
+      "type": "text",
+      "img_path": "p0267_006_text.png",
+      "bbox": [
+        [
+          283,
+          2482
+        ],
+        [
+          2015,
+          2482
+        ],
+        [
+          2015,
+          2537
+        ],
+        [
+          283,
+          2537
+        ]
+      ],
+      "score": 0.9306893348693848,
+      "y_pos": 2482,
+      "text": "Chủ trị: Ăn uống không biết ngon, bệnh gan, mật, bệnh thần kinh chức năng.",
+      "confidence": 0.7239659828575034
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0267_014_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2576
+        ],
+        [
+          592,
+          2576
+        ],
+        [
+          592,
+          2623
+        ],
+        [
+          227,
+          2623
+        ]
+      ],
+      "score": 0.9037467241287231,
+      "y_pos": 2576,
+      "text": "296. Điện bênh",
+      "confidence": 0.9593863599002361
+    },
+    {
+      "type": "text",
+      "img_path": "p0267_001_text.png",
+      "bbox": [
+        [
+          280,
+          2665
+        ],
+        [
+          2357,
+          2665
+        ],
+        [
+          2357,
+          2862
+        ],
+        [
+          280,
+          2862
+        ]
+      ],
+      "score": 0.9773040413856506,
+      "y_pos": 2665,
+      "text": "Vị trí: Nối huyệt Đại chùy đến đầu chót xương cụt (S5), huyệt nằm giữa 2 điểm nối này,\ntương đương khoảng mỏm gai đốt sống lưng thứ 11. Có thuyết nói huyệt ở trên gai đốt sống\nlưng thứ 9. (H.134)",
+      "confidence": 0.9492600102348504
+    },
+    {
+      "type": "text",
+      "img_path": "p0267_015_text.png",
+      "bbox": [
+        [
+          287,
+          2903
+        ],
+        [
+          703,
+          2903
+        ],
+        [
+          703,
+          2946
+        ],
+        [
+          287,
+          2946
+        ]
+      ],
+      "score": 0.9034408330917358,
+      "y_pos": 2903,
+      "text": "<b>Cách châm:</b> Cứu.",
+      "confidence": 0.9473634079882973
+    },
+    {
+      "type": "text",
+      "img_path": "p0267_007_text.png",
+      "bbox": [
+        [
+          288,
+          2993
+        ],
+        [
+          847,
+          2993
+        ],
+        [
+          847,
+          3044
+        ],
+        [
+          288,
+          3044
+        ]
+      ],
+      "score": 0.9304960370063782,
+      "y_pos": 2993,
+      "text": "Chủ trị: Bệnh động kinh.",
+      "confidence": 0.6437342556623312
+    },
+    {
+      "type": "footer",
+      "img_path": "p0267_011_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9191356301307678,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0267_017_number.png",
+      "bbox": [
+        [
+          2279,
+          3338
+        ],
+        [
+          2350,
+          3338
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2279,
+          3377
+        ]
+      ],
+      "score": 0.8895896673202515,
+      "y_pos": 3338,
+      "text": "    \n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0267.png"
+}

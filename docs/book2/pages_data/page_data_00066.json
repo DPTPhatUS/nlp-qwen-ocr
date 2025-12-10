@@ -1,0 +1,440 @@
+{
+  "page_num": 66,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0066_004_header.png",
+      "bbox": [
+        [
+          1606,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1606,
+          201
+        ]
+      ],
+      "score": 0.9259742498397827,
+      "y_pos": 142,
+      "text": "_______________________________________\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6523312898618834
+    },
+    {
+      "type": "header",
+      "img_path": "p0066_010_header.png",
+      "bbox": [
+        [
+          231,
+          155
+        ],
+        [
+          427,
+          155
+        ],
+        [
+          427,
+          198
+        ],
+        [
+          231,
+          198
+        ]
+      ],
+      "score": 0.9017294645309448,
+      "y_pos": 155,
+      "text": "۱    - 4\nА",
+      "confidence": 0.4416655550400416
+    },
+    {
+      "type": "text",
+      "img_path": "p0066_007_text.png",
+      "bbox": [
+        [
+          401,
+          305
+        ],
+        [
+          1429,
+          305
+        ],
+        [
+          1429,
+          359
+        ],
+        [
+          401,
+          359
+        ]
+      ],
+      "score": 0.9164911508560181,
+      "y_pos": 305,
+      "text": "+ Hình thái: Huyền, hoạt, hồng, tế, sáp, khẩn.",
+      "confidence": 0.9874146655201912
+    },
+    {
+      "type": "text",
+      "img_path": "p0066_005_text.png",
+      "bbox": [
+        [
+          400,
+          396
+        ],
+        [
+          1181,
+          396
+        ],
+        [
+          1181,
+          450
+        ],
+        [
+          400,
+          450
+        ]
+      ],
+      "score": 0.9235934019088745,
+      "y_pos": 396,
+      "text": "+ Quy luật (tiết luật): Súc, kết, đại.",
+      "confidence": 0.9827595397830009
+    },
+    {
+      "type": "text",
+      "img_path": "p0066_008_text.png",
+      "bbox": [
+        [
+          343,
+          490
+        ],
+        [
+          1851,
+          490
+        ],
+        [
+          1851,
+          543
+        ],
+        [
+          343,
+          543
+        ]
+      ],
+      "score": 0.9112701416015625,
+      "y_pos": 490,
+      "text": "- Theo bát cương biện chứng mà nghiên cứu chủ bệnh của mạch:",
+      "confidence": 0.6419824236823667
+    },
+    {
+      "type": "formula",
+      "img_path": "p0066_016_formula.png",
+      "bbox": [
+        [
+          402,
+          671
+        ],
+        [
+          683,
+          671
+        ],
+        [
+          683,
+          725
+        ],
+        [
+          402,
+          725
+        ]
+      ],
+      "score": 0.5163625478744507,
+      "y_pos": 671
+    },
+    {
+      "type": "formula",
+      "img_path": "p0066_013_formula.png",
+      "bbox": [
+        [
+          403,
+          767
+        ],
+        [
+          724,
+          767
+        ],
+        [
+          724,
+          815
+        ],
+        [
+          403,
+          815
+        ]
+      ],
+      "score": 0.5888746976852417,
+      "y_pos": 767
+    },
+    {
+      "type": "formula",
+      "img_path": "p0066_014_formula.png",
+      "bbox": [
+        [
+          402,
+          860
+        ],
+        [
+          675,
+          860
+        ],
+        [
+          675,
+          905
+        ],
+        [
+          402,
+          905
+        ]
+      ],
+      "score": 0.5336992740631104,
+      "y_pos": 860
+    },
+    {
+      "type": "text",
+      "img_path": "p0066_012_text.png",
+      "bbox": [
+        [
+          401,
+          951
+        ],
+        [
+          810,
+          951
+        ],
+        [
+          810,
+          997
+        ],
+        [
+          401,
+          997
+        ]
+      ],
+      "score": 0.620574951171875,
+      "y_pos": 951,
+      "text": "+ Hữu lưc = thực.",
+      "confidence": 0.9711360586316962
+    },
+    {
+      "type": "formula",
+      "img_path": "p0066_015_formula.png",
+      "bbox": [
+        [
+          402,
+          1043
+        ],
+        [
+          736,
+          1043
+        ],
+        [
+          736,
+          1089
+        ],
+        [
+          402,
+          1089
+        ]
+      ],
+      "score": 0.5326653122901917,
+      "y_pos": 1043
+    },
+    {
+      "type": "text",
+      "img_path": "p0066_002_text.png",
+      "bbox": [
+        [
+          339,
+          1132
+        ],
+        [
+          2358,
+          1132
+        ],
+        [
+          2358,
+          1249
+        ],
+        [
+          339,
+          1249
+        ]
+      ],
+      "score": 0.9649166464805603,
+      "y_pos": 1132,
+      "text": "Thông qua 6 loại mạch tượng được phân biệt, mà có thể phân giải tình trạng của 2 mặt\nchính tà.",
+      "confidence": 0.990157341478239
+    },
+    {
+      "type": "text",
+      "img_path": "p0066_000_text.png",
+      "bbox": [
+        [
+          286,
+          1290
+        ],
+        [
+          2360,
+          1290
+        ],
+        [
+          2360,
+          2009
+        ],
+        [
+          286,
+          2009
+        ]
+      ],
+      "score": 0.9870441555976868,
+      "y_pos": 1290,
+      "text": "d. Hợp cả mạch và chứng mà tham khảo: Mạch và chứng tương ứng là quy luật nói\nchung, nhưng ở một số trường hợp cũng xảy ra hiện tượng mạch và chứng không nhất\ntrí, lúc này phải phân tích toàn diện mà bỏ giả, giữ thật, tìm lấy bản chất mà phán đoán,\nnhư bệnh viêm ruột thừa, chứng trạng biểu hiện cơ bản đã hết, nhưng mạch lại sác,\nthường là dấu hiệu chứng viêm chưa hoàn toàn hết, lúc này nên cho qua chứng mà theo\nmạch, không nên ngừng chữa để đề phòng tái phát. Lại như sau khi la chảy quá nhiều,\nmất máu nhiều mà mạch (ngược lại) thấy hồng, lúc này nên bỏ mạch mà theo chứng để\ntránh sự nhầm lấn trong cách chữa, gây nên tai biến nhanh chóng. Có khi chứng chưa\nthấy đã thấy mạch biến trước, lúc này mạch tượng có thể làm căn cứ cho chẩn đoán thời\nkỳ bắt đầu khỏi bệnh. Như bệnh ngoại cảm ở thời kỳ bắt đầu là mạch phù, dần dần xuất\nhiện các chứng khác nữa.",
+      "confidence": 0.9987646280304628
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0066_006_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          2050
+        ],
+        [
+          1550,
+          2050
+        ],
+        [
+          1550,
+          2104
+        ],
+        [
+          283,
+          2104
+        ]
+      ],
+      "score": 0.9171484112739563,
+      "y_pos": 2050,
+      "text": "6. Một số tài liệu hiện đại nghiên cứu về mạch tượng",
+      "confidence": 0.9990414513481988
+    },
+    {
+      "type": "text",
+      "img_path": "p0066_001_text.png",
+      "bbox": [
+        [
+          278,
+          2146
+        ],
+        [
+          2359,
+          2146
+        ],
+        [
+          2359,
+          2879
+        ],
+        [
+          278,
+          2879
+        ]
+      ],
+      "score": 0.9870361685752869,
+      "y_pos": 2146,
+      "text": "Có người dùng máy ghi chuyển động mạch bộ, ghi được 15 loại mạch tượng khác nhau. Kết\nquả ghi máy và bắt mạch cơ bản nhất trí, như mạch phù ở tình huống không gia ngoại áp\n(tương đương bắt mạch trầm thủ) sóng mạch ngược lại giảm thấp. Ở mạch trầm, ngược lại,\nkhông gia ngoại áp, thì không ghi được hình sóng, cần gia ngoại áp tương đương mới ghi ra\nđường sóng gấp. Mạch hồng, đặc điểm của đường gấp là sóng phó đặc biệt cao; sóng chủ\nđầy thẳng lên rất nhanh hạ xuống thấp, tương đương với đến thịnh đi suy của mạch hồng.\nĐặc điểm hình sóng của mạch huyền là sau khi sóng chủ dấy lên duỗi ra một thời gian ngắn\nrồi mới hạ xuống, làm cho đỉnh điểm sóng chủ bằng ngang, tương đương khi bắt mạch thấy\ndưới tay như có sợi dây đàn kéo căng, các mạch khác như: Trì, Sác, Hoạt, Sáp, Khẩn, Tế,\nĐại... ở những bảng ghi đã được phản ánh các đặc điểm khác nhau.",
+      "confidence": 0.9972371686567421
+    },
+    {
+      "type": "text",
+      "img_path": "p0066_003_text.png",
+      "bbox": [
+        [
+          279,
+          2917
+        ],
+        [
+          2356,
+          2917
+        ],
+        [
+          2356,
+          3044
+        ],
+        [
+          279,
+          3044
+        ]
+      ],
+      "score": 0.9642805457115173,
+      "y_pos": 2917,
+      "text": "Gần đây, theo những nguyên lý sản sinh ra mạch tượng cũng đã tích luỹ được một số tài\nliêu.",
+      "confidence": 0.9916727890815641
+    },
+    {
+      "type": "footer",
+      "img_path": "p0066_009_footer.png",
+      "bbox": [
+        [
+          227,
+          3334
+        ],
+        [
+          1431,
+          3334
+        ],
+        [
+          1431,
+          3386
+        ],
+        [
+          227,
+          3386
+        ]
+      ],
+      "score": 0.9061616063117981,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9271932334270118
+    },
+    {
+      "type": "number",
+      "img_path": "p0066_011_number.png",
+      "bbox": [
+        [
+          2304,
+          3338
+        ],
+        [
+          2354,
+          3338
+        ],
+        [
+          2354,
+          3373
+        ],
+        [
+          2304,
+          3373
+        ]
+      ],
+      "score": 0.8581538200378418,
+      "y_pos": 3338,
+      "text": "    \n    \n        \n\n    \n\n\n\n    \n\n\n\n    \n        \n۰        \n٠.\n\n",
+      "confidence": 0.963233527952227
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0066.png"
+}

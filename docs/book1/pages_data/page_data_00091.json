@@ -1,0 +1,500 @@
+{
+  "page_num": 91,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0091_014_text.png",
+      "bbox": [
+        [
+          462,
+          451
+        ],
+        [
+          994,
+          451
+        ],
+        [
+          994,
+          500
+        ],
+        [
+          462,
+          500
+        ]
+      ],
+      "score": 0.890568733215332,
+      "y_pos": 451,
+      "text": "c/ Triệu chứng lâm sàng",
+      "confidence": 0.6895928716659546
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_015_text.png",
+      "bbox": [
+        [
+          408,
+          532
+        ],
+        [
+          1107,
+          532
+        ],
+        [
+          1107,
+          579
+        ],
+        [
+          408,
+          579
+        ]
+      ],
+      "score": 0.8845452666282654,
+      "y_pos": 532,
+      "text": "- Sốt cao, lanh run, phiền khát",
+      "confidence": 0.7428348985585299
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_003_text.png",
+      "bbox": [
+        [
+          407,
+          613
+        ],
+        [
+          2123,
+          613
+        ],
+        [
+          2123,
+          771
+        ],
+        [
+          407,
+          771
+        ]
+      ],
+      "score": 0.9737494587898254,
+      "y_pos": 613,
+      "text": "– Đau nhiều quanh rốn, mót rặn (<i>lý cấp hậu trọng</i>), bụng trướng, ruột sôi,\ntrung tiên mùi hôi, phân nhầy nhớt, đặc dính như bọt cua, hoặc đi ra phân\nlẫn nhầy máu, hoặc ra máu tươi",
+      "confidence": 0.9064041633304063
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_013_text.png",
+      "bbox": [
+        [
+          406,
+          804
+        ],
+        [
+          2002,
+          804
+        ],
+        [
+          2002,
+          853
+        ],
+        [
+          406,
+          853
+        ]
+      ],
+      "score": 0.8979104161262512,
+      "y_pos": 804,
+      "text": "- Lợm giọng, nôn mửa, tiểu ít, ngắn, đỏ, vã mồ hôi, tay chân nóng, phát ban",
+      "confidence": 0.9880573021901118
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_012_text.png",
+      "bbox": [
+        [
+          409,
+          884
+        ],
+        [
+          1511,
+          884
+        ],
+        [
+          1511,
+          932
+        ],
+        [
+          409,
+          932
+        ]
+      ],
+      "score": 0.9006708860397339,
+      "y_pos": 884,
+      "text": "- Lưỡi đỏ, rêu vàng, nhầy nhớt. Mạch tế sác, vi tế.",
+      "confidence": 0.9649567131726247
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_007_text.png",
+      "bbox": [
+        [
+          462,
+          964
+        ],
+        [
+          1149,
+          964
+        ],
+        [
+          1149,
+          1015
+        ],
+        [
+          462,
+          1015
+        ]
+      ],
+      "score": 0.9241059422492981,
+      "y_pos": 964,
+      "text": "d/ Bệnh cảnh Tây y thường gặp",
+      "confidence": 0.9868889893254926
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_008_text.png",
+      "bbox": [
+        [
+          409,
+          1048
+        ],
+        [
+          965,
+          1048
+        ],
+        [
+          965,
+          1093
+        ],
+        [
+          409,
+          1093
+        ]
+      ],
+      "score": 0.9211108684539795,
+      "y_pos": 1048,
+      "text": "Ly truc trùng, ly amib.",
+      "confidence": 0.9914103174209594
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_006_text.png",
+      "bbox": [
+        [
+          409,
+          1128
+        ],
+        [
+          1006,
+          1128
+        ],
+        [
+          1006,
+          1175
+        ],
+        [
+          409,
+          1175
+        ]
+      ],
+      "score": 0.9243120551109314,
+      "y_pos": 1128,
+      "text": "Viêm loét đại trực tràng.",
+      "confidence": 0.9875676256638987
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_004_text.png",
+      "bbox": [
+        [
+          461,
+          1210
+        ],
+        [
+          1203,
+          1210
+        ],
+        [
+          1203,
+          1253
+        ],
+        [
+          461,
+          1253
+        ]
+      ],
+      "score": 0.9304443597793579,
+      "y_pos": 1210,
+      "text": "e/ Pháp tri: thanh nhiệt, táo thấp.",
+      "confidence": 0.9675258462493485
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_005_text.png",
+      "bbox": [
+        [
+          463,
+          1288
+        ],
+        [
+          1490,
+          1288
+        ],
+        [
+          1490,
+          1337
+        ],
+        [
+          463,
+          1337
+        ]
+      ],
+      "score": 0.9266270399093628,
+      "y_pos": 1288,
+      "text": "f/ Phương được: Bạch đầu ông thang (Kim Quỹ)",
+      "confidence": 0.8576436169604038
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_016_text.png",
+      "bbox": [
+        [
+          463,
+          1368
+        ],
+        [
+          1254,
+          1368
+        ],
+        [
+          1254,
+          1416
+        ],
+        [
+          463,
+          1416
+        ]
+      ],
+      "score": 0.8537755608558655,
+      "y_pos": 1368,
+      "text": "Phân tích bài thuốc (Pháp thanh)",
+      "confidence": 0.9950648458564982
+    },
+    {
+      "type": "table",
+      "img_path": "p0091_000_table.png",
+      "bbox": [
+        [
+          351,
+          1468
+        ],
+        [
+          2124,
+          1468
+        ],
+        [
+          2124,
+          1972
+        ],
+        [
+          351,
+          1972
+        ]
+      ],
+      "score": 0.9877789616584778,
+      "y_pos": 1468,
+      "text": "Vi thuốc    Dược lý Đông y\nBạch đầu ông    Thanh nhiệt giải độc, lương huyết trừ tả ly\nHoàng bá    Đắng, hàn, vào Thận, Bàng quang. Trừ hỏa độc, tư âm, thanh nhiệt táo thấp\nHoàng liên    Đắng, hàn, vào Tâm, Can, Đởm, Đại trường. Thanh nhiệt, trừ thấp, thanh\nTâm trừ phiền, giải độc, thanh Can hỏa, sáng mắt, chỉ huyết do nhiệt\nTrần bì    Cay, ấm, vào Vị, Phế. Hành khí, hòa Vị, chỉ nôn, hóa đờm, táo thấp",
+      "confidence": 0.897412318653556
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0091_018_figure_title.png",
+      "bbox": [
+        [
+          471,
+          2030
+        ],
+        [
+          1098,
+          2030
+        ],
+        [
+          1098,
+          2080
+        ],
+        [
+          471,
+          2080
+        ]
+      ],
+      "score": 0.7677606344223022,
+      "y_pos": 2030,
+      "text": "+ Công thức huyệt sử dụng",
+      "confidence": 0.992087807920244
+    },
+    {
+      "type": "table",
+      "img_path": "p0091_001_table.png",
+      "bbox": [
+        [
+          352,
+          2105
+        ],
+        [
+          2125,
+          2105
+        ],
+        [
+          2125,
+          2522
+        ],
+        [
+          352,
+          2522
+        ]
+      ],
+      "score": 0.9867391586303711,
+      "y_pos": 2105,
+      "text": "Tên huyệt    Cơ sở lý luận    Tác dụng điều trị\nKhúc trì    Phối hợp Khúc trì, Đại chùy, Hợp cốc là    Thanh nhiệt, Ha sốt\nHợp cốc    kinh nghiệm để trị cảm sốt\nThiên khu    Mô huyệt của Đại trường    Chữa chứng\nĐại trường du    Du huyệt của Đại trường    Đau bụng, tiêu chảy",
+      "confidence": 0.9443458871634044
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0091_010_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          2578
+        ],
+        [
+          975,
+          2578
+        ],
+        [
+          975,
+          2628
+        ],
+        [
+          344,
+          2628
+        ]
+      ],
+      "score": 0.9183863401412964,
+      "y_pos": 2578,
+      "text": "2.4.9. Đai trường hàn kết",
+      "confidence": 0.9987836634671247
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_009_text.png",
+      "bbox": [
+        [
+          461,
+          2675
+        ],
+        [
+          1813,
+          2675
+        ],
+        [
+          1813,
+          2727
+        ],
+        [
+          461,
+          2727
+        ]
+      ],
+      "score": 0.9190824627876282,
+      "y_pos": 2675,
+      "text": "a/ Nguyên nhân: cảm nhiễm hàn tà qua con đường ăn uống.",
+      "confidence": 0.992869890572732
+    },
+    {
+      "type": "text",
+      "img_path": "p0091_002_text.png",
+      "bbox": [
+        [
+          341,
+          2762
+        ],
+        [
+          2125,
+          2762
+        ],
+        [
+          2125,
+          3000
+        ],
+        [
+          341,
+          3000
+        ]
+      ],
+      "score": 0.9807193875312805,
+      "y_pos": 2762,
+      "text": "b/ Bênh sinh: tính chất của hàn là làm cho khí tụ lại khiến công năng\ntruyền tống phân của Đại trường bị ngưng trệ. Ngoài ra trên lâm sàng còn có\nnhững biểu hiện của Hàn khí như mặt trắng, sợ lạnh, tay chân mát, da bụng\nmát và nước tiểu trong, trắng, nhiều.",
+      "confidence": 0.9957036842071051
+    },
+    {
+      "type": "number",
+      "img_path": "p0091_017_number.png",
+      "bbox": [
+        [
+          350,
+          3111
+        ],
+        [
+          405,
+          3111
+        ],
+        [
+          405,
+          3148
+        ],
+        [
+          350,
+          3148
+        ]
+      ],
+      "score": 0.8451120853424072,
+      "y_pos": 3111,
+      "text": "    \n        \n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0091_011_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1072,
+          3311
+        ],
+        [
+          1072,
+          3366
+        ],
+        [
+          293,
+          3366
+        ]
+      ],
+      "score": 0.9139502048492432,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8713696428707668
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0091.png"
+}

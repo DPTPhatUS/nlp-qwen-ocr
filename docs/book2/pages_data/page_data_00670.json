@@ -1,0 +1,448 @@
+{
+  "page_num": 670,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0670_009_header.png",
+      "bbox": [
+        [
+          1674,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          196
+        ],
+        [
+          1674,
+          196
+        ]
+      ],
+      "score": 0.9228703379631042,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7277085834315845
+    },
+    {
+      "type": "header",
+      "img_path": "p0670_011_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.9155719876289368,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9946049864475544
+    },
+    {
+      "type": "text",
+      "img_path": "p0670_005_text.png",
+      "bbox": [
+        [
+          297,
+          307
+        ],
+        [
+          2359,
+          307
+        ],
+        [
+          2359,
+          425
+        ],
+        [
+          297,
+          425
+        ]
+      ],
+      "score": 0.9655426144599915,
+      "y_pos": 307,
+      "text": "• Tâm bào (-BL), Tâm (-BL). Đồng thời giá trị tuyệt đối số tương quan của kinh Tâm bào\nlớn hơn kinh Tâm.",
+      "confidence": 0.9946965805776239
+    },
+    {
+      "type": "text",
+      "img_path": "p0670_013_text.png",
+      "bbox": [
+        [
+          296,
+          471
+        ],
+        [
+          1261,
+          471
+        ],
+        [
+          1261,
+          521
+        ],
+        [
+          296,
+          521
+        ]
+      ],
+      "score": 0.9090158343315125,
+      "y_pos": 471,
+      "text": "Tâm bào (+BL), Tâm (-) hay Tâm (-BL).",
+      "confidence": 0.9719938880357987
+    },
+    {
+      "type": "text",
+      "img_path": "p0670_002_text.png",
+      "bbox": [
+        [
+          279,
+          562
+        ],
+        [
+          2359,
+          562
+        ],
+        [
+          2359,
+          826
+        ],
+        [
+          279,
+          826
+        ]
+      ],
+      "score": 0.9806652665138245,
+      "y_pos": 562,
+      "text": "Mức độ lớn hơn của giá trị tuyệt đối số tương quan của kinh Tâm bào so với kinh Tâm càng\ncao nghĩa là <b>mức độ bản năng lấn át tri năng</b> càng lớn, cũng <b>là bệnh thần kinh chức</b>\nnăng rất nặng. Ở trường hợp Tâm bào (+BL), Tâm (-) hay Tâm (-BL), là mức độ bản năng\nlấn át tri năng rất lớn.",
+      "confidence": 0.9942706092618911
+    },
+    {
+      "type": "text",
+      "img_path": "p0670_008_text.png",
+      "bbox": [
+        [
+          281,
+          864
+        ],
+        [
+          2359,
+          864
+        ],
+        [
+          2359,
+          991
+        ],
+        [
+          281,
+          991
+        ]
+      ],
+      "score": 0.9598015546798706,
+      "y_pos": 864,
+      "text": "Cần phải nhận ra tình trạng rối loạn thần kinh chức năng nói chung để có thể vận dụng vào\ntruy xét nguồn gốc của nhiều loại bệnh chứng.",
+      "confidence": 0.9968413521342114
+    },
+    {
+      "type": "text",
+      "img_path": "p0670_000_text.png",
+      "bbox": [
+        [
+          297,
+          1027
+        ],
+        [
+          2360,
+          1027
+        ],
+        [
+          2360,
+          1578
+        ],
+        [
+          297,
+          1578
+        ]
+      ],
+      "score": 0.9863187074661255,
+      "y_pos": 1027,
+      "text": "\n    Ví dụ ở bệnh chứng rối loạn tuần hoàn não kiểu xung huyết não hay kẹt động mạch não.\n\nMà mô hình chỉ số nhiệt kinh lạc của bệnh chứng này là nhiệt độ bên trái hoặc phải của\ncác kinh trong cùng một chi phải cùng dấu + hoặc – (do phân định hàn nhiệt) và nhiệt độ\nở hai bên trái và phải, đều phải trái dấu (theo thực nghiệm của bác sĩ Nguyễn Tấn\nPhong). Ở đây, chúng ta cần xem xét thêm số tương quan của kinh Tâm và Tâm bào,\nnếu thấy có mô hình chỉ số nhiệt kinh lạc của chứng rối loạn thần kinh chức năng ở mức\nđộ bệnh lý, thì ta có thể chẩn đoán chứng rối loạn tuần hoàn não kể trên là do rối\nloạn thần kinh chức năng gây ra.",
+      "confidence": 0.994738934923753
+    },
+    {
+      "type": "text",
+      "img_path": "p0670_001_text.png",
+      "bbox": [
+        [
+          299,
+          1615
+        ],
+        [
+          2361,
+          1615
+        ],
+        [
+          2361,
+          1953
+        ],
+        [
+          299,
+          1953
+        ]
+      ],
+      "score": 0.9833104014396667,
+      "y_pos": 1615,
+      "text": "\n    Ví dụ khác, ở bệnh nhân thấp khớp mãn tính mà nơi đau không cố định; hoặc bệnh ở\n\nmột số tạng phủ, khí quan có hiện tượng lúc đau, lúc không, không có quy luật giờ\ngiấc, nếu thấy mô hình chỉ số nhiệt kinh lạc của chứng rối loạn thận kinh chức năng ở\nmức độ bệnh lý, cũng có thể xem các loại bệnh chứng này do rối loạn thần kinh\nchức năng gây ra.",
+      "confidence": 0.9708158949782197
+    },
+    {
+      "type": "text",
+      "img_path": "p0670_007_text.png",
+      "bbox": [
+        [
+          299,
+          1988
+        ],
+        [
+          2359,
+          1988
+        ],
+        [
+          2359,
+          2113
+        ],
+        [
+          299,
+          2113
+        ]
+      ],
+      "score": 0.9607965350151062,
+      "y_pos": 1988,
+      "text": "\n    Ở bệnh nhân được nhận định là bệnh thần kinh chức năng lại có kết hợp Vị (BL) thì sẽ\n\ncó chứng hoang tưởng.",
+      "confidence": 0.9908640992323401
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0670_012_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          2154
+        ],
+        [
+          942,
+          2154
+        ],
+        [
+          942,
+          2203
+        ],
+        [
+          224,
+          2203
+        ]
+      ],
+      "score": 0.9150528311729431,
+      "y_pos": 2154,
+      "text": "D. Nhân định về bênh tình chí",
+      "confidence": 0.9973176044802512
+    },
+    {
+      "type": "text",
+      "img_path": "p0670_003_text.png",
+      "bbox": [
+        [
+          220,
+          2243
+        ],
+        [
+          2358,
+          2243
+        ],
+        [
+          2358,
+          2508
+        ],
+        [
+          220,
+          2508
+        ]
+      ],
+      "score": 0.9799627065658569,
+      "y_pos": 2243,
+      "text": "Trong phần phân tích số tương quan của kinh Tâm và kinh Tâm bào, chúng ta đã chỉ rõ mô\nhình chỉ số nhiệt kinh lạc của trạng thái tình chí là: giá trị tuyệt đối số tương quan của kinh Tâm\nphải lớn hơn giá trị tuyệt đối số tương quan của kinh Tâm bào và số tương quan của kinh Tâm\nmang dấu +.",
+      "confidence": 0.9948741675815025
+    },
+    {
+      "type": "text",
+      "img_path": "p0670_006_text.png",
+      "bbox": [
+        [
+          222,
+          2549
+        ],
+        [
+          2357,
+          2549
+        ],
+        [
+          2357,
+          2670
+        ],
+        [
+          222,
+          2670
+        ]
+      ],
+      "score": 0.9610329866409302,
+      "y_pos": 2549,
+      "text": "Trạng thái tình chí này đạt đến mức bệnh lý khi có thêm: Giá trị tuyệt đối số tương quan của\nkinh Tâm lớn hơn sai số giới han.",
+      "confidence": 0.9998075071892115
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0670_015_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          2712
+        ],
+        [
+          1309,
+          2712
+        ],
+        [
+          1309,
+          2760
+        ],
+        [
+          283,
+          2760
+        ]
+      ],
+      "score": 0.8446970582008362,
+      "y_pos": 2712,
+      "text": "Mô hình chỉ số nhiệt kinh lạc bệnh tình chí",
+      "confidence": 0.9639046708742778
+    },
+    {
+      "type": "text",
+      "img_path": "p0670_010_text.png",
+      "bbox": [
+        [
+          282,
+          2803
+        ],
+        [
+          2124,
+          2803
+        ],
+        [
+          2124,
+          2855
+        ],
+        [
+          282,
+          2855
+        ]
+      ],
+      "score": 0.9186322689056396,
+      "y_pos": 2803,
+      "text": "Tâm (+BL), và giá trị tuyệt đối số tương quan của kinh Tâm lớn hơn kinh Tâm bào.",
+      "confidence": 0.9997307650926637
+    },
+    {
+      "type": "text",
+      "img_path": "p0670_004_text.png",
+      "bbox": [
+        [
+          279,
+          2893
+        ],
+        [
+          2359,
+          2893
+        ],
+        [
+          2359,
+          3091
+        ],
+        [
+          279,
+          3091
+        ]
+      ],
+      "score": 0.9726017117500305,
+      "y_pos": 2893,
+      "text": "Cần phải nhận ra mô hình chỉ số nhiệt kinh lạc bệnh tình chí (tri năng lấn át bản năng) trong\nbảng chỉ số nhiệt kinh lạc của người bệnh để chẩn đoán những bệnh chứng nảy sinh từ\nnguồn gốc tình chí. Khi đã nhận định được bệnh tình chí, cần tìm ra những tạng phủ nào",
+      "confidence": 0.9997155733896538
+    },
+    {
+      "type": "number",
+      "img_path": "p0670_016_number.png",
+      "bbox": [
+        [
+          2305,
+          3337
+        ],
+        [
+          2350,
+          3337
+        ],
+        [
+          2350,
+          3374
+        ],
+        [
+          2305,
+          3374
+        ]
+      ],
+      "score": 0.8437550067901611,
+      "y_pos": 3337,
+      "text": "\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0670_014_footer.png",
+      "bbox": [
+        [
+          227,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3388
+        ],
+        [
+          227,
+          3388
+        ]
+      ],
+      "score": 0.8980997204780579,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985032610173495
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0670.png"
+}

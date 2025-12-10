@@ -1,0 +1,396 @@
+{
+  "page_num": 439,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0439_005_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9213381409645081,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0439_009_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9135766625404358,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0439_006_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          328
+        ],
+        [
+          798,
+          328
+        ],
+        [
+          798,
+          381
+        ],
+        [
+          226,
+          381
+        ]
+      ],
+      "score": 0.9186771512031555,
+      "y_pos": 328,
+      "text": "11. Miệng mắt méo lệch",
+      "confidence": 0.9190117145578066
+    },
+    {
+      "type": "text",
+      "img_path": "p0439_001_text.png",
+      "bbox": [
+        [
+          221,
+          418
+        ],
+        [
+          2360,
+          418
+        ],
+        [
+          2360,
+          757
+        ],
+        [
+          221,
+          757
+        ]
+      ],
+      "score": 0.9835741519927979,
+      "y_pos": 418,
+      "text": "Miệng mắt méo lệch gọi là \"liệt mặt\", \"thần kinh mặt tê bại\". Phong hàn thấp gây ra liệt mặt,\nthường phát sinh sau một đêm bị nhiễm lạnh hoặc bị ẩm thấp, ngày thứ hai mới phát hiện ra.\nMột bên mí mắt không thể nhắm được, chảy nước mắt, không thể chau mày, nếp nhăn ở trước\ntrán mát đi, cơ bên mặt bị liệt nhẽo ra, cảm thấy vướng, góc mép trễ xuống và lệch về bên lành,\ncó thuyết gọi là \"lậu phong\" vì miệng chảy nước dãi, đồ ăn lưu ở bên má có bệnh.",
+      "confidence": 0.9993964393392044
+    },
+    {
+      "type": "text",
+      "img_path": "p0439_010_text.png",
+      "bbox": [
+        [
+          282,
+          794
+        ],
+        [
+          2114,
+          794
+        ],
+        [
+          2114,
+          846
+        ],
+        [
+          282,
+          846
+        ]
+      ],
+      "score": 0.9120340347290039,
+      "y_pos": 794,
+      "text": "<b>Cách chữa:</b> Lấy huyết Địa thương thấu Giáp xa, Tứ bach, Dương bach, Hợp cốc.",
+      "confidence": 0.9908106134662146
+    },
+    {
+      "type": "text",
+      "img_path": "p0439_002_text.png",
+      "bbox": [
+        [
+          279,
+          887
+        ],
+        [
+          2359,
+          887
+        ],
+        [
+          2359,
+          1081
+        ],
+        [
+          279,
+          1081
+        ]
+      ],
+      "score": 0.975814163684845,
+      "y_pos": 887,
+      "text": "Dùng hào kim châm Địa thương, Giáp xa. Huyệt Tứ bạch châm dưới da từ trên xuống.\nDương bạch châm thấu Ngư yêu. Đều dùng thủ pháp bình bổ, bình tả. Hợp cốc dùng tả\npháp. Mỗi ngày hoặc cách ngày châm một lần.",
+      "confidence": 0.9974969750939824
+    },
+    {
+      "type": "text",
+      "img_path": "p0439_003_text.png",
+      "bbox": [
+        [
+          279,
+          1119
+        ],
+        [
+          2359,
+          1119
+        ],
+        [
+          2359,
+          1312
+        ],
+        [
+          279,
+          1312
+        ]
+      ],
+      "score": 0.9729358553886414,
+      "y_pos": 1119,
+      "text": "Những người bệnh khó kéo về cân được, có thể gia thêm Địa thương thấu Nhân trung, hoặc\nĐịa thương thấu Thừa tương ở bên không méo có thể thu được hiệu quả. Bị gió lạnh thì gia\ncứu hoặc chườm nóng.",
+      "confidence": 0.9947331157045735
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0439_014_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          1355
+        ],
+        [
+          522,
+          1355
+        ],
+        [
+          522,
+          1405
+        ],
+        [
+          284,
+          1405
+        ]
+      ],
+      "score": 0.8111144304275513,
+      "y_pos": 1355,
+      "text": "Gia giảm:",
+      "confidence": 0.8643088232387196
+    },
+    {
+      "type": "text",
+      "img_path": "p0439_008_text.png",
+      "bbox": [
+        [
+          286,
+          1445
+        ],
+        [
+          1235,
+          1445
+        ],
+        [
+          1235,
+          1495
+        ],
+        [
+          286,
+          1495
+        ]
+      ],
+      "score": 0.9148279428482056,
+      "y_pos": 1445,
+      "text": "Chảy nước mắt thì gia huyệt <i>Tình minh</i>.",
+      "confidence": 0.989489617801848
+    },
+    {
+      "type": "text",
+      "img_path": "p0439_004_text.png",
+      "bbox": [
+        [
+          286,
+          1538
+        ],
+        [
+          1194,
+          1538
+        ],
+        [
+          1194,
+          1587
+        ],
+        [
+          286,
+          1587
+        ]
+      ],
+      "score": 0.9235373735427856,
+      "y_pos": 1538,
+      "text": "\n    Khó nhai đô ăn thì gia huyêt Ha quan.\n",
+      "confidence": 0.978531351165166
+    },
+    {
+      "type": "text",
+      "img_path": "p0439_007_text.png",
+      "bbox": [
+        [
+          286,
+          1628
+        ],
+        [
+          1437,
+          1628
+        ],
+        [
+          1437,
+          1679
+        ],
+        [
+          286,
+          1679
+        ]
+      ],
+      "score": 0.917269766330719,
+      "y_pos": 1628,
+      "text": "\n    Mặt khó nhằm thì gia Dương bạch thâu Ngư yêu.\n",
+      "confidence": 0.9828390789703584
+    },
+    {
+      "type": "text",
+      "img_path": "p0439_000_text.png",
+      "bbox": [
+        [
+          279,
+          1719
+        ],
+        [
+          2358,
+          1719
+        ],
+        [
+          2358,
+          2128
+        ],
+        [
+          279,
+          2128
+        ]
+      ],
+      "score": 0.9859808683395386,
+      "y_pos": 1719,
+      "text": "Giảng nghĩa của phương: Phương này chủ yếu là khử phong để dễ thông kinh khí. Dùng\nĐịa thương, Giáp xa, Tứ bạch, Dương bạch để điều kinh khí ở mặt, phối Hợp cốc để điều\nkinh khí ở kinh gốc ấy. Kinh khí dễ thông mà phong tự mất. Nếu bị gió nhẹ gây ra thì dùng\nngải cứu chườm nóng để ôn kinh, tán hàn<sup>(*)</sup> làm cho khí huyết dễ thông, gân mạch được\nnuôi dưỡng. <i>Tình minh, Hạ quan, Dương bạch</i> thấu <i>Ngư yêu</i> đều là đối chứng cục bộ mà lấy\nhuyệt.",
+      "confidence": 0.9966999399316602
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0439_012_footnote.png",
+      "bbox": [
+        [
+          227,
+          3167
+        ],
+        [
+          929,
+          3167
+        ],
+        [
+          929,
+          3209
+        ],
+        [
+          227,
+          3209
+        ]
+      ],
+      "score": 0.889171838760376,
+      "y_pos": 3167,
+      "text": "(*) Ôn kinh tán hàn: Âm kinh mạch, tan khí lạnh.",
+      "confidence": 0.876127769947052
+    },
+    {
+      "type": "number",
+      "img_path": "p0439_013_number.png",
+      "bbox": [
+        [
+          2303,
+          3300
+        ],
+        [
+          2349,
+          3300
+        ],
+        [
+          2349,
+          3335
+        ],
+        [
+          2303,
+          3335
+        ]
+      ],
+      "score": 0.8546129465103149,
+      "y_pos": 3300,
+      "text": "    \n    \n    \n    \n    \n\n\n٠.\n    \n\n    \n\n\n\n",
+      "confidence": 0.9784565412185409
+    },
+    {
+      "type": "footer",
+      "img_path": "p0439_011_footer.png",
+      "bbox": [
+        [
+          228,
+          3310
+        ],
+        [
+          1323,
+          3310
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          228,
+          3355
+        ]
+      ],
+      "score": 0.911443293094635,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9293094086197188
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0439.png"
+}

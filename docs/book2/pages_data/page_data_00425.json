@@ -1,0 +1,552 @@
+{
+  "page_num": 425,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0425_009_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9306720495223999,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0425_014_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9209002256393433,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0425_013_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          304
+        ],
+        [
+          1103,
+          304
+        ],
+        [
+          1103,
+          356
+        ],
+        [
+          224,
+          356
+        ]
+      ],
+      "score": 0.9232263565063477,
+      "y_pos": 304,
+      "text": "CHỮA NHỮNG BÊNH THƯỜNG GĂP",
+      "confidence": 0.9878848322800228
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0425_017_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          402
+        ],
+        [
+          519,
+          402
+        ],
+        [
+          519,
+          449
+        ],
+        [
+          226,
+          449
+        ]
+      ],
+      "score": 0.9131091833114624,
+      "y_pos": 402,
+      "text": "1. Cảm mao",
+      "confidence": 0.878275935848554
+    },
+    {
+      "type": "text",
+      "img_path": "p0425_001_text.png",
+      "bbox": [
+        [
+          220,
+          490
+        ],
+        [
+          2359,
+          490
+        ],
+        [
+          2359,
+          685
+        ],
+        [
+          220,
+          685
+        ]
+      ],
+      "score": 0.9764328598976135,
+      "y_pos": 490,
+      "text": "Cảm mạo, còn gọi là thương phong, có thể bị ở cả bốn mùa. Bệnh thường sinh vào những lúc\nkhí trời đột nhiên nóng, lạnh, hoặc lao động ra nhiều mồ hôi. Chủ yếu là do ngoại cảm phong\nhành, hoặc thân thể suy nhược, sức đề kháng giảm mà phát bệnh.",
+      "confidence": 0.9992885705428542
+    },
+    {
+      "type": "text",
+      "img_path": "p0425_003_text.png",
+      "bbox": [
+        [
+          221,
+          723
+        ],
+        [
+          2357,
+          723
+        ],
+        [
+          2357,
+          848
+        ],
+        [
+          221,
+          848
+        ]
+      ],
+      "score": 0.9673867225646973,
+      "y_pos": 723,
+      "text": "Cảm mạo có các biểu hiện là: Nghẹt mũi chảy nước mũi trong, hắt hơi, ho hắng, đau đầu, ăn\nkhông ngon...",
+      "confidence": 0.985827883499446
+    },
+    {
+      "type": "text",
+      "img_path": "p0425_002_text.png",
+      "bbox": [
+        [
+          221,
+          886
+        ],
+        [
+          2358,
+          886
+        ],
+        [
+          2358,
+          1009
+        ],
+        [
+          221,
+          1009
+        ]
+      ],
+      "score": 0.9677942991256714,
+      "y_pos": 886,
+      "text": "Cảm mạo nặng nặng (cúm lây lan): Phần nhiều là sợ lạnh, sốt, đau đầu, đau họng, ho, đau\nlưng, đau khớp tứ chi, không muốn cử động, có thể quặn bụng, buôn nôn.",
+      "confidence": 0.9994920955159319
+    },
+    {
+      "type": "text",
+      "img_path": "p0425_004_text.png",
+      "bbox": [
+        [
+          279,
+          1049
+        ],
+        [
+          2357,
+          1049
+        ],
+        [
+          2357,
+          1170
+        ],
+        [
+          279,
+          1170
+        ]
+      ],
+      "score": 0.9656673073768616,
+      "y_pos": 1049,
+      "text": "Cách chữa: Lấy huyệt Đại chuỳ, Hợp cốc, Phong trì, 3 huyệt này tác dụng chủ yếu chữa\ncảm mao.",
+      "confidence": 0.9923050927561383
+    },
+    {
+      "type": "text",
+      "img_path": "p0425_016_text.png",
+      "bbox": [
+        [
+          280,
+          1210
+        ],
+        [
+          2122,
+          1210
+        ],
+        [
+          2122,
+          1263
+        ],
+        [
+          280,
+          1263
+        ]
+      ],
+      "score": 0.9176613092422485,
+      "y_pos": 1210,
+      "text": "Đều dùng hào kim vê chuyển tiến kim, dùng thủ pháp bình bổ bình tả. Lưu kim 30'.",
+      "confidence": 0.9505435664479326
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0425_019_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          1305
+        ],
+        [
+          524,
+          1305
+        ],
+        [
+          524,
+          1354
+        ],
+        [
+          284,
+          1354
+        ]
+      ],
+      "score": 0.8122342824935913,
+      "y_pos": 1305,
+      "text": "Gia giám:",
+      "confidence": 0.8409157016060569
+    },
+    {
+      "type": "text",
+      "img_path": "p0425_008_text.png",
+      "bbox": [
+        [
+          285,
+          1395
+        ],
+        [
+          1522,
+          1395
+        ],
+        [
+          1522,
+          1446
+        ],
+        [
+          285,
+          1446
+        ]
+      ],
+      "score": 0.9307696223258972,
+      "y_pos": 1395,
+      "text": "\n    Đau đầu gia huyệt Ấn đường, Thái dương, nặn máu.\n",
+      "confidence": 0.9829840982282484
+    },
+    {
+      "type": "text",
+      "img_path": "p0425_010_text.png",
+      "bbox": [
+        [
+          285,
+          1487
+        ],
+        [
+          1865,
+          1487
+        ],
+        [
+          1865,
+          1539
+        ],
+        [
+          285,
+          1539
+        ]
+      ],
+      "score": 0.9303883910179138,
+      "y_pos": 1487,
+      "text": "\n    Cuống họng đau, dùng kim ba cạnh châm nặn máu ở Thiếu thương.\n",
+      "confidence": 0.988207171703207
+    },
+    {
+      "type": "text",
+      "img_path": "p0425_006_text.png",
+      "bbox": [
+        [
+          287,
+          1578
+        ],
+        [
+          1142,
+          1578
+        ],
+        [
+          1142,
+          1630
+        ],
+        [
+          287,
+          1630
+        ]
+      ],
+      "score": 0.9349768161773682,
+      "y_pos": 1578,
+      "text": "Ho hặng gia Liệt khuyết, Thái uyên.",
+      "confidence": 0.9891940838581806
+    },
+    {
+      "type": "text",
+      "img_path": "p0425_005_text.png",
+      "bbox": [
+        [
+          286,
+          1669
+        ],
+        [
+          963,
+          1669
+        ],
+        [
+          963,
+          1721
+        ],
+        [
+          286,
+          1721
+        ]
+      ],
+      "score": 0.9357290863990784,
+      "y_pos": 1669,
+      "text": "Tặc mũi gia Nghinh hương.",
+      "confidence": 0.9883207038596824
+    },
+    {
+      "type": "text",
+      "img_path": "p0425_007_text.png",
+      "bbox": [
+        [
+          285,
+          1761
+        ],
+        [
+          1606,
+          1761
+        ],
+        [
+          1606,
+          1812
+        ],
+        [
+          285,
+          1812
+        ]
+      ],
+      "score": 0.9345883727073669,
+      "y_pos": 1761,
+      "text": "\n    Sôt cao gia Khúc trì, Thập tuyên, châm nhanh, năn máu.\n",
+      "confidence": 0.9856556855142117
+    },
+    {
+      "type": "text",
+      "img_path": "p0425_011_text.png",
+      "bbox": [
+        [
+          286,
+          1853
+        ],
+        [
+          1520,
+          1853
+        ],
+        [
+          1520,
+          1902
+        ],
+        [
+          286,
+          1902
+        ]
+      ],
+      "score": 0.9291564226150513,
+      "y_pos": 1853,
+      "text": "\n    Toàn thân và tứ chi đau buôt gia Khúc trì, Thừa sơn.\n",
+      "confidence": 0.984241518454674
+    },
+    {
+      "type": "text",
+      "img_path": "p0425_012_text.png",
+      "bbox": [
+        [
+          287,
+          1946
+        ],
+        [
+          1144,
+          1946
+        ],
+        [
+          1144,
+          1996
+        ],
+        [
+          287,
+          1996
+        ]
+      ],
+      "score": 0.9274088740348816,
+      "y_pos": 1946,
+      "text": "\n    Quặn bung, buôn nôn gia Nội quan.\n",
+      "confidence": 0.981320036669909
+    },
+    {
+      "type": "text",
+      "img_path": "p0425_000_text.png",
+      "bbox": [
+        [
+          277,
+          2035
+        ],
+        [
+          2360,
+          2035
+        ],
+        [
+          2360,
+          3014
+        ],
+        [
+          277,
+          3014
+        ]
+      ],
+      "score": 0.9870012998580933,
+      "y_pos": 2035,
+      "text": "Giảng nghĩa của phương: Phương này lấy giải biểu, tán hành làm chính.Do phế và đại\ntrường cùng biểu lý, nên lấy <i>Hợp cốc</i> ở kinh đại trường để giải biểu tán hàn, phát hãn<sup>(*)</sup>,\ntuyên thông phế khí để dứt ho. Lấy <i>Phong trì</i> để khu phong<sup>(**)</sup> mà dứt đau đầu. <i>Đại chuỳ</i> là\nhuyệt ở đốc mạch, cũng là huyệt hội của thủ, túc tam dương kinh, cho nên có thể trị được\nngoại tà xâm phạm vào cơ thể làm cho kinh khí ở âm dương ngưng tắc phát thanh nhiệt.\nHuyệt Thái dương là huyệt lạ ngoài kinh (kinh ngoại kỳ huyệt), dùng kim ba cạnh châm nặn\nmáu có tác dụng tiết nhiệt, làm mát đầu mắt, có thể chữa đau góc đầu, trán. Huyệt <i>Ấn đường</i>\ntrị đau trước đầu. Thiếu thương là kinh huyệt thủ thái âm phế có tác dụng làm tiết tà nhiệt ở\nphế kinh, cho nên nó là huyệt vị chính để chữa đau họng. Liệt khuyết là Lạc huyệt của thủ\nthái âm kinh, Thái uyên là Nguyên huyệt của thủ thái âm kinh. Hai huyệt này có tác dụng rất\nlớn đối với việc tuyên phế, vì vậy có thể chữa được ho do phế khí không tuyên (không\nthông). Thủ dương minh đại trường kinh tuần hanh đến mũi, vì thế huyệt <i>Nghinh hương</i> có\nthể trị mũi tắc không thông. <i>Thập tuyên</i> có công hiệu tuyên khiếu, khai bế (thông khiếu, mở\nchỗ bị đóng tắc), sơ dương khí, thanh nhiệt. Huyệt <i>Khúc trì</i> có tác dụng tiết tà nhiệt ở dương",
+      "confidence": 0.9970576143406982
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0425_015_footnote.png",
+      "bbox": [
+        [
+          228,
+          3129
+        ],
+        [
+          700,
+          3129
+        ],
+        [
+          700,
+          3208
+        ],
+        [
+          228,
+          3208
+        ]
+      ],
+      "score": 0.9203115701675415,
+      "y_pos": 3129,
+      "text": "(*) Phát hãn: Làm cho ra mồ hôi.\n(**) Khu phong: Đuổi phong tà.",
+      "confidence": 0.8110984145280193
+    },
+    {
+      "type": "number",
+      "img_path": "p0425_020_number.png",
+      "bbox": [
+        [
+          2328,
+          3300
+        ],
+        [
+          2352,
+          3300
+        ],
+        [
+          2352,
+          3335
+        ],
+        [
+          2328,
+          3335
+        ]
+      ],
+      "score": 0.8081780076026917,
+      "y_pos": 3300,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0425_018_footer.png",
+      "bbox": [
+        [
+          227,
+          3310
+        ],
+        [
+          1323,
+          3310
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          227,
+          3355
+        ]
+      ],
+      "score": 0.9108204245567322,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9190420980723399
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0425.png"
+}

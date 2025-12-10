@@ -1,0 +1,420 @@
+{
+  "page_num": 106,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0106_004_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9303921461105347,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7254179112967991
+    },
+    {
+      "type": "header",
+      "img_path": "p0106_009_header.png",
+      "bbox": [
+        [
+          230,
+          154
+        ],
+        [
+          601,
+          154
+        ],
+        [
+          601,
+          199
+        ],
+        [
+          230,
+          199
+        ]
+      ],
+      "score": 0.9169846773147583,
+      "y_pos": 154,
+      "text": "CÁCH CHÂM CỬU",
+      "confidence": 0.9794526934623718
+    },
+    {
+      "type": "doc_title",
+      "img_path": "p0106_015_doc_title.png",
+      "bbox": [
+        [
+          1002,
+          346
+        ],
+        [
+          1582,
+          346
+        ],
+        [
+          1582,
+          418
+        ],
+        [
+          1002,
+          418
+        ]
+      ],
+      "score": 0.6135392189025879,
+      "y_pos": 346,
+      "text": "CÁCH CHÂM CỬU",
+      "confidence": 0.975603977839152
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0106_007_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          470
+        ],
+        [
+          513,
+          470
+        ],
+        [
+          513,
+          517
+        ],
+        [
+          226,
+          517
+        ]
+      ],
+      "score": 0.9215429425239563,
+      "y_pos": 470,
+      "text": "CACH CHAM",
+      "confidence": 0.6154133677482605
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0106_012_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          564
+        ],
+        [
+          694,
+          564
+        ],
+        [
+          694,
+          611
+        ],
+        [
+          226,
+          611
+        ]
+      ],
+      "score": 0.8930960893630981,
+      "y_pos": 564,
+      "text": "A. Các loai kim châm",
+      "confidence": 0.9083932448517192
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_000_text.png",
+      "bbox": [
+        [
+          277,
+          654
+        ],
+        [
+          2357,
+          654
+        ],
+        [
+          2357,
+          850
+        ],
+        [
+          277,
+          850
+        ]
+      ],
+      "score": 0.9750614762306213,
+      "y_pos": 654,
+      "text": "Chủng loại kim châm thì rất nhiều, nhưng nói chung thường dùng 3 loại là: hào kim, kim ba\ncạnh và kim châm da (xưa có cửu châm, vì trong đó có những loại kim dùng sang phạm vi\nngoại khoa và động tác phức tạp ít dùng nên lược đi).",
+      "confidence": 0.9950567844455085
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0106_008_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          888
+        ],
+        [
+          546,
+          888
+        ],
+        [
+          546,
+          932
+        ],
+        [
+          286,
+          932
+        ]
+      ],
+      "score": 0.9178282618522644,
+      "y_pos": 888,
+      "text": "Hào kim",
+      "confidence": 0.8921342425876193
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_001_text.png",
+      "bbox": [
+        [
+          337,
+          979
+        ],
+        [
+          2358,
+          979
+        ],
+        [
+          2358,
+          1170
+        ],
+        [
+          337,
+          1170
+        ]
+      ],
+      "score": 0.971442699432373,
+      "y_pos": 979,
+      "text": "Là loại kim ứng dụng rộng rãi, thân kim rất nhỏ, mũi kim nhọn hoắt, độ dài kim có các cỡ:\nnửa thốn, một thốn, thốn rưới, hai thốn, ba thốn, năm thốn. Loại kim này ứng dụng vào\nchữa rất nhiều loại bênh.",
+      "confidence": 0.9980301746426045
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0106_006_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          1213
+        ],
+        [
+          617,
+          1213
+        ],
+        [
+          617,
+          1258
+        ],
+        [
+          285,
+          1258
+        ]
+      ],
+      "score": 0.9219464063644409,
+      "y_pos": 1213,
+      "text": "2. Kim 3 canh",
+      "confidence": 0.9256111145019531
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_002_text.png",
+      "bbox": [
+        [
+          338,
+          1302
+        ],
+        [
+          2355,
+          1302
+        ],
+        [
+          2355,
+          1425
+        ],
+        [
+          338,
+          1425
+        ]
+      ],
+      "score": 0.9579259157180786,
+      "y_pos": 1302,
+      "text": "Làm bằng thép không gỉ, dài chừng thốn rưỡi đến hai thốn, đầu kim nhọn và có ba cạnh,\nthân kim khá thô, mũi kim sắc bén.",
+      "confidence": 0.9987260514577687
+    },
+    {
+      "type": "image",
+      "img_path": "p0106_005_image.png",
+      "bbox": [
+        [
+          610,
+          1488
+        ],
+        [
+          1973,
+          1488
+        ],
+        [
+          1973,
+          2782
+        ],
+        [
+          610,
+          2782
+        ]
+      ],
+      "score": 0.9272969961166382,
+      "y_pos": 1488
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0106_013_figure_title.png",
+      "bbox": [
+        [
+          1004,
+          2861
+        ],
+        [
+          1581,
+          2861
+        ],
+        [
+          1581,
+          2909
+        ],
+        [
+          1004,
+          2909
+        ]
+      ],
+      "score": 0.8869551420211792,
+      "y_pos": 2861,
+      "text": "Hình 24. Các loại kim châm",
+      "confidence": 0.7373889471803393
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0106_010_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          2951
+        ],
+        [
+          663,
+          2951
+        ],
+        [
+          663,
+          2998
+        ],
+        [
+          285,
+          2998
+        ]
+      ],
+      "score": 0.9160755276679993,
+      "y_pos": 2951,
+      "text": "3. Kim châm da",
+      "confidence": 0.8977397494018078
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_003_text.png",
+      "bbox": [
+        [
+          338,
+          3043
+        ],
+        [
+          2358,
+          3043
+        ],
+        [
+          2358,
+          3167
+        ],
+        [
+          338,
+          3167
+        ]
+      ],
+      "score": 0.9555801153182983,
+      "y_pos": 3043,
+      "text": "Cũng gọi là kim mai hoa, kim thất tinh, hình nó như cái gương sen hoặc buộc kim thành\ntừng bó từ 5 hoặc 7 kim nhỏ, 5 cái thì gọi là \"kim mai hoa\", 7 cái thì gọi là \"kim thất tinh\".",
+      "confidence": 0.9997927152348318
+    },
+    {
+      "type": "footer",
+      "img_path": "p0106_011_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9056360721588135,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985454925950968
+    },
+    {
+      "type": "number",
+      "img_path": "p0106_014_number.png",
+      "bbox": [
+        [
+          2299,
+          3341
+        ],
+        [
+          2316,
+          3341
+        ],
+        [
+          2316,
+          3377
+        ],
+        [
+          2299,
+          3377
+        ]
+      ],
+      "score": 0.7799919843673706,
+      "y_pos": 3341,
+      "text": "\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0106.png"
+}

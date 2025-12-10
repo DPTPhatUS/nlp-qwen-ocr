@@ -1,0 +1,344 @@
+{
+  "page_num": 101,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0101_006_text.png",
+      "bbox": [
+        [
+          462,
+          450
+        ],
+        [
+          1156,
+          450
+        ],
+        [
+          1156,
+          501
+        ],
+        [
+          462,
+          501
+        ]
+      ],
+      "score": 0.8166517615318298,
+      "y_pos": 450,
+      "text": "d/ Pháp tri: dưỡng Vi sinh tân.",
+      "confidence": 0.9519502773429408
+    },
+    {
+      "type": "text",
+      "img_path": "p0101_007_text.png",
+      "bbox": [
+        [
+          462,
+          534
+        ],
+        [
+          1545,
+          534
+        ],
+        [
+          1545,
+          586
+        ],
+        [
+          462,
+          586
+        ]
+      ],
+      "score": 0.7926474809646606,
+      "y_pos": 534,
+      "text": "e/ Phương: Tăng dịch thang. (Thương hàn luận)",
+      "confidence": 0.6893655049039963
+    },
+    {
+      "type": "text",
+      "img_path": "p0101_010_text.png",
+      "bbox": [
+        [
+          469,
+          617
+        ],
+        [
+          972,
+          617
+        ],
+        [
+          972,
+          664
+        ],
+        [
+          469,
+          664
+        ]
+      ],
+      "score": 0.5500878095626831,
+      "y_pos": 617,
+      "text": "+ Phân tích bài thuốc",
+      "confidence": 0.896475973336593
+    },
+    {
+      "type": "table",
+      "img_path": "p0101_001_table.png",
+      "bbox": [
+        [
+          351,
+          719
+        ],
+        [
+          2125,
+          719
+        ],
+        [
+          2125,
+          1439
+        ],
+        [
+          351,
+          1439
+        ]
+      ],
+      "score": 0.9898840188980103,
+      "y_pos": 719,
+      "text": "Vi thuốc    Dược lý Đông y\nHuyền sâm    Mặn, hơi đẳng, hàn vào Phế, Vị, Thận. Thanh nhiệt, lương huyết, tả\nhỏa, giải độc, sinh tân dịch, tán kết\nSinh địa    Ngọt, đắng, hàn vào Tâm, Can, Tiểu trường, Thận. Thanh nhiệt, lương\nhuyết, dưỡng âm, sinh tân\nMach môn    Ngọt, hơi đẳng, hơi lạnh. Vào Phế, Vị. Nhuận Phế, sinh tân, lợi niệu\nThiên hoa phấn    Ngọt, chua, hàn vào Phế, Vị, Đại trường. Sinh tân chỉ khái, giáng hỏa,\nnhuận táo, bài nung, tiêu thũng\nHoàng liên    Đắng, hàn vào Tâm, Can, Đởm, Đại trường, Vị. Thanh nhiệt, táo thấp,\nthanh Tâm",
+      "confidence": 0.9251751650693267
+    },
+    {
+      "type": "text",
+      "img_path": "p0101_008_text.png",
+      "bbox": [
+        [
+          464,
+          1472
+        ],
+        [
+          1143,
+          1472
+        ],
+        [
+          1143,
+          1522
+        ],
+        [
+          464,
+          1522
+        ]
+      ],
+      "score": 0.7167757749557495,
+      "y_pos": 1472,
+      "text": "nếu táo bón thì gia Đại hoàng",
+      "confidence": 0.9972122946093159
+    },
+    {
+      "type": "text",
+      "img_path": "p0101_009_text.png",
+      "bbox": [
+        [
+          465,
+          1554
+        ],
+        [
+          1099,
+          1554
+        ],
+        [
+          1099,
+          1605
+        ],
+        [
+          465,
+          1605
+        ]
+      ],
+      "score": 0.5645459890365601,
+      "y_pos": 1554,
+      "text": "+ Công thức huyệt sử dụng",
+      "confidence": 0.9974787345638981
+    },
+    {
+      "type": "table",
+      "img_path": "p0101_000_table.png",
+      "bbox": [
+        [
+          352,
+          1654
+        ],
+        [
+          2124,
+          1654
+        ],
+        [
+          2124,
+          2547
+        ],
+        [
+          352,
+          2547
+        ]
+      ],
+      "score": 0.9904848337173462,
+      "y_pos": 1654,
+      "text": "Tên huyệt    Cơ sở lý luận    Tác dụng điều trị\nTam âm    Giao hội huyệt của 3 kinh âm ở chân. Huyệt đặc    Tư âm\ngiao    hiệu bổ âm\nXung dương    Nguyên của Vi    Dưỡng Vi\nCông tôn    Lac của Tỳ    Âm\nKhúc trì    Phối hợp Khúc trì, Đại chùy, Hợp cốc là kinh nghiệm    Thanh nhiệt, ha sốt\nđể tri cảm sốt\nHợp cốc\nTúc tam lý    Hợp thổ huyệt của Vị    Thanh Vị nhiệt (tả)\nThiên khu    Mô huyệt của Đại trường    Ha tích trê trường vi\nChi câu    Kinh hỏa huyệt của Tam tiêu. Có tác dung tán ứ kết,    Tri táo bón\nthông trường vi",
+      "confidence": 0.9199680516798847
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0101_003_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          2631
+        ],
+        [
+          916,
+          2631
+        ],
+        [
+          916,
+          2679
+        ],
+        [
+          345,
+          2679
+        ]
+      ],
+      "score": 0.9210271835327148,
+      "y_pos": 2631,
+      "text": "3.3. Đại trường hư hàn",
+      "confidence": 0.9985417251785597
+    },
+    {
+      "type": "text",
+      "img_path": "p0101_012_text.png",
+      "bbox": [
+        [
+          459,
+          2726
+        ],
+        [
+          1965,
+          2726
+        ],
+        [
+          1965,
+          2778
+        ],
+        [
+          459,
+          2778
+        ]
+      ],
+      "score": 0.5074130892753601,
+      "y_pos": 2726,
+      "text": "a/ Bệnh nguyên: cảm nhiễm hàn tà trên cơ địa Tỳ, Thận dương hư,",
+      "confidence": 0.9860162679965679
+    },
+    {
+      "type": "text",
+      "img_path": "p0101_011_text.png",
+      "bbox": [
+        [
+          463,
+          2807
+        ],
+        [
+          760,
+          2807
+        ],
+        [
+          760,
+          2857
+        ],
+        [
+          463,
+          2857
+        ]
+      ],
+      "score": 0.5356747508049011,
+      "y_pos": 2807,
+      "text": "b/ Bênh sinh",
+      "confidence": 0.8902088872023991
+    },
+    {
+      "type": "text",
+      "img_path": "p0101_002_text.png",
+      "bbox": [
+        [
+          408,
+          2892
+        ],
+        [
+          2122,
+          2892
+        ],
+        [
+          2122,
+          3001
+        ],
+        [
+          408,
+          3001
+        ]
+      ],
+      "score": 0.9572609663009644,
+      "y_pos": 2892,
+      "text": "- Chức năng của Tỳ là vận hóa thủy cốc, được sự hỗ trợ của Thận dương.\nNếu Tỳ Thận dương hư thì sẽ đưa đến Tỳ mất chức năng thăng thanh",
+      "confidence": 0.9945501822677225
+    },
+    {
+      "type": "number",
+      "img_path": "p0101_005_number.png",
+      "bbox": [
+        [
+          353,
+          3109
+        ],
+        [
+          434,
+          3109
+        ],
+        [
+          434,
+          3149
+        ],
+        [
+          353,
+          3149
+        ]
+      ],
+      "score": 0.8479910492897034,
+      "y_pos": 3109,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0101_004_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3365
+        ],
+        [
+          293,
+          3365
+        ]
+      ],
+      "score": 0.9176416397094727,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8792689868382045
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0101.png"
+}

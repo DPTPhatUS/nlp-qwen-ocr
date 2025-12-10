@@ -1,0 +1,838 @@
+{
+  "page_num": 321,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0321_000_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2372,
+          142
+        ],
+        [
+          2372,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9354811310768127,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7447965074153173
+    },
+    {
+      "type": "header",
+      "img_path": "p0321_002_header.png",
+      "bbox": [
+        [
+          230,
+          156
+        ],
+        [
+          946,
+          156
+        ],
+        [
+          946,
+          205
+        ],
+        [
+          230,
+          205
+        ]
+      ],
+      "score": 0.9200836420059204,
+      "y_pos": 156,
+      "text": "TANG PHỦ BIÊN CHÚNG LUÂN TRI",
+      "confidence": 0.9025764544804891
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0321_003_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          307
+        ],
+        [
+          923,
+          307
+        ],
+        [
+          923,
+          362
+        ],
+        [
+          225,
+          362
+        ]
+      ],
+      "score": 0.9080402255058289,
+      "y_pos": 307,
+      "text": "5. Hoàng kỳ kiện trung thang",
+      "confidence": 0.9111682335535686
+    },
+    {
+      "type": "text",
+      "img_path": "p0321_021_text.png",
+      "bbox": [
+        [
+          287,
+          396
+        ],
+        [
+          1511,
+          396
+        ],
+        [
+          1511,
+          454
+        ],
+        [
+          287,
+          454
+        ]
+      ],
+      "score": 0.6073092222213745,
+      "y_pos": 396,
+      "text": "Quế chi    2 đồng cân, Bạch thược    4 đồng cân,",
+      "confidence": 0.9801618446439421
+    },
+    {
+      "type": "text",
+      "img_path": "p0321_019_text.png",
+      "bbox": [
+        [
+          288,
+          490
+        ],
+        [
+          1511,
+          490
+        ],
+        [
+          1511,
+          547
+        ],
+        [
+          288,
+          547
+        ]
+      ],
+      "score": 0.6500740051269531,
+      "y_pos": 490,
+      "text": "Cam thảo    1 đồng cân, <i>Sinh khương</i>    1 đồng cân,",
+      "confidence": 0.94919496633728
+    },
+    {
+      "type": "text",
+      "img_path": "p0321_015_text.png",
+      "bbox": [
+        [
+          287,
+          583
+        ],
+        [
+          752,
+          583
+        ],
+        [
+          752,
+          638
+        ],
+        [
+          287,
+          638
+        ]
+      ],
+      "score": 0.6857458353042603,
+      "y_pos": 583,
+      "text": "Đai táo    5 quả,",
+      "confidence": 0.9363732536633809
+    },
+    {
+      "type": "text",
+      "img_path": "p0321_014_text.png",
+      "bbox": [
+        [
+          288,
+          674
+        ],
+        [
+          807,
+          674
+        ],
+        [
+          807,
+          728
+        ],
+        [
+          288,
+          728
+        ]
+      ],
+      "score": 0.6898293495178223,
+      "y_pos": 674,
+      "text": "Gia Hoàng kỳ, Chỉ xác.",
+      "confidence": 0.9856800238291422
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0321_009_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          766
+        ],
+        [
+          548,
+          766
+        ],
+        [
+          548,
+          815
+        ],
+        [
+          226,
+          815
+        ]
+      ],
+      "score": 0.866528332233429,
+      "y_pos": 766,
+      "text": "6. Bình vi tán",
+      "confidence": 0.9138005822896957
+    },
+    {
+      "type": "text",
+      "img_path": "p0321_022_text.png",
+      "bbox": [
+        [
+          293,
+          856
+        ],
+        [
+          1669,
+          856
+        ],
+        [
+          1669,
+          915
+        ],
+        [
+          293,
+          915
+        ]
+      ],
+      "score": 0.6063380837440491,
+      "y_pos": 856,
+      "text": "Thương truật    1,5-3 đông cân,    Hậu phác 1-3 đồng cân,",
+      "confidence": 0.8819744816514291
+    },
+    {
+      "type": "text",
+      "img_path": "p0321_016_text.png",
+      "bbox": [
+        [
+          293,
+          946
+        ],
+        [
+          1625,
+          946
+        ],
+        [
+          1625,
+          1004
+        ],
+        [
+          293,
+          1004
+        ]
+      ],
+      "score": 0.6818209886550903,
+      "y_pos": 946,
+      "text": "Trần bì    1,5-3 đồng cân,    Cam thảo 1 đồng cân,",
+      "confidence": 0.9197302768314964
+    },
+    {
+      "type": "text",
+      "img_path": "p0321_017_text.png",
+      "bbox": [
+        [
+          289,
+          1041
+        ],
+        [
+          1501,
+          1041
+        ],
+        [
+          1501,
+          1096
+        ],
+        [
+          289,
+          1096
+        ]
+      ],
+      "score": 0.6786786317825317,
+      "y_pos": 1041,
+      "text": "Sinh khương 3 lát,    Đai táo    3 quả.",
+      "confidence": 0.9473631024360657
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0321_011_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1133
+        ],
+        [
+          583,
+          1133
+        ],
+        [
+          583,
+          1183
+        ],
+        [
+          227,
+          1183
+        ]
+      ],
+      "score": 0.8552131652832031,
+      "y_pos": 1133,
+      "text": "7. Ngũ linh tán",
+      "confidence": 0.9223824038225061
+    },
+    {
+      "type": "text",
+      "img_path": "p0321_030_text.png",
+      "bbox": [
+        [
+          287,
+          1223
+        ],
+        [
+          1211,
+          1223
+        ],
+        [
+          1211,
+          1279
+        ],
+        [
+          287,
+          1279
+        ]
+      ],
+      "score": 0.5122442841529846,
+      "y_pos": 1223,
+      "text": "Bach truât    2-3 đồng cân",
+      "confidence": 0.9391701547872453
+    },
+    {
+      "type": "text",
+      "img_path": "p0321_026_text.png",
+      "bbox": [
+        [
+          288,
+          1313
+        ],
+        [
+          1970,
+          1313
+        ],
+        [
+          1970,
+          1372
+        ],
+        [
+          288,
+          1372
+        ]
+      ],
+      "score": 0.5568061470985413,
+      "y_pos": 1313,
+      "text": "Quế chi (hoặc Nhục quế), 1-2 đồng cân,    Trư linh    3 – 4 đồng cân,",
+      "confidence": 0.7718358380245228
+    },
+    {
+      "type": "text",
+      "img_path": "p0321_024_text.png",
+      "bbox": [
+        [
+          290,
+          1406
+        ],
+        [
+          1969,
+          1406
+        ],
+        [
+          1969,
+          1463
+        ],
+        [
+          290,
+          1463
+        ]
+      ],
+      "score": 0.5635547041893005,
+      "y_pos": 1406,
+      "text": "Trach tả    3 – 4 đồng cân,    Phục linh 3 – 5 đồng cân.",
+      "confidence": 0.7308984992810584
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0321_007_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1498
+        ],
+        [
+          592,
+          1498
+        ],
+        [
+          592,
+          1553
+        ],
+        [
+          226,
+          1553
+        ]
+      ],
+      "score": 0.8747134804725647,
+      "y_pos": 1498,
+      "text": "8. Vị linh thang",
+      "confidence": 0.9602119988865323
+    },
+    {
+      "type": "text",
+      "img_path": "p0321_004_text.png",
+      "bbox": [
+        [
+          281,
+          1589
+        ],
+        [
+          1890,
+          1589
+        ],
+        [
+          1890,
+          1644
+        ],
+        [
+          281,
+          1644
+        ]
+      ],
+      "score": 0.8993109464645386,
+      "y_pos": 1589,
+      "text": "Là do hai bài vị <i>Bình vị tán</i> và <i>Ngũ linh tán</i> phối hợp với nhau mà thành.",
+      "confidence": 0.9950065391185956
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0321_006_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1683
+        ],
+        [
+          848,
+          1683
+        ],
+        [
+          848,
+          1734
+        ],
+        [
+          226,
+          1734
+        ]
+      ],
+      "score": 0.8774438500404358,
+      "y_pos": 1683,
+      "text": "9. Sâm linh bach truât tán",
+      "confidence": 0.9299146277563912
+    },
+    {
+      "type": "text",
+      "img_path": "p0321_018_text.png",
+      "bbox": [
+        [
+          287,
+          1773
+        ],
+        [
+          1335,
+          1773
+        ],
+        [
+          1335,
+          1829
+        ],
+        [
+          287,
+          1829
+        ]
+      ],
+      "score": 0.6577014923095703,
+      "y_pos": 1773,
+      "text": "Nhân sâm (hoặc Đảng sâm) 2 – 3 đồng cân,",
+      "confidence": 0.9742693290823982
+    },
+    {
+      "type": "text",
+      "img_path": "p0321_020_text.png",
+      "bbox": [
+        [
+          288,
+          1866
+        ],
+        [
+          1335,
+          1866
+        ],
+        [
+          1335,
+          1921
+        ],
+        [
+          288,
+          1921
+        ]
+      ],
+      "score": 0.6316141486167908,
+      "y_pos": 1866,
+      "text": "Bach truât    2 – 3 đồng cân,",
+      "confidence": 0.8400224530521561
+    },
+    {
+      "type": "text",
+      "img_path": "p0321_023_text.png",
+      "bbox": [
+        [
+          286,
+          1956
+        ],
+        [
+          2147,
+          1956
+        ],
+        [
+          2147,
+          2014
+        ],
+        [
+          286,
+          2014
+        ]
+      ],
+      "score": 0.5928646922111511,
+      "y_pos": 1956,
+      "text": "Phuc linh    3 đông cân,    Chích cam thảo    l đồng cân,",
+      "confidence": 0.8540211584992133
+    },
+    {
+      "type": "text",
+      "img_path": "p0321_013_text.png",
+      "bbox": [
+        [
+          283,
+          2047
+        ],
+        [
+          1836,
+          2047
+        ],
+        [
+          1836,
+          2103
+        ],
+        [
+          283,
+          2103
+        ]
+      ],
+      "score": 0.7688246965408325,
+      "y_pos": 2047,
+      "text": "Gia Biểu đậu, Sơn dược, Liên tử nhục, Cát cánh, Ý dĩ nhân, Sa nhân.",
+      "confidence": 0.9573130313900934
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0321_008_paragraph_title.png",
+      "bbox": [
+        [
+          230,
+          2140
+        ],
+        [
+          835,
+          2140
+        ],
+        [
+          835,
+          2194
+        ],
+        [
+          230,
+          2194
+        ]
+      ],
+      "score": 0.8701480031013489,
+      "y_pos": 2140,
+      "text": "10. Nhân trần khao thang",
+      "confidence": 0.9076024293899536
+    },
+    {
+      "type": "text",
+      "img_path": "p0321_028_text.png",
+      "bbox": [
+        [
+          285,
+          2231
+        ],
+        [
+          1858,
+          2231
+        ],
+        [
+          1858,
+          2288
+        ],
+        [
+          285,
+          2288
+        ]
+      ],
+      "score": 0.5395572185516357,
+      "y_pos": 2231,
+      "text": "Nhân trần    5 đồng cân đến 1 lạng, <i>Chi tử</i>    3 – 5 đồng cân,",
+      "confidence": 0.9351976652338049
+    },
+    {
+      "type": "text",
+      "img_path": "p0321_031_text.png",
+      "bbox": [
+        [
+          286,
+          2323
+        ],
+        [
+          979,
+          2323
+        ],
+        [
+          979,
+          2380
+        ],
+        [
+          286,
+          2380
+        ]
+      ],
+      "score": 0.5114433169364929,
+      "y_pos": 2323,
+      "text": "ĐạI hoàng    1,5 - 3 đồng cân",
+      "confidence": 0.9556604328781668
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0321_012_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          2415
+        ],
+        [
+          666,
+          2415
+        ],
+        [
+          666,
+          2469
+        ],
+        [
+          229,
+          2469
+        ]
+      ],
+      "score": 0.8511331081390381,
+      "y_pos": 2415,
+      "text": "11. Chân vũ thang",
+      "confidence": 0.8863571380314074
+    },
+    {
+      "type": "text",
+      "img_path": "p0321_029_text.png",
+      "bbox": [
+        [
+          289,
+          2598
+        ],
+        [
+          1857,
+          2598
+        ],
+        [
+          1857,
+          2656
+        ],
+        [
+          289,
+          2656
+        ]
+      ],
+      "score": 0.5387599468231201,
+      "y_pos": 2598,
+      "text": "Bạch truật    2 – 3 đồng cân,    Sinh khương 2 – 3 đồng cân,",
+      "confidence": 0.8818623452424896
+    },
+    {
+      "type": "text",
+      "img_path": "p0321_025_text.png",
+      "bbox": [
+        [
+          289,
+          2690
+        ],
+        [
+          1085,
+          2690
+        ],
+        [
+          1085,
+          2745
+        ],
+        [
+          289,
+          2745
+        ]
+      ],
+      "score": 0.5628939270973206,
+      "y_pos": 2690,
+      "text": "Phu tử bào    2 – 3 đồng cân.",
+      "confidence": 0.917860548285877
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0321_010_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          2782
+        ],
+        [
+          642,
+          2782
+        ],
+        [
+          642,
+          2830
+        ],
+        [
+          229,
+          2830
+        ]
+      ],
+      "score": 0.8603850603103638,
+      "y_pos": 2782,
+      "text": "12. Tứ thần hoàn",
+      "confidence": 0.920538087685903
+    },
+    {
+      "type": "text",
+      "img_path": "p0321_027_text.png",
+      "bbox": [
+        [
+          288,
+          2966
+        ],
+        [
+          1514,
+          2966
+        ],
+        [
+          1514,
+          3025
+        ],
+        [
+          288,
+          3025
+        ]
+      ],
+      "score": 0.5562806129455566,
+      "y_pos": 2966,
+      "text": "Nhục đậu khẩu    2 lạng,    Ngô thù du    1 lạng,",
+      "confidence": 0.9581621689928903
+    },
+    {
+      "type": "footer",
+      "img_path": "p0321_001_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1434,
+          3334
+        ],
+        [
+          1434,
+          3388
+        ],
+        [
+          228,
+          3388
+        ]
+      ],
+      "score": 0.9212391972541809,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.998719002840654
+    },
+    {
+      "type": "number",
+      "img_path": "p0321_005_number.png",
+      "bbox": [
+        [
+          2308,
+          3338
+        ],
+        [
+          2355,
+          3338
+        ],
+        [
+          2355,
+          3373
+        ],
+        [
+          2308,
+          3373
+        ]
+      ],
+      "score": 0.8804669380187988,
+      "y_pos": 3338,
+      "text": "    \n\n\n\n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0321.png"
+}

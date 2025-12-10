@@ -1,0 +1,240 @@
+{
+  "page_num": 400,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0400_005_header.png",
+      "bbox": [
+        [
+          1678,
+          143
+        ],
+        [
+          2368,
+          143
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1678,
+          196
+        ]
+      ],
+      "score": 0.9188756942749023,
+      "y_pos": 143,
+      "text": "^7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.691928703160513
+    },
+    {
+      "type": "header",
+      "img_path": "p0400_006_header.png",
+      "bbox": [
+        [
+          228,
+          147
+        ],
+        [
+          1095,
+          147
+        ],
+        [
+          1095,
+          197
+        ],
+        [
+          228,
+          197
+        ]
+      ],
+      "score": 0.9124268293380737,
+      "y_pos": 147,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SÁNG",
+      "confidence": 0.7286194511822291
+    },
+    {
+      "type": "text",
+      "img_path": "p0400_002_text.png",
+      "bbox": [
+        [
+          223,
+          306
+        ],
+        [
+          2358,
+          306
+        ],
+        [
+          2358,
+          427
+        ],
+        [
+          223,
+          427
+        ]
+      ],
+      "score": 0.9552463889122009,
+      "y_pos": 306,
+      "text": "- Thương nhĩ tử 3 đồng cân, (hoặc Thương nhĩ thảo 5 đồng cân), sắc uống, <b>chữa viêm xoang</b>\nmũi, viêm mũi dẫn đến đau đầu.",
+      "confidence": 0.9904187157669145
+    },
+    {
+      "type": "text",
+      "img_path": "p0400_001_text.png",
+      "bbox": [
+        [
+          223,
+          469
+        ],
+        [
+          2361,
+          469
+        ],
+        [
+          2361,
+          592
+        ],
+        [
+          223,
+          592
+        ]
+      ],
+      "score": 0.9556640982627869,
+      "y_pos": 469,
+      "text": "- Toàn yết, Ngô công, hai vị bằng nhau, nghiền nhỏ, mỗi lần uống từ 5 đến 8 phân, một ngày 2\nlần, <b>trị đau đầu lâu dài không khỏi</b>.",
+      "confidence": 0.8937318964841519
+    },
+    {
+      "type": "text",
+      "img_path": "p0400_000_text.png",
+      "bbox": [
+        [
+          223,
+          632
+        ],
+        [
+          2360,
+          632
+        ],
+        [
+          2360,
+          898
+        ],
+        [
+          223,
+          898
+        ]
+      ],
+      "score": 0.9762369394302368,
+      "y_pos": 632,
+      "text": "- Sinh xuyên ô, Thảo ô, Thục xuyên ô, mỗi thứ đều 1 đồng cân, Xuyên khung 1,5 đồng cân,\nBạch chỉ 3 đồng cân, Chích Cương tàm 3 đồng cân, Cam thảo 1 đồng cân, bỏ chung vào\nnghiền nhỏ, chia làm 9 gói, mỗi lần uống 1 gói, một ngày 3 lần, uống với nước chè, trị hàn\nchứng đầu đau dữ dội.",
+      "confidence": 0.9928995918148985
+    },
+    {
+      "type": "text",
+      "img_path": "p0400_004_text.png",
+      "bbox": [
+        [
+          228,
+          936
+        ],
+        [
+          2361,
+          936
+        ],
+        [
+          2361,
+          1059
+        ],
+        [
+          228,
+          1059
+        ]
+      ],
+      "score": 0.9461512565612793,
+      "y_pos": 936,
+      "text": "- Nhũ hương, Tỳ ma tử nhân, hai vị bằng nhau, giã nhỏ, làm thành bánh, dán vào chỗ huyệt\nThái dương, trị chứng góc đầu đau đớn.",
+      "confidence": 0.9912629309627745
+    },
+    {
+      "type": "text",
+      "img_path": "p0400_003_text.png",
+      "bbox": [
+        [
+          223,
+          1098
+        ],
+        [
+          2357,
+          1098
+        ],
+        [
+          2357,
+          1216
+        ],
+        [
+          223,
+          1216
+        ]
+      ],
+      "score": 0.9475926756858826,
+      "y_pos": 1098,
+      "text": "- Hạ khô thảo 1 lạng, sắc uống, trị can dương thượng cang, và bệnh cao huyết áp gây ra\nđau đầu.",
+      "confidence": 0.9960713421079246
+    },
+    {
+      "type": "number",
+      "img_path": "p0400_008_number.png",
+      "bbox": [
+        [
+          2306,
+          3335
+        ],
+        [
+          2357,
+          3335
+        ],
+        [
+          2357,
+          3369
+        ],
+        [
+          2306,
+          3369
+        ]
+      ],
+      "score": 0.8525416254997253,
+      "y_pos": 3335,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0400_007_footer.png",
+      "bbox": [
+        [
+          229,
+          3337
+        ],
+        [
+          1343,
+          3337
+        ],
+        [
+          1343,
+          3383
+        ],
+        [
+          229,
+          3383
+        ]
+      ],
+      "score": 0.9037972688674927,
+      "y_pos": 3337,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9302394480075477
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0400.png"
+}

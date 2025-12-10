@@ -1,0 +1,448 @@
+{
+  "page_num": 323,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0323_009_header.png",
+      "bbox": [
+        [
+          1608,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1608,
+          201
+        ]
+      ],
+      "score": 0.922854483127594,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7769746666862851
+    },
+    {
+      "type": "header",
+      "img_path": "p0323_011_header.png",
+      "bbox": [
+        [
+          230,
+          155
+        ],
+        [
+          944,
+          155
+        ],
+        [
+          944,
+          204
+        ],
+        [
+          230,
+          204
+        ]
+      ],
+      "score": 0.9166139364242554,
+      "y_pos": 155,
+      "text": "TANG PHỦ BIÊN CHỨNG LUÂN TRI",
+      "confidence": 0.8969598511854807
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0323_013_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          322
+        ],
+        [
+          757,
+          322
+        ],
+        [
+          757,
+          374
+        ],
+        [
+          225,
+          374
+        ]
+      ],
+      "score": 0.9122862219810486,
+      "y_pos": 322,
+      "text": "PHÉ VÀ ĐAI TRƯỜNG",
+      "confidence": 0.8268596059397647
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0323_015_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          418
+        ],
+        [
+          759,
+          418
+        ],
+        [
+          759,
+          471
+        ],
+        [
+          226,
+          471
+        ]
+      ],
+      "score": 0.8876147270202637,
+      "y_pos": 418,
+      "text": "A. Biện chứng luận trị",
+      "confidence": 0.944344145556291
+    },
+    {
+      "type": "text",
+      "img_path": "p0323_000_text.png",
+      "bbox": [
+        [
+          221,
+          506
+        ],
+        [
+          2361,
+          506
+        ],
+        [
+          2361,
+          843
+        ],
+        [
+          221,
+          843
+        ]
+      ],
+      "score": 0.9838361144065857,
+      "y_pos": 506,
+      "text": "Công năng sinh lý của phế chủ yếu là chủ khí, túc giáng<sup>(*)</sup>. Khi có biến hoá bệnh lý phần lớn là\ncó bệnh thuộc hệ thống hô hấp. Biểu hiện của thực chứng, hàn chứng có đờm trọc trở phế (**),\nphế hàn ho, suyễn; thực chứng, nhiệt chứng, có phế nhiệt ho, suyễn; thuộc hư chứng có phế\nkhí hư, phế âm hư, phế tỳ lưỡng hư, phế thận lưỡng hư. Bệnh của đại trường thường là thấp\nnhiêt.",
+      "confidence": 0.9948402386644346
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0323_010_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          883
+        ],
+        [
+          1187,
+          883
+        ],
+        [
+          1187,
+          938
+        ],
+        [
+          227,
+          938
+        ]
+      ],
+      "score": 0.918631374835968,
+      "y_pos": 883,
+      "text": "1. Đàm trọc trở phế (đàm ẩm phạm phế)",
+      "confidence": 0.9974700426444029
+    },
+    {
+      "type": "text",
+      "img_path": "p0323_006_text.png",
+      "bbox": [
+        [
+          285,
+          975
+        ],
+        [
+          2359,
+          975
+        ],
+        [
+          2359,
+          1173
+        ],
+        [
+          285,
+          1173
+        ]
+      ],
+      "score": 0.9742787480354309,
+      "y_pos": 975,
+      "text": "a. Triệu chứng: Ho, hen, trong hầu có tiếng đờm, đờm dẻo mà nhiều; ngực, sườn buồn tức\nđau đớn, không thể nằm ngửa, rêu lưỡi đục trơn, mạch hoạt. Nếu kiêm hàn sẽ thấy đờm\ntrong và nhiều, mạch chứng phế hàn; nếu kiêm nhiệt sẽ thấy mạch chứng phế nhiệt.",
+      "confidence": 0.9984904652175466
+    },
+    {
+      "type": "text",
+      "img_path": "p0323_002_text.png",
+      "bbox": [
+        [
+          284,
+          1209
+        ],
+        [
+          2359,
+          1209
+        ],
+        [
+          2359,
+          1548
+        ],
+        [
+          284,
+          1548
+        ]
+      ],
+      "score": 0.9831656217575073,
+      "y_pos": 1209,
+      "text": "b. Bệnh lý: Đàm trọc trở phế, phế khí bất túc sinh ra khí suyễn, đờm dính đều mà nhiều,\nngực sườn đầy tức, đau đớn, không thể nằm ngửa. Rêu lưỡi đục, trơn, mạch hoạt là đàm\nchứng. Nếu kiêm phế hàn thì đờm trong mà nhiều bóng bọt, lưỡi nhạt, rêu trơn, mạch\nhoãn hoạt, nếu kiệm nhiệt thì đờm nhiều, vàng đều, hoặc kiệm phát sốt, lưỡi hồng, rêu\nvàng, mạch hoạt sác (trơn, nhanh).",
+      "confidence": 0.9905201591164863
+    },
+    {
+      "type": "text",
+      "img_path": "p0323_004_text.png",
+      "bbox": [
+        [
+          286,
+          1585
+        ],
+        [
+          2360,
+          1585
+        ],
+        [
+          2360,
+          1780
+        ],
+        [
+          286,
+          1780
+        ]
+      ],
+      "score": 0.9746837615966797,
+      "y_pos": 1585,
+      "text": "c. Phép chữa: Nên tả phế, trục đàm thường dùng Đình lịch đại táo tả phế thang, hoặc Tam\ntử bình suyễn thang (ngày xưa gọi là <i>Tam tử dưỡng tân thang</i>) gia giảm, và nên xem bệnh\nkiêm hàn hay nhiệt để gia giảm.",
+      "confidence": 0.9599647034264466
+    },
+    {
+      "type": "text",
+      "img_path": "p0323_007_text.png",
+      "bbox": [
+        [
+          330,
+          1817
+        ],
+        [
+          2360,
+          1817
+        ],
+        [
+          2360,
+          2015
+        ],
+        [
+          330,
+          2015
+        ]
+      ],
+      "score": 0.9672932624816895,
+      "y_pos": 1817,
+      "text": "Hen do viêm phế quản mạn, phổi ướt, lao, viêm màng phổi, tràn dịch màng phổi đều thuộc\nđàm trọc trở phế, có thể dùng cách trên để chữa. Giãn phế quản cũng thuộc đàm trọc trở\nphế, song phải gia thêm <i>Tang bạch bì, Bách bộ, Bạch cập, Qua lâu, Tử uyển</i>.",
+      "confidence": 0.9962574877394847
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0323_014_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          2050
+        ],
+        [
+          1846,
+          2050
+        ],
+        [
+          1846,
+          2104
+        ],
+        [
+          224,
+          2104
+        ]
+      ],
+      "score": 0.9075097441673279,
+      "y_pos": 2050,
+      "text": "2. Phế hàn khái suyễn (phong hàn thúc phế: phế bị gió lạnh làm ho)",
+      "confidence": 0.9572394174688003
+    },
+    {
+      "type": "text",
+      "img_path": "p0323_003_text.png",
+      "bbox": [
+        [
+          285,
+          2144
+        ],
+        [
+          2357,
+          2144
+        ],
+        [
+          2357,
+          2340
+        ],
+        [
+          285,
+          2340
+        ]
+      ],
+      "score": 0.9762292504310608,
+      "y_pos": 2144,
+      "text": "a. Triệu chứng: Ho dồn dập, mạnh, thở gấp, đờm dính trắng mà nhiều, hoặc đờm lỏng, dễ\nbong, nặng thì ho hen tức ngực không thể nằm ngửa, hoặc có sốt, sợ gió, rêu lưỡi trắng\nnhạt, mạch phù khẩn hoặc khẩn (nổi, căng to).",
+      "confidence": 0.9941089086642224
+    },
+    {
+      "type": "text",
+      "img_path": "p0323_005_text.png",
+      "bbox": [
+        [
+          285,
+          2377
+        ],
+        [
+          2360,
+          2377
+        ],
+        [
+          2360,
+          2572
+        ],
+        [
+          285,
+          2572
+        ]
+      ],
+      "score": 0.9743862152099609,
+      "y_pos": 2377,
+      "text": "b. Bệnh lý: Phế có hàn tà hoặc hàn đàm thì phế khí không túc giáng, làm cho ho có nhiều\nđờm, nặng thì tức ngực, hen gấp, không thể nằm ngửa. Nếu do hàn tà gây bệnh thì phát\nsốt, sợ lạnh. Rêu lưỡi trắng nhạt, mạch khẩn là mạch tượng và hình lưỡi của hàn chứng.",
+      "confidence": 0.9194541953547093
+    },
+    {
+      "type": "text",
+      "img_path": "p0323_001_text.png",
+      "bbox": [
+        [
+          285,
+          2609
+        ],
+        [
+          2359,
+          2609
+        ],
+        [
+          2359,
+          3017
+        ],
+        [
+          285,
+          3017
+        ]
+      ],
+      "score": 0.9835260510444641,
+      "y_pos": 2609,
+      "text": "c. Phép chữa: Nên ôn phế, khử hàn, trục đàm, dùng Tiểu thanh long thang. Viêm phế quản\ncấp, mạn, hen do viêm phế quản, hen phế quản thuộc hàn tà gây bệnh đều có thể dùng\nTiểu thanh long thang mà chữa. Nếu phổi ướt thuộc về hàn đàm nội trở lại lấy đờm nhiều\nlàm chứng chính, nên dùng Linh quế truật cam thang gia giảm. Nếu hen suyễn làm chứng\nchính, dùng <i>Tiểu thanh long thang</i> hoặc <i>Tam ảo thang</i> gia <i>Địa long, Bán hạ</i> để trừ đờm\nđịnh suyễn.",
+      "confidence": 0.9949397956282834
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0323_008_footnote.png",
+      "bbox": [
+        [
+          227,
+          3128
+        ],
+        [
+          794,
+          3128
+        ],
+        [
+          794,
+          3209
+        ],
+        [
+          227,
+          3209
+        ]
+      ],
+      "score": 0.9257816076278687,
+      "y_pos": 3128,
+      "text": "(*) Túc giáng: Đưa xuống nghiêm chỉnh.\n(**) Trở phế: Vướng ở phế.",
+      "confidence": 0.806623329435076
+    },
+    {
+      "type": "footer",
+      "img_path": "p0323_012_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9138672947883606,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0323_016_number.png",
+      "bbox": [
+        [
+          2304,
+          3337
+        ],
+        [
+          2354,
+          3337
+        ],
+        [
+          2354,
+          3373
+        ],
+        [
+          2304,
+          3373
+        ]
+      ],
+      "score": 0.8583218455314636,
+      "y_pos": 3337,
+      "text": "    \n    \n    \n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0323.png"
+}

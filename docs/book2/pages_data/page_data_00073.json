@@ -1,0 +1,344 @@
+{
+  "page_num": 73,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0073_006_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9223015308380127,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7254179112967991
+    },
+    {
+      "type": "header",
+      "img_path": "p0073_010_header.png",
+      "bbox": [
+        [
+          231,
+          159
+        ],
+        [
+          442,
+          159
+        ],
+        [
+          442,
+          202
+        ],
+        [
+          231,
+          202
+        ]
+      ],
+      "score": 0.8933543562889099,
+      "y_pos": 159,
+      "text": "KINH LAC",
+      "confidence": 0.6733895421028138
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0073_012_paragraph_title.png",
+      "bbox": [
+        [
+          1134,
+          319
+        ],
+        [
+          1455,
+          319
+        ],
+        [
+          1455,
+          390
+        ],
+        [
+          1134,
+          390
+        ]
+      ],
+      "score": 0.7372746467590332,
+      "y_pos": 319,
+      "text": "KINH LAC",
+      "confidence": 0.7010168552398681
+    },
+    {
+      "type": "text",
+      "img_path": "p0073_002_text.png",
+      "bbox": [
+        [
+          220,
+          520
+        ],
+        [
+          2358,
+          520
+        ],
+        [
+          2358,
+          873
+        ],
+        [
+          220,
+          873
+        ]
+      ],
+      "score": 0.9805254340171814,
+      "y_pos": 520,
+      "text": "Học thuyết Kinh lạc là một bộ phận trọng yếu trong lý luận cơ bản của y học phương đông. Nó\nvà Âm Dương, Tạng tượng, Vệ - Khí - Doanh - Huyết, gộp lại hình thành hệ thống lý luận của\nĐông y. Thông qua các mặt nguyên nhân bệnh, bệnh lý, chẩn đoán và trị liệu, bất luận là nội,\nngoại, châm cứu, đều cần nắm vững lý luận kinh lạc, chỉ có như thế mới phát huy tác dụng to\nlớn trên lâm sàng.",
+      "confidence": 0.9959560910124274
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0073_009_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          906
+        ],
+        [
+          807,
+          906
+        ],
+        [
+          807,
+          952
+        ],
+        [
+          224,
+          952
+        ]
+      ],
+      "score": 0.8951026201248169,
+      "y_pos": 906,
+      "text": "ĐAI CƯƠNG VỀ KINH LAC",
+      "confidence": 0.9129142217014147
+    },
+    {
+      "type": "text",
+      "img_path": "p0073_000_text.png",
+      "bbox": [
+        [
+          276,
+          997
+        ],
+        [
+          2358,
+          997
+        ],
+        [
+          2358,
+          1731
+        ],
+        [
+          276,
+          1731
+        ]
+      ],
+      "score": 0.9871337413787842,
+      "y_pos": 997,
+      "text": "Nói giản đơn về kinh lạc là: Trên thân mình người ta, cứ một tạng phủ bên trong và bề mặt\nbên ngoài có mối quan hệ \"thông lạc\". Nói cụ thể hơn thì kinh là một đường dây chăng, mỗi\nmột tạng phủ đều có một đường kinh riêng của nó. Nói chung là nó đan dọc trên dưới, thông\nđạt trong ngoài, mà có đường tuần hành nhất định (theo một đường nhất định mà đi gọi là\ntuần hành), mỗi một kinh lại phân bố một số huyệt vị. Lạc là do ở đường kinh có phân bố ra\nrất nhiều chi nhỏ, số lớn là lưới ngang không mấy chỗ là không có thông, giống như một cái\nlưới bao bọc lấy toàn thân, làm cho kinh này với kinh khác có quan hệ với nhau. Do vậy kinh\nlạc ở trong ngoài, trên dưới, phải trái, trước sau của cơ thể có quan hệ tương hỗ chung, làm\ncho tạng phủ trong cơ thể và các tổ chức khí quan các nơi ngoài cơ thể có cùng một quan\nhệ, duy trì các hoạt động sống được thống nhất và điều hòa. Bảng 3.",
+      "confidence": 0.9994410809448275
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0073_007_figure_title.png",
+      "bbox": [
+        [
+          978,
+          1758
+        ],
+        [
+          1613,
+          1758
+        ],
+        [
+          1613,
+          1803
+        ],
+        [
+          978,
+          1803
+        ]
+      ],
+      "score": 0.8997815847396851,
+      "y_pos": 1758,
+      "text": "<b>Bảng 3</b> - Phân biệt kinh và lac",
+      "confidence": 0.9680521365474252
+    },
+    {
+      "type": "table",
+      "img_path": "p0073_003_table.png",
+      "bbox": [
+        [
+          426,
+          1829
+        ],
+        [
+          2167,
+          1829
+        ],
+        [
+          2167,
+          2074
+        ],
+        [
+          426,
+          2074
+        ]
+      ],
+      "score": 0.9733138680458069,
+      "y_pos": 1829,
+      "text": "Phân Ioai    Tuần hành    Nơi đi    Số lượng\nKinh mach    dọc cơ thế    ở sâu\nLac mach    ngang cơ thế    ở nông    nhiều",
+      "confidence": 0.9458920848271078
+    },
+    {
+      "type": "text",
+      "img_path": "p0073_005_text.png",
+      "bbox": [
+        [
+          279,
+          2113
+        ],
+        [
+          2357,
+          2113
+        ],
+        [
+          2357,
+          2243
+        ],
+        [
+          279,
+          2243
+        ]
+      ],
+      "score": 0.9528540372848511,
+      "y_pos": 2113,
+      "text": "Về hình tượng mà nói, kinh lạc hầu như có liên quan đến mọi nơi của cơ thể, do đó cũng có\ntác dụng hai mặt:",
+      "confidence": 0.9972495921537874
+    },
+    {
+      "type": "text",
+      "img_path": "p0073_004_text.png",
+      "bbox": [
+        [
+          279,
+          2283
+        ],
+        [
+          2358,
+          2283
+        ],
+        [
+          2358,
+          2490
+        ],
+        [
+          279,
+          2490
+        ]
+      ],
+      "score": 0.9685397744178772,
+      "y_pos": 2283,
+      "text": "Một là có tác dụng giúp \"vận hành khí huyết\", sức hoạt động công năng của con người như\ngiơ tay cầm nắm các vật, óc suy nghĩ vấn đề, chủ yếu là dựa vào khí huyết đưa đẩy. \"Khí\nhuyết\" có thể đưa đẩy đều đặn đến toàn thân là thông qua đường kinh lạc chuyển đạt.",
+      "confidence": 0.9988233496765124
+    },
+    {
+      "type": "text",
+      "img_path": "p0073_001_text.png",
+      "bbox": [
+        [
+          278,
+          2524
+        ],
+        [
+          2358,
+          2524
+        ],
+        [
+          2358,
+          3149
+        ],
+        [
+          278,
+          3149
+        ]
+      ],
+      "score": 0.986374020576477,
+      "y_pos": 2524,
+      "text": "Mặt nữa là có tác dụng làm \"chuyển biến tật bệnh\". Do kinh lạc là nơi thông suốt giữa tạng\nphủ bên trong cơ thể và bề mặt bên ngoài của con người gọi là \"thông lạc\", cho nên không\nnhững nó đem những bệnh tật bên ngoài chuyển dần vào trong, như bên ngoài bị lạnh có\nthể dẫn đến ho hắng và đau bụng, lại còn đem những bệnh biến của tạng phủ phản ảnh lên\nbề mặt ngoài cơ thể. Ở những nơi đường kinh thuộc tạng phủ đó tuần hành có xuất hiện\nchứng trạng, có thể theo đó chẩn đoán bệnh ở kinh nào, tạng nào, phủ nào. Phép chữa bệnh\nbằng châm cứu cũng căn cứ vào quan hệ của kinh lạc, theo nội tạng và huyệt vị hữu quan\nmới đạt đến mục đích chữa khỏi bệnh. Ví dụ: Châm huyệt <i>Túc tam lý</i> ở chân có thể chữa\nđau dạ dày vì huyệt <i>Túc tam lý</i> ở trên kinh mạch túc dương minh vị, kinh mạch này đi từ đầu,",
+      "confidence": 0.9929327866769353
+    },
+    {
+      "type": "footer",
+      "img_path": "p0073_008_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.8966032266616821,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985454925950968
+    },
+    {
+      "type": "number",
+      "img_path": "p0073_011_number.png",
+      "bbox": [
+        [
+          2335,
+          3339
+        ],
+        [
+          2353,
+          3339
+        ],
+        [
+          2353,
+          3373
+        ],
+        [
+          2335,
+          3373
+        ]
+      ],
+      "score": 0.7788463830947876,
+      "y_pos": 3339,
+      "text": "\n\n    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0073.png"
+}

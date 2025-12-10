@@ -1,0 +1,474 @@
+{
+  "page_num": 286,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0286_000_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9242163300514221,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7643314777385621
+    },
+    {
+      "type": "header",
+      "img_path": "p0286_002_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          905,
+          156
+        ],
+        [
+          905,
+          203
+        ],
+        [
+          228,
+          203
+        ]
+      ],
+      "score": 0.9097051620483398,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9866287461642561
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0286_003_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          349
+        ],
+        [
+          596,
+          349
+        ],
+        [
+          596,
+          401
+        ],
+        [
+          227,
+          401
+        ]
+      ],
+      "score": 0.8932798504829407,
+      "y_pos": 349,
+      "text": "392. Bát phong",
+      "confidence": 0.9644143208861351
+    },
+    {
+      "type": "text",
+      "img_path": "p0286_007_text.png",
+      "bbox": [
+        [
+          283,
+          439
+        ],
+        [
+          2365,
+          439
+        ],
+        [
+          2365,
+          568
+        ],
+        [
+          283,
+          568
+        ]
+      ],
+      "score": 0.8376643061637878,
+      "y_pos": 439,
+      "text": "Vị trí: Ở khe nối giữa 5 ngón chân, cả 2 chân là 8 huyệt (trong đó bao gồm cả 3 huyệt: <i>Nội</i>\nđình, Hành gian, Hiệp khê). (H.141)",
+      "confidence": 0.9792514330160693
+    },
+    {
+      "type": "text",
+      "img_path": "p0286_011_text.png",
+      "bbox": [
+        [
+          285,
+          601
+        ],
+        [
+          2035,
+          601
+        ],
+        [
+          2035,
+          656
+        ],
+        [
+          285,
+          656
+        ]
+      ],
+      "score": 0.7682741284370422,
+      "y_pos": 601,
+      "text": "Cách châm: Châm chếch kim, sâu 0,5 - 1 thốn. Cứu 3 - 5 mồi, hơ 5 - 10 phút.",
+      "confidence": 0.7124301551224349
+    },
+    {
+      "type": "text",
+      "img_path": "p0286_006_text.png",
+      "bbox": [
+        [
+          282,
+          693
+        ],
+        [
+          2359,
+          693
+        ],
+        [
+          2359,
+          817
+        ],
+        [
+          282,
+          817
+        ]
+      ],
+      "score": 0.8580219745635986,
+      "y_pos": 693,
+      "text": "Chủ trị: Đau đầu, đau răng, đau dạ dày, kinh nguyệt không đều, sốt rét, rắn cắn, ngón chân\nvà bàn chân sung đỏ, viêm bì thần kinh.",
+      "confidence": 0.9897811468670881
+    },
+    {
+      "type": "text",
+      "img_path": "p0286_015_text.png",
+      "bbox": [
+        [
+          286,
+          857
+        ],
+        [
+          2067,
+          857
+        ],
+        [
+          2067,
+          913
+        ],
+        [
+          286,
+          913
+        ]
+      ],
+      "score": 0.7104530930519104,
+      "y_pos": 857,
+      "text": "<i>Tác dụng phối hợp:</i> Với <i>Lăng hậu</i>, <i>Túc tam lý</i> trị chi dưới và ngón chân tê dại.",
+      "confidence": 0.9886371633585762
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0286_016_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          948
+        ],
+        [
+          816,
+          948
+        ],
+        [
+          816,
+          1003
+        ],
+        [
+          228,
+          1003
+        ]
+      ],
+      "score": 0.6766518950462341,
+      "y_pos": 948,
+      "text": "393. Thượng bát phong.",
+      "confidence": 0.99861029535532
+    },
+    {
+      "type": "text",
+      "img_path": "p0286_010_text.png",
+      "bbox": [
+        [
+          284,
+          1040
+        ],
+        [
+          2358,
+          1040
+        ],
+        [
+          2358,
+          1168
+        ],
+        [
+          284,
+          1168
+        ]
+      ],
+      "score": 0.7690789103507996,
+      "y_pos": 1040,
+      "text": "Vị trí: Ở khe xương bàn chân phía sau khớp bàn ngón, cả hai bên từ khe 1-2 đến 2-3, 3-4,\n4-5 là 8 huyệt (trong đó bao gồm cả 3 huyệt: Thái xung, Hãm cốc và Địa ngũ hội). (H.141)",
+      "confidence": 0.9972871541976929
+    },
+    {
+      "type": "text",
+      "img_path": "p0286_013_text.png",
+      "bbox": [
+        [
+          285,
+          1201
+        ],
+        [
+          2002,
+          1201
+        ],
+        [
+          2002,
+          1255
+        ],
+        [
+          285,
+          1255
+        ]
+      ],
+      "score": 0.746446430683136,
+      "y_pos": 1201,
+      "text": "Cách châm: Châm đứng kim, sâu 0,5 - 1 thốn. Cứu 3 - 5 mồi, hơ 5 - 15 phút.",
+      "confidence": 0.7264209907305869
+    },
+    {
+      "type": "text",
+      "img_path": "p0286_012_text.png",
+      "bbox": [
+        [
+          288,
+          1296
+        ],
+        [
+          836,
+          1296
+        ],
+        [
+          836,
+          1347
+        ],
+        [
+          288,
+          1347
+        ]
+      ],
+      "score": 0.7524409890174866,
+      "y_pos": 1296,
+      "text": "Chủ trị: như Bát phong.",
+      "confidence": 0.6365150380134582
+    },
+    {
+      "type": "text",
+      "img_path": "p0286_014_text.png",
+      "bbox": [
+        [
+          286,
+          1385
+        ],
+        [
+          2103,
+          1385
+        ],
+        [
+          2103,
+          1443
+        ],
+        [
+          286,
+          1443
+        ]
+      ],
+      "score": 0.7387319207191467,
+      "y_pos": 1385,
+      "text": "<i>Tác dụng phối hợp:</i> Với <i>Túc tam lý</i>, <i>Dương lăng tuyền</i> trị mu bàn chân sưng đỏ.",
+      "confidence": 0.9925919824412891
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0286_008_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          1477
+        ],
+        [
+          532,
+          1477
+        ],
+        [
+          532,
+          1529
+        ],
+        [
+          228,
+          1529
+        ]
+      ],
+      "score": 0.823338508605957,
+      "y_pos": 1477,
+      "text": "394. Độc âm",
+      "confidence": 0.8854515094023484
+    },
+    {
+      "type": "text",
+      "img_path": "p0286_009_text.png",
+      "bbox": [
+        [
+          289,
+          1567
+        ],
+        [
+          2247,
+          1567
+        ],
+        [
+          2247,
+          1625
+        ],
+        [
+          289,
+          1625
+        ]
+      ],
+      "score": 0.7904044389724731,
+      "y_pos": 1567,
+      "text": "Vị trí: Dưới gầm ngón 2 chân, giữa nếp gấp ngang nối 2 đốt của bàn chân phải.(H.138)",
+      "confidence": 0.9947138629680456
+    },
+    {
+      "type": "text",
+      "img_path": "p0286_017_text.png",
+      "bbox": [
+        [
+          288,
+          1660
+        ],
+        [
+          904,
+          1660
+        ],
+        [
+          904,
+          1712
+        ],
+        [
+          288,
+          1712
+        ]
+      ],
+      "score": 0.6119663119316101,
+      "y_pos": 1660,
+      "text": "Cách châm: Cứu 3 - 5 mồi",
+      "confidence": 0.8295811850291032
+    },
+    {
+      "type": "text",
+      "img_path": "p0286_004_text.png",
+      "bbox": [
+        [
+          282,
+          1751
+        ],
+        [
+          2359,
+          1751
+        ],
+        [
+          2359,
+          1879
+        ],
+        [
+          282,
+          1879
+        ]
+      ],
+      "score": 0.8874262571334839,
+      "y_pos": 1751,
+      "text": "Chủ trị: Tự nhiên đau bụng, đẻ xong sót nhau (có tác dụng làm tự bong chỗ nhau hoặc\nmàng nhau ra, không phải nạo).",
+      "confidence": 0.9891193166156025
+    },
+    {
+      "type": "footer",
+      "img_path": "p0286_001_footer.png",
+      "bbox": [
+        [
+          231,
+          3334
+        ],
+        [
+          1437,
+          3334
+        ],
+        [
+          1437,
+          3387
+        ],
+        [
+          231,
+          3387
+        ]
+      ],
+      "score": 0.910065233707428,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9464619991914281
+    },
+    {
+      "type": "number",
+      "img_path": "p0286_005_number.png",
+      "bbox": [
+        [
+          2279,
+          3337
+        ],
+        [
+          2350,
+          3337
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2279,
+          3377
+        ]
+      ],
+      "score": 0.8767381906509399,
+      "y_pos": 3337,
+      "text": "    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0286.png"
+}

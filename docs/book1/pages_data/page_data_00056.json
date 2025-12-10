@@ -1,0 +1,396 @@
+{
+  "page_num": 56,
+  "content": [
+    {
+      "type": "paragraph_title",
+      "img_path": "p0056_008_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          449
+        ],
+        [
+          1018,
+          449
+        ],
+        [
+          1018,
+          500
+        ],
+        [
+          345,
+          500
+        ]
+      ],
+      "score": 0.9061997532844543,
+      "y_pos": 449,
+      "text": "5.2.2.4. Nhiệt kết Trường phủ",
+      "confidence": 0.9748046801936242
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_011_text.png",
+      "bbox": [
+        [
+          463,
+          545
+        ],
+        [
+          1131,
+          545
+        ],
+        [
+          1131,
+          595
+        ],
+        [
+          463,
+          595
+        ]
+      ],
+      "score": 0.8206045031547546,
+      "y_pos": 545,
+      "text": "Có 2 thể lâm sàng khác nhau",
+      "confidence": 0.9932479385671944
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_012_text.png",
+      "bbox": [
+        [
+          462,
+          628
+        ],
+        [
+          950,
+          628
+        ],
+        [
+          950,
+          679
+        ],
+        [
+          462,
+          679
+        ]
+      ],
+      "score": 0.8180626034736633,
+      "y_pos": 628,
+      "text": "a. Trường táo tiện bế",
+      "confidence": 0.9726521865181301
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_002_text.png",
+      "bbox": [
+        [
+          407,
+          710
+        ],
+        [
+          2121,
+          710
+        ],
+        [
+          2121,
+          819
+        ],
+        [
+          407,
+          819
+        ]
+      ],
+      "score": 0.9616221785545349,
+      "y_pos": 710,
+      "text": "- Triệu chứng: cầu táo bón, triều nhiệt, ra mồ hôi, bụng đau sợ ấn, tiểu đỏ,\nlưỡi khô, mach trầm thực.",
+      "confidence": 0.9802727306160832
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_007_text.png",
+      "bbox": [
+        [
+          407,
+          854
+        ],
+        [
+          1744,
+          854
+        ],
+        [
+          1744,
+          904
+        ],
+        [
+          407,
+          904
+        ]
+      ],
+      "score": 0.9186660647392273,
+      "y_pos": 854,
+      "text": "- Pháp trị: nhuận táo thông tiện (Điều Vị thừa khí thang).",
+      "confidence": 0.6391259809335073
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_013_text.png",
+      "bbox": [
+        [
+          469,
+          938
+        ],
+        [
+          1208,
+          938
+        ],
+        [
+          1208,
+          987
+        ],
+        [
+          469,
+          987
+        ]
+      ],
+      "score": 0.704565167427063,
+      "y_pos": 938,
+      "text": "+ Phân tích bài thuốc (Pháp hạ)",
+      "confidence": 0.9576306740442911
+    },
+    {
+      "type": "table",
+      "img_path": "p0056_001_table.png",
+      "bbox": [
+        [
+          353,
+          1045
+        ],
+        [
+          2124,
+          1045
+        ],
+        [
+          2124,
+          1537
+        ],
+        [
+          353,
+          1537
+        ]
+      ],
+      "score": 0.9882402420043945,
+      "y_pos": 1045,
+      "text": "Vị thuốc    Dươc lý Đông y\nĐại hoàng    Đắng, lạnh. Vào Tỳ, Vị, Đại trường, Can, Tâm bào. Hạ tích trệ trường vị, tả\nthực nhiệt huyết phân\nMang tiêu    Mặn, lạnh. Vào Đại trường, Tam tiêu. Thông đại tiện, nhuyễn kiên, tán kết.\nChỉ thực    Đắng, hàn. Vào Tỳ Vi. Phá kết, tiêu tích trê, hóa đờm trừ bĩ.\nHậu phác    Cay, đắng ấm. Vào Tỳ, Vị, Đại trường. Hành khí, hóa đờm trừ nôn mửa.",
+      "confidence": 0.9007162717527364
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0056_014_figure_title.png",
+      "bbox": [
+        [
+          464,
+          1623
+        ],
+        [
+          1098,
+          1623
+        ],
+        [
+          1098,
+          1675
+        ],
+        [
+          464,
+          1675
+        ]
+      ],
+      "score": 0.6787588596343994,
+      "y_pos": 1623,
+      "text": "+ Công thức huyệt sử dụng",
+      "confidence": 0.9977158683317678
+    },
+    {
+      "type": "table",
+      "img_path": "p0056_000_table.png",
+      "bbox": [
+        [
+          351,
+          1722
+        ],
+        [
+          2124,
+          1722
+        ],
+        [
+          2124,
+          2226
+        ],
+        [
+          351,
+          2226
+        ]
+      ],
+      "score": 0.9893336892127991,
+      "y_pos": 1722,
+      "text": "Tên huyệt    Cơ sở lý luận    Tác dụng điều trị\nThiên khu    Mô huyệt của Đại trường    Ha tích trê trường vi\nChi câu    Kinh hỏa huyệt của Tam tiêu. Có tác dụng tán ứ kết,    Tri táo bón\nthông trường vi\nKhúc trì    Phối hợp Khúc trì, Đại chùy, Hợp cốc là kinh nghiệm    Ha sốt\nHợp cốc    để trị cảm sốt",
+      "confidence": 0.9500424044856098
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0056_010_paragraph_title.png",
+      "bbox": [
+        [
+          462,
+          2316
+        ],
+        [
+          951,
+          2316
+        ],
+        [
+          951,
+          2366
+        ],
+        [
+          462,
+          2366
+        ]
+      ],
+      "score": 0.8220791816711426,
+      "y_pos": 2316,
+      "text": "b. Trường nhiệt hạ ly",
+      "confidence": 0.9051046708355779
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_003_text.png",
+      "bbox": [
+        [
+          406,
+          2398
+        ],
+        [
+          2121,
+          2398
+        ],
+        [
+          2121,
+          2505
+        ],
+        [
+          406,
+          2505
+        ]
+      ],
+      "score": 0.9536908864974976,
+      "y_pos": 2398,
+      "text": "- Triệu chứng: tả ly nhiều lần, hậu môn nóng rát, mạch sác, miệng khát,\nrêu vàng khô.",
+      "confidence": 0.9957847155120274
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_005_text.png",
+      "bbox": [
+        [
+          407,
+          2539
+        ],
+        [
+          1678,
+          2539
+        ],
+        [
+          1678,
+          2588
+        ],
+        [
+          407,
+          2588
+        ]
+      ],
+      "score": 0.9210226535797119,
+      "y_pos": 2539,
+      "text": "- Pháp tri: tiết nhiệt sinh tân (Cát căn cầm liên thang).",
+      "confidence": 0.5692399639194294
+    },
+    {
+      "type": "text",
+      "img_path": "p0056_004_text.png",
+      "bbox": [
+        [
+          464,
+          2623
+        ],
+        [
+          1301,
+          2623
+        ],
+        [
+          1301,
+          2671
+        ],
+        [
+          464,
+          2671
+        ]
+      ],
+      "score": 0.9226157665252686,
+      "y_pos": 2623,
+      "text": "+ Phân tích bài thuốc: (Pháp thanh)",
+      "confidence": 0.9608149786253233
+    },
+    {
+      "type": "number",
+      "img_path": "p0056_009_number.png",
+      "bbox": [
+        [
+          2070,
+          3111
+        ],
+        [
+          2120,
+          3111
+        ],
+        [
+          2120,
+          3147
+        ],
+        [
+          2070,
+          3147
+        ]
+      ],
+      "score": 0.8633802533149719,
+      "y_pos": 3111,
+      "text": "        \n    \n•\n    \n    \n    \n    \n\n    \n    \n.    .    •",
+      "confidence": 0.8947987779974937
+    },
+    {
+      "type": "footer",
+      "img_path": "p0056_006_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.9195187091827393,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8789173466818673
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0056.png"
+}

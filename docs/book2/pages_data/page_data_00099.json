@@ -1,0 +1,214 @@
+{
+  "page_num": 99,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0099_003_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9164996147155762,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7643314777385621
+    },
+    {
+      "type": "header",
+      "img_path": "p0099_006_header.png",
+      "bbox": [
+        [
+          230,
+          159
+        ],
+        [
+          453,
+          159
+        ],
+        [
+          453,
+          201
+        ],
+        [
+          230,
+          201
+        ]
+      ],
+      "score": 0.8916161060333252,
+      "y_pos": 159,
+      "text": "DU HUYET",
+      "confidence": 0.6226022601127624
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_002_text.png",
+      "bbox": [
+        [
+          280,
+          344
+        ],
+        [
+          2359,
+          344
+        ],
+        [
+          2359,
+          466
+        ],
+        [
+          280,
+          466
+        ]
+      ],
+      "score": 0.9605453610420227,
+      "y_pos": 344,
+      "text": "Những cách đo này rất đơn giản nhưng không chuẩn xác khi đo trên các đoạn xương, vì vậy\ntren các đoạn xương phải có cách đo riêng gọi là cốt độ pháp (phép đo ở xương).",
+      "confidence": 0.9997232783674153
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_001_text.png",
+      "bbox": [
+        [
+          227,
+          494
+        ],
+        [
+          2358,
+          494
+        ],
+        [
+          2358,
+          798
+        ],
+        [
+          227,
+          798
+        ]
+      ],
+      "score": 0.9793612360954285,
+      "y_pos": 494,
+      "text": "C. Cách chia thốn theo độ dài xương. Cách chia thốn theo độ dài xương còn gọi là cốt độ pháp,\ncách này lấy khoảng cách giữa các bộ phận trong cơ thể qui định thành độ dài hoặc độ rộng\nnhất định rồi chia thành một số phần nào đó, mỗi phần như thế gọi là một thốn. Phương\npháp này bất luận người bệnh là trai, gái, trẻ, già, hoặc cao, thấp, gầy, béo, nhất loạt chiểu\ntheo tiêu chuẩn này mà chia ra lấy huyệt, như thế sẽ rất chính xác. Bảng 4. (H.23)",
+      "confidence": 0.9995257398324581
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0099_004_figure_title.png",
+      "bbox": [
+        [
+          821,
+          850
+        ],
+        [
+          1764,
+          850
+        ],
+        [
+          1764,
+          899
+        ],
+        [
+          821,
+          899
+        ]
+      ],
+      "score": 0.9132807850837708,
+      "y_pos": 850,
+      "text": "Bảng 4 – Cách chia thốn cốt độ thường dùng",
+      "confidence": 0.6166784993626855
+    },
+    {
+      "type": "table",
+      "img_path": "p0099_000_table.png",
+      "bbox": [
+        [
+          278,
+          951
+        ],
+        [
+          2313,
+          951
+        ],
+        [
+          2313,
+          3100
+        ],
+        [
+          278,
+          3100
+        ]
+      ],
+      "score": 0.9925468564033508,
+      "y_pos": 951,
+      "text": "Bộ phận    Từ a đến b    Số thốn    Chú thích\nỞ đầu    Từ mép tóc trước trán đến    12    Nếu mép tóc trước không rõ ràng có thể lấy\nmép tóc sau gáy    từ giữa lông mày đến mép tóc sau gáy làm\n15 thốn\nTừ mép tóc trước đến giữa    3\nlông mày (Ấn đường)\nTừ mép tóc sau gáy đến    3    Nếu mép tóc sau gáy không rõ ràng thì lấy\nđốt cố 7    mép tóc trước đến đốt cổ 7 là 15 thốn.\nBề rộng giữa 2 góc tóc    9    Từ giữa lông mày đến đốt cổ 7 là 18 thốn\ntrước trán trên lông mày\nở ngực    Khoảng cách giữa hai đầu    8    O' ngực bụng khi chia bề ngang để lấy\nbụng    ۷Ú    huyệt, căn cứ vào khoảng cách giữa hai đầu\nvú. Khi chia chiều dọc, nhất thiết lấy khoảng\ncách các xương sườn làm chuẩn\nTừ lõm dưới xương ức đến    8\nrôn\nTừ giữa rốn đến vờ trên    5\nxương mu\nTừ nếp gấp hố nách đến\nsườn 11\nlưng    Từ cạnh trong xương bả    3    Chiếu dọc của lưng theo khoảng cách các\nvai đến giữa cột sống    đốt sống làm căn cứ lấy huyệt\nChi trên    Từ nếp gấp nách đến nếp    9    Theo cạnh trong cánh tay.\ngấp khuỷu tay\nTừ nếp gấp khuỷ tay đến    12    Dung cho cả hai cạnh trong và ngoài cắng\nnếp gấp cổ tay    tay\nChi dưới    Từ mấu chuyển lớn đến    19    Dùng chung cho cả 3 cạnh trước, ngoài, sau\nđầu gối xương đùi    của chi dưới\nTừ đầu gối đến mắt cá    16\nngoài\nTừ bờ trên xương mu đên    18    Dùng chung cho cạnh trong chi dưới\nbờ trên xương đùi chỗ đầu\ngôi",
+      "confidence": 0.9611001602875416
+    },
+    {
+      "type": "footer",
+      "img_path": "p0099_005_footer.png",
+      "bbox": [
+        [
+          229,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          229,
+          3387
+        ]
+      ],
+      "score": 0.9027818441390991,
+      "y_pos": 3333,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982995638307536
+    },
+    {
+      "type": "number",
+      "img_path": "p0099_007_number.png",
+      "bbox": [
+        [
+          2333,
+          3341
+        ],
+        [
+          2357,
+          3341
+        ],
+        [
+          2357,
+          3377
+        ],
+        [
+          2333,
+          3377
+        ]
+      ],
+      "score": 0.8060606718063354,
+      "y_pos": 3341,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0099.png"
+}

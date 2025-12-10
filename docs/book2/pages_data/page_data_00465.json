@@ -1,0 +1,240 @@
+{
+  "page_num": 465,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0465_002_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2369,
+          144
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9249842166900635,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7841731583078702
+    },
+    {
+      "type": "header",
+      "img_path": "p0465_003_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.918705403804779,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0465_006_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          330
+        ],
+        [
+          685,
+          330
+        ],
+        [
+          685,
+          376
+        ],
+        [
+          226,
+          376
+        ]
+      ],
+      "score": 0.9063503742218018,
+      "y_pos": 330,
+      "text": "35. Táo bón sau đẻ",
+      "confidence": 0.9232737779617309
+    },
+    {
+      "type": "text",
+      "img_path": "p0465_000_text.png",
+      "bbox": [
+        [
+          222,
+          418
+        ],
+        [
+          2359,
+          418
+        ],
+        [
+          2359,
+          545
+        ],
+        [
+          222,
+          545
+        ]
+      ],
+      "score": 0.9622623920440674,
+      "y_pos": 418,
+      "text": "Đàn bà đẻ xong do ra máu quá nhiều, thân thể yếu đuối tạo thành đại tiện khó, hoặc mấy ngày\nmới ỉa, hoặc phân khô, rặn không ra, gọi là sản hậu táo bón.",
+      "confidence": 0.999735670544768
+    },
+    {
+      "type": "text",
+      "img_path": "p0465_005_text.png",
+      "bbox": [
+        [
+          283,
+          581
+        ],
+        [
+          1323,
+          581
+        ],
+        [
+          1323,
+          636
+        ],
+        [
+          283,
+          636
+        ]
+      ],
+      "score": 0.9092984199523926,
+      "y_pos": 581,
+      "text": "Cách chữa: Lấy huyệt Ngoại quan, Chiếu hải.",
+      "confidence": 0.8807752198643155
+    },
+    {
+      "type": "text",
+      "img_path": "p0465_004_text.png",
+      "bbox": [
+        [
+          284,
+          674
+        ],
+        [
+          1850,
+          674
+        ],
+        [
+          1850,
+          728
+        ],
+        [
+          284,
+          728
+        ]
+      ],
+      "score": 0.9103853106498718,
+      "y_pos": 674,
+      "text": "Dùng hào kim châm, đều dùng phép bình bố, bình tả, lưu kim 30 phút.",
+      "confidence": 0.9765658784603727
+    },
+    {
+      "type": "text",
+      "img_path": "p0465_001_text.png",
+      "bbox": [
+        [
+          281,
+          766
+        ],
+        [
+          2360,
+          766
+        ],
+        [
+          2360,
+          891
+        ],
+        [
+          281,
+          891
+        ]
+      ],
+      "score": 0.9588842391967773,
+      "y_pos": 766,
+      "text": "Giảng nghĩa của phương: Chiếu hải là huyệt kinh nghiệm thông táo bón có hiệu quả, có tác\ndụng bổ thận thuỷ, lại gia Ngoại quan điều khí cơ thì công hiệu tốt hơn.",
+      "confidence": 0.9991189267094787
+    },
+    {
+      "type": "number",
+      "img_path": "p0465_008_number.png",
+      "bbox": [
+        [
+          2303,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2303,
+          3335
+        ]
+      ],
+      "score": 0.85523921251297,
+      "y_pos": 3300,
+      "text": "\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0465_007_footer.png",
+      "bbox": [
+        [
+          228,
+          3310
+        ],
+        [
+          1324,
+          3310
+        ],
+        [
+          1324,
+          3355
+        ],
+        [
+          228,
+          3355
+        ]
+      ],
+      "score": 0.9031434059143066,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9984300597658697
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0465.png"
+}

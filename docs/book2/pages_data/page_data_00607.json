@@ -1,0 +1,656 @@
+{
+  "page_num": 607,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0607_003_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2370,
+          143
+        ],
+        [
+          2370,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9409393668174744,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7452945528285844
+    },
+    {
+      "type": "header",
+      "img_path": "p0607_017_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9226629734039307,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0607_016_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          330
+        ],
+        [
+          841,
+          330
+        ],
+        [
+          841,
+          380
+        ],
+        [
+          226,
+          380
+        ]
+      ],
+      "score": 0.9283977150917053,
+      "y_pos": 330,
+      "text": "Cách đo nhiệt đô kinh lạc",
+      "confidence": 0.9963144946981359
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0607_019_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          421
+        ],
+        [
+          728,
+          421
+        ],
+        [
+          728,
+          474
+        ],
+        [
+          227,
+          474
+        ]
+      ],
+      "score": 0.9122294187545776,
+      "y_pos": 421,
+      "text": "1. Nguyên tắc chung",
+      "confidence": 0.9030179636819022
+    },
+    {
+      "type": "text",
+      "img_path": "p0607_000_text.png",
+      "bbox": [
+        [
+          266,
+          508
+        ],
+        [
+          2361,
+          508
+        ],
+        [
+          2361,
+          775
+        ],
+        [
+          266,
+          775
+        ]
+      ],
+      "score": 0.9819546937942505,
+      "y_pos": 508,
+      "text": "Nếu đo để chẩn đoán bệnh phải để người bệnh nghỉ ngơi thoải mái 10 phút trước khi đo thì\nsố đo mới thể hiện chính xác tình trạng công năng của tạng phủ. Nếu đo để theo dõi thí\nnghiệm thì đo ở đối tượng ngay trước và sau khi thí nghiệm, số đo mới thể hiện đúng kết\nquả của thí nghiệm.",
+      "confidence": 0.9796662108091161
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0607_020_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          817
+        ],
+        [
+          779,
+          817
+        ],
+        [
+          779,
+          865
+        ],
+        [
+          225,
+          865
+        ]
+      ],
+      "score": 0.9098737835884094,
+      "y_pos": 817,
+      "text": "2. Những huyệt cần đo",
+      "confidence": 0.9103622514268627
+    },
+    {
+      "type": "text",
+      "img_path": "p0607_024_text.png",
+      "bbox": [
+        [
+          287,
+          907
+        ],
+        [
+          970,
+          907
+        ],
+        [
+          970,
+          960
+        ],
+        [
+          287,
+          960
+        ]
+      ],
+      "score": 0.5733848810195923,
+      "y_pos": 907,
+      "text": "a. Ở tay (chi trên), cả hai tay",
+      "confidence": 0.9991671912597887
+    },
+    {
+      "type": "text",
+      "img_path": "p0607_013_text.png",
+      "bbox": [
+        [
+          300,
+          1000
+        ],
+        [
+          1036,
+          1000
+        ],
+        [
+          1036,
+          1050
+        ],
+        [
+          300,
+          1050
+        ]
+      ],
+      "score": 0.9328870177268982,
+      "y_pos": 1000,
+      "text": "Kinh tiểu trường: <i>Thiêu trạch.</i>",
+      "confidence": 0.9879066628568313
+    },
+    {
+      "type": "text",
+      "img_path": "p0607_014_text.png",
+      "bbox": [
+        [
+          301,
+          1091
+        ],
+        [
+          874,
+          1091
+        ],
+        [
+          874,
+          1141
+        ],
+        [
+          301,
+          1141
+        ]
+      ],
+      "score": 0.9312037229537964,
+      "y_pos": 1091,
+      "text": "Kinh tâm: <i>Thiêu xung</i>.",
+      "confidence": 0.9560959815979004
+    },
+    {
+      "type": "text",
+      "img_path": "p0607_009_text.png",
+      "bbox": [
+        [
+          302,
+          1186
+        ],
+        [
+          964,
+          1186
+        ],
+        [
+          964,
+          1232
+        ],
+        [
+          302,
+          1232
+        ]
+      ],
+      "score": 0.9351838827133179,
+      "y_pos": 1186,
+      "text": "Kinh tam tiêu: Quan xung.",
+      "confidence": 0.9868681452892445
+    },
+    {
+      "type": "text",
+      "img_path": "p0607_005_text.png",
+      "bbox": [
+        [
+          301,
+          1277
+        ],
+        [
+          975,
+          1277
+        ],
+        [
+          975,
+          1325
+        ],
+        [
+          301,
+          1325
+        ]
+      ],
+      "score": 0.9378167986869812,
+      "y_pos": 1277,
+      "text": "Kinh tâm bào: <i>Trung xung.</i>",
+      "confidence": 0.9762736990534026
+    },
+    {
+      "type": "text",
+      "img_path": "p0607_004_text.png",
+      "bbox": [
+        [
+          301,
+          1369
+        ],
+        [
+          1106,
+          1369
+        ],
+        [
+          1106,
+          1417
+        ],
+        [
+          301,
+          1417
+        ]
+      ],
+      "score": 0.9385616779327393,
+      "y_pos": 1369,
+      "text": "Kinh đại trường: <i>Thương dương.</i>",
+      "confidence": 0.9824562511023354
+    },
+    {
+      "type": "text",
+      "img_path": "p0607_007_text.png",
+      "bbox": [
+        [
+          300,
+          1458
+        ],
+        [
+          909,
+          1458
+        ],
+        [
+          909,
+          1508
+        ],
+        [
+          300,
+          1508
+        ]
+      ],
+      "score": 0.9364133477210999,
+      "y_pos": 1458,
+      "text": "Kinh phê: Thiêu dương.",
+      "confidence": 0.985600103934606
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0607_023_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          1551
+        ],
+        [
+          1076,
+          1551
+        ],
+        [
+          1076,
+          1598
+        ],
+        [
+          286,
+          1598
+        ]
+      ],
+      "score": 0.7245628833770752,
+      "y_pos": 1551,
+      "text": "b. Ở chân (chi dưới), cả hai chân",
+      "confidence": 0.9973929013524737
+    },
+    {
+      "type": "text",
+      "img_path": "p0607_012_text.png",
+      "bbox": [
+        [
+          300,
+          1644
+        ],
+        [
+          964,
+          1644
+        ],
+        [
+          964,
+          1690
+        ],
+        [
+          300,
+          1690
+        ]
+      ],
+      "score": 0.9332128167152405,
+      "y_pos": 1644,
+      "text": "Kinh bàng quang: <i>Chí âm.</i>",
+      "confidence": 0.9797164797782898
+    },
+    {
+      "type": "text",
+      "img_path": "p0607_006_text.png",
+      "bbox": [
+        [
+          302,
+          1737
+        ],
+        [
+          876,
+          1737
+        ],
+        [
+          876,
+          1782
+        ],
+        [
+          302,
+          1782
+        ]
+      ],
+      "score": 0.9366858601570129,
+      "y_pos": 1737,
+      "text": "Kinh thân: Nôi chí âm.",
+      "confidence": 0.9933184931675593
+    },
+    {
+      "type": "text",
+      "img_path": "p0607_010_text.png",
+      "bbox": [
+        [
+          302,
+          1826
+        ],
+        [
+          847,
+          1826
+        ],
+        [
+          847,
+          1871
+        ],
+        [
+          302,
+          1871
+        ]
+      ],
+      "score": 0.9350943565368652,
+      "y_pos": 1826,
+      "text": "Kinh đảm: Khiệu âm.",
+      "confidence": 0.9929274036770775
+    },
+    {
+      "type": "text",
+      "img_path": "p0607_011_text.png",
+      "bbox": [
+        [
+          303,
+          1917
+        ],
+        [
+          743,
+          1917
+        ],
+        [
+          743,
+          1963
+        ],
+        [
+          303,
+          1963
+        ]
+      ],
+      "score": 0.9343990087509155,
+      "y_pos": 1917,
+      "text": "Kinh vi: <i>Lê đoài.</i>",
+      "confidence": 0.9809104970523289
+    },
+    {
+      "type": "text",
+      "img_path": "p0607_015_text.png",
+      "bbox": [
+        [
+          303,
+          2009
+        ],
+        [
+          793,
+          2009
+        ],
+        [
+          793,
+          2055
+        ],
+        [
+          303,
+          2055
+        ]
+      ],
+      "score": 0.9304627180099487,
+      "y_pos": 2009,
+      "text": "Kinh can: Đai đôn.",
+      "confidence": 0.9948574811220169
+    },
+    {
+      "type": "text",
+      "img_path": "p0607_008_text.png",
+      "bbox": [
+        [
+          301,
+          2099
+        ],
+        [
+          761,
+          2099
+        ],
+        [
+          761,
+          2150
+        ],
+        [
+          301,
+          2150
+        ]
+      ],
+      "score": 0.9363093376159668,
+      "y_pos": 2099,
+      "text": "Kinh tỳ: Ân bach.",
+      "confidence": 0.984365839707224
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0607_021_paragraph_title.png",
+      "bbox": [
+        [
+          287,
+          2193
+        ],
+        [
+          1001,
+          2193
+        ],
+        [
+          1001,
+          2243
+        ],
+        [
+          287,
+          2243
+        ]
+      ],
+      "score": 0.9089163541793823,
+      "y_pos": 2193,
+      "text": "c. Xác định lại các vị trí huyệt",
+      "confidence": 0.9856502115726471
+    },
+    {
+      "type": "text",
+      "img_path": "p0607_002_text.png",
+      "bbox": [
+        [
+          282,
+          2280
+        ],
+        [
+          2357,
+          2280
+        ],
+        [
+          2357,
+          2405
+        ],
+        [
+          282,
+          2405
+        ]
+      ],
+      "score": 0.9698217511177063,
+      "y_pos": 2280,
+      "text": "Trong số 12 huyệt trên, có 4 huyệt mà vị trí được đổi đi cho thống nhất về tổ chức học, giải\nphẫu học, do đó mà thống nhất được cơ sở vật chất của huyệt vị. Các huyệt đó là:",
+      "confidence": 0.9996924996144052
+    },
+    {
+      "type": "text",
+      "img_path": "p0607_001_text.png",
+      "bbox": [
+        [
+          297,
+          2445
+        ],
+        [
+          2358,
+          2445
+        ],
+        [
+          2358,
+          2632
+        ],
+        [
+          297,
+          2632
+        ]
+      ],
+      "score": 0.9765959978103638,
+      "y_pos": 2445,
+      "text": "• Trung xung, vốn ở chính giữa đầu nhọn ngón tay giữa, cách móng tay hơn một phân\nthốn, nay đổi sang cách cạnh ngoài gốc móng ngón giữa một phân, ở phía áp ngón\nnhẫn.",
+      "confidence": 0.9948185512613307
+    },
+    {
+      "type": "number",
+      "img_path": "p0607_022_number.png",
+      "bbox": [
+        [
+          2330,
+          3337
+        ],
+        [
+          2354,
+          3337
+        ],
+        [
+          2354,
+          3373
+        ],
+        [
+          2330,
+          3373
+        ]
+      ],
+      "score": 0.8265200853347778,
+      "y_pos": 3337,
+      "text": "\n    \n    \n\n    ٠\n    \n\n    \n\n\n\n\n.\n        \n    \n",
+      "confidence": 0.9576608998080095
+    },
+    {
+      "type": "footer",
+      "img_path": "p0607_018_footer.png",
+      "bbox": [
+        [
+          229,
+          3340
+        ],
+        [
+          1324,
+          3340
+        ],
+        [
+          1324,
+          3388
+        ],
+        [
+          229,
+          3388
+        ]
+      ],
+      "score": 0.9141177535057068,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9989431905296614
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0607.png"
+}

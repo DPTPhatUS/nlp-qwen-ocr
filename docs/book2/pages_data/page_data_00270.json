@@ -1,0 +1,734 @@
+{
+  "page_num": 270,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0270_007_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9394752979278564,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.723309953652677
+    },
+    {
+      "type": "header",
+      "img_path": "p0270_021_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9216966032981873,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0270_014_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          349
+        ],
+        [
+          614,
+          349
+        ],
+        [
+          614,
+          400
+        ],
+        [
+          226,
+          400
+        ]
+      ],
+      "score": 0.9256329536437988,
+      "y_pos": 349,
+      "text": "312. Hoàn trung",
+      "confidence": 0.8550921362989089
+    },
+    {
+      "type": "text",
+      "img_path": "p0270_016_text.png",
+      "bbox": [
+        [
+          288,
+          439
+        ],
+        [
+          1819,
+          439
+        ],
+        [
+          1819,
+          494
+        ],
+        [
+          288,
+          494
+        ]
+      ],
+      "score": 0.9246621131896973,
+      "y_pos": 439,
+      "text": "Vị trí: Ở giữa đường nối huyệt Hoàn khiêu và huyệt Yêu du. (H.134)",
+      "confidence": 0.989670579047764
+    },
+    {
+      "type": "text",
+      "img_path": "p0270_009_text.png",
+      "bbox": [
+        [
+          287,
+          533
+        ],
+        [
+          1268,
+          533
+        ],
+        [
+          1268,
+          582
+        ],
+        [
+          287,
+          582
+        ]
+      ],
+      "score": 0.9297050833702087,
+      "y_pos": 533,
+      "text": "<b>Cách châm</b>: Châm đứng kim, sâu 2-3 thôn.",
+      "confidence": 0.9718545834685481
+    },
+    {
+      "type": "text",
+      "img_path": "p0270_008_text.png",
+      "bbox": [
+        [
+          287,
+          624
+        ],
+        [
+          1316,
+          624
+        ],
+        [
+          1316,
+          675
+        ],
+        [
+          287,
+          675
+        ]
+      ],
+      "score": 0.9333884119987488,
+      "y_pos": 624,
+      "text": "Chủ trị: Đau thần kinh tọa, đau lưng, đau đùi.",
+      "confidence": 0.6281158576409022
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0270_012_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          714
+        ],
+        [
+          587,
+          714
+        ],
+        [
+          587,
+          765
+        ],
+        [
+          226,
+          765
+        ]
+      ],
+      "score": 0.9278126358985901,
+      "y_pos": 714,
+      "text": "313. Đồn trung",
+      "confidence": 0.9494072161614895
+    },
+    {
+      "type": "text",
+      "img_path": "p0270_002_text.png",
+      "bbox": [
+        [
+          284,
+          804
+        ],
+        [
+          2359,
+          804
+        ],
+        [
+          2359,
+          931
+        ],
+        [
+          284,
+          931
+        ]
+      ],
+      "score": 0.9659214019775391,
+      "y_pos": 804,
+      "text": "Vị trí: Sau và trên mấu chuyển lớn xương đùi, lấy đoạn từ mấu chuyển lớn đến ụ ngồi làm\ncạnh dưới tam giác đều, thì đỉnh trên tam giác là huyệt. (H.134)",
+      "confidence": 0.9944817129602471
+    },
+    {
+      "type": "text",
+      "img_path": "p0270_013_text.png",
+      "bbox": [
+        [
+          286,
+          970
+        ],
+        [
+          1270,
+          970
+        ],
+        [
+          1270,
+          1018
+        ],
+        [
+          286,
+          1018
+        ]
+      ],
+      "score": 0.9277142286300659,
+      "y_pos": 970,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 2-3 thôn.",
+      "confidence": 0.9794419574183088
+    },
+    {
+      "type": "text",
+      "img_path": "p0270_010_text.png",
+      "bbox": [
+        [
+          287,
+          1062
+        ],
+        [
+          1461,
+          1062
+        ],
+        [
+          1461,
+          1112
+        ],
+        [
+          287,
+          1112
+        ]
+      ],
+      "score": 0.9291980862617493,
+      "y_pos": 1062,
+      "text": "Chủ tri: Đau thần kinh toa, chi dưới bai liệt một bên.",
+      "confidence": 0.9740142939346177
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0270_015_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1152
+        ],
+        [
+          704,
+          1152
+        ],
+        [
+          704,
+          1203
+        ],
+        [
+          226,
+          1203
+        ]
+      ],
+      "score": 0.9250808358192444,
+      "y_pos": 1152,
+      "text": "314. Tích tam huyệt",
+      "confidence": 0.9121320588248116
+    },
+    {
+      "type": "text",
+      "img_path": "p0270_001_text.png",
+      "bbox": [
+        [
+          281,
+          1241
+        ],
+        [
+          2358,
+          1241
+        ],
+        [
+          2358,
+          1436
+        ],
+        [
+          281,
+          1436
+        ]
+      ],
+      "score": 0.974145233631134,
+      "y_pos": 1241,
+      "text": "Vị trí: Xác định huyệt Á môn, từ Á môn xuống 1 thốn, từ đó sang ngang mỗi bên 0,5 thốn.\nDưới đốt sống lưng 2 sang ngang mỗi bên 0,5 thốn. Dưới đốt thắt lưng 2 sang ngang mỗi\nbên 0,5 thốn.",
+      "confidence": 0.9938264940251393
+    },
+    {
+      "type": "text",
+      "img_path": "p0270_004_text.png",
+      "bbox": [
+        [
+          282,
+          1475
+        ],
+        [
+          2359,
+          1475
+        ],
+        [
+          2359,
+          1602
+        ],
+        [
+          282,
+          1602
+        ]
+      ],
+      "score": 0.9641013145446777,
+      "y_pos": 1475,
+      "text": "Cách lấy huyệt khác: Dưới huyệt Á môn 1 thốn. Dưới mỏm gai đốt sống lưng 1. Dưới mỏm\ngai đốt sống thắt lưng 5, cộng là 3 huyệt",
+      "confidence": 0.9969197359195976
+    },
+    {
+      "type": "text",
+      "img_path": "p0270_018_text.png",
+      "bbox": [
+        [
+          286,
+          1639
+        ],
+        [
+          1588,
+          1639
+        ],
+        [
+          1588,
+          1689
+        ],
+        [
+          286,
+          1689
+        ]
+      ],
+      "score": 0.9234446287155151,
+      "y_pos": 1639,
+      "text": "Cách châm: Châm chếch kim, sâu 0,5-1 thốn. Cứu 3 mồi.",
+      "confidence": 0.6380581216378646
+    },
+    {
+      "type": "text",
+      "img_path": "p0270_006_text.png",
+      "bbox": [
+        [
+          281,
+          1732
+        ],
+        [
+          2359,
+          1732
+        ],
+        [
+          2359,
+          1854
+        ],
+        [
+          281,
+          1854
+        ]
+      ],
+      "score": 0.9631268978118896,
+      "y_pos": 1732,
+      "text": "Chủ trị: Viêm cột sống, viêm màng nhện tủy sống, đau lưng trên, lưng dưới và các bệnh tật\nvề tủy sống.",
+      "confidence": 0.9932377811644104
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0270_017_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1894
+        ],
+        [
+          618,
+          1894
+        ],
+        [
+          618,
+          1946
+        ],
+        [
+          226,
+          1946
+        ]
+      ],
+      "score": 0.9245010018348694,
+      "y_pos": 1894,
+      "text": "315. Tích phùng",
+      "confidence": 0.9453008911188912
+    },
+    {
+      "type": "text",
+      "img_path": "p0270_005_text.png",
+      "bbox": [
+        [
+          283,
+          1984
+        ],
+        [
+          2360,
+          1984
+        ],
+        [
+          2360,
+          2108
+        ],
+        [
+          283,
+          2108
+        ]
+      ],
+      "score": 0.9636211395263672,
+      "y_pos": 1984,
+      "text": "Vị trí: Hai bên mỏm gai đốt sống, từ đốt sống lưng 1 đến đốt sống (đốt sống thứ 17) thắt\nlưng 5, cách đều chính giữa 4, 5 thốn. Tất cả 17 đôi là 34 huyệt.",
+      "confidence": 0.8949118018891681
+    },
+    {
+      "type": "text",
+      "img_path": "p0270_025_text.png",
+      "bbox": [
+        [
+          285,
+          2148
+        ],
+        [
+          2306,
+          2148
+        ],
+        [
+          2306,
+          2202
+        ],
+        [
+          285,
+          2202
+        ]
+      ],
+      "score": 0.8992286920547485,
+      "y_pos": 2148,
+      "text": "Cách châm: Châm chếch kim 0,3-0,7 thốn. Cấm châm sâu (vì ở trong đó có các nội tạng).",
+      "confidence": 0.5854598962027451
+    },
+    {
+      "type": "text",
+      "img_path": "p0270_027_text.png",
+      "bbox": [
+        [
+          287,
+          2239
+        ],
+        [
+          1157,
+          2239
+        ],
+        [
+          1157,
+          2294
+        ],
+        [
+          287,
+          2294
+        ]
+      ],
+      "score": 0.7689520120620728,
+      "y_pos": 2239,
+      "text": "Chủ trị: Viêm cột sống, viêm tủy sống.",
+      "confidence": 0.4597820371389389
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0270_019_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2331
+        ],
+        [
+          618,
+          2331
+        ],
+        [
+          618,
+          2383
+        ],
+        [
+          226,
+          2383
+        ]
+      ],
+      "score": 0.9225158095359802,
+      "y_pos": 2331,
+      "text": "316. Định suyên",
+      "confidence": 0.9296904030968162
+    },
+    {
+      "type": "text",
+      "img_path": "p0270_011_text.png",
+      "bbox": [
+        [
+          283,
+          2419
+        ],
+        [
+          1778,
+          2419
+        ],
+        [
+          1778,
+          2477
+        ],
+        [
+          283,
+          2477
+        ]
+      ],
+      "score": 0.9288526773452759,
+      "y_pos": 2419,
+      "text": "Vị trí: Ở mỏm gai đốt cổ 7 sang ngang mỗi bên 0,5-1 thốn. (H.134)",
+      "confidence": 0.9991358945618815
+    },
+    {
+      "type": "text",
+      "img_path": "p0270_020_text.png",
+      "bbox": [
+        [
+          285,
+          2514
+        ],
+        [
+          2279,
+          2514
+        ],
+        [
+          2279,
+          2567
+        ],
+        [
+          285,
+          2567
+        ]
+      ],
+      "score": 0.9220539331436157,
+      "y_pos": 2514,
+      "text": "<b>Cách châm:</b> Châm hơi chếch kim về cột sống sâu 0,5-1 thốn, cứu 3-5 mồi, hơ 5-10 phút.",
+      "confidence": 0.9914952448823235
+    },
+    {
+      "type": "text",
+      "img_path": "p0270_022_text.png",
+      "bbox": [
+        [
+          286,
+          2605
+        ],
+        [
+          1608,
+          2605
+        ],
+        [
+          1608,
+          2661
+        ],
+        [
+          286,
+          2661
+        ]
+      ],
+      "score": 0.9209811091423035,
+      "y_pos": 2605,
+      "text": "Chủ trị: Ho, viêm phế quản, hen, dị ứng mẫn ngứa, sái cổ.",
+      "confidence": 0.9753565929703794
+    },
+    {
+      "type": "text",
+      "img_path": "p0270_000_text.png",
+      "bbox": [
+        [
+          282,
+          2697
+        ],
+        [
+          2358,
+          2697
+        ],
+        [
+          2358,
+          2893
+        ],
+        [
+          282,
+          2893
+        ]
+      ],
+      "score": 0.9764244556427002,
+      "y_pos": 2697,
+      "text": "<b>Tác dụng phối hợp:</b> Với <i>Thiên đột, Đại chùy, Phong long</i>, trị ho gà; với <i>Phong môn, Phế du</i>,\nHợp cốc, trị viêm phế quản; với Thiên đột, Toàn cơ, Chiên trung, Nội quan, Phong long, trị\nhen phế quản.",
+      "confidence": 0.9908373053195058
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0270_023_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2932
+        ],
+        [
+          581,
+          2932
+        ],
+        [
+          581,
+          2977
+        ],
+        [
+          226,
+          2977
+        ]
+      ],
+      "score": 0.9120346903800964,
+      "y_pos": 2932,
+      "text": "317. Yêu nhỡn",
+      "confidence": 0.955994975566864
+    },
+    {
+      "type": "text",
+      "img_path": "p0270_003_text.png",
+      "bbox": [
+        [
+          282,
+          3019
+        ],
+        [
+          2358,
+          3019
+        ],
+        [
+          2358,
+          3147
+        ],
+        [
+          282,
+          3147
+        ]
+      ],
+      "score": 0.9645240902900696,
+      "y_pos": 3019,
+      "text": "Vị trí: Dưới mỏm gai đốt thắt lưng 3 (đốt sống 15) sang ngang mỗi bên từ 3-4 thốn, có chỗ\nlõm là huyệt. (H.134)",
+      "confidence": 0.9223080047197565
+    },
+    {
+      "type": "footer",
+      "img_path": "p0270_024_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9101092219352722,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0270_026_number.png",
+      "bbox": [
+        [
+          2279,
+          3338
+        ],
+        [
+          2347,
+          3338
+        ],
+        [
+          2347,
+          3377
+        ],
+        [
+          2279,
+          3377
+        ]
+      ],
+      "score": 0.8866325616836548,
+      "y_pos": 3338,
+      "text": "    \n\n    \n    \n\n\n    \n    \n    \n۰.\n\n\n",
+      "confidence": 0.9777070174091741
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0270.png"
+}

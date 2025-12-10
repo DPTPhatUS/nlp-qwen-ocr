@@ -1,0 +1,552 @@
+{
+  "page_num": 48,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0048_020_text.png",
+      "bbox": [
+        [
+          407,
+          451
+        ],
+        [
+          1169,
+          451
+        ],
+        [
+          1169,
+          500
+        ],
+        [
+          407,
+          500
+        ]
+      ],
+      "score": 0.8175840973854065,
+      "y_pos": 451,
+      "text": "\n    Nếu dưa theo cơ chế phát bênh\n",
+      "confidence": 0.5871500914747064
+    },
+    {
+      "type": "text",
+      "img_path": "p0048_015_text.png",
+      "bbox": [
+        [
+          462,
+          534
+        ],
+        [
+          1693,
+          534
+        ],
+        [
+          1693,
+          586
+        ],
+        [
+          462,
+          586
+        ]
+      ],
+      "score": 0.911089301109314,
+      "y_pos": 534,
+      "text": "+ <i>Tân cảm</i>: khi cảm phải ngoại tà thì bệnh phát ngay",
+      "confidence": 0.9791920325972817
+    },
+    {
+      "type": "text",
+      "img_path": "p0048_007_text.png",
+      "bbox": [
+        [
+          462,
+          616
+        ],
+        [
+          2124,
+          616
+        ],
+        [
+          2124,
+          726
+        ],
+        [
+          462,
+          726
+        ]
+      ],
+      "score": 0.9527660608291626,
+      "y_pos": 616,
+      "text": "+ Phục tà: khi cảm phải ngoại tà, bệnh không khởi phát ngay mà ẩn nấp\nbên trong, khi có đủ điều kiện thì mới phát bệnh. Những điều kiện đó là:",
+      "confidence": 0.9968746659825589
+    },
+    {
+      "type": "text",
+      "img_path": "p0048_017_text.png",
+      "bbox": [
+        [
+          487,
+          759
+        ],
+        [
+          987,
+          759
+        ],
+        [
+          987,
+          805
+        ],
+        [
+          487,
+          805
+        ]
+      ],
+      "score": 0.9007521271705627,
+      "y_pos": 759,
+      "text": "Chính khí suv kém",
+      "confidence": 0.9789667380483527
+    },
+    {
+      "type": "text",
+      "img_path": "p0048_012_text.png",
+      "bbox": [
+        [
+          483,
+          840
+        ],
+        [
+          1700,
+          840
+        ],
+        [
+          1700,
+          892
+        ],
+        [
+          483,
+          892
+        ]
+      ],
+      "score": 0.9162099957466125,
+      "y_pos": 840,
+      "text": "• Cảm phải một đợt mới (Tân cảm dẫn động phục tà)",
+      "confidence": 0.9898690978686014
+    },
+    {
+      "type": "text",
+      "img_path": "p0048_014_text.png",
+      "bbox": [
+        [
+          470,
+          924
+        ],
+        [
+          959,
+          924
+        ],
+        [
+          959,
+          971
+        ],
+        [
+          470,
+          971
+        ]
+      ],
+      "score": 0.9148749113082886,
+      "y_pos": 924,
+      "text": "Tân cẩm + Phục tà",
+      "confidence": 0.9947127542997661
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0048_008_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1037
+        ],
+        [
+          1113,
+          1037
+        ],
+        [
+          1113,
+          1093
+        ],
+        [
+          344,
+          1093
+        ]
+      ],
+      "score": 0.9345822334289551,
+      "y_pos": 1037,
+      "text": "2. NGUYEN NHAN GAY BENH",
+      "confidence": 0.8569132089614868
+    },
+    {
+      "type": "text",
+      "img_path": "p0048_018_text.png",
+      "bbox": [
+        [
+          462,
+          1144
+        ],
+        [
+          1176,
+          1144
+        ],
+        [
+          1176,
+          1194
+        ],
+        [
+          462,
+          1194
+        ]
+      ],
+      "score": 0.8535581231117249,
+      "y_pos": 1144,
+      "text": "Do 2 loại nguyên nhân gây nên",
+      "confidence": 0.9894627678778863
+    },
+    {
+      "type": "text",
+      "img_path": "p0048_005_text.png",
+      "bbox": [
+        [
+          405,
+          1227
+        ],
+        [
+          2125,
+          1227
+        ],
+        [
+          2125,
+          1343
+        ],
+        [
+          405,
+          1343
+        ]
+      ],
+      "score": 0.9579610228538513,
+      "y_pos": 1227,
+      "text": "- Ngoại cảm lục dâm: chủ yếu là những <i>tính chất ôn nhiệt</i> của lục dâm như\nPhong nhiệt, Thủ nhiệt, Thấp nhiệt, Táo nhiệt....",
+      "confidence": 0.8387929468393571
+    },
+    {
+      "type": "text",
+      "img_path": "p0048_001_text.png",
+      "bbox": [
+        [
+          408,
+          1377
+        ],
+        [
+          2126,
+          1377
+        ],
+        [
+          2126,
+          1551
+        ],
+        [
+          408,
+          1551
+        ]
+      ],
+      "score": 0.9742305278778076,
+      "y_pos": 1377,
+      "text": "- Lệ khí: đây là loại khí hậu độc địa, do sự phối hợp giữa nguyên nhân trên\nvà tử khí của xác chết, thường xảy ra trong chiến tranh, trong thiên tai\ndich hoa.",
+      "confidence": 0.8819990077011207
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0048_009_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          1618
+        ],
+        [
+          1524,
+          1618
+        ],
+        [
+          1524,
+          1678
+        ],
+        [
+          343,
+          1678
+        ]
+      ],
+      "score": 0.9340014457702637,
+      "y_pos": 1618,
+      "text": "3. SINH BENH LY CUA NGOAI CAM ON BENH",
+      "confidence": 0.9102077025633591
+    },
+    {
+      "type": "text",
+      "img_path": "p0048_000_text.png",
+      "bbox": [
+        [
+          342,
+          1728
+        ],
+        [
+          2124,
+          1728
+        ],
+        [
+          2124,
+          1905
+        ],
+        [
+          342,
+          1905
+        ]
+      ],
+      "score": 0.975616455078125,
+      "y_pos": 1728,
+      "text": "Bênh ngoại cảm ôn bệnh diễn tiến có quy luật và đi từ ngoài vào trong, đi\ntừ nhẹ đến nặng. Theo Diệp Thiên Sỹ (đời Thanh) bệnh sẽ diễn biến từ Vê\nphận đến Khí phận, Dinh phận và cuối cùng là Huyết phận.",
+      "confidence": 0.9983745233256668
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0048_011_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1962
+        ],
+        [
+          1170,
+          1962
+        ],
+        [
+          1170,
+          2013
+        ],
+        [
+          344,
+          2013
+        ]
+      ],
+      "score": 0.9183889627456665,
+      "y_pos": 1962,
+      "text": "3.1. Quy luật khởi phát của bệnh",
+      "confidence": 0.9975494987824384
+    },
+    {
+      "type": "text",
+      "img_path": "p0048_006_text.png",
+      "bbox": [
+        [
+          406,
+          2058
+        ],
+        [
+          2127,
+          2058
+        ],
+        [
+          2127,
+          2168
+        ],
+        [
+          406,
+          2168
+        ]
+      ],
+      "score": 0.9528194069862366,
+      "y_pos": 2058,
+      "text": "- Nếu mới cảm phải mà bệnh phát ra ngay: bệnh cảnh xuất hiện chủ yếu ở\nVê phân.",
+      "confidence": 0.98728867429826
+    },
+    {
+      "type": "text",
+      "img_path": "p0048_004_text.png",
+      "bbox": [
+        [
+          406,
+          2199
+        ],
+        [
+          2122,
+          2199
+        ],
+        [
+          2122,
+          2310
+        ],
+        [
+          406,
+          2310
+        ]
+      ],
+      "score": 0.9588425755500793,
+      "y_pos": 2199,
+      "text": "– Nếu do tân cảm dẫn động phục tà (Tân cảm + Phục tà): bệnh cảnh lâm\nsàng có thể gồm Vệ phận phối hợp với khí hay Dinh phận.",
+      "confidence": 0.9941961716686557
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0048_010_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          2364
+        ],
+        [
+          940,
+          2364
+        ],
+        [
+          940,
+          2414
+        ],
+        [
+          344,
+          2414
+        ]
+      ],
+      "score": 0.923202633857727,
+      "y_pos": 2364,
+      "text": "3.2. Diễn biến của bênh",
+      "confidence": 0.9290234088897705
+    },
+    {
+      "type": "text",
+      "img_path": "p0048_016_text.png",
+      "bbox": [
+        [
+          461,
+          2465
+        ],
+        [
+          1784,
+          2465
+        ],
+        [
+          1784,
+          2516
+        ],
+        [
+          461,
+          2516
+        ]
+      ],
+      "score": 0.9071639180183411,
+      "y_pos": 2465,
+      "text": "Có 2 trường phái nêu lên diễn biến của ngoại cảm ôn bệnh",
+      "confidence": 0.9936601622351284
+    },
+    {
+      "type": "text",
+      "img_path": "p0048_003_text.png",
+      "bbox": [
+        [
+          406,
+          2553
+        ],
+        [
+          2126,
+          2553
+        ],
+        [
+          2126,
+          2667
+        ],
+        [
+          406,
+          2667
+        ]
+      ],
+      "score": 0.9609476923942566,
+      "y_pos": 2553,
+      "text": "- Theo diễn tiến từ nông vào sâu (<i>từ ngoài vào trong</i>): do Diệp Thiên Sỹ\nkhởi xướng và bao gồm 4 giai đoạn Vệ, Khí, Dinh, Huyết.",
+      "confidence": 0.8505082857817934
+    },
+    {
+      "type": "text",
+      "img_path": "p0048_002_text.png",
+      "bbox": [
+        [
+          406,
+          2702
+        ],
+        [
+          2124,
+          2702
+        ],
+        [
+          2124,
+          2878
+        ],
+        [
+          406,
+          2878
+        ]
+      ],
+      "score": 0.9736711382865906,
+      "y_pos": 2702,
+      "text": "- Theo diễn tiến từ trên xuống: do Ngô Hữu Khả (nhà Thanh) đề xướng và\nbao gồm 3 giai đoan Thương tiêu (Tâm Phế), Trung tiêu (Tỳ Vi), Ha tiêu\n(Can Thân).",
+      "confidence": 0.7395078906372397
+    },
+    {
+      "type": "number",
+      "img_path": "p0048_019_number.png",
+      "bbox": [
+        [
+          2069,
+          3112
+        ],
+        [
+          2121,
+          3112
+        ],
+        [
+          2121,
+          3147
+        ],
+        [
+          2069,
+          3147
+        ]
+      ],
+      "score": 0.843215823173523,
+      "y_pos": 3112,
+      "text": "\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0048_013_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1072,
+          3311
+        ],
+        [
+          1072,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.9150548577308655,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8816643987383161
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0048.png"
+}

@@ -1,0 +1,680 @@
+{
+  "page_num": 216,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0216_010_header.png",
+      "bbox": [
+        [
+          1608,
+          143
+        ],
+        [
+          2375,
+          143
+        ],
+        [
+          2375,
+          202
+        ],
+        [
+          1608,
+          202
+        ]
+      ],
+      "score": 0.9207726716995239,
+      "y_pos": 143,
+      "text": "~ 2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7431839049926826
+    },
+    {
+      "type": "header",
+      "img_path": "p0216_013_header.png",
+      "bbox": [
+        [
+          229,
+          156
+        ],
+        [
+          907,
+          156
+        ],
+        [
+          907,
+          202
+        ],
+        [
+          229,
+          202
+        ]
+      ],
+      "score": 0.9143143892288208,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9881776160207288
+    },
+    {
+      "type": "image",
+      "img_path": "p0216_005_image.png",
+      "bbox": [
+        [
+          611,
+          389
+        ],
+        [
+          2028,
+          389
+        ],
+        [
+          2028,
+          852
+        ],
+        [
+          611,
+          852
+        ]
+      ],
+      "score": 0.9541688561439514,
+      "y_pos": 389
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0216_025_figure_title.png",
+      "bbox": [
+        [
+          1100,
+          957
+        ],
+        [
+          1544,
+          957
+        ],
+        [
+          1544,
+          1000
+        ],
+        [
+          1100,
+          1000
+        ]
+      ],
+      "score": 0.8121135234832764,
+      "y_pos": 957,
+      "text": "Hình 106 – Hình 107",
+      "confidence": 0.6377643091338021
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0216_007_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          1046
+        ],
+        [
+          603,
+          1046
+        ],
+        [
+          603,
+          1092
+        ],
+        [
+          228,
+          1092
+        ]
+      ],
+      "score": 0.9288098216056824,
+      "y_pos": 1046,
+      "text": "12. Kiên minh 3",
+      "confidence": 0.8974862834986519
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_024_text.png",
+      "bbox": [
+        [
+          287,
+          1135
+        ],
+        [
+          2205,
+          1135
+        ],
+        [
+          2205,
+          1193
+        ],
+        [
+          287,
+          1193
+        ]
+      ],
+      "score": 0.8311424851417542,
+      "y_pos": 1135,
+      "text": "Vị trí: Huyệt Cầu hậu ra và lên 0,3 thốn, phía trong khuông cạnh ngoài ổ mắt. (H.107)",
+      "confidence": 0.7089186290214802
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_023_text.png",
+      "bbox": [
+        [
+          286,
+          1229
+        ],
+        [
+          1557,
+          1229
+        ],
+        [
+          1557,
+          1280
+        ],
+        [
+          286,
+          1280
+        ]
+      ],
+      "score": 0.8528993725776672,
+      "y_pos": 1229,
+      "text": "Cách châm: Như Kiện minh, hơi hướng kim lên phía tại.",
+      "confidence": 0.988278498432853
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_006_text.png",
+      "bbox": [
+        [
+          286,
+          1320
+        ],
+        [
+          1180,
+          1320
+        ],
+        [
+          1180,
+          1372
+        ],
+        [
+          286,
+          1372
+        ]
+      ],
+      "score": 0.9296976327896118,
+      "y_pos": 1320,
+      "text": "Chủ trị: Thần kinh thị giác yếu, mắt lác.",
+      "confidence": 0.4039239010145498
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0216_009_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1413
+        ],
+        [
+          605,
+          1413
+        ],
+        [
+          605,
+          1461
+        ],
+        [
+          229,
+          1461
+        ]
+      ],
+      "score": 0.9227661490440369,
+      "y_pos": 1413,
+      "text": "13. Kiên minh 4",
+      "confidence": 0.9332375105689553
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_004_text.png",
+      "bbox": [
+        [
+          283,
+          1501
+        ],
+        [
+          2355,
+          1501
+        ],
+        [
+          2355,
+          1626
+        ],
+        [
+          283,
+          1626
+        ]
+      ],
+      "score": 0.9574887752532959,
+      "y_pos": 1501,
+      "text": "Vị trí: Huyệt Thượng minh lên 0,3 thốn, ở chỗ lõm góc trong và bờ trên khuông ổ mắt.\n(H.107)",
+      "confidence": 0.9637874028710431
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_001_text.png",
+      "bbox": [
+        [
+          282,
+          1664
+        ],
+        [
+          2355,
+          1664
+        ],
+        [
+          2355,
+          1790
+        ],
+        [
+          282,
+          1790
+        ]
+      ],
+      "score": 0.9639000296592712,
+      "y_pos": 1664,
+      "text": "Cách châm: Mắt nhìn xuống, châm vào góc nhãn cầu, hướng về đáy mắt châm 0,8 – 1 thốn,\nkhông vê và không nâng ấn kim.",
+      "confidence": 0.9954740378641705
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_008_text.png",
+      "bbox": [
+        [
+          284,
+          1828
+        ],
+        [
+          2240,
+          1828
+        ],
+        [
+          2240,
+          1882
+        ],
+        [
+          284,
+          1882
+        ]
+      ],
+      "score": 0.9275921583175659,
+      "y_pos": 1828,
+      "text": "Chủ trị: Giãn đồng tử, tăng nhãn áp, tật khúc xạ, cận thị, đục thuỷ tinh thể mức độ nhẹ.",
+      "confidence": 0.9804865860276752
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0216_011_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1920
+        ],
+        [
+          613,
+          1920
+        ],
+        [
+          613,
+          1970
+        ],
+        [
+          229,
+          1970
+        ]
+      ],
+      "score": 0.9195950627326965,
+      "y_pos": 1920,
+      "text": "14. Tăng minh 1",
+      "confidence": 0.8812450906809639
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_003_text.png",
+      "bbox": [
+        [
+          282,
+          2012
+        ],
+        [
+          2357,
+          2012
+        ],
+        [
+          2357,
+          2134
+        ],
+        [
+          282,
+          2134
+        ]
+      ],
+      "score": 0.9577082991600037,
+      "y_pos": 2012,
+      "text": "Vị trí: Giữa đỉnh vòng cung, dưới bờ trên khuông ổ mắt, huyệt Thượng minh sang ngang\nphía trong 0,2 thốn. (H.107)",
+      "confidence": 0.9891180730605311
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_000_text.png",
+      "bbox": [
+        [
+          280,
+          2174
+        ],
+        [
+          2358,
+          2174
+        ],
+        [
+          2358,
+          2298
+        ],
+        [
+          280,
+          2298
+        ]
+      ],
+      "score": 0.9648218750953674,
+      "y_pos": 2174,
+      "text": "Cách châm: Châm vào góc nhãn cầu, hướng về đáy mắt, sâu 1 – 1,5 thốn. Không vê và\nkhông nâng ấn kim.",
+      "confidence": 0.9924823571220938
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_002_text.png",
+      "bbox": [
+        [
+          279,
+          2338
+        ],
+        [
+          2358,
+          2338
+        ],
+        [
+          2358,
+          2454
+        ],
+        [
+          279,
+          2454
+        ]
+      ],
+      "score": 0.9636470079421997,
+      "y_pos": 2338,
+      "text": "Chủ trị: Giác mạc có màng che, có vảy, có vết mờ che, tật khúc xạ, cận thị, đục thuỷ tinh\nthể.",
+      "confidence": 0.9936687286956842
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0216_012_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          2499
+        ],
+        [
+          619,
+          2499
+        ],
+        [
+          619,
+          2550
+        ],
+        [
+          228,
+          2550
+        ]
+      ],
+      "score": 0.9165753126144409,
+      "y_pos": 2499,
+      "text": "15. Tăng minh 2",
+      "confidence": 0.8876621933544383
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_017_text.png",
+      "bbox": [
+        [
+          288,
+          2591
+        ],
+        [
+          1818,
+          2591
+        ],
+        [
+          1818,
+          2645
+        ],
+        [
+          288,
+          2645
+        ]
+      ],
+      "score": 0.9094449877738953,
+      "y_pos": 2591,
+      "text": "Vị trí: Từ huyệt <i>Thượng minh</i> sang ngang ra ngoài 0,2 thốn. (H.107)",
+      "confidence": 0.9864214326654162
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_020_text.png",
+      "bbox": [
+        [
+          287,
+          2685
+        ],
+        [
+          987,
+          2685
+        ],
+        [
+          987,
+          2733
+        ],
+        [
+          287,
+          2733
+        ]
+      ],
+      "score": 0.9048238396644592,
+      "y_pos": 2685,
+      "text": "Cách châm: Như Tăng minh 1",
+      "confidence": 0.48469519189425875
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_014_text.png",
+      "bbox": [
+        [
+          287,
+          2775
+        ],
+        [
+          882,
+          2775
+        ],
+        [
+          882,
+          2826
+        ],
+        [
+          287,
+          2826
+        ]
+      ],
+      "score": 0.9136144518852234,
+      "y_pos": 2775,
+      "text": "Chủ trị: Như Tăng minh 1",
+      "confidence": 0.7645034560790429
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0216_021_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          2867
+        ],
+        [
+          636,
+          2867
+        ],
+        [
+          636,
+          2917
+        ],
+        [
+          228,
+          2917
+        ]
+      ],
+      "score": 0.9037004709243774,
+      "y_pos": 2867,
+      "text": "16. Thính hướng",
+      "confidence": 0.8873681846786948
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_015_text.png",
+      "bbox": [
+        [
+          289,
+          2957
+        ],
+        [
+          1570,
+          2957
+        ],
+        [
+          1570,
+          3011
+        ],
+        [
+          289,
+          3011
+        ]
+      ],
+      "score": 0.9109132885932922,
+      "y_pos": 2957,
+      "text": "Vị trí: Giữa chỗ lõm trên huyệt Nhĩ môn 0,1 thốn. (H.108)",
+      "confidence": 0.9908930497654413
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_016_text.png",
+      "bbox": [
+        [
+          287,
+          3050
+        ],
+        [
+          1350,
+          3050
+        ],
+        [
+          1350,
+          3101
+        ],
+        [
+          287,
+          3101
+        ]
+      ],
+      "score": 0.9103310704231262,
+      "y_pos": 3050,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 1 – 1,5 thôn.",
+      "confidence": 0.9724145075108143
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_018_text.png",
+      "bbox": [
+        [
+          288,
+          3140
+        ],
+        [
+          677,
+          3140
+        ],
+        [
+          677,
+          3192
+        ],
+        [
+          288,
+          3192
+        ]
+      ],
+      "score": 0.9089395999908447,
+      "y_pos": 3140,
+      "text": "Chủ tri: Tai điếc.",
+      "confidence": 0.8072211623191834
+    },
+    {
+      "type": "footer",
+      "img_path": "p0216_019_footer.png",
+      "bbox": [
+        [
+          227,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.9049544334411621,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982534973126538
+    },
+    {
+      "type": "number",
+      "img_path": "p0216_022_number.png",
+      "bbox": [
+        [
+          2301,
+          3339
+        ],
+        [
+          2351,
+          3339
+        ],
+        [
+          2351,
+          3377
+        ],
+        [
+          2301,
+          3377
+        ]
+      ],
+      "score": 0.8725173473358154,
+      "y_pos": 3339,
+      "text": "\n    \n    \n\n    \n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0216.png"
+}

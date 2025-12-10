@@ -1,0 +1,162 @@
+{
+  "page_num": 555,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0555_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          199
+        ],
+        [
+          1675,
+          199
+        ]
+      ],
+      "score": 0.9093217849731445,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7576648993861108
+    },
+    {
+      "type": "header",
+      "img_path": "p0555_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1467,
+          152
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9132376909255981,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TẬN, KỲ HUYỆT",
+      "confidence": 0.9979400253295898
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0555_004_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          326
+        ],
+        [
+          666,
+          326
+        ],
+        [
+          666,
+          384
+        ],
+        [
+          227,
+          384
+        ]
+      ],
+      "score": 0.7647486925125122,
+      "y_pos": 326,
+      "text": "Phần 3. BÊNH TAI",
+      "confidence": 0.8115505112542046
+    },
+    {
+      "type": "text",
+      "img_path": "p0555_005_text.png",
+      "bbox": [
+        [
+          229,
+          508
+        ],
+        [
+          2366,
+          508
+        ],
+        [
+          2366,
+          784
+        ],
+        [
+          229,
+          784
+        ]
+      ],
+      "score": 0.5448973178863525,
+      "y_pos": 508,
+      "text": "52. Tai điếc: Hậu Thính huyệt, Thính linh, Thông nhĩ đạo, Thính mẫn, Thiên thính, Ngoại nhĩ\nđạo khấu, Thính lung gian, Giáp nội, Thượng lung, Dung hậu, Thính hưởng, Hậu thông,\nTrì tiên, Trị lung tân 3, Lăng hạ, Túc ích thông, É minh hạ, Thính thông, Hậu Thính cung,\nLạc thượng, Ưng hạ.",
+      "confidence": 0.9309310742433148
+    },
+    {
+      "type": "number",
+      "img_path": "p0555_003_number.png",
+      "bbox": [
+        [
+          2343,
+          3338
+        ],
+        [
+          2369,
+          3338
+        ],
+        [
+          2369,
+          3374
+        ],
+        [
+          2343,
+          3374
+        ]
+      ],
+      "score": 0.8021050691604614,
+      "y_pos": 3338,
+      "text": "\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0555_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.8965490460395813,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0555.png"
+}

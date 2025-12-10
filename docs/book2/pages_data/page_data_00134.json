@@ -1,0 +1,838 @@
+{
+  "page_num": 134,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0134_003_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9316626787185669,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7643314777385621
+    },
+    {
+      "type": "header",
+      "img_path": "p0134_005_header.png",
+      "bbox": [
+        [
+          229,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          229,
+          202
+        ]
+      ],
+      "score": 0.9189058542251587,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6830399837987177
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_026_text.png",
+      "bbox": [
+        [
+          286,
+          347
+        ],
+        [
+          1669,
+          347
+        ],
+        [
+          1669,
+          399
+        ],
+        [
+          286,
+          399
+        ]
+      ],
+      "score": 0.8761611580848694,
+      "y_pos": 347,
+      "text": "Cách châm: Châm chếch kim, sâu 0,5 - 0,8 thốn. Cứu 5 mồi.",
+      "confidence": 0.61425746699511
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_022_text.png",
+      "bbox": [
+        [
+          286,
+          440
+        ],
+        [
+          1673,
+          440
+        ],
+        [
+          1673,
+          496
+        ],
+        [
+          286,
+          496
+        ]
+      ],
+      "score": 0.8888099789619446,
+      "y_pos": 440,
+      "text": "Chủ trị: Viêm phế quản, đau sườn ngực, hen suyễn, rôm sảy.",
+      "confidence": 0.6118777851263683
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0134_006_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          534
+        ],
+        [
+          559,
+          534
+        ],
+        [
+          559,
+          585
+        ],
+        [
+          229,
+          585
+        ]
+      ],
+      "score": 0.9178256392478943,
+      "y_pos": 534,
+      "text": "16. Ung song",
+      "confidence": 0.893477806023189
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_021_text.png",
+      "bbox": [
+        [
+          288,
+          623
+        ],
+        [
+          2151,
+          623
+        ],
+        [
+          2151,
+          678
+        ],
+        [
+          288,
+          678
+        ]
+      ],
+      "score": 0.8922095894813538,
+      "y_pos": 623,
+      "text": "Vị trí: Khe liên sườn 3 – 4, huyệt Ngọc đường sang ngang mỗi bên là 4 thốn. (H52)",
+      "confidence": 0.9889814024230084
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_011_text.png",
+      "bbox": [
+        [
+          287,
+          715
+        ],
+        [
+          1671,
+          715
+        ],
+        [
+          1671,
+          765
+        ],
+        [
+          287,
+          765
+        ]
+      ],
+      "score": 0.9066887497901917,
+      "y_pos": 715,
+      "text": "Cách châm: Châm chếch kim, sâu 0,5 - 0,8 thốn. Cứu 5 mồi.",
+      "confidence": 0.6182662258713932
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_014_text.png",
+      "bbox": [
+        [
+          287,
+          808
+        ],
+        [
+          1665,
+          808
+        ],
+        [
+          1665,
+          860
+        ],
+        [
+          287,
+          860
+        ]
+      ],
+      "score": 0.9028974175453186,
+      "y_pos": 808,
+      "text": "Chủ trị: Ho, hen, sườn đau, sôi bụng, la chảy, viêm tuyến vú.",
+      "confidence": 0.5506235181339203
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0134_004_paragraph_title.png",
+      "bbox": [
+        [
+          244,
+          898
+        ],
+        [
+          583,
+          898
+        ],
+        [
+          583,
+          949
+        ],
+        [
+          244,
+          949
+        ]
+      ],
+      "score": 0.9202119708061218,
+      "y_pos": 898,
+      "text": "17. Nhũ trung",
+      "confidence": 0.8590874115626017
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_000_text.png",
+      "bbox": [
+        [
+          281,
+          988
+        ],
+        [
+          2360,
+          988
+        ],
+        [
+          2360,
+          1115
+        ],
+        [
+          281,
+          1115
+        ]
+      ],
+      "score": 0.9507381319999695,
+      "y_pos": 988,
+      "text": "<i>Vị trí</i>: Ở chính đầu giữa vú, bờ dưới khe liên sườn 4 – 5. (H. 52). Không châm, chỉ lấy huyệt\nlàm chuẩn để tìm các huyệt ở ngực, bụng.",
+      "confidence": 0.9942610322364739
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0134_007_paragraph_title.png",
+      "bbox": [
+        [
+          230,
+          1152
+        ],
+        [
+          523,
+          1152
+        ],
+        [
+          523,
+          1198
+        ],
+        [
+          230,
+          1198
+        ]
+      ],
+      "score": 0.9173279404640198,
+      "y_pos": 1152,
+      "text": "18. Nhũ căn",
+      "confidence": 0.9566516830370977
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_001_text.png",
+      "bbox": [
+        [
+          283,
+          1240
+        ],
+        [
+          2358,
+          1240
+        ],
+        [
+          2358,
+          1367
+        ],
+        [
+          283,
+          1367
+        ]
+      ],
+      "score": 0.9466743469238281,
+      "y_pos": 1240,
+      "text": "Vị trí: Dưới đầu vú, 1,6 thốn, nằm trên khe sườn 5 – 6; đối với đàn bà thì lấy ở ngấn dưới\nbầu vú. (H. 52)",
+      "confidence": 0.9867603790272228
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_019_text.png",
+      "bbox": [
+        [
+          286,
+          1406
+        ],
+        [
+          1653,
+          1406
+        ],
+        [
+          1653,
+          1458
+        ],
+        [
+          286,
+          1458
+        ]
+      ],
+      "score": 0.8934254050254822,
+      "y_pos": 1406,
+      "text": "Cách châm: Châm đứng kim, sâu 0,2 - 0,3 thốn. Cứu 3 mồi.",
+      "confidence": 0.9866994403559586
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_012_text.png",
+      "bbox": [
+        [
+          288,
+          1498
+        ],
+        [
+          938,
+          1498
+        ],
+        [
+          938,
+          1551
+        ],
+        [
+          288,
+          1551
+        ]
+      ],
+      "score": 0.9050405025482178,
+      "y_pos": 1498,
+      "text": "Chủ trị: It sữa, vú sưng đau.",
+      "confidence": 0.5521500514399621
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_023_text.png",
+      "bbox": [
+        [
+          288,
+          1588
+        ],
+        [
+          1678,
+          1588
+        ],
+        [
+          1678,
+          1644
+        ],
+        [
+          288,
+          1644
+        ]
+      ],
+      "score": 0.8874061107635498,
+      "y_pos": 1588,
+      "text": "Tác dụng phối hợp: Với Chiên trung, Thiếu trạch trị mất sữa.",
+      "confidence": 0.9907046493984037
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0134_010_paragraph_title.png",
+      "bbox": [
+        [
+          230,
+          1680
+        ],
+        [
+          540,
+          1680
+        ],
+        [
+          540,
+          1735
+        ],
+        [
+          230,
+          1735
+        ]
+      ],
+      "score": 0.91143798828125,
+      "y_pos": 1680,
+      "text": "19. Bất dung",
+      "confidence": 0.961284692798342
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_020_text.png",
+      "bbox": [
+        [
+          288,
+          1770
+        ],
+        [
+          2054,
+          1770
+        ],
+        [
+          2054,
+          1828
+        ],
+        [
+          288,
+          1828
+        ]
+      ],
+      "score": 0.893091082572937,
+      "y_pos": 1770,
+      "text": "Vị trí: Rốn lên 6 thốn là <i>Cự khuyết</i>, từ đó sang mỗi bên 2 thốn là huyệt. (H. 52)",
+      "confidence": 0.8856683174769083
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_002_text.png",
+      "bbox": [
+        [
+          282,
+          1865
+        ],
+        [
+          2358,
+          1865
+        ],
+        [
+          2358,
+          1986
+        ],
+        [
+          282,
+          1986
+        ]
+      ],
+      "score": 0.9384394288063049,
+      "y_pos": 1865,
+      "text": "Cách châm: Châm đứng kim, sâu 0,5 – 0,8 thốn. Cứu 3 mồi. Chủ trị: Giãn dạ dày, đau thần\nkinh liên sườn.",
+      "confidence": 0.995043908454532
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0134_013_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2028
+        ],
+        [
+          565,
+          2028
+        ],
+        [
+          565,
+          2074
+        ],
+        [
+          227,
+          2074
+        ]
+      ],
+      "score": 0.9046564698219299,
+      "y_pos": 2028,
+      "text": "20.    Thừa mãn",
+      "confidence": 0.8397653296589851
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_031_text.png",
+      "bbox": [
+        [
+          289,
+          2117
+        ],
+        [
+          2276,
+          2117
+        ],
+        [
+          2276,
+          2175
+        ],
+        [
+          289,
+          2175
+        ]
+      ],
+      "score": 0.8232322931289673,
+      "y_pos": 2117,
+      "text": "Vị trí: Rốn lên 5 thốn là Thượng quản, từ đó sang ngang mỗi bên 2 thốn là huyệt. (H. 52)",
+      "confidence": 0.9966937734021081
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_030_text.png",
+      "bbox": [
+        [
+          287,
+          2210
+        ],
+        [
+          1627,
+          2210
+        ],
+        [
+          1627,
+          2262
+        ],
+        [
+          287,
+          2262
+        ]
+      ],
+      "score": 0.8236279487609863,
+      "y_pos": 2210,
+      "text": "Cách châm: Châm đứng kim, sâu 1 đến 2 thốn. Cứu 5 mồi.",
+      "confidence": 0.9950312546321324
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_018_text.png",
+      "bbox": [
+        [
+          286,
+          2302
+        ],
+        [
+          1793,
+          2302
+        ],
+        [
+          1793,
+          2357
+        ],
+        [
+          286,
+          2357
+        ]
+      ],
+      "score": 0.8953386545181274,
+      "y_pos": 2302,
+      "text": "Chủ trị: Viêm dạ dày cấp, mạn, đau dạ dày, co rúm cơ thẳng bụng.",
+      "confidence": 0.6489637051567887
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0134_009_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2395
+        ],
+        [
+          607,
+          2395
+        ],
+        [
+          607,
+          2446
+        ],
+        [
+          226,
+          2446
+        ]
+      ],
+      "score": 0.9116880893707275,
+      "y_pos": 2395,
+      "text": "21. Lương môn",
+      "confidence": 0.9001354614893595
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_027_text.png",
+      "bbox": [
+        [
+          288,
+          2485
+        ],
+        [
+          2229,
+          2485
+        ],
+        [
+          2229,
+          2541
+        ],
+        [
+          288,
+          2541
+        ]
+      ],
+      "score": 0.8654778003692627,
+      "y_pos": 2485,
+      "text": "Vị trí: Rốn lên 4 thốn là <i>Trung quản</i>, từ đó sang ngang mỗi bên 2 thốn là huyệt. (H. 52)",
+      "confidence": 0.8287743015603705
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_029_text.png",
+      "bbox": [
+        [
+          287,
+          2576
+        ],
+        [
+          1636,
+          2576
+        ],
+        [
+          1636,
+          2629
+        ],
+        [
+          287,
+          2629
+        ]
+      ],
+      "score": 0.8547047972679138,
+      "y_pos": 2576,
+      "text": "Cách châm: Châm đứng kim. Sâu 1 đến 2 thốn. Cứu 5 mồi.",
+      "confidence": 0.9956242335694176
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_017_text.png",
+      "bbox": [
+        [
+          285,
+          2667
+        ],
+        [
+          2059,
+          2667
+        ],
+        [
+          2059,
+          2724
+        ],
+        [
+          285,
+          2724
+        ]
+      ],
+      "score": 0.8969744443893433,
+      "y_pos": 2667,
+      "text": "Chủ trị: Loét dạ dày, tá tràng, viêm dạ dày mạn. cấp, thần kinh dạ dày rối loạn.",
+      "confidence": 0.8281884207958128
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0134_016_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          2762
+        ],
+        [
+          569,
+          2762
+        ],
+        [
+          569,
+          2808
+        ],
+        [
+          228,
+          2808
+        ]
+      ],
+      "score": 0.8997529149055481,
+      "y_pos": 2762,
+      "text": "22. Quan môn",
+      "confidence": 0.8684188382966178
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_024_text.png",
+      "bbox": [
+        [
+          288,
+          2849
+        ],
+        [
+          2124,
+          2849
+        ],
+        [
+          2124,
+          2907
+        ],
+        [
+          288,
+          2907
+        ]
+      ],
+      "score": 0.8807098269462585,
+      "y_pos": 2849,
+      "text": "Vị trí: Rốn lên 3 thốn là Kiến lý, từ đó sang ngang mỗi bên 2 thốn là huyệt. (H. 52)",
+      "confidence": 0.5163496122803799
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_025_text.png",
+      "bbox": [
+        [
+          286,
+          2943
+        ],
+        [
+          1628,
+          2943
+        ],
+        [
+          1628,
+          2995
+        ],
+        [
+          286,
+          2995
+        ]
+      ],
+      "score": 0.8778643012046814,
+      "y_pos": 2943,
+      "text": "Cách châm: Châm đứng kim, sâu 1 đến 2 thốn. Cứu 5 mồi.",
+      "confidence": 0.9933136105537415
+    },
+    {
+      "type": "text",
+      "img_path": "p0134_015_text.png",
+      "bbox": [
+        [
+          286,
+          3037
+        ],
+        [
+          1892,
+          3037
+        ],
+        [
+          1892,
+          3092
+        ],
+        [
+          286,
+          3092
+        ]
+      ],
+      "score": 0.9012499451637268,
+      "y_pos": 3037,
+      "text": "Chủ trị: Đau bụng, trướng bụng, chán ăn, sôi bụng, ỉa chảy, phù thũng.",
+      "confidence": 0.9764643419120047
+    },
+    {
+      "type": "footer",
+      "img_path": "p0134_008_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.912568211555481,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0134_028_number.png",
+      "bbox": [
+        [
+          2306,
+          3339
+        ],
+        [
+          2352,
+          3339
+        ],
+        [
+          2352,
+          3378
+        ],
+        [
+          2306,
+          3378
+        ]
+      ],
+      "score": 0.8650820255279541,
+      "y_pos": 3339,
+      "text": "\n\n\n\n\n\n\n    \n\n\n۰.\n\n\n\n\n",
+      "confidence": 0.9750752878539702
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0134.png"
+}

@@ -1,0 +1,240 @@
+{
+  "page_num": 171,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0171_002_text.png",
+      "bbox": [
+        [
+          342,
+          451
+        ],
+        [
+          2121,
+          451
+        ],
+        [
+          2121,
+          619
+        ],
+        [
+          342,
+          619
+        ]
+      ],
+      "score": 0.9724924564361572,
+      "y_pos": 451,
+      "text": "Bài thuốc dưới đây có xuất xứ từ <i>Tân Biên Trung y kinh nghiệm phương</i>.\nTác dụng điều trị: ôn Thận cố sáp. Chủ trị: chứng tiểu lắt nhắt, tiểu són, tiểu\nkhông tự chủ ở những bệnh nhân lão suy, Tỳ, Thận dương hư.",
+      "confidence": 0.9941462740306285
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0171_008_figure_title.png",
+      "bbox": [
+        [
+          407,
+          648
+        ],
+        [
+          1241,
+          648
+        ],
+        [
+          1241,
+          700
+        ],
+        [
+          407,
+          700
+        ]
+      ],
+      "score": 0.5842772126197815,
+      "y_pos": 648,
+      "text": "\n    Phân tích bài thuốc (Pháp bổ - ôn)\n",
+      "confidence": 0.6755819857120514
+    },
+    {
+      "type": "table",
+      "img_path": "p0171_000_table.png",
+      "bbox": [
+        [
+          351,
+          750
+        ],
+        [
+          2123,
+          750
+        ],
+        [
+          2123,
+          1636
+        ],
+        [
+          351,
+          1636
+        ]
+      ],
+      "score": 0.9904725551605225,
+      "y_pos": 750,
+      "text": "Vị thuốc    Dược lý Đông y\nTang phiêu diêu    Ngot, măn, bình. ích Thân cố tinh. Tri di tinh, đái són đái nhiều lần\nQuy bản    Ngot, măn, hàn. Bổ Tâm, Thân. Tư âm\nThổ ty tử    Ngot, cay, ôn. Bổ Can, Thân. Ích tinh tủy. Manh gân cốt\nĐảng sâm    Ngot, bình. Bổ trung ích khí, sinh tân chỉ khát\n<b>Đương quy</b>    Ngot, cay, ôn. Bổ huyết, hoat huyết, nhuân táo, hoat trường.\nLong cốt    Ngọt, sáp, bình. Trấn kinh, an thần, sáp tinh.\nPhục thần    Ngot, nhat, bình. Bổ Tỳ định Tâm\nViễn chí    Ôn, đẳng. An thần ích trí, tán uất. Hóa đờm tiêu ung thũng\nPhúc bồn tử    Không rõ",
+      "confidence": 0.9155155849167906
+    },
+    {
+      "type": "text",
+      "img_path": "p0171_007_text.png",
+      "bbox": [
+        [
+          465,
+          1723
+        ],
+        [
+          1287,
+          1723
+        ],
+        [
+          1287,
+          1772
+        ],
+        [
+          465,
+          1772
+        ]
+      ],
+      "score": 0.6771300435066223,
+      "y_pos": 1723,
+      "text": "* Phân tích bài thuốc Củng đê hoàn.",
+      "confidence": 0.9672885553256886
+    },
+    {
+      "type": "text",
+      "img_path": "p0171_003_text.png",
+      "bbox": [
+        [
+          407,
+          1806
+        ],
+        [
+          2125,
+          1806
+        ],
+        [
+          2125,
+          1918
+        ],
+        [
+          407,
+          1918
+        ]
+      ],
+      "score": 0.9447849988937378,
+      "y_pos": 1806,
+      "text": "– Bài thuốc có xuất xứ \"Trương Trọng Cảnh\". Tác dụng điều trị: ôn bổ\nThận dương, cố trường sáp tinh.",
+      "confidence": 0.9933487659408933
+    },
+    {
+      "type": "text",
+      "img_path": "p0171_006_text.png",
+      "bbox": [
+        [
+          408,
+          1948
+        ],
+        [
+          1227,
+          1948
+        ],
+        [
+          1227,
+          1999
+        ],
+        [
+          408,
+          1999
+        ]
+      ],
+      "score": 0.6904464960098267,
+      "y_pos": 1948,
+      "text": "- Phân tích bài thuốc (Pháp ôn -bổ)",
+      "confidence": 0.4515976100354581
+    },
+    {
+      "type": "table",
+      "img_path": "p0171_001_table.png",
+      "bbox": [
+        [
+          352,
+          2049
+        ],
+        [
+          2124,
+          2049
+        ],
+        [
+          2124,
+          3029
+        ],
+        [
+          352,
+          3029
+        ]
+      ],
+      "score": 0.9900869727134705,
+      "y_pos": 2049,
+      "text": "Vị thuốc    Dược lý Đông y\nPhá cố chỉ    Cay, đẳng, đại ôn. Bổ mênh môn tướng hỏa, nap Thân khí\nPhụ tử chế    Ngọt, cay, đại nhiệt, có độc. Hồi dương cứu nghịch, bổ hỏa trợ dương, trục\nphong hàn thấp tà\nThổ ty tử    Ngọt, cay, ôn. Bổ Can, Thận, ích tinh tủy, mạnh gân cốt\nNgũ vị    Chua, mặn, ôn, không độc. Liễm Phế cố Thận, cố tinh, chỉ mồ hôi, cường\nâm ích khí. Bổ ngũ tang thêm tính trừ nhiệt\nThục địa    Ngot, hơi ôn. Nuôi Thân, dưỡng âm, bổ Thân, bổ huyết\nCửu tử (He)    Cay, ngot. Bổ can Thân, làm ấm lưng gối, chữa tiểu tiên nhiều lần, đái són\nÍch trí nhân    Cay, ôn, ấm Thận, Vị. Cầm tiêu lỏng\nBạch truật    Ngọt, đẳng, hơi ôn. Kiện Vị hòa trung, táo thấp hóa đờm, lợi tiểu\nPhục thần    Ngot, nhat, bình. Bổ Tỳ định Tâm",
+      "confidence": 0.9350548358439056
+    },
+    {
+      "type": "number",
+      "img_path": "p0171_005_number.png",
+      "bbox": [
+        [
+          353,
+          3110
+        ],
+        [
+          433,
+          3110
+        ],
+        [
+          433,
+          3148
+        ],
+        [
+          353,
+          3148
+        ]
+      ],
+      "score": 0.8665061593055725,
+      "y_pos": 3110,
+      "text": "\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0171_004_footer.png",
+      "bbox": [
+        [
+          293,
+          3310
+        ],
+        [
+          1073,
+          3310
+        ],
+        [
+          1073,
+          3365
+        ],
+        [
+          293,
+          3365
+        ]
+      ],
+      "score": 0.8767521977424622,
+      "y_pos": 3310,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8792689868382045
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0171.png"
+}

@@ -1,0 +1,136 @@
+{
+  "page_num": 541,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0541_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9136318564414978,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0541_000_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9185050129890442,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.997708330154419
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0541_004_reference_content.png",
+      "bbox": [
+        [
+          228,
+          307
+        ],
+        [
+          2362,
+          307
+        ],
+        [
+          2362,
+          435
+        ],
+        [
+          228,
+          435
+        ]
+      ],
+      "score": 0.5692410469055176,
+      "y_pos": 307,
+      "text": "606. Điện giản (động kinh thể trầm uất): Đào đạo, Yêu kỳ, Nhân trung, Nội quan, Phong\nlong.",
+      "confidence": 0.9488266070292306
+    },
+    {
+      "type": "number",
+      "img_path": "p0541_003_number.png",
+      "bbox": [
+        [
+          2318,
+          3337
+        ],
+        [
+          2367,
+          3337
+        ],
+        [
+          2367,
+          3374
+        ],
+        [
+          2318,
+          3374
+        ]
+      ],
+      "score": 0.8599826693534851,
+      "y_pos": 3337,
+      "text": "    \n            \n    \n\n    \n\n\n\n\n    \n    \n\n    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0541_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.903917670249939,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0541.png"
+}

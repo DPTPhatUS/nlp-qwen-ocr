@@ -1,0 +1,552 @@
+{
+  "page_num": 543,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0543_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9124549627304077,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0543_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.915490448474884,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9977066326141357
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0543_020_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          323
+        ],
+        [
+          866,
+          323
+        ],
+        [
+          866,
+          387
+        ],
+        [
+          227,
+          387
+        ]
+      ],
+      "score": 0.5730960369110107,
+      "y_pos": 323,
+      "text": "Phần 26. BỆNH NGOÀI DA",
+      "confidence": 0.8416556715965271
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0543_019_reference_content.png",
+      "bbox": [
+        [
+          230,
+          417
+        ],
+        [
+          1229,
+          417
+        ],
+        [
+          1229,
+          484
+        ],
+        [
+          230,
+          484
+        ]
+      ],
+      "score": 0.6703168749809265,
+      "y_pos": 417,
+      "text": "629. Dị ứng mần ngứa: Khúc trì, Huyết hải.",
+      "confidence": 0.9994915656068109
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0543_009_reference_content.png",
+      "bbox": [
+        [
+          232,
+          505
+        ],
+        [
+          1781,
+          505
+        ],
+        [
+          1781,
+          576
+        ],
+        [
+          232,
+          576
+        ]
+      ],
+      "score": 0.7504252791404724,
+      "y_pos": 505,
+      "text": "630. Dị ứng mẫn ngứa: Phong môn, Khúc trì, Liệt khuyết, Huyết hải.",
+      "confidence": 0.9973093078416937
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0543_008_reference_content.png",
+      "bbox": [
+        [
+          232,
+          599
+        ],
+        [
+          1444,
+          599
+        ],
+        [
+          1444,
+          666
+        ],
+        [
+          232,
+          666
+        ]
+      ],
+      "score": 0.7579594254493713,
+      "y_pos": 599,
+      "text": "631. Dị ứng mần ngứa: Cách du, Khúc trì, Huyết hải.",
+      "confidence": 0.9995452502988419
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0543_006_reference_content.png",
+      "bbox": [
+        [
+          232,
+          691
+        ],
+        [
+          2073,
+          691
+        ],
+        [
+          2073,
+          758
+        ],
+        [
+          232,
+          758
+        ]
+      ],
+      "score": 0.7780910134315491,
+      "y_pos": 691,
+      "text": "632. Dị ứng mẫn ngứa: Huyết hải, Khúc trì, Liệt khuyết, Túc tam lý, Tam âm giao.",
+      "confidence": 0.9993644654750824
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0543_005_reference_content.png",
+      "bbox": [
+        [
+          232,
+          783
+        ],
+        [
+          1698,
+          783
+        ],
+        [
+          1698,
+          848
+        ],
+        [
+          232,
+          848
+        ]
+      ],
+      "score": 0.7799175381660461,
+      "y_pos": 783,
+      "text": "633. Nổi mề đay ngứa: Khúc trì, Đại chùy, Túc tam lý, Huyết hải.",
+      "confidence": 0.999676151709123
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0543_007_reference_content.png",
+      "bbox": [
+        [
+          232,
+          877
+        ],
+        [
+          1214,
+          877
+        ],
+        [
+          1214,
+          941
+        ],
+        [
+          232,
+          941
+        ]
+      ],
+      "score": 0.7629479169845581,
+      "y_pos": 877,
+      "text": "634. Phong chẩn: Kiên ngung, Dương khê.",
+      "confidence": 0.9963401483326424
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0543_012_reference_content.png",
+      "bbox": [
+        [
+          232,
+          968
+        ],
+        [
+          1363,
+          968
+        ],
+        [
+          1363,
+          1033
+        ],
+        [
+          232,
+          1033
+        ]
+      ],
+      "score": 0.7377516627311707,
+      "y_pos": 968,
+      "text": "635. Phong chẩn khắp người: Hợp cốc, Khúc trì.",
+      "confidence": 0.9994024646778902
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0543_016_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1058
+        ],
+        [
+          1186,
+          1058
+        ],
+        [
+          1186,
+          1122
+        ],
+        [
+          232,
+          1122
+        ]
+      ],
+      "score": 0.7008766531944275,
+      "y_pos": 1058,
+      "text": "636. Ghẻ đau khắp người: Chí âm, Óc ế.",
+      "confidence": 0.9990544974803924
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0543_013_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1151
+        ],
+        [
+          1773,
+          1151
+        ],
+        [
+          1773,
+          1218
+        ],
+        [
+          232,
+          1218
+        ]
+      ],
+      "score": 0.7318193316459656,
+      "y_pos": 1151,
+      "text": "637. Môi mép có mụn bọc nước: Thừa tương, Địa thương, Lệ đoài.",
+      "confidence": 0.9947001542896032
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0543_011_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1243
+        ],
+        [
+          2153,
+          1243
+        ],
+        [
+          2153,
+          1308
+        ],
+        [
+          232,
+          1308
+        ]
+      ],
+      "score": 0.7411074638366699,
+      "y_pos": 1243,
+      "text": "638. Viêm bao chân lông, đầu đinh, mụn nhọt: Đốc du, Đại chùy, Tâm du, Cách du.",
+      "confidence": 0.9968672122484372
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0543_017_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1333
+        ],
+        [
+          1329,
+          1333
+        ],
+        [
+          1329,
+          1399
+        ],
+        [
+          232,
+          1399
+        ]
+      ],
+      "score": 0.6913052797317505,
+      "y_pos": 1333,
+      "text": "639. Ung nhọt: Thủ tam lý, Dưỡng lão, Hợp cốc.",
+      "confidence": 0.9942525501052538
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0543_014_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1426
+        ],
+        [
+          1307,
+          1426
+        ],
+        [
+          1307,
+          1491
+        ],
+        [
+          231,
+          1491
+        ]
+      ],
+      "score": 0.7134765386581421,
+      "y_pos": 1426,
+      "text": "640. Mun nhọt mới mọc: Chí dương, Úy trung.",
+      "confidence": 0.9991243799527486
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0543_010_reference_content.png",
+      "bbox": [
+        [
+          230,
+          1516
+        ],
+        [
+          2300,
+          1516
+        ],
+        [
+          2300,
+          1583
+        ],
+        [
+          230,
+          1583
+        ]
+      ],
+      "score": 0.7427366375923157,
+      "y_pos": 1516,
+      "text": "641. Đơn độc (viêm bạch mạch): Xích trạch, Ủy trung đều dùng kim 3 cạnh chích nặn máu.",
+      "confidence": 0.999250936914574
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0543_015_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1608
+        ],
+        [
+          1668,
+          1608
+        ],
+        [
+          1668,
+          1674
+        ],
+        [
+          231,
+          1674
+        ]
+      ],
+      "score": 0.7047795653343201,
+      "y_pos": 1608,
+      "text": "642. Sởi: Khúc trì, Đại chùy, Hợp cốc, Ấn đường, Thiếu thương.",
+      "confidence": 0.9929393222555518
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0543_018_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1701
+        ],
+        [
+          1432,
+          1701
+        ],
+        [
+          1432,
+          1767
+        ],
+        [
+          231,
+          1767
+        ]
+      ],
+      "score": 0.6847305297851562,
+      "y_pos": 1701,
+      "text": "643. Thủy đậu: Chích nặn máu Khúc trạch, Ủy trung.",
+      "confidence": 0.9762842253996775
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0543_004_reference_content.png",
+      "bbox": [
+        [
+          230,
+          1794
+        ],
+        [
+          2361,
+          1794
+        ],
+        [
+          2361,
+          1921
+        ],
+        [
+          230,
+          1921
+        ]
+      ],
+      "score": 0.7928822040557861,
+      "y_pos": 1794,
+      "text": "644. Bệnh nhân tiết (ghẻ da trâu, ngưu bì tiên, bụi bạc trắng): Chí dương, Dương lăng\ntuyền, Chi câu.",
+      "confidence": 0.9957501404062972
+    },
+    {
+      "type": "number",
+      "img_path": "p0543_003_number.png",
+      "bbox": [
+        [
+          2317,
+          3337
+        ],
+        [
+          2367,
+          3337
+        ],
+        [
+          2367,
+          3374
+        ],
+        [
+          2317,
+          3374
+        ]
+      ],
+      "score": 0.8529869318008423,
+      "y_pos": 3337,
+      "text": "    \n    \n    \n\n    \n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0543_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3340
+        ],
+        [
+          1325,
+          3340
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.910738468170166,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9989979435812752
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0543.png"
+}

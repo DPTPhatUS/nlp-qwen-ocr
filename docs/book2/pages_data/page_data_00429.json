@@ -1,0 +1,656 @@
+{
+  "page_num": 429,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0429_007_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2370,
+          143
+        ],
+        [
+          2370,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.929044783115387,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7452945528285844
+    },
+    {
+      "type": "header",
+      "img_path": "p0429_011_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1449,
+          150
+        ],
+        [
+          1449,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9134745001792908,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỬU",
+      "confidence": 0.9870374363202316
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0429_009_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          327
+        ],
+        [
+          489,
+          327
+        ],
+        [
+          489,
+          375
+        ],
+        [
+          224,
+          375
+        ]
+      ],
+      "score": 0.9175592064857483,
+      "y_pos": 327,
+      "text": "Đau đầu",
+      "confidence": 0.8409507340855069
+    },
+    {
+      "type": "text",
+      "img_path": "p0429_000_text.png",
+      "bbox": [
+        [
+          220,
+          418
+        ],
+        [
+          2360,
+          418
+        ],
+        [
+          2360,
+          686
+        ],
+        [
+          220,
+          686
+        ]
+      ],
+      "score": 0.9831226468086243,
+      "y_pos": 418,
+      "text": "Đau đầu là một triệu chứng thường có ở nhiều loại bệnh, ngoại cảm hay nội thương đều dẫn\ntới đau đầu. Ngoại cảm dẫn tới đau đầu, phần nhiều biểu hiện sợ lạnh, sốt, chảy nước mũi, ho\nhắng. Nội thương đau đầu do hư tổn ở ba tạng can, tỳ, thận. Biểu hiện ngủ không ngon, thân\nthể mệt mỏi, váng đầu tức ngực, buôn nôn, tiêu hóa kém, đầu não sinh chứng \"phiền muộn\".",
+      "confidence": 0.9996602339268967
+    },
+    {
+      "type": "text",
+      "img_path": "p0429_003_text.png",
+      "bbox": [
+        [
+          280,
+          724
+        ],
+        [
+          2360,
+          724
+        ],
+        [
+          2360,
+          847
+        ],
+        [
+          280,
+          847
+        ]
+      ],
+      "score": 0.9655293822288513,
+      "y_pos": 724,
+      "text": "Cách chữa: Do nguồn gốc sinh bệnh khác nhau, người bệnh thấy đau ở những chỗ khác\nnhau, vì vậy tuỳ theo nguyên nhân và điểm đau mà xử lý.",
+      "confidence": 0.9945237256903094
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0429_017_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          887
+        ],
+        [
+          940,
+          887
+        ],
+        [
+          940,
+          935
+        ],
+        [
+          344,
+          935
+        ]
+      ],
+      "score": 0.864020586013794,
+      "y_pos": 887,
+      "text": "a. Điều tri theo điểm đau",
+      "confidence": 0.9912662130815012
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0429_021_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          979
+        ],
+        [
+          683,
+          979
+        ],
+        [
+          683,
+          1025
+        ],
+        [
+          345,
+          1025
+        ]
+      ],
+      "score": 0.7600977420806885,
+      "y_pos": 979,
+      "text": "Đau cả đầu",
+      "confidence": 0.9688691198825836
+    },
+    {
+      "type": "text",
+      "img_path": "p0429_013_text.png",
+      "bbox": [
+        [
+          401,
+          1067
+        ],
+        [
+          1784,
+          1067
+        ],
+        [
+          1784,
+          1122
+        ],
+        [
+          401,
+          1122
+        ]
+      ],
+      "score": 0.906733512878418,
+      "y_pos": 1067,
+      "text": "Phương 1 lấy huyệt: Túc tam lý, Hợp cốc, Dương lăng tuyên.",
+      "confidence": 0.6080523093541463
+    },
+    {
+      "type": "text",
+      "img_path": "p0429_005_text.png",
+      "bbox": [
+        [
+          397,
+          1159
+        ],
+        [
+          2358,
+          1159
+        ],
+        [
+          2358,
+          1285
+        ],
+        [
+          397,
+          1285
+        ]
+      ],
+      "score": 0.9653158187866211,
+      "y_pos": 1159,
+      "text": "Ba huyệt trên, lấy cả hai bên, dùng hào kim châm tả pháp, đồng thời vê chuyển, có cảm\ngiác tê tức thì dừng, lưu kim 30 phút. Mỗi ngày hoặc cách ngày châm một lần.",
+      "confidence": 0.999688231568227
+    },
+    {
+      "type": "text",
+      "img_path": "p0429_006_text.png",
+      "bbox": [
+        [
+          397,
+          1323
+        ],
+        [
+          2359,
+          1323
+        ],
+        [
+          2359,
+          1443
+        ],
+        [
+          397,
+          1443
+        ]
+      ],
+      "score": 0.9642969369888306,
+      "y_pos": 1323,
+      "text": "Phương 2 lấy huyệt: Bách hội, Thần đình, Phong trì. Cả ba huyệt đều dùng mồi ngải\ncứu từ ba đến năm mồi.",
+      "confidence": 0.9960002594264635
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0429_023_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          1486
+        ],
+        [
+          1463,
+          1486
+        ],
+        [
+          1463,
+          1538
+        ],
+        [
+          345,
+          1538
+        ]
+      ],
+      "score": 0.621878981590271,
+      "y_pos": 1486,
+      "text": "+ Đau đỉnh đầu, lấy huyệt: Bách hội, Liệt khuyết.",
+      "confidence": 0.9608307106822145
+    },
+    {
+      "type": "text",
+      "img_path": "p0429_002_text.png",
+      "bbox": [
+        [
+          393,
+          1577
+        ],
+        [
+          2357,
+          1577
+        ],
+        [
+          2357,
+          1772
+        ],
+        [
+          393,
+          1772
+        ]
+      ],
+      "score": 0.9766085147857666,
+      "y_pos": 1577,
+      "text": "Dùng hào kim châm Bách hội, châm chếch lên, vê chuyển tiến kim, đến khi cảm giác tê\ntức lan đến khuỷu tay thì dừng. Đều lưu kim 30 phút. Các huyệt khác như <i>Phong trì</i>,\nĐại trù, Thái dương có thể chọn dùng.",
+      "confidence": 0.992584309567056
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0429_022_paragraph_title.png",
+      "bbox": [
+        [
+          401,
+          1814
+        ],
+        [
+          1478,
+          1814
+        ],
+        [
+          1478,
+          1863
+        ],
+        [
+          401,
+          1863
+        ]
+      ],
+      "score": 0.6440117359161377,
+      "y_pos": 1814,
+      "text": "Phương huyệt kinh nghiệm đạt hiệu quả cao",
+      "confidence": 0.9500404610190281
+    },
+    {
+      "type": "text",
+      "img_path": "p0429_010_text.png",
+      "bbox": [
+        [
+          402,
+          1905
+        ],
+        [
+          1627,
+          1905
+        ],
+        [
+          1627,
+          1953
+        ],
+        [
+          402,
+          1953
+        ]
+      ],
+      "score": 0.9152568578720093,
+      "y_pos": 1905,
+      "text": "+ Bách hôi, Hành gian, chữa đau đỉnh đầu do can hoả.",
+      "confidence": 0.8347193852618888
+    },
+    {
+      "type": "text",
+      "img_path": "p0429_008_text.png",
+      "bbox": [
+        [
+          402,
+          1993
+        ],
+        [
+          1938,
+          1993
+        ],
+        [
+          1938,
+          2045
+        ],
+        [
+          402,
+          2045
+        ]
+      ],
+      "score": 0.9234994053840637,
+      "y_pos": 1993,
+      "text": "+ Bách hôi, Thông thiên, Dũng tuyền, chữa đau đỉnh đầu do thân hư.",
+      "confidence": 0.8918280487551409
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0429_018_paragraph_title.png",
+      "bbox": [
+        [
+          346,
+          2086
+        ],
+        [
+          716,
+          2086
+        ],
+        [
+          716,
+          2134
+        ],
+        [
+          346,
+          2134
+        ]
+      ],
+      "score": 0.8637570142745972,
+      "y_pos": 2086,
+      "text": "+ Đau bên đầu",
+      "confidence": 0.8075029293696085
+    },
+    {
+      "type": "text",
+      "img_path": "p0429_004_text.png",
+      "bbox": [
+        [
+          397,
+          2177
+        ],
+        [
+          2358,
+          2177
+        ],
+        [
+          2358,
+          2299
+        ],
+        [
+          397,
+          2299
+        ]
+      ],
+      "score": 0.9654911160469055,
+      "y_pos": 2177,
+      "text": "Phương 1: Lấy huyệt Huyền chung, dùng hào kim vê chuyển tiến kim theo phép tả, lưu\nkim 15 phút.",
+      "confidence": 0.9912371983130772
+    },
+    {
+      "type": "text",
+      "img_path": "p0429_016_text.png",
+      "bbox": [
+        [
+          400,
+          2338
+        ],
+        [
+          1846,
+          2338
+        ],
+        [
+          1846,
+          2393
+        ],
+        [
+          400,
+          2393
+        ]
+      ],
+      "score": 0.8873019218444824,
+      "y_pos": 2338,
+      "text": "Phương 2: Lấy huyết <i>Dũng tuyền</i>, dùng ngải nhung cứu ba mồi.",
+      "confidence": 0.8472505978175572
+    },
+    {
+      "type": "text",
+      "img_path": "p0429_001_text.png",
+      "bbox": [
+        [
+          396,
+          2430
+        ],
+        [
+          2362,
+          2430
+        ],
+        [
+          2362,
+          2697
+        ],
+        [
+          396,
+          2697
+        ]
+      ],
+      "score": 0.9805816411972046,
+      "y_pos": 2430,
+      "text": "Phương 3: Lấy huyệt Đầu duy, Liệt khuyết, dùng hào kim châm huyệt Đầu duy trước,\nchâm dưới da, chếch lên đỉnh đầu, đến khi có cảm giác trướng tức thì dừng, sau đó\nchâm huyệt <i>Liệt khuyết</i>, châm chếch lên, lưu kim 30 phút. Hoặc châm thêm huyệt <i>Ty</i>\ntrúc không.",
+      "confidence": 0.9810436781490274
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0429_020_paragraph_title.png",
+      "bbox": [
+        [
+          402,
+          2738
+        ],
+        [
+          1478,
+          2738
+        ],
+        [
+          1478,
+          2790
+        ],
+        [
+          402,
+          2790
+        ]
+      ],
+      "score": 0.789617657661438,
+      "y_pos": 2738,
+      "text": "Phương huyệt kinh nghiệm đạt hiệu quả cao",
+      "confidence": 0.9988314745038055
+    },
+    {
+      "type": "text",
+      "img_path": "p0429_015_text.png",
+      "bbox": [
+        [
+          401,
+          2825
+        ],
+        [
+          2330,
+          2825
+        ],
+        [
+          2330,
+          2882
+        ],
+        [
+          401,
+          2882
+        ]
+      ],
+      "score": 0.8873589634895325,
+      "y_pos": 2825,
+      "text": "+ Đầu duy, Khúc phát, Chi câu. Chữa đau một bên đầu có nhức mắt (thiên đầu thống).",
+      "confidence": 0.9984829071022215
+    },
+    {
+      "type": "text",
+      "img_path": "p0429_014_text.png",
+      "bbox": [
+        [
+          402,
+          2918
+        ],
+        [
+          1737,
+          2918
+        ],
+        [
+          1737,
+          2971
+        ],
+        [
+          402,
+          2971
+        ]
+      ],
+      "score": 0.8963462710380554,
+      "y_pos": 2918,
+      "text": "+ Huyền lư, Hàm yếm. Chữa đau vùng tóc mai hai bên đầu.",
+      "confidence": 0.8986099780651561
+    },
+    {
+      "type": "text",
+      "img_path": "p0429_024_text.png",
+      "bbox": [
+        [
+          393,
+          3101
+        ],
+        [
+          2333,
+          3101
+        ],
+        [
+          2333,
+          3158
+        ],
+        [
+          393,
+          3158
+        ]
+      ],
+      "score": 0.5426866412162781,
+      "y_pos": 3101,
+      "text": "Các huyệt đều dùng hào kim vệ chuyển tiến kim, theo phép tả, lưu kim 15 đến 20 phút.",
+      "confidence": 0.9916709550591403
+    },
+    {
+      "type": "number",
+      "img_path": "p0429_019_number.png",
+      "bbox": [
+        [
+          2307,
+          3300
+        ],
+        [
+          2350,
+          3300
+        ],
+        [
+          2350,
+          3335
+        ],
+        [
+          2307,
+          3335
+        ]
+      ],
+      "score": 0.8507969975471497,
+      "y_pos": 3300,
+      "text": "    \n\n            \n    \n    \n\n    ۰\n    ۰.\n    ",
+      "confidence": 0.9447417830427488
+    },
+    {
+      "type": "footer",
+      "img_path": "p0429_012_footer.png",
+      "bbox": [
+        [
+          228,
+          3309
+        ],
+        [
+          1324,
+          3309
+        ],
+        [
+          1324,
+          3355
+        ],
+        [
+          228,
+          3355
+        ]
+      ],
+      "score": 0.9071279764175415,
+      "y_pos": 3309,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9984300597658697
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0429.png"
+}

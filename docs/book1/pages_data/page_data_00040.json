@@ -1,0 +1,552 @@
+{
+  "page_num": 40,
+  "content": [
+    {
+      "type": "paragraph_title",
+      "img_path": "p0040_017_paragraph_title.png",
+      "bbox": [
+        [
+          1010,
+          464
+        ],
+        [
+          1461,
+          464
+        ],
+        [
+          1461,
+          527
+        ],
+        [
+          1010,
+          527
+        ]
+      ],
+      "score": 0.626388669013977,
+      "y_pos": 464,
+      "text": "THIẾU ÂM CHỨNG",
+      "confidence": 0.964025218039751
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_016_text.png",
+      "bbox": [
+        [
+          368,
+          647
+        ],
+        [
+          2106,
+          647
+        ],
+        [
+          2106,
+          749
+        ],
+        [
+          368,
+          749
+        ]
+      ],
+      "score": 0.6539718508720398,
+      "y_pos": 647,
+      "text": "- Chủ chứng (triệu chứng quan trọng) của Thiếu âm chứng: rối loạn ý thức (tâm phiền hoặc\nlìm lim, lơ mơ), mach hư.",
+      "confidence": 0.9947666000436853
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_014_text.png",
+      "bbox": [
+        [
+          370,
+          769
+        ],
+        [
+          2104,
+          769
+        ],
+        [
+          2104,
+          870
+        ],
+        [
+          370,
+          870
+        ]
+      ],
+      "score": 0.6738703846931458,
+      "y_pos": 769,
+      "text": "- Bệnh chứng ở Thiếu âm bao gồm Thiếu âm hóa nhiệt chứng (tình trạng ít nguy cấp hơn)\nvà Thiếu âm hóa hàn chứng (khi tình trạng bệnh nguy cấp hơn).",
+      "confidence": 0.99868173558789
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_015_text.png",
+      "bbox": [
+        [
+          369,
+          893
+        ],
+        [
+          2105,
+          893
+        ],
+        [
+          2105,
+          991
+        ],
+        [
+          369,
+          991
+        ]
+      ],
+      "score": 0.6551521420478821,
+      "y_pos": 893,
+      "text": "- Tình trạng tay chân lạnh và mạch vi (thể hiện tình trạng suy sụp tuần hoàn) là triệu chứng\ncơ bản phân biệt giữa Thiếu âm hóa nhiệt chứng và Thiếu âm hóa hàn chứng",
+      "confidence": 0.9875253993265927
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_013_text.png",
+      "bbox": [
+        [
+          369,
+          1014
+        ],
+        [
+          2109,
+          1014
+        ],
+        [
+          2109,
+          1115
+        ],
+        [
+          369,
+          1115
+        ]
+      ],
+      "score": 0.6793142557144165,
+      "y_pos": 1014,
+      "text": "- Thiếu âm hóa nhiệt chứng có thể biểu hiện dưới 2 dạng: Âm hư nhiệt chứng và Âm hư\nthủy đình",
+      "confidence": 0.9954305505370074
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_011_text.png",
+      "bbox": [
+        [
+          368,
+          1136
+        ],
+        [
+          2105,
+          1136
+        ],
+        [
+          2105,
+          1241
+        ],
+        [
+          368,
+          1241
+        ]
+      ],
+      "score": 0.7089788913726807,
+      "y_pos": 1136,
+      "text": "- Tình trạng tiểu lợi hay không lợi là triệu chứng cơ bản phân biệt giữa Âm hư nhiệt chứng\nvà Âm hư thủy đình",
+      "confidence": 0.9951901637341665
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_009_text.png",
+      "bbox": [
+        [
+          368,
+          1262
+        ],
+        [
+          2106,
+          1262
+        ],
+        [
+          2106,
+          1364
+        ],
+        [
+          368,
+          1364
+        ]
+      ],
+      "score": 0.7234625816345215,
+      "y_pos": 1262,
+      "text": "- Thiếu âm hóa hàn chứng có thể biểu hiện dưới 2 dạng: dương hư hàn chứng và âm thịnh\ncách dương chứng",
+      "confidence": 0.9894592098577726
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_010_text.png",
+      "bbox": [
+        [
+          369,
+          1384
+        ],
+        [
+          2107,
+          1384
+        ],
+        [
+          2107,
+          1486
+        ],
+        [
+          369,
+          1486
+        ]
+      ],
+      "score": 0.7172710299491882,
+      "y_pos": 1384,
+      "text": "- Tình trạng có sốt hay không sốt là triệu chứng cơ bản phân biệt giữa dương hư hàn chứng\n(không sốt, lanh tứ chi) và <i>âm thịnh cách dương chứng</i> (sốt, lanh tứ chi)",
+      "confidence": 0.9988744760038812
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_012_text.png",
+      "bbox": [
+        [
+          368,
+          1504
+        ],
+        [
+          2106,
+          1504
+        ],
+        [
+          2106,
+          1609
+        ],
+        [
+          368,
+          1609
+        ]
+      ],
+      "score": 0.7043852806091309,
+      "y_pos": 1504,
+      "text": "- Thuốc tiêu biểu trong điều trị Âm hư nhiệt chứng của Thiếu âm hóa nhiệt: Hoàng liên a\ngiao thang",
+      "confidence": 0.9984978523928574
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_020_text.png",
+      "bbox": [
+        [
+          368,
+          1627
+        ],
+        [
+          1985,
+          1627
+        ],
+        [
+          1985,
+          1682
+        ],
+        [
+          368,
+          1682
+        ]
+      ],
+      "score": 0.5787057280540466,
+      "y_pos": 1627,
+      "text": "- Thuốc tiêu biểu trong điều trị Âm hư thủy đình của Thiếu âm hóa nhiệt: Đạo xích tán",
+      "confidence": 0.9998027517877776
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_018_text.png",
+      "bbox": [
+        [
+          369,
+          1701
+        ],
+        [
+          2106,
+          1701
+        ],
+        [
+          2106,
+          1809
+        ],
+        [
+          369,
+          1809
+        ]
+      ],
+      "score": 0.6217374801635742,
+      "y_pos": 1701,
+      "text": "- Thuốc tiêu biểu trong điều tri Âm thinh cách dương chứng của Thiếu âm hóa hàn: Thông\nmach tứ nghịch tán",
+      "confidence": 0.9964568157087672
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_019_text.png",
+      "bbox": [
+        [
+          366,
+          1824
+        ],
+        [
+          2037,
+          1824
+        ],
+        [
+          2037,
+          1879
+        ],
+        [
+          366,
+          1879
+        ]
+      ],
+      "score": 0.6207898855209351,
+      "y_pos": 1824,
+      "text": "- Thuốc tiêu biểu trong điều trị dương hư hàn chứng của Thiếu âm hóa hàn: Tứ nghịch thang",
+      "confidence": 0.9998040834625999
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0040_004_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1981
+        ],
+        [
+          1005,
+          1981
+        ],
+        [
+          1005,
+          2032
+        ],
+        [
+          344,
+          2032
+        ]
+      ],
+      "score": 0.9301157593727112,
+      "y_pos": 1981,
+      "text": "2.6. Quyết âm bệnh chứng",
+      "confidence": 0.998528425510113
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0040_005_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          2074
+        ],
+        [
+          1976,
+          2074
+        ],
+        [
+          1976,
+          2129
+        ],
+        [
+          343,
+          2129
+        ]
+      ],
+      "score": 0.9282624125480652,
+      "y_pos": 2074,
+      "text": "2.6.1. Nhắc lại cơ sở giải phẫu sinh lý học của hệ thống Quyết âm",
+      "confidence": 0.9990558775503244
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_001_text.png",
+      "bbox": [
+        [
+          342,
+          2172
+        ],
+        [
+          2125,
+          2172
+        ],
+        [
+          2125,
+          2339
+        ],
+        [
+          342,
+          2339
+        ]
+      ],
+      "score": 0.972388744354248,
+      "y_pos": 2172,
+      "text": "Hệ thống Quyết âm bao gồm Túc Quyết âm Can và Thủ Quyết âm Tâm\nbào. Hệ thống Quyết âm có quan hệ biểu lý với hệ thống Thiếu dương gồm Thủ\nThiếu dương Tam tiêu và Túc Thiếu dương Đởm.",
+      "confidence": 0.9961566739558639
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_003_text.png",
+      "bbox": [
+        [
+          406,
+          2371
+        ],
+        [
+          2123,
+          2371
+        ],
+        [
+          2123,
+          2476
+        ],
+        [
+          406,
+          2476
+        ]
+      ],
+      "score": 0.9447906017303467,
+      "y_pos": 2371,
+      "text": "- Can có chức năng tàng huyết, chủ sơ tiết, thích điều đạt, hợp tại cân,\nkhai khiếu ở mắt.",
+      "confidence": 0.8215012527249785
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_002_text.png",
+      "bbox": [
+        [
+          406,
+          2512
+        ],
+        [
+          2123,
+          2512
+        ],
+        [
+          2123,
+          2622
+        ],
+        [
+          406,
+          2622
+        ]
+      ],
+      "score": 0.9522396922111511,
+      "y_pos": 2512,
+      "text": "- Tâm bào có vị trí ở ngoài Tâm, thừa lệnh Tâm, trong chứa tướng hỏa,\nquan hệ biểu lý với Tam tiêu.",
+      "confidence": 0.9944613921349832
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0040_006_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          2679
+        ],
+        [
+          684,
+          2679
+        ],
+        [
+          684,
+          2729
+        ],
+        [
+          344,
+          2729
+        ]
+      ],
+      "score": 0.9212844371795654,
+      "y_pos": 2679,
+      "text": "2.6.2. Bệnh lý",
+      "confidence": 0.9223977774381638
+    },
+    {
+      "type": "text",
+      "img_path": "p0040_000_text.png",
+      "bbox": [
+        [
+          340,
+          2778
+        ],
+        [
+          2124,
+          2778
+        ],
+        [
+          2124,
+          3020
+        ],
+        [
+          340,
+          3020
+        ]
+      ],
+      "score": 0.9792773127555847,
+      "y_pos": 2778,
+      "text": "Quyết âm bệnh được xem là giai đoạn cuối cùng của Lục kinh truyền\nbiến, do đó bệnh cảnh thường phong phú và nặng. Trong thực tế, rất khó xác\nđịnh giữa giai đoạn Thiếu âm và giai đoạn Quyết âm tình trạng nào nặng nề\nhơn, nguy kịch hơn (dù phân biệt chẩn đoán không khó).",
+      "confidence": 0.9981870961271433
+    },
+    {
+      "type": "number",
+      "img_path": "p0040_008_number.png",
+      "bbox": [
+        [
+          2069,
+          3110
+        ],
+        [
+          2121,
+          3110
+        ],
+        [
+          2121,
+          3147
+        ],
+        [
+          2069,
+          3147
+        ]
+      ],
+      "score": 0.8557757139205933,
+      "y_pos": 3110,
+      "text": "\n    \n        \n    \n    \n\n\n\n\n    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0040_007_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1072,
+          3311
+        ],
+        [
+          1072,
+          3366
+        ],
+        [
+          293,
+          3366
+        ]
+      ],
+      "score": 0.9161953926086426,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8713696428707668
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0040.png"
+}

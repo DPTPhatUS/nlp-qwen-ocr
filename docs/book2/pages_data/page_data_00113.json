@@ -1,0 +1,266 @@
+{
+  "page_num": 113,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0113_005_header.png",
+      "bbox": [
+        [
+          1608,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1608,
+          202
+        ]
+      ],
+      "score": 0.9089740514755249,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7639200864803224
+    },
+    {
+      "type": "header",
+      "img_path": "p0113_006_header.png",
+      "bbox": [
+        [
+          230,
+          153
+        ],
+        [
+          601,
+          153
+        ],
+        [
+          601,
+          199
+        ],
+        [
+          230,
+          199
+        ]
+      ],
+      "score": 0.8986251950263977,
+      "y_pos": 153,
+      "text": "CÁCH CHÂM CỨU",
+      "confidence": 0.9803280234336853
+    },
+    {
+      "type": "text",
+      "img_path": "p0113_004_text.png",
+      "bbox": [
+        [
+          337,
+          345
+        ],
+        [
+          2357,
+          345
+        ],
+        [
+          2357,
+          474
+        ],
+        [
+          337,
+          474
+        ]
+      ],
+      "score": 0.9585237503051758,
+      "y_pos": 345,
+      "text": "của kinh mạch. Ứng dụng của phép nâng ấn nhằm giải quyết tình trạng mất cân bằng\ntrong quan hệ giữa biểu và lý.",
+      "confidence": 0.9987654340703314
+    },
+    {
+      "type": "text",
+      "img_path": "p0113_002_text.png",
+      "bbox": [
+        [
+          283,
+          505
+        ],
+        [
+          2359,
+          505
+        ],
+        [
+          2359,
+          1055
+        ],
+        [
+          283,
+          1055
+        ]
+      ],
+      "score": 0.9834043383598328,
+      "y_pos": 505,
+      "text": "5. Cửu lục là cách đếm số lần làm thao tác. Số lần lẻ là dương, số lần chẵn là âm, số lẻ gồm\n1, 3, 5, 7, 9, số chẵn gồm 2, 4, 6, 8. Theo truyền thống, người ta lấy số 9 làm số dương\ntiêu biểu, số 6 làm số âm tiêu biểu. Khi thao tác kim châm như vê hoặc nâng ấn kim, số\nlần thao tác 9 là bổ: số lần thao tác 6 là tả. Bổ là dương số, tả là âm số, vì vậy số dương\ncũng chỉ kết hợp với cách vê bổ, nâng ấn theo cách bổ; số âm chỉ kết hợp theo cách vê tả,\nnâng ấn theo cách tả. Không có trường hợp nào vê tả lại làm số lẻ, hoặc ngược lại,....Nếu\nbệnh tình nghiêm trọng, người ta có thể nâng số 6 hoặc số 9 lên nhiều lần như 6x3;6x 6;\n6x9...",
+      "confidence": 0.9928063485491982
+    },
+    {
+      "type": "text",
+      "img_path": "p0113_000_text.png",
+      "bbox": [
+        [
+          284,
+          1095
+        ],
+        [
+          2359,
+          1095
+        ],
+        [
+          2359,
+          1647
+        ],
+        [
+          284,
+          1647
+        ]
+      ],
+      "score": 0.9855654835700989,
+      "y_pos": 1095,
+      "text": "6. Hô hấp là cách khi tiến hay rút kim, bảo người bệnh thở ra hay hít vào theo lệnh của thầy\nthuốc. Bổ là khi thở ra thì tiến kim, khi hít vào thì rút kim. Khi thở ra, khí trong con người\ncòn lại ít, ta tiến kim vào, khí theo kim vào, đó là thêm cho cái ít. Khi hít khí vào, khí trong\ncon người có thừa, ta rút kim ra, khí có thể theo kim ra chút ít cũng không làm hại cái có\nthừa. Tả là khi hít vào ta tiến kim, khi thở ra ta rút kim. Khi hít khí vào ta tiến kim, khí theo\nkim vào là thêm cái có thừa, việc thêm đó là làm thêm có hại; ngược lại; khi thở khí ra, khí\ntrong con người còn lại rất ít, ta lại rút kim ra, khí theo kim ra thêm đã làm hại thêm cái còn\nít. Bổ tả theo hô hấp được ứng dụng để chữa các loại bệnh chứng về khí hư, thực.",
+      "confidence": 0.9971983491503194
+    },
+    {
+      "type": "text",
+      "img_path": "p0113_003_text.png",
+      "bbox": [
+        [
+          284,
+          1685
+        ],
+        [
+          2359,
+          1685
+        ],
+        [
+          2359,
+          2095
+        ],
+        [
+          284,
+          2095
+        ]
+      ],
+      "score": 0.9829550385475159,
+      "y_pos": 1685,
+      "text": "7. Nghênh tuỳ là cách châm kim thuận hay nghịch chiều kim khí tuần hành. Mũi kim ngược\nchiều đường kinh là tả, mũi kim thuận chiều đường kinh là bổ. Ngoài ra, người ta còn theo\nđó suy ra để tiến hành châm thứ tụe thuận nghịch cho một số huyệt trên cùng một đường\nkinh. Nói chung châm thuận đường kinh hay thuận thứ tự đều là thúc cho kinh khí đi\nnhanh hơn; châm ngược đường kinh hay ngược thứ tự đều làm giảm tốc độ kinh khí. Làm\ngiảm cái nhanh, mạnh là tả; làm tăng vào cái chậm, cái yếu là bổ.",
+      "confidence": 0.9948426025384985
+    },
+    {
+      "type": "text",
+      "img_path": "p0113_001_text.png",
+      "bbox": [
+        [
+          283,
+          2130
+        ],
+        [
+          2359,
+          2130
+        ],
+        [
+          2359,
+          2683
+        ],
+        [
+          283,
+          2683
+        ]
+      ],
+      "score": 0.98457932472229,
+      "y_pos": 2130,
+      "text": "8. Mẫu tử là phép chữa bệnh theo quan hệ ngũ hành tương sinh giữa các tạng phủ (bảng\n14) và quan hệ ngũ hành tương sinh giữa ngũ du huyệt (bảng 15). Khi một kinh có bệnh,\nmuốn bổ, người ta chọn huyệt trên đường kinh của một tạng phủ có hành sinh ra hành\ncủa tạng phủ có bệnh, hoặc có huyệt có hành sinh ra hành của tạng phủ có bệnh. Ví dụ:\nTạng có bệnh là can, hành mộc, muốn bổ, ta chọn các huyệt trên kinh thận, hành thuỷ (\nthuỷ sinh mộc), hoặc chọn huyệt mang hành thuỷ trong ngũ du huyệt trên kinh can là\nhuyệt Khúc tuyền. Cũng bệnh can, ta muốn tả, chọn những huyệt trên kinh tâm, hoặc\nchọn những huyệt mang hành hoả trên kinh can là huyệt hành gian.",
+      "confidence": 0.9977299294479758
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0113_008_footnote.png",
+      "bbox": [
+        [
+          227,
+          3153
+        ],
+        [
+          2112,
+          3153
+        ],
+        [
+          2112,
+          3206
+        ],
+        [
+          227,
+          3206
+        ]
+      ],
+      "score": 0.8249662518501282,
+      "y_pos": 3153,
+      "text": "* Tả cái hữu dư và bổ cái bất túc là đúng đạo, là bổ; nếu tả cái bất túc và bổ cái hữu dư đều có hai là tả",
+      "confidence": 0.9960111169903366
+    },
+    {
+      "type": "footer",
+      "img_path": "p0113_007_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3386
+        ],
+        [
+          228,
+          3386
+        ]
+      ],
+      "score": 0.8918077945709229,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9360493050431306
+    },
+    {
+      "type": "number",
+      "img_path": "p0113_009_number.png",
+      "bbox": [
+        [
+          2296,
+          3340
+        ],
+        [
+          2320,
+          3340
+        ],
+        [
+          2320,
+          3376
+        ],
+        [
+          2296,
+          3376
+        ]
+      ],
+      "score": 0.8128316402435303,
+      "y_pos": 3340,
+      "text": "\n\n    \n\n\n\n\n\n\n\n\n\n    \n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0113.png"
+}

@@ -1,0 +1,214 @@
+{
+  "page_num": 495,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0495_002_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.919614851474762,
+      "y_pos": 143,
+      "text": "~?    ~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6602049969018452
+    },
+    {
+      "type": "header",
+      "img_path": "p0495_003_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9176793694496155,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9855625457488574
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0495_004_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          331
+        ],
+        [
+          586,
+          331
+        ],
+        [
+          586,
+          381
+        ],
+        [
+          226,
+          381
+        ]
+      ],
+      "score": 0.9108007550239563,
+      "y_pos": 331,
+      "text": "64. Liệt dương",
+      "confidence": 0.9286082722246647
+    },
+    {
+      "type": "text",
+      "img_path": "p0495_000_text.png",
+      "bbox": [
+        [
+          223,
+          419
+        ],
+        [
+          2359,
+          419
+        ],
+        [
+          2359,
+          615
+        ],
+        [
+          223,
+          615
+        ]
+      ],
+      "score": 0.9716690182685852,
+      "y_pos": 419,
+      "text": "Liệt dương là dương vật không cứng lên được, hoặc cứng lên rồi rất dễ mềm rụt lại. Bệnh này\nthường do sợ hãi, thủ dâm, hoặc hoạt động tình dục quá nhiều gây ra. Khi mắc bệnh không thể\ngiao hợp được.",
+      "confidence": 0.9989590793714515
+    },
+    {
+      "type": "text",
+      "img_path": "p0495_001_text.png",
+      "bbox": [
+        [
+          283,
+          654
+        ],
+        [
+          2355,
+          654
+        ],
+        [
+          2355,
+          778
+        ],
+        [
+          283,
+          778
+        ]
+      ],
+      "score": 0.9499739408493042,
+      "y_pos": 654,
+      "text": "Cách chữa: Lấy huyệt Quan nguyên, Khí hải, Trung cực, Mệnh môn, Dương quan, Thận du\nTam âm giao.",
+      "confidence": 0.9680259119562742
+    },
+    {
+      "type": "text",
+      "img_path": "p0495_006_text.png",
+      "bbox": [
+        [
+          283,
+          816
+        ],
+        [
+          746,
+          816
+        ],
+        [
+          746,
+          869
+        ],
+        [
+          283,
+          869
+        ]
+      ],
+      "score": 0.8804556131362915,
+      "y_pos": 816,
+      "text": "Đều dùng phép cứu.",
+      "confidence": 0.9882060945034027
+    },
+    {
+      "type": "number",
+      "img_path": "p0495_007_number.png",
+      "bbox": [
+        [
+          2304,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2304,
+          3335
+        ]
+      ],
+      "score": 0.8546414375305176,
+      "y_pos": 3300,
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0495_005_footer.png",
+      "bbox": [
+        [
+          229,
+          3310
+        ],
+        [
+          1324,
+          3310
+        ],
+        [
+          1324,
+          3356
+        ],
+        [
+          229,
+          3356
+        ]
+      ],
+      "score": 0.9005158543586731,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985828905735376
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0495.png"
+}

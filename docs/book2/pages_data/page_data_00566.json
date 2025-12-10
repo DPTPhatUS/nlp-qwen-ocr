@@ -1,0 +1,318 @@
+{
+  "page_num": 566,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0566_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9134532809257507,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0566_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1467,
+          152
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9166278839111328,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TẬN, KỲ HUYỆT",
+      "confidence": 0.9979400253295898
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0566_010_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          325
+        ],
+        [
+          725,
+          325
+        ],
+        [
+          725,
+          385
+        ],
+        [
+          227,
+          385
+        ]
+      ],
+      "score": 0.6193551421165466,
+      "y_pos": 325,
+      "text": "Phần 13. BÊNH NÃO",
+      "confidence": 0.9816759354189822
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0566_005_reference_content.png",
+      "bbox": [
+        [
+          230,
+          419
+        ],
+        [
+          1400,
+          419
+        ],
+        [
+          1400,
+          479
+        ],
+        [
+          230,
+          479
+        ]
+      ],
+      "score": 0.6817178726196289,
+      "y_pos": 419,
+      "text": "226. Bệnh não: Tuyền sinh túc, Trị não 1, 2, 3, 4, 5.",
+      "confidence": 0.9842144402590665
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0566_007_reference_content.png",
+      "bbox": [
+        [
+          232,
+          507
+        ],
+        [
+          1235,
+          507
+        ],
+        [
+          1235,
+          569
+        ],
+        [
+          232,
+          569
+        ]
+      ],
+      "score": 0.6522514820098877,
+      "y_pos": 507,
+      "text": "227. Xuất huyết não: An miên 1, An miên 2.",
+      "confidence": 0.9948591007427736
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0566_006_reference_content.png",
+      "bbox": [
+        [
+          233,
+          600
+        ],
+        [
+          1138,
+          600
+        ],
+        [
+          1138,
+          661
+        ],
+        [
+          233,
+          661
+        ]
+      ],
+      "score": 0.6524047255516052,
+      "y_pos": 600,
+      "text": "228. Khối u hạ khâu não: Hạ Tân thức.",
+      "confidence": 0.9854517793044065
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0566_009_reference_content.png",
+      "bbox": [
+        [
+          232,
+          691
+        ],
+        [
+          1258,
+          691
+        ],
+        [
+          1258,
+          755
+        ],
+        [
+          232,
+          755
+        ]
+      ],
+      "score": 0.6242566108703613,
+      "y_pos": 691,
+      "text": "229. Đại não phát triển không đủ: Tân nhất.",
+      "confidence": 0.9993779963917202
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0566_008_reference_content.png",
+      "bbox": [
+        [
+          232,
+          784
+        ],
+        [
+          1435,
+          784
+        ],
+        [
+          1435,
+          846
+        ],
+        [
+          232,
+          846
+        ]
+      ],
+      "score": 0.6366840600967407,
+      "y_pos": 784,
+      "text": "230. Di chứng não đần độn: Hưng phấn, Não thanh.",
+      "confidence": 0.9926692628860474
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0566_011_reference_content.png",
+      "bbox": [
+        [
+          232,
+          875
+        ],
+        [
+          1200,
+          875
+        ],
+        [
+          1200,
+          940
+        ],
+        [
+          232,
+          940
+        ]
+      ],
+      "score": 0.5743364691734314,
+      "y_pos": 875,
+      "text": "231. Úng thuỷ não: Trung tiếp, Tích trung.",
+      "confidence": 0.9993577829816125
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0566_004_reference_content.png",
+      "bbox": [
+        [
+          229,
+          969
+        ],
+        [
+          2363,
+          969
+        ],
+        [
+          2363,
+          1096
+        ],
+        [
+          229,
+          1096
+        ]
+      ],
+      "score": 0.7187969088554382,
+      "y_pos": 969,
+      "text": "232. Di chứng não: Phong nham, Hạ Á môn, Phó Á môn, Trúc trượng, Giang môn tứ huyệt\n(múi 6 giờ).",
+      "confidence": 0.9925933812846657
+    },
+    {
+      "type": "number",
+      "img_path": "p0566_003_number.png",
+      "bbox": [
+        [
+          2319,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3375
+        ],
+        [
+          2319,
+          3375
+        ]
+      ],
+      "score": 0.8568955659866333,
+      "y_pos": 3337,
+      "text": "    \n\n\n\n\n٠.\n\n\n    ",
+      "confidence": 0.9574436260895296
+    },
+    {
+      "type": "footer",
+      "img_path": "p0566_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1325,
+          3341
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9075079560279846,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987242975324955
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0566.png"
+}

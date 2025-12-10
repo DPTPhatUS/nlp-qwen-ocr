@@ -1,0 +1,500 @@
+{
+  "page_num": 444,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0444_008_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9313035011291504,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0444_009_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9201115965843201,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0444_010_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          331
+        ],
+        [
+          551,
+          331
+        ],
+        [
+          551,
+          380
+        ],
+        [
+          227,
+          380
+        ]
+      ],
+      "score": 0.9191162586212158,
+      "y_pos": 331,
+      "text": "16. Đau bung",
+      "confidence": 0.8854318048272815
+    },
+    {
+      "type": "text",
+      "img_path": "p0444_000_text.png",
+      "bbox": [
+        [
+          221,
+          419
+        ],
+        [
+          2357,
+          419
+        ],
+        [
+          2357,
+          755
+        ],
+        [
+          221,
+          755
+        ]
+      ],
+      "score": 0.9857990741729736,
+      "y_pos": 419,
+      "text": "Cả vùng ổ bụng đau, đây là một triệu chứng của rất nhiều bệnh, có khi chỉ gặp lạnh, sinh hơi.\nthức ăn không tiêu cũng gây đau bụng. Theo nơi đau mà phân thành đau bụng trên, đau quanh\nrốn, đau bụng dưới. Thông thường, khi chưa tìm ra nguyên nhân chính xác có thể điều trị bằng\nchâm cứu. Sau khi chẩn đoán chính xác, thì căn cứu vào bệnh tình mà chọn cách chữa cho\nphù hợp.",
+      "confidence": 0.9981515324793208
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0444_018_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          797
+        ],
+        [
+          570,
+          797
+        ],
+        [
+          570,
+          840
+        ],
+        [
+          285,
+          840
+        ]
+      ],
+      "score": 0.6444808840751648,
+      "y_pos": 797,
+      "text": "Cách chữa:",
+      "confidence": 0.8755166878302892
+    },
+    {
+      "type": "text",
+      "img_path": "p0444_014_text.png",
+      "bbox": [
+        [
+          284,
+          887
+        ],
+        [
+          1689,
+          887
+        ],
+        [
+          1689,
+          939
+        ],
+        [
+          284,
+          939
+        ]
+      ],
+      "score": 0.9124459028244019,
+      "y_pos": 887,
+      "text": "\n    Đau bung trên, lấy huyệt Trung quản, Nội quan, Túc tam lý.\n",
+      "confidence": 0.9850188749177116
+    },
+    {
+      "type": "text",
+      "img_path": "p0444_012_text.png",
+      "bbox": [
+        [
+          339,
+          980
+        ],
+        [
+          1434,
+          980
+        ],
+        [
+          1434,
+          1030
+        ],
+        [
+          339,
+          1030
+        ]
+      ],
+      "score": 0.9168883562088013,
+      "y_pos": 980,
+      "text": "Cách châm và gia giảm xem ở bệnh đau dạ dày.",
+      "confidence": 0.9994125897469728
+    },
+    {
+      "type": "text",
+      "img_path": "p0444_011_text.png",
+      "bbox": [
+        [
+          286,
+          1069
+        ],
+        [
+          1638,
+          1069
+        ],
+        [
+          1638,
+          1120
+        ],
+        [
+          286,
+          1120
+        ]
+      ],
+      "score": 0.9172296524047852,
+      "y_pos": 1069,
+      "text": "• Đau quanh rốn, lấy huyệt: Thiên khu, Khí hải, Túc tam lý.",
+      "confidence": 0.5298514434548675
+    },
+    {
+      "type": "text",
+      "img_path": "p0444_006_text.png",
+      "bbox": [
+        [
+          298,
+          1160
+        ],
+        [
+          2357,
+          1160
+        ],
+        [
+          2357,
+          1282
+        ],
+        [
+          298,
+          1282
+        ]
+      ],
+      "score": 0.9584348201751709,
+      "y_pos": 1160,
+      "text": "Nếu có sốt chỉ được châm, không cứu, khi không sốt thì cả châm và cứu, hoặc thêm cứu\ncách muối ở <i>Thần khuyết</i>.",
+      "confidence": 0.9951019422754497
+    },
+    {
+      "type": "text",
+      "img_path": "p0444_007_text.png",
+      "bbox": [
+        [
+          282,
+          1325
+        ],
+        [
+          2357,
+          1325
+        ],
+        [
+          2357,
+          1450
+        ],
+        [
+          282,
+          1450
+        ]
+      ],
+      "score": 0.9427044987678528,
+      "y_pos": 1325,
+      "text": "Giảng nghĩa của phương: Thiên khu là mộ huyệt của đại trường, có thể điều hòa cơ năng\ncủa trường, vị. <i>Khí hải</i> ôn dương khí của hạ tiêu, khử hàn thấp. <i>Túc tam lý</i> điều khí của tỳ, vị.",
+      "confidence": 0.9978486471606478
+    },
+    {
+      "type": "text",
+      "img_path": "p0444_017_text.png",
+      "bbox": [
+        [
+          286,
+          1487
+        ],
+        [
+          1261,
+          1487
+        ],
+        [
+          1261,
+          1539
+        ],
+        [
+          286,
+          1539
+        ]
+      ],
+      "score": 0.7029129266738892,
+      "y_pos": 1487,
+      "text": "\n    Đau bụng dưới, lấy huyệt Tam âm giao.\n",
+      "confidence": 0.9764043272487701
+    },
+    {
+      "type": "text",
+      "img_path": "p0444_002_text.png",
+      "bbox": [
+        [
+          329,
+          1578
+        ],
+        [
+          2359,
+          1578
+        ],
+        [
+          2359,
+          1771
+        ],
+        [
+          329,
+          1771
+        ]
+      ],
+      "score": 0.9748265743255615,
+      "y_pos": 1578,
+      "text": "Dùng hào kim vê chuyển tiến kim, sâu 6 phân, dùng phép tả (ngón cái hướng phía sau, lui\nkim lên 3 phân lại vê chuyển tiến kim đến 6 phân, làm lại như thế đủ 3 lần, cuối cùng\nchâm đứng kim sâu 1 thốn), lưu kim 15 đến 20 phút.",
+      "confidence": 0.992893998852812
+    },
+    {
+      "type": "text",
+      "img_path": "p0444_004_text.png",
+      "bbox": [
+        [
+          337,
+          1812
+        ],
+        [
+          2360,
+          1812
+        ],
+        [
+          2360,
+          1933
+        ],
+        [
+          337,
+          1933
+        ]
+      ],
+      "score": 0.9666212797164917,
+      "y_pos": 1812,
+      "text": "Nếu châm xong không giảm đau, có thể phối hợp với huyệt ở cục bộ như <i>Khí hải, Quan</i>\nnguyên, hoặc gia thêm Vi du.",
+      "confidence": 0.8209491683531177
+    },
+    {
+      "type": "text",
+      "img_path": "p0444_005_text.png",
+      "bbox": [
+        [
+          337,
+          1974
+        ],
+        [
+          2362,
+          1974
+        ],
+        [
+          2362,
+          2089
+        ],
+        [
+          337,
+          2089
+        ]
+      ],
+      "score": 0.9637519717216492,
+      "y_pos": 1974,
+      "text": "Nếu không sốt có thể dùng cả châm và cứu, có thể cứu cách gừng ở Quan nguyên, Khí\nhải.",
+      "confidence": 0.9846090622934471
+    },
+    {
+      "type": "text",
+      "img_path": "p0444_001_text.png",
+      "bbox": [
+        [
+          280,
+          2137
+        ],
+        [
+          2360,
+          2137
+        ],
+        [
+          2360,
+          2325
+        ],
+        [
+          280,
+          2325
+        ]
+      ],
+      "score": 0.9782520532608032,
+      "y_pos": 2137,
+      "text": "Đau bụng trên, nhất thiết châm <i>Túc tam lý</i> trước. Đau bụng dưới, nhất thiết châm <i>Tam âm</i>\ngiao trước. Các huyệt ở tay chân thường dùng tả pháp. Các huyệt cục bộ dùng phép bình bổ\nbình tả.",
+      "confidence": 0.9948330250339232
+    },
+    {
+      "type": "text",
+      "img_path": "p0444_003_text.png",
+      "bbox": [
+        [
+          279,
+          2369
+        ],
+        [
+          2360,
+          2369
+        ],
+        [
+          2360,
+          2566
+        ],
+        [
+          279,
+          2566
+        ]
+      ],
+      "score": 0.9728277325630188,
+      "y_pos": 2369,
+      "text": "Giảng nghĩa của phương: Tam âm giao điều kinh khí của tam âm. Khí điều thì tà không\nngưng trệ nên hết đau. Gia <i>Khí hải</i> để điều khí hành trệ<sup>(**)</sup>. <i>Vị du</i> để hòa trường, vị, tiêu ứ\nđọng. <i>Quan nguyên</i> đại bổ nguyên khí, chữa chứng đau bụng do hư.",
+      "confidence": 0.9959656049851476
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0444_015_footnote.png",
+      "bbox": [
+        [
+          228,
+          3166
+        ],
+        [
+          869,
+          3166
+        ],
+        [
+          869,
+          3210
+        ],
+        [
+          228,
+          3210
+        ]
+      ],
+      "score": 0.8967064619064331,
+      "y_pos": 3166,
+      "text": "(**) Hành trệ: Làm trôi chảy cái ngưng đọng.",
+      "confidence": 0.9158702700034432
+    },
+    {
+      "type": "number",
+      "img_path": "p0444_016_number.png",
+      "bbox": [
+        [
+          2303,
+          3300
+        ],
+        [
+          2352,
+          3300
+        ],
+        [
+          2352,
+          3334
+        ],
+        [
+          2303,
+          3334
+        ]
+      ],
+      "score": 0.8659648299217224,
+      "y_pos": 3300,
+      "text": "    \n            \n        \n    \n\n    \n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0444_013_footer.png",
+      "bbox": [
+        [
+          228,
+          3310
+        ],
+        [
+          1323,
+          3310
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          228,
+          3355
+        ]
+      ],
+      "score": 0.9133579134941101,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9293094086197188
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0444.png"
+}

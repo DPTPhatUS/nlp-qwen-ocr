@@ -1,0 +1,604 @@
+{
+  "page_num": 418,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0418_008_header.png",
+      "bbox": [
+        [
+          1679,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1679,
+          196
+        ]
+      ],
+      "score": 0.9283815622329712,
+      "y_pos": 142,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7503989594323295
+    },
+    {
+      "type": "header",
+      "img_path": "p0418_011_header.png",
+      "bbox": [
+        [
+          229,
+          146
+        ],
+        [
+          1095,
+          146
+        ],
+        [
+          1095,
+          197
+        ],
+        [
+          229,
+          197
+        ]
+      ],
+      "score": 0.9144073724746704,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SÀNG",
+      "confidence": 0.9886094519070217
+    },
+    {
+      "type": "text",
+      "img_path": "p0418_000_text.png",
+      "bbox": [
+        [
+          221,
+          306
+        ],
+        [
+          2363,
+          306
+        ],
+        [
+          2363,
+          500
+        ],
+        [
+          221,
+          500
+        ]
+      ],
+      "score": 0.9808908700942993,
+      "y_pos": 306,
+      "text": "- Nếu người bệnh âm tổn lâu ngày hại tới dương, sợ lạnh, chất lưỡi hồng nhạt, mạch trầm, tế\nvô lực, dùng <i>Tiên linh t</i>ỳ 3 đồng cân, <i>Bổ cốt chỉ</i> 3 đồng cân, <i>Ba kích thiên</i> 3 đồng cân, <i>Lộc giác</i>\n3 đồng cân.",
+      "confidence": 0.9802062869297336
+    },
+    {
+      "type": "text",
+      "img_path": "p0418_007_text.png",
+      "bbox": [
+        [
+          221,
+          539
+        ],
+        [
+          2360,
+          539
+        ],
+        [
+          2360,
+          735
+        ],
+        [
+          221,
+          735
+        ]
+      ],
+      "score": 0.9646099805831909,
+      "y_pos": 539,
+      "text": "c. Thấp nhiệt xâm dâm: Hai chi dưới dần dần yếu mềm hoặc sưng, chân, đùi nóng hâm hấp,\nmình nặng, mặt vàng, bụng trên và ngực bứt rứt, miệng thấy khô đắng, dính, nước tiểu đó, đi\ntiểu thấy rít, nóng và đau, rêu lưỡi vàng nhẫy, ven đầu lưỡi hồng, mạch nhu, sác.",
+      "confidence": 0.9991329918917383
+    },
+    {
+      "type": "text",
+      "img_path": "p0418_019_text.png",
+      "bbox": [
+        [
+          225,
+          772
+        ],
+        [
+          1015,
+          772
+        ],
+        [
+          1015,
+          822
+        ],
+        [
+          225,
+          822
+        ]
+      ],
+      "score": 0.7972729802131653,
+      "y_pos": 772,
+      "text": "Cách chữa: Thanh nhiệt hóa thấp.",
+      "confidence": 0.5264751472893883
+    },
+    {
+      "type": "text",
+      "img_path": "p0418_022_text.png",
+      "bbox": [
+        [
+          226,
+          864
+        ],
+        [
+          934,
+          864
+        ],
+        [
+          934,
+          916
+        ],
+        [
+          226,
+          916
+        ]
+      ],
+      "score": 0.5705109238624573,
+      "y_pos": 864,
+      "text": "Bài thuốc: Tứ diệu hoàn gia vị.",
+      "confidence": 0.9235755584456704
+    },
+    {
+      "type": "text",
+      "img_path": "p0418_020_text.png",
+      "bbox": [
+        [
+          227,
+          956
+        ],
+        [
+          1550,
+          956
+        ],
+        [
+          1550,
+          1012
+        ],
+        [
+          227,
+          1012
+        ]
+      ],
+      "score": 0.7688570022583008,
+      "y_pos": 956,
+      "text": "Mao truât    2 đông cân,    Hoàng bá    3 đông cân,",
+      "confidence": 0.932501916754079
+    },
+    {
+      "type": "text",
+      "img_path": "p0418_018_text.png",
+      "bbox": [
+        [
+          227,
+          1048
+        ],
+        [
+          1549,
+          1048
+        ],
+        [
+          1549,
+          1102
+        ],
+        [
+          227,
+          1102
+        ]
+      ],
+      "score": 0.8221327066421509,
+      "y_pos": 1048,
+      "text": "Ngưu tât    3 đồng cân,    Dĩ nhân    5 đồng cân,",
+      "confidence": 0.9613710955549509
+    },
+    {
+      "type": "text",
+      "img_path": "p0418_017_text.png",
+      "bbox": [
+        [
+          227,
+          1140
+        ],
+        [
+          1548,
+          1140
+        ],
+        [
+          1548,
+          1196
+        ],
+        [
+          227,
+          1196
+        ]
+      ],
+      "score": 0.8335548639297485,
+      "y_pos": 1140,
+      "text": "Phòng kỷ    3 đồng cân,    Tỳ giải    3 đồng cân,",
+      "confidence": 0.9736061971921188
+    },
+    {
+      "type": "text",
+      "img_path": "p0418_016_text.png",
+      "bbox": [
+        [
+          226,
+          1233
+        ],
+        [
+          849,
+          1233
+        ],
+        [
+          849,
+          1286
+        ],
+        [
+          226,
+          1286
+        ]
+      ],
+      "score": 0.8568450212478638,
+      "y_pos": 1233,
+      "text": "Ngũ gia bì    3 đồng cân.",
+      "confidence": 0.9596267738021337
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0418_021_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1324
+        ],
+        [
+          468,
+          1324
+        ],
+        [
+          468,
+          1375
+        ],
+        [
+          226,
+          1375
+        ]
+      ],
+      "score": 0.7240733504295349,
+      "y_pos": 1324,
+      "text": "Gia giám:",
+      "confidence": 0.8880435228347778
+    },
+    {
+      "type": "text",
+      "img_path": "p0418_002_text.png",
+      "bbox": [
+        [
+          222,
+          1412
+        ],
+        [
+          2360,
+          1412
+        ],
+        [
+          2360,
+          1608
+        ],
+        [
+          222,
+          1608
+        ]
+      ],
+      "score": 0.9778648614883423,
+      "y_pos": 1412,
+      "text": "- Nếu thấp nhiệt thương âm, gầy gò, tâm phiền, hai chân rất nóng, chất lưỡi hồng, rêu xanh, thì\nbỏ <i>Mao truật, Ngũ gia bì, Dĩ nhân</i>, gia <i>Quy Bản</i> 5 đồng cân, <i>Sinh địa</i> 4 đồng cân, <i>Huyền sâm</i> 3\nđồng cân, <i>Tri mẫu</i> 3 đồng cân.",
+      "confidence": 0.997974715886287
+    },
+    {
+      "type": "text",
+      "img_path": "p0418_004_text.png",
+      "bbox": [
+        [
+          225,
+          1646
+        ],
+        [
+          2357,
+          1646
+        ],
+        [
+          2357,
+          1770
+        ],
+        [
+          225,
+          1770
+        ]
+      ],
+      "score": 0.9696236848831177,
+      "y_pos": 1646,
+      "text": "- Nếu đùi và chân hơi sưng, da dẻ tê bại, rêu lưỡi trắng nhẫy, gia <i>Chế Nam tinh</i> 1,5 đồng cân,\nSao Bach giới tử 1,5 đồng cân.",
+      "confidence": 0.9952663907435597
+    },
+    {
+      "type": "text",
+      "img_path": "p0418_003_text.png",
+      "bbox": [
+        [
+          223,
+          1810
+        ],
+        [
+          2359,
+          1810
+        ],
+        [
+          2359,
+          1934
+        ],
+        [
+          223,
+          1934
+        ]
+      ],
+      "score": 0.9704033136367798,
+      "y_pos": 1810,
+      "text": "- Nếu chi thể tê bại đau nhói, các khớp hoạt động không dễ, chất lưỡi tím, gia Đào nhân 3 đồng\ncân, <i>Hồng hoa</i> 1,5 đồng cân, <i>Bào Sơn giáp</i> 3 đồng cân.",
+      "confidence": 0.9975229069997353
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0418_015_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1972
+        ],
+        [
+          822,
+          1972
+        ],
+        [
+          822,
+          2023
+        ],
+        [
+          225,
+          2023
+        ]
+      ],
+      "score": 0.8668992519378662,
+      "y_pos": 1972,
+      "text": "3. Bài thuốc một vài vi lẻ",
+      "confidence": 0.9986770365919385
+    },
+    {
+      "type": "text",
+      "img_path": "p0418_005_text.png",
+      "bbox": [
+        [
+          224,
+          2065
+        ],
+        [
+          2359,
+          2065
+        ],
+        [
+          2359,
+          2190
+        ],
+        [
+          224,
+          2190
+        ]
+      ],
+      "score": 0.9691280722618103,
+      "y_pos": 2065,
+      "text": "- Bột tủy xương trâu đã sấy khô 1 cân, Hắc chi ma 1 cân sao qua cho thơm, nghiền nhỏ, thêm\nđường trắng vừa phải, trộn đều, mỗi lần uống 3 đồng cân, ngày dùng 2 lần.",
+      "confidence": 0.9493303978961447
+    },
+    {
+      "type": "text",
+      "img_path": "p0418_009_text.png",
+      "bbox": [
+        [
+          225,
+          2226
+        ],
+        [
+          1410,
+          2226
+        ],
+        [
+          1410,
+          2279
+        ],
+        [
+          225,
+          2279
+        ]
+      ],
+      "score": 0.925035834312439,
+      "y_pos": 2226,
+      "text": "- Bột Tử hà sa, mỗi lần uống 5 phân, một ngày 2 lần.",
+      "confidence": 0.9348333798072956
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0418_014_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          2317
+        ],
+        [
+          681,
+          2317
+        ],
+        [
+          681,
+          2371
+        ],
+        [
+          224,
+          2371
+        ]
+      ],
+      "score": 0.8746212720870972,
+      "y_pos": 2317,
+      "text": "4. Ấn day bằng tay",
+      "confidence": 0.9654026627540588
+    },
+    {
+      "type": "text",
+      "img_path": "p0418_006_text.png",
+      "bbox": [
+        [
+          223,
+          2410
+        ],
+        [
+          2357,
+          2410
+        ],
+        [
+          2357,
+          2533
+        ],
+        [
+          223,
+          2533
+        ]
+      ],
+      "score": 0.9676846861839294,
+      "y_pos": 2410,
+      "text": "a. Chi trên: Day ở gân Kiên tỉnh, ấn nhè nhẹ ở Tý nhu, Thủ tam lý, Hợp cốc (ấn vùng gân),\nđiểm huyệt <i>Kiên ngung, Khúc trì</i>, xoa nhẹ ở cánh tay (xoa đi xoa lại) một số lần.",
+      "confidence": 0.9974343121160953
+    },
+    {
+      "type": "text",
+      "img_path": "p0418_001_text.png",
+      "bbox": [
+        [
+          223,
+          2571
+        ],
+        [
+          2366,
+          2571
+        ],
+        [
+          2366,
+          2767
+        ],
+        [
+          223,
+          2767
+        ]
+      ],
+      "score": 0.9783403277397156,
+      "y_pos": 2571,
+      "text": "<b>b. Chi dưới:</b> Day ở Âm liêm, Thừa sơn, Côn luân, ấn nhè nhẹ ở Phục thỏ, Thừa phù, Ân môn\n(ấn vùng gân), điểm các huyệt <i>Yêu Dương quan, Hoàn khiêu, Tam túc lý, Ủy trung, Độc tị, Giải</i>\nkhê, Nội đình, xoa đi xoa lại ở vùng cơ đùi mấy lần.",
+      "confidence": 0.9586214541672767
+    },
+    {
+      "type": "text",
+      "img_path": "p0418_010_text.png",
+      "bbox": [
+        [
+          223,
+          2807
+        ],
+        [
+          2008,
+          2807
+        ],
+        [
+          2008,
+          2863
+        ],
+        [
+          223,
+          2863
+        ]
+      ],
+      "score": 0.9202015399932861,
+      "y_pos": 2807,
+      "text": "Sức ngón tay lúc cứng, lúc mềm, giúp nhau tác dụng, lấy thấu sâu vào là chính.",
+      "confidence": 0.9944254353642463
+    },
+    {
+      "type": "number",
+      "img_path": "p0418_013_number.png",
+      "bbox": [
+        [
+          2306,
+          3334
+        ],
+        [
+          2357,
+          3334
+        ],
+        [
+          2357,
+          3371
+        ],
+        [
+          2306,
+          3371
+        ]
+      ],
+      "score": 0.8768085241317749,
+      "y_pos": 3334,
+      "text": "    \n    \n        \n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0418_012_footer.png",
+      "bbox": [
+        [
+          228,
+          3336
+        ],
+        [
+          1343,
+          3336
+        ],
+        [
+          1343,
+          3383
+        ],
+        [
+          228,
+          3383
+        ]
+      ],
+      "score": 0.9123173952102661,
+      "y_pos": 3336,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9415562085385593
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0418.png"
+}

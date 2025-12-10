@@ -1,0 +1,604 @@
+{
+  "page_num": 99,
+  "content": [
+    {
+      "type": "paragraph_title",
+      "img_path": "p0099_007_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          462
+        ],
+        [
+          642,
+          462
+        ],
+        [
+          642,
+          511
+        ],
+        [
+          344,
+          511
+        ]
+      ],
+      "score": 0.9218388199806213,
+      "y_pos": 462,
+      "text": "3. PHU LUC",
+      "confidence": 0.8499545753002167
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_001_text.png",
+      "bbox": [
+        [
+          340,
+          559
+        ],
+        [
+          2123,
+          559
+        ],
+        [
+          2123,
+          842
+        ],
+        [
+          340,
+          842
+        ]
+      ],
+      "score": 0.9835478663444519,
+      "y_pos": 559,
+      "text": "Trong bệnh học Đông y, có những bệnh chứng mà nguyên nhân có thể là\nngoại nhân, cũng có thể là những nguyên nhân khác hoặc cả hai. Có trường\nhợp rất khó xác định nguyên nhân (những trường hợp co giật, động kinh mà\nkhi lên cơn không thể xác định được do nội hay ngoại phong). Phần phụ lục\nnày sẽ đề cập đến những trường hợp đặc biệt nói trên.",
+      "confidence": 0.9992132591553122
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0099_006_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          898
+        ],
+        [
+          888,
+          898
+        ],
+        [
+          888,
+          949
+        ],
+        [
+          344,
+          949
+        ]
+      ],
+      "score": 0.9347227811813354,
+      "y_pos": 898,
+      "text": "3.1. Vị thất hòa giáng",
+      "confidence": 0.9815817251801491
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_017_text.png",
+      "bbox": [
+        [
+          461,
+          991
+        ],
+        [
+          1139,
+          991
+        ],
+        [
+          1139,
+          1038
+        ],
+        [
+          461,
+          1038
+        ]
+      ],
+      "score": 0.8838067650794983,
+      "y_pos": 991,
+      "text": "a/ Nguyên nhân và bênh sinh",
+      "confidence": 0.964656558530084
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_005_text.png",
+      "bbox": [
+        [
+          406,
+          1068
+        ],
+        [
+          2122,
+          1068
+        ],
+        [
+          2122,
+          1175
+        ],
+        [
+          406,
+          1175
+        ]
+      ],
+      "score": 0.9570469856262207,
+      "y_pos": 1068,
+      "text": "\n    Thấp tà đình đọng. Thấp (Vị →Vị bất hòa giáng đau tức thượng vị, ợ hơi,\n\nnấc cuc, mửa).",
+      "confidence": 0.9836672654717553
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_012_text.png",
+      "bbox": [
+        [
+          406,
+          1213
+        ],
+        [
+          2044,
+          1213
+        ],
+        [
+          2044,
+          1265
+        ],
+        [
+          406,
+          1265
+        ]
+      ],
+      "score": 0.9035099148750305,
+      "y_pos": 1213,
+      "text": "\n    – Ån nhiều thức ăn không tiêu (Thương thực →Vị Vị khí bất hòa giáng).\n",
+      "confidence": 0.9780773644646009
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_021_text.png",
+      "bbox": [
+        [
+          459,
+          1294
+        ],
+        [
+          1037,
+          1294
+        ],
+        [
+          1037,
+          1343
+        ],
+        [
+          459,
+          1343
+        ]
+      ],
+      "score": 0.7159240245819092,
+      "y_pos": 1294,
+      "text": "b/ Triệu chứng lâm sàng:",
+      "confidence": 0.9217622027947352
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_002_text.png",
+      "bbox": [
+        [
+          404,
+          1368
+        ],
+        [
+          2123,
+          1368
+        ],
+        [
+          2123,
+          1470
+        ],
+        [
+          404,
+          1470
+        ]
+      ],
+      "score": 0.9590123891830444,
+      "y_pos": 1368,
+      "text": "- Đau vùng thượng vị, căng tức thượng vị, ợ hơi, nấc cục, ụa mửa ra thức\năn chua nát. Đai tiên mất điều hòa.",
+      "confidence": 0.9954497216118348
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_009_text.png",
+      "bbox": [
+        [
+          408,
+          1498
+        ],
+        [
+          1181,
+          1498
+        ],
+        [
+          1181,
+          1547
+        ],
+        [
+          408,
+          1547
+        ]
+      ],
+      "score": 0.9133935570716858,
+      "y_pos": 1498,
+      "text": "- Rêu dầy, nhớt dính. Mạch hoạt.",
+      "confidence": 0.9927209983853733
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_016_text.png",
+      "bbox": [
+        [
+          460,
+          1573
+        ],
+        [
+          1171,
+          1573
+        ],
+        [
+          1171,
+          1624
+        ],
+        [
+          460,
+          1624
+        ]
+      ],
+      "score": 0.8923797607421875,
+      "y_pos": 1573,
+      "text": "c/ Bệnh cảnh Tây y thường gặp",
+      "confidence": 0.9768220936098406
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_011_text.png",
+      "bbox": [
+        [
+          409,
+          1650
+        ],
+        [
+          731,
+          1650
+        ],
+        [
+          731,
+          1697
+        ],
+        [
+          409,
+          1697
+        ]
+      ],
+      "score": 0.9037033319473267,
+      "y_pos": 1650,
+      "text": "rúng thực",
+      "confidence": 0.9820916219191118
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_018_text.png",
+      "bbox": [
+        [
+          460,
+          1722
+        ],
+        [
+          787,
+          1722
+        ],
+        [
+          787,
+          1771
+        ],
+        [
+          460,
+          1771
+        ]
+      ],
+      "score": 0.8837336301803589,
+      "y_pos": 1722,
+      "text": "Tiêu chảy cấp",
+      "confidence": 0.984688647588094
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_008_text.png",
+      "bbox": [
+        [
+          407,
+          1797
+        ],
+        [
+          1182,
+          1797
+        ],
+        [
+          1182,
+          1848
+        ],
+        [
+          407,
+          1848
+        ]
+      ],
+      "score": 0.913804292678833,
+      "y_pos": 1797,
+      "text": "- Trong bệnh cảnh tăng urê máu.",
+      "confidence": 0.9930462132800709
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_014_text.png",
+      "bbox": [
+        [
+          409,
+          1866
+        ],
+        [
+          720,
+          1866
+        ],
+        [
+          720,
+          1921
+        ],
+        [
+          409,
+          1921
+        ]
+      ],
+      "score": 0.8974766135215759,
+      "y_pos": 1866,
+      "text": "Om nghên.",
+      "confidence": 0.9038791927424344
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_015_text.png",
+      "bbox": [
+        [
+          464,
+          1947
+        ],
+        [
+          730,
+          1947
+        ],
+        [
+          730,
+          1995
+        ],
+        [
+          464,
+          1995
+        ]
+      ],
+      "score": 0.8961154818534851,
+      "y_pos": 1947,
+      "text": "d/ Pháp tri:",
+      "confidence": 0.9151601919106075
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_003_text.png",
+      "bbox": [
+        [
+          406,
+          2020
+        ],
+        [
+          2121,
+          2020
+        ],
+        [
+          2121,
+          2127
+        ],
+        [
+          406,
+          2127
+        ]
+      ],
+      "score": 0.9583714604377747,
+      "y_pos": 2020,
+      "text": "- Điều Vị giáng khí (nếu do ngoại thấp). Bài thuốc sử dụng: Bình vị tán\n(Thái bình huệ dân, Hòa tế cục phương).",
+      "confidence": 0.993815916121464
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_004_text.png",
+      "bbox": [
+        [
+          455,
+          2151
+        ],
+        [
+          2126,
+          2151
+        ],
+        [
+          2126,
+          2254
+        ],
+        [
+          455,
+          2254
+        ]
+      ],
+      "score": 0.957767128944397,
+      "y_pos": 2151,
+      "text": "Tiêu thực hòa Vị (nếu do ăn nhiều thức ăn không tiêu). Bài thuốc sử\ndung Bảo hòa hoàn. (Âu ấu tu tri)",
+      "confidence": 0.9904095770039173
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_019_text.png",
+      "bbox": [
+        [
+          462,
+          2281
+        ],
+        [
+          819,
+          2281
+        ],
+        [
+          819,
+          2330
+        ],
+        [
+          462,
+          2330
+        ]
+      ],
+      "score": 0.86531001329422,
+      "y_pos": 2281,
+      "text": "e/ Phương dược",
+      "confidence": 0.9631052277982235
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_010_text.png",
+      "bbox": [
+        [
+          407,
+          2355
+        ],
+        [
+          1664,
+          2355
+        ],
+        [
+          1664,
+          2407
+        ],
+        [
+          407,
+          2407
+        ]
+      ],
+      "score": 0.9082659482955933,
+      "y_pos": 2355,
+      "text": "- Bình vị tán (Thái Bình Huệ Dân, Hòa tễ cục phương)",
+      "confidence": 0.9906846461472688
+    },
+    {
+      "type": "text",
+      "img_path": "p0099_022_text.png",
+      "bbox": [
+        [
+          465,
+          2438
+        ],
+        [
+          973,
+          2438
+        ],
+        [
+          973,
+          2484
+        ],
+        [
+          465,
+          2484
+        ]
+      ],
+      "score": 0.564346432685852,
+      "y_pos": 2438,
+      "text": "+ Phân tích bài thuốc",
+      "confidence": 0.9438091542409814
+    },
+    {
+      "type": "table",
+      "img_path": "p0099_000_table.png",
+      "bbox": [
+        [
+          351,
+          2514
+        ],
+        [
+          2124,
+          2514
+        ],
+        [
+          2124,
+          3003
+        ],
+        [
+          351,
+          3003
+        ]
+      ],
+      "score": 0.9871093034744263,
+      "y_pos": 2514,
+      "text": "Vi thuốc    Dược lý Đông\nThương    Cay, đắng, ấm vào Tỳ, Vị. Kiện Tỳ, táo thấp, phát hãn\ntruật\nTrần bì    Cay, đắng, ấm vào Tỳ, Phế. Hành khí, táo thấp, hóa đờm, chỉ khái\nHậu phác    Đắng, cay, ấm vào Tỳ, Vị, Đại trường. Giáng khí, hóa đàm, chỉ nôn, điều\nhòa đai tiên\nCam thảo    Ngọt, bình vào 12 kinh. Bổ trung khí, hòa hoãn, giải độc",
+      "confidence": 0.9166253549280831
+    },
+    {
+      "type": "number",
+      "img_path": "p0099_020_number.png",
+      "bbox": [
+        [
+          350,
+          3111
+        ],
+        [
+          404,
+          3111
+        ],
+        [
+          404,
+          3148
+        ],
+        [
+          350,
+          3148
+        ]
+      ],
+      "score": 0.8601559400558472,
+      "y_pos": 3111,
+      "text": "\n\n    \n    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0099_013_footer.png",
+      "bbox": [
+        [
+          293,
+          3310
+        ],
+        [
+          1073,
+          3310
+        ],
+        [
+          1073,
+          3365
+        ],
+        [
+          293,
+          3365
+        ]
+      ],
+      "score": 0.901059091091156,
+      "y_pos": 3310,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8792689868382045
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0099.png"
+}

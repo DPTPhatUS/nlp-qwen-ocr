@@ -1,0 +1,838 @@
+{
+  "page_num": 242,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0242_001_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2373,
+          142
+        ],
+        [
+          2373,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9419518709182739,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7521700153038615
+    },
+    {
+      "type": "header",
+      "img_path": "p0242_008_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9261495471000671,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0242_019_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          370
+        ],
+        [
+          600,
+          370
+        ],
+        [
+          600,
+          421
+        ],
+        [
+          228,
+          421
+        ]
+      ],
+      "score": 0.9183295369148254,
+      "y_pos": 370,
+      "text": "161. Lý thượng",
+      "confidence": 0.946735043078661
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_023_text.png",
+      "bbox": [
+        [
+          289,
+          462
+        ],
+        [
+          1249,
+          462
+        ],
+        [
+          1249,
+          514
+        ],
+        [
+          289,
+          514
+        ]
+      ],
+      "score": 0.9092674851417542,
+      "y_pos": 462,
+      "text": "Vị trí: Huyệt <i>Túc tam lý</i> lên 1 thốn. (H.120)",
+      "confidence": 0.8099058841665586
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_012_text.png",
+      "bbox": [
+        [
+          287,
+          553
+        ],
+        [
+          1347,
+          553
+        ],
+        [
+          1347,
+          602
+        ],
+        [
+          287,
+          602
+        ]
+      ],
+      "score": 0.923916757106781,
+      "y_pos": 553,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 1,5 – 2 thốn.",
+      "confidence": 0.9759272349641678
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_009_text.png",
+      "bbox": [
+        [
+          288,
+          645
+        ],
+        [
+          1023,
+          645
+        ],
+        [
+          1023,
+          697
+        ],
+        [
+          288,
+          697
+        ]
+      ],
+      "score": 0.9259413480758667,
+      "y_pos": 645,
+      "text": "Chủ trị: Di chứng bại liệt trẻ em.",
+      "confidence": 0.575053075949351
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0242_020_paragraph_title.png",
+      "bbox": [
+        [
+          230,
+          736
+        ],
+        [
+          589,
+          736
+        ],
+        [
+          589,
+          787
+        ],
+        [
+          230,
+          787
+        ]
+      ],
+      "score": 0.916823148727417,
+      "y_pos": 736,
+      "text": "162. Nhị lý bán",
+      "confidence": 0.9422717094421387
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_011_text.png",
+      "bbox": [
+        [
+          289,
+          826
+        ],
+        [
+          1291,
+          826
+        ],
+        [
+          1291,
+          880
+        ],
+        [
+          289,
+          880
+        ]
+      ],
+      "score": 0.9252861142158508,
+      "y_pos": 826,
+      "text": "Vị trí: Huyệt <i>Túc tam lý</i> lên 0,5 thốn. (H.120)",
+      "confidence": 0.834528523683548
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_017_text.png",
+      "bbox": [
+        [
+          287,
+          920
+        ],
+        [
+          1350,
+          920
+        ],
+        [
+          1350,
+          970
+        ],
+        [
+          287,
+          970
+        ]
+      ],
+      "score": 0.9226429462432861,
+      "y_pos": 920,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 1,5 – 2 thôn.",
+      "confidence": 0.9739452923866029
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_010_text.png",
+      "bbox": [
+        [
+          288,
+          1011
+        ],
+        [
+          909,
+          1011
+        ],
+        [
+          909,
+          1063
+        ],
+        [
+          288,
+          1063
+        ]
+      ],
+      "score": 0.9254341721534729,
+      "y_pos": 1011,
+      "text": "<b>Chủ trị:</b> Viêm ruột cấp tính.",
+      "confidence": 0.9660765007138252
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0242_027_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          1102
+        ],
+        [
+          499,
+          1102
+        ],
+        [
+          499,
+          1154
+        ],
+        [
+          228,
+          1154
+        ]
+      ],
+      "score": 0.8883839249610901,
+      "y_pos": 1102,
+      "text": "163. Van lý",
+      "confidence": 0.7341796388992896
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_021_text.png",
+      "bbox": [
+        [
+          290,
+          1194
+        ],
+        [
+          1359,
+          1194
+        ],
+        [
+          1359,
+          1248
+        ],
+        [
+          290,
+          1248
+        ]
+      ],
+      "score": 0.9109132289886475,
+      "y_pos": 1194,
+      "text": "Vị trí: Huyệt <i>Túc tam lý</i> xuống 0,5 thốn. (H.120)",
+      "confidence": 0.8378723034491906
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_016_text.png",
+      "bbox": [
+        [
+          287,
+          1287
+        ],
+        [
+          1310,
+          1287
+        ],
+        [
+          1310,
+          1335
+        ],
+        [
+          287,
+          1335
+        ]
+      ],
+      "score": 0.9227315783500671,
+      "y_pos": 1287,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 2 – 3 thôn.",
+      "confidence": 0.9759508887926738
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_022_text.png",
+      "bbox": [
+        [
+          286,
+          1379
+        ],
+        [
+          1887,
+          1379
+        ],
+        [
+          1887,
+          1431
+        ],
+        [
+          286,
+          1431
+        ]
+      ],
+      "score": 0.9099551439285278,
+      "y_pos": 1379,
+      "text": "Chủ trị: Quáng gà, teo thần kinh thị giác, tật khúc xạ, bệnh đường ruột.",
+      "confidence": 0.45865991469976064
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0242_030_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1469
+        ],
+        [
+          475,
+          1469
+        ],
+        [
+          475,
+          1520
+        ],
+        [
+          229,
+          1520
+        ]
+      ],
+      "score": 0.8695192933082581,
+      "y_pos": 1469,
+      "text": "164.    Tứ lý",
+      "confidence": 0.8573547073772976
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_000_text.png",
+      "bbox": [
+        [
+          285,
+          1560
+        ],
+        [
+          2355,
+          1560
+        ],
+        [
+          2355,
+          1683
+        ],
+        [
+          285,
+          1683
+        ]
+      ],
+      "score": 0.9605018496513367,
+      "y_pos": 1560,
+      "text": "Vị trí: Huyệt Túc tam lý xuống 1 – 1,5 thốn, từ bờ trước xương chày ra ngoài, 1,5 thốn.\n(H.120)",
+      "confidence": 0.9616953678494238
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_013_text.png",
+      "bbox": [
+        [
+          286,
+          1724
+        ],
+        [
+          1310,
+          1724
+        ],
+        [
+          1310,
+          1773
+        ],
+        [
+          286,
+          1773
+        ]
+      ],
+      "score": 0.9236391186714172,
+      "y_pos": 1724,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 1 – 2 thôn.",
+      "confidence": 0.9742439375983344
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_018_text.png",
+      "bbox": [
+        [
+          286,
+          1816
+        ],
+        [
+          1494,
+          1816
+        ],
+        [
+          1494,
+          1868
+        ],
+        [
+          286,
+          1868
+        ]
+      ],
+      "score": 0.9224346876144409,
+      "y_pos": 1816,
+      "text": "Chủ trị: Di chứng bại liệt trẻ em, các loại hình bại liệt.",
+      "confidence": 0.7351162413756053
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0242_026_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1907
+        ],
+        [
+          816,
+          1907
+        ],
+        [
+          816,
+          1960
+        ],
+        [
+          229,
+          1960
+        ]
+      ],
+      "score": 0.8942575454711914,
+      "y_pos": 1907,
+      "text": "165. Lý ngoại (Sang tân)",
+      "confidence": 0.9065513863013341
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_015_text.png",
+      "bbox": [
+        [
+          289,
+          1998
+        ],
+        [
+          1414,
+          1998
+        ],
+        [
+          1414,
+          2051
+        ],
+        [
+          289,
+          2051
+        ]
+      ],
+      "score": 0.9227498173713684,
+      "y_pos": 1998,
+      "text": "Vị trí: Bên ngoài huyệt <i>Túc tam lý</i> 1 thốn. (H. 120)",
+      "confidence": 0.760160126469352
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_005_text.png",
+      "bbox": [
+        [
+          286,
+          2090
+        ],
+        [
+          1309,
+          2090
+        ],
+        [
+          1309,
+          2140
+        ],
+        [
+          286,
+          2140
+        ]
+      ],
+      "score": 0.9292595386505127,
+      "y_pos": 2090,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 1 – 2 thôn.",
+      "confidence": 0.9721263031164805
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_003_text.png",
+      "bbox": [
+        [
+          287,
+          2183
+        ],
+        [
+          1023,
+          2183
+        ],
+        [
+          1023,
+          2234
+        ],
+        [
+          287,
+          2234
+        ]
+      ],
+      "score": 0.9343246817588806,
+      "y_pos": 2183,
+      "text": "Chủ trị: Di chứng bại liệt trẻ em.",
+      "confidence": 0.5327093568113115
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0242_025_paragraph_title.png",
+      "bbox": [
+        [
+          230,
+          2273
+        ],
+        [
+          576,
+          2273
+        ],
+        [
+          576,
+          2321
+        ],
+        [
+          230,
+          2321
+        ]
+      ],
+      "score": 0.8945109248161316,
+      "y_pos": 2273,
+      "text": "166. Tri than 6",
+      "confidence": 0.8020612913019517
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_007_text.png",
+      "bbox": [
+        [
+          289,
+          2364
+        ],
+        [
+          1260,
+          2364
+        ],
+        [
+          1260,
+          2419
+        ],
+        [
+          289,
+          2419
+        ]
+      ],
+      "score": 0.9272363185882568,
+      "y_pos": 2364,
+      "text": "Vị trí: Huyệt Lan vĩ xuống 1,5 thốn. (H.120)",
+      "confidence": 0.47723709629929584
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_006_text.png",
+      "bbox": [
+        [
+          287,
+          2459
+        ],
+        [
+          1307,
+          2459
+        ],
+        [
+          1307,
+          2506
+        ],
+        [
+          287,
+          2506
+        ]
+      ],
+      "score": 0.9291073083877563,
+      "y_pos": 2459,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 1 – 2 thôn.",
+      "confidence": 0.9716239637798734
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_002_text.png",
+      "bbox": [
+        [
+          287,
+          2550
+        ],
+        [
+          1012,
+          2550
+        ],
+        [
+          1012,
+          2599
+        ],
+        [
+          287,
+          2599
+        ]
+      ],
+      "score": 0.9376447796821594,
+      "y_pos": 2550,
+      "text": "Chủ tri: Chi dưới tê bai, bai liêt.",
+      "confidence": 0.9641221785867536
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0242_031_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          2640
+        ],
+        [
+          934,
+          2640
+        ],
+        [
+          934,
+          2692
+        ],
+        [
+          229,
+          2692
+        ]
+      ],
+      "score": 0.861417293548584,
+      "y_pos": 2640,
+      "text": "167. Than phục (Dương uỷ 1)",
+      "confidence": 0.9530915720709439
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_028_text.png",
+      "bbox": [
+        [
+          288,
+          2733
+        ],
+        [
+          2178,
+          2733
+        ],
+        [
+          2178,
+          2788
+        ],
+        [
+          288,
+          2788
+        ]
+      ],
+      "score": 0.886220395565033,
+      "y_pos": 2733,
+      "text": "Vị trí: Cạnh ngoài phía trên xương bánh chè lên bằng bề ngang 3 ngón tay. (H. 120)",
+      "confidence": 0.9935591767231623
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_029_text.png",
+      "bbox": [
+        [
+          287,
+          2823
+        ],
+        [
+          1309,
+          2823
+        ],
+        [
+          1309,
+          2874
+        ],
+        [
+          287,
+          2874
+        ]
+      ],
+      "score": 0.8700489401817322,
+      "y_pos": 2823,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 1 – 2 thôn.",
+      "confidence": 0.9719458182652791
+    },
+    {
+      "type": "text",
+      "img_path": "p0242_004_text.png",
+      "bbox": [
+        [
+          287,
+          2916
+        ],
+        [
+          1010,
+          2916
+        ],
+        [
+          1010,
+          2967
+        ],
+        [
+          287,
+          2967
+        ]
+      ],
+      "score": 0.931584358215332,
+      "y_pos": 2916,
+      "text": "Chủ trị: Chi dưới tê bại, bại liệt.",
+      "confidence": 0.9652891118784208
+    },
+    {
+      "type": "footer",
+      "img_path": "p0242_014_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9229771494865417,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0242_024_number.png",
+      "bbox": [
+        [
+          2279,
+          3338
+        ],
+        [
+          2350,
+          3338
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2279,
+          3377
+        ]
+      ],
+      "score": 0.8977317214012146,
+      "y_pos": 3338,
+      "text": "        \n    \n\n    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0242.png"
+}

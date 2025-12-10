@@ -1,0 +1,682 @@
+{
+  "page_num": 599,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0599_001_header.png",
+      "bbox": [
+        [
+          1674,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          197
+        ],
+        [
+          1674,
+          197
+        ]
+      ],
+      "score": 0.9393187761306763,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7486710438416118
+    },
+    {
+      "type": "header",
+      "img_path": "p0599_019_header.png",
+      "bbox": [
+        [
+          230,
+          155
+        ],
+        [
+          599,
+          155
+        ],
+        [
+          599,
+          199
+        ],
+        [
+          230,
+          199
+        ]
+      ],
+      "score": 0.9153835773468018,
+      "y_pos": 155,
+      "text": "HUYÊT ĐÁC HIỀU",
+      "confidence": 0.5671303160488605
+    },
+    {
+      "type": "text",
+      "img_path": "p0599_023_text.png",
+      "bbox": [
+        [
+          287,
+          309
+        ],
+        [
+          1212,
+          309
+        ],
+        [
+          1212,
+          359
+        ],
+        [
+          287,
+          359
+        ]
+      ],
+      "score": 0.8968440294265747,
+      "y_pos": 309,
+      "text": "187. <b>Ngận giao:</b> Mũi có thịt thừa (pô lip).",
+      "confidence": 0.9870777829833652
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0599_025_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          397
+        ],
+        [
+          1489,
+          397
+        ],
+        [
+          1489,
+          449
+        ],
+        [
+          226,
+          449
+        ]
+      ],
+      "score": 0.6250895261764526,
+      "y_pos": 397,
+      "text": "Phần 14. HUYẾT ĐẶC HIỆU NẰM TRÊN MẠCH NHÂM",
+      "confidence": 0.995622381567955
+    },
+    {
+      "type": "text",
+      "img_path": "p0599_021_text.png",
+      "bbox": [
+        [
+          287,
+          489
+        ],
+        [
+          1843,
+          489
+        ],
+        [
+          1843,
+          543
+        ],
+        [
+          287,
+          543
+        ]
+      ],
+      "score": 0.9140440225601196,
+      "y_pos": 489,
+      "text": "188. <i>Hội âm:</i> Đau dương vật và quy đầu, sưng âm hộ, cứu chết đuối.",
+      "confidence": 0.9941096020781476
+    },
+    {
+      "type": "text",
+      "img_path": "p0599_011_text.png",
+      "bbox": [
+        [
+          289,
+          581
+        ],
+        [
+          1094,
+          581
+        ],
+        [
+          1094,
+          634
+        ],
+        [
+          289,
+          634
+        ]
+      ],
+      "score": 0.9222484827041626,
+      "y_pos": 581,
+      "text": "189. Khúc cốt: Đái ra dưỡng chấp.",
+      "confidence": 0.9989978211266654
+    },
+    {
+      "type": "text",
+      "img_path": "p0599_013_text.png",
+      "bbox": [
+        [
+          289,
+          676
+        ],
+        [
+          1288,
+          676
+        ],
+        [
+          1288,
+          727
+        ],
+        [
+          289,
+          727
+        ]
+      ],
+      "score": 0.9214574694633484,
+      "y_pos": 676,
+      "text": "190. <i>Trung cực:</i> Sau để nước hôi không ra.",
+      "confidence": 0.9872428562906054
+    },
+    {
+      "type": "text",
+      "img_path": "p0599_004_text.png",
+      "bbox": [
+        [
+          289,
+          764
+        ],
+        [
+          1788,
+          764
+        ],
+        [
+          1788,
+          818
+        ],
+        [
+          289,
+          818
+        ]
+      ],
+      "score": 0.9257938861846924,
+      "y_pos": 764,
+      "text": "191. Quan nguyên: Châm nhiều lần tiêu mất giun đũa đường ruột.",
+      "confidence": 0.9994714381173253
+    },
+    {
+      "type": "text",
+      "img_path": "p0599_008_text.png",
+      "bbox": [
+        [
+          289,
+          857
+        ],
+        [
+          1616,
+          857
+        ],
+        [
+          1616,
+          909
+        ],
+        [
+          289,
+          909
+        ]
+      ],
+      "score": 0.9238353371620178,
+      "y_pos": 857,
+      "text": "192. <i>Thạch môn:</i> Không ăn được chất bột, cốc không hoá.",
+      "confidence": 0.9864465835793265
+    },
+    {
+      "type": "text",
+      "img_path": "p0599_018_text.png",
+      "bbox": [
+        [
+          288,
+          948
+        ],
+        [
+          2262,
+          948
+        ],
+        [
+          2262,
+          1004
+        ],
+        [
+          288,
+          1004
+        ]
+      ],
+      "score": 0.9163959622383118,
+      "y_pos": 948,
+      "text": "193. <i>Khí hải:</i> Ấn day trị cấp tính bong gân cột sống thắt lưng, đau không cúi ngửa được.",
+      "confidence": 0.9950768096106393
+    },
+    {
+      "type": "text",
+      "img_path": "p0599_010_text.png",
+      "bbox": [
+        [
+          289,
+          1040
+        ],
+        [
+          1471,
+          1040
+        ],
+        [
+          1471,
+          1093
+        ],
+        [
+          289,
+          1093
+        ]
+      ],
+      "score": 0.9223576784133911,
+      "y_pos": 1040,
+      "text": "194. Âm giao: Trẻ em lõm thóp, thóp không đầy kín.",
+      "confidence": 0.9914537840164624
+    },
+    {
+      "type": "text",
+      "img_path": "p0599_016_text.png",
+      "bbox": [
+        [
+          289,
+          1134
+        ],
+        [
+          1424,
+          1134
+        ],
+        [
+          1424,
+          1185
+        ],
+        [
+          289,
+          1185
+        ]
+      ],
+      "score": 0.9173610210418701,
+      "y_pos": 1134,
+      "text": "195. <i>Thần khuyết:</i> Lao ruột, dính ruột mà choáng.",
+      "confidence": 0.9873344800793208
+    },
+    {
+      "type": "text",
+      "img_path": "p0599_014_text.png",
+      "bbox": [
+        [
+          290,
+          1226
+        ],
+        [
+          1120,
+          1226
+        ],
+        [
+          1120,
+          1276
+        ],
+        [
+          290,
+          1276
+        ]
+      ],
+      "score": 0.9204023480415344,
+      "y_pos": 1226,
+      "text": "196. <i>Thuỷ phân:</i> Mọi thứ phù thũng.",
+      "confidence": 0.9838059199483771
+    },
+    {
+      "type": "text",
+      "img_path": "p0599_009_text.png",
+      "bbox": [
+        [
+          290,
+          1317
+        ],
+        [
+          1344,
+          1317
+        ],
+        [
+          1344,
+          1368
+        ],
+        [
+          290,
+          1368
+        ]
+      ],
+      "score": 0.922787070274353,
+      "y_pos": 1317,
+      "text": "197. <i>Trung quản:</i> Phủ hội (mọi bệnh tiêu hoá).",
+      "confidence": 0.9866814260580101
+    },
+    {
+      "type": "text",
+      "img_path": "p0599_017_text.png",
+      "bbox": [
+        [
+          290,
+          1407
+        ],
+        [
+          1090,
+          1407
+        ],
+        [
+          1090,
+          1459
+        ],
+        [
+          290,
+          1459
+        ]
+      ],
+      "score": 0.9168446660041809,
+      "y_pos": 1407,
+      "text": "198. Cự khuyết: Mọi chứng về tim.",
+      "confidence": 0.9968022005898612
+    },
+    {
+      "type": "text",
+      "img_path": "p0599_005_text.png",
+      "bbox": [
+        [
+          289,
+          1499
+        ],
+        [
+          1326,
+          1499
+        ],
+        [
+          1326,
+          1552
+        ],
+        [
+          289,
+          1552
+        ]
+      ],
+      "score": 0.9257218241691589,
+      "y_pos": 1499,
+      "text": "199. Cưu vỹ: Ít tuổi mà mệt mỏi vì phòng dục.",
+      "confidence": 0.9990791437473703
+    },
+    {
+      "type": "text",
+      "img_path": "p0599_015_text.png",
+      "bbox": [
+        [
+          285,
+          1589
+        ],
+        [
+          1093,
+          1589
+        ],
+        [
+          1093,
+          1639
+        ],
+        [
+          285,
+          1639
+        ]
+      ],
+      "score": 0.9196848273277283,
+      "y_pos": 1589,
+      "text": "200. <i>Chiên trung:</i> Moi bênh vê khí.",
+      "confidence": 0.974273543608816
+    },
+    {
+      "type": "text",
+      "img_path": "p0599_002_text.png",
+      "bbox": [
+        [
+          284,
+          1681
+        ],
+        [
+          1297,
+          1681
+        ],
+        [
+          1297,
+          1736
+        ],
+        [
+          284,
+          1736
+        ]
+      ],
+      "score": 0.9269936084747314,
+      "y_pos": 1681,
+      "text": "201. Ngọc đường: Phổi có nước (phù phổi).",
+      "confidence": 0.9915162214013034
+    },
+    {
+      "type": "text",
+      "img_path": "p0599_003_text.png",
+      "bbox": [
+        [
+          285,
+          1774
+        ],
+        [
+          1195,
+          1774
+        ],
+        [
+          1195,
+          1826
+        ],
+        [
+          285,
+          1826
+        ]
+      ],
+      "score": 0.9262821078300476,
+      "y_pos": 1774,
+      "text": "202. <i>Tử cung:</i> Nước bọt như keo trắng.",
+      "confidence": 0.9802703973723621
+    },
+    {
+      "type": "text",
+      "img_path": "p0599_007_text.png",
+      "bbox": [
+        [
+          285,
+          1866
+        ],
+        [
+          1350,
+          1866
+        ],
+        [
+          1350,
+          1916
+        ],
+        [
+          285,
+          1916
+        ]
+      ],
+      "score": 0.92463219165802,
+      "y_pos": 1866,
+      "text": "203. <b>Toàn cơ:</b> Co thắt thực quản và cố da dày.",
+      "confidence": 0.9824625314498434
+    },
+    {
+      "type": "text",
+      "img_path": "p0599_006_text.png",
+      "bbox": [
+        [
+          285,
+          1958
+        ],
+        [
+          1226,
+          1958
+        ],
+        [
+          1226,
+          2010
+        ],
+        [
+          285,
+          2010
+        ]
+      ],
+      "score": 0.9247955679893494,
+      "y_pos": 1958,
+      "text": "204. <i>Thiên đột:</i> Da mặt nóng, lòng đổ ky.",
+      "confidence": 0.9824210080233488
+    },
+    {
+      "type": "text",
+      "img_path": "p0599_012_text.png",
+      "bbox": [
+        [
+          285,
+          2049
+        ],
+        [
+          1106,
+          2049
+        ],
+        [
+          1106,
+          2099
+        ],
+        [
+          285,
+          2099
+        ]
+      ],
+      "score": 0.9221075773239136,
+      "y_pos": 2049,
+      "text": "205. <i>Liêm tuyền:</i> Các bênh về lưỡi.",
+      "confidence": 0.9739571903881273
+    },
+    {
+      "type": "text",
+      "img_path": "p0599_022_text.png",
+      "bbox": [
+        [
+          285,
+          2140
+        ],
+        [
+          1227,
+          2140
+        ],
+        [
+          1227,
+          2192
+        ],
+        [
+          285,
+          2192
+        ]
+      ],
+      "score": 0.9132394790649414,
+      "y_pos": 2140,
+      "text": "206. <i>Thừa tương:</i> Đái nhiều, uống nhiều.",
+      "confidence": 0.9832039849702702
+    },
+    {
+      "type": "text",
+      "img_path": "p0599_000_text.png",
+      "bbox": [
+        [
+          221,
+          2235
+        ],
+        [
+          2355,
+          2235
+        ],
+        [
+          2355,
+          2569
+        ],
+        [
+          221,
+          2569
+        ]
+      ],
+      "score": 0.9814899563789368,
+      "y_pos": 2235,
+      "text": "Trên đây là những tác dụng đặc hiệu của các huyệt vị thuộc 14 đường kinh được khai thác ở\ncác tài liệu, một số đã qua quá trình thực nghiệm. Tác dụng đặc hiệu ở đây khác với các huyệt\nvị lạ ngoài kinh và tân huyệt. Tân và kỳ huyệt có những tác dụng chuyên thuộc về một loại bệnh\nriêng, cho nên cần khai thác khía cạnh chuyên thuộc về bệnh lạ, bệnh khó của nó để phối hợp\nsử dụng nhằm làm tăng hiệu quả chữa bệnh.",
+      "confidence": 0.9988492335613598
+    },
+    {
+      "type": "number",
+      "img_path": "p0599_024_number.png",
+      "bbox": [
+        [
+          2343,
+          3338
+        ],
+        [
+          2368,
+          3338
+        ],
+        [
+          2368,
+          3373
+        ],
+        [
+          2343,
+          3373
+        ]
+      ],
+      "score": 0.8342506289482117,
+      "y_pos": 3338,
+      "text": "\n    \n    \n    \n\n    \n\n\n\nľ\n\n    \n\n\n",
+      "confidence": 0.9628926549106837
+    },
+    {
+      "type": "footer",
+      "img_path": "p0599_020_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1324,
+          3341
+        ],
+        [
+          1324,
+          3388
+        ],
+        [
+          229,
+          3388
+        ]
+      ],
+      "score": 0.9141132831573486,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985828905735376
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0599.png"
+}

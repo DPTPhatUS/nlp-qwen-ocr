@@ -1,0 +1,214 @@
+{
+  "page_num": 85,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0085_004_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9206773638725281,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7643314777385621
+    },
+    {
+      "type": "header",
+      "img_path": "p0085_006_header.png",
+      "bbox": [
+        [
+          231,
+          160
+        ],
+        [
+          442,
+          160
+        ],
+        [
+          442,
+          202
+        ],
+        [
+          231,
+          202
+        ]
+      ],
+      "score": 0.8959920406341553,
+      "y_pos": 160,
+      "text": "KINH LAC",
+      "confidence": 0.7441844046115875
+    },
+    {
+      "type": "text",
+      "img_path": "p0085_000_text.png",
+      "bbox": [
+        [
+          337,
+          311
+        ],
+        [
+          2358,
+          311
+        ],
+        [
+          2358,
+          591
+        ],
+        [
+          337,
+          591
+        ]
+      ],
+      "score": 0.9810512065887451,
+      "y_pos": 311,
+      "text": "Mạch nhánh thứ nhất đi theo cạnh trong bắp thịt bả vai dựa theo gần sát cột sống, (cách\nđều cột sống là 1,5 thốn) đi thẳng xuống đến thắt lưng, theo cạnh cột sống thắt lưng mà\nliên lạc vào thận tạng, vào bàng quang. Từ lưng bụng đi xuống ven theo cột sống 1,5 thốn\nqua mông, tiến xuống lõm khoeo sau đầu gối.",
+      "confidence": 0.9967347055580582
+    },
+    {
+      "type": "text",
+      "img_path": "p0085_001_text.png",
+      "bbox": [
+        [
+          337,
+          631
+        ],
+        [
+          2358,
+          631
+        ],
+        [
+          2358,
+          910
+        ],
+        [
+          337,
+          910
+        ]
+      ],
+      "score": 0.9801355600357056,
+      "y_pos": 631,
+      "text": "Mạch nhánh thứ hai từ sau gáy ven theo cột sống cách đều 3 thốn (cạng trong xương bả\nvai) đi xuống qua mông, ven theo phía sau cạnh ngoài đùi đi thẳng xuống giao hội với\nnhánh thứ nhất trong hố lõm khoeo, từ đấy lại qua bụng chân, qua phía sau mắt cá ngoài\nchân, đến chỗ lồi xương bàn số 5, đến cạnh ngoài đầu ngón út chân (Chi âm).",
+      "confidence": 0.9986900650623007
+    },
+    {
+      "type": "text",
+      "img_path": "p0085_003_text.png",
+      "bbox": [
+        [
+          285,
+          953
+        ],
+        [
+          2355,
+          953
+        ],
+        [
+          2355,
+          1080
+        ],
+        [
+          285,
+          1080
+        ]
+      ],
+      "score": 0.956043541431427,
+      "y_pos": 953,
+      "text": "b. Quan hệ tạng phủ: Kinh này từ đầu đến chân, thuộc bàng quang, đường lạc sang thận,\ncòn có thêm quan hệ trực tiếp với não và tâm.",
+      "confidence": 0.8993280924279056
+    },
+    {
+      "type": "text",
+      "img_path": "p0085_002_text.png",
+      "bbox": [
+        [
+          287,
+          1123
+        ],
+        [
+          2357,
+          1123
+        ],
+        [
+          2357,
+          1405
+        ],
+        [
+          287,
+          1405
+        ]
+      ],
+      "score": 0.9780064821243286,
+      "y_pos": 1123,
+      "text": "c. Chủ trị: Đau đầu, đau cột sống, đau lưng, đau đùi, đau chân, bắp chân co rút, sốt rét, đau\nmắt, ra gió chảy nước mắt, tiểu tiện không thông, đái dầm, và bệnh tật ở những nơi\nđường kinh đi qua ở chi dưới. (Bố du là du huyệt của lục phủ ngũ tạng trên đường kinh\nbàng quang vùng lưng chủ trị bệnh biển của tạng phủ theo tên nó).",
+      "confidence": 0.9987909338676881
+    },
+    {
+      "type": "footer",
+      "img_path": "p0085_005_footer.png",
+      "bbox": [
+        [
+          230,
+          3334
+        ],
+        [
+          1437,
+          3334
+        ],
+        [
+          1437,
+          3387
+        ],
+        [
+          230,
+          3387
+        ]
+      ],
+      "score": 0.905419647693634,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9983688143064391
+    },
+    {
+      "type": "number",
+      "img_path": "p0085_007_number.png",
+      "bbox": [
+        [
+          2335,
+          3338
+        ],
+        [
+          2383,
+          3338
+        ],
+        [
+          2383,
+          3373
+        ],
+        [
+          2335,
+          3373
+        ]
+      ],
+      "score": 0.859941840171814,
+      "y_pos": 3338,
+      "text": "    \n    \n    \n\n\n\n\n\n\n    \n\n\n    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0085.png"
+}

@@ -1,0 +1,552 @@
+{
+  "page_num": 353,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0353_011_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1678,
+          196
+        ]
+      ],
+      "score": 0.9268014430999756,
+      "y_pos": 142,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7456070706248283
+    },
+    {
+      "type": "header",
+      "img_path": "p0353_017_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1055,
+          152
+        ],
+        [
+          1055,
+          198
+        ],
+        [
+          228,
+          198
+        ]
+      ],
+      "score": 0.9169458150863647,
+      "y_pos": 152,
+      "text": "ÔN NHIỆT KINH BIÊN CHỨNG LUÂN TRI",
+      "confidence": 0.9449882047516959
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0353_013_paragraph_title.png",
+      "bbox": [
+        [
+          223,
+          322
+        ],
+        [
+          1472,
+          322
+        ],
+        [
+          1472,
+          376
+        ],
+        [
+          223,
+          376
+        ]
+      ],
+      "score": 0.9234238862991333,
+      "y_pos": 322,
+      "text": "LUC KINH BIÊN CHỨNG VÀ TAM TIÊU BIÊN CHỨNG",
+      "confidence": 0.994476093487306
+    },
+    {
+      "type": "text",
+      "img_path": "p0353_000_text.png",
+      "bbox": [
+        [
+          221,
+          418
+        ],
+        [
+          2357,
+          418
+        ],
+        [
+          2357,
+          827
+        ],
+        [
+          221,
+          827
+        ]
+      ],
+      "score": 0.986019492149353,
+      "y_pos": 418,
+      "text": "Biện chứng của bệnh sốt thời khí (ôn nhiệt bệnh) nói chung có phân ra 3 loại: Vệ khí doanh\nhuyết biện chứng, Lục kinh biện chứng và Tam tiêu biện chứng. Căn cứ vào chứng mà ta hay\ngặp trên lâm sàng và những tài liệu gần đây hướng dẫn, khi chẩn trị bệnh truyền nhiễm, thường\nsử dụng Vệ, khí, doanh, huyết biện chứng, cho nên chúng ta đã giới thiệu điểm phía trên về Vệ\nkhí doanh huyết biện chứng luận trị, ở đây chỉ thuật qua về Lục kinh biện chứng và Tam tiêu\nbiện chứng cung cấp cho người học tham khảo.",
+      "confidence": 0.9983363319000905
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0353_016_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          867
+        ],
+        [
+          788,
+          867
+        ],
+        [
+          788,
+          916
+        ],
+        [
+          225,
+          916
+        ]
+      ],
+      "score": 0.9198575615882874,
+      "y_pos": 867,
+      "text": "A. Luc kinh biện chứng",
+      "confidence": 0.8822533090909322
+    },
+    {
+      "type": "text",
+      "img_path": "p0353_001_text.png",
+      "bbox": [
+        [
+          220,
+          956
+        ],
+        [
+          2359,
+          956
+        ],
+        [
+          2359,
+          1220
+        ],
+        [
+          220,
+          1220
+        ]
+      ],
+      "score": 0.9818881154060364,
+      "y_pos": 956,
+      "text": "Lục kinh bao gồm Thái dương kinh, Dương minh kinh, Thiếu dương kinh, Thái âm kinh, Quyết\nâm kinh, vốn nó là tên gọi của kinh lạc, sau đó ngày xưa dùng nó để khái quát 6 giai đoạn biến\nhóa trong quá trình phát triển của bệnh Thương hàn, thành ra là cưng lĩnh của biện chứng luận\ntri về bênh thương hàn.",
+      "confidence": 0.9967702861316502
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0353_015_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1262
+        ],
+        [
+          711,
+          1262
+        ],
+        [
+          711,
+          1313
+        ],
+        [
+          226,
+          1313
+        ]
+      ],
+      "score": 0.9216346740722656,
+      "y_pos": 1262,
+      "text": "1. Bệnh Thái dương",
+      "confidence": 0.819059020280838
+    },
+    {
+      "type": "text",
+      "img_path": "p0353_012_text.png",
+      "bbox": [
+        [
+          223,
+          1351
+        ],
+        [
+          2144,
+          1351
+        ],
+        [
+          2144,
+          1405
+        ],
+        [
+          223,
+          1405
+        ]
+      ],
+      "score": 0.9237001538276672,
+      "y_pos": 1351,
+      "text": "Bệnh Thái dương chia ra làm 2 loại chủ yếu là \"Chứng của kinh\" và \"Chứng của phủ\".",
+      "confidence": 0.9786991207372575
+    },
+    {
+      "type": "text",
+      "img_path": "p0353_005_text.png",
+      "bbox": [
+        [
+          222,
+          1444
+        ],
+        [
+          2358,
+          1444
+        ],
+        [
+          2358,
+          1566
+        ],
+        [
+          222,
+          1566
+        ]
+      ],
+      "score": 0.965318500995636,
+      "y_pos": 1444,
+      "text": "a. Thái dương kinh chứng là bệnh tà xâm phạm cơ biểu, lại chia ra làm 2 loại: \"Trúng phong\"\nvà \"Thương hàn\".",
+      "confidence": 0.9970298740064798
+    },
+    {
+      "type": "text",
+      "img_path": "p0353_010_text.png",
+      "bbox": [
+        [
+          224,
+          1606
+        ],
+        [
+          1343,
+          1606
+        ],
+        [
+          1343,
+          1660
+        ],
+        [
+          224,
+          1660
+        ]
+      ],
+      "score": 0.9277576208114624,
+      "y_pos": 1606,
+      "text": "Trúng phong là biểu hư, thương hàn là biểu thực.",
+      "confidence": 0.9777008318901061
+    },
+    {
+      "type": "text",
+      "img_path": "p0353_009_text.png",
+      "bbox": [
+        [
+          221,
+          1697
+        ],
+        [
+          2355,
+          1697
+        ],
+        [
+          2355,
+          1823
+        ],
+        [
+          221,
+          1823
+        ]
+      ],
+      "score": 0.9512715935707092,
+      "y_pos": 1697,
+      "text": "- Bệnh Thái dương \"Trúng phong\", thấy chứng phát sốt sợ gió, ra mồ hôi, đầu gáy cứng đau,\nmạch phù hoãn. Chữa thì dùng phép giải cơ phát biểu, lấy <i>Quế chi thang</i> làm phương chủ yếu.",
+      "confidence": 0.9969653211898104
+    },
+    {
+      "type": "text",
+      "img_path": "p0353_004_text.png",
+      "bbox": [
+        [
+          222,
+          1859
+        ],
+        [
+          2359,
+          1859
+        ],
+        [
+          2359,
+          2055
+        ],
+        [
+          222,
+          2055
+        ]
+      ],
+      "score": 0.9704655408859253,
+      "y_pos": 1859,
+      "text": "- Bệnh Thái dương \"Thương hàn\", thấy chứng sợ lạnh, phát sốt, không có mồ hôi, xương\nkhớp đau đớn, mạch phù khẩn, chữa thì dùng phép phát hãn giải biểu, lấy <i>Ma hoàng thang</i> làm\nphương chủ yếu.",
+      "confidence": 0.9974180307331495
+    },
+    {
+      "type": "text",
+      "img_path": "p0353_002_text.png",
+      "bbox": [
+        [
+          222,
+          2094
+        ],
+        [
+          2357,
+          2094
+        ],
+        [
+          2357,
+          2289
+        ],
+        [
+          222,
+          2289
+        ]
+      ],
+      "score": 0.9778282642364502,
+      "y_pos": 2094,
+      "text": "b. Thái dương phủ chứng là nhân biểu tà chưa giải, chuyển vào trong bàng quang gây nên.\nNếu thấy chứng phát sốt, sợ gió, tiểu tiện không lợi, tiêu khát hoặc nước vào thì nôn, là chứng\nbàng quang \"súc thủy\".",
+      "confidence": 0.9921786135224946
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0353_018_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2328
+        ],
+        [
+          727,
+          2328
+        ],
+        [
+          727,
+          2378
+        ],
+        [
+          225,
+          2378
+        ]
+      ],
+      "score": 0.905065655708313,
+      "y_pos": 2328,
+      "text": "2. Bệnh dương minh",
+      "confidence": 0.9076148569583893
+    },
+    {
+      "type": "text",
+      "img_path": "p0353_007_text.png",
+      "bbox": [
+        [
+          221,
+          2418
+        ],
+        [
+          2357,
+          2418
+        ],
+        [
+          2357,
+          2540
+        ],
+        [
+          221,
+          2540
+        ]
+      ],
+      "score": 0.9630083441734314,
+      "y_pos": 2418,
+      "text": "Bệnh Dương minh do Thái dương chuyền kinh mà đến, biểu hiện là vị trường thực nhiệt, phân\nlàm 2 loai hình:",
+      "confidence": 0.9910465411759994
+    },
+    {
+      "type": "text",
+      "img_path": "p0353_006_text.png",
+      "bbox": [
+        [
+          223,
+          2581
+        ],
+        [
+          2357,
+          2581
+        ],
+        [
+          2357,
+          2707
+        ],
+        [
+          223,
+          2707
+        ]
+      ],
+      "score": 0.9643224477767944,
+      "y_pos": 2581,
+      "text": "a. Dương minh kinh chứng có sốt cao, khát nhiều, ra mồ hôi, mạch hồng đại. Chữa dùng\nphép Thanh lý nhiệt, lấy <i>Bạch hổ thang</i> làm phương chủ yếu.",
+      "confidence": 0.9969221814986198
+    },
+    {
+      "type": "text",
+      "img_path": "p0353_003_text.png",
+      "bbox": [
+        [
+          223,
+          2743
+        ],
+        [
+          2358,
+          2743
+        ],
+        [
+          2358,
+          2938
+        ],
+        [
+          223,
+          2938
+        ]
+      ],
+      "score": 0.9761201739311218,
+      "y_pos": 2743,
+      "text": "b. Dương minh phủ chứng có sốt về chiều, ra mồ hôi, bụng đầy mà cứng, đại tiện bí kết, nói\nnhảm, thần mờ tối, lần áo sờ giường, mạch trầm thực. Chữa dùng phép thông phủ tả nhiệt, lấy\nĐại thừa khí thang làm phương chủ.",
+      "confidence": 0.8537742534223627
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0353_014_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2975
+        ],
+        [
+          726,
+          2975
+        ],
+        [
+          726,
+          3028
+        ],
+        [
+          225,
+          3028
+        ]
+      ],
+      "score": 0.9220104813575745,
+      "y_pos": 2975,
+      "text": "3. Bệnh thiếu dương",
+      "confidence": 0.9683881657464164
+    },
+    {
+      "type": "text",
+      "img_path": "p0353_008_text.png",
+      "bbox": [
+        [
+          222,
+          3069
+        ],
+        [
+          2359,
+          3069
+        ],
+        [
+          2359,
+          3196
+        ],
+        [
+          222,
+          3196
+        ]
+      ],
+      "score": 0.9611525535583496,
+      "y_pos": 3069,
+      "text": "Bệnh thiếu dương lấy chứng trạng chủ yếu là nóng rét qua lại (hàn nhiệt vãng lai), ngực sườn\nđầy tức, tâm phiền hay nôn, miệng đắng họng khô, mắt hoa, rêu lưỡi trắng, mạch huyền. Bệnh",
+      "confidence": 0.9990095259978415
+    },
+    {
+      "type": "footer",
+      "img_path": "p0353_019_footer.png",
+      "bbox": [
+        [
+          228,
+          3338
+        ],
+        [
+          1343,
+          3338
+        ],
+        [
+          1343,
+          3385
+        ],
+        [
+          228,
+          3385
+        ]
+      ],
+      "score": 0.9010675549507141,
+      "y_pos": 3338,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9422505610394027
+    },
+    {
+      "type": "number",
+      "img_path": "p0353_020_number.png",
+      "bbox": [
+        [
+          2295,
+          3338
+        ],
+        [
+          2345,
+          3338
+        ],
+        [
+          2345,
+          3374
+        ],
+        [
+          2295,
+          3374
+        ]
+      ],
+      "score": 0.8628333210945129,
+      "y_pos": 3338,
+      "text": "    \n    \n\n\n\n\n\n\n۰\n",
+      "confidence": 0.955242478599151
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0353.png"
+}

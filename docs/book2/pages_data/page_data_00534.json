@@ -1,0 +1,344 @@
+{
+  "page_num": 534,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0534_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9171570539474487,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0534_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.9189932346343994,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9977136671543121
+    },
+    {
+      "type": "text",
+      "img_path": "p0534_010_text.png",
+      "bbox": [
+        [
+          226,
+          308
+        ],
+        [
+          1248,
+          308
+        ],
+        [
+          1248,
+          362
+        ],
+        [
+          226,
+          362
+        ]
+      ],
+      "score": 0.5465664863586426,
+      "y_pos": 308,
+      "text": "473. la ra máu: Phục lưu, Thái xung, Hội âm.",
+      "confidence": 0.9924189940742825
+    },
+    {
+      "type": "text",
+      "img_path": "p0534_009_text.png",
+      "bbox": [
+        [
+          227,
+          401
+        ],
+        [
+          1551,
+          401
+        ],
+        [
+          1551,
+          455
+        ],
+        [
+          227,
+          455
+        ]
+      ],
+      "score": 0.5542870759963989,
+      "y_pos": 401,
+      "text": "474. Îa ra máu: Thừa sơn, Phục lưu, Thái xung, Thái bạch.",
+      "confidence": 0.9995641001200272
+    },
+    {
+      "type": "text",
+      "img_path": "p0534_012_text.png",
+      "bbox": [
+        [
+          228,
+          494
+        ],
+        [
+          1005,
+          494
+        ],
+        [
+          1005,
+          545
+        ],
+        [
+          228,
+          545
+        ]
+      ],
+      "score": 0.5379678606987,
+      "y_pos": 494,
+      "text": "475. Mun trĩ: Nhị bạch, Thừa sơn.",
+      "confidence": 0.9719175355775016
+    },
+    {
+      "type": "text",
+      "img_path": "p0534_011_text.png",
+      "bbox": [
+        [
+          227,
+          583
+        ],
+        [
+          1478,
+          583
+        ],
+        [
+          1478,
+          637
+        ],
+        [
+          227,
+          637
+        ]
+      ],
+      "score": 0.5452226996421814,
+      "y_pos": 583,
+      "text": "476. Lòi dom: Bạch toàn du, Trường cường, Thừa sơn.",
+      "confidence": 0.9947633507116785
+    },
+    {
+      "type": "text",
+      "img_path": "p0534_006_text.png",
+      "bbox": [
+        [
+          228,
+          675
+        ],
+        [
+          1444,
+          675
+        ],
+        [
+          1444,
+          730
+        ],
+        [
+          228,
+          730
+        ]
+      ],
+      "score": 0.560065746307373,
+      "y_pos": 675,
+      "text": "477. Lòi dom: Bách hội, Vĩ ế (Cưu vĩ), Trường cường.",
+      "confidence": 0.9889524203759653
+    },
+    {
+      "type": "text",
+      "img_path": "p0534_008_text.png",
+      "bbox": [
+        [
+          228,
+          767
+        ],
+        [
+          1712,
+          767
+        ],
+        [
+          1712,
+          821
+        ],
+        [
+          228,
+          821
+        ]
+      ],
+      "score": 0.556398332118988,
+      "y_pos": 767,
+      "text": "478. Lòi dom: Trường cường, Đại trường du, Thừa sơn, Bách hội.",
+      "confidence": 0.9983968762680888
+    },
+    {
+      "type": "text",
+      "img_path": "p0534_007_text.png",
+      "bbox": [
+        [
+          228,
+          858
+        ],
+        [
+          1562,
+          858
+        ],
+        [
+          1562,
+          910
+        ],
+        [
+          228,
+          910
+        ]
+      ],
+      "score": 0.5583890676498413,
+      "y_pos": 858,
+      "text": "479. Lòi dom: Bách hội, Trường cường, Thừa sơn, Khí hải.",
+      "confidence": 0.9963143560393103
+    },
+    {
+      "type": "text",
+      "img_path": "p0534_005_text.png",
+      "bbox": [
+        [
+          229,
+          951
+        ],
+        [
+          1040,
+          951
+        ],
+        [
+          1040,
+          1005
+        ],
+        [
+          229,
+          1005
+        ]
+      ],
+      "score": 0.5751214027404785,
+      "y_pos": 951,
+      "text": "480. Trĩ: Ngận giao, Trường cường.",
+      "confidence": 0.9991453074746661
+    },
+    {
+      "type": "text",
+      "img_path": "p0534_004_text.png",
+      "bbox": [
+        [
+          227,
+          1042
+        ],
+        [
+          1510,
+          1042
+        ],
+        [
+          1510,
+          1095
+        ],
+        [
+          227,
+          1095
+        ]
+      ],
+      "score": 0.6051624417304993,
+      "y_pos": 1042,
+      "text": "481. Rách lỗ đít: Thượng liêu, Trường cường, Thừa sơn.",
+      "confidence": 0.8879664710589817
+    },
+    {
+      "type": "number",
+      "img_path": "p0534_003_number.png",
+      "bbox": [
+        [
+          2316,
+          3337
+        ],
+        [
+          2367,
+          3337
+        ],
+        [
+          2367,
+          3374
+        ],
+        [
+          2316,
+          3374
+        ]
+      ],
+      "score": 0.8660662174224854,
+      "y_pos": 3337,
+      "text": "    \n    \n    \n\n\n\n\n\n    ٠.\n    ۰\n    \n\n",
+      "confidence": 0.9544570359744524
+    },
+    {
+      "type": "footer",
+      "img_path": "p0534_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9095433950424194,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0534.png"
+}

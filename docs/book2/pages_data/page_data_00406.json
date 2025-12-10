@@ -1,0 +1,500 @@
+{
+  "page_num": 406,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0406_010_header.png",
+      "bbox": [
+        [
+          1679,
+          141
+        ],
+        [
+          2368,
+          141
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1679,
+          196
+        ]
+      ],
+      "score": 0.9158619046211243,
+      "y_pos": 141,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7868651009741283
+    },
+    {
+      "type": "header",
+      "img_path": "p0406_011_header.png",
+      "bbox": [
+        [
+          230,
+          146
+        ],
+        [
+          1095,
+          146
+        ],
+        [
+          1095,
+          197
+        ],
+        [
+          230,
+          197
+        ]
+      ],
+      "score": 0.9128091931343079,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SÀNG",
+      "confidence": 0.9910215088299342
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0406_014_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          326
+        ],
+        [
+          501,
+          326
+        ],
+        [
+          501,
+          370
+        ],
+        [
+          224,
+          370
+        ]
+      ],
+      "score": 0.9052093029022217,
+      "y_pos": 326,
+      "text": "ĐAU LƯNG",
+      "confidence": 0.5788502156734466
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0406_012_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          419
+        ],
+        [
+          758,
+          419
+        ],
+        [
+          758,
+          472
+        ],
+        [
+          226,
+          472
+        ]
+      ],
+      "score": 0.907011091709137,
+      "y_pos": 419,
+      "text": "A. Biện chứng luận trị",
+      "confidence": 0.9429587150613467
+    },
+    {
+      "type": "text",
+      "img_path": "p0406_000_text.png",
+      "bbox": [
+        [
+          220,
+          509
+        ],
+        [
+          2359,
+          509
+        ],
+        [
+          2359,
+          1128
+        ],
+        [
+          220,
+          1128
+        ]
+      ],
+      "score": 0.9871456623077393,
+      "y_pos": 509,
+      "text": "Đau một hoặc cả hai bên vùng lưng là một chứng trạng do nhiều loại bệnh gây ra, bao gồm\nbệnh của thận, bộ máy sinh dục, bệnh ở lưng, cột sống, tủy sống, kể cả ngoại thương ở cơ\nlưng và đốt sống lưng. Y học cổ Phương Đông cho rằng \"Lưng là phủ của thận\", do đó, đau\nlưng và thận có quan hệ vô cùng mật thiết. Nếu bị ngoại tà hàn thấp, thấp nhiệt, hoặc bê nặng\nmà trượt ngã, làm cho tà vướng, ứ trệ khí huyết, kinh lạc bất hòa, hoặc nhân người yếu bị bệnh\nlâu dài, tuổi già tinh huyết bất túc, thận tinh hao hư, không thể nuôi dưỡng kinh mạch, đều có\nthể dẫn đến đau lưng. Chương này coi trọng biện chứng thí trị tất cả các loại đau lưng, còn\nphần bệnh tật khác nhau dẫn đến đau lưng, có thể tham khảo thương khoa, nội khoa, phụ khoa\nhữu quan.",
+      "confidence": 0.9983197394069472
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0406_008_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          1165
+        ],
+        [
+          901,
+          1165
+        ],
+        [
+          901,
+          1217
+        ],
+        [
+          224,
+          1217
+        ]
+      ],
+      "score": 0.9189866781234741,
+      "y_pos": 1165,
+      "text": "B. Điểm chủ vếu để kiểm tra",
+      "confidence": 0.9030488832243557
+    },
+    {
+      "type": "text",
+      "img_path": "p0406_003_text.png",
+      "bbox": [
+        [
+          220,
+          1259
+        ],
+        [
+          2360,
+          1259
+        ],
+        [
+          2360,
+          1525
+        ],
+        [
+          220,
+          1525
+        ]
+      ],
+      "score": 0.9787546992301941,
+      "y_pos": 1259,
+      "text": "Hỏi tiền sử, chú ý vùng lưng đau, tính chất đau, quan hệ giữa chúng với khí hậu và lao động,\ndo đâu mà phát đau và những chứng trạng kèm theo, kiểm tra đốt sống, cơ lưng, khi cần thiết\nphải khám phụ khoa, xét nghiệm máu và nước tiểu, chụp phim cột sống để phân biệt các\nnguyên nhân khác nhau.",
+      "confidence": 0.9406127701320741
+    },
+    {
+      "type": "text",
+      "img_path": "p0406_002_text.png",
+      "bbox": [
+        [
+          221,
+          1561
+        ],
+        [
+          2360,
+          1561
+        ],
+        [
+          2360,
+          1831
+        ],
+        [
+          221,
+          1831
+        ]
+      ],
+      "score": 0.9801985621452332,
+      "y_pos": 1561,
+      "text": "1. Do ngoại thương dẫn đến đau lưng, trong ngoại thương, có ngoại thương trực tiếp dẫn đến\ngẫy xương kín hoặc hở, ngoại thương dẫn đến thoát vị đĩa đệm, loại phong thấp viêm khớp,\nviêm xùi to đốt sống, lao đốt sống. Trên lâm sàng có thể theo tính chất đau, tuổi phát bệnh khác\nnhau, kết hợp với tiền sử và phim chụp cột sống, để chẩn đoán phân biệt.",
+      "confidence": 0.9992699903872729
+    },
+    {
+      "type": "text",
+      "img_path": "p0406_001_text.png",
+      "bbox": [
+        [
+          222,
+          1867
+        ],
+        [
+          2361,
+          1867
+        ],
+        [
+          2361,
+          2135
+        ],
+        [
+          222,
+          2135
+        ]
+      ],
+      "score": 0.9803165793418884,
+      "y_pos": 1867,
+      "text": "2. Nếu đau đớn ở hai bên thắt lưng là chính, thường thuộc bệnh ở cơ lưng, như khởi bệnh\nkhẩn cấp, có tiền sử ngoại thương, đau rất dữ, hoạt động bị vướng, hoặc cục bộ da bầm tím,\nthường thuộc bong gân cấp tính; khởi bệnh từ từ, vùng thắt lưng buốt đau, khi trời âm u hoặc\nsau khi làm mệt đau tăng mạnh, thường là bệnh phong thấp, cơ lưng bị lao tổn mạn tính.",
+      "confidence": 0.9837620358056953
+    },
+    {
+      "type": "text",
+      "img_path": "p0406_004_text.png",
+      "bbox": [
+        [
+          221,
+          2170
+        ],
+        [
+          2360,
+          2170
+        ],
+        [
+          2360,
+          2367
+        ],
+        [
+          221,
+          2367
+        ]
+      ],
+      "score": 0.9716888070106506,
+      "y_pos": 2170,
+      "text": "3. Đau thắt lưng có kèm theo đái đau, đái nhiều lần, đái vội, đái ra máu, hoặc có sốt, phải nghĩ\nđến bệnh ở hệ tiết niệu. Đau lưng có liên quan kinh nguyệt, hoặc kèm theo khí hư rất nhiều,\nphải nghĩ đến bệnh phụ khoa.",
+      "confidence": 0.99811364929047
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0406_007_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2407
+        ],
+        [
+          558,
+          2407
+        ],
+        [
+          558,
+          2453
+        ],
+        [
+          226,
+          2453
+        ]
+      ],
+      "score": 0.9189971685409546,
+      "y_pos": 2407,
+      "text": "C. Cách chữa",
+      "confidence": 0.8915352821350098
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0406_009_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2496
+        ],
+        [
+          816,
+          2496
+        ],
+        [
+          816,
+          2550
+        ],
+        [
+          226,
+          2550
+        ]
+      ],
+      "score": 0.918232262134552,
+      "y_pos": 2496,
+      "text": "1. Ấn day bằng ngón tay",
+      "confidence": 0.9410439467430115
+    },
+    {
+      "type": "text",
+      "img_path": "p0406_006_text.png",
+      "bbox": [
+        [
+          220,
+          2586
+        ],
+        [
+          2355,
+          2586
+        ],
+        [
+          2355,
+          2716
+        ],
+        [
+          220,
+          2716
+        ]
+      ],
+      "score": 0.9579111337661743,
+      "y_pos": 2586,
+      "text": "Ấn day ở <i>Mệnh môn</i> và <i>Áp thống điểm</i> (nơi nào thấy đau), ấn từ nhẹ đến nặng, từ 1 đến 2 phút\nxoa ở <i>Thận du</i> 10 phút, cuối cùng day ở huyệt <i>Ủy trung</i>.",
+      "confidence": 0.9782764185220003
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0406_013_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2751
+        ],
+        [
+          670,
+          2751
+        ],
+        [
+          670,
+          2802
+        ],
+        [
+          225,
+          2802
+        ]
+      ],
+      "score": 0.9053878784179688,
+      "y_pos": 2751,
+      "text": "2. Bằng châm cứu",
+      "confidence": 0.9484438829951816
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0406_015_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2842
+        ],
+        [
+          532,
+          2842
+        ],
+        [
+          532,
+          2892
+        ],
+        [
+          226,
+          2892
+        ]
+      ],
+      "score": 0.9044916033744812,
+      "y_pos": 2842,
+      "text": "Thế châm",
+      "confidence": 0.9980005502700806
+    },
+    {
+      "type": "text",
+      "img_path": "p0406_005_text.png",
+      "bbox": [
+        [
+          223,
+          2933
+        ],
+        [
+          2358,
+          2933
+        ],
+        [
+          2358,
+          3060
+        ],
+        [
+          223,
+          3060
+        ]
+      ],
+      "score": 0.9582706093788147,
+      "y_pos": 2933,
+      "text": "- Phong thấp hàn chứng: <i>Thận tích, Yêu Dương quan, Ân môn, Ủy trung</i> hoặc lấy <i>A thị huyệt</i>,\nChâm xong, những huyệt ở vùng thắt lưng có thể cứu thêm hoặc làm bầu giác.",
+      "confidence": 0.988706642154016
+    },
+    {
+      "type": "text",
+      "img_path": "p0406_017_text.png",
+      "bbox": [
+        [
+          224,
+          3098
+        ],
+        [
+          1585,
+          3098
+        ],
+        [
+          1585,
+          3150
+        ],
+        [
+          224,
+          3150
+        ]
+      ],
+      "score": 0.890151858329773,
+      "y_pos": 3098,
+      "text": "- Thận hư: <i>Thận du</i> (châm, cứu), <i>Mệnh môn</i> (cứu), <i>Thái khê</i>.",
+      "confidence": 0.9771261939635644
+    },
+    {
+      "type": "number",
+      "img_path": "p0406_018_number.png",
+      "bbox": [
+        [
+          2307,
+          3334
+        ],
+        [
+          2357,
+          3334
+        ],
+        [
+          2357,
+          3371
+        ],
+        [
+          2307,
+          3371
+        ]
+      ],
+      "score": 0.8626639246940613,
+      "y_pos": 3334,
+      "text": "\n    \n    \n\n\n\n    \n\n\n٠.\n\n\n",
+      "confidence": 0.971308883279562
+    },
+    {
+      "type": "footer",
+      "img_path": "p0406_016_footer.png",
+      "bbox": [
+        [
+          228,
+          3336
+        ],
+        [
+          1342,
+          3336
+        ],
+        [
+          1342,
+          3383
+        ],
+        [
+          228,
+          3383
+        ]
+      ],
+      "score": 0.8973145484924316,
+      "y_pos": 3336,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.937709501329458
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0406.png"
+}

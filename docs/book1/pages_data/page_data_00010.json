@@ -1,0 +1,292 @@
+{
+  "page_num": 10,
+  "content": [
+    {
+      "type": "doc_title",
+      "img_path": "p0010_006_doc_title.png",
+      "bbox": [
+        [
+          832,
+          629
+        ],
+        [
+          1639,
+          629
+        ],
+        [
+          1639,
+          716
+        ],
+        [
+          832,
+          716
+        ]
+      ],
+      "score": 0.6134791374206543,
+      "y_pos": 629,
+      "text": "BÊNH CHỨNG DO NGOAI NHÂN",
+      "confidence": 0.9805985551614028
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0010_005_paragraph_title.png",
+      "bbox": [
+        [
+          348,
+          1216
+        ],
+        [
+          598,
+          1216
+        ],
+        [
+          598,
+          1277
+        ],
+        [
+          348,
+          1277
+        ]
+      ],
+      "score": 0.6148899793624878,
+      "y_pos": 1216,
+      "text": "<b>MUC TIÊU</b>",
+      "confidence": 0.9587937146425247
+    },
+    {
+      "type": "text",
+      "img_path": "p0010_010_text.png",
+      "bbox": [
+        [
+          347,
+          1327
+        ],
+        [
+          1095,
+          1327
+        ],
+        [
+          1095,
+          1387
+        ],
+        [
+          347,
+          1387
+        ]
+      ],
+      "score": 0.5110974311828613,
+      "y_pos": 1327,
+      "text": "Sau khi học tập, sinh viên PHAI:",
+      "confidence": 0.9935633452499614
+    },
+    {
+      "type": "text",
+      "img_path": "p0010_008_text.png",
+      "bbox": [
+        [
+          349,
+          1418
+        ],
+        [
+          2128,
+          1418
+        ],
+        [
+          2128,
+          1531
+        ],
+        [
+          349,
+          1531
+        ]
+      ],
+      "score": 0.595448911190033,
+      "y_pos": 1418,
+      "text": "1. Trình bày được khái niệm bệnh ngoại cảm và những phân loại bệnh ngoại cảm\ntheo Đông y.",
+      "confidence": 0.9729326269674651
+    },
+    {
+      "type": "text",
+      "img_path": "p0010_007_text.png",
+      "bbox": [
+        [
+          346,
+          1563
+        ],
+        [
+          2127,
+          1563
+        ],
+        [
+          2127,
+          1680
+        ],
+        [
+          346,
+          1680
+        ]
+      ],
+      "score": 0.5972228646278381,
+      "y_pos": 1563,
+      "text": "2. Nêu được những đặc điểm riêng và phân biệt được sự khác nhau giữa những\nloại ngoại cảm: Lục dâm, Thương hàn, Ôn bệnh, Dịch lệ.",
+      "confidence": 0.987879251206952
+    },
+    {
+      "type": "text",
+      "img_path": "p0010_009_text.png",
+      "bbox": [
+        [
+          345,
+          1709
+        ],
+        [
+          2125,
+          1709
+        ],
+        [
+          2125,
+          1826
+        ],
+        [
+          345,
+          1826
+        ]
+      ],
+      "score": 0.5689754486083984,
+      "y_pos": 1709,
+      "text": "3. Dựa vào tên bệnh Đông y, sinh viên sẽ xác định được loại ngoại tà nào gây bệnh\ncũng như vi trí bênh của tất cả các loại bênh ngoại cảm.",
+      "confidence": 0.8944884697010174
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0010_002_paragraph_title.png",
+      "bbox": [
+        [
+          348,
+          2116
+        ],
+        [
+          720,
+          2116
+        ],
+        [
+          720,
+          2166
+        ],
+        [
+          348,
+          2166
+        ]
+      ],
+      "score": 0.9104592204093933,
+      "y_pos": 2116,
+      "text": "1. ĐAI CƯƠNG",
+      "confidence": 0.9255402471338
+    },
+    {
+      "type": "text",
+      "img_path": "p0010_001_text.png",
+      "bbox": [
+        [
+          341,
+          2204
+        ],
+        [
+          2127,
+          2204
+        ],
+        [
+          2127,
+          2447
+        ],
+        [
+          341,
+          2447
+        ]
+      ],
+      "score": 0.9759982228279114,
+      "y_pos": 2204,
+      "text": "Theo Y học cổ truyền (Đông y), bệnh ngoại cảm là những bệnh có nguyên\nnhân từ sự không thích ứng được của cơ thể với những tác động từ những yếu tố\ncủa môi trường bên ngoài (do khí hâu, thời tiết của môi trường bên ngoài trở nên\nthái quá, trái thường, vượt quá khả năng thích ứng của cơ thể người bệnh).",
+      "confidence": 0.9980150607141332
+    },
+    {
+      "type": "text",
+      "img_path": "p0010_000_text.png",
+      "bbox": [
+        [
+          457,
+          2480
+        ],
+        [
+          2124,
+          2480
+        ],
+        [
+          2124,
+          2975
+        ],
+        [
+          457,
+          2975
+        ]
+      ],
+      "score": 0.9810565114021301,
+      "y_pos": 2480,
+      "text": "Theo quan niệm của Đông y học: có 6 loại khí hậu, thời tiết khác nhau\ntrong tự nhiên bao gồm: Phong, Hàn, Thử, Thấp, Táo, Hỏa. Đây là những\ntình trạng thời tiết, khí hậu hiện diện bình thường trong năm và biến đổi\ntheo qui luật chung của tự nhiên. Chúng được gọi dưới tên chung là <b>lục</b>\nkhí. Bình thường, các loại khí hậu này thật sự cần thiết cho sự sống, cho\nsức khoẻ; chỉ khi trái thường (trở nên thái quá hoặc bất cập, hoặc xuất\nhiện không đúng với thời gian qui định) chúng mới có điều kiện gây\nbệnh. Khi ấy, lục khí được gọi là <b>lục dâm</b> hay <b>lục tà</b>.",
+      "confidence": 0.9351603873051044
+    },
+    {
+      "type": "number",
+      "img_path": "p0010_004_number.png",
+      "bbox": [
+        [
+          2096,
+          3112
+        ],
+        [
+          2122,
+          3112
+        ],
+        [
+          2122,
+          3147
+        ],
+        [
+          2096,
+          3147
+        ]
+      ],
+      "score": 0.8173810243606567,
+      "y_pos": 3112,
+      "text": "\n    \n    \n\n\n\n        \n٠    \n\n    \n",
+      "confidence": 0.9616934315246695
+    },
+    {
+      "type": "footer",
+      "img_path": "p0010_003_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1072,
+          3311
+        ],
+        [
+          1072,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.8985699415206909,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8816643987383161
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0010.png"
+}

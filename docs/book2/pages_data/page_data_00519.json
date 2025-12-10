@@ -1,0 +1,370 @@
+{
+  "page_num": 519,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0519_002_header.png",
+      "bbox": [
+        [
+          1676,
+          144
+        ],
+        [
+          2371,
+          144
+        ],
+        [
+          2371,
+          198
+        ],
+        [
+          1676,
+          198
+        ]
+      ],
+      "score": 0.9203491806983948,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7793044000864029
+    },
+    {
+      "type": "header",
+      "img_path": "p0519_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.9235385656356812,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9977136671543121
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0519_004_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          325
+        ],
+        [
+          920,
+          325
+        ],
+        [
+          920,
+          383
+        ],
+        [
+          226,
+          383
+        ]
+      ],
+      "score": 0.7591168880462646,
+      "y_pos": 325,
+      "text": "Phần 9. BỆNH NGỰC, SƯỜN",
+      "confidence": 0.9928084707260132
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0519_010_reference_content.png",
+      "bbox": [
+        [
+          231,
+          785
+        ],
+        [
+          1048,
+          785
+        ],
+        [
+          1048,
+          844
+        ],
+        [
+          231,
+          844
+        ]
+      ],
+      "score": 0.5039629340171814,
+      "y_pos": 785,
+      "text": "202. Tức ngực: Phế du, Cự khuyết.",
+      "confidence": 0.9790969525064741
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0519_008_reference_content.png",
+      "bbox": [
+        [
+          231,
+          971
+        ],
+        [
+          1294,
+          971
+        ],
+        [
+          1294,
+          1026
+        ],
+        [
+          231,
+          1026
+        ]
+      ],
+      "score": 0.5065678358078003,
+      "y_pos": 971,
+      "text": "204. Cơ hoành lưu ứ huyết: Thận du, Cự liêu.",
+      "confidence": 0.9864222472128661
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0519_006_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1061
+        ],
+        [
+          1464,
+          1061
+        ],
+        [
+          1464,
+          1119
+        ],
+        [
+          231,
+          1119
+        ]
+      ],
+      "score": 0.5259810090065002,
+      "y_pos": 1061,
+      "text": "205. Viêm màng phổi: Phong môn, Phế du, Khổng tối.",
+      "confidence": 0.9930115216053449
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0519_013_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1246
+        ],
+        [
+          1495,
+          1246
+        ],
+        [
+          1495,
+          1303
+        ],
+        [
+          231,
+          1303
+        ]
+      ],
+      "score": 0.5003020763397217,
+      "y_pos": 1246,
+      "text": "207. Ngực bại, tim đau: Chiên trung, Hợp cốc, Khúc trì.",
+      "confidence": 0.9990546368716056
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0519_009_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1520
+        ],
+        [
+          1660,
+          1520
+        ],
+        [
+          1660,
+          1580
+        ],
+        [
+          231,
+          1580
+        ]
+      ],
+      "score": 0.506415605545044,
+      "y_pos": 1520,
+      "text": "210. Ngực sườn đau đớn: Chi câu, Chương môn, Ngoại quan.",
+      "confidence": 0.9995464692855703
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0519_011_reference_content.png",
+      "bbox": [
+        [
+          230,
+          1612
+        ],
+        [
+          1261,
+          1612
+        ],
+        [
+          1261,
+          1668
+        ],
+        [
+          230,
+          1668
+        ]
+      ],
+      "score": 0.5038287043571472,
+      "y_pos": 1612,
+      "text": "211. Đau tim: Khúc trạch, Nội quan, Đại lăng.",
+      "confidence": 0.9860836584517296
+    },
+    {
+      "type": "text",
+      "img_path": "p0519_012_text.png",
+      "bbox": [
+        [
+          231,
+          2254
+        ],
+        [
+          1618,
+          2254
+        ],
+        [
+          1618,
+          2310
+        ],
+        [
+          231,
+          2310
+        ]
+      ],
+      "score": 0.5009325742721558,
+      "y_pos": 2254,
+      "text": "218. Đau liên sườn: Đại bao, Ngoại quan, Dương lăng tuyển.",
+      "confidence": 0.998466874162356
+    },
+    {
+      "type": "text",
+      "img_path": "p0519_007_text.png",
+      "bbox": [
+        [
+          230,
+          2436
+        ],
+        [
+          1332,
+          2436
+        ],
+        [
+          1332,
+          2491
+        ],
+        [
+          230,
+          2491
+        ]
+      ],
+      "score": 0.5155148506164551,
+      "y_pos": 2436,
+      "text": "220. Đau liên sườn: Chi câu, Dương lăng tuyên.",
+      "confidence": 0.9990287721157074
+    },
+    {
+      "type": "text",
+      "img_path": "p0519_005_text.png",
+      "bbox": [
+        [
+          227,
+          2527
+        ],
+        [
+          2073,
+          2527
+        ],
+        [
+          2073,
+          2587
+        ],
+        [
+          227,
+          2587
+        ]
+      ],
+      "score": 0.5675800442695618,
+      "y_pos": 2527,
+      "text": "221. Bụng sườn đầy trướng (tức): Dương lăng tuyền, Túc tam lý, Thượng liêm.",
+      "confidence": 0.9978789129814545
+    },
+    {
+      "type": "number",
+      "img_path": "p0519_003_number.png",
+      "bbox": [
+        [
+          2320,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2320,
+          3374
+        ]
+      ],
+      "score": 0.8634478449821472,
+      "y_pos": 3337,
+      "text": "    \n    \n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0519_001_footer.png",
+      "bbox": [
+        [
+          228,
+          3341
+        ],
+        [
+          1324,
+          3341
+        ],
+        [
+          1324,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.9213017225265503,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987223969315583
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0519.png"
+}

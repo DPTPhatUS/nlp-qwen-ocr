@@ -1,0 +1,162 @@
+{
+  "page_num": 562,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0562_002_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.907239556312561,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0562_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1467,
+          152
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9150422811508179,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TẬN, KỲ HUYỆT",
+      "confidence": 0.9979400253295898
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0562_004_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          326
+        ],
+        [
+          767,
+          326
+        ],
+        [
+          767,
+          384
+        ],
+        [
+          227,
+          384
+        ]
+      ],
+      "score": 0.6194811463356018,
+      "y_pos": 326,
+      "text": "Phần 10. BÊNH NGƯC",
+      "confidence": 0.8343210101127625
+    },
+    {
+      "type": "text",
+      "img_path": "p0562_005_text.png",
+      "bbox": [
+        [
+          233,
+          340
+        ],
+        [
+          2368,
+          340
+        ],
+        [
+          2368,
+          1374
+        ],
+        [
+          233,
+          1374
+        ]
+      ],
+      "score": 0.5992006063461304,
+      "y_pos": 340,
+      "text": "Phân 10. BENH NGỰC\n159. Đau ngực: Long hàm.\n160. Bệnh lồng ngực và nội tạng trong lồng ngực: Giáp tích D3-D9.\n161. Viêm sụn sườn: Tân lặc đầu.\n162. Viêm hung mạc: Tả nghi, Hữu nghi, Phế nhiệt huyết, Khí suyễn.\n163. Cơ ngực to mềm yếu: Hung đại cơ.\n164. Trẻ em đô ngực: Tiếu nhi kê hung.\n165. Khối u vú: Tiêu khối.\n166. Viêm tuyến vú: Khích thượng, Tả nghi, Hữu nghi.\n167. Đau thần kinh liên sườn: Tụy du, Ngân khẩu, Bát chùy hạ, Tả nghi, Hữu nghi, Tân lặc\nđầu, Xích huyệt, Can nhiệt huyệt.\n168. Ngực ngoại thương: Yêu thống 2.",
+      "confidence": 0.9637530481663584
+    },
+    {
+      "type": "number",
+      "img_path": "p0562_003_number.png",
+      "bbox": [
+        [
+          2319,
+          3337
+        ],
+        [
+          2363,
+          3337
+        ],
+        [
+          2363,
+          3375
+        ],
+        [
+          2319,
+          3375
+        ]
+      ],
+      "score": 0.8468401432037354,
+      "y_pos": 3337,
+      "text": "    \n    \n    \n    ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0562_001_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1325,
+          3341
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.912083089351654,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987242975324955
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0562.png"
+}

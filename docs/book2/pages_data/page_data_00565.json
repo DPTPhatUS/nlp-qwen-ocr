@@ -1,0 +1,162 @@
+{
+  "page_num": 565,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0565_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9149240851402283,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0565_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1467,
+          152
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9186310172080994,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TẬN, KỲ HUYỆT",
+      "confidence": 0.9979400253295898
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0565_004_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          323
+        ],
+        [
+          1177,
+          323
+        ],
+        [
+          1177,
+          382
+        ],
+        [
+          226,
+          382
+        ]
+      ],
+      "score": 0.6958539485931396,
+      "y_pos": 323,
+      "text": "Phần 12. TRÚNG GIÓ LIÊT NỬA NGƯỜI",
+      "confidence": 0.9924711295536586
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0565_005_reference_content.png",
+      "bbox": [
+        [
+          230,
+          878
+        ],
+        [
+          2361,
+          878
+        ],
+        [
+          2361,
+          1004
+        ],
+        [
+          230,
+          1004
+        ]
+      ],
+      "score": 0.5276402831077576,
+      "y_pos": 878,
+      "text": "223. Liệt nửa người: Kiểu linh, Cảnh trung, Hạ Côn luân, Ngoại khỏa tiêm, Mại bộ, Thượng\nPhong thị, Tiền tiến, Kiện khố.",
+      "confidence": 0.9938352273570166
+    },
+    {
+      "type": "number",
+      "img_path": "p0565_003_number.png",
+      "bbox": [
+        [
+          2319,
+          3337
+        ],
+        [
+          2369,
+          3337
+        ],
+        [
+          2369,
+          3374
+        ],
+        [
+          2319,
+          3374
+        ]
+      ],
+      "score": 0.8580999970436096,
+      "y_pos": 3337,
+      "text": "    \n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0565_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1325,
+          3341
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9111853837966919,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987242975324955
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0565.png"
+}

@@ -1,0 +1,292 @@
+{
+  "page_num": 77,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0077_005_header.png",
+      "bbox": [
+        [
+          1607,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9242406487464905,
+      "y_pos": 143,
+      "text": "~ ~ ~\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6999826583833921
+    },
+    {
+      "type": "header",
+      "img_path": "p0077_007_header.png",
+      "bbox": [
+        [
+          231,
+          160
+        ],
+        [
+          442,
+          160
+        ],
+        [
+          442,
+          202
+        ],
+        [
+          231,
+          202
+        ]
+      ],
+      "score": 0.8973324298858643,
+      "y_pos": 160,
+      "text": "KINH LAC",
+      "confidence": 0.7441844046115875
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0077_008_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          304
+        ],
+        [
+          1121,
+          304
+        ],
+        [
+          1121,
+          354
+        ],
+        [
+          226,
+          354
+        ]
+      ],
+      "score": 0.8850359320640564,
+      "y_pos": 304,
+      "text": "D. Đầu, cuối của 12 kinh mạch và chủ trị",
+      "confidence": 0.9801522947493053
+    },
+    {
+      "type": "text",
+      "img_path": "p0077_003_text.png",
+      "bbox": [
+        [
+          279,
+          393
+        ],
+        [
+          2360,
+          393
+        ],
+        [
+          2360,
+          519
+        ],
+        [
+          279,
+          519
+        ]
+      ],
+      "score": 0.9578819274902344,
+      "y_pos": 393,
+      "text": "Như trên đã nói qua, 12 kinh mạch có đường tuần hành nhất định và các kinh đều phản ánh\nbệnh tật ở bản tạng hoặc bản phủ, phần này nói đến đường đi cụ thể và chủ trị một số bệnh tật.",
+      "confidence": 0.9996806728733836
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0077_009_paragraph_title.png",
+      "bbox": [
+        [
+          287,
+          556
+        ],
+        [
+          980,
+          556
+        ],
+        [
+          980,
+          608
+        ],
+        [
+          287,
+          608
+        ]
+      ],
+      "score": 0.8224571347236633,
+      "y_pos": 556,
+      "text": "1. Thủ thái âm phế kinh (H.8)",
+      "confidence": 0.9617594230559564
+    },
+    {
+      "type": "text",
+      "img_path": "p0077_000_text.png",
+      "bbox": [
+        [
+          282,
+          658
+        ],
+        [
+          2359,
+          658
+        ],
+        [
+          2359,
+          1217
+        ],
+        [
+          282,
+          1217
+        ]
+      ],
+      "score": 0.9836959838867188,
+      "y_pos": 658,
+      "text": "a. Cấu trúc: Gồm có 11 huyết, cả hai bên là 22 huyệt. Kinh mạch bắt đầu từ trung tiêu (dạ\ndày, Trung quản) hướng xuống đại trường có một đường lạc nối, rồi lại từ đại trường đi\ntrở lại một đường nông ngoài đi lên trên cổ dạ dày, ven theo cổ dạ dày xuyên lên quan cơ\nhoành cách, vào phế tạng, lại từ phế tạng lên đến cạnh hầu, lại đi ngang ra đến phía dưới\nhố đòn, ven theo cạnh trong cánh tay trên đi xuống qua hốc khuỷu tay, ven theo cạnh\ntrong phía trước xương quay, đến cổ tay ở thốn khẩu, từ thốn khẩu đi đến mô cái, ven\ntheo mô cái đi đến cạnh đầu ngón cái (Thiếu thương).",
+      "confidence": 0.9984971956618217
+    },
+    {
+      "type": "text",
+      "img_path": "p0077_004_text.png",
+      "bbox": [
+        [
+          338,
+          1263
+        ],
+        [
+          2358,
+          1263
+        ],
+        [
+          2358,
+          1404
+        ],
+        [
+          338,
+          1404
+        ]
+      ],
+      "score": 0.9518356919288635,
+      "y_pos": 1263,
+      "text": "Mạch nhánh, từ sau cổ tay (<i>Liệt khuyết</i>) phân ra hướng theo phía mu bàn tay đi thẳng đến\nđầu ngón trỏ ở cạnh trong là huyệt <i>Thương dương</i>.",
+      "confidence": 0.9924061852660808
+    },
+    {
+      "type": "text",
+      "img_path": "p0077_001_text.png",
+      "bbox": [
+        [
+          286,
+          1453
+        ],
+        [
+          2358,
+          1453
+        ],
+        [
+          2358,
+          1673
+        ],
+        [
+          286,
+          1673
+        ]
+      ],
+      "score": 0.9733095169067383,
+      "y_pos": 1453,
+      "text": "b. Quan hệ tạng phủ: Kinh này từ ngực ra tay, thuộc phế (bản kinh thuộc phế tạng), đường\nlạc sang đại trường (kinh này và kinh đại trường cùng nối tiếp nhau), đi qua hoành cách,\ncó quan hệ với thận và vị.",
+      "confidence": 0.9377888343163899
+    },
+    {
+      "type": "text",
+      "img_path": "p0077_002_text.png",
+      "bbox": [
+        [
+          287,
+          1723
+        ],
+        [
+          2356,
+          1723
+        ],
+        [
+          2356,
+          1862
+        ],
+        [
+          287,
+          1862
+        ]
+      ],
+      "score": 0.9583109021186829,
+      "y_pos": 1723,
+      "text": "c. Chủ trị: Ho hắng hen suyễn, hụt hơi, khái huyết, hầu họng sưng đau, trúng gió, tức ngực\nhố trên xương đòn và cạnh trong phía trước cánh tay đau, tê, bả vai buốt lạnh.",
+      "confidence": 0.9993783047341782
+    },
+    {
+      "type": "footer",
+      "img_path": "p0077_006_footer.png",
+      "bbox": [
+        [
+          231,
+          3334
+        ],
+        [
+          1437,
+          3334
+        ],
+        [
+          1437,
+          3387
+        ],
+        [
+          231,
+          3387
+        ]
+      ],
+      "score": 0.904138445854187,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9464619991914281
+    },
+    {
+      "type": "number",
+      "img_path": "p0077_010_number.png",
+      "bbox": [
+        [
+          2332,
+          3339
+        ],
+        [
+          2357,
+          3339
+        ],
+        [
+          2357,
+          3373
+        ],
+        [
+          2332,
+          3373
+        ]
+      ],
+      "score": 0.8200278878211975,
+      "y_pos": 3339,
+      "text": "\n\n\n\n    \n    \n    \n    \n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0077.png"
+}

@@ -1,0 +1,708 @@
+{
+  "page_num": 143,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0143_009_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9329631924629211,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7643314777385621
+    },
+    {
+      "type": "header",
+      "img_path": "p0143_010_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9158027172088623,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_007_text.png",
+      "bbox": [
+        [
+          281,
+          345
+        ],
+        [
+          2358,
+          345
+        ],
+        [
+          2358,
+          472
+        ],
+        [
+          281,
+          472
+        ]
+      ],
+      "score": 0.9441466331481934,
+      "y_pos": 345,
+      "text": "Cách lấy huyệt: Để bàn chân ngang bằng, ở phía sau khớp đốt ngón cái và đốt bàn số 1,\nchỗ lõm dưới đầu xương bàn. (H. 60)",
+      "confidence": 0.9951696436702928
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_020_text.png",
+      "bbox": [
+        [
+          285,
+          510
+        ],
+        [
+          2006,
+          510
+        ],
+        [
+          2006,
+          563
+        ],
+        [
+          285,
+          563
+        ]
+      ],
+      "score": 0.9040466547012329,
+      "y_pos": 510,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3 – 0,5 thốn. Cứu 3 mồi hoặc hơ 5 phút.",
+      "confidence": 0.4581790501124238
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_025_text.png",
+      "bbox": [
+        [
+          286,
+          603
+        ],
+        [
+          2110,
+          603
+        ],
+        [
+          2110,
+          656
+        ],
+        [
+          286,
+          656
+        ]
+      ],
+      "score": 0.8980822563171387,
+      "y_pos": 603,
+      "text": "Chủ trị: Đau dạ dày, nôn mửa, tiêu hoá kém, đầy trướng bụng, ly, táo bón, ợ hơi.",
+      "confidence": 0.6322042338731813
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_022_text.png",
+      "bbox": [
+        [
+          290,
+          694
+        ],
+        [
+          1477,
+          694
+        ],
+        [
+          1477,
+          749
+        ],
+        [
+          290,
+          749
+        ]
+      ],
+      "score": 0.9024097323417664,
+      "y_pos": 694,
+      "text": "Tác dụng phối hợp: Với Nội quan chữa đau dạ dày.",
+      "confidence": 0.9904065012931824
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0143_018_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          787
+        ],
+        [
+          521,
+          787
+        ],
+        [
+          521,
+          836
+        ],
+        [
+          225,
+          836
+        ]
+      ],
+      "score": 0.9053053259849548,
+      "y_pos": 787,
+      "text": "4. Công tôn",
+      "confidence": 0.9491470043475811
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_006_text.png",
+      "bbox": [
+        [
+          283,
+          876
+        ],
+        [
+          2358,
+          876
+        ],
+        [
+          2358,
+          1002
+        ],
+        [
+          283,
+          1002
+        ]
+      ],
+      "score": 0.9484450817108154,
+      "y_pos": 876,
+      "text": "Vị trí: Ở cạnh xương bàn chân, phía ngón cái, phía dưới gâm xương và trước khớp nối\nxương bàn chân số 1 và xương cổ chân có chỗ lõm là huyệt. (H. 60)",
+      "confidence": 0.996275052195374
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_016_text.png",
+      "bbox": [
+        [
+          286,
+          1039
+        ],
+        [
+          1699,
+          1039
+        ],
+        [
+          1699,
+          1093
+        ],
+        [
+          286,
+          1093
+        ]
+      ],
+      "score": 0.9066100716590881,
+      "y_pos": 1039,
+      "text": "Cách lấy huyệt: Bàn chân để ngang bằng lấy ở vị trí như trên.",
+      "confidence": 0.726870526397039
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_011_text.png",
+      "bbox": [
+        [
+          285,
+          1132
+        ],
+        [
+          2006,
+          1132
+        ],
+        [
+          2006,
+          1183
+        ],
+        [
+          285,
+          1183
+        ]
+      ],
+      "score": 0.9106597900390625,
+      "y_pos": 1132,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 0,6 – 1,5 thốn. Cứu 3 mồi hoặc hợ 5 phút.",
+      "confidence": 0.9859425234794617
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_014_text.png",
+      "bbox": [
+        [
+          285,
+          1223
+        ],
+        [
+          2152,
+          1223
+        ],
+        [
+          2152,
+          1277
+        ],
+        [
+          285,
+          1277
+        ]
+      ],
+      "score": 0.9073611497879028,
+      "y_pos": 1223,
+      "text": "Chủ trị: Đau dạ dày, nôn mửa, tiêu hoá kém, đau bụng, la chảy, ly, đau ngón chân.",
+      "confidence": 0.6335108761327812
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_008_text.png",
+      "bbox": [
+        [
+          285,
+          1315
+        ],
+        [
+          2357,
+          1315
+        ],
+        [
+          2357,
+          1440
+        ],
+        [
+          285,
+          1440
+        ]
+      ],
+      "score": 0.9406711459159851,
+      "y_pos": 1315,
+      "text": "<b>Tác dụng phối hợp:</b> Với <i>Lương khâu</i> trị nôn mửa và dạ dày đa toan, với <i>Tỳ du, Bĩ c</i>ăn,\nChương môn trị lá lách sưng to (cứu); với Nội quan, chữa đau dạ dày, nôn mửa.",
+      "confidence": 0.9917821227169316
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0143_015_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1477
+        ],
+        [
+          620,
+          1477
+        ],
+        [
+          620,
+          1528
+        ],
+        [
+          225,
+          1528
+        ]
+      ],
+      "score": 0.9066399335861206,
+      "y_pos": 1477,
+      "text": "5. Thương khâu",
+      "confidence": 0.9837436676025391
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_004_text.png",
+      "bbox": [
+        [
+          282,
+          1567
+        ],
+        [
+          2360,
+          1567
+        ],
+        [
+          2360,
+          1693
+        ],
+        [
+          282,
+          1693
+        ]
+      ],
+      "score": 0.9565468430519104,
+      "y_pos": 1567,
+      "text": "Vị trí: Chỗ lõm trước và dưới mắt cá trong chân, ở giữa đường nối từ lồi xương thuyền và\nchỗ nhọn mắt cá trong chân. (H. 60)",
+      "confidence": 0.9783802474583233
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_017_text.png",
+      "bbox": [
+        [
+          286,
+          1731
+        ],
+        [
+          1655,
+          1731
+        ],
+        [
+          1655,
+          1783
+        ],
+        [
+          286,
+          1783
+        ]
+      ],
+      "score": 0.9063270688056946,
+      "y_pos": 1731,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3 - 0,5 thốn. Cứu 3 mồi.",
+      "confidence": 0.9883115558788694
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_021_text.png",
+      "bbox": [
+        [
+          286,
+          1822
+        ],
+        [
+          1847,
+          1822
+        ],
+        [
+          1847,
+          1876
+        ],
+        [
+          286,
+          1876
+        ]
+      ],
+      "score": 0.9034042358398438,
+      "y_pos": 1822,
+      "text": "Chủ trị: Viêm dạ dày, viêm ruột, tiêu hoá kém, đau vùng mắt cá chân.",
+      "confidence": 0.5926505812576839
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0143_019_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1916
+        ],
+        [
+          604,
+          1916
+        ],
+        [
+          604,
+          1966
+        ],
+        [
+          226,
+          1966
+        ]
+      ],
+      "score": 0.9051588773727417,
+      "y_pos": 1916,
+      "text": "6. Tam âm giao",
+      "confidence": 0.9153288416564465
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_012_text.png",
+      "bbox": [
+        [
+          289,
+          2005
+        ],
+        [
+          1779,
+          2005
+        ],
+        [
+          1779,
+          2060
+        ],
+        [
+          289,
+          2060
+        ]
+      ],
+      "score": 0.9092386960983276,
+      "y_pos": 2005,
+      "text": "Vị trí: Từ đỉnh mắt cá trong chân lên 3 thốn, phía sau xương chầy.",
+      "confidence": 0.9556310404749477
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_005_text.png",
+      "bbox": [
+        [
+          282,
+          2096
+        ],
+        [
+          2356,
+          2096
+        ],
+        [
+          2356,
+          2222
+        ],
+        [
+          282,
+          2222
+        ]
+      ],
+      "score": 0.9557472467422485,
+      "y_pos": 2096,
+      "text": "Cách lấy huyệt: Huyệt ở phía sau xương chầy, cách mắt cá trong 3 thốn về phía trên. (H.\n60)",
+      "confidence": 0.881954980783918
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_000_text.png",
+      "bbox": [
+        [
+          281,
+          2259
+        ],
+        [
+          2361,
+          2259
+        ],
+        [
+          2361,
+          2453
+        ],
+        [
+          281,
+          2453
+        ]
+      ],
+      "score": 0.9737222194671631,
+      "y_pos": 2259,
+      "text": "Cách châm: Châm đứng kim, hướng về phía huyệt Tuyệt cốt sâu 0,5 – 1 thốn, nếu mũi kim\nchếch xuống theo ven sau xương chầy, sâu 1 – 2 thốn, có tê lan đến mắt cá trong. Cứu 3\nmồi, hơ 5 –10 phút.",
+      "confidence": 0.9587678361012876
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_024_text.png",
+      "bbox": [
+        [
+          286,
+          2493
+        ],
+        [
+          1022,
+          2493
+        ],
+        [
+          1022,
+          2548
+        ],
+        [
+          286,
+          2548
+        ]
+      ],
+      "score": 0.8989314436912537,
+      "y_pos": 2493,
+      "text": "Chủ trị: Phạm vi chủ trị rất rộng.",
+      "confidence": 0.49124541216426426
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_002_text.png",
+      "bbox": [
+        [
+          282,
+          2585
+        ],
+        [
+          2357,
+          2585
+        ],
+        [
+          2357,
+          2708
+        ],
+        [
+          282,
+          2708
+        ]
+      ],
+      "score": 0.9610639214515686,
+      "y_pos": 2585,
+      "text": "Đàn bà: Kinh nguyệt không đều, quá nhiều băng huyết, đau bụng hành kinh, choáng váng\nsau đẻ, khí hư, ngứa cửa mình.",
+      "confidence": 0.9279640303534824
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_023_text.png",
+      "bbox": [
+        [
+          283,
+          2748
+        ],
+        [
+          1632,
+          2748
+        ],
+        [
+          1632,
+          2802
+        ],
+        [
+          283,
+          2802
+        ]
+      ],
+      "score": 0.9008758068084717,
+      "y_pos": 2748,
+      "text": "Đàn ông: Xuất tinh sơm, di tinh, liệt dương, đau dương vật.",
+      "confidence": 0.998803186612051
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_003_text.png",
+      "bbox": [
+        [
+          281,
+          2838
+        ],
+        [
+          2356,
+          2838
+        ],
+        [
+          2356,
+          2965
+        ],
+        [
+          281,
+          2965
+        ]
+      ],
+      "score": 0.9576549530029297,
+      "y_pos": 2838,
+      "text": "Và các bệnh: Phù thũng, khó tiểu tiện, đái dầm, tiêu hoá kém, đầy trướng bụng, sôi bụng,\nmất ngủ, trúng gió hư thoát, suy nhược thần kinh, trĩ sưng đau, đau chi dưới, thấp chẩn.",
+      "confidence": 0.9997901009188758
+    },
+    {
+      "type": "text",
+      "img_path": "p0143_001_text.png",
+      "bbox": [
+        [
+          282,
+          3001
+        ],
+        [
+          2363,
+          3001
+        ],
+        [
+          2363,
+          3198
+        ],
+        [
+          282,
+          3198
+        ]
+      ],
+      "score": 0.966174840927124,
+      "y_pos": 3001,
+      "text": "Tác dụng phối hợp: Với Túc tam lý, trị bệnh đường ruột, với Quan nguyên (hoặc Trung\ncực) trị đái dầm; với <i>Nội quan, Thái xung</i> trị lưỡi nứt chảy máu, với <i>Khí hải, Trung cực, Trung</i>\n<i>quản</i> trị bế kinh, kinh nguyệt không đều, với <i>Hợp cốc</i> để đẻ nhanh, dễ đẻ.",
+      "confidence": 0.9935325596322362
+    },
+    {
+      "type": "footer",
+      "img_path": "p0143_013_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9089276790618896,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0143_026_number.png",
+      "bbox": [
+        [
+          2300,
+          3339
+        ],
+        [
+          2350,
+          3339
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2300,
+          3377
+        ]
+      ],
+      "score": 0.8691263794898987,
+      "y_pos": 3339,
+      "text": "\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0143.png"
+}

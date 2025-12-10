@@ -1,0 +1,136 @@
+{
+  "page_num": 289,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0289_002_header.png",
+      "bbox": [
+        [
+          1609,
+          143
+        ],
+        [
+          2372,
+          143
+        ],
+        [
+          2372,
+          203
+        ],
+        [
+          1609,
+          203
+        ]
+      ],
+      "score": 0.8953464031219482,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7968533510963123
+    },
+    {
+      "type": "header",
+      "img_path": "p0289_003_header.png",
+      "bbox": [
+        [
+          231,
+          160
+        ],
+        [
+          1347,
+          160
+        ],
+        [
+          1347,
+          201
+        ],
+        [
+          231,
+          201
+        ]
+      ],
+      "score": 0.8916879892349243,
+      "y_pos": 160,
+      "text": "CÁC BẢNG TRA CỦU HUYỆT LIÊN QUAN TRONG CHÂM CỦU",
+      "confidence": 0.6385211421518909
+    },
+    {
+      "type": "table",
+      "img_path": "p0289_000_table.png",
+      "bbox": [
+        [
+          246,
+          290
+        ],
+        [
+          2347,
+          290
+        ],
+        [
+          2347,
+          2518
+        ],
+        [
+          246,
+          2518
+        ]
+      ],
+      "score": 0.9911271929740906,
+      "y_pos": 290,
+      "text": "Dương bạch    0    Χ\nLâm khấp    Χ    0    Χ\nMục song    0    Χ\nChính doanh    0    Χ\nThừa linh    0    Χ\nNão không    0    Χ\nPhong trì    0    Χ\nKiên tỉnh    0    Χ    Χ\nNhật nguyệt    0    với Túc thái âm tỳ\nHoàn khiêu    Χ    0\nĐới mạch    0    Χ\nNgũ khu    0    Χ\nDuy đạo    0    Χ\nCư liêu    0    Χ\nDương giao    0    Χ    Khích của Dương duy\nThiên liêu    0    Χ\nÉ phong    Χ    0\nGiác tôn    Χ    0\nHoà liêu    Χ    Χ    0\nThừa khấp    0    Χ    Hội với Nhâm mạch\nCự liêu    0    Χ\nDia thương    Χ    0    Χ    Χ\nHạ quan    Χ    0\nĐầu duy    0    Χ\nKhí xung    0    Chỗ khởi xung mạch\nTý nhu    0    Hội với lạc củaThủ\ndương minh\nKiên ngung    0    Χ\nCự cốt    0    Χ\nNghinh hương    Χ    0",
+      "confidence": 0.8623752423966368
+    },
+    {
+      "type": "footer",
+      "img_path": "p0289_001_footer.png",
+      "bbox": [
+        [
+          231,
+          3335
+        ],
+        [
+          1438,
+          3335
+        ],
+        [
+          1438,
+          3387
+        ],
+        [
+          231,
+          3387
+        ]
+      ],
+      "score": 0.9150033593177795,
+      "y_pos": 3335,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9431507542448224
+    },
+    {
+      "type": "number",
+      "img_path": "p0289_004_number.png",
+      "bbox": [
+        [
+          2330,
+          3340
+        ],
+        [
+          2356,
+          3340
+        ],
+        [
+          2356,
+          3373
+        ],
+        [
+          2330,
+          3373
+        ]
+      ],
+      "score": 0.8169140219688416,
+      "y_pos": 3340,
+      "text": "        \n    \n    \n\n\n\n\n\n\n\n    \n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0289.png"
+}

@@ -1,0 +1,422 @@
+{
+  "page_num": 360,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0360_006_header.png",
+      "bbox": [
+        [
+          1679,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1679,
+          196
+        ]
+      ],
+      "score": 0.9220793843269348,
+      "y_pos": 142,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7503989594323295
+    },
+    {
+      "type": "header",
+      "img_path": "p0360_007_header.png",
+      "bbox": [
+        [
+          230,
+          146
+        ],
+        [
+          1096,
+          146
+        ],
+        [
+          1096,
+          197
+        ],
+        [
+          230,
+          197
+        ]
+      ],
+      "score": 0.9142500162124634,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SÀNG",
+      "confidence": 0.9903756635529655
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0360_009_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          321
+        ],
+        [
+          434,
+          321
+        ],
+        [
+          434,
+          371
+        ],
+        [
+          225,
+          371
+        ]
+      ],
+      "score": 0.9013766050338745,
+      "y_pos": 321,
+      "text": "<b>H</b>(    M V",
+      "confidence": 0.6194549173116684
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0360_011_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          419
+        ],
+        [
+          758,
+          419
+        ],
+        [
+          758,
+          472
+        ],
+        [
+          226,
+          472
+        ]
+      ],
+      "score": 0.8953327536582947,
+      "y_pos": 419,
+      "text": "A. Biện chứng luận trị",
+      "confidence": 0.9429587150613467
+    },
+    {
+      "type": "text",
+      "img_path": "p0360_000_text.png",
+      "bbox": [
+        [
+          220,
+          509
+        ],
+        [
+          2360,
+          509
+        ],
+        [
+          2360,
+          916
+        ],
+        [
+          220,
+          916
+        ]
+      ],
+      "score": 0.9853953123092651,
+      "y_pos": 509,
+      "text": "Hôn mê là triệu chứng do trung khu thần kinh bị ức chế nghiệm trọng. Y học Phương Đông cho\nrằng bệnh lý đó được phân biệt làm hai loại là đàm bế và nhiệt bế. Nhiệt bế là tà nhiệt của sốt\ncao chuyển vào trong tâm bào; đàm bế là sương đàm ở tâm khiếu, kết hợp với thấp mà làm\nthành đàm trọc, kết hợp với hỏa mà làm thành đàm hỏa. Nếu hôn mê quá sâu, chính khí không\nthắng nổ tà khí có thể xuất hiện hình ảnh của chứng hư thoát, đó là bệnh cơ thuộc \"nội bế\nngoai thoát\".",
+      "confidence": 0.9987764567335263
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0360_008_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          955
+        ],
+        [
+          904,
+          955
+        ],
+        [
+          904,
+          1006
+        ],
+        [
+          225,
+          1006
+        ]
+      ],
+      "score": 0.9049592018127441,
+      "y_pos": 955,
+      "text": "B. Điểm chủ yếu để kiểm tra",
+      "confidence": 0.9177927600926367
+    },
+    {
+      "type": "text",
+      "img_path": "p0360_003_text.png",
+      "bbox": [
+        [
+          224,
+          1046
+        ],
+        [
+          2361,
+          1046
+        ],
+        [
+          2361,
+          1173
+        ],
+        [
+          224,
+          1173
+        ]
+      ],
+      "score": 0.9589309692382812,
+      "y_pos": 1046,
+      "text": "1. Chứng trạng của hôn mê là mất ý thức hoàn toàn, nghiêm trọng thì các loại kích thích từ\nngoài vào đều không có phản ứng, đại tiểu tiện không tự chủ.",
+      "confidence": 0.9645332213057543
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0360_013_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1212
+        ],
+        [
+          1107,
+          1212
+        ],
+        [
+          1107,
+          1259
+        ],
+        [
+          225,
+          1259
+        ]
+      ],
+      "score": 0.8904706239700317,
+      "y_pos": 1212,
+      "text": "2. Quan sát mức đô hôn mê như sau",
+      "confidence": 0.8207924008369446
+    },
+    {
+      "type": "text",
+      "img_path": "p0360_012_text.png",
+      "bbox": [
+        [
+          223,
+          1299
+        ],
+        [
+          2273,
+          1299
+        ],
+        [
+          2273,
+          1355
+        ],
+        [
+          223,
+          1355
+        ]
+      ],
+      "score": 0.8946278095245361,
+      "y_pos": 1299,
+      "text": "Nông: Còn phản xạ nuốt, còn ho hắng, phản xạ giác mạc và đồng tử còn, cấu véo biết đau.",
+      "confidence": 0.9961421241920986
+    },
+    {
+      "type": "text",
+      "img_path": "p0360_005_text.png",
+      "bbox": [
+        [
+          222,
+          1392
+        ],
+        [
+          2359,
+          1392
+        ],
+        [
+          2359,
+          1520
+        ],
+        [
+          222,
+          1520
+        ]
+      ],
+      "score": 0.9553311467170715,
+      "y_pos": 1392,
+      "text": "Vừa: Phản xạ mạc mất, phản xạ đồng tử chậm, phản xạ bệnh lý dương tính, cấu véo không có\nphản ứng rõ ràng.",
+      "confidence": 0.9975680984600246
+    },
+    {
+      "type": "text",
+      "img_path": "p0360_014_text.png",
+      "bbox": [
+        [
+          223,
+          1554
+        ],
+        [
+          1508,
+          1554
+        ],
+        [
+          1508,
+          1609
+        ],
+        [
+          223,
+          1609
+        ]
+      ],
+      "score": 0.8806586861610413,
+      "y_pos": 1554,
+      "text": "Sâu: Phản xạ đồng tử chậm hoặc mất, phản xạ nuốt mất.",
+      "confidence": 0.8824905904856595
+    },
+    {
+      "type": "text",
+      "img_path": "p0360_001_text.png",
+      "bbox": [
+        [
+          221,
+          1645
+        ],
+        [
+          2360,
+          1645
+        ],
+        [
+          2360,
+          1985
+        ],
+        [
+          221,
+          1985
+        ]
+      ],
+      "score": 0.9841666221618652,
+      "y_pos": 1645,
+      "text": "3. Làm rõ điều kiện phát sinh hôn mê và quá trình hôn mê, như tiến triển bệnh nhanh hoặc\nchậm, có các nguyên nhân như ngoại thương, ngộ độc, hoặc do sốt cao, nôn mửa, co quắp,\ntiền sử huyết áp, viêm thận, bệnh gan, bệnh đái đường, bệnh tim, động kinh hay không v.v...\nChú ý đến tuổi người bệnh, như trẻ em thường thấy viêm màng não dịch, hoặc viêm não Nhật\nbản B, người già thường thấy xuất huyết não.",
+      "confidence": 0.9991686708339662
+    },
+    {
+      "type": "text",
+      "img_path": "p0360_002_text.png",
+      "bbox": [
+        [
+          220,
+          2021
+        ],
+        [
+          2360,
+          2021
+        ],
+        [
+          2360,
+          2288
+        ],
+        [
+          220,
+          2288
+        ]
+      ],
+      "score": 0.9806221723556519,
+      "y_pos": 2021,
+      "text": "4. Chú ý kiểm tra toàn thân: Mạch, huyết áp, nhiệt độ tình trạng hô hấp và khứu giác, chấn\nthương so não, phản xạ của đồng tử với ánh sáng. Nghe tim. Có bại liệt chi hay không, có phản\nxạ bệnh lý hay không, kiểm tra các hội chứng não và màng não, làm xét nghiệm phân, nước\ntiểu để chẩn đoán phân biệt và quan sát diễn biến của bệnh.",
+      "confidence": 0.9904967334397461
+    },
+    {
+      "type": "text",
+      "img_path": "p0360_004_text.png",
+      "bbox": [
+        [
+          221,
+          2324
+        ],
+        [
+          2358,
+          2324
+        ],
+        [
+          2358,
+          2452
+        ],
+        [
+          221,
+          2452
+        ]
+      ],
+      "score": 0.9575195908546448,
+      "y_pos": 2324,
+      "text": "5. Khi cần thiết thì xét nghiệm máu, phân, nước tiểu đều đặn thường xuyên, có điều kiện thì\nkiểm tra dịch não tủy hoặc soi đáy mắt giúp cho chẩn đoán, (Bảng 25).",
+      "confidence": 0.9990635548110227
+    },
+    {
+      "type": "number",
+      "img_path": "p0360_015_number.png",
+      "bbox": [
+        [
+          2333,
+          3336
+        ],
+        [
+          2357,
+          3336
+        ],
+        [
+          2357,
+          3370
+        ],
+        [
+          2333,
+          3370
+        ]
+      ],
+      "score": 0.8055347204208374,
+      "y_pos": 3336,
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0360_010_footer.png",
+      "bbox": [
+        [
+          230,
+          3337
+        ],
+        [
+          1344,
+          3337
+        ],
+        [
+          1344,
+          3383
+        ],
+        [
+          230,
+          3383
+        ]
+      ],
+      "score": 0.9006276726722717,
+      "y_pos": 3337,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9986229224025078
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0360.png"
+}

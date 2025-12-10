@@ -1,0 +1,214 @@
+{
+  "page_num": 438,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0438_002_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2369,
+          144
+        ],
+        [
+          2369,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9201949238777161,
+      "y_pos": 144,
+      "text": "~ 2    ~ 7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6485285695110049
+    },
+    {
+      "type": "header",
+      "img_path": "p0438_003_header.png",
+      "bbox": [
+        [
+          231,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          199
+        ],
+        [
+          231,
+          199
+        ]
+      ],
+      "score": 0.9189890027046204,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9959657994600443
+    },
+    {
+      "type": "text",
+      "img_path": "p0438_007_text.png",
+      "bbox": [
+        [
+          341,
+          308
+        ],
+        [
+          2265,
+          308
+        ],
+        [
+          2265,
+          362
+        ],
+        [
+          341,
+          362
+        ]
+      ],
+      "score": 0.8433129787445068,
+      "y_pos": 308,
+      "text": "Cách chữa: Lấy huyệt Quan nguyên, Khí hải, Thần khuyết, Tam âm giao, Nhân trung.",
+      "confidence": 0.9945962145561125
+    },
+    {
+      "type": "text",
+      "img_path": "p0438_001_text.png",
+      "bbox": [
+        [
+          341,
+          399
+        ],
+        [
+          2357,
+          399
+        ],
+        [
+          2357,
+          522
+        ],
+        [
+          341,
+          522
+        ]
+      ],
+      "score": 0.9328321814537048,
+      "y_pos": 399,
+      "text": "Dùng mồi ngải cứu Quan nguyên, Khí hải, Thần khuyết (cứu cách muối), Tam âm giao,\nmỗi chỗ cứu 10 mồi, châm huyệt Nhân trung.",
+      "confidence": 0.9919520653825078
+    },
+    {
+      "type": "text",
+      "img_path": "p0438_005_text.png",
+      "bbox": [
+        [
+          343,
+          561
+        ],
+        [
+          1784,
+          561
+        ],
+        [
+          1784,
+          615
+        ],
+        [
+          343,
+          615
+        ]
+      ],
+      "score": 0.8799178600311279,
+      "y_pos": 561,
+      "text": "Nếu có đái dầm, cứu Bách hội, lại châm Thận du, dùng phép bố.",
+      "confidence": 0.9980810454913548
+    },
+    {
+      "type": "text",
+      "img_path": "p0438_000_text.png",
+      "bbox": [
+        [
+          339,
+          652
+        ],
+        [
+          2358,
+          652
+        ],
+        [
+          2358,
+          917
+        ],
+        [
+          339,
+          917
+        ]
+      ],
+      "score": 0.9746325612068176,
+      "y_pos": 652,
+      "text": "Giảng nghĩa của phương: Lấy Quan nguyên, Khí hải, Thần khuyết, Tam âm giao để bồi\nthêm nguyên khí, làm giảm khí âm, hồi khí dương và giữ không cho thoát. Lấy Nhân trung\nđể thông điều đốc mach, khai khiếu tỉnh thần. Cứu Bách hội để nâng dương khí lên. Châm\nThân du để bổ ích thân khí.",
+      "confidence": 0.9986541820597528
+    },
+    {
+      "type": "number",
+      "img_path": "p0438_006_number.png",
+      "bbox": [
+        [
+          2303,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2303,
+          3335
+        ]
+      ],
+      "score": 0.859993577003479,
+      "y_pos": 3300,
+      "text": "    \n            \n    \n\n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0438_004_footer.png",
+      "bbox": [
+        [
+          229,
+          3310
+        ],
+        [
+          1324,
+          3310
+        ],
+        [
+          1324,
+          3355
+        ],
+        [
+          229,
+          3355
+        ]
+      ],
+      "score": 0.9004912972450256,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985551654167895
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0438.png"
+}

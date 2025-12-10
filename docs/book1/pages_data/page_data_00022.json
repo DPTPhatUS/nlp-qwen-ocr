@@ -1,0 +1,370 @@
+{
+  "page_num": 22,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0022_010_header.png",
+      "bbox": [
+        [
+          1171,
+          503
+        ],
+        [
+          1303,
+          503
+        ],
+        [
+          1303,
+          547
+        ],
+        [
+          1171,
+          547
+        ]
+      ],
+      "score": 0.6559962630271912,
+      "y_pos": 503,
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "type": "doc_title",
+      "img_path": "p0022_011_doc_title.png",
+      "bbox": [
+        [
+          612,
+          639
+        ],
+        [
+          1858,
+          639
+        ],
+        [
+          1858,
+          727
+        ],
+        [
+          612,
+          727
+        ]
+      ],
+      "score": 0.6296756267547607,
+      "y_pos": 639,
+      "text": "BÊNH HOC NGOAI CẨM THƯƠNG HÀN",
+      "confidence": 0.9889970344881858
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0022_012_paragraph_title.png",
+      "bbox": [
+        [
+          348,
+          916
+        ],
+        [
+          599,
+          916
+        ],
+        [
+          599,
+          981
+        ],
+        [
+          348,
+          981
+        ]
+      ],
+      "score": 0.5773538947105408,
+      "y_pos": 916,
+      "text": "<b>MUC TIÊU</b>",
+      "confidence": 0.958514615893364
+    },
+    {
+      "type": "text",
+      "img_path": "p0022_013_text.png",
+      "bbox": [
+        [
+          346,
+          1365
+        ],
+        [
+          2125,
+          1365
+        ],
+        [
+          2125,
+          1477
+        ],
+        [
+          346,
+          1477
+        ]
+      ],
+      "score": 0.5040407180786133,
+      "y_pos": 1365,
+      "text": "4. Liêt kê được tên, thành phần cấu tao bài thuốc chính cho từng bênh cảnh và\nphân tích được cơ sở lý luận của bài thuốc sử dụng.",
+      "confidence": 0.999374190441942
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0022_005_paragraph_title.png",
+      "bbox": [
+        [
+          349,
+          1738
+        ],
+        [
+          716,
+          1738
+        ],
+        [
+          716,
+          1790
+        ],
+        [
+          349,
+          1790
+        ]
+      ],
+      "score": 0.9331943392753601,
+      "y_pos": 1738,
+      "text": "1. ĐAI CƯƠNG",
+      "confidence": 0.9067014924117497
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0022_006_paragraph_title.png",
+      "bbox": [
+        [
+          348,
+          1864
+        ],
+        [
+          635,
+          1864
+        ],
+        [
+          635,
+          1914
+        ],
+        [
+          348,
+          1914
+        ]
+      ],
+      "score": 0.9292555451393127,
+      "y_pos": 1864,
+      "text": "1.1. Tác giả",
+      "confidence": 0.9158578259604317
+    },
+    {
+      "type": "text",
+      "img_path": "p0022_000_text.png",
+      "bbox": [
+        [
+          341,
+          1959
+        ],
+        [
+          2121,
+          1959
+        ],
+        [
+          2121,
+          2183
+        ],
+        [
+          341,
+          2183
+        ]
+      ],
+      "score": 0.9781620502471924,
+      "y_pos": 1959,
+      "text": "Trương Trong Cảnh còn có tên là Trương Cơ, người Niết Dương, Nam\nQuận đời Đông Hán (nay là huyện Nam Dương, Hà Nam, Trung Quốc). Sinh\nvào khoảng 142 - 210 thời Hán Linh Đế (168 - 188), làm quan cho đến đời Vua\nKiến An (198 - 219)",
+      "confidence": 0.992330666783052
+    },
+    {
+      "type": "text",
+      "img_path": "p0022_003_text.png",
+      "bbox": [
+        [
+          341,
+          2223
+        ],
+        [
+          2124,
+          2223
+        ],
+        [
+          2124,
+          2335
+        ],
+        [
+          341,
+          2335
+        ]
+      ],
+      "score": 0.9565160870552063,
+      "y_pos": 2223,
+      "text": "Ông học rộng, tài cao, nổi tiếng liêm khiết. Ông được 2 thầy thuốc truyền\nnghề là Hà Ngung và sau đó là Trương Bá Tố.",
+      "confidence": 0.988577966954973
+    },
+    {
+      "type": "text",
+      "img_path": "p0022_001_text.png",
+      "bbox": [
+        [
+          340,
+          2367
+        ],
+        [
+          2124,
+          2367
+        ],
+        [
+          2124,
+          2533
+        ],
+        [
+          340,
+          2533
+        ]
+      ],
+      "score": 0.9716928601264954,
+      "y_pos": 2367,
+      "text": "Dòng ho ông rất đông, hơn 200 người, nhưng chỉ trong hơn 10 năm (thời\nKiến An) chết mất hơn 2/3, trong đó 70% vì thương hàn. Đó là đông cơ thúc\ngiục ông nghiên cứu, tìm hiểu và viết sách về bệnh thương hàn.",
+      "confidence": 0.977632982349883
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0022_007_paragraph_title.png",
+      "bbox": [
+        [
+          346,
+          2585
+        ],
+        [
+          699,
+          2585
+        ],
+        [
+          699,
+          2638
+        ],
+        [
+          346,
+          2638
+        ]
+      ],
+      "score": 0.9194141626358032,
+      "y_pos": 2585,
+      "text": "1.2. Tác phẩm",
+      "confidence": 0.8957792679468791
+    },
+    {
+      "type": "text",
+      "img_path": "p0022_002_text.png",
+      "bbox": [
+        [
+          341,
+          2684
+        ],
+        [
+          2121,
+          2684
+        ],
+        [
+          2121,
+          2797
+        ],
+        [
+          341,
+          2797
+        ]
+      ],
+      "score": 0.9572527408599854,
+      "y_pos": 2684,
+      "text": "Trương Trong Cảnh có 2 tác phẩm: Kim quỹ yếu lược và Thương hàr\nluận (Thương hàn tạp bệnh luận).",
+      "confidence": 0.9987521110346954
+    },
+    {
+      "type": "text",
+      "img_path": "p0022_004_text.png",
+      "bbox": [
+        [
+          343,
+          2825
+        ],
+        [
+          2123,
+          2825
+        ],
+        [
+          2123,
+          2934
+        ],
+        [
+          343,
+          2934
+        ]
+      ],
+      "score": 0.9533852338790894,
+      "y_pos": 2825,
+      "text": "Quyển Thương hàn luận được ông đúc kết kinh nghiệm lâm sàng từ đời\nHán trở về trước, dựa vào Nôi kinh mà biên soan thành.",
+      "confidence": 0.999435187419172
+    },
+    {
+      "type": "number",
+      "img_path": "p0022_009_number.png",
+      "bbox": [
+        [
+          2069,
+          3111
+        ],
+        [
+          2115,
+          3111
+        ],
+        [
+          2115,
+          3147
+        ],
+        [
+          2069,
+          3147
+        ]
+      ],
+      "score": 0.8549014925956726,
+      "y_pos": 3111,
+      "text": "\n    \n        \n    \n\n\n\n\n    ۰\n\n\n    \n    \n    \n    \n\n\n",
+      "confidence": 0.9864891237682767
+    },
+    {
+      "type": "footer",
+      "img_path": "p0022_008_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1072,
+          3311
+        ],
+        [
+          1072,
+          3366
+        ],
+        [
+          293,
+          3366
+        ]
+      ],
+      "score": 0.902884840965271,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8713696428707668
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0022.png"
+}

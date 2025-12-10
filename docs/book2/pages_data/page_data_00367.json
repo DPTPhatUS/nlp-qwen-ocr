@@ -1,0 +1,708 @@
+{
+  "page_num": 367,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0367_005_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          196
+        ],
+        [
+          1678,
+          196
+        ]
+      ],
+      "score": 0.9283804297447205,
+      "y_pos": 142,
+      "text": "_______________________________________\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6440153037330933
+    },
+    {
+      "type": "header",
+      "img_path": "p0367_009_header.png",
+      "bbox": [
+        [
+          229,
+          146
+        ],
+        [
+          1096,
+          146
+        ],
+        [
+          1096,
+          197
+        ],
+        [
+          229,
+          197
+        ]
+      ],
+      "score": 0.9006586670875549,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SÀNG",
+      "confidence": 0.9907518233571734
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0367_015_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          304
+        ],
+        [
+          619,
+          304
+        ],
+        [
+          619,
+          358
+        ],
+        [
+          226,
+          358
+        ]
+      ],
+      "score": 0.8428339958190918,
+      "y_pos": 304,
+      "text": "Dùng bài thuốc:",
+      "confidence": 0.8411327916033128
+    },
+    {
+      "type": "text",
+      "img_path": "p0367_020_text.png",
+      "bbox": [
+        [
+          227,
+          396
+        ],
+        [
+          1706,
+          396
+        ],
+        [
+          1706,
+          455
+        ],
+        [
+          227,
+          455
+        ]
+      ],
+      "score": 0.7998936772346497,
+      "y_pos": 396,
+      "text": "Câu đẳng    4 đồng cân,    Sinh đia    5 đồng cân,",
+      "confidence": 0.9732994342079528
+    },
+    {
+      "type": "text",
+      "img_path": "p0367_012_text.png",
+      "bbox": [
+        [
+          228,
+          490
+        ],
+        [
+          1596,
+          490
+        ],
+        [
+          1596,
+          546
+        ],
+        [
+          228,
+          546
+        ]
+      ],
+      "score": 0.8479602336883545,
+      "y_pos": 490,
+      "text": "Cúc hoa    3 đồng cân,    Thạch quyết minh    1 lạng,",
+      "confidence": 0.9447036829387021
+    },
+    {
+      "type": "text",
+      "img_path": "p0367_016_text.png",
+      "bbox": [
+        [
+          231,
+          582
+        ],
+        [
+          1705,
+          582
+        ],
+        [
+          1705,
+          637
+        ],
+        [
+          231,
+          637
+        ]
+      ],
+      "score": 0.8379831910133362,
+      "y_pos": 582,
+      "text": "Thạch cao    1 lạng,    Xích thước    3 đồng cân,",
+      "confidence": 0.9193785124615402
+    },
+    {
+      "type": "text",
+      "img_path": "p0367_007_text.png",
+      "bbox": [
+        [
+          223,
+          671
+        ],
+        [
+          1649,
+          671
+        ],
+        [
+          1649,
+          728
+        ],
+        [
+          223,
+          728
+        ]
+      ],
+      "score": 0.9132205247879028,
+      "y_pos": 671,
+      "text": "Đồng thời dùng <i>Tử tuyết đan</i> từ 2 đến 3 phân, ngày dùng 3 lần.",
+      "confidence": 0.9939593599392818
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0367_019_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          766
+        ],
+        [
+          469,
+          766
+        ],
+        [
+          469,
+          819
+        ],
+        [
+          226,
+          819
+        ]
+      ],
+      "score": 0.8025808334350586,
+      "y_pos": 766,
+      "text": "Gia giam:",
+      "confidence": 0.8304147611964833
+    },
+    {
+      "type": "text",
+      "img_path": "p0367_006_text.png",
+      "bbox": [
+        [
+          225,
+          855
+        ],
+        [
+          1312,
+          855
+        ],
+        [
+          1312,
+          911
+        ],
+        [
+          225,
+          911
+        ]
+      ],
+      "score": 0.9159359931945801,
+      "y_pos": 855,
+      "text": "+ Hai mắt đỏ tía, gia Long đảm thảo 2 đồng cân.",
+      "confidence": 0.9929601525773808
+    },
+    {
+      "type": "text",
+      "img_path": "p0367_001_text.png",
+      "bbox": [
+        [
+          223,
+          946
+        ],
+        [
+          2355,
+          946
+        ],
+        [
+          2355,
+          1073
+        ],
+        [
+          223,
+          1073
+        ]
+      ],
+      "score": 0.9644814133644104,
+      "y_pos": 946,
+      "text": "+ Hầu có tiếng đờm, gia <i>Thiên trúc hoàng</i> 3 đồng cân, <i>Trần đảm tinh</i> 3 đồng cân, <i>Trúc lịch</i> 1\nlạng, đổ vào lúc uống.",
+      "confidence": 0.9945386523494915
+    },
+    {
+      "type": "text",
+      "img_path": "p0367_000_text.png",
+      "bbox": [
+        [
+          223,
+          1108
+        ],
+        [
+          2359,
+          1108
+        ],
+        [
+          2359,
+          1230
+        ],
+        [
+          223,
+          1230
+        ]
+      ],
+      "score": 0.9657436609268188,
+      "y_pos": 1108,
+      "text": "+ Chất lưỡi đỏ sẫm, gia <i>Mạch môn</i> 3 đồng cân, <i>Huyền sâm</i> 3 đồng cân, <i>Thiên hoa phấn</i> 5 đồng\ncân.",
+      "confidence": 0.9939399166032672
+    },
+    {
+      "type": "text",
+      "img_path": "p0367_004_text.png",
+      "bbox": [
+        [
+          222,
+          1272
+        ],
+        [
+          2359,
+          1272
+        ],
+        [
+          2359,
+          1398
+        ],
+        [
+          222,
+          1398
+        ]
+      ],
+      "score": 0.9585946202278137,
+      "y_pos": 1272,
+      "text": "- Hư phong nội động: Thường thấy ở thời kỳ cuối của bệnh, sốt nhẹ, mồ hôi không ra, chân\ntay cử động yếu ớt, ngẫu nhiên co quắp, thân mệt mỏi, lưỡi hồng ít bọt.",
+      "confidence": 0.9801018862283393
+    },
+    {
+      "type": "text",
+      "img_path": "p0367_013_text.png",
+      "bbox": [
+        [
+          226,
+          1437
+        ],
+        [
+          939,
+          1437
+        ],
+        [
+          939,
+          1489
+        ],
+        [
+          226,
+          1489
+        ]
+      ],
+      "score": 0.8462815284729004,
+      "y_pos": 1437,
+      "text": "Cách chữa: Tư âm dẹp phong.",
+      "confidence": 0.7749125936935688
+    },
+    {
+      "type": "text",
+      "img_path": "p0367_017_text.png",
+      "bbox": [
+        [
+          225,
+          1526
+        ],
+        [
+          1355,
+          1526
+        ],
+        [
+          1355,
+          1579
+        ],
+        [
+          225,
+          1579
+        ]
+      ],
+      "score": 0.824373722076416,
+      "y_pos": 1526,
+      "text": "Dùng bài thuốc: \" Đại định phong châu gia giảm\".",
+      "confidence": 0.8775436758995057
+    },
+    {
+      "type": "text",
+      "img_path": "p0367_024_text.png",
+      "bbox": [
+        [
+          228,
+          1619
+        ],
+        [
+          1629,
+          1619
+        ],
+        [
+          1629,
+          1674
+        ],
+        [
+          228,
+          1674
+        ]
+      ],
+      "score": 0.7688815593719482,
+      "y_pos": 1619,
+      "text": "Sinh đia    5 đồng cân,    A giao    3 đồng cân,",
+      "confidence": 0.9507368257412543
+    },
+    {
+      "type": "text",
+      "img_path": "p0367_018_text.png",
+      "bbox": [
+        [
+          228,
+          1711
+        ],
+        [
+          1628,
+          1711
+        ],
+        [
+          1628,
+          1765
+        ],
+        [
+          228,
+          1765
+        ]
+      ],
+      "score": 0.8139135241508484,
+      "y_pos": 1711,
+      "text": "Bach thước    3 đồng cân,    Sinh mẫu lê    5 đồng cân,",
+      "confidence": 0.9522450631245588
+    },
+    {
+      "type": "text",
+      "img_path": "p0367_023_text.png",
+      "bbox": [
+        [
+          226,
+          1801
+        ],
+        [
+          1626,
+          1801
+        ],
+        [
+          1626,
+          1857
+        ],
+        [
+          226,
+          1857
+        ]
+      ],
+      "score": 0.7862117886543274,
+      "y_pos": 1801,
+      "text": "Miết giáp    5 đồng cân,    Sinh quy bản    5 đồng cân.",
+      "confidence": 0.9813613172743347
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0367_025_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1894
+        ],
+        [
+          468,
+          1894
+        ],
+        [
+          468,
+          1946
+        ],
+        [
+          226,
+          1946
+        ]
+      ],
+      "score": 0.7607972025871277,
+      "y_pos": 1894,
+      "text": "Gia giảm:",
+      "confidence": 0.8873233036561445
+    },
+    {
+      "type": "text",
+      "img_path": "p0367_021_text.png",
+      "bbox": [
+        [
+          224,
+          1985
+        ],
+        [
+          2285,
+          1985
+        ],
+        [
+          2285,
+          2041
+        ],
+        [
+          224,
+          2041
+        ]
+      ],
+      "score": 0.7901527285575867,
+      "y_pos": 1985,
+      "text": "+ Phân sột sệt, ăn ít, mặt trắng, ít tươi tắn, gia <i>Đảng sâm</i> 4 đồng cân, <i>Hoàng k</i>ỳ 4 đồng cân.",
+      "confidence": 0.9948942728188573
+    },
+    {
+      "type": "text",
+      "img_path": "p0367_014_text.png",
+      "bbox": [
+        [
+          225,
+          2074
+        ],
+        [
+          2285,
+          2074
+        ],
+        [
+          2285,
+          2133
+        ],
+        [
+          225,
+          2133
+        ]
+      ],
+      "score": 0.8429639935493469,
+      "y_pos": 2074,
+      "text": "+ Nằm ngủ không yên, có khi hư phiền, gia <i>Dạ giao đằng</i> 5 đồng cân, <i>Táo nhân</i> 3 đồng cân.",
+      "confidence": 0.9743588355279738
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0367_026_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2169
+        ],
+        [
+          802,
+          2169
+        ],
+        [
+          802,
+          2222
+        ],
+        [
+          225,
+          2222
+        ]
+      ],
+      "score": 0.690779983997345,
+      "y_pos": 2169,
+      "text": "3. Phụ: Chứng cứng cơ",
+      "confidence": 0.957698511040729
+    },
+    {
+      "type": "text",
+      "img_path": "p0367_003_text.png",
+      "bbox": [
+        [
+          223,
+          2258
+        ],
+        [
+          2358,
+          2258
+        ],
+        [
+          2358,
+          2384
+        ],
+        [
+          223,
+          2384
+        ]
+      ],
+      "score": 0.9596556425094604,
+      "y_pos": 2258,
+      "text": "- Di chứng chân tay cứng đơ, co quắp, dùng Ô tiêu xà 3 đồng cân, Địa long 3 đồng cân,\nToàn yết 1 đồng cân.",
+      "confidence": 0.6614561920816249
+    },
+    {
+      "type": "text",
+      "img_path": "p0367_010_text.png",
+      "bbox": [
+        [
+          223,
+          2419
+        ],
+        [
+          2320,
+          2419
+        ],
+        [
+          2320,
+          2478
+        ],
+        [
+          223,
+          2478
+        ]
+      ],
+      "score": 0.8995974063873291,
+      "y_pos": 2419,
+      "text": "- Bại liệt cứng đơ, dùng Đương quy 3 đồng cân, Hồng hoa 2 đồng cân, Ngưu tất 3 đồng cân.",
+      "confidence": 0.9935539391305711
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0367_022_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2513
+        ],
+        [
+          741,
+          2513
+        ],
+        [
+          741,
+          2567
+        ],
+        [
+          225,
+          2567
+        ]
+      ],
+      "score": 0.7881526350975037,
+      "y_pos": 2513,
+      "text": "4. Phương thuốc 1 vị",
+      "confidence": 0.9961701414801858
+    },
+    {
+      "type": "text",
+      "img_path": "p0367_002_text.png",
+      "bbox": [
+        [
+          221,
+          2605
+        ],
+        [
+          2360,
+          2605
+        ],
+        [
+          2360,
+          2731
+        ],
+        [
+          221,
+          2731
+        ]
+      ],
+      "score": 0.9603960514068604,
+      "y_pos": 2605,
+      "text": "Lấy 3 con giun sống, giã nát như bùn, cho thêm một ít muối ăn, đem đắp ở thóp thở trước đỉnh\nđầu, (nếu nhiều tóc thì cắt đi), dùng thích hợp với trẻ em sơ sinh, có tác dụng đứt cơn co giật.",
+      "confidence": 0.997641784525984
+    },
+    {
+      "type": "number",
+      "img_path": "p0367_011_number.png",
+      "bbox": [
+        [
+          2308,
+          3335
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2353,
+          3370
+        ],
+        [
+          2308,
+          3370
+        ]
+      ],
+      "score": 0.8563314080238342,
+      "y_pos": 3335,
+      "text": "    \n\n    \n    \n\n    ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0367_008_footer.png",
+      "bbox": [
+        [
+          229,
+          3337
+        ],
+        [
+          1344,
+          3337
+        ],
+        [
+          1344,
+          3383
+        ],
+        [
+          229,
+          3383
+        ]
+      ],
+      "score": 0.9111827611923218,
+      "y_pos": 3337,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9984658506681334
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0367.png"
+}

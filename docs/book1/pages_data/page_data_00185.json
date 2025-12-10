@@ -1,0 +1,370 @@
+{
+  "page_num": 185,
+  "content": [
+    {
+      "type": "figure_title",
+      "img_path": "p0185_013_figure_title.png",
+      "bbox": [
+        [
+          408,
+          450
+        ],
+        [
+          1314,
+          450
+        ],
+        [
+          1314,
+          502
+        ],
+        [
+          408,
+          502
+        ]
+      ],
+      "score": 0.5546078085899353,
+      "y_pos": 450,
+      "text": "\n    Phân tích bài thuốc: (pháp bổ -thanh)\n",
+      "confidence": 0.6436140707560948
+    },
+    {
+      "type": "table",
+      "img_path": "p0185_001_table.png",
+      "bbox": [
+        [
+          351,
+          561
+        ],
+        [
+          2097,
+          561
+        ],
+        [
+          2097,
+          1115
+        ],
+        [
+          351,
+          1115
+        ]
+      ],
+      "score": 0.9883092641830444,
+      "y_pos": 561,
+      "text": "Vi thuốc    Dược lý Đông y\nSinh địa    Ngot, đẳng, hàn. Sinh tân dịch, lương huyết.\n<b>Đương quy</b>    Dưỡng Can huyết\nBach thược    Đắng, chát, chua. Nhuận gan, dưỡng phế.\nĐia cốt bì    Ngot hàn. Lương huyết, tả hỏa\nXuyên khung    Cay, ôn. Hoạt huyết, chỉ thống, hành khí, khu phong\nĐơn bì    Cay, đẳng, hơi hàn. Thanh huyết nhiệt, tán ứ huyết",
+      "confidence": 0.8953518737821523
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0185_012_figure_title.png",
+      "bbox": [
+        [
+          408,
+          1172
+        ],
+        [
+          1040,
+          1172
+        ],
+        [
+          1040,
+          1223
+        ],
+        [
+          408,
+          1223
+        ]
+      ],
+      "score": 0.6005110144615173,
+      "y_pos": 1172,
+      "text": "Công thức huyệt sử dụng",
+      "confidence": 0.9990168809890747
+    },
+    {
+      "type": "table",
+      "img_path": "p0185_000_table.png",
+      "bbox": [
+        [
+          353,
+          1273
+        ],
+        [
+          2123,
+          1273
+        ],
+        [
+          2123,
+          2095
+        ],
+        [
+          353,
+          2095
+        ]
+      ],
+      "score": 0.9891083240509033,
+      "y_pos": 1273,
+      "text": "Tên huyệt    Cơ sở lý luận    Tác dụng điều trị\nCan du    Du huyêt của Can ở lưng    Bổ Can huyết\nThái xung    Nguyên huyêt/Can    Tư Bổ\n<b>Quang minh</b>    Lac huyêt/Can    Can âm\nDu huyệt của Thân ở lưng    Ích thủy tráng hỏa, kèm chữa\nThận du\nchứng đau lưng\nTam âm giao    Giao hôi huyệt của 3 kinh âm/chân    Tư âm bổ Thận\nThái khê    Nguyên huyêt/Thân    Bổ\nPhi dương    Lac huyệt/Thận    Thân\nDu Thổ huyệt/Tâm⇒Tả tử ⇒Tả    Thanh Tâm hỏa, tả Tâm nhiệt\nThần môn\nTâm hỏa",
+      "confidence": 0.9171055705520502
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0185_007_paragraph_title.png",
+      "bbox": [
+        [
+          1089,
+          2237
+        ],
+        [
+          1388,
+          2237
+        ],
+        [
+          1388,
+          2290
+        ],
+        [
+          1089,
+          2290
+        ]
+      ],
+      "score": 0.8843201398849487,
+      "y_pos": 2237,
+      "text": "<b>CAN ÂM HƯ</b>",
+      "confidence": 0.9461987843880286
+    },
+    {
+      "type": "text",
+      "img_path": "p0185_010_text.png",
+      "bbox": [
+        [
+          367,
+          2360
+        ],
+        [
+          1793,
+          2360
+        ],
+        [
+          1793,
+          2410
+        ],
+        [
+          367,
+          2410
+        ]
+      ],
+      "score": 0.6424285173416138,
+      "y_pos": 2360,
+      "text": "- Chức năng chủ yếu bị rối loạn là chức năng sơ tiết và tàng huyết của Can.",
+      "confidence": 0.9996560270136053
+    },
+    {
+      "type": "text",
+      "img_path": "p0185_011_text.png",
+      "bbox": [
+        [
+          370,
+          2432
+        ],
+        [
+          1755,
+          2432
+        ],
+        [
+          1755,
+          2484
+        ],
+        [
+          370,
+          2484
+        ]
+      ],
+      "score": 0.6318193078041077,
+      "y_pos": 2432,
+      "text": "- Chủ chứng (triệu chứng quan trọng): hoa mắt, thị lực giảm. Sốt về chiều",
+      "confidence": 0.9987842512130737
+    },
+    {
+      "type": "text",
+      "img_path": "p0185_009_text.png",
+      "bbox": [
+        [
+          371,
+          2505
+        ],
+        [
+          2105,
+          2505
+        ],
+        [
+          2105,
+          2606
+        ],
+        [
+          371,
+          2606
+        ]
+      ],
+      "score": 0.7807686924934387,
+      "y_pos": 2505,
+      "text": "- Thuốc tiêu biểu trong điều tri bênh chứng Can âm hư: nhất quán tiễn gia giảm, bổ Can\nThân, Đia cốt bì ẩm",
+      "confidence": 0.9921072189619531
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0185_002_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          2686
+        ],
+        [
+          1112,
+          2686
+        ],
+        [
+          1112,
+          2736
+        ],
+        [
+          345,
+          2736
+        ]
+      ],
+      "score": 0.9240603446960449,
+      "y_pos": 2686,
+      "text": "2.2. Bệnh chứng Can huyết hư",
+      "confidence": 0.9981317261854807
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0185_006_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          2783
+        ],
+        [
+          818,
+          2783
+        ],
+        [
+          818,
+          2832
+        ],
+        [
+          345,
+          2832
+        ]
+      ],
+      "score": 0.8984454274177551,
+      "y_pos": 2783,
+      "text": "2.2.1. Bênh nguyên",
+      "confidence": 0.9348207294940949
+    },
+    {
+      "type": "text",
+      "img_path": "p0185_005_text.png",
+      "bbox": [
+        [
+          405,
+          2880
+        ],
+        [
+          1908,
+          2880
+        ],
+        [
+          1908,
+          2931
+        ],
+        [
+          405,
+          2931
+        ]
+      ],
+      "score": 0.9077556133270264,
+      "y_pos": 2880,
+      "text": "- Do huyết hư làm ảnh hưởng đến chức năng tàng huyết của Can.",
+      "confidence": 0.9911743908647507
+    },
+    {
+      "type": "text",
+      "img_path": "p0185_004_text.png",
+      "bbox": [
+        [
+          407,
+          2964
+        ],
+        [
+          2083,
+          2964
+        ],
+        [
+          2083,
+          3016
+        ],
+        [
+          407,
+          3016
+        ]
+      ],
+      "score": 0.9194148778915405,
+      "y_pos": 2964,
+      "text": "- Do Can âm hư, công năng tàng huyết bị rối loạn gây ra chứng huyết hư,",
+      "confidence": 0.9929178144833813
+    },
+    {
+      "type": "number",
+      "img_path": "p0185_008_number.png",
+      "bbox": [
+        [
+          352,
+          3109
+        ],
+        [
+          430,
+          3109
+        ],
+        [
+          430,
+          3148
+        ],
+        [
+          352,
+          3148
+        ]
+      ],
+      "score": 0.8512592911720276,
+      "y_pos": 3109,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0185_003_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3365
+        ],
+        [
+          293,
+          3365
+        ]
+      ],
+      "score": 0.9205870032310486,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8792689868382045
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0185.png"
+}

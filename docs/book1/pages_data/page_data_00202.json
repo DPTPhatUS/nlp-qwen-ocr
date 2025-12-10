@@ -1,0 +1,786 @@
+{
+  "page_num": 202,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0202_025_text.png",
+      "bbox": [
+        [
+          462,
+          450
+        ],
+        [
+          1273,
+          450
+        ],
+        [
+          1273,
+          501
+        ],
+        [
+          462,
+          501
+        ]
+      ],
+      "score": 0.8261923789978027,
+      "y_pos": 450,
+      "text": "b- Kỷ tử có tác dụng nhuận Phế táo",
+      "confidence": 0.974990995393859
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_021_text.png",
+      "bbox": [
+        [
+          510,
+          534
+        ],
+        [
+          1717,
+          534
+        ],
+        [
+          1717,
+          585
+        ],
+        [
+          510,
+          585
+        ]
+      ],
+      "score": 0.8567111492156982,
+      "y_pos": 534,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.9960595133169642
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_012_text.png",
+      "bbox": [
+        [
+          512,
+          616
+        ],
+        [
+          1808,
+          616
+        ],
+        [
+          1808,
+          669
+        ],
+        [
+          512,
+          669
+        ]
+      ],
+      "score": 0.8850381970405579,
+      "y_pos": 616,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.996448719075748
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_017_text.png",
+      "bbox": [
+        [
+          513,
+          700
+        ],
+        [
+          994,
+          700
+        ],
+        [
+          994,
+          749
+        ],
+        [
+          513,
+          749
+        ]
+      ],
+      "score": 0.8719325065612793,
+      "y_pos": 700,
+      "text": "C. Nếu a đúng, b sai",
+      "confidence": 0.9711621674624357
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_016_text.png",
+      "bbox": [
+        [
+          513,
+          783
+        ],
+        [
+          994,
+          783
+        ],
+        [
+          994,
+          833
+        ],
+        [
+          513,
+          833
+        ]
+      ],
+      "score": 0.8720131516456604,
+      "y_pos": 783,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9853905601934954
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_015_text.png",
+      "bbox": [
+        [
+          515,
+          863
+        ],
+        [
+          945,
+          863
+        ],
+        [
+          945,
+          911
+        ],
+        [
+          515,
+          911
+        ]
+      ],
+      "score": 0.8721469640731812,
+      "y_pos": 863,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.973795405455998
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_029_text.png",
+      "bbox": [
+        [
+          463,
+          945
+        ],
+        [
+          1972,
+          945
+        ],
+        [
+          1972,
+          999
+        ],
+        [
+          463,
+          999
+        ]
+      ],
+      "score": 0.6008672714233398,
+      "y_pos": 945,
+      "text": "5. a- Trong HC Can dương xung, có dấu hiệu run rẩy, co giật bởi vì",
+      "confidence": 0.9885851846021765
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_026_text.png",
+      "bbox": [
+        [
+          346,
+          1030
+        ],
+        [
+          2127,
+          1030
+        ],
+        [
+          2127,
+          1137
+        ],
+        [
+          346,
+          1137
+        ]
+      ],
+      "score": 0.8003872036933899,
+      "y_pos": 1030,
+      "text": "b- Can dương xung là do Can huyết hư, nay Can huyết kém nên không\nnuôi dưỡng được cân",
+      "confidence": 0.9425798949190464
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_019_text.png",
+      "bbox": [
+        [
+          511,
+          1170
+        ],
+        [
+          1717,
+          1170
+        ],
+        [
+          1717,
+          1221
+        ],
+        [
+          511,
+          1221
+        ]
+      ],
+      "score": 0.8709415793418884,
+      "y_pos": 1170,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.9965668849225314
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_009_text.png",
+      "bbox": [
+        [
+          511,
+          1253
+        ],
+        [
+          1809,
+          1253
+        ],
+        [
+          1809,
+          1305
+        ],
+        [
+          511,
+          1305
+        ]
+      ],
+      "score": 0.8912531137466431,
+      "y_pos": 1253,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.9953775086573192
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_005_text.png",
+      "bbox": [
+        [
+          512,
+          1336
+        ],
+        [
+          994,
+          1336
+        ],
+        [
+          994,
+          1385
+        ],
+        [
+          512,
+          1385
+        ]
+      ],
+      "score": 0.9034621119499207,
+      "y_pos": 1336,
+      "text": "C. Nếu a đúng, b sai",
+      "confidence": 0.9692963280461051
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_000_text.png",
+      "bbox": [
+        [
+          513,
+          1420
+        ],
+        [
+          995,
+          1420
+        ],
+        [
+          995,
+          1468
+        ],
+        [
+          513,
+          1468
+        ]
+      ],
+      "score": 0.910757839679718,
+      "y_pos": 1420,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9773081784898584
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_006_text.png",
+      "bbox": [
+        [
+          515,
+          1499
+        ],
+        [
+          945,
+          1499
+        ],
+        [
+          945,
+          1547
+        ],
+        [
+          515,
+          1547
+        ]
+      ],
+      "score": 0.9021753072738647,
+      "y_pos": 1499,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.973795405455998
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_013_text.png",
+      "bbox": [
+        [
+          343,
+          1582
+        ],
+        [
+          2124,
+          1582
+        ],
+        [
+          2124,
+          1685
+        ],
+        [
+          343,
+          1685
+        ]
+      ],
+      "score": 0.8739364743232727,
+      "y_pos": 1582,
+      "text": "6. a- Trong HC Can hỏa thượng viêm, có thể xuất huyết ở bất kỳ chỗ nào,\nbởi vì",
+      "confidence": 0.9888990322408611
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_028_text.png",
+      "bbox": [
+        [
+          461,
+          1723
+        ],
+        [
+          2112,
+          1723
+        ],
+        [
+          2112,
+          1775
+        ],
+        [
+          461,
+          1775
+        ]
+      ],
+      "score": 0.7910611033439636,
+      "y_pos": 1723,
+      "text": "b- Tính chất của hỏa là bức huyết vọng hành (máu không đi đúng đường)",
+      "confidence": 0.8238262105995501
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_018_text.png",
+      "bbox": [
+        [
+          510,
+          1807
+        ],
+        [
+          1717,
+          1807
+        ],
+        [
+          1717,
+          1856
+        ],
+        [
+          510,
+          1856
+        ]
+      ],
+      "score": 0.8718053698539734,
+      "y_pos": 1807,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.9905540122176116
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_007_text.png",
+      "bbox": [
+        [
+          511,
+          1889
+        ],
+        [
+          1809,
+          1889
+        ],
+        [
+          1809,
+          1941
+        ],
+        [
+          511,
+          1941
+        ]
+      ],
+      "score": 0.8996997475624084,
+      "y_pos": 1889,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.9953775086573192
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_002_text.png",
+      "bbox": [
+        [
+          512,
+          1973
+        ],
+        [
+          994,
+          1973
+        ],
+        [
+          994,
+          2021
+        ],
+        [
+          512,
+          2021
+        ]
+      ],
+      "score": 0.9081045985221863,
+      "y_pos": 1973,
+      "text": "C. Nếu a đúng, b sai",
+      "confidence": 0.9692963280461051
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_001_text.png",
+      "bbox": [
+        [
+          513,
+          2055
+        ],
+        [
+          994,
+          2055
+        ],
+        [
+          994,
+          2105
+        ],
+        [
+          513,
+          2105
+        ]
+      ],
+      "score": 0.9082670211791992,
+      "y_pos": 2055,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9853905601934954
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_010_text.png",
+      "bbox": [
+        [
+          515,
+          2135
+        ],
+        [
+          945,
+          2135
+        ],
+        [
+          945,
+          2182
+        ],
+        [
+          515,
+          2182
+        ]
+      ],
+      "score": 0.8908519744873047,
+      "y_pos": 2135,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.9644105746632531
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_027_text.png",
+      "bbox": [
+        [
+          342,
+          2219
+        ],
+        [
+          2127,
+          2219
+        ],
+        [
+          2127,
+          2382
+        ],
+        [
+          342,
+          2382
+        ]
+      ],
+      "score": 0.7975536584854126,
+      "y_pos": 2219,
+      "text": "7. Trong bài thuốc Đơn chi tiêu giao gồm Sài hồ, Chi tử, Bạc hà, Sinh\nkhương, Bạch thược, Đương qui, Phục linh, Đơn bì, Bạch truật chữa chứng\nCan hoả thương viêm",
+      "confidence": 0.9985537084124984
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_024_text.png",
+      "bbox": [
+        [
+          461,
+          2417
+        ],
+        [
+          1748,
+          2417
+        ],
+        [
+          1748,
+          2467
+        ],
+        [
+          461,
+          2467
+        ]
+      ],
+      "score": 0.840337336063385,
+      "y_pos": 2417,
+      "text": "a- Hai vị Bạch thược, Đương qui tương tự với nhau bởi vì",
+      "confidence": 0.9977554052040495
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_022_text.png",
+      "bbox": [
+        [
+          462,
+          2500
+        ],
+        [
+          1511,
+          2500
+        ],
+        [
+          1511,
+          2550
+        ],
+        [
+          462,
+          2550
+        ]
+      ],
+      "score": 0.8566510677337646,
+      "y_pos": 2500,
+      "text": "b- Bạch thược, Đương qui có tác dụng liễm âm",
+      "confidence": 0.8628226129905038
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_014_text.png",
+      "bbox": [
+        [
+          511,
+          2582
+        ],
+        [
+          1717,
+          2582
+        ],
+        [
+          1717,
+          2633
+        ],
+        [
+          511,
+          2633
+        ]
+      ],
+      "score": 0.8724644780158997,
+      "y_pos": 2582,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.9965668849225314
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_020_text.png",
+      "bbox": [
+        [
+          511,
+          2665
+        ],
+        [
+          1808,
+          2665
+        ],
+        [
+          1808,
+          2718
+        ],
+        [
+          511,
+          2718
+        ]
+      ],
+      "score": 0.8697801828384399,
+      "y_pos": 2665,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.9962803348898888
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_008_text.png",
+      "bbox": [
+        [
+          513,
+          2747
+        ],
+        [
+          994,
+          2747
+        ],
+        [
+          994,
+          2797
+        ],
+        [
+          513,
+          2797
+        ]
+      ],
+      "score": 0.8961114883422852,
+      "y_pos": 2747,
+      "text": "C. Nếu a đúng, b sai",
+      "confidence": 0.9711621674624357
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_004_text.png",
+      "bbox": [
+        [
+          513,
+          2831
+        ],
+        [
+          993,
+          2831
+        ],
+        [
+          993,
+          2882
+        ],
+        [
+          513,
+          2882
+        ]
+      ],
+      "score": 0.9039735794067383,
+      "y_pos": 2831,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9865895861929114
+    },
+    {
+      "type": "text",
+      "img_path": "p0202_011_text.png",
+      "bbox": [
+        [
+          516,
+          2912
+        ],
+        [
+          942,
+          2912
+        ],
+        [
+          942,
+          2961
+        ],
+        [
+          516,
+          2961
+        ]
+      ],
+      "score": 0.8893191814422607,
+      "y_pos": 2912,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.9821911993480864
+    },
+    {
+      "type": "number",
+      "img_path": "p0202_023_number.png",
+      "bbox": [
+        [
+          2042,
+          3109
+        ],
+        [
+          2116,
+          3109
+        ],
+        [
+          2116,
+          3148
+        ],
+        [
+          2042,
+          3148
+        ]
+      ],
+      "score": 0.841241180896759,
+      "y_pos": 3109,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0202_003_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1074,
+          3311
+        ],
+        [
+          1074,
+          3367
+        ],
+        [
+          294,
+          3367
+        ]
+      ],
+      "score": 0.9067476391792297,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8891090188707624
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0202.png"
+}

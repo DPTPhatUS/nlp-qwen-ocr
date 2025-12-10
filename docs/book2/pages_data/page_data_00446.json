@@ -1,0 +1,162 @@
+{
+  "page_num": 446,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0446_001_header.png",
+      "bbox": [
+        [
+          1676,
+          143
+        ],
+        [
+          2368,
+          143
+        ],
+        [
+          2368,
+          197
+        ],
+        [
+          1676,
+          197
+        ]
+      ],
+      "score": 0.9141082763671875,
+      "y_pos": 143,
+      "text": "^7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6967735283431553
+    },
+    {
+      "type": "header",
+      "img_path": "p0446_002_header.png",
+      "bbox": [
+        [
+          231,
+          150
+        ],
+        [
+          1446,
+          150
+        ],
+        [
+          1446,
+          198
+        ],
+        [
+          231,
+          198
+        ]
+      ],
+      "score": 0.9120864868164062,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BÊNH CHỨNG THƯỜNG GĂP BẰNG CHÂM CỨU",
+      "confidence": 0.9953939765691757
+    },
+    {
+      "type": "text",
+      "img_path": "p0446_000_text.png",
+      "bbox": [
+        [
+          338,
+          306
+        ],
+        [
+          2356,
+          306
+        ],
+        [
+          2356,
+          571
+        ],
+        [
+          338,
+          571
+        ]
+      ],
+      "score": 0.9746134281158447,
+      "y_pos": 306,
+      "text": "Giảng nghĩa của phương: Phương này lấy ôn bổ thận dương làm chính. Bổ Chiếu hải,\nQuan nguyên, Thận du, hoặc dùng ngải cứu để tăng công năng thận khí. Thận dương\nsung túc<sup>(*)</sup> mới có thể ôn dưỡng tỳ, vị, tăng sức vận hóa của trường, vị, chính khí vượng\nthinh thì bênh sẽ tư trừ.",
+      "confidence": 0.9973835986165968
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0446_004_footnote.png",
+      "bbox": [
+        [
+          228,
+          3166
+        ],
+        [
+          657,
+          3166
+        ],
+        [
+          657,
+          3209
+        ],
+        [
+          228,
+          3209
+        ]
+      ],
+      "score": 0.8575043082237244,
+      "y_pos": 3166,
+      "text": "(*) Sung túc: Dồi dào, đầy đủ.",
+      "confidence": 0.8508022520691156
+    },
+    {
+      "type": "number",
+      "img_path": "p0446_005_number.png",
+      "bbox": [
+        [
+          2303,
+          3299
+        ],
+        [
+          2352,
+          3299
+        ],
+        [
+          2352,
+          3334
+        ],
+        [
+          2303,
+          3334
+        ]
+      ],
+      "score": 0.8564077615737915,
+      "y_pos": 3299,
+      "text": "    \n            \n        \n\n\n        \n    \n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0446_003_footer.png",
+      "bbox": [
+        [
+          227,
+          3310
+        ],
+        [
+          1323,
+          3310
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          227,
+          3355
+        ]
+      ],
+      "score": 0.9023240208625793,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9190420980723399
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0446.png"
+}

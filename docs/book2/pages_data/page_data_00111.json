@@ -1,0 +1,394 @@
+{
+  "page_num": 111,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0111_009_header.png",
+      "bbox": [
+        [
+          1609,
+          142
+        ],
+        [
+          2375,
+          142
+        ],
+        [
+          2375,
+          202
+        ],
+        [
+          1609,
+          202
+        ]
+      ],
+      "score": 0.9163632392883301,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7908957490608806
+    },
+    {
+      "type": "header",
+      "img_path": "p0111_011_header.png",
+      "bbox": [
+        [
+          230,
+          154
+        ],
+        [
+          602,
+          154
+        ],
+        [
+          602,
+          199
+        ],
+        [
+          230,
+          199
+        ]
+      ],
+      "score": 0.908391535282135,
+      "y_pos": 154,
+      "text": "CÁCH CHÂM CỨU",
+      "confidence": 0.9794647852579753
+    },
+    {
+      "type": "image",
+      "img_path": "p0111_004_image.png",
+      "bbox": [
+        [
+          890,
+          383
+        ],
+        [
+          1677,
+          383
+        ],
+        [
+          1677,
+          924
+        ],
+        [
+          890,
+          924
+        ]
+      ],
+      "score": 0.9635871052742004,
+      "y_pos": 383
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0111_012_figure_title.png",
+      "bbox": [
+        [
+          770,
+          1015
+        ],
+        [
+          1813,
+          1015
+        ],
+        [
+          1813,
+          1065
+        ],
+        [
+          770,
+          1065
+        ]
+      ],
+      "score": 0.9065881967544556,
+      "y_pos": 1015,
+      "text": "Hình 28. Cách châm hào kim dùng ống phóng kim",
+      "confidence": 0.7300990439475851
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0111_007_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          1104
+        ],
+        [
+          718,
+          1104
+        ],
+        [
+          718,
+          1150
+        ],
+        [
+          284,
+          1150
+        ]
+      ],
+      "score": 0.9217848181724548,
+      "y_pos": 1104,
+      "text": "3. Cách chích kim",
+      "confidence": 0.9013668894767761
+    },
+    {
+      "type": "text",
+      "img_path": "p0111_006_text.png",
+      "bbox": [
+        [
+          279,
+          1195
+        ],
+        [
+          2356,
+          1195
+        ],
+        [
+          2356,
+          1320
+        ],
+        [
+          279,
+          1320
+        ]
+      ],
+      "score": 0.95921790599823,
+      "y_pos": 1195,
+      "text": "Là dùng kim ba cạnh đâm thật nhanh cho sâu khoảng 2-3 phân thốn. Cách chích này cần\nphải có tay trái hỗ trợ việc cố định nơi chích thì mới dễ chích.",
+      "confidence": 0.9996591986606891
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0111_008_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1362
+        ],
+        [
+          722,
+          1362
+        ],
+        [
+          722,
+          1409
+        ],
+        [
+          226,
+          1409
+        ]
+      ],
+      "score": 0.9184029698371887,
+      "y_pos": 1362,
+      "text": "E. Cảm giác châm kim",
+      "confidence": 0.8826856098391793
+    },
+    {
+      "type": "text",
+      "img_path": "p0111_001_text.png",
+      "bbox": [
+        [
+          276,
+          1448
+        ],
+        [
+          2359,
+          1448
+        ],
+        [
+          2359,
+          1785
+        ],
+        [
+          276,
+          1785
+        ]
+      ],
+      "score": 0.9826412796974182,
+      "y_pos": 1448,
+      "text": "Khi châm kim vào huyệt vị đạt đến độ sâu nhất định, người bệnh thường thấy sinh ra một\ncảm giác buốt, tê, trướng, hoặc nằng nặng, đồng thời dưới ngón tay thầy thuốc cũng cảm\nthấy tụ, nặng. Như thế, đông ý gọi là \"đắc khí\". Sau khi đắc khí, căn cứ vào bệnh tình, chọn\nlấy thủ phápkhác nhau.nếu như không đắc khí thì nhè nhẹ nâng lên, ấn xuống hoặc vê kim\ncũng có thể đắc khí được.",
+      "confidence": 0.9964368290052183
+    },
+    {
+      "type": "text",
+      "img_path": "p0111_005_text.png",
+      "bbox": [
+        [
+          279,
+          1824
+        ],
+        [
+          2358,
+          1824
+        ],
+        [
+          2358,
+          1948
+        ],
+        [
+          279,
+          1948
+        ]
+      ],
+      "score": 0.9594424962997437,
+      "y_pos": 1824,
+      "text": "Nhưng cũng có người, có huyệt không nhất thiết phải đắc khí, chỉ lưu kim bất động cũng có\nhiệu quả chữa.",
+      "confidence": 0.9958923791054186
+    },
+    {
+      "type": "text",
+      "img_path": "p0111_002_text.png",
+      "bbox": [
+        [
+          278,
+          1989
+        ],
+        [
+          2359,
+          1989
+        ],
+        [
+          2359,
+          2326
+        ],
+        [
+          278,
+          2326
+        ]
+      ],
+      "score": 0.9824913144111633,
+      "y_pos": 1989,
+      "text": "Do nơi châm kim nông, sâu khác nhau, cũng như phương hướng vê, góc độ châm, sức nâng\nấn nhanh chậm, mạnh nhẹ khác nhau, đặc biệt là thể chất người bệnh ở mức độ nhậy cảm\nkhác nhau, cảm giác châm chích co khi rất nhỏ nhẹ, có khi rất rõ rệt, có khi chỉ ở chỗ huyệt\nvị, co khi lan toả ra các nơi khác, có khi chuyển dần đến những nơi rất xa. Nói chung lại, thủ\npháp phù hợp, cảm giác nhanh chóng, thì kết quả chữa cũng rất rõ ràng.",
+      "confidence": 0.9981436753963507
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0111_010_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2366
+        ],
+        [
+          949,
+          2366
+        ],
+        [
+          949,
+          2413
+        ],
+        [
+          226,
+          2413
+        ]
+      ],
+      "score": 0.9110729098320007,
+      "y_pos": 2366,
+      "text": "G. Thủ pháp bổ tả của châm kim",
+      "confidence": 0.9748699944466352
+    },
+    {
+      "type": "text",
+      "img_path": "p0111_000_text.png",
+      "bbox": [
+        [
+          271,
+          2452
+        ],
+        [
+          2359,
+          2452
+        ],
+        [
+          2359,
+          2863
+        ],
+        [
+          271,
+          2863
+        ]
+      ],
+      "score": 0.9827979207038879,
+      "y_pos": 2452,
+      "text": "Thủ pháp châm chích nói chung có hai loại: một là thủ pháp bổ, hai là thủ pháp tả. Bổ hoặc\ntả là căn cứ vào thể chất của ngươi bệnh và bệnh tình mà quyết định. Nói chung là đối với\nngười bệnh có thể chất khoẻ mạnh thì dùng tả pháp, người bệnh thể chất hư nhược thì dùng\nbổ pháp. Đối với các loại bệnh tình thuộc thực, thuộc nhiệt, thuộc cấp tính thì dùng tả pháp,\ncác bệnh thuộc hư, thuộc hàn, thuộc mạn tính thì dùng bổ pháp. Đối với các loại bệnh tình\nnóng lạnh xen kẽ, hoặc hư thực cũng thấy thì dùng thủ pháp bình bổ bình tả.",
+      "confidence": 0.9991462212461717
+    },
+    {
+      "type": "text",
+      "img_path": "p0111_003_text.png",
+      "bbox": [
+        [
+          276,
+          2898
+        ],
+        [
+          2359,
+          2898
+        ],
+        [
+          2359,
+          3167
+        ],
+        [
+          276,
+          3167
+        ]
+      ],
+      "score": 0.9745566844940186,
+      "y_pos": 2898,
+      "text": "Thủ pháp bổ tả của châm chích có rất nhiều cách, ở đây xin giới thiệu những thủ pháp bổ tả\ncơ bản. Thủ pháp bổ tả cơ bản là những thao tác khác nhau, mà ở mỗi thao tác đem lại\nnhững hiệu quả khác nhau. Nó có thể được sử dụng riêng rẽ, có thể dùng kết hợp với nhau,\ntừ kết hợp ít đến kết hợp nhiều cách một lúc, tùy theo tài nghệ của người thầy và yêu cầu",
+      "confidence": 0.9996891678005648
+    },
+    {
+      "type": "footer",
+      "img_path": "p0111_013_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.894271194934845,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0111_014_number.png",
+      "bbox": [
+        [
+          2295,
+          3341
+        ],
+        [
+          2321,
+          3341
+        ],
+        [
+          2321,
+          3377
+        ],
+        [
+          2295,
+          3377
+        ]
+      ],
+      "score": 0.8168368935585022,
+      "y_pos": 3341,
+      "text": "\n    \n    \n\n\n\n\n\n    \n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0111.png"
+}

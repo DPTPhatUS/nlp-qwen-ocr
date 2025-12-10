@@ -1,0 +1,162 @@
+{
+  "page_num": 567,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0567_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2369,
+          144
+        ],
+        [
+          2369,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9100959897041321,
+      "y_pos": 144,
+      "text": "~ 2    ~ 7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6485285695110049
+    },
+    {
+      "type": "header",
+      "img_path": "p0567_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1467,
+          152
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9158124923706055,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TẬN, KỲ HUYỆT",
+      "confidence": 0.9979400253295898
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0567_004_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          322
+        ],
+        [
+          866,
+          322
+        ],
+        [
+          866,
+          383
+        ],
+        [
+          226,
+          383
+        ]
+      ],
+      "score": 0.7079697251319885,
+      "y_pos": 322,
+      "text": "Phần 14. BÊNH HUYẾT ÁP",
+      "confidence": 0.8308869997660319
+    },
+    {
+      "type": "text",
+      "img_path": "p0567_005_text.png",
+      "bbox": [
+        [
+          226,
+          416
+        ],
+        [
+          2360,
+          416
+        ],
+        [
+          2360,
+          641
+        ],
+        [
+          226,
+          641
+        ]
+      ],
+      "score": 0.5699004530906677,
+      "y_pos": 416,
+      "text": "233. Huyết áp cao: Huyết áp điểm, Kiện nội lăng, An miên 1, An miên 2, Tiền hậu ẩn châu, Ấn\nđường, Tĩnh mạch sau tại, Tân Khúc trì, Lạc linh ngũ, Nham trì.\n234. Huyết áp thấp: Huyết áp điểm.",
+      "confidence": 0.9881564884222054
+    },
+    {
+      "type": "number",
+      "img_path": "p0567_003_number.png",
+      "bbox": [
+        [
+          2320,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2320,
+          3374
+        ]
+      ],
+      "score": 0.8569725751876831,
+      "y_pos": 3337,
+      "text": "    \n    \n\n\n\n\n\n\n    \n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0567_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1325,
+          3340
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.8997557163238525,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9988119602203369
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0567.png"
+}

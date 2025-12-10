@@ -1,0 +1,422 @@
+{
+  "page_num": 463,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0463_007_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9263677000999451,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0463_008_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.919664740562439,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0463_009_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          329
+        ],
+        [
+          488,
+          329
+        ],
+        [
+          488,
+          374
+        ],
+        [
+          226,
+          374
+        ]
+      ],
+      "score": 0.9160196185112,
+      "y_pos": 329,
+      "text": "33. Khó đẻ",
+      "confidence": 0.9471069127321243
+    },
+    {
+      "type": "text",
+      "img_path": "p0463_005_text.png",
+      "bbox": [
+        [
+          221,
+          419
+        ],
+        [
+          2359,
+          419
+        ],
+        [
+          2359,
+          545
+        ],
+        [
+          221,
+          545
+        ]
+      ],
+      "score": 0.96562260389328,
+      "y_pos": 419,
+      "text": "Đàn bà có thai đủ tháng, thai đã chuyển xuống dưới, lưng bụng đau từng cơn, bụng dưới trụt\nnặng, nước ối và máu đều đã ra, nhưng lâu không thấy con ra, gọi là đẻ khó.",
+      "confidence": 0.9997545182368366
+    },
+    {
+      "type": "text",
+      "img_path": "p0463_004_text.png",
+      "bbox": [
+        [
+          223,
+          582
+        ],
+        [
+          2358,
+          582
+        ],
+        [
+          2358,
+          705
+        ],
+        [
+          223,
+          705
+        ]
+      ],
+      "score": 0.9669237732887268,
+      "y_pos": 582,
+      "text": "Thường do thai quá to, hoặc khung chậu hẹp, hoặc ngôi thai lệch, hoặc khí huyết của sản phụ\nvận hành không thư mà tạo thành.",
+      "confidence": 0.9962976632956686
+    },
+    {
+      "type": "text",
+      "img_path": "p0463_003_text.png",
+      "bbox": [
+        [
+          280,
+          744
+        ],
+        [
+          2358,
+          744
+        ],
+        [
+          2358,
+          861
+        ],
+        [
+          280,
+          861
+        ]
+      ],
+      "score": 0.9673454761505127,
+      "y_pos": 744,
+      "text": "Cách chữa: Châm cứu phù hợp với ngôi thai lệch hoặc khí huyết vận hành không thư gây ra\nkhó đẻ.",
+      "confidence": 0.9958002993304482
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0463_015_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          906
+        ],
+        [
+          544,
+          906
+        ],
+        [
+          544,
+          961
+        ],
+        [
+          284,
+          961
+        ]
+      ],
+      "score": 0.728785514831543,
+      "y_pos": 906,
+      "text": "Lâv huyêt:",
+      "confidence": 0.8064457575480143
+    },
+    {
+      "type": "text",
+      "img_path": "p0463_011_text.png",
+      "bbox": [
+        [
+          286,
+          1000
+        ],
+        [
+          1593,
+          1000
+        ],
+        [
+          1593,
+          1052
+        ],
+        [
+          286,
+          1052
+        ]
+      ],
+      "score": 0.9115442633628845,
+      "y_pos": 1000,
+      "text": "\n    Phương 1: Lấy ở cạnh ngoài khớp bàn + ngón út chân.\n",
+      "confidence": 0.9807618662908479
+    },
+    {
+      "type": "text",
+      "img_path": "p0463_006_text.png",
+      "bbox": [
+        [
+          305,
+          1089
+        ],
+        [
+          2362,
+          1089
+        ],
+        [
+          2362,
+          1213
+        ],
+        [
+          305,
+          1213
+        ]
+      ],
+      "score": 0.9550766348838806,
+      "y_pos": 1089,
+      "text": "Cách một giờ dùng điếu ngải hơ 15 phút, hoặc cứu bằng mồi ngải cũng được, làm liên tục\ntrong 3 giờ thì thôi.",
+      "confidence": 0.9986914832719229
+    },
+    {
+      "type": "text",
+      "img_path": "p0463_012_text.png",
+      "bbox": [
+        [
+          286,
+          1253
+        ],
+        [
+          1776,
+          1253
+        ],
+        [
+          1776,
+          1306
+        ],
+        [
+          286,
+          1306
+        ]
+      ],
+      "score": 0.9065083265304565,
+      "y_pos": 1253,
+      "text": "\n    Phương 2: Chí âm, Hợp cốc, Tam âm giao, Thái xung, Côn lôn.\n",
+      "confidence": 0.9821418544825385
+    },
+    {
+      "type": "text",
+      "img_path": "p0463_000_text.png",
+      "bbox": [
+        [
+          300,
+          1343
+        ],
+        [
+          2361,
+          1343
+        ],
+        [
+          2361,
+          1608
+        ],
+        [
+          300,
+          1608
+        ]
+      ],
+      "score": 0.9764951467514038,
+      "y_pos": 1343,
+      "text": "Trước hết lấy <i>Chí âm</i> ôn châm 10 phút, ngừng 10 phút, lại ôn châm 10 phút, sau đó lấy\nhào kim châm Hợp cốc, vê chuyển từ từ tiến kim, đắc khí thì nâng ấn, vê kim theo bổ\npháp, không lưu kim. Châm tiếp <i>Tam âm giao</i>, vê chuyển đắc khí rồi dùng tả pháp, lưu\nkim 30 phút.",
+      "confidence": 0.993328961692359
+    },
+    {
+      "type": "text",
+      "img_path": "p0463_001_text.png",
+      "bbox": [
+        [
+          339,
+          1648
+        ],
+        [
+          2359,
+          1648
+        ],
+        [
+          2359,
+          1839
+        ],
+        [
+          339,
+          1839
+        ]
+      ],
+      "score": 0.9739684462547302,
+      "y_pos": 1648,
+      "text": "Nếu vẫn chưa sinh, tiếp tục châm <i>Thái xung, Côn lôn</i>, dùng tả pháp, làm cho có cảm giác\ntê tức rồi lưu kim, cứ cách 5 phút vê kim một lần, mỗi lần vê chuyển trái phải 7 cái, làm\nnhư thế đến lúc sinh thì rút kim.",
+      "confidence": 0.9966663202183684
+    },
+    {
+      "type": "text",
+      "img_path": "p0463_002_text.png",
+      "bbox": [
+        [
+          280,
+          1883
+        ],
+        [
+          2360,
+          1883
+        ],
+        [
+          2360,
+          2077
+        ],
+        [
+          280,
+          2077
+        ]
+      ],
+      "score": 0.9675117135047913,
+      "y_pos": 1883,
+      "text": "Giảng nghĩa của phương: Chí âm, Côn lôn đều có thể lưu khí của túc thái dương. Thái\nxung hành ứ lý huyết<sup>(*)</sup>. Khí huyết ứ trệ lấy bổ <i>Hợp cốc</i>, tả <i>Âm giao</i>, là bổ trên, tả dưới, làm\ncho khí huyết đi xuống lưu thông thuận lợi, thai nhi tự ra.",
+      "confidence": 0.9716384538359066
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0463_013_footnote.png",
+      "bbox": [
+        [
+          227,
+          3166
+        ],
+        [
+          1220,
+          3166
+        ],
+        [
+          1220,
+          3210
+        ],
+        [
+          227,
+          3210
+        ]
+      ],
+      "score": 0.8951413631439209,
+      "y_pos": 3166,
+      "text": "(*) Hành ứ lý huyết: làm thông cái ứ để cho máu lưu thông tự nhiên.",
+      "confidence": 0.9890605487685272
+    },
+    {
+      "type": "number",
+      "img_path": "p0463_014_number.png",
+      "bbox": [
+        [
+          2303,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2303,
+          3335
+        ]
+      ],
+      "score": 0.8640999794006348,
+      "y_pos": 3300,
+      "text": "    \n\n\n۰.\n\n\n\n\n",
+      "confidence": 0.9536556512117386
+    },
+    {
+      "type": "footer",
+      "img_path": "p0463_010_footer.png",
+      "bbox": [
+        [
+          228,
+          3310
+        ],
+        [
+          1323,
+          3310
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          228,
+          3355
+        ]
+      ],
+      "score": 0.9138588309288025,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9293094086197188
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0463.png"
+}

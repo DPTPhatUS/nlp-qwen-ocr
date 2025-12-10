@@ -1,0 +1,240 @@
+{
+  "page_num": 104,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0104_005_header.png",
+      "bbox": [
+        [
+          1608,
+          142
+        ],
+        [
+          2371,
+          142
+        ],
+        [
+          2371,
+          202
+        ],
+        [
+          1608,
+          202
+        ]
+      ],
+      "score": 0.9053831100463867,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7651692341480936
+    },
+    {
+      "type": "header",
+      "img_path": "p0104_006_header.png",
+      "bbox": [
+        [
+          229,
+          159
+        ],
+        [
+          452,
+          159
+        ],
+        [
+          452,
+          201
+        ],
+        [
+          229,
+          201
+        ]
+      ],
+      "score": 0.8834497332572937,
+      "y_pos": 159,
+      "text": "DU HUYET",
+      "confidence": 0.5986216425895691
+    },
+    {
+      "type": "text",
+      "img_path": "p0104_002_text.png",
+      "bbox": [
+        [
+          280,
+          338
+        ],
+        [
+          2358,
+          338
+        ],
+        [
+          2358,
+          644
+        ],
+        [
+          280,
+          644
+        ]
+      ],
+      "score": 0.9779656529426575,
+      "y_pos": 338,
+      "text": "mắc bệnh, lấy ở Hợp\". Nạn thứ 68 của \"Nạn kinh\" lại đã nói thêm cho rõ hơn là: \"Tỉnh huyệt\nchữa đầy tức dưới tâm, Huỳnh huyệt chữa mình nóng sốt, Du huyệt chữa mình nặng khớp\nđau, Kinh nguyệt chữa ho hắng, nóng rét, Hợp huyệt chữa nghich khí mà tiết\". Đó là cách nói\nvề ngũ du huyệt và các đặc điểm chủ trị của nó, chúng ta ghi nhận để tham khảo ứng dụng\ntrên lâm sàng.",
+      "confidence": 0.9986165976073387
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0104_004_figure_title.png",
+      "bbox": [
+        [
+          818,
+          696
+        ],
+        [
+          1768,
+          696
+        ],
+        [
+          1768,
+          746
+        ],
+        [
+          818,
+          746
+        ]
+      ],
+      "score": 0.9144446849822998,
+      "y_pos": 696,
+      "text": "Bảng 11 - Bảng ngũ du huyệt ở 12 kinh mạch",
+      "confidence": 0.9907072714783929
+    },
+    {
+      "type": "table",
+      "img_path": "p0104_000_table.png",
+      "bbox": [
+        [
+          278,
+          797
+        ],
+        [
+          2314,
+          797
+        ],
+        [
+          2314,
+          2175
+        ],
+        [
+          278,
+          2175
+        ]
+      ],
+      "score": 0.9907761216163635,
+      "y_pos": 797,
+      "text": "Kinh mach    Ngũ du\nNgũ tạng    Tinh    Huỳnh    Du    Kinh    Ηợρ\nPhế    Thiếu thương    Ngư tế    Thái uyên    Kinh cừ    Xích trạch\nTâm bào    Trung xung    Lao cung    Đại lăng    Gian sử    Khúc trạch\nTâm    Thiếu xung    Thiếu phủ    Thần môn    Linh đạo    Thiếu hải\nΤỳ    An bạch    Đại đô    Thái bạch    Thương khâu    Âm lăng tuyền\nCan    Đại đôn    Hành gian    Thái xung    Trung phong    Khúc tuyến\nThận    Dũng tuyền    Nhiên cốc    Thái khê    Phục lưu    Âm cốc\nLục phủ    Tỉnh    Huỳnh    Du    Kinh    Hợp\nĐại trường    Thương dương    Nhị gian    Tam gian    Dương khê    Khúc trì\nTam tiêu    Quan xung    Dịch môn    Trung chử    Chi câu    Thiên tỉnh\nTiếu trường    Thiếu trạch    Tiền cốc    Hậu khê    Dương cốc    Tiếu hải\nVį    Lệ đoài    Nọi đình    Hãm cốc    Giải khê    Túc tam lý\nĐảm    Khiếu âm    Hiệp khê    Lâm khấp    Dương phụ    Dương lăng\ntuyên\nBàng quang    Chí âm    Thông cốc    Thúc cốt    Côn luân    Úy trung",
+      "confidence": 0.9118467735407536
+    },
+    {
+      "type": "text",
+      "img_path": "p0104_001_text.png",
+      "bbox": [
+        [
+          279,
+          2214
+        ],
+        [
+          2358,
+          2214
+        ],
+        [
+          2358,
+          2836
+        ],
+        [
+          279,
+          2836
+        ]
+      ],
+      "score": 0.9848921298980713,
+      "y_pos": 2214,
+      "text": "Hợp huyệt trong ngũ du huyệt đối với bệnh tạng phủ có tác dụng rất trọng yếu. Thiên \"Tà khí\ntạng phủ bệnh hình\", sách \"Linh Khu\" nói:\" Huỳnh, Du chữa bệnh ở ngoài kinh lạc, Hợp chữa\nbệnh ở trong tạng phủ\". Trị bệnh của lục phủ bằng Hợp huyệt, lại lấy hợp huyệt của túc tam\ndương kinh là chính. Vị, bàng quang,đảm ra ở túc tam dương mà đại trường, tiểu trường, tam\ntiêu tuy nhiên hợp trên ở thủ kinh, đồng thời cũng xuất hiện ở túc tam dương. Như thiên Bản\nluận sách\" Linh Khu\" đã nói: \"Lục phủ đều ở túc tam dương, hợp ở trên tay\". Đó là do lục phủ\nở trong vùng bụng, có quan hệ với túc kinh rất mật thiết, vì vậy ở trên túc tam dương kinh đều\ncó các hợp huyệt đó. Vị hợp ở túc tam lý.đại trường hợp ở thượng cự hư. tiểu trường hợp ở hạ\ncư hự, đều thuộc túc dương minh vị kinh.",
+      "confidence": 0.9985966107384208
+    },
+    {
+      "type": "text",
+      "img_path": "p0104_003_text.png",
+      "bbox": [
+        [
+          278,
+          2864
+        ],
+        [
+          2359,
+          2864
+        ],
+        [
+          2359,
+          3203
+        ],
+        [
+          278,
+          3203
+        ]
+      ],
+      "score": 0.9763384461402893,
+      "y_pos": 2864,
+      "text": "Thiên \"Bản luận\" lại nói: \"Đại trường, tiểu trường đều thuộc ở vị\", đó là nói công năng sinh lý\ntrên dưới tương thừa.bàng quang hợp ở Uỷ trung, tam tiêu hợp ở uỷ dương đều thuộc túc\nthái dương bàng quang kinh, là do thuỷ đạo ở tam tiêu xuất ra có quan hệ thuộc về bàng\nquang.Đảm hợp ở Dương lăng tuyền. Trên vừa kể là hạ hợp huyệt của bệnh lục phủ, hoặc\ngọi là \"Phủ bệnh hợp luân\".",
+      "confidence": 0.995384044183346
+    },
+    {
+      "type": "footer",
+      "img_path": "p0104_007_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1433,
+          3333
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.8823042511940002,
+      "y_pos": 3333,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0104_008_number.png",
+      "bbox": [
+        [
+          2332,
+          3341
+        ],
+        [
+          2356,
+          3341
+        ],
+        [
+          2356,
+          3376
+        ],
+        [
+          2332,
+          3376
+        ]
+      ],
+      "score": 0.8056672811508179,
+      "y_pos": 3341,
+      "text": "\n    \n    \n\n.\n\n\n\n\n\n\n        \n",
+      "confidence": 0.9669639538316166
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0104.png"
+}

@@ -1,0 +1,422 @@
+{
+  "page_num": 633,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0633_007_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2370,
+          143
+        ],
+        [
+          2370,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9186118245124817,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7452945528285844
+    },
+    {
+      "type": "header",
+      "img_path": "p0633_008_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1173,
+          152
+        ],
+        [
+          1173,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9127889275550842,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BÁNG NHIỆT ĐÔ KINH LẠC",
+      "confidence": 0.9935775246375647
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0633_015_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          329
+        ],
+        [
+          1629,
+          329
+        ],
+        [
+          1629,
+          384
+        ],
+        [
+          285,
+          384
+        ]
+      ],
+      "score": 0.5124730467796326,
+      "y_pos": 329,
+      "text": "Bảng quy nạp mô hình chỉ số nhiệt kinh lạc bệnh chứng",
+      "confidence": 0.9994055617939342
+    },
+    {
+      "type": "table",
+      "img_path": "p0633_014_table.png",
+      "bbox": [
+        [
+          227,
+          423
+        ],
+        [
+          2364,
+          423
+        ],
+        [
+          2364,
+          1138
+        ],
+        [
+          227,
+          1138
+        ]
+      ],
+      "score": 0.8043133020401001,
+      "y_pos": 423,
+      "text": "STT    오    bệnh nhân    tên    Tuổi    Ngày tháng năm đo    Nhiệt độ môi trường    thấp    nhất chi trên    nhất,    φġ    Nhiệt    cao    sô    giới hạn    trên    Sai    S<br>Si    Tiểu    Tâm    Tam    Tâm    bao    Đại    Phé    Nhiệt độ cao nhất, thấp nhất chi dưới    sô    giới hạn    dưới    chi    Sai    Bàng    Thận    Đảm    <u>:</u>    Can    \n2    3    4    5    6    7    8    9    10    11    12    13    14    15    16    17    18    19    20    21",
+      "confidence": 0.916623565745281
+    },
+    {
+      "type": "text",
+      "img_path": "p0633_013_text.png",
+      "bbox": [
+        [
+          298,
+          1171
+        ],
+        [
+          2086,
+          1171
+        ],
+        [
+          2086,
+          1225
+        ],
+        [
+          298,
+          1225
+        ]
+      ],
+      "score": 0.8391774296760559,
+      "y_pos": 1171,
+      "text": "\n    Cột 14: Nhiệt độ cao nhất và thấp nhất của chi dưới (lấy ở Ô1' và 2' bảng A).\n",
+      "confidence": 0.9879977622078461
+    },
+    {
+      "type": "text",
+      "img_path": "p0633_010_text.png",
+      "bbox": [
+        [
+          299,
+          1262
+        ],
+        [
+          1623,
+          1262
+        ],
+        [
+          1623,
+          1317
+        ],
+        [
+          299,
+          1317
+        ]
+      ],
+      "score": 0.8889184594154358,
+      "y_pos": 1262,
+      "text": "Cột 15: Sai số giới hạn của chi dưới (lấy ở Ô5' bảng A).",
+      "confidence": 0.9988207745140997
+    },
+    {
+      "type": "text",
+      "img_path": "p0633_004_text.png",
+      "bbox": [
+        [
+          299,
+          1355
+        ],
+        [
+          2359,
+          1355
+        ],
+        [
+          2359,
+          1479
+        ],
+        [
+          299,
+          1479
+        ]
+      ],
+      "score": 0.9577826261520386,
+      "y_pos": 1355,
+      "text": "• Từ cột 16 đến cột số 21 là số tương quan (gồm giá trị tuyệt đối và dấu) của các kinh chi\ndưới lần lượt từ Bàng, Thận, Đảm, Vị, Can, Tỳ (lấy ở cột 8' bảng A).",
+      "confidence": 0.9969090375748481
+    },
+    {
+      "type": "text",
+      "img_path": "p0633_001_text.png",
+      "bbox": [
+        [
+          280,
+          1519
+        ],
+        [
+          2361,
+          1519
+        ],
+        [
+          2361,
+          1783
+        ],
+        [
+          280,
+          1783
+        ]
+      ],
+      "score": 0.9791472554206848,
+      "y_pos": 1519,
+      "text": "Trong bảng qui nạp mô hình này ngoài giá trị tư liệu như: Tên người bệnh, giờ, ngày, tháng,\nnăm đo ra, thì nhiệt độ môi trường khi đo có thể dùng để xem xét khí hậu môi trường ảnh\nhưởng đến mức độ nào vào đời sống sinh học. Nhiệt độ cao nhất và thấp nhất của chi trên\nvà chi dưới cho ta biết khả năng thích nghi và tình trạng sức chính khí ở cơ thể người bệnh.",
+      "confidence": 0.9998058318849943
+    },
+    {
+      "type": "text",
+      "img_path": "p0633_002_text.png",
+      "bbox": [
+        [
+          280,
+          1820
+        ],
+        [
+          2361,
+          1820
+        ],
+        [
+          2361,
+          2018
+        ],
+        [
+          280,
+          2018
+        ]
+      ],
+      "score": 0.9754024147987366,
+      "y_pos": 1820,
+      "text": "Sai số giới hạn của chi là một chỉ số luôn đi kèm với số tương quan, nó là một số định\nchuẩn cho các số tương quan của các kinh trong chi, nhằm phân định ranh giới giữa sinh lý\nvà bệnh lý cho trạng thái công năng (hoạt động) của kinh.",
+      "confidence": 0.9996374313384351
+    },
+    {
+      "type": "text",
+      "img_path": "p0633_000_text.png",
+      "bbox": [
+        [
+          280,
+          2052
+        ],
+        [
+          2359,
+          2052
+        ],
+        [
+          2359,
+          2461
+        ],
+        [
+          280,
+          2461
+        ]
+      ],
+      "score": 0.985699474811554,
+      "y_pos": 2052,
+      "text": "Số tương quan là một chỉ số chủ chốt, đã được nói nhiều ở các phần trước. Số tương quan\ngồm hai thành phần cấu thành: giá trị tuyệt đối và dấu. Giá trị tuyệt đối của nó so sánh với\nsai số giới hạn, nếu <b>lớn hơn</b>: Trạng thái công năng của kinh là bệnh lý (BL); nếu <b>nhỏ hơn</b>:\nTrạng thái công năng của kinh còn đang là sinh lý. Dấu của nó, nếu là dấu âm (-) nghĩa là\ntrạng thái công năng của kinh thuộc nhiệt. Trường hợp số tương quan = 0, cần chú ý những\nkinh có biểu hiện đồng thời bên hàn, bên nhiệt.",
+      "confidence": 0.9987463880357281
+    },
+    {
+      "type": "text",
+      "img_path": "p0633_005_text.png",
+      "bbox": [
+        [
+          281,
+          2501
+        ],
+        [
+          2359,
+          2501
+        ],
+        [
+          2359,
+          2625
+        ],
+        [
+          281,
+          2625
+        ]
+      ],
+      "score": 0.9556105136871338,
+      "y_pos": 2501,
+      "text": "Cách thức tìm mô hình chỉ số nhiệt kinh lạc bệnh chứng qua một số ví dụ bảng qui nạp\nmô hình chỉ số nhiệt kinh lạc bệnh chứng.",
+      "confidence": 0.9949376548445502
+    },
+    {
+      "type": "text",
+      "img_path": "p0633_011_text.png",
+      "bbox": [
+        [
+          296,
+          2662
+        ],
+        [
+          2268,
+          2662
+        ],
+        [
+          2268,
+          2718
+        ],
+        [
+          296,
+          2718
+        ]
+      ],
+      "score": 0.8886975646018982,
+      "y_pos": 2662,
+      "text": "\n    Bảng qui nạp mô hình chỉ số nhiệt kinh lạc bệnh thoái hóa đốt sống cổ. (trang 867).\n",
+      "confidence": 0.988848303982971
+    },
+    {
+      "type": "text",
+      "img_path": "p0633_006_text.png",
+      "bbox": [
+        [
+          365,
+          2755
+        ],
+        [
+          2362,
+          2755
+        ],
+        [
+          2362,
+          2878
+        ],
+        [
+          365,
+          2878
+        ]
+      ],
+      "score": 0.9498600363731384,
+      "y_pos": 2755,
+      "text": "Trong bảng này qui nạp chỉ số nhiệt của ba bệnh nhân, nam nữ khác nhau, tuổi tác khác\nnhau. Ta nhận thấy những điểm chung ở 3 bệnh nhân như sau:",
+      "confidence": 0.9993923300812985
+    },
+    {
+      "type": "text",
+      "img_path": "p0633_003_text.png",
+      "bbox": [
+        [
+          367,
+          2916
+        ],
+        [
+          2359,
+          2916
+        ],
+        [
+          2359,
+          3114
+        ],
+        [
+          367,
+          3114
+        ]
+      ],
+      "score": 0.9715254306793213,
+      "y_pos": 2916,
+      "text": "+ Kinh Tiểu trường: đều có số tương quan với giá trị tuyệt đối lớn hơn sai số giới hạn (là\nở mức bệnh lý) và mang dấu âm (là hàn). Nghĩa là kinh Tiểu trường đang ở trạng thái\nhàn bệnh lý, <b>ta ghi</b>: Tiểu trường (-BL).",
+      "confidence": 0.9986867504056155
+    },
+    {
+      "type": "number",
+      "img_path": "p0633_012_number.png",
+      "bbox": [
+        [
+          2305,
+          3336
+        ],
+        [
+          2354,
+          3336
+        ],
+        [
+          2354,
+          3374
+        ],
+        [
+          2305,
+          3374
+        ]
+      ],
+      "score": 0.8499265909194946,
+      "y_pos": 3336,
+      "text": "    \n    \n    \n\n    \n    \n.\n\n\n        \n",
+      "confidence": 0.9673913253678216
+    },
+    {
+      "type": "footer",
+      "img_path": "p0633_009_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.8958741426467896,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987586095647992
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0633.png"
+}

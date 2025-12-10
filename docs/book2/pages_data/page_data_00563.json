@@ -1,0 +1,630 @@
+{
+  "page_num": 563,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0563_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9234880208969116,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0563_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1468,
+          152
+        ],
+        [
+          1468,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9262452721595764,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TÂN. KỲ HUYỆT",
+      "confidence": 0.9977769827842713
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0563_004_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          325
+        ],
+        [
+          849,
+          325
+        ],
+        [
+          849,
+          382
+        ],
+        [
+          227,
+          382
+        ]
+      ],
+      "score": 0.8004661798477173,
+      "y_pos": 325,
+      "text": "Phần 11. BÊNH CHI DƯỚI",
+      "confidence": 0.8684325690070788
+    },
+    {
+      "type": "text",
+      "img_path": "p0563_019_text.png",
+      "bbox": [
+        [
+          231,
+          420
+        ],
+        [
+          1421,
+          420
+        ],
+        [
+          1421,
+          476
+        ],
+        [
+          231,
+          476
+        ]
+      ],
+      "score": 0.5239485502243042,
+      "y_pos": 420,
+      "text": "169. Bệnh tật ở chi dưới: Giáp tích L2-S2, Yêu căn.",
+      "confidence": 0.9980342050768295
+    },
+    {
+      "type": "text",
+      "img_path": "p0563_006_text.png",
+      "bbox": [
+        [
+          234,
+          601
+        ],
+        [
+          2363,
+          601
+        ],
+        [
+          2363,
+          802
+        ],
+        [
+          234,
+          802
+        ]
+      ],
+      "score": 0.6409529447555542,
+      "y_pos": 601,
+      "text": "171. Đau thần kinh tọa: Lăng hậu, Lăng hậu hạ, Ngũ hổ, Đồn trung, Hoàn khiêu, Giang môn\ntứ huyệt (múi 3 giờ và 6 giờ), Âm cang, Dương cang, Ân thượng, Ân hạ, Thập thất chùy\nhạ, Bế khổng, Tọa cốt, Thượng Phong thị, Tân Hoàn khiêu.",
+      "confidence": 0.9960305006453848
+    },
+    {
+      "type": "text",
+      "img_path": "p0563_022_text.png",
+      "bbox": [
+        [
+          235,
+          834
+        ],
+        [
+          1755,
+          834
+        ],
+        [
+          1755,
+          894
+        ],
+        [
+          235,
+          894
+        ]
+      ],
+      "score": 0.5216718912124634,
+      "y_pos": 834,
+      "text": "172. Bại liệt do Hysteria: Âm ủy 1, 2, 3, Tứ liên, Ngũ linh, Linh bảo.",
+      "confidence": 0.9994801373945342
+    },
+    {
+      "type": "text",
+      "img_path": "p0563_017_text.png",
+      "bbox": [
+        [
+          236,
+          927
+        ],
+        [
+          1127,
+          927
+        ],
+        [
+          1127,
+          986
+        ],
+        [
+          236,
+          986
+        ]
+      ],
+      "score": 0.5374810695648193,
+      "y_pos": 927,
+      "text": "173. Chi dưới liệt một bên: Đồn trung.",
+      "confidence": 0.9991202741861344
+    },
+    {
+      "type": "text",
+      "img_path": "p0563_016_text.png",
+      "bbox": [
+        [
+          236,
+          1019
+        ],
+        [
+          1467,
+          1019
+        ],
+        [
+          1467,
+          1079
+        ],
+        [
+          236,
+          1079
+        ]
+      ],
+      "score": 0.5449694991111755,
+      "y_pos": 1019,
+      "text": "174. Chi dưới thấp khớp mạn tính: Thiếu dương duy.",
+      "confidence": 0.9995097861840174
+    },
+    {
+      "type": "text",
+      "img_path": "p0563_014_text.png",
+      "bbox": [
+        [
+          237,
+          1111
+        ],
+        [
+          985,
+          1111
+        ],
+        [
+          985,
+          1167
+        ],
+        [
+          237,
+          1167
+        ]
+      ],
+      "score": 0.5500712990760803,
+      "y_pos": 1111,
+      "text": "175. Chi dưới lở loét: Tất ngoại.",
+      "confidence": 0.9988206795283726
+    },
+    {
+      "type": "text",
+      "img_path": "p0563_020_text.png",
+      "bbox": [
+        [
+          236,
+          1203
+        ],
+        [
+          992,
+          1203
+        ],
+        [
+          992,
+          1260
+        ],
+        [
+          236,
+          1260
+        ]
+      ],
+      "score": 0.5231351852416992,
+      "y_pos": 1203,
+      "text": "176. Thấp khớp: Bách trùng sào.",
+      "confidence": 0.9987224846175222
+    },
+    {
+      "type": "text",
+      "img_path": "p0563_008_text.png",
+      "bbox": [
+        [
+          234,
+          1387
+        ],
+        [
+          2365,
+          1387
+        ],
+        [
+          2365,
+          1514
+        ],
+        [
+          234,
+          1514
+        ]
+      ],
+      "score": 0.6125285625457764,
+      "y_pos": 1387,
+      "text": "178. Chi dưới tê bại, bại liệt: Tân hoàn khiêu, Khách tân trung, Than khang, Than lập, Trị\nthan 6, Than phục, Tứ cường, Kiện tất, Thượng Dương quan.",
+      "confidence": 0.9996718260883055
+    },
+    {
+      "type": "text",
+      "img_path": "p0563_007_text.png",
+      "bbox": [
+        [
+          235,
+          1549
+        ],
+        [
+          2365,
+          1549
+        ],
+        [
+          2365,
+          1676
+        ],
+        [
+          235,
+          1676
+        ]
+      ],
+      "score": 0.6138270497322083,
+      "y_pos": 1549,
+      "text": "179. Chi dưới bại liệt: Thận tích, Lăng hậu, Lăng hậu hạ, Túc trung bình, Khoan cốt, Ngoại\nÂm liêm, Cơ hạ, Tọa cốt, Lan vĩ, Hậu dương quan, Ân hạ, Khách hậu thượng cức.",
+      "confidence": 0.9961194820296129
+    },
+    {
+      "type": "text",
+      "img_path": "p0563_005_text.png",
+      "bbox": [
+        [
+          235,
+          1804
+        ],
+        [
+          2359,
+          1804
+        ],
+        [
+          2359,
+          1999
+        ],
+        [
+          235,
+          1999
+        ]
+      ],
+      "score": 0.6421785354614258,
+      "y_pos": 1804,
+      "text": "181. Liệt do thần kinh bị chèn ép: Ngũ chỉ huyệt, Chỉ bình, Khỏa tam châm, Tất tam châm,\nCường khố, Tiền tiến, Kiên khố, Triệt than hoãn kinh điểm, Đê vị, Triệt thượng, Triệt hạ,\nĐê vị du, Cao vị du, Chế cao.",
+      "confidence": 0.9959436493967947
+    },
+    {
+      "type": "text",
+      "img_path": "p0563_023_text.png",
+      "bbox": [
+        [
+          236,
+          2127
+        ],
+        [
+          1142,
+          2127
+        ],
+        [
+          1142,
+          2183
+        ],
+        [
+          236,
+          2183
+        ]
+      ],
+      "score": 0.5214996337890625,
+      "y_pos": 2127,
+      "text": "183. Đau thần kinh đùi: Ngoại Âm liêm.",
+      "confidence": 0.984782575070858
+    },
+    {
+      "type": "text",
+      "img_path": "p0563_015_text.png",
+      "bbox": [
+        [
+          236,
+          2220
+        ],
+        [
+          937,
+          2220
+        ],
+        [
+          937,
+          2275
+        ],
+        [
+          236,
+          2275
+        ]
+      ],
+      "score": 0.5484583377838135,
+      "y_pos": 2220,
+      "text": "184. Viêm hạch bẹn: Thử khê.",
+      "confidence": 0.9894295156002044
+    },
+    {
+      "type": "text",
+      "img_path": "p0563_021_text.png",
+      "bbox": [
+        [
+          235,
+          2312
+        ],
+        [
+          1155,
+          2312
+        ],
+        [
+          1155,
+          2368
+        ],
+        [
+          235,
+          2368
+        ]
+      ],
+      "score": 0.5224447250366211,
+      "y_pos": 2312,
+      "text": "185. Giảm sức cơ khép háng: Thử khê.",
+      "confidence": 0.9989471231636248
+    },
+    {
+      "type": "text",
+      "img_path": "p0563_013_text.png",
+      "bbox": [
+        [
+          234,
+          2402
+        ],
+        [
+          2115,
+          2402
+        ],
+        [
+          2115,
+          2461
+        ],
+        [
+          234,
+          2461
+        ]
+      ],
+      "score": 0.5598234534263611,
+      "y_pos": 2402,
+      "text": "186. Bệnh não gây ra hai đùi bắt chéo như cái lưỡi kéo: Hậu Huyết hải, Giải tiền.",
+      "confidence": 0.9993841389575636
+    },
+    {
+      "type": "text",
+      "img_path": "p0563_012_text.png",
+      "bbox": [
+        [
+          236,
+          2497
+        ],
+        [
+          1345,
+          2497
+        ],
+        [
+          1345,
+          2554
+        ],
+        [
+          236,
+          2554
+        ]
+      ],
+      "score": 0.56088787317276,
+      "y_pos": 2497,
+      "text": "187. Đau đùi: Đĩnh yêu, Khê thượng, Hoàn trung.",
+      "confidence": 0.9996604359879786
+    },
+    {
+      "type": "text",
+      "img_path": "p0563_011_text.png",
+      "bbox": [
+        [
+          236,
+          2585
+        ],
+        [
+          1155,
+          2585
+        ],
+        [
+          1155,
+          2644
+        ],
+        [
+          236,
+          2644
+        ]
+      ],
+      "score": 0.5611369609832764,
+      "y_pos": 2585,
+      "text": "188. Nâng và khép đùi yếu sức: Cơ hạ.",
+      "confidence": 0.989221392533718
+    },
+    {
+      "type": "text",
+      "img_path": "p0563_009_text.png",
+      "bbox": [
+        [
+          236,
+          2677
+        ],
+        [
+          1395,
+          2677
+        ],
+        [
+          1395,
+          2737
+        ],
+        [
+          236,
+          2737
+        ]
+      ],
+      "score": 0.5890246629714966,
+      "y_pos": 2677,
+      "text": "189. Di chứng bại liệt, trẻ em đau đùi: Ủy thượng.",
+      "confidence": 0.9952967281524951
+    },
+    {
+      "type": "text",
+      "img_path": "p0563_018_text.png",
+      "bbox": [
+        [
+          236,
+          2769
+        ],
+        [
+          911,
+          2769
+        ],
+        [
+          911,
+          2826
+        ],
+        [
+          236,
+          2826
+        ]
+      ],
+      "score": 0.5269843339920044,
+      "y_pos": 2769,
+      "text": "190. Đau đầu gối đùi: Túc la.",
+      "confidence": 0.9918933376189201
+    },
+    {
+      "type": "text",
+      "img_path": "p0563_010_text.png",
+      "bbox": [
+        [
+          234,
+          3045
+        ],
+        [
+          2365,
+          3045
+        ],
+        [
+          2365,
+          3172
+        ],
+        [
+          234,
+          3172
+        ]
+      ],
+      "score": 0.5717533826828003,
+      "y_pos": 3045,
+      "text": "193. Viêm khớp gối: Thượng Dương quan, Khoan cốt, Tất tam châm, Khách tân trung, Đại\nluân, Túc minh, Lăng hậu hạ, Lăng hậu, Thành cốt, Tất ngoại.",
+      "confidence": 0.9941584064226265
+    },
+    {
+      "type": "number",
+      "img_path": "p0563_003_number.png",
+      "bbox": [
+        [
+          2319,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2319,
+          3374
+        ]
+      ],
+      "score": 0.8646557331085205,
+      "y_pos": 3337,
+      "text": "    \n    \n\n\n\n\n\n\n    \n\n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0563_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1324,
+          3340
+        ],
+        [
+          1324,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.9140068888664246,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9988329028183559
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0563.png"
+}

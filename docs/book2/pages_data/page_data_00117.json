@@ -1,0 +1,472 @@
+{
+  "page_num": 117,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0117_007_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9239127039909363,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7576541084618795
+    },
+    {
+      "type": "header",
+      "img_path": "p0117_009_header.png",
+      "bbox": [
+        [
+          229,
+          154
+        ],
+        [
+          601,
+          154
+        ],
+        [
+          601,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9111904501914978,
+      "y_pos": 154,
+      "text": "CÁCH CHÂM CỬU",
+      "confidence": 0.9809228261311849
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0117_010_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          363
+        ],
+        [
+          506,
+          363
+        ],
+        [
+          506,
+          414
+        ],
+        [
+          225,
+          414
+        ]
+      ],
+      "score": 0.9074409008026123,
+      "y_pos": 363,
+      "text": "CÁCH CỬU",
+      "confidence": 0.9598388552665711
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0117_013_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          462
+        ],
+        [
+          811,
+          462
+        ],
+        [
+          811,
+          508
+        ],
+        [
+          225,
+          508
+        ]
+      ],
+      "score": 0.8919100761413574,
+      "y_pos": 462,
+      "text": "A. Thuốc cứu và cách chế",
+      "confidence": 0.9540352683800918
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_003_text.png",
+      "bbox": [
+        [
+          281,
+          550
+        ],
+        [
+          2354,
+          550
+        ],
+        [
+          2354,
+          678
+        ],
+        [
+          281,
+          678
+        ]
+      ],
+      "score": 0.9625903367996216,
+      "y_pos": 550,
+      "text": "Thuốc cứu là lá ngải để lâu năm cho vào cối giã nhỏ thành xơ như nhung, có màu vàng nhạt\nTừ ngải nhung chế thành mồi ngải hoặc điếu ngải mà sử dụng.",
+      "confidence": 0.9997502478474042
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0117_008_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          712
+        ],
+        [
+          796,
+          712
+        ],
+        [
+          796,
+          764
+        ],
+        [
+          286,
+          764
+        ]
+      ],
+      "score": 0.9143404364585876,
+      "y_pos": 712,
+      "text": "1. Cách chế mồi ngải",
+      "confidence": 0.9221522645516829
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_001_text.png",
+      "bbox": [
+        [
+          278,
+          805
+        ],
+        [
+          2357,
+          805
+        ],
+        [
+          2357,
+          1074
+        ],
+        [
+          278,
+          1074
+        ]
+      ],
+      "score": 0.979908287525177,
+      "y_pos": 805,
+      "text": "Cấu một dúm ngải nhung khoảng bằng hột ngô, đặt lên mặt ván gỗ, dùng ba ngón tay cái, trỏ\nvà giữa chụm ngải nhung lại và ấn thành khối có hình tháp chóp ba cạnh, ấn hơi chắc mồi\ncho khỏi rã ra.Mồi to, nhỏ tuỳ theo bệnh tình và nơi cứu mà định. Nhỏ thì như hạt lúa, vừa thì\nbằng hạt ngô, lớn thì bằng quả táo. Mỗi một mồi cũng còn gọi là một tráng.",
+      "confidence": 0.9641398294295727
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0117_006_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          1109
+        ],
+        [
+          807,
+          1109
+        ],
+        [
+          807,
+          1161
+        ],
+        [
+          284,
+          1161
+        ]
+      ],
+      "score": 0.9248867630958557,
+      "y_pos": 1109,
+      "text": "2. Cách chế điếu ngải",
+      "confidence": 0.9974110878032186
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0117_016_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          1201
+        ],
+        [
+          733,
+          1201
+        ],
+        [
+          733,
+          1255
+        ],
+        [
+          283,
+          1255
+        ]
+      ],
+      "score": 0.8056718707084656,
+      "y_pos": 1201,
+      "text": "Dùng chế điếu ngải",
+      "confidence": 0.975254687666893
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_000_text.png",
+      "bbox": [
+        [
+          279,
+          1293
+        ],
+        [
+          2357,
+          1293
+        ],
+        [
+          2357,
+          1703
+        ],
+        [
+          279,
+          1703
+        ]
+      ],
+      "score": 0.9857834577560425,
+      "y_pos": 1293,
+      "text": "Dùng một miếng giấy bản mịn, mềm, dễ bén lửa và thông khí, có hình chữ nhật rộng chừng\n4 thốn, dài chừng 6 thốn, lấy khoảng 20 gam ngải nhung rải đều, trên mặt giấy, lấy miếng\nván mỏng ép cho mịn, chặt đều, các mép xung quanh đều để lộ giấy ra nửa thốn. Lấy một\nsợi thép cứng mà nhẵn bóng để lên mép giấy làm lõi, từ từ cuộn vào. Khi cuộn hết thì dùng\ntay hoặc mảnh gỗ ép lăn thêm cho chặt hơn, bấy giờ rút sợi thép ra rồi dùng hồ dán lại, thế\nlà thành một điểu ngải to gần bằng ngón tay. (H30)",
+      "confidence": 0.999180397770575
+    },
+    {
+      "type": "image",
+      "img_path": "p0117_004_image.png",
+      "bbox": [
+        [
+          794,
+          1755
+        ],
+        [
+          1848,
+          1755
+        ],
+        [
+          1848,
+          2177
+        ],
+        [
+          794,
+          2177
+        ]
+      ],
+      "score": 0.9523616433143616,
+      "y_pos": 1755
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0117_017_figure_title.png",
+      "bbox": [
+        [
+          976,
+          2219
+        ],
+        [
+          1345,
+          2219
+        ],
+        [
+          1345,
+          2271
+        ],
+        [
+          976,
+          2271
+        ]
+      ],
+      "score": 0.7127588391304016,
+      "y_pos": 2219,
+      "text": "CÁCH LÀM ĐIỀU NGÁI",
+      "confidence": 0.9519819617271423
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0117_015_figure_title.png",
+      "bbox": [
+        [
+          1025,
+          2363
+        ],
+        [
+          1622,
+          2363
+        ],
+        [
+          1622,
+          2412
+        ],
+        [
+          1025,
+          2412
+        ]
+      ],
+      "score": 0.8408737778663635,
+      "y_pos": 2363,
+      "text": "Hình 30. Cách làm điếu ngải",
+      "confidence": 0.9933481052004057
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0117_005_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2455
+        ],
+        [
+          695,
+          2455
+        ],
+        [
+          695,
+          2501
+        ],
+        [
+          226,
+          2501
+        ]
+      ],
+      "score": 0.9302738904953003,
+      "y_pos": 2455,
+      "text": "B. Thao tác cứu ngải",
+      "confidence": 0.8794292184439573
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0117_012_paragraph_title.png",
+      "bbox": [
+        [
+          287,
+          2543
+        ],
+        [
+          674,
+          2543
+        ],
+        [
+          674,
+          2594
+        ],
+        [
+          287,
+          2594
+        ]
+      ],
+      "score": 0.8930821418762207,
+      "y_pos": 2543,
+      "text": "1. Cứu trực tiếp",
+      "confidence": 0.9007148444652557
+    },
+    {
+      "type": "text",
+      "img_path": "p0117_002_text.png",
+      "bbox": [
+        [
+          279,
+          2634
+        ],
+        [
+          2355,
+          2634
+        ],
+        [
+          2355,
+          2829
+        ],
+        [
+          279,
+          2829
+        ]
+      ],
+      "score": 0.9727901816368103,
+      "y_pos": 2634,
+      "text": "Đem mồi ngải đã chế đặt lên trên huyệt vị, dùng hương đặt lên đầu nhọn của mồi ngải thổi\nnhẹ cho bén lửa. Khi mồi ngải cháy khoảng hai phần ba chiều cao, bệnh nhân kêu thấy nóng\nhơi nhiều thì bỏ ra, lại thay mồi khác. (H31)",
+      "confidence": 0.9989259716936507
+    },
+    {
+      "type": "footer",
+      "img_path": "p0117_011_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9049544334411621,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0117_014_number.png",
+      "bbox": [
+        [
+          2301,
+          3339
+        ],
+        [
+          2346,
+          3339
+        ],
+        [
+          2346,
+          3377
+        ],
+        [
+          2301,
+          3377
+        ]
+      ],
+      "score": 0.8553134202957153,
+      "y_pos": 3339,
+      "text": "    \n\n\n\n\n\n\n\n    \n\n\n\n٠.\n\n",
+      "confidence": 0.9693136425579295
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0117.png"
+}

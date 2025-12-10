@@ -1,0 +1,578 @@
+{
+  "page_num": 671,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0671_014_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9223507046699524,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0671_017_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9112685322761536,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "text",
+      "img_path": "p0671_003_text.png",
+      "bbox": [
+        [
+          279,
+          308
+        ],
+        [
+          2359,
+          308
+        ],
+        [
+          2359,
+          430
+        ],
+        [
+          279,
+          430
+        ]
+      ],
+      "score": 0.9663897752761841,
+      "y_pos": 308,
+      "text": "đang có trạng thái bệnh lý đi kèm (là những kinh có số tương quan mà giá trị tuyệt đối lớn\nhơn sai số giới hạn), để phân định các thể bệnh tình chí như sau:",
+      "confidence": 0.9997099843613517
+    },
+    {
+      "type": "text",
+      "img_path": "p0671_007_text.png",
+      "bbox": [
+        [
+          297,
+          469
+        ],
+        [
+          2360,
+          469
+        ],
+        [
+          2360,
+          589
+        ],
+        [
+          297,
+          589
+        ]
+      ],
+      "score": 0.9645652770996094,
+      "y_pos": 469,
+      "text": "• Tâm (+BL), giá trị tuyệt đối số tương quan kinh Tâm lớn hơn kinh Tâm bào, Phế (BL); là\nbênh <b>do buồn</b> mà thành.",
+      "confidence": 0.9968367308887661
+    },
+    {
+      "type": "text",
+      "img_path": "p0671_004_text.png",
+      "bbox": [
+        [
+          298,
+          632
+        ],
+        [
+          2362,
+          632
+        ],
+        [
+          2362,
+          756
+        ],
+        [
+          298,
+          756
+        ]
+      ],
+      "score": 0.9654112458229065,
+      "y_pos": 632,
+      "text": "• Tâm (+BL), giá trị tuyệt đối số tương quan kinh Tâm lớn hơn kinh Tâm bào, Phế (BL), Tỳ\n(BL): là bệnh <b>do nghi ngờ</b> mà thành.",
+      "confidence": 0.9912557350009934
+    },
+    {
+      "type": "text",
+      "img_path": "p0671_008_text.png",
+      "bbox": [
+        [
+          298,
+          794
+        ],
+        [
+          2358,
+          794
+        ],
+        [
+          2358,
+          916
+        ],
+        [
+          298,
+          916
+        ]
+      ],
+      "score": 0.9645606875419617,
+      "y_pos": 794,
+      "text": "• Tâm (+BL), giá trị tuyệt đối số tương quan kinh Tâm lớn hơn kinh Tâm bào, Phế (BL),\nCan (BL): là bênh <b>do tức giân</b> mà thành.",
+      "confidence": 0.9897048456071055
+    },
+    {
+      "type": "text",
+      "img_path": "p0671_006_text.png",
+      "bbox": [
+        [
+          298,
+          957
+        ],
+        [
+          2358,
+          957
+        ],
+        [
+          2358,
+          1079
+        ],
+        [
+          298,
+          1079
+        ]
+      ],
+      "score": 0.9647014737129211,
+      "y_pos": 957,
+      "text": "• Tâm (+BL), giá trị tuyệt đối số tương quan kinh Tâm lớn hơn kinh Tâm bào, Phế (BL),\nThân (BL): là bênh <b>do tiếc nuối</b> mà thành.",
+      "confidence": 0.9930891815729981
+    },
+    {
+      "type": "text",
+      "img_path": "p0671_001_text.png",
+      "bbox": [
+        [
+          299,
+          1120
+        ],
+        [
+          2359,
+          1120
+        ],
+        [
+          2359,
+          1309
+        ],
+        [
+          299,
+          1309
+        ]
+      ],
+      "score": 0.9761629104614258,
+      "y_pos": 1120,
+      "text": "• Tâm (+BL), giá trị tuyệt đối số tương quan kinh Tâm lớn hơn kinh Tâm bào, Tâm bào\n(BL), Thận (BL), Đảm (BL), Can (BL) là chứng tâm thần phân lập do tình dục cang\n<b>tiến</b> mà thành.",
+      "confidence": 0.9882572277078211
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0671_016_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          1353
+        ],
+        [
+          1208,
+          1353
+        ],
+        [
+          1208,
+          1405
+        ],
+        [
+          224,
+          1405
+        ]
+      ],
+      "score": 0.9167733192443848,
+      "y_pos": 1353,
+      "text": "Đ. Nhận định về bệnh công năng đặc thù",
+      "confidence": 0.9970428958535195
+    },
+    {
+      "type": "text",
+      "img_path": "p0671_000_text.png",
+      "bbox": [
+        [
+          220,
+          1445
+        ],
+        [
+          2359,
+          1445
+        ],
+        [
+          2359,
+          1923
+        ],
+        [
+          220,
+          1923
+        ]
+      ],
+      "score": 0.986634373664856,
+      "y_pos": 1445,
+      "text": "Bệnh công năng do các tạng phủ kết hợp với nhau từ ít đến nhiều, ở người bệnh khác nhau\ntình trạng bệnh lại thay đổi khác nhau, do vậy mà có nhiều thể lâm sàng hoặc đặc thù hoặc đan\nxen vào nhau. Ở trong phần này, tôi xin nêu cụ thể một số mô hình chỉ số nhiệt kinh lạc của\nbệnh công năng thể đặc thù, để giúp nhận định bước đầu trong những trường hợp rõ rệt, còn\nvề lâu dài, bằng vốn hiểu biết của mình về học thuyết Tạng phủ và Tạng phủ biện chứng luận\ntrị, kết hợp với kinh nghiệm thực tế lâm sàng, mỗi thầy thuốc tự lập lấy nhiều mô hình chỉ số\nnhiệt kinh lạc cho nhiều thể lâm sàng, để trợ giúp cho chẩn đoán sau này đạt hiệu quả cao.",
+      "confidence": 0.9978238716418418
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0671_021_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          1962
+        ],
+        [
+          1779,
+          1962
+        ],
+        [
+          1779,
+          2012
+        ],
+        [
+          283,
+          2012
+        ]
+      ],
+      "score": 0.6748034954071045,
+      "y_pos": 1962,
+      "text": "Các mô hình chỉ số nhiệt kinh lạc của bệnh công năng đặc thù",
+      "confidence": 0.9994667653114565
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0671_019_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          2054
+        ],
+        [
+          750,
+          2054
+        ],
+        [
+          750,
+          2103
+        ],
+        [
+          285,
+          2103
+        ]
+      ],
+      "score": 0.8689039349555969,
+      "y_pos": 2054,
+      "text": "4    Chứng cảm sốt",
+      "confidence": 0.8072167764107386
+    },
+    {
+      "type": "text",
+      "img_path": "p0671_002_text.png",
+      "bbox": [
+        [
+          393,
+          2143
+        ],
+        [
+          2360,
+          2143
+        ],
+        [
+          2360,
+          2338
+        ],
+        [
+          393,
+          2338
+        ]
+      ],
+      "score": 0.9757586717605591,
+      "y_pos": 2143,
+      "text": "Tâm (+BL), Phế (+BL), Can (+BL), Tỳ (+BL): là bệnh ngoại cảm thời khí. Nếu có thêm\nVị (+BL), Đại trường (+BL): là nhiệt đã vào khí phần. Nếu lại thấy thêm Tam tiêu (+BL),\nTâm bào (+BL) là nhiệt đã vào doanh phần và huyết phần, có nhiệt nhập Tâm bào.",
+      "confidence": 0.9959820798999361
+    },
+    {
+      "type": "text",
+      "img_path": "p0671_015_text.png",
+      "bbox": [
+        [
+          297,
+          2378
+        ],
+        [
+          1466,
+          2378
+        ],
+        [
+          1466,
+          2430
+        ],
+        [
+          297,
+          2430
+        ]
+      ],
+      "score": 0.92010897397995,
+      "y_pos": 2378,
+      "text": "2. Chứng cơ bắp nhức mỏi: Can (+BL), Tỳ (+BL).",
+      "confidence": 0.8583776404460272
+    },
+    {
+      "type": "text",
+      "img_path": "p0671_013_text.png",
+      "bbox": [
+        [
+          297,
+          2469
+        ],
+        [
+          1696,
+          2469
+        ],
+        [
+          1696,
+          2522
+        ],
+        [
+          297,
+          2522
+        ]
+      ],
+      "score": 0.9265170097351074,
+      "y_pos": 2469,
+      "text": "3. Chứng cơ bắp mềm nhẽo, gầy mòn: Can (-BL), Tỳ (-BL).",
+      "confidence": 0.883977544935126
+    },
+    {
+      "type": "text",
+      "img_path": "p0671_011_text.png",
+      "bbox": [
+        [
+          297,
+          2562
+        ],
+        [
+          1583,
+          2562
+        ],
+        [
+          1583,
+          2613
+        ],
+        [
+          297,
+          2613
+        ]
+      ],
+      "score": 0.93128901720047,
+      "y_pos": 2562,
+      "text": "4. Chứng hẹp môn vị: Vị (+BL), Can (+BL), Đảm (+BL).",
+      "confidence": 0.9865750549016176
+    },
+    {
+      "type": "text",
+      "img_path": "p0671_010_text.png",
+      "bbox": [
+        [
+          297,
+          2654
+        ],
+        [
+          1734,
+          2654
+        ],
+        [
+          1734,
+          2706
+        ],
+        [
+          297,
+          2706
+        ]
+      ],
+      "score": 0.9328362345695496,
+      "y_pos": 2654,
+      "text": "5. Chứng gan lách sưng to: Can (+BL), Tỳ (+BL), Đảm (-BL).",
+      "confidence": 0.9949426651000977
+    },
+    {
+      "type": "text",
+      "img_path": "p0671_012_text.png",
+      "bbox": [
+        [
+          297,
+          2744
+        ],
+        [
+          1826,
+          2744
+        ],
+        [
+          1826,
+          2797
+        ],
+        [
+          297,
+          2797
+        ]
+      ],
+      "score": 0.9297264218330383,
+      "y_pos": 2744,
+      "text": "6. Chứng lưng đau khó cúi xuống: Bàng quang (-BL), Can (+BL).",
+      "confidence": 0.992761544764988
+    },
+    {
+      "type": "text",
+      "img_path": "p0671_005_text.png",
+      "bbox": [
+        [
+          298,
+          2834
+        ],
+        [
+          2360,
+          2834
+        ],
+        [
+          2360,
+          2961
+        ],
+        [
+          298,
+          2961
+        ]
+      ],
+      "score": 0.9650309681892395,
+      "y_pos": 2834,
+      "text": "7. Chứng lưng đau khó ngửa lên: Bàng quang (+BL), Can (+BL). Nếu có thêm Phế\n(+BL), Thận (+BL): là lưng đã còng gù.",
+      "confidence": 0.9897293551036945
+    },
+    {
+      "type": "text",
+      "img_path": "p0671_009_text.png",
+      "bbox": [
+        [
+          298,
+          2998
+        ],
+        [
+          2357,
+          2998
+        ],
+        [
+          2357,
+          3122
+        ],
+        [
+          298,
+          3122
+        ]
+      ],
+      "score": 0.9473418593406677,
+      "y_pos": 2998,
+      "text": "8. Chứng mệnh môn hoả vượng, tình dục tăng tiến: Đảm (+BL), Thận (+BL), Can (+BL),\nTỳ (+BL).",
+      "confidence": 0.96268007230191
+    },
+    {
+      "type": "number",
+      "img_path": "p0671_020_number.png",
+      "bbox": [
+        [
+          2305,
+          3336
+        ],
+        [
+          2354,
+          3336
+        ],
+        [
+          2354,
+          3374
+        ],
+        [
+          2305,
+          3374
+        ]
+      ],
+      "score": 0.854310929775238,
+      "y_pos": 3336,
+      "text": "    \n\n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0671_018_footer.png",
+      "bbox": [
+        [
+          227,
+          3339
+        ],
+        [
+          1323,
+          3339
+        ],
+        [
+          1323,
+          3388
+        ],
+        [
+          227,
+          3388
+        ]
+      ],
+      "score": 0.9027695655822754,
+      "y_pos": 3339,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.998733752178696
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0671.png"
+}

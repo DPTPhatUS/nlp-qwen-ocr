@@ -1,0 +1,734 @@
+{
+  "page_num": 564,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0564_000_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.924241304397583,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0564_001_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1468,
+          152
+        ],
+        [
+          1468,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9234702587127686,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TÂN. KỲ HUYỆT",
+      "confidence": 0.9977769827842713
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_023_text.png",
+      "bbox": [
+        [
+          232,
+          309
+        ],
+        [
+          1216,
+          309
+        ],
+        [
+          1216,
+          361
+        ],
+        [
+          232,
+          361
+        ]
+      ],
+      "score": 0.740283191204071,
+      "y_pos": 309,
+      "text": "194. Co rút cơ phi dương: Trị chuyển cân.",
+      "confidence": 0.9177722182384757
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_017_text.png",
+      "bbox": [
+        [
+          233,
+          401
+        ],
+        [
+          1122,
+          401
+        ],
+        [
+          1122,
+          453
+        ],
+        [
+          233,
+          453
+        ]
+      ],
+      "score": 0.7755860090255737,
+      "y_pos": 401,
+      "text": "195. Đau thần kinh mác: Lăng hậu hạ.",
+      "confidence": 0.9874604909043563
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_011_text.png",
+      "bbox": [
+        [
+          233,
+          492
+        ],
+        [
+          1134,
+          492
+        ],
+        [
+          1134,
+          545
+        ],
+        [
+          233,
+          545
+        ]
+      ],
+      "score": 0.8086580038070679,
+      "y_pos": 492,
+      "text": "196. Co rút bắp chân dưới: Ngọc điền.",
+      "confidence": 0.9859220920464932
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_008_text.png",
+      "bbox": [
+        [
+          234,
+          582
+        ],
+        [
+          1357,
+          582
+        ],
+        [
+          1357,
+          636
+        ],
+        [
+          234,
+          636
+        ]
+      ],
+      "score": 0.8181264996528625,
+      "y_pos": 582,
+      "text": "197. Co rút cạnh trong bắp chân: Nội khỏa tiêm.",
+      "confidence": 0.9814809512118904
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_013_text.png",
+      "bbox": [
+        [
+          234,
+          675
+        ],
+        [
+          1628,
+          675
+        ],
+        [
+          1628,
+          731
+        ],
+        [
+          234,
+          731
+        ]
+      ],
+      "score": 0.7822094559669495,
+      "y_pos": 675,
+      "text": "198. Bại liệt trẻ em bàn chân bai ra ngoài: Củ ngoại thương.",
+      "confidence": 0.9996126822886928
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_018_text.png",
+      "bbox": [
+        [
+          234,
+          767
+        ],
+        [
+          1397,
+          767
+        ],
+        [
+          1397,
+          821
+        ],
+        [
+          234,
+          821
+        ]
+      ],
+      "score": 0.7750799655914307,
+      "y_pos": 767,
+      "text": "199. Bàn chân bai ra ngoài: Đại kiện, Thượng khê.",
+      "confidence": 0.9992383858736824
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_016_text.png",
+      "bbox": [
+        [
+          231,
+          857
+        ],
+        [
+          1332,
+          857
+        ],
+        [
+          1332,
+          910
+        ],
+        [
+          231,
+          910
+        ]
+      ],
+      "score": 0.775749921798706,
+      "y_pos": 857,
+      "text": "200. Bàn chân thống xuống: Lan vĩ, Não thanh.",
+      "confidence": 0.9457057093052154
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_014_text.png",
+      "bbox": [
+        [
+          230,
+          951
+        ],
+        [
+          1118,
+          951
+        ],
+        [
+          1118,
+          1001
+        ],
+        [
+          230,
+          1001
+        ]
+      ],
+      "score": 0.7811846137046814,
+      "y_pos": 951,
+      "text": "201. Mu bàn chân sưng đỏ: Khí đoan.",
+      "confidence": 0.9387865292059409
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_020_text.png",
+      "bbox": [
+        [
+          230,
+          1041
+        ],
+        [
+          1450,
+          1041
+        ],
+        [
+          1450,
+          1094
+        ],
+        [
+          230,
+          1094
+        ]
+      ],
+      "score": 0.7679789066314697,
+      "y_pos": 1041,
+      "text": "202. Lòng bàn chân đau: Túc tâm, Tiền hậu ấn châu.",
+      "confidence": 0.9572690255366839
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_022_text.png",
+      "bbox": [
+        [
+          230,
+          1133
+        ],
+        [
+          937,
+          1133
+        ],
+        [
+          937,
+          1184
+        ],
+        [
+          230,
+          1184
+        ]
+      ],
+      "score": 0.761561393737793,
+      "y_pos": 1133,
+      "text": "203. Đau gót chân: Thất miên.",
+      "confidence": 0.9648854405649246
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_026_text.png",
+      "bbox": [
+        [
+          230,
+          1226
+        ],
+        [
+          1844,
+          1226
+        ],
+        [
+          1844,
+          1280
+        ],
+        [
+          230,
+          1280
+        ]
+      ],
+      "score": 0.7325510382652283,
+      "y_pos": 1226,
+      "text": "204. Ngón chân và bàn chân sưng đỏ: Bát phong, Thượng Bát phong.",
+      "confidence": 0.9987788931889967
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_021_text.png",
+      "bbox": [
+        [
+          230,
+          1318
+        ],
+        [
+          1014,
+          1318
+        ],
+        [
+          1014,
+          1371
+        ],
+        [
+          230,
+          1371
+        ]
+      ],
+      "score": 0.7646254301071167,
+      "y_pos": 1318,
+      "text": "205. Ngón cái cong gập: Chỉ văn.",
+      "confidence": 0.9573261667700375
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_015_text.png",
+      "bbox": [
+        [
+          229,
+          1409
+        ],
+        [
+          1002,
+          1409
+        ],
+        [
+          1002,
+          1461
+        ],
+        [
+          229,
+          1461
+        ]
+      ],
+      "score": 0.7764157056808472,
+      "y_pos": 1409,
+      "text": "206. Ngón chân tê bại: Khí đoan.",
+      "confidence": 0.980850323158152
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_019_text.png",
+      "bbox": [
+        [
+          230,
+          1500
+        ],
+        [
+          1121,
+          1500
+        ],
+        [
+          1121,
+          1554
+        ],
+        [
+          230,
+          1554
+        ]
+      ],
+      "score": 0.7739696502685547,
+      "y_pos": 1500,
+      "text": "207. Ngón chân đau đớn: Lý Nội đình.",
+      "confidence": 0.9986253004325064
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_027_text.png",
+      "bbox": [
+        [
+          230,
+          1593
+        ],
+        [
+          936,
+          1593
+        ],
+        [
+          936,
+          1646
+        ],
+        [
+          230,
+          1646
+        ]
+      ],
+      "score": 0.7123557925224304,
+      "y_pos": 1593,
+      "text": "208. Ngứa chân: Hạ thừa sơn.",
+      "confidence": 0.9823692719141642
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_025_text.png",
+      "bbox": [
+        [
+          229,
+          1682
+        ],
+        [
+          1856,
+          1682
+        ],
+        [
+          1856,
+          1736
+        ],
+        [
+          229,
+          1736
+        ]
+      ],
+      "score": 0.7343633770942688,
+      "y_pos": 1682,
+      "text": "209. Cước khí: Giao nghi, Thiếu dương duy, Ngoại khỏa tiêm, Khí đoan.",
+      "confidence": 0.9992833162697268
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_003_text.png",
+      "bbox": [
+        [
+          230,
+          1773
+        ],
+        [
+          2364,
+          1773
+        ],
+        [
+          2364,
+          2042
+        ],
+        [
+          230,
+          2042
+        ]
+      ],
+      "score": 0.8714418411254883,
+      "y_pos": 1773,
+      "text": "210. Di chứng bại liệt trẻ em: Quan thỏ, Lị tật mẫn cảm điểm, Trực lập, Thừa gian, Ngoại\nTrực lập, Âm cang, Củ ngoại thương, Dương cang, Kiểu linh, Đài kiên, Cử tý, Chỉ bình,\nBàng cốc, Lý thượng, Tứ lý, Khoan cữu, Thượng Phong thị, Tiền tiến, Mại bộ, Khiêu dược,\nHoàn dược, Lý ngoại, Thập thất chùy hạ, Trúc trượng.",
+      "confidence": 0.9997526077501857
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_024_text.png",
+      "bbox": [
+        [
+          228,
+          2079
+        ],
+        [
+          1678,
+          2079
+        ],
+        [
+          1678,
+          2134
+        ],
+        [
+          228,
+          2134
+        ]
+      ],
+      "score": 0.7349047660827637,
+      "y_pos": 2079,
+      "text": "211. Di chứng bại liệt trẻ em bàn chân thống xuống: Hĩnh hạ.",
+      "confidence": 0.9985477212936648
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_012_text.png",
+      "bbox": [
+        [
+          227,
+          2170
+        ],
+        [
+          1797,
+          2170
+        ],
+        [
+          1797,
+          2225
+        ],
+        [
+          227,
+          2225
+        ]
+      ],
+      "score": 0.784554123878479,
+      "y_pos": 2170,
+      "text": "212. Di chứng bại liệt trẻ em bàn chân bai vào trong: Củ nội phiên.",
+      "confidence": 0.9989772758622101
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_010_text.png",
+      "bbox": [
+        [
+          228,
+          2259
+        ],
+        [
+          2202,
+          2259
+        ],
+        [
+          2202,
+          2318
+        ],
+        [
+          228,
+          2318
+        ]
+      ],
+      "score": 0.8088141083717346,
+      "y_pos": 2259,
+      "text": "213. Di chứng bại liệt trẻ em đầu gối quặt ra sau, teo cơ tam đầu cẳng chân: Ủy hạ.",
+      "confidence": 0.998858764592339
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_009_text.png",
+      "bbox": [
+        [
+          228,
+          2354
+        ],
+        [
+          1532,
+          2354
+        ],
+        [
+          1532,
+          2407
+        ],
+        [
+          228,
+          2407
+        ]
+      ],
+      "score": 0.8162265419960022,
+      "y_pos": 2354,
+      "text": "214. Di chứng bại liệt trẻ em đi bằng gót chân: Lạc địa.",
+      "confidence": 0.9779458775602538
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_007_text.png",
+      "bbox": [
+        [
+          228,
+          2445
+        ],
+        [
+          1842,
+          2445
+        ],
+        [
+          1842,
+          2500
+        ],
+        [
+          228,
+          2500
+        ]
+      ],
+      "score": 0.82615065574646,
+      "y_pos": 2445,
+      "text": "215. Di chứng bại liệt trẻ em đi bằng mũi chân (nhón gót): Căn bình.",
+      "confidence": 0.97425651209695
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_006_text.png",
+      "bbox": [
+        [
+          228,
+          2537
+        ],
+        [
+          1264,
+          2537
+        ],
+        [
+          1264,
+          2588
+        ],
+        [
+          228,
+          2588
+        ]
+      ],
+      "score": 0.8266155123710632,
+      "y_pos": 2537,
+      "text": "216. Các loại hình bại liệt: Tứ lý, Chiến than.",
+      "confidence": 0.9621593575088345
+    },
+    {
+      "type": "text",
+      "img_path": "p0564_005_text.png",
+      "bbox": [
+        [
+          227,
+          2627
+        ],
+        [
+          1754,
+          2627
+        ],
+        [
+          1754,
+          2684
+        ],
+        [
+          227,
+          2684
+        ]
+      ],
+      "score": 0.8340092301368713,
+      "y_pos": 2627,
+      "text": "217. Tứ chi ngoại thương: Yếu thống 3, Yếu thống 2, Yếu thống 1.",
+      "confidence": 0.9988010128339132
+    },
+    {
+      "type": "number",
+      "img_path": "p0564_004_number.png",
+      "bbox": [
+        [
+          2319,
+          3338
+        ],
+        [
+          2368,
+          3338
+        ],
+        [
+          2368,
+          3375
+        ],
+        [
+          2319,
+          3375
+        ]
+      ],
+      "score": 0.8625195622444153,
+      "y_pos": 3338,
+      "text": "    \n    \n    \n\n\n    \n    \n    \n\n\n.\n\n\n    ",
+      "confidence": 0.9722477147976557
+    },
+    {
+      "type": "footer",
+      "img_path": "p0564_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3341
+        ],
+        [
+          1324,
+          3341
+        ],
+        [
+          1324,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.9159796833992004,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987223969315583
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0564.png"
+}

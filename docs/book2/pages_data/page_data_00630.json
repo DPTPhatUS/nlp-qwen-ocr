@@ -1,0 +1,396 @@
+{
+  "page_num": 630,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0630_003_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9215835928916931,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.784148439410187
+    },
+    {
+      "type": "header",
+      "img_path": "p0630_004_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1172,
+          152
+        ],
+        [
+          1172,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.91457599401474,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BÁNG NHIỆT ĐÔ KINH LẠC",
+      "confidence": 0.9933017049080286
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0630_010_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          308
+        ],
+        [
+          1730,
+          308
+        ],
+        [
+          1730,
+          359
+        ],
+        [
+          225,
+          359
+        ]
+      ],
+      "score": 0.8043941855430603,
+      "y_pos": 308,
+      "text": "g. Theo dõi diễn biến trước và sau hoạt động thể thao võ thuật",
+      "confidence": 0.9997857287526131
+    },
+    {
+      "type": "text",
+      "img_path": "p0630_007_text.png",
+      "bbox": [
+        [
+          284,
+          400
+        ],
+        [
+          1426,
+          400
+        ],
+        [
+          1426,
+          451
+        ],
+        [
+          284,
+          451
+        ]
+      ],
+      "score": 0.8922094106674194,
+      "y_pos": 400,
+      "text": "Đối tượng thí nghiệm: Dương. Q.T. 35 tuổi. Bác sĩ.",
+      "confidence": 0.9991204761541806
+    },
+    {
+      "type": "text",
+      "img_path": "p0630_008_text.png",
+      "bbox": [
+        [
+          284,
+          489
+        ],
+        [
+          1750,
+          489
+        ],
+        [
+          1750,
+          542
+        ],
+        [
+          284,
+          542
+        ]
+      ],
+      "score": 0.8839690089225769,
+      "y_pos": 489,
+      "text": "Số đo trước và sau 60 phút thể thao võ thuật. Đo ngày 1/12/1983.",
+      "confidence": 0.9846913886792732
+    },
+    {
+      "type": "table",
+      "img_path": "p0630_002_table.png",
+      "bbox": [
+        [
+          229,
+          594
+        ],
+        [
+          2353,
+          594
+        ],
+        [
+          2353,
+          976
+        ],
+        [
+          229,
+          976
+        ]
+      ],
+      "score": 0.9818441271781921,
+      "y_pos": 594,
+      "text": "Số tương quan dương (dấu+)    Số tương quan (dấu -), =0\nつ    3    4    5    6    8    9    10    11    12    13    14    15    16    17    18    19    20    21    22    23    24    25    26    27    28\nTrước    0,48    0,15    0    0,6    1,0 |    |0,17| 1,2 |0,05|    0,5 | 0,2    0,25 0,35 0,1    0,1\nSau    0,6    0,93    | 0,1 |    0,2 0,25 1,1    0,85    0,5    <sup>|</sup> 2,1 | 2,0 | 0,5 |    0,1    ,6    0,7    1,2",
+      "confidence": 0.928981755015503
+    },
+    {
+      "type": "text",
+      "img_path": "p0630_013_text.png",
+      "bbox": [
+        [
+          283,
+          1009
+        ],
+        [
+          1826,
+          1009
+        ],
+        [
+          1826,
+          1065
+        ],
+        [
+          283,
+          1065
+        ]
+      ],
+      "score": 0.6279310584068298,
+      "y_pos": 1009,
+      "text": "Nhân xét:    Trước thí nghiêm:    Nhiệt: Tâm bào, Bàng, Phế, Đại.",
+      "confidence": 0.8839320702669408
+    },
+    {
+      "type": "text",
+      "img_path": "p0630_014_text.png",
+      "bbox": [
+        [
+          1092,
+          1101
+        ],
+        [
+          1765,
+          1101
+        ],
+        [
+          1765,
+          1154
+        ],
+        [
+          1092,
+          1154
+        ]
+      ],
+      "score": 0.5939158201217651,
+      "y_pos": 1101,
+      "text": "Hàn: Đảm, Vị; Cận hàn: Tiểu.",
+      "confidence": 0.968280021349589
+    },
+    {
+      "type": "text",
+      "img_path": "p0630_011_text.png",
+      "bbox": [
+        [
+          600,
+          1193
+        ],
+        [
+          1786,
+          1193
+        ],
+        [
+          1786,
+          1248
+        ],
+        [
+          600,
+          1248
+        ]
+      ],
+      "score": 0.7075208425521851,
+      "y_pos": 1193,
+      "text": "Sau thí nghiệm:    Nhiệt: Tâm bào, Phế, Can, Tỳ.",
+      "confidence": 0.881312106094505
+    },
+    {
+      "type": "text",
+      "img_path": "p0630_012_text.png",
+      "bbox": [
+        [
+          1091,
+          1285
+        ],
+        [
+          1487,
+          1285
+        ],
+        [
+          1487,
+          1338
+        ],
+        [
+          1091,
+          1338
+        ]
+      ],
+      "score": 0.6934779286384583,
+      "y_pos": 1285,
+      "text": "Hàn: Bàng, Đảm.",
+      "confidence": 0.873570838395287
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0630_006_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1378
+        ],
+        [
+          1979,
+          1378
+        ],
+        [
+          1979,
+          1431
+        ],
+        [
+          225,
+          1431
+        ]
+      ],
+      "score": 0.894315242767334,
+      "y_pos": 1378,
+      "text": "C. Tính chất qui luật của các chỉ số nhiệt kinh lạc trong từng bệnh chứng",
+      "confidence": 0.9979696448644002
+    },
+    {
+      "type": "text",
+      "img_path": "p0630_001_text.png",
+      "bbox": [
+        [
+          254,
+          1469
+        ],
+        [
+          2360,
+          1469
+        ],
+        [
+          2360,
+          2021
+        ],
+        [
+          254,
+          2021
+        ]
+      ],
+      "score": 0.9837239980697632,
+      "y_pos": 1469,
+      "text": "Qua 9 bảng chỉ số nhiệt kinh lạc của từng người gồm 8 loại bệnh khác nhau và một người\nchửa, cũng như 7 bảng diễn biến chỉ số nhiệt của từng người qua các thí nghiệm bằng các\nhoạt động khác nhau kể trên, ta được chứng kiến rất sinh động một cảnh tượng biến đổi\ncông năng tạng phủ đã biểu hiện ra ngoài bằng các chỉ số nhiệt ở tỉnh huyệt khác nhau. Nó\nchứng minh rằng nhiệt độ tỉnh huyệt đa số quan hệ rất nhạy bén với hoạt động công năng\ntạng phủ dù là kích thích bằng các thí nghiệm, hay do phản ứng bệnh lý gây ra. Có điều là\nnhững biến đổi trong các bảng đã giới thiệu là cá biệt, sẽ đặt cho ta vấn đề phải xem xét tính\nquy luật và hệ thống trong quan hệ này là ở chỗ nào.",
+      "confidence": 0.999673864480552
+    },
+    {
+      "type": "text",
+      "img_path": "p0630_000_text.png",
+      "bbox": [
+        [
+          278,
+          2056
+        ],
+        [
+          2361,
+          2056
+        ],
+        [
+          2361,
+          2746
+        ],
+        [
+          278,
+          2746
+        ]
+      ],
+      "score": 0.9869315028190613,
+      "y_pos": 2056,
+      "text": "Trong số các bảng trên xin lưu ý một bảng ghi theo dõi một bệnh nhân đau lưng. Ta thấy\nđược rằng tuy ở các ngày đo khác nhau, các số biến đổi khác nhau nhưng vì là cùng một\nchứng bệnh ở trong một con người cụ thể, cho nên tính quy luật được biểu hiện ở chỗ trong\ntất cả các số tương quan biến đổi qua các lần đo của các kinh thì số tương quan của Can\nkinh có biến đổi tương ứng với mức độ thuyên giảm bệnh tình. Nhưng như thế thì ở những\nngười khác nhau, thời gian đo khác nhau nhưng cùng một trạng thái sinh lý thì tính quy luật\ncủa chỉ số có hay không? Bây giờ, ta sử dụng bảng diễn biến chỉ số nhiệt kinh lạc của từng\nngười, để liệt kê chỉ số nhiệt của nhiều người có cùng một bệnh chứng (thay thế các chỉ số\ncủa từng lần đo thành các chỉ số của từng người) để xem xét tính chất quy luật của chỉ số\nnhiệt.",
+      "confidence": 0.9992726853117503
+    },
+    {
+      "type": "number",
+      "img_path": "p0630_009_number.png",
+      "bbox": [
+        [
+          2305,
+          3336
+        ],
+        [
+          2350,
+          3336
+        ],
+        [
+          2350,
+          3374
+        ],
+        [
+          2305,
+          3374
+        ]
+      ],
+      "score": 0.8503928184509277,
+      "y_pos": 3336,
+      "text": "    \n    \n    \n\n\n\n\n\n    \n    \n\n\n.\n\n\n\n    ",
+      "confidence": 0.9746627308752226
+    },
+    {
+      "type": "footer",
+      "img_path": "p0630_005_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1324,
+          3340
+        ],
+        [
+          1324,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.9064269661903381,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9988329028183559
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0630.png"
+}

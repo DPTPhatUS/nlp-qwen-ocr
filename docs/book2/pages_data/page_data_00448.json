@@ -1,0 +1,396 @@
+{
+  "page_num": 448,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0448_003_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9223986864089966,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0448_006_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1449,
+          150
+        ],
+        [
+          1449,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9118805527687073,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỬU",
+      "confidence": 0.9870374363202316
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0448_005_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          325
+        ],
+        [
+          471,
+          325
+        ],
+        [
+          471,
+          376
+        ],
+        [
+          227,
+          376
+        ]
+      ],
+      "score": 0.9155279397964478,
+      "y_pos": 325,
+      "text": "19.    Thô tả",
+      "confidence": 0.8429801426827908
+    },
+    {
+      "type": "text",
+      "img_path": "p0448_000_text.png",
+      "bbox": [
+        [
+          221,
+          418
+        ],
+        [
+          2359,
+          418
+        ],
+        [
+          2359,
+          685
+        ],
+        [
+          221,
+          685
+        ]
+      ],
+      "score": 0.9823442697525024,
+      "y_pos": 418,
+      "text": "Thổ tả là loại bệnh vừa nôn vừa ỉa chảy cùng một lúc, bệnh do công năng của trường vị bị rối\nloạn gây ra, thường phát sinh về mùa hạ, mùa thu. Đặc điểm lâm sàng là: Tự nhiên miệng nôn,\ntrôn tháo, nước dãi trắng trong, bụng đau dữ dội, miệng môi xanh nhợt nhạt, chân tay lạnh\nngắt, trên mình vã mồ hôi nhớt như dầu, hoặc hôn mê bất tỉnh, chân tay co quắp.",
+      "confidence": 0.9995564549561531
+    },
+    {
+      "type": "text",
+      "img_path": "p0448_009_text.png",
+      "bbox": [
+        [
+          282,
+          724
+        ],
+        [
+          2033,
+          724
+        ],
+        [
+          2033,
+          776
+        ],
+        [
+          282,
+          776
+        ]
+      ],
+      "score": 0.9089118242263794,
+      "y_pos": 724,
+      "text": "Cách chữa: Lấy huyết Túc tam lý, Trung quản, Nôi quan, Hợp cốc, Thiên khu.",
+      "confidence": 0.5389501389704252
+    },
+    {
+      "type": "text",
+      "img_path": "p0448_002_text.png",
+      "bbox": [
+        [
+          280,
+          815
+        ],
+        [
+          2358,
+          815
+        ],
+        [
+          2358,
+          935
+        ],
+        [
+          280,
+          935
+        ]
+      ],
+      "score": 0.9610645771026611,
+      "y_pos": 815,
+      "text": "Các huyệt kể trên đều dùng hào kim vê chuyển tiến kim thủ pháp bình bổ bình tả, lưu kim 30\nphút.",
+      "confidence": 0.9932376592425827
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0448_014_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          980
+        ],
+        [
+          524,
+          980
+        ],
+        [
+          524,
+          1029
+        ],
+        [
+          285,
+          1029
+        ]
+      ],
+      "score": 0.8008258938789368,
+      "y_pos": 980,
+      "text": "Gia giảm:",
+      "confidence": 0.8463372696529735
+    },
+    {
+      "type": "text",
+      "img_path": "p0448_007_text.png",
+      "bbox": [
+        [
+          285,
+          1068
+        ],
+        [
+          1915,
+          1068
+        ],
+        [
+          1915,
+          1122
+        ],
+        [
+          285,
+          1122
+        ]
+      ],
+      "score": 0.9118618965148926,
+      "y_pos": 1068,
+      "text": "\n    Nếu chân tay lạnh giá, ra nhiều mồ hôi, gia cứu Quan nguyên, Khí hải.\n",
+      "confidence": 0.9861017258543717
+    },
+    {
+      "type": "text",
+      "img_path": "p0448_008_text.png",
+      "bbox": [
+        [
+          286,
+          1162
+        ],
+        [
+          1887,
+          1162
+        ],
+        [
+          1887,
+          1214
+        ],
+        [
+          286,
+          1214
+        ]
+      ],
+      "score": 0.9114885926246643,
+      "y_pos": 1162,
+      "text": "\n    Bụng đau không dứt, châm Khí hải, Tam âm giao, Dương lăng tuyên.\n",
+      "confidence": 0.7707615004645454
+    },
+    {
+      "type": "text",
+      "img_path": "p0448_004_text.png",
+      "bbox": [
+        [
+          286,
+          1254
+        ],
+        [
+          1951,
+          1254
+        ],
+        [
+          1951,
+          1307
+        ],
+        [
+          286,
+          1307
+        ]
+      ],
+      "score": 0.9155974984169006,
+      "y_pos": 1254,
+      "text": "\n    Mê mệt bất tỉnh, gia châm Ngoại quan, Nhân trung, Nội đình, Thái xung.\n",
+      "confidence": 0.9828950899342696
+    },
+    {
+      "type": "text",
+      "img_path": "p0448_012_text.png",
+      "bbox": [
+        [
+          285,
+          1342
+        ],
+        [
+          2300,
+          1342
+        ],
+        [
+          2300,
+          1399
+        ],
+        [
+          285,
+          1399
+        ]
+      ],
+      "score": 0.901034414768219,
+      "y_pos": 1342,
+      "text": "\n    Nếu phát sốt, miệng khát, bứt rứt không yên, gia châm Úy trung, Thập tuyên xuất huyết\n",
+      "confidence": 0.9181340062940443
+    },
+    {
+      "type": "text",
+      "img_path": "p0448_010_text.png",
+      "bbox": [
+        [
+          286,
+          1436
+        ],
+        [
+          1406,
+          1436
+        ],
+        [
+          1406,
+          1488
+        ],
+        [
+          286,
+          1488
+        ]
+      ],
+      "score": 0.9086701273918152,
+      "y_pos": 1436,
+      "text": "• Bắp chân co rút, gia châm Côn luân, Thừa sơn.",
+      "confidence": 0.5268455719461247
+    },
+    {
+      "type": "text",
+      "img_path": "p0448_001_text.png",
+      "bbox": [
+        [
+          280,
+          1528
+        ],
+        [
+          2360,
+          1528
+        ],
+        [
+          2360,
+          2002
+        ],
+        [
+          280,
+          2002
+        ]
+      ],
+      "score": 0.9797419309616089,
+      "y_pos": 1528,
+      "text": "Giảng nghĩa của phương: Túc tam lý, Trung quản, Thiên khu có thể lưu điều trung khí,\nthanh hòa trướng, vị, để dứt nôn, chữa tháo. <i>Nội quan</i> thư giãn lồng ngực, cơ hoành, ổn\nđịnh bụng dạ. Phối <i>Hợp cốc</i> để khử tà ở ngực và bụng. Gia cứu <i>Khí hải, Quan nguyên</i> để tán\nhàn, giữ nguyên khí. <i>Tam âm giao</i> điều kinh khí. <i>Dương lăng tuyền</i> để thư giãn gân. <i>Ngoại</i>\nquan, Nhân trung, Nội đình, Thái xung, Ủy trung sơ tiết khí thái dương kinh để tiết nhiệt tà và\nthanh nhiệt trong máu. <i>Thập tuyên</i> để tỉnh thần, tiết nhiệt. <i>Côn lôn, Thừa sơn</i> để lưu thông\nkinh khí mà dứt đau.",
+      "confidence": 0.9960293037263696
+    },
+    {
+      "type": "number",
+      "img_path": "p0448_013_number.png",
+      "bbox": [
+        [
+          2304,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2304,
+          3335
+        ]
+      ],
+      "score": 0.8593090772628784,
+      "y_pos": 3300,
+      "text": "    \n            \n            \n\n    \n    \n    -\n",
+      "confidence": 0.9673569744659795
+    },
+    {
+      "type": "footer",
+      "img_path": "p0448_011_footer.png",
+      "bbox": [
+        [
+          229,
+          3310
+        ],
+        [
+          1324,
+          3310
+        ],
+        [
+          1324,
+          3355
+        ],
+        [
+          229,
+          3355
+        ]
+      ],
+      "score": 0.9052848219871521,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985551654167895
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0448.png"
+}

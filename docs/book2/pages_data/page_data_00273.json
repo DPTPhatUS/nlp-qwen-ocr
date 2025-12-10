@@ -1,0 +1,368 @@
+{
+  "page_num": 273,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0273_002_header.png",
+      "bbox": [
+        [
+          1609,
+          141
+        ],
+        [
+          2373,
+          141
+        ],
+        [
+          2373,
+          201
+        ],
+        [
+          1609,
+          201
+        ]
+      ],
+      "score": 0.925858736038208,
+      "y_pos": 141,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7853399390975635
+    },
+    {
+      "type": "header",
+      "img_path": "p0273_005_header.png",
+      "bbox": [
+        [
+          229,
+          155
+        ],
+        [
+          906,
+          155
+        ],
+        [
+          906,
+          201
+        ],
+        [
+          229,
+          201
+        ]
+      ],
+      "score": 0.918250322341919,
+      "y_pos": 155,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6830399837987177
+    },
+    {
+      "type": "image",
+      "img_path": "p0273_000_image.png",
+      "bbox": [
+        [
+          655,
+          365
+        ],
+        [
+          1920,
+          365
+        ],
+        [
+          1920,
+          2280
+        ],
+        [
+          655,
+          2280
+        ]
+      ],
+      "score": 0.9626253247261047,
+      "y_pos": 365
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0273_012_figure_title.png",
+      "bbox": [
+        [
+          1195,
+          2363
+        ],
+        [
+          1393,
+          2363
+        ],
+        [
+          1393,
+          2407
+        ],
+        [
+          1195,
+          2407
+        ]
+      ],
+      "score": 0.879935085773468,
+      "y_pos": 2363,
+      "text": "Hình    135",
+      "confidence": 0.826461112499237
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0273_004_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2446
+        ],
+        [
+          706,
+          2446
+        ],
+        [
+          706,
+          2501
+        ],
+        [
+          225,
+          2501
+        ]
+      ],
+      "score": 0.9228126406669617,
+      "y_pos": 2446,
+      "text": "326. Tiểu cốt không",
+      "confidence": 0.9757481671514965
+    },
+    {
+      "type": "text",
+      "img_path": "p0273_009_text.png",
+      "bbox": [
+        [
+          289,
+          2541
+        ],
+        [
+          1828,
+          2541
+        ],
+        [
+          1828,
+          2598
+        ],
+        [
+          289,
+          2598
+        ]
+      ],
+      "score": 0.8889442086219788,
+      "y_pos": 2541,
+      "text": "Vị trí: Ở mu ngón tay út, chỗ nhọn nhất của khớp giữa ngón. (H.135)",
+      "confidence": 0.994879821072454
+    },
+    {
+      "type": "text",
+      "img_path": "p0273_011_text.png",
+      "bbox": [
+        [
+          288,
+          2634
+        ],
+        [
+          884,
+          2634
+        ],
+        [
+          884,
+          2683
+        ],
+        [
+          288,
+          2683
+        ]
+      ],
+      "score": 0.8845471143722534,
+      "y_pos": 2634,
+      "text": "Cách châm: Cứu 1-3 mồi.",
+      "confidence": 0.724045934677124
+    },
+    {
+      "type": "text",
+      "img_path": "p0273_001_text.png",
+      "bbox": [
+        [
+          286,
+          2725
+        ],
+        [
+          1397,
+          2725
+        ],
+        [
+          1397,
+          2780
+        ],
+        [
+          286,
+          2780
+        ]
+      ],
+      "score": 0.9271175861358643,
+      "y_pos": 2725,
+      "text": "Chủ trị: Bệnh mắt, đau họng, đau khớp ngón tay.",
+      "confidence": 0.9842072786117086
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0273_010_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2817
+        ],
+        [
+          610,
+          2817
+        ],
+        [
+          610,
+          2869
+        ],
+        [
+          227,
+          2869
+        ]
+      ],
+      "score": 0.8879907727241516,
+      "y_pos": 2817,
+      "text": "327. Trung khôi",
+      "confidence": 0.9460454302675584
+    },
+    {
+      "type": "text",
+      "img_path": "p0273_007_text.png",
+      "bbox": [
+        [
+          288,
+          2909
+        ],
+        [
+          1794,
+          2909
+        ],
+        [
+          1794,
+          2965
+        ],
+        [
+          288,
+          2965
+        ]
+      ],
+      "score": 0.9154120683670044,
+      "y_pos": 2909,
+      "text": "Vị trí: Ở mu ngón tay giữa, đỉnh khớp của khớp giữa ngón. (H.135)",
+      "confidence": 0.9906910853599434
+    },
+    {
+      "type": "text",
+      "img_path": "p0273_013_text.png",
+      "bbox": [
+        [
+          287,
+          2999
+        ],
+        [
+          884,
+          2999
+        ],
+        [
+          884,
+          3049
+        ],
+        [
+          287,
+          3049
+        ]
+      ],
+      "score": 0.8739871978759766,
+      "y_pos": 2999,
+      "text": "Cách châm: Cứu 1-3 mồi.",
+      "confidence": 0.7132927298545837
+    },
+    {
+      "type": "text",
+      "img_path": "p0273_003_text.png",
+      "bbox": [
+        [
+          287,
+          3092
+        ],
+        [
+          1571,
+          3092
+        ],
+        [
+          1571,
+          3147
+        ],
+        [
+          287,
+          3147
+        ]
+      ],
+      "score": 0.9250656366348267,
+      "y_pos": 3092,
+      "text": "Chủ trị: Nôn mửa, nấc, thực quản co thắt, chảy máu mũi.",
+      "confidence": 0.7991437096344797
+    },
+    {
+      "type": "footer",
+      "img_path": "p0273_006_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3386
+        ],
+        [
+          228,
+          3386
+        ]
+      ],
+      "score": 0.9175907373428345,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9235246552611297
+    },
+    {
+      "type": "number",
+      "img_path": "p0273_008_number.png",
+      "bbox": [
+        [
+          2279,
+          3338
+        ],
+        [
+          2350,
+          3338
+        ],
+        [
+          2350,
+          3376
+        ],
+        [
+          2279,
+          3376
+        ]
+      ],
+      "score": 0.8958319425582886,
+      "y_pos": 3338,
+      "text": "\n\n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0273.png"
+}

@@ -1,0 +1,316 @@
+{
+  "page_num": 83,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0083_006_header.png",
+      "bbox": [
+        [
+          1606,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1606,
+          201
+        ]
+      ],
+      "score": 0.9185388088226318,
+      "y_pos": 142,
+      "text": "_______________________________________\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6523312898618834
+    },
+    {
+      "type": "header",
+      "img_path": "p0083_009_header.png",
+      "bbox": [
+        [
+          230,
+          159
+        ],
+        [
+          442,
+          159
+        ],
+        [
+          442,
+          202
+        ],
+        [
+          230,
+          202
+        ]
+      ],
+      "score": 0.8909298777580261,
+      "y_pos": 159,
+      "text": "KINH LAC",
+      "confidence": 0.6718200981616974
+    },
+    {
+      "type": "text",
+      "img_path": "p0083_003_text.png",
+      "bbox": [
+        [
+          338,
+          311
+        ],
+        [
+          2359,
+          311
+        ],
+        [
+          2359,
+          439
+        ],
+        [
+          338,
+          439
+        ]
+      ],
+      "score": 0.9611513614654541,
+      "y_pos": 311,
+      "text": "Mạch nhánh của hệ tâm, từ hệ tâm phân ra đi lên cạnh thực quản, lên đến hệ mắt (là\nmạch có quan hệ tốt tới mắt và não).",
+      "confidence": 0.9937253147363663
+    },
+    {
+      "type": "text",
+      "img_path": "p0083_001_text.png",
+      "bbox": [
+        [
+          337,
+          479
+        ],
+        [
+          2359,
+          479
+        ],
+        [
+          2359,
+          761
+        ],
+        [
+          337,
+          761
+        ]
+      ],
+      "score": 0.9776155352592468,
+      "y_pos": 479,
+      "text": "Mạch của hệ tâm đi từ tim thẳng đến phế tạng, đi chéo ra mặt dưới hố nách ven theo mặt\nsau của cạnh trong cánh tay, qua khuỷu tay, qua chỗ khớp cổ tay, chỗ xương trụ và\nxương đậu cao lên, tiến vào bàn tay ở khe bàn ngón 4-5 rồi ra cạnh trong ngón tay út ở\nđầu ngón (<i>Thiếu xung</i>).",
+      "confidence": 0.9963265267283236
+    },
+    {
+      "type": "text",
+      "img_path": "p0083_005_text.png",
+      "bbox": [
+        [
+          284,
+          802
+        ],
+        [
+          2358,
+          802
+        ],
+        [
+          2358,
+          932
+        ],
+        [
+          284,
+          932
+        ]
+      ],
+      "score": 0.9426425099372864,
+      "y_pos": 802,
+      "text": "b. Quan hệ tạng phủ: Kinh này từ ngực ra tay, thuộc tâm, đường lạc sang tiểu trường, có\nthêm quan hệ trực tiếp với phế và thận.",
+      "confidence": 0.9961327721065415
+    },
+    {
+      "type": "text",
+      "img_path": "p0083_004_text.png",
+      "bbox": [
+        [
+          284,
+          973
+        ],
+        [
+          2356,
+          973
+        ],
+        [
+          2356,
+          1103
+        ],
+        [
+          284,
+          1103
+        ]
+      ],
+      "score": 0.960617184638977,
+      "y_pos": 973,
+      "text": "c. Chủ trị: Đau tim, miệng khát, mắt vàng, sườn đau hoặc cạnh trong bàn tay đau, lòng bàn\ntay nóng.",
+      "confidence": 0.9980272166914754
+    },
+    {
+      "type": "image",
+      "img_path": "p0083_002_image.png",
+      "bbox": [
+        [
+          829,
+          1157
+        ],
+        [
+          1890,
+          1157
+        ],
+        [
+          1890,
+          2508
+        ],
+        [
+          829,
+          2508
+        ]
+      ],
+      "score": 0.9753154516220093,
+      "y_pos": 1157
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0083_007_figure_title.png",
+      "bbox": [
+        [
+          798,
+          2599
+        ],
+        [
+          1899,
+          2599
+        ],
+        [
+          1899,
+          2647
+        ],
+        [
+          798,
+          2647
+        ]
+      ],
+      "score": 0.9068366289138794,
+      "y_pos": 2599,
+      "text": "Hình 12. Đường tuần hành của kinh Thủ tiếu âm tâm",
+      "confidence": 0.8649686516499987
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0083_011_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          2688
+        ],
+        [
+          1127,
+          2688
+        ],
+        [
+          1127,
+          2740
+        ],
+        [
+          283,
+          2740
+        ]
+      ],
+      "score": 0.7904791235923767,
+      "y_pos": 2688,
+      "text": "6. Thủ thái dương tiểu trường kinh",
+      "confidence": 0.9985173179043664
+    },
+    {
+      "type": "text",
+      "img_path": "p0083_000_text.png",
+      "bbox": [
+        [
+          284,
+          2778
+        ],
+        [
+          2359,
+          2778
+        ],
+        [
+          2359,
+          3120
+        ],
+        [
+          284,
+          3120
+        ]
+      ],
+      "score": 0.979167103767395,
+      "y_pos": 2778,
+      "text": "a. Cấu trúc: Gồm 19 huyệt, hai bên là 38 huyệt. Kinh mạch tuần hành bắt đầu từ cạnh ngoài\nđầu ngón tay út (thiếu trạch), ven theo ngoài bàn tay, đến chỗ cổ tay, qua giữa lồi cầu\nxương trụ lên đến phía sau cẳng tay, qua khuỷu tay ở chỗ giữa mỏm khuỷu tay và mỏm\nkhớp xương cánh tay, đi ven lên cạnh ngoài phía sau cánh tay, đến mặt sau khớp vai, đi\ncạnh ngoài phía sau cánh tay, đến mặt sau khớp vai, đi nông cả phía trên và dưới gờ",
+      "confidence": 0.9913337737653606
+    },
+    {
+      "type": "footer",
+      "img_path": "p0083_008_footer.png",
+      "bbox": [
+        [
+          227,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.8971455693244934,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.952197735039693
+    },
+    {
+      "type": "number",
+      "img_path": "p0083_010_number.png",
+      "bbox": [
+        [
+          2335,
+          3338
+        ],
+        [
+          2378,
+          3338
+        ],
+        [
+          2378,
+          3374
+        ],
+        [
+          2335,
+          3374
+        ]
+      ],
+      "score": 0.8380818963050842,
+      "y_pos": 3338,
+      "text": "    \n    \n    \n    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0083.png"
+}

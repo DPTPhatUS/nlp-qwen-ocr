@@ -1,0 +1,786 @@
+{
+  "page_num": 229,
+  "content": [
+    {
+      "type": "paragraph_title",
+      "img_path": "p0229_025_paragraph_title.png",
+      "bbox": [
+        [
+          1083,
+          479
+        ],
+        [
+          1392,
+          479
+        ],
+        [
+          1392,
+          535
+        ],
+        [
+          1083,
+          535
+        ]
+      ],
+      "score": 0.810123085975647,
+      "y_pos": 479,
+      "text": "TÂM KHÍ HƯ",
+      "confidence": 0.7406914879878362
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_028_text.png",
+      "bbox": [
+        [
+          366,
+          605
+        ],
+        [
+          1721,
+          605
+        ],
+        [
+          1721,
+          655
+        ],
+        [
+          366,
+          655
+        ]
+      ],
+      "score": 0.7425817251205444,
+      "y_pos": 605,
+      "text": "- Chức năng chủ yếu bị rối loạn là chức năng chủ huyết mạch của Tâm.",
+      "confidence": 0.9983132302761077
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_026_text.png",
+      "bbox": [
+        [
+          367,
+          678
+        ],
+        [
+          2105,
+          678
+        ],
+        [
+          2105,
+          778
+        ],
+        [
+          367,
+          778
+        ]
+      ],
+      "score": 0.7793797850608826,
+      "y_pos": 678,
+      "text": "- Chủ chứng (triệu chứng quan trọng): mặt xanh, môi nhạt. Hồi hộp, trống ngực, tăng khi\nhoạt động",
+      "confidence": 0.9830131516758585
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_027_text.png",
+      "bbox": [
+        [
+          366,
+          799
+        ],
+        [
+          2107,
+          799
+        ],
+        [
+          2107,
+          900
+        ],
+        [
+          366,
+          900
+        ]
+      ],
+      "score": 0.7538843750953674,
+      "y_pos": 799,
+      "text": "- Thuốc tiêu biểu trong điều trị bệnh chứng Tâm khí hư: Tứ quân tử thang gia giảm, Sâm\nphụ thang gia vị",
+      "confidence": 0.994908898805428
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0229_002_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          966
+        ],
+        [
+          862,
+          966
+        ],
+        [
+          862,
+          1015
+        ],
+        [
+          344,
+          1015
+        ]
+      ],
+      "score": 0.9303289651870728,
+      "y_pos": 966,
+      "text": "2.1.6. Tâm dương hư",
+      "confidence": 0.9336867247309003
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0229_005_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          1053
+        ],
+        [
+          823,
+          1053
+        ],
+        [
+          823,
+          1102
+        ],
+        [
+          345,
+          1102
+        ]
+      ],
+      "score": 0.9196637272834778,
+      "y_pos": 1053,
+      "text": "2.1.6.1. Bệnh nguyên",
+      "confidence": 0.9531391615217383
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_008_text.png",
+      "bbox": [
+        [
+          407,
+          1147
+        ],
+        [
+          1854,
+          1147
+        ],
+        [
+          1854,
+          1197
+        ],
+        [
+          407,
+          1197
+        ]
+      ],
+      "score": 0.9063400626182556,
+      "y_pos": 1147,
+      "text": "- Do bệnh lâu ngày ở Tâm, Tâm âm hư dẫn đến Tâm dương hư.",
+      "confidence": 0.9884259978593406
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_009_text.png",
+      "bbox": [
+        [
+          408,
+          1231
+        ],
+        [
+          1500,
+          1231
+        ],
+        [
+          1500,
+          1279
+        ],
+        [
+          408,
+          1279
+        ]
+      ],
+      "score": 0.8999249339103699,
+      "y_pos": 1231,
+      "text": "\n    Do khí toàn thân hư vếu làm cho Tâm khí hư.\n",
+      "confidence": 0.6192743804143823
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0229_004_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          1339
+        ],
+        [
+          757,
+          1339
+        ],
+        [
+          757,
+          1384
+        ],
+        [
+          345,
+          1384
+        ]
+      ],
+      "score": 0.9221698045730591,
+      "y_pos": 1339,
+      "text": "2.1.6.2. Bênh sinh",
+      "confidence": 0.9256427854299545
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_001_text.png",
+      "bbox": [
+        [
+          406,
+          1422
+        ],
+        [
+          2124,
+          1422
+        ],
+        [
+          2124,
+          1530
+        ],
+        [
+          406,
+          1530
+        ]
+      ],
+      "score": 0.9511359333992004,
+      "y_pos": 1422,
+      "text": "- Tâm dương là công năng hoạt động; khi công năng này bị rối loạn gây\nnên hồi hộp, đau vùng tim, hôn mê.",
+      "confidence": 0.9952934030822371
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_000_text.png",
+      "bbox": [
+        [
+          407,
+          1563
+        ],
+        [
+          2124,
+          1563
+        ],
+        [
+          2124,
+          1673
+        ],
+        [
+          407,
+          1673
+        ]
+      ],
+      "score": 0.9542695879936218,
+      "y_pos": 1563,
+      "text": "- Tâm dương còn có khả năng tuyên thông ở phần dương ở ngoài vệ. Tâm\ndương hư dẫn đến sợ lạnh, tay chân quyết lãnh.",
+      "confidence": 0.9951632363100846
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0229_003_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1729
+        ],
+        [
+          1027,
+          1729
+        ],
+        [
+          1027,
+          1778
+        ],
+        [
+          344,
+          1778
+        ]
+      ],
+      "score": 0.9261232614517212,
+      "y_pos": 1729,
+      "text": "2.1.6.3. Triệu chứng lâm sàng",
+      "confidence": 0.9965322017669678
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_024_text.png",
+      "bbox": [
+        [
+          407,
+          1804
+        ],
+        [
+          807,
+          1804
+        ],
+        [
+          807,
+          1851
+        ],
+        [
+          407,
+          1851
+        ]
+      ],
+      "score": 0.8203077912330627,
+      "y_pos": 1804,
+      "text": "Tâm dương hư",
+      "confidence": 0.9666094396795545
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_018_text.png",
+      "bbox": [
+        [
+          463,
+          1878
+        ],
+        [
+          1187,
+          1878
+        ],
+        [
+          1187,
+          1928
+        ],
+        [
+          463,
+          1928
+        ]
+      ],
+      "score": 0.886423647403717,
+      "y_pos": 1878,
+      "text": "+ Sợ lạnh, thích uống nước ấm.",
+      "confidence": 0.9981841444969177
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_020_text.png",
+      "bbox": [
+        [
+          462,
+          1951
+        ],
+        [
+          1920,
+          1951
+        ],
+        [
+          1920,
+          2002
+        ],
+        [
+          462,
+          2002
+        ]
+      ],
+      "score": 0.8730714321136475,
+      "y_pos": 1951,
+      "text": "+ Đau bung, tiêu chảy. Nước tiểu trong. Tự hãn. Tay chân lạnh,",
+      "confidence": 0.9865583572536707
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_014_text.png",
+      "bbox": [
+        [
+          462,
+          2026
+        ],
+        [
+          2021,
+          2026
+        ],
+        [
+          2021,
+          2076
+        ],
+        [
+          462,
+          2076
+        ]
+      ],
+      "score": 0.889303982257843,
+      "y_pos": 2026,
+      "text": "+ Phù nề. Đau vùng ngực, hồi hộp. Lưỡi nhạt, tím xám. Mạch vô lực.",
+      "confidence": 0.9829885547651964
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_015_text.png",
+      "bbox": [
+        [
+          406,
+          2101
+        ],
+        [
+          1744,
+          2101
+        ],
+        [
+          1744,
+          2151
+        ],
+        [
+          406,
+          2151
+        ]
+      ],
+      "score": 0.8885185718536377,
+      "y_pos": 2101,
+      "text": "- Nếu nặng hơn, Tâm dương hư thoát sẽ có thêm có chứng",
+      "confidence": 0.6514003234250205
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_013_text.png",
+      "bbox": [
+        [
+          462,
+          2176
+        ],
+        [
+          1571,
+          2176
+        ],
+        [
+          1571,
+          2226
+        ],
+        [
+          462,
+          2226
+        ]
+      ],
+      "score": 0.8897463083267212,
+      "y_pos": 2176,
+      "text": "+ Ra mồ hôi không ngừng. Chân tay quyết lạnh.",
+      "confidence": 0.984502985122356
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_011_text.png",
+      "bbox": [
+        [
+          463,
+          2250
+        ],
+        [
+          1484,
+          2250
+        ],
+        [
+          1484,
+          2297
+        ],
+        [
+          463,
+          2297
+        ]
+      ],
+      "score": 0.8965392708778381,
+      "y_pos": 2250,
+      "text": "+ Môi xanh tím. Thở nhỏ yếu. Lưỡi tím xám.",
+      "confidence": 0.9582064219496467
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_007_text.png",
+      "bbox": [
+        [
+          464,
+          2325
+        ],
+        [
+          1126,
+          2325
+        ],
+        [
+          1126,
+          2374
+        ],
+        [
+          464,
+          2374
+        ]
+      ],
+      "score": 0.9086937308311462,
+      "y_pos": 2325,
+      "text": "Mạch nhỏ, hư muốn tuyệt.",
+      "confidence": 0.9828164210686317
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0229_006_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          2434
+        ],
+        [
+          1177,
+          2434
+        ],
+        [
+          1177,
+          2483
+        ],
+        [
+          343,
+          2483
+        ]
+      ],
+      "score": 0.909058153629303,
+      "y_pos": 2434,
+      "text": "2.1.6.4. Bệnh cảnh Tây y thường gặp",
+      "confidence": 0.9702172843185631
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_023_text.png",
+      "bbox": [
+        [
+          462,
+          2509
+        ],
+        [
+          1300,
+          2509
+        ],
+        [
+          1300,
+          2558
+        ],
+        [
+          462,
+          2558
+        ]
+      ],
+      "score": 0.8667941689491272,
+      "y_pos": 2509,
+      "text": "Suy tim mạn, bệnh cơ tim thiếu máu",
+      "confidence": 0.9991083244482676
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_022_text.png",
+      "bbox": [
+        [
+          409,
+          2584
+        ],
+        [
+          841,
+          2584
+        ],
+        [
+          841,
+          2632
+        ],
+        [
+          409,
+          2632
+        ]
+      ],
+      "score": 0.8684921860694885,
+      "y_pos": 2584,
+      "text": "Suy hô hấp man",
+      "confidence": 0.9899275191128254
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_017_text.png",
+      "bbox": [
+        [
+          409,
+          2658
+        ],
+        [
+          801,
+          2658
+        ],
+        [
+          801,
+          2707
+        ],
+        [
+          409,
+          2707
+        ]
+      ],
+      "score": 0.8866050243377686,
+      "y_pos": 2658,
+      "text": "Huyết áp thấp",
+      "confidence": 0.9970926801363628
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_012_text.png",
+      "bbox": [
+        [
+          409,
+          2734
+        ],
+        [
+          657,
+          2734
+        ],
+        [
+          657,
+          2781
+        ],
+        [
+          409,
+          2781
+        ]
+      ],
+      "score": 0.8950336575508118,
+      "y_pos": 2734,
+      "text": "Unoang.",
+      "confidence": 0.5289703408877054
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0229_021_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          2816
+        ],
+        [
+          723,
+          2816
+        ],
+        [
+          723,
+          2863
+        ],
+        [
+          345,
+          2863
+        ]
+      ],
+      "score": 0.871745765209198,
+      "y_pos": 2816,
+      "text": "2.1.6.5. Pháp tri",
+      "confidence": 0.9623739970357794
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_016_text.png",
+      "bbox": [
+        [
+          407,
+          2889
+        ],
+        [
+          1347,
+          2889
+        ],
+        [
+          1347,
+          2941
+        ],
+        [
+          407,
+          2941
+        ]
+      ],
+      "score": 0.8878799676895142,
+      "y_pos": 2889,
+      "text": "– Ôn thông Tâm dương (<i>Tâm dương hư</i> )",
+      "confidence": 0.6040245473384858
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_010_text.png",
+      "bbox": [
+        [
+          408,
+          2966
+        ],
+        [
+          1481,
+          2966
+        ],
+        [
+          1481,
+          3017
+        ],
+        [
+          408,
+          3017
+        ]
+      ],
+      "score": 0.899814784526825,
+      "y_pos": 2966,
+      "text": "- Hồi dương cứu nghịch (Tâm dương hư thoát).",
+      "confidence": 0.41015457847844
+    },
+    {
+      "type": "text",
+      "img_path": "p0229_029_text.png",
+      "bbox": [
+        [
+          349,
+          3108
+        ],
+        [
+          436,
+          3108
+        ],
+        [
+          436,
+          3148
+        ],
+        [
+          349,
+          3148
+        ]
+      ],
+      "score": 0.7022051811218262,
+      "y_pos": 3108,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0229_019_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3366
+        ],
+        [
+          293,
+          3366
+        ]
+      ],
+      "score": 0.8795117735862732,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8738532049315316
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0229.png"
+}

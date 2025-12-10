@@ -1,0 +1,266 @@
+{
+  "page_num": 441,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0441_003_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9207600355148315,
+      "y_pos": 143,
+      "text": "~?    ~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6602049969018452
+    },
+    {
+      "type": "header",
+      "img_path": "p0441_004_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9139516353607178,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9855625457488574
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0441_005_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          326
+        ],
+        [
+          411,
+          326
+        ],
+        [
+          411,
+          375
+        ],
+        [
+          227,
+          375
+        ]
+      ],
+      "score": 0.9078922867774963,
+      "y_pos": 326,
+      "text": "A    Nâc",
+      "confidence": 0.835620604455471
+    },
+    {
+      "type": "text",
+      "img_path": "p0441_000_text.png",
+      "bbox": [
+        [
+          222,
+          415
+        ],
+        [
+          2358,
+          415
+        ],
+        [
+          2358,
+          612
+        ],
+        [
+          222,
+          612
+        ]
+      ],
+      "score": 0.9740662574768066,
+      "y_pos": 415,
+      "text": "Nấc chủ yếu là do vị khí xung lên, khí đến giữa hầu thì phát ra tiếng nấc, tiếng nấc ngắn, liên\ntục. Chứng trạng này nếu tự nhiên sinh ra có thể không cần chữa cũng tự nhiên mất đi, nếu\nkéo dài cơ thì phải chữa.",
+      "confidence": 0.9978448561676668
+    },
+    {
+      "type": "text",
+      "img_path": "p0441_008_text.png",
+      "bbox": [
+        [
+          283,
+          655
+        ],
+        [
+          1492,
+          655
+        ],
+        [
+          1492,
+          706
+        ],
+        [
+          283,
+          706
+        ]
+      ],
+      "score": 0.8976045250892639,
+      "y_pos": 655,
+      "text": "Cách chữa: Lấy huyệt Nội quan, dùng hào kim châm.",
+      "confidence": 0.5590633878520891
+    },
+    {
+      "type": "text",
+      "img_path": "p0441_001_text.png",
+      "bbox": [
+        [
+          281,
+          742
+        ],
+        [
+          2360,
+          742
+        ],
+        [
+          2360,
+          937
+        ],
+        [
+          281,
+          937
+        ]
+      ],
+      "score": 0.9714075326919556,
+      "y_pos": 742,
+      "text": "Thầy thuốc lệnh cho bệnh nhân hít vào thì tiến kim, ngón cái vê mạnh về phía trước, tiến sâu\n5 phân, lui kim ra ba phân, lệnh cho người bệnh thở ra; lại tiến kim và lui kim theo hơi thở\nnhư trên, 3 lần; rồi lưu kim 10 đến 15 phút.",
+      "confidence": 0.9966748166867255
+    },
+    {
+      "type": "text",
+      "img_path": "p0441_007_text.png",
+      "bbox": [
+        [
+          281,
+          980
+        ],
+        [
+          2176,
+          980
+        ],
+        [
+          2176,
+          1032
+        ],
+        [
+          281,
+          1032
+        ]
+      ],
+      "score": 0.9015320539474487,
+      "y_pos": 980,
+      "text": "Nếu không dứt có thể gia các huyệt <i>Thái khê, Cách du, Ach nghịch</i> hoặc <i>Nhân trung</i>.",
+      "confidence": 0.9894410337524853
+    },
+    {
+      "type": "text",
+      "img_path": "p0441_002_text.png",
+      "bbox": [
+        [
+          282,
+          1070
+        ],
+        [
+          2356,
+          1070
+        ],
+        [
+          2356,
+          1194
+        ],
+        [
+          282,
+          1194
+        ]
+      ],
+      "score": 0.9469191431999207,
+      "y_pos": 1070,
+      "text": "Giảng nghĩa của phương: <i>Nội quan</i> giải cơn co thắt cơ hoành, hòa vị. <i>Thái khê</i> ôn dương\ntán hàn. Cách du, Ách nghịch có tác dụng giáng khí, hòa trung.",
+      "confidence": 0.9944061119938372
+    },
+    {
+      "type": "number",
+      "img_path": "p0441_009_number.png",
+      "bbox": [
+        [
+          2303,
+          3300
+        ],
+        [
+          2352,
+          3300
+        ],
+        [
+          2352,
+          3335
+        ],
+        [
+          2303,
+          3335
+        ]
+      ],
+      "score": 0.8581784963607788,
+      "y_pos": 3300,
+      "text": "    \n            \n        \n    \n    \n        \n        .\n    \n    \n\n\n",
+      "confidence": 0.9774131218974407
+    },
+    {
+      "type": "footer",
+      "img_path": "p0441_006_footer.png",
+      "bbox": [
+        [
+          229,
+          3310
+        ],
+        [
+          1324,
+          3310
+        ],
+        [
+          1324,
+          3355
+        ],
+        [
+          229,
+          3355
+        ]
+      ],
+      "score": 0.901652991771698,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985551654167895
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0441.png"
+}

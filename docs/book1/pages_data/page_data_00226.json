@@ -1,0 +1,240 @@
+{
+  "page_num": 226,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0226_007_text.png",
+      "bbox": [
+        [
+          463,
+          449
+        ],
+        [
+          1783,
+          449
+        ],
+        [
+          1783,
+          505
+        ],
+        [
+          463,
+          505
+        ]
+      ],
+      "score": 0.6929802298545837,
+      "y_pos": 449,
+      "text": "* Phân tích bài <i>Dưỡng tâm thang</i> (Chứng trị chuẩn thằng)",
+      "confidence": 0.9799351277997939
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0226_008_figure_title.png",
+      "bbox": [
+        [
+          411,
+          535
+        ],
+        [
+          913,
+          535
+        ],
+        [
+          913,
+          582
+        ],
+        [
+          411,
+          582
+        ]
+      ],
+      "score": 0.6036235094070435,
+      "y_pos": 535,
+      "text": "Phân tích bài thuốc",
+      "confidence": 0.9897526786440894
+    },
+    {
+      "type": "table",
+      "img_path": "p0226_000_table.png",
+      "bbox": [
+        [
+          352,
+          637
+        ],
+        [
+          2124,
+          637
+        ],
+        [
+          2124,
+          1584
+        ],
+        [
+          352,
+          1584
+        ]
+      ],
+      "score": 0.9892788529396057,
+      "y_pos": 637,
+      "text": "Vị thuốc    Dược lý Đông y\nNhân sâm    Ngọt, hơi đắng. Bổ Tâm khí, đại bổ nguyên khí, ích huyết sinh tân\n<b>Đương quy</b>    Ngot, cay, ấm. Bổ huyết, hành huyết\nXuyên khung    Đẳng, ấm. Dưỡng Tâm huyết\nHoàng kỳ    Ngọt, ấm. Bổ Tâm khí, thăng dương khí của Tỳ\nPhục thần    Tiết Tâm nhiệt, bình ổn tâm thần\nViễn chí    Đắng, ấm. Bổ Tâm, Thận, an thần\nBá tử nhân    Ngot, bình. Bổ huyết, kiên Tỳ, an thần\nToan táo nhân    Ngọt, chua, bình. Dưỡng Tâm an thần, sinh tân dịch\nNgũ vị tử    Mặn, chua, ấm. Liễm hãn, cố tinh\nCam thảo    Ngọt, ấm. Bổ Tỳ thổ, bổ trung khí\nNhục quế    Cay, ngọt, rất nóng. Bổ Mệnh môn hỏa, kiện Tỳ, dẫn thuốc",
+      "confidence": 0.9266739060992414
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0226_006_figure_title.png",
+      "bbox": [
+        [
+          467,
+          1667
+        ],
+        [
+          1037,
+          1667
+        ],
+        [
+          1037,
+          1719
+        ],
+        [
+          467,
+          1719
+        ]
+      ],
+      "score": 0.7628302574157715,
+      "y_pos": 1667,
+      "text": "Công thức huyệt sử dụng",
+      "confidence": 0.9994665265083313
+    },
+    {
+      "type": "table",
+      "img_path": "p0226_001_table.png",
+      "bbox": [
+        [
+          351,
+          1765
+        ],
+        [
+          2125,
+          1765
+        ],
+        [
+          2125,
+          2399
+        ],
+        [
+          351,
+          2399
+        ]
+      ],
+      "score": 0.9880523681640625,
+      "y_pos": 1765,
+      "text": "Tên huyệt    Cơ sở lý luận    Tác dụng điều trị\nTâm du    Bối du huyệt của Tâm    Dưỡng Tâm an thần\nQuyết âm du    Du huyêt của Tâm bào    Bổ Tâm\nTam âm giao    Hội huyệt của 3 kinh âm    Tư âm thanh nhiệt\nNội quan    Lac huyêt của Tâm bào    Đinh Tâm\nThần môn    Du thổ huyệt /Tâm⇒ Tả Tâm hỏa    Thanh Tâm an thần\nCách du    Hôi huyết của huyết    Bổ huyết\nHuyết hải    Bể của huyết    Bổ huyết",
+      "confidence": 0.9106877422140784
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0226_005_paragraph_title.png",
+      "bbox": [
+        [
+          1045,
+          2536
+        ],
+        [
+          1434,
+          2536
+        ],
+        [
+          1434,
+          2594
+        ],
+        [
+          1045,
+          2594
+        ]
+      ],
+      "score": 0.8530308604240417,
+      "y_pos": 2536,
+      "text": "TÂM HUYẾT HƯ",
+      "confidence": 0.7574552297592163
+    },
+    {
+      "type": "text",
+      "img_path": "p0226_002_text.png",
+      "bbox": [
+        [
+          365,
+          2663
+        ],
+        [
+          2106,
+          2663
+        ],
+        [
+          2106,
+          2912
+        ],
+        [
+          365,
+          2912
+        ]
+      ],
+      "score": 0.9362736940383911,
+      "y_pos": 2663,
+      "text": "- Chức năng chủ yếu bị rối loạn là chức năng chủ thần minh và chủ huyết mach của Tâm.\n- Chủ chứng (triệu chứng quan trọng): mặt xanh, môi nhat. Hồi hôp, trống ngực, mất ngủ\n- Thuốc tiêu biểu trong điều tri bênh chứng Tâm huyết hư: Thiên vương bổ tâm đan, Dưỡng\ntâm thang",
+      "confidence": 0.9886094192188485
+    },
+    {
+      "type": "number",
+      "img_path": "p0226_004_number.png",
+      "bbox": [
+        [
+          2043,
+          3110
+        ],
+        [
+          2120,
+          3110
+        ],
+        [
+          2120,
+          3146
+        ],
+        [
+          2043,
+          3146
+        ]
+      ],
+      "score": 0.8669168949127197,
+      "y_pos": 3110,
+      "text": "    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0226_003_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.9150603413581848,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8789173466818673
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0226.png"
+}

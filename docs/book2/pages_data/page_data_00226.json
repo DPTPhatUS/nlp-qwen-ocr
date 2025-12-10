@@ -1,0 +1,550 @@
+{
+  "page_num": 226,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0226_011_header.png",
+      "bbox": [
+        [
+          1610,
+          142
+        ],
+        [
+          2376,
+          142
+        ],
+        [
+          2376,
+          202
+        ],
+        [
+          1610,
+          202
+        ]
+      ],
+      "score": 0.9221777319908142,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7842002305246535
+    },
+    {
+      "type": "header",
+      "img_path": "p0226_015_header.png",
+      "bbox": [
+        [
+          229,
+          156
+        ],
+        [
+          907,
+          156
+        ],
+        [
+          907,
+          202
+        ],
+        [
+          229,
+          202
+        ]
+      ],
+      "score": 0.9166904091835022,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9881776160207288
+    },
+    {
+      "type": "image",
+      "img_path": "p0226_000_image.png",
+      "bbox": [
+        [
+          647,
+          370
+        ],
+        [
+          1923,
+          370
+        ],
+        [
+          1923,
+          1589
+        ],
+        [
+          647,
+          1589
+        ]
+      ],
+      "score": 0.979491114616394,
+      "y_pos": 370
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0226_018_figure_title.png",
+      "bbox": [
+        [
+          1195,
+          1683
+        ],
+        [
+          1394,
+          1683
+        ],
+        [
+          1394,
+          1726
+        ],
+        [
+          1195,
+          1726
+        ]
+      ],
+      "score": 0.893264651298523,
+      "y_pos": 1683,
+      "text": "<b>Hình 113</b>",
+      "confidence": 0.9502577732006708
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0226_009_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1768
+        ],
+        [
+          647,
+          1768
+        ],
+        [
+          647,
+          1818
+        ],
+        [
+          226,
+          1818
+        ]
+      ],
+      "score": 0.9255425930023193,
+      "y_pos": 1768,
+      "text": "72. Tân khí huyệt",
+      "confidence": 0.9225837149118122
+    },
+    {
+      "type": "text",
+      "img_path": "p0226_020_text.png",
+      "bbox": [
+        [
+          284,
+          1856
+        ],
+        [
+          2104,
+          1856
+        ],
+        [
+          2104,
+          1998
+        ],
+        [
+          284,
+          1998
+        ]
+      ],
+      "score": 0.7591385245323181,
+      "y_pos": 1856,
+      "text": "Vị trí: Lấy rốn làm đỉnh tam giác có mỗi cạnh 3 thốn, 2 góc dưới là huyệt. (H.113)\n<b>Cách châm:</b> Châm đứng kim, sâu 0,5 – 1 thốn.",
+      "confidence": 0.9845645074725997
+    },
+    {
+      "type": "text",
+      "img_path": "p0226_008_text.png",
+      "bbox": [
+        [
+          286,
+          2037
+        ],
+        [
+          1203,
+          2037
+        ],
+        [
+          1203,
+          2087
+        ],
+        [
+          286,
+          2087
+        ]
+      ],
+      "score": 0.9266983866691589,
+      "y_pos": 2037,
+      "text": "Chủ tri: Vô sinh, việm hố châu man tính.",
+      "confidence": 0.4174325310048603
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0226_016_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2126
+        ],
+        [
+          708,
+          2126
+        ],
+        [
+          708,
+          2179
+        ],
+        [
+          227,
+          2179
+        ]
+      ],
+      "score": 0.9091846942901611,
+      "y_pos": 2126,
+      "text": "73. Chỉ tả (Lợi niệu)",
+      "confidence": 0.9948297142982483
+    },
+    {
+      "type": "text",
+      "img_path": "p0226_007_text.png",
+      "bbox": [
+        [
+          290,
+          2213
+        ],
+        [
+          1253,
+          2213
+        ],
+        [
+          1253,
+          2269
+        ],
+        [
+          290,
+          2269
+        ]
+      ],
+      "score": 0.9268019795417786,
+      "y_pos": 2213,
+      "text": "Vị trí: Ở thẳng rốn xuống 2,5 thốn. (H.113)",
+      "confidence": 0.9881075779596965
+    },
+    {
+      "type": "text",
+      "img_path": "p0226_003_text.png",
+      "bbox": [
+        [
+          287,
+          2306
+        ],
+        [
+          1350,
+          2306
+        ],
+        [
+          1350,
+          2355
+        ],
+        [
+          287,
+          2355
+        ]
+      ],
+      "score": 0.9334136247634888,
+      "y_pos": 2306,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 1 – 1,5 thôn.",
+      "confidence": 0.9713992704736426
+    },
+    {
+      "type": "text",
+      "img_path": "p0226_004_text.png",
+      "bbox": [
+        [
+          286,
+          2395
+        ],
+        [
+          1650,
+          2395
+        ],
+        [
+          1650,
+          2447
+        ],
+        [
+          286,
+          2447
+        ]
+      ],
+      "score": 0.9328237771987915,
+      "y_pos": 2395,
+      "text": "Chủ trị: Viêm ruột, ký sinh trùng đường ruột, bí đái, đái dầm.",
+      "confidence": 0.6616697600111365
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0226_013_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          2485
+        ],
+        [
+          649,
+          2485
+        ],
+        [
+          649,
+          2538
+        ],
+        [
+          228,
+          2538
+        ]
+      ],
+      "score": 0.9201288819313049,
+      "y_pos": 2485,
+      "text": "74. Hạ Trung cực",
+      "confidence": 0.9234086672465006
+    },
+    {
+      "type": "text",
+      "img_path": "p0226_005_text.png",
+      "bbox": [
+        [
+          290,
+          2574
+        ],
+        [
+          1375,
+          2574
+        ],
+        [
+          1375,
+          2627
+        ],
+        [
+          290,
+          2627
+        ]
+      ],
+      "score": 0.9304904937744141,
+      "y_pos": 2574,
+      "text": "Vị trí: Ở dưới huyệt Trung cực 0,5 thốn. (H.113)",
+      "confidence": 0.9867384755611419
+    },
+    {
+      "type": "text",
+      "img_path": "p0226_002_text.png",
+      "bbox": [
+        [
+          286,
+          2663
+        ],
+        [
+          1611,
+          2663
+        ],
+        [
+          1611,
+          2714
+        ],
+        [
+          286,
+          2714
+        ]
+      ],
+      "score": 0.9340328574180603,
+      "y_pos": 2663,
+      "text": "Cách châm: Chếch về hướng xương mu, sâu 2 – 2,5 thốn.",
+      "confidence": 0.985442249883305
+    },
+    {
+      "type": "text",
+      "img_path": "p0226_001_text.png",
+      "bbox": [
+        [
+          286,
+          2754
+        ],
+        [
+          1148,
+          2754
+        ],
+        [
+          1148,
+          2807
+        ],
+        [
+          286,
+          2807
+        ]
+      ],
+      "score": 0.9354280233383179,
+      "y_pos": 2754,
+      "text": "Chủ trị: Bại liệt gây ra đái không cầm.",
+      "confidence": 0.5456840206937092
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0226_019_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          2845
+        ],
+        [
+          502,
+          2845
+        ],
+        [
+          502,
+          2893
+        ],
+        [
+          228,
+          2893
+        ]
+      ],
+      "score": 0.8874105215072632,
+      "y_pos": 2845,
+      "text": "75.    Da niêu",
+      "confidence": 0.7385270893573761
+    },
+    {
+      "type": "text",
+      "img_path": "p0226_010_text.png",
+      "bbox": [
+        [
+          289,
+          2932
+        ],
+        [
+          1487,
+          2932
+        ],
+        [
+          1487,
+          2988
+        ],
+        [
+          289,
+          2988
+        ]
+      ],
+      "score": 0.9229723811149597,
+      "y_pos": 2932,
+      "text": "Vị trí: Ở huyệt Trung cực sang ngang 1 thốn. (H.113)",
+      "confidence": 0.9925869913012894
+    },
+    {
+      "type": "text",
+      "img_path": "p0226_012_text.png",
+      "bbox": [
+        [
+          287,
+          3023
+        ],
+        [
+          1367,
+          3023
+        ],
+        [
+          1367,
+          3073
+        ],
+        [
+          287,
+          3073
+        ]
+      ],
+      "score": 0.9201461672782898,
+      "y_pos": 3023,
+      "text": "<b>Cách châm:</b> Châm chệch kim, sâu 1 – 1,5 thôn.",
+      "confidence": 0.9772851827243964
+    },
+    {
+      "type": "text",
+      "img_path": "p0226_006_text.png",
+      "bbox": [
+        [
+          288,
+          3111
+        ],
+        [
+          893,
+          3111
+        ],
+        [
+          893,
+          3164
+        ],
+        [
+          288,
+          3164
+        ]
+      ],
+      "score": 0.9268854260444641,
+      "y_pos": 3111,
+      "text": "Chủ trị: Đái dầm, đái đêm.",
+      "confidence": 0.842335262468883
+    },
+    {
+      "type": "footer",
+      "img_path": "p0226_014_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9175444841384888,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0226_017_number.png",
+      "bbox": [
+        [
+          2278,
+          3337
+        ],
+        [
+          2350,
+          3337
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2278,
+          3377
+        ]
+      ],
+      "score": 0.8962831497192383,
+      "y_pos": 3337,
+      "text": "    \n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0226.png"
+}

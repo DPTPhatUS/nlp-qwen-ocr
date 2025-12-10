@@ -1,0 +1,344 @@
+{
+  "page_num": 604,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0604_008_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9114021062850952,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0604_010_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9053698182106018,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "text",
+      "img_path": "p0604_004_text.png",
+      "bbox": [
+        [
+          279,
+          307
+        ],
+        [
+          2361,
+          307
+        ],
+        [
+          2361,
+          505
+        ],
+        [
+          279,
+          505
+        ]
+      ],
+      "score": 0.9719630479812622,
+      "y_pos": 307,
+      "text": "Phép \"Tri nhiệt cảm độ\" này đã dựa vào một số phương tiện chính xác như: Hương đặc chế\ncó sự ổn định nhiệt lượng để hơ vào huyệt; đồng hồ bấm giây để đo thời gian từ khi đặt\nhương hơ tới lúc người bệnh chịu không nổi tự rút tay ra.",
+      "confidence": 0.9990899932035496
+    },
+    {
+      "type": "text",
+      "img_path": "p0604_001_text.png",
+      "bbox": [
+        [
+          278,
+          542
+        ],
+        [
+          2359,
+          542
+        ],
+        [
+          2359,
+          1089
+        ],
+        [
+          278,
+          1089
+        ]
+      ],
+      "score": 0.986194372177124,
+      "y_pos": 542,
+      "text": "Nhưng nhìn chung, phương pháp còn những cơ sở gây ra sai lạc lớn như: Khoảng cách\ngiữa nguồn nhiệt ở cây hương với các huyệt đo khó có sự đồng đều: thời gian bắt đầu hơ và\nbắt đầu bấm đồng hồ khó có sự ăn khớp nhau. Ngoài ra kết quả số đo cũng chỉ được tính\nbằng sự so sánh giữa đa số tương đương với số ở thời gian ngắn trội, với số ở thời gian dài\ntrội, do vậy chỉ có thể theo đó nhận định nét lớn mà thôi. Cũng còn phải kể đến một tác dụng\nphụ nữa là tất cả các tỉnh huyệt trải qua đo bằng hương, đương nhiên phải chịu sự hơ nóng\nlên, do đó mà có sự kích động không cần thiết, hoặc giả có thể nhân đó gây sai lệch hoạt\nđộng kinh khí không cần thiết.",
+      "confidence": 0.9994605998443953
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0604_009_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          1130
+        ],
+        [
+          1449,
+          1130
+        ],
+        [
+          1449,
+          1180
+        ],
+        [
+          283,
+          1180
+        ]
+      ],
+      "score": 0.9073692560195923,
+      "y_pos": 1130,
+      "text": "c. Ra đời phép chẩn bệnh bằng nhiệt độ kinh lạc",
+      "confidence": 0.984247474037871
+    },
+    {
+      "type": "text",
+      "img_path": "p0604_003_text.png",
+      "bbox": [
+        [
+          280,
+          1219
+        ],
+        [
+          2359,
+          1219
+        ],
+        [
+          2359,
+          1486
+        ],
+        [
+          280,
+          1486
+        ]
+      ],
+      "score": 0.9774012565612793,
+      "y_pos": 1219,
+      "text": "Từ năm 1983, tại học viện Quân y, tôi đã dùng nhiệt kế điện tử của Liên Xô, loại máy TĐM-\n60 và TZM-1 – Made in USSR để đo nhiệt độ tỉnh huyệt dùng vào chẩn đoán và theo dõi điều\ntrị lâm sàng. Phương pháp này được phát triển từ cách thức tiến hành và huyệt vi mà Xích\nVũ đã nêu trong phép \"Trị nhiệt cảm độ\", nhưng có những ưu điểm hơn như sau:",
+      "confidence": 0.9996794551228866
+    },
+    {
+      "type": "text",
+      "img_path": "p0604_007_text.png",
+      "bbox": [
+        [
+          298,
+          1524
+        ],
+        [
+          2360,
+          1524
+        ],
+        [
+          2360,
+          1645
+        ],
+        [
+          298,
+          1645
+        ]
+      ],
+      "score": 0.9520642757415771,
+      "y_pos": 1524,
+      "text": "\n    Máy có độ nhạy và chính xác (đo được chênh lệch 1/10°C, do đó nhiệt độ các tỉnh huyệt\n\nlệch nhau 1/10<sup>0</sup>C là đã biết.",
+      "confidence": 0.9853676823261488
+    },
+    {
+      "type": "text",
+      "img_path": "p0604_005_text.png",
+      "bbox": [
+        [
+          300,
+          1685
+        ],
+        [
+          2361,
+          1685
+        ],
+        [
+          2361,
+          1883
+        ],
+        [
+          300,
+          1883
+        ]
+      ],
+      "score": 0.9674925208091736,
+      "y_pos": 1685,
+      "text": "• Thời gian đo đủ 24 điểm khoảng 20 phút (hiện nay máy đo do ĐHSP 1 Việt Nam chế tạo\nchúng tôi đang dùng, chỉ chừng 10 phút). Khoảng thời gian đo càng ngắn càng có lợi cho\nviệc đánh giá tương quan vì ít sự nhiễu công năng do ngoại cảnh gây nên.",
+      "confidence": 0.9975380335800162
+    },
+    {
+      "type": "text",
+      "img_path": "p0604_002_text.png",
+      "bbox": [
+        [
+          299,
+          1919
+        ],
+        [
+          2359,
+          1919
+        ],
+        [
+          2359,
+          2257
+        ],
+        [
+          299,
+          2257
+        ]
+      ],
+      "score": 0.9793422818183899,
+      "y_pos": 1919,
+      "text": "\n    Khi lập công thức tính toán, chúng tôi chia riêng chi trên và chi dưới bởi lý lẽ các tỉnh\n\nhuyệt ở chi trên và chi dưới có khoảng cách đến trung tâm nhiệt của cơ thể khác nhau,\ndo đó còn có tác dụng tìm ra sự phân ly sinh lý và bệnh lý khác nhau giữa nhiệt độ của\ntỉnh huyệt ở chi trên và chi dưới theo nghĩa lý cổ điển: Thực nhiệt, phải nhiệt tới lòng\nbàn chân; thực hàn, phải hàn tới lòng bàn tay.",
+      "confidence": 0.9932600736554157
+    },
+    {
+      "type": "text",
+      "img_path": "p0604_000_text.png",
+      "bbox": [
+        [
+          298,
+          2296
+        ],
+        [
+          2361,
+          2296
+        ],
+        [
+          2361,
+          2915
+        ],
+        [
+          298,
+          2915
+        ]
+      ],
+      "score": 0.9863524436950684,
+      "y_pos": 2296,
+      "text": "\n    Trong nội bộ từng chi, cách phân định hàn nhiệt của từng đường kinh trong chi được\n\ndựa vào sự so sánh với nhiệt độ trung bình của cả chi, không dựa theo đa số, do đó kết\nquả chẩn đoán bằng các chỉ số phù hợp với Học thuyết tạng phủ và Tạng phủ biện\nchứng luận trị của lý luận Đông y. Kiểm nghiệm ở người bệnh khi bệnh biến thay đổi, ở\nngười khoẻ khi thay đổi bài tập (vũ thuật, thể dục) thấy số đo nhiệt độ tại tỉnh huyệt kinh\nlạc và chỉ số tính toán biểu thị hoạt động của công năng kinh khí tương ứng với chứng\ntrạng một cách phù hợp. Do đó, theo số đo và kết quả tính các chỉ số nhiệt độ kinh lạc\ntrên, có thể chẩn bệnh và gọi ra được chứng trạng tương ứng, cho dù không trực tiếp\nthấy người bệnh.",
+      "confidence": 0.9976434516674862
+    },
+    {
+      "type": "text",
+      "img_path": "p0604_006_text.png",
+      "bbox": [
+        [
+          299,
+          2953
+        ],
+        [
+          2360,
+          2953
+        ],
+        [
+          2360,
+          3148
+        ],
+        [
+          299,
+          3148
+        ]
+      ],
+      "score": 0.9650036692619324,
+      "y_pos": 2953,
+      "text": "\n    Kết thúc cuộc đo, do đầu đo đặt lên huyệt vị mức độ vừa phải, không gây phản ứng kích\n\nthích ở huyệt vị như hơ hương gây nóng, nên không ảnh hưởng tới tình trạng sẵn có ở\nngười bênh.",
+      "confidence": 0.994441115515679
+    },
+    {
+      "type": "number",
+      "img_path": "p0604_012_number.png",
+      "bbox": [
+        [
+          2330,
+          3338
+        ],
+        [
+          2354,
+          3338
+        ],
+        [
+          2354,
+          3374
+        ],
+        [
+          2330,
+          3374
+        ]
+      ],
+      "score": 0.8015516400337219,
+      "y_pos": 3338,
+      "text": "\n\n            \n\n\n    \n\n\n\n    ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0604_011_footer.png",
+      "bbox": [
+        [
+          228,
+          3339
+        ],
+        [
+          1323,
+          3339
+        ],
+        [
+          1323,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.8860257267951965,
+      "y_pos": 3339,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987586095647992
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0604.png"
+}

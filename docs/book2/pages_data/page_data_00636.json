@@ -1,0 +1,214 @@
+{
+  "page_num": 636,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0636_002_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2370,
+          143
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9126700758934021,
+      "y_pos": 143,
+      "text": "~?    ~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6787885708941355
+    },
+    {
+      "type": "header",
+      "img_path": "p0636_003_header.png",
+      "bbox": [
+        [
+          230,
+          152
+        ],
+        [
+          1173,
+          152
+        ],
+        [
+          1173,
+          200
+        ],
+        [
+          230,
+          200
+        ]
+      ],
+      "score": 0.8979146480560303,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐÔ KINH LẠC",
+      "confidence": 0.9942242655998621
+    },
+    {
+      "type": "table",
+      "img_path": "p0636_007_table.png",
+      "bbox": [
+        [
+          410,
+          290
+        ],
+        [
+          2175,
+          290
+        ],
+        [
+          2175,
+          466
+        ],
+        [
+          410,
+          466
+        ]
+      ],
+      "score": 0.6198142766952515,
+      "y_pos": 290,
+      "text": "35,9    0,7    35,55    0,11    35,66\n35,2    35,44",
+      "confidence": 0.8556954375335148
+    },
+    {
+      "type": "text",
+      "img_path": "p0636_006_text.png",
+      "bbox": [
+        [
+          345,
+          2039
+        ],
+        [
+          1654,
+          2039
+        ],
+        [
+          1654,
+          2094
+        ],
+        [
+          345,
+          2094
+        ]
+      ],
+      "score": 0.6283518671989441,
+      "y_pos": 2039,
+      "text": "Tiểu kết: Thoái hoá đốt sống cổ (có kèm bại hai cánh tay).",
+      "confidence": 0.997469378511111
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0636_005_figure_title.png",
+      "bbox": [
+        [
+          286,
+          2130
+        ],
+        [
+          2149,
+          2130
+        ],
+        [
+          2149,
+          2187
+        ],
+        [
+          286,
+          2187
+        ]
+      ],
+      "score": 0.7368941307067871,
+      "y_pos": 2130,
+      "text": "Bảng qui nạp mô hình chỉ số nhiệt kinh lạc bệnh chứng thoái hoá đốt sống cổ",
+      "confidence": 0.9995715896804611
+    },
+    {
+      "type": "table",
+      "img_path": "p0636_000_table.png",
+      "bbox": [
+        [
+          229,
+          2239
+        ],
+        [
+          2365,
+          2239
+        ],
+        [
+          2365,
+          3119
+        ],
+        [
+          229,
+          3119
+        ]
+      ],
+      "score": 0.981777012348175,
+      "y_pos": 2239,
+      "text": "thấp    trên    tháp    dưới\nHọ tên bệnh nhân    Ngày tháng năm đo    độ môi trường    nhất,    t độ<br>chi    cao    trên    giới    ch:    hạn    bào    đô    nhât,    cao    dưới    ch:    giới    ch:    hạn\nNhiệt    Nhiệt<br>nhất c    Số    Nhiệt<br>nhất c    sô    Bàng    Thận\nSTT    Tuổi    Sai    Tiểu    Tâm    Tam    Tâm    Đại    Phê    Sai    Đảm    <math>\\geq</math>    Can    ŕ\nNguyễn L    62    9g50'    26,2° |35,4-34,9|    0,08    -0,2 |+0,25| +0,1    +0,2    0    |+0,15|34,7-33,0|0,28|    -0,2    +0,3    -0,1\n|+0,15|+0,45|+0,25|\n24/9/94\n9g00'    26°\n2    Vũ Đ    34    35,3-34,5    0,13 |-0,25| +0,4 | +0,3 |+0,25|+0,15| +0,3 |30,0-27,8 | 0,37 | +0,1 |+0,15| -0,5    -0,9 |+0,15|+0,35|\n29/9/94\n' <sub>3</sub> |Nguyễn Thị|    56    11g45'    29,9° |35,9-35,2|    0,11    -0,3    +0,2    0    +0,25    0    |+0,05|34,2-33,1|0,18|-0,15|+0,05|+0,4|    -0,2    +0,5 |+0,35\n7/10/94",
+      "confidence": 0.8858429458152762
+    },
+    {
+      "type": "number",
+      "img_path": "p0636_004_number.png",
+      "bbox": [
+        [
+          2305,
+          3337
+        ],
+        [
+          2353,
+          3337
+        ],
+        [
+          2353,
+          3374
+        ],
+        [
+          2305,
+          3374
+        ]
+      ],
+      "score": 0.8643041253089905,
+      "y_pos": 3337,
+      "text": "    \n    \n    \n\n\n    \n    \n.\n\n\n    ",
+      "confidence": 0.965473168036517
+    },
+    {
+      "type": "footer",
+      "img_path": "p0636_001_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1325,
+          3341
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9127282500267029,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987242975324955
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0636.png"
+}

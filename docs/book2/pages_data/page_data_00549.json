@@ -1,0 +1,864 @@
+{
+  "page_num": 549,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0549_000_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2371,
+          144
+        ],
+        [
+          2371,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9221786260604858,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7566693045553707
+    },
+    {
+      "type": "header",
+      "img_path": "p0549_001_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.919257402420044,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9977136671543121
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_024_reference_content.png",
+      "bbox": [
+        [
+          230,
+          308
+        ],
+        [
+          2142,
+          308
+        ],
+        [
+          2142,
+          366
+        ],
+        [
+          230,
+          366
+        ]
+      ],
+      "score": 0.5735776424407959,
+      "y_pos": 308,
+      "text": "774. Hành kinh đau bụng: Thượng liêu, Quan nguyên thấu Trung cực, Tam âm giao.",
+      "confidence": 0.9990228787064552
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_021_reference_content.png",
+      "bbox": [
+        [
+          232,
+          399
+        ],
+        [
+          1686,
+          399
+        ],
+        [
+          1686,
+          458
+        ],
+        [
+          232,
+          458
+        ]
+      ],
+      "score": 0.5814005732536316,
+      "y_pos": 399,
+      "text": "775. Viêm âm đạo do nấm: Quy lai, Thái khê, Khí hải, Phục lưu.",
+      "confidence": 0.9959143688902259
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_031_reference_content.png",
+      "bbox": [
+        [
+          231,
+          490
+        ],
+        [
+          2197,
+          490
+        ],
+        [
+          2197,
+          550
+        ],
+        [
+          231,
+          550
+        ]
+      ],
+      "score": 0.5288065671920776,
+      "y_pos": 490,
+      "text": "776. Viêm nội mạc tử cung: Đới mạch, Trung cực thấu Khúc cốt, Địa cơ, Tam âm giao.",
+      "confidence": 0.9990453344015848
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_020_reference_content.png",
+      "bbox": [
+        [
+          231,
+          583
+        ],
+        [
+          1563,
+          583
+        ],
+        [
+          1563,
+          643
+        ],
+        [
+          231,
+          643
+        ]
+      ],
+      "score": 0.5832562446594238,
+      "y_pos": 583,
+      "text": "777. Viêm nội mạc tử cung: Ngũ khu, Đới mạch, Tử cung.",
+      "confidence": 0.996638366154262
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_018_reference_content.png",
+      "bbox": [
+        [
+          232,
+          673
+        ],
+        [
+          1819,
+          673
+        ],
+        [
+          1819,
+          734
+        ],
+        [
+          232,
+          734
+        ]
+      ],
+      "score": 0.6045008301734924,
+      "y_pos": 673,
+      "text": "778. Viêm nội mạc tử cung: Quy lai, Khí hải, Huyết hải, Tam âm giao.",
+      "confidence": 0.9990224378449576
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_015_reference_content.png",
+      "bbox": [
+        [
+          231,
+          765
+        ],
+        [
+          1491,
+          765
+        ],
+        [
+          1491,
+          825
+        ],
+        [
+          231,
+          825
+        ]
+      ],
+      "score": 0.6125285625457764,
+      "y_pos": 765,
+      "text": "779. Sa dạ con: Bách hội, Khí hải, Duy bào, Túc tam lý.",
+      "confidence": 0.9969394196543777
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_011_reference_content.png",
+      "bbox": [
+        [
+          233,
+          855
+        ],
+        [
+          2093,
+          855
+        ],
+        [
+          2093,
+          918
+        ],
+        [
+          233,
+          918
+        ]
+      ],
+      "score": 0.6161791086196899,
+      "y_pos": 855,
+      "text": "780. Sa dạ con: Đề thác huyệt, Trung cực thấu Khúc cốt, Túc tam lý, Tam âm giao.",
+      "confidence": 0.999798273894845
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_005_reference_content.png",
+      "bbox": [
+        [
+          233,
+          949
+        ],
+        [
+          1837,
+          949
+        ],
+        [
+          1837,
+          1010
+        ],
+        [
+          233,
+          1010
+        ]
+      ],
+      "score": 0.6541185975074768,
+      "y_pos": 949,
+      "text": "781. Sa dạ con: Khí hải, Duy bào, Trung cực, Túc tam lý, Tam âm giao.",
+      "confidence": 0.9996643603687555
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_004_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1041
+        ],
+        [
+          1294,
+          1041
+        ],
+        [
+          1294,
+          1101
+        ],
+        [
+          233,
+          1101
+        ]
+      ],
+      "score": 0.6609635949134827,
+      "y_pos": 1041,
+      "text": "782. Sa dạ con: Tử cung, Duy bào, Túc tam lý.",
+      "confidence": 0.9956478400433317
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_007_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1132
+        ],
+        [
+          1322,
+          1132
+        ],
+        [
+          1322,
+          1190
+        ],
+        [
+          233,
+          1190
+        ]
+      ],
+      "score": 0.6474306583404541,
+      "y_pos": 1132,
+      "text": "783. Sa dạ con: Khúc tuyền, Chiếu hải, Đại đôn.",
+      "confidence": 0.9987949023441393
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_012_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1225
+        ],
+        [
+          1324,
+          1225
+        ],
+        [
+          1324,
+          1284
+        ],
+        [
+          233,
+          1284
+        ]
+      ],
+      "score": 0.6154909133911133,
+      "y_pos": 1225,
+      "text": "784. Sa dạ con: Khí hải, Duy bào, Tam âm giao.",
+      "confidence": 0.9971934991578261
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_014_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1318
+        ],
+        [
+          1061,
+          1318
+        ],
+        [
+          1061,
+          1376
+        ],
+        [
+          233,
+          1376
+        ]
+      ],
+      "score": 0.6126973032951355,
+      "y_pos": 1318,
+      "text": "785. Sót nhau: Kiên tỉnh, Trung cực.",
+      "confidence": 0.9991827277760756
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_028_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1408
+        ],
+        [
+          989,
+          1408
+        ],
+        [
+          989,
+          1466
+        ],
+        [
+          232,
+          1466
+        ]
+      ],
+      "score": 0.5658339262008667,
+      "y_pos": 1408,
+      "text": "786. Khó đẻ: Chí âm, Túc tam lý.",
+      "confidence": 0.9980593586669249
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_025_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1499
+        ],
+        [
+          1345,
+          1499
+        ],
+        [
+          1345,
+          1560
+        ],
+        [
+          233,
+          1560
+        ]
+      ],
+      "score": 0.5718847513198853,
+      "y_pos": 1499,
+      "text": "787. Nhau thai không ra: Chiếu hải, Ngoại quan.",
+      "confidence": 0.997760896780053
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_029_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1589
+        ],
+        [
+          1971,
+          1589
+        ],
+        [
+          1971,
+          1652
+        ],
+        [
+          232,
+          1652
+        ]
+      ],
+      "score": 0.5415523052215576,
+      "y_pos": 1589,
+      "text": "788. Dẫn đẻ, thúc đẻ: Trường cường, Âm lăng tuyền, Hợp cốc, Tam âm giao.",
+      "confidence": 0.998474032492251
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_026_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1682
+        ],
+        [
+          1601,
+          1682
+        ],
+        [
+          1601,
+          1742
+        ],
+        [
+          233,
+          1742
+        ]
+      ],
+      "score": 0.571261465549469,
+      "y_pos": 1682,
+      "text": "789. Thúc đẻ: Thượng liêu, Thứ liêu, Hợp cốc, Tam âm giao.",
+      "confidence": 0.9991782446702321
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_013_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1773
+        ],
+        [
+          1096,
+          1773
+        ],
+        [
+          1096,
+          1834
+        ],
+        [
+          233,
+          1834
+        ]
+      ],
+      "score": 0.6150842308998108,
+      "y_pos": 1773,
+      "text": "790. Thúc đẻ: Hợp cốc, Tam âm giao.",
+      "confidence": 0.9987119838998124
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_016_reference_content.png",
+      "bbox": [
+        [
+          234,
+          1865
+        ],
+        [
+          1322,
+          1865
+        ],
+        [
+          1322,
+          1927
+        ],
+        [
+          234,
+          1927
+        ]
+      ],
+      "score": 0.6124988794326782,
+      "y_pos": 1865,
+      "text": "791. Khó đẻ: Hợp cốc, Tam âm giao, Thái xung.",
+      "confidence": 0.9990123497678879
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_010_reference_content.png",
+      "bbox": [
+        [
+          233,
+          1955
+        ],
+        [
+          1285,
+          1955
+        ],
+        [
+          1285,
+          2015
+        ],
+        [
+          233,
+          2015
+        ]
+      ],
+      "score": 0.6194719672203064,
+      "y_pos": 1955,
+      "text": "792. Ít sữa: Thiếu trạch, Chiên trung, Nhũ căn.",
+      "confidence": 0.9987710227771681
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_006_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2049
+        ],
+        [
+          1653,
+          2049
+        ],
+        [
+          1653,
+          2109
+        ],
+        [
+          233,
+          2109
+        ]
+      ],
+      "score": 0.6478582620620728,
+      "y_pos": 2049,
+      "text": "793. Sữa quá ít: Chiên trung, Nhũ căn, Thiếu trạch, Túc tam lý.",
+      "confidence": 0.9988284477820764
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_019_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2141
+        ],
+        [
+          1705,
+          2141
+        ],
+        [
+          1705,
+          2201
+        ],
+        [
+          233,
+          2201
+        ]
+      ],
+      "score": 0.600787878036499,
+      "y_pos": 2141,
+      "text": "794. Sữa ít không đủ: Chi câu, Túc tam lý, Chiên trung, Nhũ căn.",
+      "confidence": 0.9991952253110481
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_017_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2232
+        ],
+        [
+          1110,
+          2232
+        ],
+        [
+          1110,
+          2292
+        ],
+        [
+          233,
+          2292
+        ]
+      ],
+      "score": 0.6094644665718079,
+      "y_pos": 2232,
+      "text": "795. Thiếu sữa: Hợp cốc, Chiên trung.",
+      "confidence": 0.9990598391263913
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_009_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2324
+        ],
+        [
+          1409,
+          2324
+        ],
+        [
+          1409,
+          2383
+        ],
+        [
+          233,
+          2383
+        ]
+      ],
+      "score": 0.6220749020576477,
+      "y_pos": 2324,
+      "text": "796. Viêm tuyến vú: Chiên trung, Hợp cốc, Khúc trì.",
+      "confidence": 0.9977577182481874
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_022_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2416
+        ],
+        [
+          1326,
+          2416
+        ],
+        [
+          1326,
+          2475
+        ],
+        [
+          233,
+          2475
+        ]
+      ],
+      "score": 0.5808202028274536,
+      "y_pos": 2416,
+      "text": "797. Đàn bà sưng vú: Đồng tử liêu, Thiếu trạch.",
+      "confidence": 0.9973730444908142
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_023_reference_content.png",
+      "bbox": [
+        [
+          233,
+          2506
+        ],
+        [
+          1328,
+          2506
+        ],
+        [
+          1328,
+          2564
+        ],
+        [
+          233,
+          2564
+        ]
+      ],
+      "score": 0.5784626007080078,
+      "y_pos": 2506,
+      "text": "798. Viêm vú: Kiên tỉnh, Thiên tông, Thiếu trạch.",
+      "confidence": 0.9994457480954189
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_032_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2598
+        ],
+        [
+          1967,
+          2598
+        ],
+        [
+          1967,
+          2658
+        ],
+        [
+          231,
+          2658
+        ]
+      ],
+      "score": 0.5085777044296265,
+      "y_pos": 2598,
+      "text": "799. Viêm tuyến vú và ít sữa: Thiên tông, Chiên trung, Nhũ căn, Thiếu trạch",
+      "confidence": 0.9982587904125065
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_030_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2691
+        ],
+        [
+          1126,
+          2691
+        ],
+        [
+          1126,
+          2748
+        ],
+        [
+          232,
+          2748
+        ]
+      ],
+      "score": 0.5348562002182007,
+      "y_pos": 2691,
+      "text": "800. Viêm vú: Thiếu trạch, Thái dương.",
+      "confidence": 0.9977681070566178
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_027_reference_content.png",
+      "bbox": [
+        [
+          231,
+          2783
+        ],
+        [
+          1139,
+          2783
+        ],
+        [
+          1139,
+          2839
+        ],
+        [
+          231,
+          2839
+        ]
+      ],
+      "score": 0.5698758959770203,
+      "y_pos": 2783,
+      "text": "801. Viêm vú: Lương khâu, Địa ngũ hội.",
+      "confidence": 0.9957369431853295
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0549_008_reference_content.png",
+      "bbox": [
+        [
+          229,
+          2874
+        ],
+        [
+          1558,
+          2874
+        ],
+        [
+          1558,
+          2931
+        ],
+        [
+          229,
+          2931
+        ]
+      ],
+      "score": 0.6247942447662354,
+      "y_pos": 2874,
+      "text": "802. Bí đái sau khi đẻ: Quan nguyên, Khí hải, Dũng tuyền.",
+      "confidence": 0.9970379663726031
+    },
+    {
+      "type": "number",
+      "img_path": "p0549_003_number.png",
+      "bbox": [
+        [
+          2318,
+          3338
+        ],
+        [
+          2368,
+          3338
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2318,
+          3374
+        ]
+      ],
+      "score": 0.8615208864212036,
+      "y_pos": 3338,
+      "text": "    \n    \n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0549_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1324,
+          3341
+        ],
+        [
+          1324,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9165433645248413,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9988651826696576
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0549.png"
+}

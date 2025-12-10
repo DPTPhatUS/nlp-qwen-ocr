@@ -1,0 +1,370 @@
+{
+  "page_num": 676,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0676_001_header.png",
+      "bbox": [
+        [
+          1736,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          192
+        ],
+        [
+          1736,
+          192
+        ]
+      ],
+      "score": 0.932833731174469,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.8010683318688756
+    },
+    {
+      "type": "header",
+      "img_path": "p0676_009_header.png",
+      "bbox": [
+        [
+          230,
+          149
+        ],
+        [
+          772,
+          149
+        ],
+        [
+          772,
+          194
+        ],
+        [
+          230,
+          194
+        ]
+      ],
+      "score": 0.9202550649642944,
+      "y_pos": 149,
+      "text": "PHU LUC: LIËT KË HUYËT",
+      "confidence": 0.8261118605732918
+    },
+    {
+      "type": "text",
+      "img_path": "p0676_012_text.png",
+      "bbox": [
+        [
+          249,
+          309
+        ],
+        [
+          898,
+          309
+        ],
+        [
+          898,
+          358
+        ],
+        [
+          249,
+          358
+        ]
+      ],
+      "score": 0.8415093421936035,
+      "y_pos": 309,
+      "text": "<b>Đan điển</b>, đặt tên theo vùng.",
+      "confidence": 0.8965606773272157
+    },
+    {
+      "type": "text",
+      "img_path": "p0676_007_text.png",
+      "bbox": [
+        [
+          342,
+          403
+        ],
+        [
+          1232,
+          403
+        ],
+        [
+          1232,
+          451
+        ],
+        [
+          342,
+          451
+        ]
+      ],
+      "score": 0.9266096353530884,
+      "y_pos": 403,
+      "text": "Ha kỷ, đặt tên theo mức độ quan trọng.",
+      "confidence": 0.5594300255179405
+    },
+    {
+      "type": "text",
+      "img_path": "p0676_005_text.png",
+      "bbox": [
+        [
+          343,
+          490
+        ],
+        [
+          1619,
+          490
+        ],
+        [
+          1619,
+          542
+        ],
+        [
+          343,
+          542
+        ]
+      ],
+      "score": 0.9288869500160217,
+      "y_pos": 490,
+      "text": "Quan nguyên (bộ hãn), đặt tên theo ghi âm truyền khẩu.",
+      "confidence": 0.9925502879279
+    },
+    {
+      "type": "text",
+      "img_path": "p0676_002_text.png",
+      "bbox": [
+        [
+          342,
+          584
+        ],
+        [
+          1454,
+          584
+        ],
+        [
+          1454,
+          634
+        ],
+        [
+          342,
+          634
+        ]
+      ],
+      "score": 0.931950569152832,
+      "y_pos": 584,
+      "text": "Đại trung cực, đặt tên theo vị trí trên thân người.",
+      "confidence": 0.9900404113643574
+    },
+    {
+      "type": "text",
+      "img_path": "p0676_003_text.png",
+      "bbox": [
+        [
+          340,
+          674
+        ],
+        [
+          1785,
+          674
+        ],
+        [
+          1785,
+          726
+        ],
+        [
+          340,
+          726
+        ]
+      ],
+      "score": 0.930380642414093,
+      "y_pos": 674,
+      "text": "<b>Nịch thuỷ</b>, đặt tên theo tác dụng cấp cứu người chết đuổi nước.",
+      "confidence": 0.9879388240250674
+    },
+    {
+      "type": "text",
+      "img_path": "p0676_004_text.png",
+      "bbox": [
+        [
+          342,
+          766
+        ],
+        [
+          1341,
+          766
+        ],
+        [
+          1341,
+          817
+        ],
+        [
+          342,
+          817
+        ]
+      ],
+      "score": 0.9294878244400024,
+      "y_pos": 766,
+      "text": "Huyết hải, đặt tên theo tác dụng công năng.",
+      "confidence": 0.9910923785633511
+    },
+    {
+      "type": "text",
+      "img_path": "p0676_006_text.png",
+      "bbox": [
+        [
+          343,
+          859
+        ],
+        [
+          1282,
+          859
+        ],
+        [
+          1282,
+          909
+        ],
+        [
+          343,
+          909
+        ]
+      ],
+      "score": 0.9275563359260559,
+      "y_pos": 859,
+      "text": "Khí hải, đặt tên theo tác dụng công năng.",
+      "confidence": 0.5328743804332822
+    },
+    {
+      "type": "text",
+      "img_path": "p0676_008_text.png",
+      "bbox": [
+        [
+          345,
+          951
+        ],
+        [
+          1929,
+          951
+        ],
+        [
+          1929,
+          1001
+        ],
+        [
+          345,
+          1001
+        ]
+      ],
+      "score": 0.9222831726074219,
+      "y_pos": 951,
+      "text": "<i>Tử hộ, Bào môn, Tử cung, Sản môn</i>, đặt tên theo tác dụng sản khoa.",
+      "confidence": 0.9853988147300222
+    },
+    {
+      "type": "text",
+      "img_path": "p0676_010_text.png",
+      "bbox": [
+        [
+          348,
+          1041
+        ],
+        [
+          1717,
+          1041
+        ],
+        [
+          1717,
+          1091
+        ],
+        [
+          348,
+          1091
+        ]
+      ],
+      "score": 0.9198779463768005,
+      "y_pos": 1041,
+      "text": "<b>Tiếu trường mô</b>, đặt tên theo học thuyết kinh lạc, du huyệt....",
+      "confidence": 0.9610023471442136
+    },
+    {
+      "type": "text",
+      "img_path": "p0676_000_text.png",
+      "bbox": [
+        [
+          281,
+          1134
+        ],
+        [
+          2360,
+          1134
+        ],
+        [
+          2360,
+          1327
+        ],
+        [
+          281,
+          1327
+        ]
+      ],
+      "score": 0.9769420027732849,
+      "y_pos": 1134,
+      "text": "- Đáng chú ý nhất là đặt tên theo tác dụng công năng và tác dụng chữa bệnh ở cả tên chính\nvà tên phu. Nếu có vốn hiểu biết chữ Hán cổ thì việc khai thác tính năng, tác dụng của huyệt\nsẽ rất phong phú, bổ ích cho nghiên cứu và thực hành điều trị.",
+      "confidence": 0.9986064922719683
+    },
+    {
+      "type": "footer",
+      "img_path": "p0676_011_footer.png",
+      "bbox": [
+        [
+          230,
+          3341
+        ],
+        [
+          1325,
+          3341
+        ],
+        [
+          1325,
+          3388
+        ],
+        [
+          230,
+          3388
+        ]
+      ],
+      "score": 0.9129677414894104,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9988110020475568
+    },
+    {
+      "type": "number",
+      "img_path": "p0676_013_number.png",
+      "bbox": [
+        [
+          2329,
+          3364
+        ],
+        [
+          2354,
+          3364
+        ],
+        [
+          2354,
+          3399
+        ],
+        [
+          2329,
+          3399
+        ]
+      ],
+      "score": 0.8221812844276428,
+      "y_pos": 3364,
+      "text": "\n    \n\n\n\n\n\n\n    \n    \n\n\n\n    \n    \n    \n    \n\n    \n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0676.png"
+}

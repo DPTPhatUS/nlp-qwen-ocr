@@ -1,0 +1,446 @@
+{
+  "page_num": 60,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0060_005_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9262519478797913,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7254179112967991
+    },
+    {
+      "type": "header",
+      "img_path": "p0060_008_header.png",
+      "bbox": [
+        [
+          231,
+          154
+        ],
+        [
+          427,
+          154
+        ],
+        [
+          427,
+          199
+        ],
+        [
+          231,
+          199
+        ]
+      ],
+      "score": 0.8913581371307373,
+      "y_pos": 154,
+      "text": "Δ    V",
+      "confidence": 0.648697592318058
+    },
+    {
+      "type": "text",
+      "img_path": "p0060_000_text.png",
+      "bbox": [
+        [
+          277,
+          300
+        ],
+        [
+          2358,
+          300
+        ],
+        [
+          2358,
+          489
+        ],
+        [
+          277,
+          489
+        ]
+      ],
+      "score": 0.9788810014724731,
+      "y_pos": 300,
+      "text": "tắc trệ, muốn đi mà phải gắng mới đi được, muốn lại mà phải gắng mới lại được. Mạch sáp\ntrên điện tâm đồ có hình tượng ngưng trệ chia gai đường truyền. Ở mạch chuyển đồ cũng có\nđặc điểm to nhỏ không đều (H.5)",
+      "confidence": 0.9975128682870237
+    },
+    {
+      "type": "text",
+      "img_path": "p0060_016_text.png",
+      "bbox": [
+        [
+          875,
+          530
+        ],
+        [
+          1773,
+          530
+        ],
+        [
+          1773,
+          580
+        ],
+        [
+          875,
+          580
+        ]
+      ],
+      "score": 0.5296119451522827,
+      "y_pos": 530,
+      "text": "Hình 5. Hình sóng mạch hoạt và mạch sáp",
+      "confidence": 0.7324615266264939
+    },
+    {
+      "type": "text",
+      "img_path": "p0060_012_text.png",
+      "bbox": [
+        [
+          344,
+          1110
+        ],
+        [
+          1372,
+          1110
+        ],
+        [
+          1372,
+          1165
+        ],
+        [
+          344,
+          1165
+        ]
+      ],
+      "score": 0.6952583193778992,
+      "y_pos": 1110,
+      "text": "Mạch hoạt chủ bệnh: Đờm thấp, tích trệ.",
+      "confidence": 0.9986106826037895
+    },
+    {
+      "type": "text",
+      "img_path": "p0060_002_text.png",
+      "bbox": [
+        [
+          393,
+          1191
+        ],
+        [
+          2358,
+          1191
+        ],
+        [
+          2358,
+          1387
+        ],
+        [
+          393,
+          1387
+        ]
+      ],
+      "score": 0.9698105454444885,
+      "y_pos": 1191,
+      "text": "Như tiếng ho nặng, đục, đờm nhiều mà trắng, dễ văng ra, ngực buồn bắn, ăn ít, ríu lư-\nỡi trắng nhầy, mạch hoạt là đờm thấp, ho. Người có thai cũng thường thấy có mạch\nhoat.",
+      "confidence": 0.9966038420068514
+    },
+    {
+      "type": "text",
+      "img_path": "p0060_011_text.png",
+      "bbox": [
+        [
+          345,
+          1425
+        ],
+        [
+          1579,
+          1425
+        ],
+        [
+          1579,
+          1480
+        ],
+        [
+          345,
+          1480
+        ]
+      ],
+      "score": 0.749647319316864,
+      "y_pos": 1425,
+      "text": "Mạch sáp chủ bệnh: Huyết thiếu, huyết ứ, khí trệ.",
+      "confidence": 0.9982429777874666
+    },
+    {
+      "type": "text",
+      "img_path": "p0060_004_text.png",
+      "bbox": [
+        [
+          397,
+          1510
+        ],
+        [
+          2359,
+          1510
+        ],
+        [
+          2359,
+          1634
+        ],
+        [
+          397,
+          1634
+        ]
+      ],
+      "score": 0.963597297668457,
+      "y_pos": 1510,
+      "text": "Người bệnh thiếu máu, trúng gió liệt nửa người, bệnh xơ vữa động mạch tim cũng xuất\nhiện dạng mạch sáp.",
+      "confidence": 0.9956260728902844
+    },
+    {
+      "type": "text",
+      "img_path": "p0060_010_text.png",
+      "bbox": [
+        [
+          281,
+          1668
+        ],
+        [
+          2357,
+          1668
+        ],
+        [
+          2357,
+          1856
+        ],
+        [
+          281,
+          1856
+        ]
+      ],
+      "score": 0.8585250377655029,
+      "y_pos": 1668,
+      "text": "đ. Mạch hồng và mạch tế: Đặc điểm của hai tượng mạch này khác nhau về hình to nhỏ và\nsức mạnh. Mạch hồng hình to và sức thịnh như nước lũ tràn trề, phù thủ đã thấy rõ ràng.\nMạch tế là mạch nhỏ như sợi chỉ, sức không thịnh, khi ấn ngón tay mới rõ (H.6)",
+      "confidence": 0.9988141877406846
+    },
+    {
+      "type": "text",
+      "img_path": "p0060_014_text.png",
+      "bbox": [
+        [
+          887,
+          1896
+        ],
+        [
+          1761,
+          1896
+        ],
+        [
+          1761,
+          1947
+        ],
+        [
+          887,
+          1947
+        ]
+      ],
+      "score": 0.5954270958900452,
+      "y_pos": 1896,
+      "text": "Hình 6. Hình sóng mạch hồng và mạch tế",
+      "confidence": 0.9191690489649773
+    },
+    {
+      "type": "image",
+      "img_path": "p0060_006_image.png",
+      "bbox": [
+        [
+          578,
+          1991
+        ],
+        [
+          2053,
+          1991
+        ],
+        [
+          2053,
+          2461
+        ],
+        [
+          578,
+          2461
+        ]
+      ],
+      "score": 0.9124013781547546,
+      "y_pos": 1991
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0060_013_paragraph_title.png",
+      "bbox": [
+        [
+          346,
+          2562
+        ],
+        [
+          1207,
+          2562
+        ],
+        [
+          1207,
+          2616
+        ],
+        [
+          346,
+          2616
+        ]
+      ],
+      "score": 0.6065139174461365,
+      "y_pos": 2562,
+      "text": "Mạch hồng chủ bệnh: Nhiệt thịnh",
+      "confidence": 0.9057410503878738
+    },
+    {
+      "type": "text",
+      "img_path": "p0060_001_text.png",
+      "bbox": [
+        [
+          391,
+          2641
+        ],
+        [
+          2358,
+          2641
+        ],
+        [
+          2358,
+          2895
+        ],
+        [
+          391,
+          2895
+        ]
+      ],
+      "score": 0.9772694110870361,
+      "y_pos": 2641,
+      "text": "Như bệnh thấp nhiệt, nhiệt thịnh khí phần, xuất hiện sốt cao, phiền khát, ra mồ hội\nnhiều, mạch hồng đại. Nhiệt thịnh thương âm. Khi âm hư ở trong mà dương ở ngoài\ncũng xuất hiện mạch hồng. Các bệnh truyền nhiễm ở đoạn cực độ thường có mạch\nhồng.",
+      "confidence": 0.9949236000258792
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0060_015_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          2936
+        ],
+        [
+          1370,
+          2936
+        ],
+        [
+          1370,
+          2986
+        ],
+        [
+          345,
+          2986
+        ]
+      ],
+      "score": 0.5865829586982727,
+      "y_pos": 2936,
+      "text": "Mạch tế chủ bệnh: Thường là chứng hư",
+      "confidence": 0.9573940195535359
+    },
+    {
+      "type": "text",
+      "img_path": "p0060_003_text.png",
+      "bbox": [
+        [
+          384,
+          3010
+        ],
+        [
+          2361,
+          3010
+        ],
+        [
+          2361,
+          3200
+        ],
+        [
+          384,
+          3200
+        ]
+      ],
+      "score": 0.9675032496452332,
+      "y_pos": 3010,
+      "text": "Chứng hư tổn, thường thấy mạch tế. Riêng bệnh thấp khí chú xuống khí thấp tà ở\nmạch đạo cũng xuất hiện mạch tế nhưng không phải là hư chứng mà là thực chứng.\nNếu sắc mắt trắng bợt, môi lưỡi trắng nhạt, váng đầu hoa mắt, tim hồi hộp, mệt mỏi,",
+      "confidence": 0.9981256332905853
+    },
+    {
+      "type": "footer",
+      "img_path": "p0060_007_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3386
+        ],
+        [
+          228,
+          3386
+        ]
+      ],
+      "score": 0.909973680973053,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9360493050431306
+    },
+    {
+      "type": "number",
+      "img_path": "p0060_009_number.png",
+      "bbox": [
+        [
+          2307,
+          3337
+        ],
+        [
+          2355,
+          3337
+        ],
+        [
+          2355,
+          3373
+        ],
+        [
+          2307,
+          3373
+        ]
+      ],
+      "score": 0.8658159971237183,
+      "y_pos": 3337,
+      "text": "\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0060.png"
+}

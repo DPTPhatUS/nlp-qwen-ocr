@@ -1,0 +1,682 @@
+{
+  "page_num": 17,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0017_022_text.png",
+      "bbox": [
+        [
+          405,
+          451
+        ],
+        [
+          2054,
+          451
+        ],
+        [
+          2054,
+          504
+        ],
+        [
+          405,
+          504
+        ]
+      ],
+      "score": 0.8809199929237366,
+      "y_pos": 451,
+      "text": "- Tên gọi của các bệnh chứng luôn bắt đầu bởi một trong sáu bệnh cảnh:",
+      "confidence": 0.7740410914023718
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_020_text.png",
+      "bbox": [
+        [
+          463,
+          536
+        ],
+        [
+          955,
+          536
+        ],
+        [
+          955,
+          584
+        ],
+        [
+          463,
+          584
+        ]
+      ],
+      "score": 0.8921293020248413,
+      "y_pos": 536,
+      "text": "+ Thái dương chứng.",
+      "confidence": 0.9751268454960415
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_013_text.png",
+      "bbox": [
+        [
+          464,
+          620
+        ],
+        [
+          976,
+          620
+        ],
+        [
+          976,
+          667
+        ],
+        [
+          464,
+          667
+        ]
+      ],
+      "score": 0.9133956432342529,
+      "y_pos": 620,
+      "text": "+ Dương minh chứng.",
+      "confidence": 0.979085453919002
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_014_text.png",
+      "bbox": [
+        [
+          463,
+          702
+        ],
+        [
+          980,
+          702
+        ],
+        [
+          980,
+          751
+        ],
+        [
+          463,
+          751
+        ]
+      ],
+      "score": 0.9121033549308777,
+      "y_pos": 702,
+      "text": "+ Thiếu dương chứng.",
+      "confidence": 0.9942138899456371
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_015_text.png",
+      "bbox": [
+        [
+          464,
+          785
+        ],
+        [
+          885,
+          785
+        ],
+        [
+          885,
+          832
+        ],
+        [
+          464,
+          832
+        ]
+      ],
+      "score": 0.9115999937057495,
+      "y_pos": 785,
+      "text": "+ Thái âm chứng.",
+      "confidence": 0.9770388901233673
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_009_text.png",
+      "bbox": [
+        [
+          464,
+          867
+        ],
+        [
+          912,
+          867
+        ],
+        [
+          912,
+          915
+        ],
+        [
+          464,
+          915
+        ]
+      ],
+      "score": 0.9182386994361877,
+      "y_pos": 867,
+      "text": "Thiếu âm chứng.",
+      "confidence": 0.9900763140005224
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_017_text.png",
+      "bbox": [
+        [
+          463,
+          950
+        ],
+        [
+          917,
+          950
+        ],
+        [
+          917,
+          998
+        ],
+        [
+          463,
+          998
+        ]
+      ],
+      "score": 0.9077191948890686,
+      "y_pos": 950,
+      "text": "+    Quyết âm chứng.",
+      "confidence": 0.8937665583456265
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_002_text.png",
+      "bbox": [
+        [
+          341,
+          1030
+        ],
+        [
+          2127,
+          1030
+        ],
+        [
+          2127,
+          1138
+        ],
+        [
+          341,
+          1138
+        ]
+      ],
+      "score": 0.9527198672294617,
+      "y_pos": 1030,
+      "text": "Sáu bệnh cảnh lâm sàng nêu trên được sắp xếp từ ngoài vào trong, thể\nhiện sáu giai đoan bệnh khác nhau của bệnh ngoại cẩm.",
+      "confidence": 0.9915336371629269
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_003_text.png",
+      "bbox": [
+        [
+          407,
+          1169
+        ],
+        [
+          2127,
+          1169
+        ],
+        [
+          2127,
+          1280
+        ],
+        [
+          407,
+          1280
+        ]
+      ],
+      "score": 0.9519667029380798,
+      "y_pos": 1169,
+      "text": "- Diển biến của bệnh có quy luật. Bệnh cảnh lâm sàng nếu diển biến từ\nngoài vào trong là bệnh từ nhẹ đến nặng và ngược lại.",
+      "confidence": 0.8486468122039044
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0017_007_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          1337
+        ],
+        [
+          1678,
+          1337
+        ],
+        [
+          1678,
+          1388
+        ],
+        [
+          343,
+          1388
+        ]
+      ],
+      "score": 0.9284800887107849,
+      "y_pos": 1337,
+      "text": "2.2.2. Những bệnh chứng của Ngoại cảm Thương hàn",
+      "confidence": 0.9969440054893494
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_006_text.png",
+      "bbox": [
+        [
+          343,
+          1434
+        ],
+        [
+          2123,
+          1434
+        ],
+        [
+          2123,
+          1543
+        ],
+        [
+          343,
+          1543
+        ]
+      ],
+      "score": 0.9415568709373474,
+      "y_pos": 1434,
+      "text": "Bao gồm 6 bệnh cảnh chính (tham khảo thêm bài \"Bệnh học Ngoại cảm\nThương hàn\", trang 14).",
+      "confidence": 0.997485034519167
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_001_text.png",
+      "bbox": [
+        [
+          405,
+          1577
+        ],
+        [
+          2123,
+          1577
+        ],
+        [
+          2123,
+          1684
+        ],
+        [
+          405,
+          1684
+        ]
+      ],
+      "score": 0.9550116062164307,
+      "y_pos": 1577,
+      "text": "- Hội chứng Thái dương. Triệu chứng chính mạch phù; đầu cổ cứng, đau,\nsơ lanh.",
+      "confidence": 0.9828325047459401
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_000_text.png",
+      "bbox": [
+        [
+          406,
+          1717
+        ],
+        [
+          2126,
+          1717
+        ],
+        [
+          2126,
+          1825
+        ],
+        [
+          406,
+          1825
+        ]
+      ],
+      "score": 0.9566161036491394,
+      "y_pos": 1717,
+      "text": "- Hội chứng Thiếu dương. Triệu chứng chính miệng đắng, họng khô, mắt\nhoa, hàn nhiệt vãng lai, không muốn ăn, tâm phiền, hay ói (nôn).",
+      "confidence": 0.9869982888559242
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_023_text.png",
+      "bbox": [
+        [
+          404,
+          1859
+        ],
+        [
+          2110,
+          1859
+        ],
+        [
+          2110,
+          1910
+        ],
+        [
+          404,
+          1910
+        ]
+      ],
+      "score": 0.8808727860450745,
+      "y_pos": 1859,
+      "text": "- Hội chứng Dương minh. Triệu chứng chính sốt cao, khát nước, phiền táo.",
+      "confidence": 0.8558215571416391
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_004_text.png",
+      "bbox": [
+        [
+          405,
+          1942
+        ],
+        [
+          2124,
+          1942
+        ],
+        [
+          2124,
+          2050
+        ],
+        [
+          405,
+          2050
+        ]
+      ],
+      "score": 0.9506882429122925,
+      "y_pos": 1942,
+      "text": "- Hội chứng Thái âm. Triệu chứng chính bụng đầy đau, ói (nôn) mửa, tiêu\nchảy, lưỡi nhạt, rêu trắng mỏng, mạch trì hoãn.",
+      "confidence": 0.9865906359698141
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_018_text.png",
+      "bbox": [
+        [
+          405,
+          2083
+        ],
+        [
+          2080,
+          2083
+        ],
+        [
+          2080,
+          2135
+        ],
+        [
+          405,
+          2135
+        ]
+      ],
+      "score": 0.901652991771698,
+      "y_pos": 2083,
+      "text": "- Hội chứng Thiếu âm. Triệu chứng chính biểu hiện ở tạng Tâm và Thận.",
+      "confidence": 0.7910189158479932
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_021_text.png",
+      "bbox": [
+        [
+          406,
+          2169
+        ],
+        [
+          1904,
+          2169
+        ],
+        [
+          1904,
+          2221
+        ],
+        [
+          406,
+          2221
+        ]
+      ],
+      "score": 0.889348030090332,
+      "y_pos": 2169,
+      "text": "- Hội chứng Quyết âm. Triệu chứng chính chân tay quyết nghịch.",
+      "confidence": 0.7734691109508276
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0017_025_paragraph_title.png",
+      "bbox": [
+        [
+          341,
+          2269
+        ],
+        [
+          2122,
+          2269
+        ],
+        [
+          2122,
+          2387
+        ],
+        [
+          341,
+          2387
+        ]
+      ],
+      "score": 0.7567216753959656,
+      "y_pos": 2269,
+      "text": "2.3. Ôn bệnh (có thể gọi Ngoại cảm Ôn bệnh) (tham khảo thêm bài \"Bệnh\nhọc Ngoại cảm Ôn bệnh\", trang 46)",
+      "confidence": 0.9493952230428546
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0017_011_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          2456
+        ],
+        [
+          755,
+          2456
+        ],
+        [
+          755,
+          2506
+        ],
+        [
+          343,
+          2506
+        ]
+      ],
+      "score": 0.9149829745292664,
+      "y_pos": 2456,
+      "text": "2.3.1. Dai cương",
+      "confidence": 0.957185877694024
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_010_text.png",
+      "bbox": [
+        [
+          460,
+          2551
+        ],
+        [
+          1409,
+          2551
+        ],
+        [
+          1409,
+          2601
+        ],
+        [
+          460,
+          2601
+        ]
+      ],
+      "score": 0.915583610534668,
+      "y_pos": 2551,
+      "text": "Đó là những bênh ngoại cảm có đặc điểm:",
+      "confidence": 0.9946464663598595
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_016_text.png",
+      "bbox": [
+        [
+          405,
+          2635
+        ],
+        [
+          1642,
+          2635
+        ],
+        [
+          1642,
+          2685
+        ],
+        [
+          405,
+          2685
+        ]
+      ],
+      "score": 0.9112180471420288,
+      "y_pos": 2635,
+      "text": "- Khởi phát bằng bênh cảnh nhiệt: sốt cao, khát nước.",
+      "confidence": 0.9884676120497964
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_008_text.png",
+      "bbox": [
+        [
+          407,
+          2718
+        ],
+        [
+          1007,
+          2718
+        ],
+        [
+          1007,
+          2766
+        ],
+        [
+          407,
+          2766
+        ]
+      ],
+      "score": 0.9231841564178467,
+      "y_pos": 2718,
+      "text": "\n    Diễn biến theo qui luật.\n",
+      "confidence": 0.6180729734897613
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_019_text.png",
+      "bbox": [
+        [
+          405,
+          2802
+        ],
+        [
+          2073,
+          2802
+        ],
+        [
+          2073,
+          2854
+        ],
+        [
+          405,
+          2854
+        ]
+      ],
+      "score": 0.8943036794662476,
+      "y_pos": 2802,
+      "text": "- Bệnh cảnh thường nặng, cấp ngay từ đầu, để lại nhiều di họa, biến chứng.",
+      "confidence": 0.5219246039265081
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_005_text.png",
+      "bbox": [
+        [
+          342,
+          2884
+        ],
+        [
+          2127,
+          2884
+        ],
+        [
+          2127,
+          2993
+        ],
+        [
+          342,
+          2993
+        ]
+      ],
+      "score": 0.9468769431114197,
+      "y_pos": 2884,
+      "text": "Diệp Thiên Sỹ, Ngô Cúc Thông đã tổng hợp và lý giải những bệnh chứng\nnày trong các sách \"On nhiệt bênh\" và \"Ôn bênh điều biên\".",
+      "confidence": 0.9978977751164209
+    },
+    {
+      "type": "number",
+      "img_path": "p0017_024_number.png",
+      "bbox": [
+        [
+          353,
+          3111
+        ],
+        [
+          405,
+          3111
+        ],
+        [
+          405,
+          3148
+        ],
+        [
+          353,
+          3148
+        ]
+      ],
+      "score": 0.8219316601753235,
+      "y_pos": 3111,
+      "text": "\n    \n        \n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0017_012_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1072,
+          3311
+        ],
+        [
+          1072,
+          3365
+        ],
+        [
+          293,
+          3365
+        ]
+      ],
+      "score": 0.9146438837051392,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.879438819204058
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0017.png"
+}

@@ -1,0 +1,160 @@
+{
+  "page_num": 100,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0100_001_header.png",
+      "bbox": [
+        [
+          1610,
+          142
+        ],
+        [
+          2373,
+          142
+        ],
+        [
+          2373,
+          202
+        ],
+        [
+          1610,
+          202
+        ]
+      ],
+      "score": 0.9152907729148865,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7898272577495802
+    },
+    {
+      "type": "header",
+      "img_path": "p0100_003_header.png",
+      "bbox": [
+        [
+          234,
+          160
+        ],
+        [
+          459,
+          160
+        ],
+        [
+          459,
+          201
+        ],
+        [
+          234,
+          201
+        ]
+      ],
+      "score": 0.9032070636749268,
+      "y_pos": 160,
+      "text": "DU HUYET",
+      "confidence": 0.943977415561676
+    },
+    {
+      "type": "image",
+      "img_path": "p0100_000_image.png",
+      "bbox": [
+        [
+          685,
+          358
+        ],
+        [
+          1879,
+          358
+        ],
+        [
+          1879,
+          2229
+        ],
+        [
+          685,
+          2229
+        ]
+      ],
+      "score": 0.9790673851966858,
+      "y_pos": 358
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0100_004_figure_title.png",
+      "bbox": [
+        [
+          968,
+          2280
+        ],
+        [
+          1619,
+          2280
+        ],
+        [
+          1619,
+          2328
+        ],
+        [
+          968,
+          2328
+        ]
+      ],
+      "score": 0.902076005935669,
+      "y_pos": 2280,
+      "text": "Hình 23. Chia thốn theo xương",
+      "confidence": 0.8192239576770414
+    },
+    {
+      "type": "footer",
+      "img_path": "p0100_002_footer.png",
+      "bbox": [
+        [
+          233,
+          3334
+        ],
+        [
+          1437,
+          3334
+        ],
+        [
+          1437,
+          3387
+        ],
+        [
+          233,
+          3387
+        ]
+      ],
+      "score": 0.9145593047142029,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.998447557665267
+    },
+    {
+      "type": "number",
+      "img_path": "p0100_005_number.png",
+      "bbox": [
+        [
+          2333,
+          3340
+        ],
+        [
+          2358,
+          3340
+        ],
+        [
+          2358,
+          3377
+        ],
+        [
+          2333,
+          3377
+        ]
+      ],
+      "score": 0.8198244571685791,
+      "y_pos": 3340,
+      "text": "\n\n\n    \n\n    \n\n    \n\n\n\n    \n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0100.png"
+}

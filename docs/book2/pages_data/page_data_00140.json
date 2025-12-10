@@ -1,0 +1,602 @@
+{
+  "page_num": 140,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0140_012_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9295792579650879,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.723309953652677
+    },
+    {
+      "type": "header",
+      "img_path": "p0140_018_header.png",
+      "bbox": [
+        [
+          228,
+          155
+        ],
+        [
+          905,
+          155
+        ],
+        [
+          905,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9115966558456421,
+      "y_pos": 155,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9866287461642561
+    },
+    {
+      "type": "text",
+      "img_path": "p0140_000_text.png",
+      "bbox": [
+        [
+          279,
+          345
+        ],
+        [
+          2359,
+          345
+        ],
+        [
+          2359,
+          544
+        ],
+        [
+          279,
+          544
+        ]
+      ],
+      "score": 0.9778221249580383,
+      "y_pos": 345,
+      "text": "Cách lấy huyệt: Ngồi ngay bàn chân đặt ngang bằng, ở nếp ngang cổ chân, chỗ tiếp nhau\ncủa mu bàn chân và ống chân, ở khe lõm giữa hai gân (cơ duỗi dài, cơ duỗi ngón chân, cơ\nduỗi dài ngón cái). (H. 59)",
+      "confidence": 0.9927387891098401
+    },
+    {
+      "type": "text",
+      "img_path": "p0140_003_text.png",
+      "bbox": [
+        [
+          281,
+          581
+        ],
+        [
+          2355,
+          581
+        ],
+        [
+          2355,
+          701
+        ],
+        [
+          281,
+          701
+        ]
+      ],
+      "score": 0.9665994048118591,
+      "y_pos": 581,
+      "text": "Cách châm: Châm mũi kim hướng về phía gót chân, châm đứng kim, sâu 0,5 – 0,8 thốn.\nCứu 5 mồi, hơ 5 đến 10 phút.",
+      "confidence": 0.9934333589814959
+    },
+    {
+      "type": "text",
+      "img_path": "p0140_010_text.png",
+      "bbox": [
+        [
+          285,
+          743
+        ],
+        [
+          1636,
+          743
+        ],
+        [
+          1636,
+          796
+        ],
+        [
+          285,
+          796
+        ]
+      ],
+      "score": 0.9310716390609741,
+      "y_pos": 743,
+      "text": "Chủ trị: Bong gân khớp cổ chân, nôn mửa, chi dưới bại liệt.",
+      "confidence": 0.9642433778184359
+    },
+    {
+      "type": "text",
+      "img_path": "p0140_013_text.png",
+      "bbox": [
+        [
+          283,
+          833
+        ],
+        [
+          1526,
+          833
+        ],
+        [
+          1526,
+          890
+        ],
+        [
+          283,
+          890
+        ]
+      ],
+      "score": 0.9286686182022095,
+      "y_pos": 833,
+      "text": "Tác dụng phối hợp: Với <i>Dương cốc</i> trị chứng hồi hộp.",
+      "confidence": 0.9857737909663807
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0140_017_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          928
+        ],
+        [
+          624,
+          928
+        ],
+        [
+          624,
+          978
+        ],
+        [
+          225,
+          978
+        ]
+      ],
+      "score": 0.9194105267524719,
+      "y_pos": 928,
+      "text": "42. Xung dương",
+      "confidence": 0.9167840778827667
+    },
+    {
+      "type": "text",
+      "img_path": "p0140_009_text.png",
+      "bbox": [
+        [
+          288,
+          1017
+        ],
+        [
+          1322,
+          1017
+        ],
+        [
+          1322,
+          1068
+        ],
+        [
+          288,
+          1068
+        ]
+      ],
+      "score": 0.931286633014679,
+      "y_pos": 1017,
+      "text": "Vi trí: Ở mu bàn chân, dưới Giải khê 1,5 thốn.",
+      "confidence": 0.9939233101904392
+    },
+    {
+      "type": "text",
+      "img_path": "p0140_004_text.png",
+      "bbox": [
+        [
+          282,
+          1109
+        ],
+        [
+          2361,
+          1109
+        ],
+        [
+          2361,
+          1235
+        ],
+        [
+          282,
+          1235
+        ]
+      ],
+      "score": 0.96651691198349,
+      "y_pos": 1109,
+      "text": "Cách lấy huyệt: Ngồi ngay, đặt bàn chân ngang bằng, chỗ cao nhất trên mu bàn chân, ở\ncạnh trong gân duỗi dài ngón chân, chỗ có động mạch đập là huyệt. (H. 59)",
+      "confidence": 0.9949897907038991
+    },
+    {
+      "type": "text",
+      "img_path": "p0140_006_text.png",
+      "bbox": [
+        [
+          283,
+          1272
+        ],
+        [
+          2047,
+          1272
+        ],
+        [
+          2047,
+          1324
+        ],
+        [
+          283,
+          1324
+        ]
+      ],
+      "score": 0.9360685348510742,
+      "y_pos": 1272,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 0,2 – 0,3 thốn (tránh đông mạch). Cấm cứu.",
+      "confidence": 0.986129961123592
+    },
+    {
+      "type": "text",
+      "img_path": "p0140_001_text.png",
+      "bbox": [
+        [
+          280,
+          1365
+        ],
+        [
+          2356,
+          1365
+        ],
+        [
+          2356,
+          1482
+        ],
+        [
+          280,
+          1482
+        ]
+      ],
+      "score": 0.970380425453186,
+      "y_pos": 1365,
+      "text": "Chủ trị: Chi dưới bại liệt, mu bàn chân sưng, đau răng hàm trên, đầu mặt phù thũng, động\nkinh.",
+      "confidence": 0.9922169682998505
+    },
+    {
+      "type": "image",
+      "img_path": "p0140_005_image.png",
+      "bbox": [
+        [
+          915,
+          1569
+        ],
+        [
+          1695,
+          1569
+        ],
+        [
+          1695,
+          2227
+        ],
+        [
+          915,
+          2227
+        ]
+      ],
+      "score": 0.9635404348373413,
+      "y_pos": 1569
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0140_022_figure_title.png",
+      "bbox": [
+        [
+          1207,
+          2323
+        ],
+        [
+          1381,
+          2323
+        ],
+        [
+          1381,
+          2368
+        ],
+        [
+          1207,
+          2368
+        ]
+      ],
+      "score": 0.861548662185669,
+      "y_pos": 2323,
+      "text": "ſ",
+      "confidence": 0.5328250378370285
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0140_016_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2409
+        ],
+        [
+          532,
+          2409
+        ],
+        [
+          532,
+          2459
+        ],
+        [
+          225,
+          2459
+        ]
+      ],
+      "score": 0.9205971360206604,
+      "y_pos": 2409,
+      "text": "43. Hãm cốc",
+      "confidence": 0.9206755803181574
+    },
+    {
+      "type": "text",
+      "img_path": "p0140_015_text.png",
+      "bbox": [
+        [
+          288,
+          2501
+        ],
+        [
+          2016,
+          2501
+        ],
+        [
+          2016,
+          2555
+        ],
+        [
+          288,
+          2555
+        ]
+      ],
+      "score": 0.9252647161483765,
+      "y_pos": 2501,
+      "text": "Vị trí: Ở chỗ lõm phía trước khe xương bàn chân 2 – 3, cách Nội đình 2 thốn.",
+      "confidence": 0.9829900509271866
+    },
+    {
+      "type": "text",
+      "img_path": "p0140_011_text.png",
+      "bbox": [
+        [
+          286,
+          2593
+        ],
+        [
+          1840,
+          2593
+        ],
+        [
+          1840,
+          2646
+        ],
+        [
+          286,
+          2646
+        ]
+      ],
+      "score": 0.9299291372299194,
+      "y_pos": 2593,
+      "text": "Cách châm: Châm đứng kim, sâu 0,5 đến 1 thốn. Cứu 3 mồi. (H. 59)",
+      "confidence": 0.9917972142046149
+    },
+    {
+      "type": "text",
+      "img_path": "p0140_007_text.png",
+      "bbox": [
+        [
+          286,
+          2687
+        ],
+        [
+          1821,
+          2687
+        ],
+        [
+          1821,
+          2741
+        ],
+        [
+          286,
+          2741
+        ]
+      ],
+      "score": 0.9353485703468323,
+      "y_pos": 2687,
+      "text": "Chủ trị: Mặt phù thũng, sôi bụng, đau bụng, mu bàn chân sưng đau.",
+      "confidence": 0.5922896230398719
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0140_020_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2778
+        ],
+        [
+          523,
+          2778
+        ],
+        [
+          523,
+          2826
+        ],
+        [
+          227,
+          2826
+        ]
+      ],
+      "score": 0.9040513038635254,
+      "y_pos": 2778,
+      "text": "44. Nôi đình",
+      "confidence": 0.9428307797227587
+    },
+    {
+      "type": "text",
+      "img_path": "p0140_008_text.png",
+      "bbox": [
+        [
+          289,
+          2867
+        ],
+        [
+          1469,
+          2867
+        ],
+        [
+          1469,
+          2924
+        ],
+        [
+          289,
+          2924
+        ]
+      ],
+      "score": 0.9342308044433594,
+      "y_pos": 2867,
+      "text": "Vị trí: Ở giữa khe nối ngón 2 và ngón 3 chân (H. 59)",
+      "confidence": 0.9922516820607362
+    },
+    {
+      "type": "text",
+      "img_path": "p0140_002_text.png",
+      "bbox": [
+        [
+          282,
+          2959
+        ],
+        [
+          2360,
+          2959
+        ],
+        [
+          2360,
+          3084
+        ],
+        [
+          282,
+          3084
+        ]
+      ],
+      "score": 0.9667335748672485,
+      "y_pos": 2959,
+      "text": "Cách lấy huyệt: Ngồi ngay, đặt bàn chân ngang bằng, ở đầu khe nối ngón 2 và ngón 3\nchân, hướng về phía sau một ít.",
+      "confidence": 0.994919374649659
+    },
+    {
+      "type": "text",
+      "img_path": "p0140_014_text.png",
+      "bbox": [
+        [
+          284,
+          3122
+        ],
+        [
+          1891,
+          3122
+        ],
+        [
+          1891,
+          3176
+        ],
+        [
+          284,
+          3176
+        ]
+      ],
+      "score": 0.9277341365814209,
+      "y_pos": 3122,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3 – 0,5 thốn. Cứu 3 mồi, hơ 5 phút.",
+      "confidence": 0.9861534475416377
+    },
+    {
+      "type": "footer",
+      "img_path": "p0140_019_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9108703136444092,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0140_021_number.png",
+      "bbox": [
+        [
+          2300,
+          3339
+        ],
+        [
+          2347,
+          3339
+        ],
+        [
+          2347,
+          3378
+        ],
+        [
+          2300,
+          3378
+        ]
+      ],
+      "score": 0.865007221698761,
+      "y_pos": 3339,
+      "text": "\n\n\n\n\n\n\n    \n\n\n\nм\n٠.\n\n\n",
+      "confidence": 0.926610656959169
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0140.png"
+}

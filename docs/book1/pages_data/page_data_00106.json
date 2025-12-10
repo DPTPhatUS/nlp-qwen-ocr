@@ -1,0 +1,734 @@
+{
+  "page_num": 106,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0106_025_text.png",
+      "bbox": [
+        [
+          511,
+          451
+        ],
+        [
+          992,
+          451
+        ],
+        [
+          992,
+          501
+        ],
+        [
+          511,
+          501
+        ]
+      ],
+      "score": 0.8547220230102539,
+      "y_pos": 451,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9820426350290125
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_023_text.png",
+      "bbox": [
+        [
+          514,
+          534
+        ],
+        [
+          945,
+          534
+        ],
+        [
+          945,
+          580
+        ],
+        [
+          514,
+          580
+        ]
+      ],
+      "score": 0.8608742356300354,
+      "y_pos": 534,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.9735039273897806
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_000_text.png",
+      "bbox": [
+        [
+          343,
+          616
+        ],
+        [
+          2127,
+          616
+        ],
+        [
+          2127,
+          778
+        ],
+        [
+          343,
+          778
+        ]
+      ],
+      "score": 0.9352412223815918,
+      "y_pos": 616,
+      "text": "2. Trong bài Hoắc hương chính khí tán gồm Hoắc hương, Bạch truật,\nPhục linh, Tô tử, Bạch chỉ, Trần bì, Hậu phác, Đại phúc bì, Bán hạ chế, Cát\ncánh, Cam thảo.",
+      "confidence": 0.9972508178824301
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_024_text.png",
+      "bbox": [
+        [
+          463,
+          814
+        ],
+        [
+          1007,
+          814
+        ],
+        [
+          1007,
+          860
+        ],
+        [
+          463,
+          860
+        ]
+      ],
+      "score": 0.8556674718856812,
+      "y_pos": 814,
+      "text": "a. Tô tử làm thần bởi vì",
+      "confidence": 0.9977414057804987
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_012_text.png",
+      "bbox": [
+        [
+          463,
+          896
+        ],
+        [
+          1342,
+          896
+        ],
+        [
+          1342,
+          947
+        ],
+        [
+          463,
+          947
+        ]
+      ],
+      "score": 0.8944889903068542,
+      "y_pos": 896,
+      "text": "b. Tô tử có tác dụng lý khí để hóa thấp",
+      "confidence": 0.9974047730608684
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_019_text.png",
+      "bbox": [
+        [
+          510,
+          979
+        ],
+        [
+          1717,
+          979
+        ],
+        [
+          1717,
+          1030
+        ],
+        [
+          510,
+          1030
+        ]
+      ],
+      "score": 0.883487343788147,
+      "y_pos": 979,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.994695488012062
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_015_text.png",
+      "bbox": [
+        [
+          511,
+          1061
+        ],
+        [
+          1808,
+          1061
+        ],
+        [
+          1808,
+          1113
+        ],
+        [
+          511,
+          1113
+        ]
+      ],
+      "score": 0.8884193897247314,
+      "y_pos": 1061,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.9930110861148153
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_002_text.png",
+      "bbox": [
+        [
+          513,
+          1144
+        ],
+        [
+          993,
+          1144
+        ],
+        [
+          993,
+          1193
+        ],
+        [
+          513,
+          1193
+        ]
+      ],
+      "score": 0.9138851165771484,
+      "y_pos": 1144,
+      "text": "C. Nếu a đúng, b sai",
+      "confidence": 0.9720272069627588
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_007_text.png",
+      "bbox": [
+        [
+          513,
+          1227
+        ],
+        [
+          994,
+          1227
+        ],
+        [
+          994,
+          1277
+        ],
+        [
+          513,
+          1277
+        ]
+      ],
+      "score": 0.9060426950454712,
+      "y_pos": 1227,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9827816974033009
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_010_text.png",
+      "bbox": [
+        [
+          515,
+          1310
+        ],
+        [
+          945,
+          1310
+        ],
+        [
+          945,
+          1357
+        ],
+        [
+          515,
+          1357
+        ]
+      ],
+      "score": 0.8964071869850159,
+      "y_pos": 1310,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.973795405455998
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_017_text.png",
+      "bbox": [
+        [
+          343,
+          1393
+        ],
+        [
+          2127,
+          1393
+        ],
+        [
+          2127,
+          1554
+        ],
+        [
+          343,
+          1554
+        ]
+      ],
+      "score": 0.8854082226753235,
+      "y_pos": 1393,
+      "text": "3.a. Trong bài thuốc Cát căn cầm liên thang trị HC Tỳ, Vị thấp nhiệt\ngồm Cát căn, Hoàng liên, Hoàng cầm, Nhân trần, Cam thảo bắc. Vi Cát căn\nlàm thần bởi vì:",
+      "confidence": 0.9879237871364622
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_026_text.png",
+      "bbox": [
+        [
+          461,
+          1591
+        ],
+        [
+          2083,
+          1591
+        ],
+        [
+          2083,
+          1641
+        ],
+        [
+          461,
+          1641
+        ]
+      ],
+      "score": 0.85406893491745,
+      "y_pos": 1591,
+      "text": "b. Cát căn ngọt cay thanh nhiệt ở Tỳ vị lại còn sinh tân, chỉ khái trừ phiền",
+      "confidence": 0.9801438007599268
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_021_text.png",
+      "bbox": [
+        [
+          509,
+          1674
+        ],
+        [
+          1719,
+          1674
+        ],
+        [
+          1719,
+          1724
+        ],
+        [
+          509,
+          1724
+        ]
+      ],
+      "score": 0.8754919171333313,
+      "y_pos": 1674,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.9921653360690711
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_018_text.png",
+      "bbox": [
+        [
+          510,
+          1757
+        ],
+        [
+          1809,
+          1757
+        ],
+        [
+          1809,
+          1808
+        ],
+        [
+          510,
+          1808
+        ]
+      ],
+      "score": 0.8840912580490112,
+      "y_pos": 1757,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.9941305975828852
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_006_text.png",
+      "bbox": [
+        [
+          512,
+          1837
+        ],
+        [
+          993,
+          1837
+        ],
+        [
+          993,
+          1886
+        ],
+        [
+          512,
+          1886
+        ]
+      ],
+      "score": 0.90618497133255,
+      "y_pos": 1837,
+      "text": "C. Nếu a đúng, b sai",
+      "confidence": 0.9724314537915316
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_004_text.png",
+      "bbox": [
+        [
+          512,
+          1921
+        ],
+        [
+          994,
+          1921
+        ],
+        [
+          994,
+          1970
+        ],
+        [
+          512,
+          1970
+        ]
+      ],
+      "score": 0.9102898836135864,
+      "y_pos": 1921,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9806584201075814
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_014_text.png",
+      "bbox": [
+        [
+          514,
+          2004
+        ],
+        [
+          945,
+          2004
+        ],
+        [
+          945,
+          2051
+        ],
+        [
+          514,
+          2051
+        ]
+      ],
+      "score": 0.8901018500328064,
+      "y_pos": 2004,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.9735039273897806
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_009_text.png",
+      "bbox": [
+        [
+          343,
+          2088
+        ],
+        [
+          2125,
+          2088
+        ],
+        [
+          2125,
+          2195
+        ],
+        [
+          343,
+          2195
+        ]
+      ],
+      "score": 0.8983579874038696,
+      "y_pos": 2088,
+      "text": "4.a. Trong HC Vị thất hòa giáng, có triệu chứng đau thượng vị lan ra\nhông sườn, bởi vì:",
+      "confidence": 0.9922806165048055
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_020_text.png",
+      "bbox": [
+        [
+          462,
+          2227
+        ],
+        [
+          1728,
+          2227
+        ],
+        [
+          1728,
+          2278
+        ],
+        [
+          462,
+          2278
+        ]
+      ],
+      "score": 0.8824147582054138,
+      "y_pos": 2227,
+      "text": "b. Vị mất chức năng hoà giáng nên Can mộc tương thừa",
+      "confidence": 0.9859812866758417
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_022_text.png",
+      "bbox": [
+        [
+          509,
+          2310
+        ],
+        [
+          1719,
+          2310
+        ],
+        [
+          1719,
+          2360
+        ],
+        [
+          509,
+          2360
+        ]
+      ],
+      "score": 0.8741819262504578,
+      "y_pos": 2310,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.9921653360690711
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_016_text.png",
+      "bbox": [
+        [
+          510,
+          2393
+        ],
+        [
+          1809,
+          2393
+        ],
+        [
+          1809,
+          2445
+        ],
+        [
+          510,
+          2445
+        ]
+      ],
+      "score": 0.8862282037734985,
+      "y_pos": 2393,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.9952524911080088
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_005_text.png",
+      "bbox": [
+        [
+          512,
+          2473
+        ],
+        [
+          993,
+          2473
+        ],
+        [
+          993,
+          2523
+        ],
+        [
+          512,
+          2523
+        ]
+      ],
+      "score": 0.9077396988868713,
+      "y_pos": 2473,
+      "text": "C. Nếu a đúng, b sai",
+      "confidence": 0.9726019339127974
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_003_text.png",
+      "bbox": [
+        [
+          512,
+          2556
+        ],
+        [
+          993,
+          2556
+        ],
+        [
+          993,
+          2606
+        ],
+        [
+          512,
+          2606
+        ]
+      ],
+      "score": 0.9105764627456665,
+      "y_pos": 2556,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9808359389955347
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_013_text.png",
+      "bbox": [
+        [
+          514,
+          2639
+        ],
+        [
+          945,
+          2639
+        ],
+        [
+          945,
+          2687
+        ],
+        [
+          514,
+          2687
+        ]
+      ],
+      "score": 0.8901282548904419,
+      "y_pos": 2639,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.9735039273897806
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_001_text.png",
+      "bbox": [
+        [
+          342,
+          2721
+        ],
+        [
+          2125,
+          2721
+        ],
+        [
+          2125,
+          2887
+        ],
+        [
+          342,
+          2887
+        ]
+      ],
+      "score": 0.9195137619972229,
+      "y_pos": 2721,
+      "text": "5.a. Trong bài Bảo hoà hoàn gồm Sơn tra, Thần khúc, Trần bì, Bán ha\nchế, Phục linh, Liên kiều, La bặc tử dùng trong Vị thất hòa giáng. Hai vị Sơn\ntra, Thần khúc cùng làm quân là bởi vì:",
+      "confidence": 0.9937590733927376
+    },
+    {
+      "type": "text",
+      "img_path": "p0106_011_text.png",
+      "bbox": [
+        [
+          460,
+          2920
+        ],
+        [
+          1356,
+          2920
+        ],
+        [
+          1356,
+          2970
+        ],
+        [
+          460,
+          2970
+        ]
+      ],
+      "score": 0.8947877883911133,
+      "y_pos": 2920,
+      "text": "b. Cả hai đều có tác dụng tiêu thực tích",
+      "confidence": 0.9721015847864605
+    },
+    {
+      "type": "number",
+      "img_path": "p0106_027_number.png",
+      "bbox": [
+        [
+          2043,
+          3110
+        ],
+        [
+          2121,
+          3110
+        ],
+        [
+          2121,
+          3148
+        ],
+        [
+          2043,
+          3148
+        ]
+      ],
+      "score": 0.8474688529968262,
+      "y_pos": 3110,
+      "text": "    \n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0106_008_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.9047878980636597,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8789173466818673
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0106.png"
+}

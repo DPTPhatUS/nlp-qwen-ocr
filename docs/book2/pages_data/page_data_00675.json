@@ -1,0 +1,786 @@
+{
+  "page_num": 675,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0675_004_header.png",
+      "bbox": [
+        [
+          1736,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          193
+        ],
+        [
+          1736,
+          193
+        ]
+      ],
+      "score": 0.9370477795600891,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.8175917324565706
+    },
+    {
+      "type": "header",
+      "img_path": "p0675_017_header.png",
+      "bbox": [
+        [
+          230,
+          148
+        ],
+        [
+          772,
+          148
+        ],
+        [
+          772,
+          195
+        ],
+        [
+          230,
+          195
+        ]
+      ],
+      "score": 0.9234113097190857,
+      "y_pos": 148,
+      "text": "PHU LUC: LIËT KË HUYËT",
+      "confidence": 0.8261118605732918
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0675_029_paragraph_title.png",
+      "bbox": [
+        [
+          271,
+          322
+        ],
+        [
+          2334,
+          322
+        ],
+        [
+          2334,
+          381
+        ],
+        [
+          271,
+          381
+        ]
+      ],
+      "score": 0.6231678128242493,
+      "y_pos": 322,
+      "text": "LIÊT KÊ CÁC HUYÊT KHÁC NHAU NHƯNG CÙNG TÊN VÀ MỘT HUYỆT CÓ NHIỀU TÊN",
+      "confidence": 0.9948244324752262
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0675_011_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          508
+        ],
+        [
+          583,
+          508
+        ],
+        [
+          583,
+          556
+        ],
+        [
+          224,
+          556
+        ]
+      ],
+      "score": 0.9245924353599548,
+      "y_pos": 508,
+      "text": "I. TỔNG QUAN",
+      "confidence": 0.9716738675321851
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_002_text.png",
+      "bbox": [
+        [
+          221,
+          603
+        ],
+        [
+          2360,
+          603
+        ],
+        [
+          2360,
+          727
+        ],
+        [
+          221,
+          727
+        ]
+      ],
+      "score": 0.9647126793861389,
+      "y_pos": 603,
+      "text": "Hiện tượng các huyệt khác nhau nhưng cùng tên và một huyệt có nhiều tên trong Du huyệt học\nlà một tất yếu khách quan của quá trình phát triển lịch sử, do các nhân tố sau đây:",
+      "confidence": 0.9997653505953071
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_022_text.png",
+      "bbox": [
+        [
+          282,
+          765
+        ],
+        [
+          2116,
+          765
+        ],
+        [
+          2116,
+          818
+        ],
+        [
+          282,
+          818
+        ]
+      ],
+      "score": 0.9195308685302734,
+      "y_pos": 765,
+      "text": "- Sự sao chép nhầm lẫn từ huyệt này sang huyệt khác ở các huyệt gần nhau như:",
+      "confidence": 0.9972043671185458
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_018_text.png",
+      "bbox": [
+        [
+          347,
+          857
+        ],
+        [
+          1080,
+          857
+        ],
+        [
+          1080,
+          908
+        ],
+        [
+          347,
+          908
+        ]
+      ],
+      "score": 0.9231575727462769,
+      "y_pos": 857,
+      "text": "Thái uyên: Thái tuyền, Quỷ tâm.",
+      "confidence": 0.5023272597428524
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_013_text.png",
+      "bbox": [
+        [
+          343,
+          948
+        ],
+        [
+          1005,
+          948
+        ],
+        [
+          1005,
+          1001
+        ],
+        [
+          343,
+          1001
+        ]
+      ],
+      "score": 0.9241944551467896,
+      "y_pos": 948,
+      "text": "Ngư tế: Thái tuyền, Quỷ tâm.",
+      "confidence": 0.97822119196256
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_008_text.png",
+      "bbox": [
+        [
+          343,
+          1042
+        ],
+        [
+          873,
+          1042
+        ],
+        [
+          873,
+          1092
+        ],
+        [
+          343,
+          1092
+        ]
+      ],
+      "score": 0.9264794588088989,
+      "y_pos": 1042,
+      "text": "<b>Dương phù</b>: Tuyết cốt.",
+      "confidence": 0.9749753212928772
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_016_text.png",
+      "bbox": [
+        [
+          342,
+          1132
+        ],
+        [
+          919,
+          1132
+        ],
+        [
+          919,
+          1183
+        ],
+        [
+          342,
+          1183
+        ]
+      ],
+      "score": 0.9236525893211365,
+      "y_pos": 1132,
+      "text": "Huyên chung: Tuyêt cốt.",
+      "confidence": 0.4884340786933899
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_024_text.png",
+      "bbox": [
+        [
+          285,
+          1227
+        ],
+        [
+          1626,
+          1227
+        ],
+        [
+          1626,
+          1275
+        ],
+        [
+          285,
+          1275
+        ]
+      ],
+      "score": 0.9177214503288269,
+      "y_pos": 1227,
+      "text": "- Hoặc theo cả tên vùng mà đặt cho các huyệt vùng đó như:",
+      "confidence": 0.9956965901083865
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_026_text.png",
+      "bbox": [
+        [
+          345,
+          1319
+        ],
+        [
+          998,
+          1319
+        ],
+        [
+          998,
+          1366
+        ],
+        [
+          345,
+          1366
+        ]
+      ],
+      "score": 0.9142593145370483,
+      "y_pos": 1319,
+      "text": "<b>Quan nguyên</b>: ...Đan điện....",
+      "confidence": 0.9763882886618376
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_021_text.png",
+      "bbox": [
+        [
+          345,
+          1410
+        ],
+        [
+          945,
+          1410
+        ],
+        [
+          945,
+          1457
+        ],
+        [
+          345,
+          1457
+        ]
+      ],
+      "score": 0.9213433265686035,
+      "y_pos": 1410,
+      "text": "<b>Thach môn</b>: ...Đan điên....",
+      "confidence": 0.9850513935089111
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_020_text.png",
+      "bbox": [
+        [
+          341,
+          1501
+        ],
+        [
+          845,
+          1501
+        ],
+        [
+          845,
+          1547
+        ],
+        [
+          341,
+          1547
+        ]
+      ],
+      "score": 0.9220006465911865,
+      "y_pos": 1501,
+      "text": "<b>Khí hải</b>: ...Đan điện....",
+      "confidence": 0.9792868324688503
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_012_text.png",
+      "bbox": [
+        [
+          340,
+          1590
+        ],
+        [
+          876,
+          1590
+        ],
+        [
+          876,
+          1642
+        ],
+        [
+          340,
+          1642
+        ]
+      ],
+      "score": 0.9242303967475891,
+      "y_pos": 1590,
+      "text": "Am giao: ...Đan điển....",
+      "confidence": 0.6551469977085407
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_001_text.png",
+      "bbox": [
+        [
+          280,
+          1683
+        ],
+        [
+          2360,
+          1683
+        ],
+        [
+          2360,
+          1804
+        ],
+        [
+          280,
+          1804
+        ]
+      ],
+      "score": 0.9654237031936646,
+      "y_pos": 1683,
+      "text": "- Có những vùng ở xa nhau nhưng có cùng tác dụng, nên ngoài tên riêng lại có tên cùng tác\ndung như:",
+      "confidence": 0.9750490553312369
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_025_text.png",
+      "bbox": [
+        [
+          344,
+          1847
+        ],
+        [
+          884,
+          1847
+        ],
+        [
+          884,
+          1897
+        ],
+        [
+          344,
+          1897
+        ]
+      ],
+      "score": 0.9165491461753845,
+      "y_pos": 1847,
+      "text": "Phong môn: Nhiệt phủ.",
+      "confidence": 0.6651471101719401
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_009_text.png",
+      "bbox": [
+        [
+          344,
+          1938
+        ],
+        [
+          829,
+          1938
+        ],
+        [
+          829,
+          1987
+        ],
+        [
+          344,
+          1987
+        ]
+      ],
+      "score": 0.9258911609649658,
+      "y_pos": 1938,
+      "text": "Phong trì: Nhiệt phủ.",
+      "confidence": 0.5080830480741418
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_006_text.png",
+      "bbox": [
+        [
+          347,
+          2029
+        ],
+        [
+          810,
+          2029
+        ],
+        [
+          810,
+          2078
+        ],
+        [
+          347,
+          2078
+        ]
+      ],
+      "score": 0.9296013116836548,
+      "y_pos": 2029,
+      "text": "<b>Tinh cung</b>: Chí thất.",
+      "confidence": 0.9636525337894758
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_005_text.png",
+      "bbox": [
+        [
+          344,
+          2123
+        ],
+        [
+          864,
+          2123
+        ],
+        [
+          864,
+          2171
+        ],
+        [
+          344,
+          2171
+        ]
+      ],
+      "score": 0.931462824344635,
+      "y_pos": 2123,
+      "text": "<b>Mênh môn</b>: Tinh cung.",
+      "confidence": 0.972649465004603
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_010_text.png",
+      "bbox": [
+        [
+          344,
+          2214
+        ],
+        [
+          984,
+          2214
+        ],
+        [
+          984,
+          2260
+        ],
+        [
+          344,
+          2260
+        ]
+      ],
+      "score": 0.9253877997398376,
+      "y_pos": 2214,
+      "text": "Khí huyệt: Bào môn, Tử hô.",
+      "confidence": 0.7137807075466428
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_023_text.png",
+      "bbox": [
+        [
+          345,
+          2307
+        ],
+        [
+          1074,
+          2307
+        ],
+        [
+          1074,
+          2353
+        ],
+        [
+          345,
+          2353
+        ]
+      ],
+      "score": 0.9195075631141663,
+      "y_pos": 2307,
+      "text": "Quan nguyên: Bào môn, Tử hô.",
+      "confidence": 0.531626941760381
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_003_text.png",
+      "bbox": [
+        [
+          281,
+          2395
+        ],
+        [
+          2357,
+          2395
+        ],
+        [
+          2357,
+          2515
+        ],
+        [
+          281,
+          2515
+        ]
+      ],
+      "score": 0.964690625667572,
+      "y_pos": 2395,
+      "text": "- Có những tên huyệt cùng âm nhưng khác dạng tự, hiện tượng này do học từ truyền khẩu,\nsau đó mới ghi lai mà thành. Như:",
+      "confidence": 0.999436087828952
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_007_text.png",
+      "bbox": [
+        [
+          342,
+          2559
+        ],
+        [
+          1751,
+          2559
+        ],
+        [
+          1751,
+          2610
+        ],
+        [
+          342,
+          2610
+        ]
+      ],
+      "score": 0.9283835291862488,
+      "y_pos": 2559,
+      "text": "<b>Dịch</b> (bộ thuỷ) <b>môn</b>: Dịch (bộ nguyệt) môn, Dịch (bộ thủ) môn.",
+      "confidence": 0.9891450314810781
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_019_text.png",
+      "bbox": [
+        [
+          342,
+          2651
+        ],
+        [
+          1101,
+          2651
+        ],
+        [
+          1101,
+          2699
+        ],
+        [
+          342,
+          2699
+        ]
+      ],
+      "score": 0.9226166605949402,
+      "y_pos": 2651,
+      "text": "Khâu khư: Khâu (có bô thổ) khư.",
+      "confidence": 0.9648008093689427
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_014_text.png",
+      "bbox": [
+        [
+          343,
+          2740
+        ],
+        [
+          1627,
+          2740
+        ],
+        [
+          1627,
+          2793
+        ],
+        [
+          343,
+          2793
+        ]
+      ],
+      "score": 0.9241844415664673,
+      "y_pos": 2740,
+      "text": "<b>Quan nguyên</b> (bộ nhất đầu): Quan nguyên (bộ hãn đầu).",
+      "confidence": 0.9904160478285381
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_015_text.png",
+      "bbox": [
+        [
+          346,
+          2834
+        ],
+        [
+          1731,
+          2834
+        ],
+        [
+          1731,
+          2886
+        ],
+        [
+          346,
+          2886
+        ]
+      ],
+      "score": 0.9238950610160828,
+      "y_pos": 2834,
+      "text": "<b>Toàn</b> (bộ ngọc) <b>cơ</b> (bộ ngọc): <i>Toàn</i> (bộ phương) <i>cơ</i> (bộ mộc).",
+      "confidence": 0.9784670156591079
+    },
+    {
+      "type": "text",
+      "img_path": "p0675_000_text.png",
+      "bbox": [
+        [
+          280,
+          2922
+        ],
+        [
+          2361,
+          2922
+        ],
+        [
+          2361,
+          3119
+        ],
+        [
+          280,
+          3119
+        ]
+      ],
+      "score": 0.9764456152915955,
+      "y_pos": 2922,
+      "text": "- Có những huyệt gồm nhiều cách đặt tên của nhiều y gia ở nhiều thời đại, nhiều địa\nphương, nay gộp lại thành nhiều tên. Như huyệt <i>Quan nguyên</i> có đến 30 tên, phân tích một\nsố tên trong đó ta thấy mỗi tên do một cách đặt riêng, nêu một ví dụ như sau:",
+      "confidence": 0.9972036431397692
+    },
+    {
+      "type": "footer",
+      "img_path": "p0675_027_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1324,
+          3341
+        ],
+        [
+          1324,
+          3388
+        ],
+        [
+          229,
+          3388
+        ]
+      ],
+      "score": 0.9067546725273132,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9986451020780599
+    },
+    {
+      "type": "number",
+      "img_path": "p0675_028_number.png",
+      "bbox": [
+        [
+          2332,
+          3365
+        ],
+        [
+          2352,
+          3365
+        ],
+        [
+          2352,
+          3400
+        ],
+        [
+          2332,
+          3400
+        ]
+      ],
+      "score": 0.7771320939064026,
+      "y_pos": 3365,
+      "text": "\n\n    \n\n\n\n\n        ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0675.png"
+}

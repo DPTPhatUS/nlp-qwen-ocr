@@ -1,0 +1,812 @@
+{
+  "page_num": 107,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0107_026_text.png",
+      "bbox": [
+        [
+          512,
+          451
+        ],
+        [
+          1715,
+          451
+        ],
+        [
+          1715,
+          503
+        ],
+        [
+          512,
+          503
+        ]
+      ],
+      "score": 0.7207045555114746,
+      "y_pos": 451,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.9968867774279613
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_021_text.png",
+      "bbox": [
+        [
+          513,
+          533
+        ],
+        [
+          1808,
+          533
+        ],
+        [
+          1808,
+          588
+        ],
+        [
+          513,
+          588
+        ]
+      ],
+      "score": 0.7572667002677917,
+      "y_pos": 533,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.9972569899899619
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_023_text.png",
+      "bbox": [
+        [
+          515,
+          616
+        ],
+        [
+          993,
+          616
+        ],
+        [
+          993,
+          668
+        ],
+        [
+          515,
+          668
+        ]
+      ],
+      "score": 0.7379792928695679,
+      "y_pos": 616,
+      "text": "C. Nếu a đúng, b sai",
+      "confidence": 0.9831209020181135
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_025_text.png",
+      "bbox": [
+        [
+          515,
+          701
+        ],
+        [
+          993,
+          701
+        ],
+        [
+          993,
+          752
+        ],
+        [
+          515,
+          752
+        ]
+      ],
+      "score": 0.7270880341529846,
+      "y_pos": 701,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9873994751410051
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_024_text.png",
+      "bbox": [
+        [
+          517,
+          783
+        ],
+        [
+          944,
+          783
+        ],
+        [
+          944,
+          831
+        ],
+        [
+          517,
+          831
+        ]
+      ],
+      "score": 0.7275367975234985,
+      "y_pos": 783,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.971138576666514
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_029_text.png",
+      "bbox": [
+        [
+          464,
+          864
+        ],
+        [
+          1816,
+          864
+        ],
+        [
+          1816,
+          916
+        ],
+        [
+          464,
+          916
+        ]
+      ],
+      "score": 0.6354807019233704,
+      "y_pos": 864,
+      "text": "6.a. Trong HC Vị âm hư, có triệu chứng cầu phân khô bởi vì",
+      "confidence": 0.9996812125047048
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_018_text.png",
+      "bbox": [
+        [
+          475,
+          947
+        ],
+        [
+          1281,
+          947
+        ],
+        [
+          1281,
+          999
+        ],
+        [
+          475,
+          999
+        ]
+      ],
+      "score": 0.7865733504295349,
+      "y_pos": 947,
+      "text": "b. Trong Vị âm hư Vị khí bất giáng",
+      "confidence": 0.9644148531887267
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_016_text.png",
+      "bbox": [
+        [
+          511,
+          1030
+        ],
+        [
+          1717,
+          1030
+        ],
+        [
+          1717,
+          1082
+        ],
+        [
+          511,
+          1082
+        ]
+      ],
+      "score": 0.81367427110672,
+      "y_pos": 1030,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.997771534155
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_014_text.png",
+      "bbox": [
+        [
+          512,
+          1112
+        ],
+        [
+          1808,
+          1112
+        ],
+        [
+          1808,
+          1166
+        ],
+        [
+          512,
+          1166
+        ]
+      ],
+      "score": 0.8195100426673889,
+      "y_pos": 1112,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.9968984382493156
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_012_text.png",
+      "bbox": [
+        [
+          514,
+          1196
+        ],
+        [
+          993,
+          1196
+        ],
+        [
+          993,
+          1246
+        ],
+        [
+          514,
+          1246
+        ]
+      ],
+      "score": 0.8265895843505859,
+      "y_pos": 1196,
+      "text": "C. Nếu a đúng, b sai",
+      "confidence": 0.9777067655866797
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_006_text.png",
+      "bbox": [
+        [
+          514,
+          1277
+        ],
+        [
+          994,
+          1277
+        ],
+        [
+          994,
+          1328
+        ],
+        [
+          514,
+          1328
+        ]
+      ],
+      "score": 0.8430402278900146,
+      "y_pos": 1277,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9845750521529805
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_011_text.png",
+      "bbox": [
+        [
+          517,
+          1359
+        ],
+        [
+          944,
+          1359
+        ],
+        [
+          944,
+          1408
+        ],
+        [
+          517,
+          1408
+        ]
+      ],
+      "score": 0.8304328918457031,
+      "y_pos": 1359,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.9711276434716725
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_030_text.png",
+      "bbox": [
+        [
+          466,
+          1443
+        ],
+        [
+          2070,
+          1443
+        ],
+        [
+          2070,
+          1494
+        ],
+        [
+          466,
+          1494
+        ]
+      ],
+      "score": 0.5584973692893982,
+      "y_pos": 1443,
+      "text": "7.a. Trong HC Vị nhiệt ủng thịnh, có triệu chứng hôn mê nói nhảm bởi vì:",
+      "confidence": 0.9995381775740031
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_027_text.png",
+      "bbox": [
+        [
+          344,
+          1526
+        ],
+        [
+          2126,
+          1526
+        ],
+        [
+          2126,
+          1635
+        ],
+        [
+          344,
+          1635
+        ]
+      ],
+      "score": 0.7059670686721802,
+      "y_pos": 1526,
+      "text": "b. Kinh Vị là kinh đa huyết đa khí, nay nhiệt phạm vào huyết phận mà\ngây ra",
+      "confidence": 0.992778003854411
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_017_text.png",
+      "bbox": [
+        [
+          510,
+          1661
+        ],
+        [
+          1717,
+          1661
+        ],
+        [
+          1717,
+          1713
+        ],
+        [
+          510,
+          1713
+        ]
+      ],
+      "score": 0.8103064894676208,
+      "y_pos": 1661,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.996279868314851
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_005_text.png",
+      "bbox": [
+        [
+          511,
+          1740
+        ],
+        [
+          1808,
+          1740
+        ],
+        [
+          1808,
+          1793
+        ],
+        [
+          511,
+          1793
+        ]
+      ],
+      "score": 0.8440418839454651,
+      "y_pos": 1740,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.9961722248366901
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_003_text.png",
+      "bbox": [
+        [
+          513,
+          1819
+        ],
+        [
+          994,
+          1819
+        ],
+        [
+          994,
+          1869
+        ],
+        [
+          513,
+          1869
+        ]
+      ],
+      "score": 0.8618350028991699,
+      "y_pos": 1819,
+      "text": "C. Nếu a đúng, b sai",
+      "confidence": 0.9765728414058685
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_007_text.png",
+      "bbox": [
+        [
+          514,
+          1899
+        ],
+        [
+          993,
+          1899
+        ],
+        [
+          993,
+          1949
+        ],
+        [
+          514,
+          1949
+        ]
+      ],
+      "score": 0.8399534821510315,
+      "y_pos": 1899,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9867173324931752
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_015_text.png",
+      "bbox": [
+        [
+          516,
+          1977
+        ],
+        [
+          944,
+          1977
+        ],
+        [
+          944,
+          2023
+        ],
+        [
+          516,
+          2023
+        ]
+      ],
+      "score": 0.8171290755271912,
+      "y_pos": 1977,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.9802839841161456
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_028_text.png",
+      "bbox": [
+        [
+          344,
+          2055
+        ],
+        [
+          2129,
+          2055
+        ],
+        [
+          2129,
+          2164
+        ],
+        [
+          344,
+          2164
+        ]
+      ],
+      "score": 0.6923556923866272,
+      "y_pos": 2055,
+      "text": "8. Trong phương huyệt chữa chứng Hàn thấp khốn Tỳ gồm Công tôn, Khí\nhải, Thái bạch, Phong long",
+      "confidence": 0.9990735987883917
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_020_text.png",
+      "bbox": [
+        [
+          462,
+          2194
+        ],
+        [
+          2092,
+          2194
+        ],
+        [
+          2092,
+          2246
+        ],
+        [
+          462,
+          2246
+        ]
+      ],
+      "score": 0.7797114253044128,
+      "y_pos": 2194,
+      "text": "a. Châm bổ huyệt Thái bạch theo nguyên tắc sử dụng ngũ du huyệt; bởi vì:",
+      "confidence": 0.9997085348979847
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_019_text.png",
+      "bbox": [
+        [
+          463,
+          2276
+        ],
+        [
+          1419,
+          2276
+        ],
+        [
+          1419,
+          2328
+        ],
+        [
+          463,
+          2328
+        ]
+      ],
+      "score": 0.786126434803009,
+      "y_pos": 2276,
+      "text": "b. Thái bạch là nguyên huyệt của kinh Tỳ",
+      "confidence": 0.9549848508267176
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_013_text.png",
+      "bbox": [
+        [
+          511,
+          2359
+        ],
+        [
+          1717,
+          2359
+        ],
+        [
+          1717,
+          2409
+        ],
+        [
+          511,
+          2409
+        ]
+      ],
+      "score": 0.8204259872436523,
+      "y_pos": 2359,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.9931435911160595
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_008_text.png",
+      "bbox": [
+        [
+          512,
+          2442
+        ],
+        [
+          1808,
+          2442
+        ],
+        [
+          1808,
+          2494
+        ],
+        [
+          512,
+          2494
+        ]
+      ],
+      "score": 0.8380034565925598,
+      "y_pos": 2442,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.9950954967311451
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_001_text.png",
+      "bbox": [
+        [
+          513,
+          2525
+        ],
+        [
+          994,
+          2525
+        ],
+        [
+          994,
+          2574
+        ],
+        [
+          513,
+          2574
+        ]
+      ],
+      "score": 0.8830114603042603,
+      "y_pos": 2525,
+      "text": "C. Nếu a đúng, b sai",
+      "confidence": 0.9711621674624357
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_002_text.png",
+      "bbox": [
+        [
+          514,
+          2609
+        ],
+        [
+          994,
+          2609
+        ],
+        [
+          994,
+          2658
+        ],
+        [
+          514,
+          2658
+        ]
+      ],
+      "score": 0.8827504515647888,
+      "y_pos": 2609,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9845750521529805
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_004_text.png",
+      "bbox": [
+        [
+          516,
+          2692
+        ],
+        [
+          945,
+          2692
+        ],
+        [
+          945,
+          2738
+        ],
+        [
+          516,
+          2738
+        ]
+      ],
+      "score": 0.8609192967414856,
+      "y_pos": 2692,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.9797126792726063
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_022_text.png",
+      "bbox": [
+        [
+          345,
+          2772
+        ],
+        [
+          2125,
+          2772
+        ],
+        [
+          2125,
+          2883
+        ],
+        [
+          345,
+          2883
+        ]
+      ],
+      "score": 0.7504675388336182,
+      "y_pos": 2772,
+      "text": "9.a. Trong phương huyệt chữa chứng Vị thất hòa giáng gồm Túc tam lý,\nPhong long, Trung quản. Châm tả Túc tam lý; bởi vì:",
+      "confidence": 0.9993414773372307
+    },
+    {
+      "type": "text",
+      "img_path": "p0107_010_text.png",
+      "bbox": [
+        [
+          461,
+          2912
+        ],
+        [
+          1970,
+          2912
+        ],
+        [
+          1970,
+          2964
+        ],
+        [
+          461,
+          2964
+        ]
+      ],
+      "score": 0.8312845826148987,
+      "y_pos": 2912,
+      "text": "b. Châm tả Túc tam lý có tác dụng giáng trọc khí, thông dương khí",
+      "confidence": 0.9830870236923446
+    },
+    {
+      "type": "number",
+      "img_path": "p0107_009_number.png",
+      "bbox": [
+        [
+          354,
+          3110
+        ],
+        [
+          435,
+          3110
+        ],
+        [
+          435,
+          3149
+        ],
+        [
+          354,
+          3149
+        ]
+      ],
+      "score": 0.833271324634552,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0107_000_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1074,
+          3311
+        ],
+        [
+          1074,
+          3367
+        ],
+        [
+          294,
+          3367
+        ]
+      ],
+      "score": 0.9101229906082153,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8891090188707624
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0107.png"
+}

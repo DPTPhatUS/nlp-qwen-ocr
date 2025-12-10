@@ -1,0 +1,214 @@
+{
+  "page_num": 497,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0497_002_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2369,
+          144
+        ],
+        [
+          2369,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9089782238006592,
+      "y_pos": 144,
+      "text": "~ 2    ~ 7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6485285695110049
+    },
+    {
+      "type": "header",
+      "img_path": "p0497_001_header.png",
+      "bbox": [
+        [
+          230,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          199
+        ],
+        [
+          230,
+          199
+        ]
+      ],
+      "score": 0.9133504629135132,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.995639579800459
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0497_003_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          330
+        ],
+        [
+          761,
+          330
+        ],
+        [
+          761,
+          379
+        ],
+        [
+          226,
+          379
+        ]
+      ],
+      "score": 0.8926585912704468,
+      "y_pos": 330,
+      "text": "66. Có mang nôn mửa",
+      "confidence": 0.9147776507195973
+    },
+    {
+      "type": "text",
+      "img_path": "p0497_000_text.png",
+      "bbox": [
+        [
+          222,
+          420
+        ],
+        [
+          2359,
+          420
+        ],
+        [
+          2359,
+          683
+        ],
+        [
+          222,
+          683
+        ]
+      ],
+      "score": 0.9665965437889099,
+      "y_pos": 420,
+      "text": "Đàn bà có mang khoảng sau 1 tháng, sáng sớm nôn mửa hoặc ăn xong nôn ngay, có khi mới\nngửi thấy mùi cơm và thức ăn đã nôn mửa, kèm có thèm thích ăn quả chua, đầu nặng, mắt\nhoa, chân tay mệt mỏi. Bệnh này gọi là mửa nghén. Nhẹ thì qua một thời gian tự khỏi. Nặng thì\ncần tiến hành chữa.",
+      "confidence": 0.9953597829262251
+    },
+    {
+      "type": "text",
+      "img_path": "p0497_005_text.png",
+      "bbox": [
+        [
+          283,
+          726
+        ],
+        [
+          1568,
+          726
+        ],
+        [
+          1568,
+          780
+        ],
+        [
+          283,
+          780
+        ]
+      ],
+      "score": 0.8579400777816772,
+      "y_pos": 726,
+      "text": "Cách chữa: Lấy huyệt Nội quan, Trung quản, Túc tam lý.",
+      "confidence": 0.7651267594524792
+    },
+    {
+      "type": "text",
+      "img_path": "p0497_007_text.png",
+      "bbox": [
+        [
+          285,
+          819
+        ],
+        [
+          786,
+          819
+        ],
+        [
+          786,
+          868
+        ],
+        [
+          285,
+          868
+        ]
+      ],
+      "score": 0.8427451848983765,
+      "y_pos": 819,
+      "text": "Châm xong cứu thêm.",
+      "confidence": 0.9714196750095913
+    },
+    {
+      "type": "number",
+      "img_path": "p0497_006_number.png",
+      "bbox": [
+        [
+          2304,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2304,
+          3335
+        ]
+      ],
+      "score": 0.8484838008880615,
+      "y_pos": 3300,
+      "text": "    \n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0497_004_footer.png",
+      "bbox": [
+        [
+          229,
+          3310
+        ],
+        [
+          1324,
+          3310
+        ],
+        [
+          1324,
+          3356
+        ],
+        [
+          229,
+          3356
+        ]
+      ],
+      "score": 0.8910381197929382,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985828905735376
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0497.png"
+}

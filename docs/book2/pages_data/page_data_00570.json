@@ -1,0 +1,318 @@
+{
+  "page_num": 570,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0570_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9143412113189697,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0570_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1467,
+          152
+        ],
+        [
+          1467,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9195267558097839,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TẬN, KỲ HUYỆT",
+      "confidence": 0.9979400253295898
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0570_004_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          327
+        ],
+        [
+          847,
+          327
+        ],
+        [
+          847,
+          383
+        ],
+        [
+          226,
+          383
+        ]
+      ],
+      "score": 0.8190034627914429,
+      "y_pos": 327,
+      "text": "Phần 17. BÊNH GAN MẤT",
+      "confidence": 0.7537185446075771
+    },
+    {
+      "type": "text",
+      "img_path": "p0570_011_text.png",
+      "bbox": [
+        [
+          227,
+          422
+        ],
+        [
+          2312,
+          422
+        ],
+        [
+          2312,
+          477
+        ],
+        [
+          227,
+          477
+        ]
+      ],
+      "score": 0.5052934885025024,
+      "y_pos": 422,
+      "text": "254. <b>Viêm gan:</b> Can nhiệt huyệt, Bát chùy hạ, Can viêm điểm, Tỳ nhiệt huyệt, Can tâm châm.",
+      "confidence": 0.9930546815677356
+    },
+    {
+      "type": "text",
+      "img_path": "p0570_008_text.png",
+      "bbox": [
+        [
+          229,
+          604
+        ],
+        [
+          1541,
+          604
+        ],
+        [
+          1541,
+          658
+        ],
+        [
+          229,
+          658
+        ]
+      ],
+      "score": 0.5677455067634583,
+      "y_pos": 604,
+      "text": "256. Đau vùng gan: Can thất, Can phòng, Can tam châm.",
+      "confidence": 0.9853897474028848
+    },
+    {
+      "type": "text",
+      "img_path": "p0570_010_text.png",
+      "bbox": [
+        [
+          230,
+          696
+        ],
+        [
+          1149,
+          696
+        ],
+        [
+          1149,
+          750
+        ],
+        [
+          230,
+          750
+        ]
+      ],
+      "score": 0.5301310420036316,
+      "y_pos": 696,
+      "text": "257. Bệnh gan mật: Khu biên, Trọc dục.",
+      "confidence": 0.9885873317718505
+    },
+    {
+      "type": "text",
+      "img_path": "p0570_009_text.png",
+      "bbox": [
+        [
+          230,
+          788
+        ],
+        [
+          1204,
+          788
+        ],
+        [
+          1204,
+          840
+        ],
+        [
+          230,
+          840
+        ]
+      ],
+      "score": 0.5400553345680237,
+      "y_pos": 788,
+      "text": "258. Gan lách sưng to: Bĩ căn, Huyết phủ.",
+      "confidence": 0.9911419943321583
+    },
+    {
+      "type": "text",
+      "img_path": "p0570_007_text.png",
+      "bbox": [
+        [
+          230,
+          880
+        ],
+        [
+          1080,
+          880
+        ],
+        [
+          1080,
+          933
+        ],
+        [
+          230,
+          933
+        ]
+      ],
+      "score": 0.5864614248275757,
+      "y_pos": 880,
+      "text": "259. Bệnh túy mật: Đảm nang huyệt.",
+      "confidence": 0.9883505817916658
+    },
+    {
+      "type": "text",
+      "img_path": "p0570_005_text.png",
+      "bbox": [
+        [
+          229,
+          971
+        ],
+        [
+          1471,
+          971
+        ],
+        [
+          1471,
+          1024
+        ],
+        [
+          229,
+          1024
+        ]
+      ],
+      "score": 0.6109532713890076,
+      "y_pos": 971,
+      "text": "260. Viêm túi mật: Lăng hạ, Can nhiệt huyệt, Kiểu linh.",
+      "confidence": 0.9992374192204392
+    },
+    {
+      "type": "text",
+      "img_path": "p0570_006_text.png",
+      "bbox": [
+        [
+          228,
+          1063
+        ],
+        [
+          1348,
+          1063
+        ],
+        [
+          1348,
+          1116
+        ],
+        [
+          228,
+          1116
+        ]
+      ],
+      "score": 0.5892321467399597,
+      "y_pos": 1063,
+      "text": "261. Giun chui ông mật: Lăng hạ, Túc ích thông.",
+      "confidence": 0.967114296494698
+    },
+    {
+      "type": "number",
+      "img_path": "p0570_003_number.png",
+      "bbox": [
+        [
+          2320,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2320,
+          3374
+        ]
+      ],
+      "score": 0.8618080615997314,
+      "y_pos": 3337,
+      "text": "    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0570_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9081616997718811,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0570.png"
+}

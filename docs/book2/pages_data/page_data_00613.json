@@ -1,0 +1,846 @@
+{
+  "page_num": 613,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0613_007_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9171613454818726,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0613_009_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9098170399665833,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "text",
+      "img_path": "p0613_000_text.png",
+      "bbox": [
+        [
+          278,
+          307
+        ],
+        [
+          2358,
+          307
+        ],
+        [
+          2358,
+          500
+        ],
+        [
+          278,
+          500
+        ]
+      ],
+      "score": 0.970508337020874,
+      "y_pos": 307,
+      "text": "h. Cột số 9 và 9': là cột ghi nhiệt độ trung bình của từng kinh, được tính như sau: Lấy\nnhiệt độ bên trái (cột 8 hoặc 8') cộng với nhiệt độ bên phải (cột 11 hoặc 11') của từng kinh rồi\nchia cho 2. Tính lần lượt hết tất cả các kinh ở tay và chân",
+      "confidence": 0.996723343294752
+    },
+    {
+      "type": "formula",
+      "img_path": "p0613_026_formula.png",
+      "bbox": [
+        [
+          286,
+          537
+        ],
+        [
+          1072,
+          537
+        ],
+        [
+          1072,
+          638
+        ],
+        [
+          286,
+          638
+        ]
+      ],
+      "score": 0.7971749305725098,
+      "y_pos": 537
+    },
+    {
+      "type": "formula",
+      "img_path": "p0613_019_formula.png",
+      "bbox": [
+        [
+          280,
+          724
+        ],
+        [
+          1124,
+          724
+        ],
+        [
+          1124,
+          826
+        ],
+        [
+          280,
+          826
+        ]
+      ],
+      "score": 0.8847346305847168,
+      "y_pos": 724
+    },
+    {
+      "type": "text",
+      "img_path": "p0613_017_text.png",
+      "bbox": [
+        [
+          284,
+          929
+        ],
+        [
+          839,
+          929
+        ],
+        [
+          839,
+          980
+        ],
+        [
+          284,
+          980
+        ]
+      ],
+      "score": 0.8854133486747742,
+      "y_pos": 929,
+      "text": "- Ví dụ: Trong ví dụ trên",
+      "confidence": 0.8551473595477916
+    },
+    {
+      "type": "text",
+      "img_path": "p0613_010_text.png",
+      "bbox": [
+        [
+          296,
+          1016
+        ],
+        [
+          2307,
+          1016
+        ],
+        [
+          2307,
+          1135
+        ],
+        [
+          296,
+          1135
+        ]
+      ],
+      "score": 0.9092326760292053,
+      "y_pos": 1016,
+      "text": "• Kinh tiểu trường: <math>\\frac{34,0+34,2}{2}</math> = 34,1. Cột 9 trên hàng ngang của kinh tiểu trường ghi: 34,1",
+      "confidence": 0.9907007546651931
+    },
+    {
+      "type": "formula",
+      "img_path": "p0613_006_formula.png",
+      "bbox": [
+        [
+          764,
+          1017
+        ],
+        [
+          1131,
+          1017
+        ],
+        [
+          1131,
+          1128
+        ],
+        [
+          764,
+          1128
+        ]
+      ],
+      "score": 0.9189260005950928,
+      "y_pos": 1017
+    },
+    {
+      "type": "formula",
+      "img_path": "p0613_025_formula.png",
+      "bbox": [
+        [
+          781,
+          1169
+        ],
+        [
+          1156,
+          1169
+        ],
+        [
+          1156,
+          1285
+        ],
+        [
+          781,
+          1285
+        ]
+      ],
+      "score": 0.8059523701667786,
+      "y_pos": 1169
+    },
+    {
+      "type": "text",
+      "img_path": "p0613_008_text.png",
+      "bbox": [
+        [
+          296,
+          1170
+        ],
+        [
+          2341,
+          1170
+        ],
+        [
+          2341,
+          1289
+        ],
+        [
+          296,
+          1289
+        ]
+      ],
+      "score": 0.9167898893356323,
+      "y_pos": 1170,
+      "text": "• Kinh bàng quang: <math>\\frac{33.0 + 34.0}{2}</math> = 33,5. Cột 9' trên hàng ngang của kinh bàng quang ghi: 33,5",
+      "confidence": 0.966509464214433
+    },
+    {
+      "type": "text",
+      "img_path": "p0613_001_text.png",
+      "bbox": [
+        [
+          281,
+          1324
+        ],
+        [
+          2359,
+          1324
+        ],
+        [
+          2359,
+          1525
+        ],
+        [
+          281,
+          1525
+        ]
+      ],
+      "score": 0.9653828144073486,
+      "y_pos": 1324,
+      "text": "i. Cột số 10 và 10': Là cột ghi số tương quan; là hiệu số giữa nhiệt độ trung bình của\ntừng kinh trừ đi nhiệt độ trung bình của chi (tay hoặc chân) có kinh tương ứng. Hiệu số\nnày phải thể hiện cả giá trị âm dương (-,+) của chúng.",
+      "confidence": 0.9982364213512597
+    },
+    {
+      "type": "text",
+      "img_path": "p0613_022_text.png",
+      "bbox": [
+        [
+          285,
+          1561
+        ],
+        [
+          966,
+          1561
+        ],
+        [
+          966,
+          1613
+        ],
+        [
+          285,
+          1613
+        ]
+      ],
+      "score": 0.868810772895813,
+      "y_pos": 1561,
+      "text": "Như vậy: Cột 10 = Cột 9 - Ô4;",
+      "confidence": 0.9750679000731437
+    },
+    {
+      "type": "formula",
+      "img_path": "p0613_029_formula.png",
+      "bbox": [
+        [
+          599,
+          1561
+        ],
+        [
+          949,
+          1561
+        ],
+        [
+          949,
+          1613
+        ],
+        [
+          599,
+          1613
+        ]
+      ],
+      "score": 0.5933213233947754,
+      "y_pos": 1561
+    },
+    {
+      "type": "text",
+      "img_path": "p0613_018_text.png",
+      "bbox": [
+        [
+          285,
+          1649
+        ],
+        [
+          1009,
+          1649
+        ],
+        [
+          1009,
+          1703
+        ],
+        [
+          285,
+          1703
+        ]
+      ],
+      "score": 0.8851191401481628,
+      "y_pos": 1649,
+      "text": "Tương tư: Côt 10' = Côt 9' - Ô4'",
+      "confidence": 0.936688070788103
+    },
+    {
+      "type": "formula",
+      "img_path": "p0613_032_formula.png",
+      "bbox": [
+        [
+          626,
+          1650
+        ],
+        [
+          1001,
+          1650
+        ],
+        [
+          1001,
+          1702
+        ],
+        [
+          626,
+          1702
+        ]
+      ],
+      "score": 0.5063477754592896,
+      "y_pos": 1650
+    },
+    {
+      "type": "text",
+      "img_path": "p0613_012_text.png",
+      "bbox": [
+        [
+          287,
+          1744
+        ],
+        [
+          852,
+          1744
+        ],
+        [
+          852,
+          1796
+        ],
+        [
+          287,
+          1796
+        ]
+      ],
+      "score": 0.9026094079017639,
+      "y_pos": 1744,
+      "text": "- Ví dụ: Trong ví dụ trên",
+      "confidence": 0.8782443602879842
+    },
+    {
+      "type": "text",
+      "img_path": "p0613_015_text.png",
+      "bbox": [
+        [
+          295,
+          1835
+        ],
+        [
+          2309,
+          1835
+        ],
+        [
+          2309,
+          1889
+        ],
+        [
+          295,
+          1889
+        ]
+      ],
+      "score": 0.8932207226753235,
+      "y_pos": 1835,
+      "text": "\n    Kinh tiếu trường: 34,1 - 34,6 = -0,5. Cột 10 trên hàng ngang của kinh tiếu trường ghi: -0,5.\n",
+      "confidence": 0.9856547081874589
+    },
+    {
+      "type": "text",
+      "img_path": "p0613_014_text.png",
+      "bbox": [
+        [
+          297,
+          1928
+        ],
+        [
+          2348,
+          1928
+        ],
+        [
+          2348,
+          1982
+        ],
+        [
+          297,
+          1982
+        ]
+      ],
+      "score": 0.9011586904525757,
+      "y_pos": 1928,
+      "text": "\n    Kinh bàng quang: 33,5 – 34,1 = 0,6. Cột 10' trên hàng ngang của kinh bàng quang ghi: -0,6.\n",
+      "confidence": 0.9846008640938791
+    },
+    {
+      "type": "formula",
+      "img_path": "p0613_031_formula.png",
+      "bbox": [
+        [
+          773,
+          1928
+        ],
+        [
+          1143,
+          1928
+        ],
+        [
+          1143,
+          1981
+        ],
+        [
+          773,
+          1981
+        ]
+      ],
+      "score": 0.5270599126815796,
+      "y_pos": 1928
+    },
+    {
+      "type": "text",
+      "img_path": "p0613_004_text.png",
+      "bbox": [
+        [
+          283,
+          2018
+        ],
+        [
+          2359,
+          2018
+        ],
+        [
+          2359,
+          2143
+        ],
+        [
+          283,
+          2143
+        ]
+      ],
+      "score": 0.9364997148513794,
+      "y_pos": 2018,
+      "text": "k. Cột 12 và 12': Là cột ghi số chênh lệch (độ dao động) nhiệt độ giữa hai bên trái phải\ncủa từng kinh. Bên có nhiệt độ cao trừ đi bên có nhiệt độ thấp hơn của từng kinh.",
+      "confidence": 0.7985889579277919
+    },
+    {
+      "type": "text",
+      "img_path": "p0613_020_text.png",
+      "bbox": [
+        [
+          285,
+          2182
+        ],
+        [
+          1506,
+          2182
+        ],
+        [
+          1506,
+          2233
+        ],
+        [
+          285,
+          2233
+        ]
+      ],
+      "score": 0.8838633894920349,
+      "y_pos": 2182,
+      "text": "Như vây: Côt 12 = Côt 8 - Côt 11, hoặc Côt 11 - Côt 8.",
+      "confidence": 0.9734855187790734
+    },
+    {
+      "type": "text",
+      "img_path": "p0613_011_text.png",
+      "bbox": [
+        [
+          285,
+          2272
+        ],
+        [
+          1583,
+          2272
+        ],
+        [
+          1583,
+          2324
+        ],
+        [
+          285,
+          2324
+        ]
+      ],
+      "score": 0.9052268862724304,
+      "y_pos": 2272,
+      "text": "Tương tư: Côt 12' = Côt 8' - Côt 11', hoặc Côt 11' - Côt 8'.",
+      "confidence": 0.967195451259613
+    },
+    {
+      "type": "text",
+      "img_path": "p0613_021_text.png",
+      "bbox": [
+        [
+          286,
+          2367
+        ],
+        [
+          838,
+          2367
+        ],
+        [
+          838,
+          2416
+        ],
+        [
+          286,
+          2416
+        ]
+      ],
+      "score": 0.8701297640800476,
+      "y_pos": 2367,
+      "text": "- Ví du: Trong ví du trên",
+      "confidence": 0.9053491243609676
+    },
+    {
+      "type": "text",
+      "img_path": "p0613_003_text.png",
+      "bbox": [
+        [
+          297,
+          2457
+        ],
+        [
+          2360,
+          2457
+        ],
+        [
+          2360,
+          2580
+        ],
+        [
+          297,
+          2580
+        ]
+      ],
+      "score": 0.9624258875846863,
+      "y_pos": 2457,
+      "text": "\n    + Kinh tiểu trường: Bên trái 34,0, bên phải 34,2, chênh lệch 34,2 – 34,0 = 0,2. Cột 12\n\ntrên hàng ngang của kinh tiểu trường ghi: 0,2.",
+      "confidence": 0.9914207878921713
+    },
+    {
+      "type": "formula",
+      "img_path": "p0613_030_formula.png",
+      "bbox": [
+        [
+          1772,
+          2458
+        ],
+        [
+          2355,
+          2458
+        ],
+        [
+          2355,
+          2512
+        ],
+        [
+          1772,
+          2512
+        ]
+      ],
+      "score": 0.5384779572486877,
+      "y_pos": 2458
+    },
+    {
+      "type": "text",
+      "img_path": "p0613_002_text.png",
+      "bbox": [
+        [
+          297,
+          2620
+        ],
+        [
+          2358,
+          2620
+        ],
+        [
+          2358,
+          2744
+        ],
+        [
+          297,
+          2744
+        ]
+      ],
+      "score": 0.962662935256958,
+      "y_pos": 2620,
+      "text": "\n    + Kinh tâm bào: Bên trái 35,0, bên phải 34,9, chênh lệch 35,0 – 34,9 = 0,1. Cột 12 trên\n\nhàng ngang của kinh tâm bào ghi: 0,1.",
+      "confidence": 0.9886683591212279
+    },
+    {
+      "type": "text",
+      "img_path": "p0613_005_text.png",
+      "bbox": [
+        [
+          282,
+          2780
+        ],
+        [
+          2359,
+          2780
+        ],
+        [
+          2359,
+          2908
+        ],
+        [
+          282,
+          2908
+        ]
+      ],
+      "score": 0.9302528500556946,
+      "y_pos": 2780,
+      "text": "I. Ô số 13: Là ô ghi hiệu số của nhiệt độ trung bình chi trên trừ nhiệt độ trung bình chi\ndưới. Hiệu số này phải thể hiện cả giá trị âm dương (-, +) của chúng.",
+      "confidence": 0.8175739129064548
+    },
+    {
+      "type": "formula",
+      "img_path": "p0613_027_formula.png",
+      "bbox": [
+        [
+          504,
+          2939
+        ],
+        [
+          863,
+          2939
+        ],
+        [
+          863,
+          2993
+        ],
+        [
+          504,
+          2993
+        ]
+      ],
+      "score": 0.6991513967514038,
+      "y_pos": 2939
+    },
+    {
+      "type": "text",
+      "img_path": "p0613_028_text.png",
+      "bbox": [
+        [
+          287,
+          2940
+        ],
+        [
+          873,
+          2940
+        ],
+        [
+          873,
+          2994
+        ],
+        [
+          287,
+          2994
+        ]
+      ],
+      "score": 0.67992103099823,
+      "y_pos": 2940,
+      "text": "Như vây: Ô13 = Ô4 – Ô4'.",
+      "confidence": 0.9680273624566885
+    },
+    {
+      "type": "text",
+      "img_path": "p0613_013_text.png",
+      "bbox": [
+        [
+          288,
+          3038
+        ],
+        [
+          837,
+          3038
+        ],
+        [
+          837,
+          3087
+        ],
+        [
+          288,
+          3087
+        ]
+      ],
+      "score": 0.902058482170105,
+      "y_pos": 3038,
+      "text": "- Ví du: Trong ví du trên",
+      "confidence": 0.9102212102324875
+    },
+    {
+      "type": "text",
+      "img_path": "p0613_024_text.png",
+      "bbox": [
+        [
+          300,
+          3128
+        ],
+        [
+          1089,
+          3128
+        ],
+        [
+          1089,
+          3179
+        ],
+        [
+          300,
+          3179
+        ]
+      ],
+      "score": 0.8150497674942017,
+      "y_pos": 3128,
+      "text": "• 34,6 – 34,1 = 0,5. Ô 13 ghi: 0,5.",
+      "confidence": 0.8835972735756322
+    },
+    {
+      "type": "number",
+      "img_path": "p0613_023_number.png",
+      "bbox": [
+        [
+          2307,
+          3336
+        ],
+        [
+          2354,
+          3336
+        ],
+        [
+          2354,
+          3374
+        ],
+        [
+          2307,
+          3374
+        ]
+      ],
+      "score": 0.8527799844741821,
+      "y_pos": 3336,
+      "text": "    \n    \n\n\n۰\n٠.\n\n\n",
+      "confidence": 0.9093495512550528
+    },
+    {
+      "type": "footer",
+      "img_path": "p0613_016_footer.png",
+      "bbox": [
+        [
+          227,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3388
+        ],
+        [
+          227,
+          3388
+        ]
+      ],
+      "score": 0.8923122882843018,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985032610173495
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0613.png"
+}

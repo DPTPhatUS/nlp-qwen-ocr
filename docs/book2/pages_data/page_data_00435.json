@@ -1,0 +1,188 @@
+{
+  "page_num": 435,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0435_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2369,
+          144
+        ],
+        [
+          2369,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9229657053947449,
+      "y_pos": 144,
+      "text": "~ 2    ~ 7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6485285695110049
+    },
+    {
+      "type": "header",
+      "img_path": "p0435_002_header.png",
+      "bbox": [
+        [
+          230,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          230,
+          198
+        ]
+      ],
+      "score": 0.9212415218353271,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.995639579800459
+    },
+    {
+      "type": "text",
+      "img_path": "p0435_005_text.png",
+      "bbox": [
+        [
+          341,
+          306
+        ],
+        [
+          1917,
+          306
+        ],
+        [
+          1917,
+          359
+        ],
+        [
+          341,
+          359
+        ]
+      ],
+      "score": 0.8931338787078857,
+      "y_pos": 306,
+      "text": "Cách chữa: Lấy các huyệt Khí hải, Thần khuyết, Túc tam lý, Bách hội.",
+      "confidence": 0.5661540635994502
+    },
+    {
+      "type": "text",
+      "img_path": "p0435_004_text.png",
+      "bbox": [
+        [
+          342,
+          399
+        ],
+        [
+          2097,
+          399
+        ],
+        [
+          2097,
+          452
+        ],
+        [
+          342,
+          452
+        ]
+      ],
+      "score": 0.8932180404663086,
+      "y_pos": 399,
+      "text": "Bốn huyệt trên đều dùng điều ngải cứu, hoặc cứu cách gừng từ 5 đến 15 phút.",
+      "confidence": 0.998468850340162
+    },
+    {
+      "type": "text",
+      "img_path": "p0435_000_text.png",
+      "bbox": [
+        [
+          340,
+          489
+        ],
+        [
+          2358,
+          489
+        ],
+        [
+          2358,
+          686
+        ],
+        [
+          340,
+          686
+        ]
+      ],
+      "score": 0.9657732844352722,
+      "y_pos": 489,
+      "text": "Giảng nghĩa của phương: Phương này chủ yếu là hồi dương cố thoát. Cứu Khí hải,\nThần khuyết để hồi dương, cứu <i>Bách hội</i> để nâng dương khí lên, cứu <i>Túc tam lý</i> để ôn bổ\ntỳ vị, làm cho hồi dương, tứ chi ấm áp, dứt mồ hôi.",
+      "confidence": 0.9966893297084521
+    },
+    {
+      "type": "number",
+      "img_path": "p0435_006_number.png",
+      "bbox": [
+        [
+          2307,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2307,
+          3335
+        ]
+      ],
+      "score": 0.8529343605041504,
+      "y_pos": 3300,
+      "text": "\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0435_003_footer.png",
+      "bbox": [
+        [
+          228,
+          3310
+        ],
+        [
+          1323,
+          3310
+        ],
+        [
+          1323,
+          3355
+        ],
+        [
+          228,
+          3355
+        ]
+      ],
+      "score": 0.900856077671051,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9293094086197188
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0435.png"
+}

@@ -1,0 +1,214 @@
+{
+  "page_num": 552,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0552_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2371,
+          144
+        ],
+        [
+          2371,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9266571998596191,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7566693045553707
+    },
+    {
+      "type": "header",
+      "img_path": "p0552_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1468,
+          152
+        ],
+        [
+          1468,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9277307987213135,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TÂN. KỲ HUYỆT",
+      "confidence": 0.9977769827842713
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0552_004_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          322
+        ],
+        [
+          1856,
+          322
+        ],
+        [
+          1856,
+          385
+        ],
+        [
+          224,
+          385
+        ]
+      ],
+      "score": 0.7364569902420044,
+      "y_pos": 322,
+      "text": "CÁC PHƯƠNG PHÁP HUYỆT CHỮA TRI BÊNH CỦA TÂN, KỲ HUYỆT",
+      "confidence": 0.9982665354555303
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0552_005_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          415
+        ],
+        [
+          683,
+          415
+        ],
+        [
+          683,
+          479
+        ],
+        [
+          226,
+          479
+        ]
+      ],
+      "score": 0.683007001876831,
+      "y_pos": 415,
+      "text": "Phần I. BÊNH MẮT",
+      "confidence": 0.826150678926044
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0552_007_reference_content.png",
+      "bbox": [
+        [
+          236,
+          1864
+        ],
+        [
+          2363,
+          1864
+        ],
+        [
+          2363,
+          1994
+        ],
+        [
+          236,
+          1994
+        ]
+      ],
+      "score": 0.5076886415481567,
+      "y_pos": 1864,
+      "text": "15. Teo thần kinh nhìn: Kiện minh 5, É minh, Thượng minh, Ngoại minh, Nội Tình minh, Cầu\nhậu, Kiện minh 1, Vạn lý, Kiện minh.",
+      "confidence": 0.996334663207768
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0552_006_reference_content.png",
+      "bbox": [
+        [
+          234,
+          2210
+        ],
+        [
+          2358,
+          2210
+        ],
+        [
+          2358,
+          2342
+        ],
+        [
+          234,
+          2342
+        ]
+      ],
+      "score": 0.5192903876304626,
+      "y_pos": 2210,
+      "text": "18. Giác mạc có màng che, có ban trắng: Kiện minh 1, Kiện minh 2, Mẫu chỉ tiết hoành văn,\nTăng minh 1, Tăng minh 2, Hạ Tình minh, Thượng tình minh.",
+      "confidence": 0.9983477237049617
+    },
+    {
+      "type": "number",
+      "img_path": "p0552_003_number.png",
+      "bbox": [
+        [
+          2344,
+          3339
+        ],
+        [
+          2363,
+          3339
+        ],
+        [
+          2363,
+          3374
+        ],
+        [
+          2344,
+          3374
+        ]
+      ],
+      "score": 0.7880451083183289,
+      "y_pos": 3339,
+      "text": "    \n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0552_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1325,
+          3340
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.9137405753135681,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9988119602203369
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0552.png"
+}

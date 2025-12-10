@@ -1,0 +1,344 @@
+{
+  "page_num": 32,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0032_004_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9318341612815857,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7254179112967991
+    },
+    {
+      "type": "header",
+      "img_path": "p0032_008_header.png",
+      "bbox": [
+        [
+          228,
+          155
+        ],
+        [
+          743,
+          155
+        ],
+        [
+          743,
+          203
+        ],
+        [
+          228,
+          203
+        ]
+      ],
+      "score": 0.916259229183197,
+      "y_pos": 155,
+      "text": "HOC THUYẾT TANG PHỦ",
+      "confidence": 0.6601140754563468
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0032_005_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          301
+        ],
+        [
+          601,
+          301
+        ],
+        [
+          601,
+          351
+        ],
+        [
+          225,
+          351
+        ]
+      ],
+      "score": 0.9217762351036072,
+      "y_pos": 301,
+      "text": "G. Can và Thân",
+      "confidence": 0.8691676184535027
+    },
+    {
+      "type": "text",
+      "img_path": "p0032_001_text.png",
+      "bbox": [
+        [
+          278,
+          393
+        ],
+        [
+          2358,
+          393
+        ],
+        [
+          2358,
+          591
+        ],
+        [
+          278,
+          591
+        ]
+      ],
+      "score": 0.97506183385849,
+      "y_pos": 393,
+      "text": "Can va Thận có quan hệ mật thiết. Trong Đông y có câu \"Can Thận đồng nguyên\". Can nhờ\nThận thủy (Thận âm) tư dưỡng lại, Thận thuỷ bất túc, âm hư thì không liễm được dương sẽ\ngây ra \"Can dương thượng cang\" xuất hiện chứng đau đầu, cao huyết áp.",
+      "confidence": 0.9989432395294754
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0032_007_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          624
+        ],
+        [
+          535,
+          624
+        ],
+        [
+          535,
+          676
+        ],
+        [
+          226,
+          676
+        ]
+      ],
+      "score": 0.9175183773040771,
+      "y_pos": 624,
+      "text": "H. Tỳ và Phế",
+      "confidence": 0.9715487914425986
+    },
+    {
+      "type": "text",
+      "img_path": "p0032_003_text.png",
+      "bbox": [
+        [
+          279,
+          717
+        ],
+        [
+          2357,
+          717
+        ],
+        [
+          2357,
+          844
+        ],
+        [
+          279,
+          844
+        ]
+      ],
+      "score": 0.9625433087348938,
+      "y_pos": 717,
+      "text": "Phế khí nhờ Tỳ vận hóa thủy cốc tinh vi nuôi dưỡng trở lại. Trên lâm sàng đối với bệnh Phế\nkhí hư, có thể dùng phương pháp bổ Tỳ ích Phế để chữa chạy.",
+      "confidence": 0.9989667685910879
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0032_006_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          881
+        ],
+        [
+          541,
+          881
+        ],
+        [
+          541,
+          932
+        ],
+        [
+          225,
+          932
+        ]
+      ],
+      "score": 0.921174168586731,
+      "y_pos": 881,
+      "text": "I. Từ và Thân",
+      "confidence": 0.8076698819796244
+    },
+    {
+      "type": "text",
+      "img_path": "p0032_000_text.png",
+      "bbox": [
+        [
+          275,
+          972
+        ],
+        [
+          2358,
+          972
+        ],
+        [
+          2358,
+          1238
+        ],
+        [
+          275,
+          1238
+        ]
+      ],
+      "score": 0.9794185161590576,
+      "y_pos": 972,
+      "text": "Vận hóa của Tỳ nhờ Mệnh môn hỏa của thận giúp đỡ, cho nên Mệnh môn hỏa bất túc, gây\nra công năng của Tỳ giảm, xuất hiện chứng la chảy. Ngoài ra Tỳ còn có thể chế Thận thủy,\nnếu Tỳ hư, công năng vận hóa giảm mà không chế được thủy, làm cho Thận thủy nhiễu\nloạn, xuất hiện phù thũng.",
+      "confidence": 0.9883762139381744
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0032_009_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1276
+        ],
+        [
+          596,
+          1276
+        ],
+        [
+          596,
+          1324
+        ],
+        [
+          225,
+          1324
+        ]
+      ],
+      "score": 0.9137592911720276,
+      "y_pos": 1276,
+      "text": "K. Phê và Thân",
+      "confidence": 0.898219421505928
+    },
+    {
+      "type": "text",
+      "img_path": "p0032_002_text.png",
+      "bbox": [
+        [
+          275,
+          1367
+        ],
+        [
+          2357,
+          1367
+        ],
+        [
+          2357,
+          1562
+        ],
+        [
+          275,
+          1562
+        ]
+      ],
+      "score": 0.9736850261688232,
+      "y_pos": 1367,
+      "text": "Phế chủ khí. Thận chủ nạp khí, Thận cũng giáng. Phế khí túc giáng. Nếu thận dương hư,\nkhông thể nạp khí, thì thấy suyễn súc**. Trên lâm sàng, do thận hư mà đưa đến hen suyễn\ncần theo cách bổ thân mà chữa.",
+      "confidence": 0.994541196474756
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0032_012_footnote.png",
+      "bbox": [
+        [
+          231,
+          3153
+        ],
+        [
+          855,
+          3153
+        ],
+        [
+          855,
+          3208
+        ],
+        [
+          231,
+          3208
+        ]
+      ],
+      "score": 0.5843769311904907,
+      "y_pos": 3153,
+      "text": "** Suyễn súc: hen suyễn rút cổ lại",
+      "confidence": 0.9910527302159203
+    },
+    {
+      "type": "footer",
+      "img_path": "p0032_010_footer.png",
+      "bbox": [
+        [
+          229,
+          3333
+        ],
+        [
+          1436,
+          3333
+        ],
+        [
+          1436,
+          3387
+        ],
+        [
+          229,
+          3387
+        ]
+      ],
+      "score": 0.9031480550765991,
+      "y_pos": 3333,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9980784182278615
+    },
+    {
+      "type": "number",
+      "img_path": "p0032_011_number.png",
+      "bbox": [
+        [
+          2332,
+          3339
+        ],
+        [
+          2357,
+          3339
+        ],
+        [
+          2357,
+          3372
+        ],
+        [
+          2332,
+          3372
+        ]
+      ],
+      "score": 0.8213126063346863,
+      "y_pos": 3339,
+      "text": "\n    \n    \n    \n\n\n    \n\n\n\n\n\n\n        \n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0032.png"
+}

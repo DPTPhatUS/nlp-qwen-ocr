@@ -1,0 +1,654 @@
+{
+  "page_num": 207,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0207_014_header.png",
+      "bbox": [
+        [
+          1606,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1606,
+          201
+        ]
+      ],
+      "score": 0.925506055355072,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7424319858352344
+    },
+    {
+      "type": "header",
+      "img_path": "p0207_017_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          201
+        ],
+        [
+          228,
+          201
+        ]
+      ],
+      "score": 0.9167424440383911,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "text",
+      "img_path": "p0207_012_text.png",
+      "bbox": [
+        [
+          286,
+          348
+        ],
+        [
+          1842,
+          348
+        ],
+        [
+          1842,
+          401
+        ],
+        [
+          286,
+          401
+        ]
+      ],
+      "score": 0.92674320936203,
+      "y_pos": 348,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3-0,5 thốn. cứu 3 mồi, hơ 5 phút.",
+      "confidence": 0.993690173127758
+    },
+    {
+      "type": "image",
+      "img_path": "p0207_000_image.png",
+      "bbox": [
+        [
+          968,
+          461
+        ],
+        [
+          1677,
+          461
+        ],
+        [
+          1677,
+          1076
+        ],
+        [
+          968,
+          1076
+        ]
+      ],
+      "score": 0.9762311577796936,
+      "y_pos": 461
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0207_023_figure_title.png",
+      "bbox": [
+        [
+          1235,
+          1165
+        ],
+        [
+          1412,
+          1165
+        ],
+        [
+          1412,
+          1209
+        ],
+        [
+          1235,
+          1209
+        ]
+      ],
+      "score": 0.8813846111297607,
+      "y_pos": 1165,
+      "text": "ınn    ດດ",
+      "confidence": 0.6453000170489152
+    },
+    {
+      "type": "text",
+      "img_path": "p0207_001_text.png",
+      "bbox": [
+        [
+          280,
+          1251
+        ],
+        [
+          2356,
+          1251
+        ],
+        [
+          2356,
+          1376
+        ],
+        [
+          280,
+          1376
+        ]
+      ],
+      "score": 0.9669560790061951,
+      "y_pos": 1251,
+      "text": "Chủ trị: Đau thắt lưng, đau bụng hành kinh, băng lậu huyết, ỉa ra máu, liệt dương, di tinh, đái\ndầm, đau cột sống, đau bụng.",
+      "confidence": 0.992846697261653
+    },
+    {
+      "type": "text",
+      "img_path": "p0207_015_text.png",
+      "bbox": [
+        [
+          288,
+          1415
+        ],
+        [
+          1655,
+          1415
+        ],
+        [
+          1655,
+          1469
+        ],
+        [
+          288,
+          1469
+        ]
+      ],
+      "score": 0.9245347380638123,
+      "y_pos": 1415,
+      "text": "Tác dụng phối hợp: Với Bách hội, Quan nguyên, trị la chảy.",
+      "confidence": 0.9909691870212555
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0207_019_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1504
+        ],
+        [
+          550,
+          1504
+        ],
+        [
+          550,
+          1557
+        ],
+        [
+          226,
+          1557
+        ]
+      ],
+      "score": 0.9009973406791687,
+      "y_pos": 1504,
+      "text": "5. Huyền khu",
+      "confidence": 0.9131848173482078
+    },
+    {
+      "type": "text",
+      "img_path": "p0207_011_text.png",
+      "bbox": [
+        [
+          288,
+          1596
+        ],
+        [
+          1404,
+          1596
+        ],
+        [
+          1404,
+          1652
+        ],
+        [
+          288,
+          1652
+        ]
+      ],
+      "score": 0.9280341267585754,
+      "y_pos": 1596,
+      "text": "Vị trí: Dưới mỏm gai đốt sống thắt lưng 1. (H. 75)",
+      "confidence": 0.9908570521152936
+    },
+    {
+      "type": "text",
+      "img_path": "p0207_009_text.png",
+      "bbox": [
+        [
+          285,
+          1689
+        ],
+        [
+          1678,
+          1689
+        ],
+        [
+          1678,
+          1739
+        ],
+        [
+          285,
+          1739
+        ]
+      ],
+      "score": 0.93012535572052,
+      "y_pos": 1689,
+      "text": "Cách châm: Châm hơi chếch lên, sâu 0.5-1 thốn. Cứu 3 mồi.",
+      "confidence": 0.9940533173286309
+    },
+    {
+      "type": "text",
+      "img_path": "p0207_010_text.png",
+      "bbox": [
+        [
+          285,
+          1783
+        ],
+        [
+          1770,
+          1783
+        ],
+        [
+          1770,
+          1835
+        ],
+        [
+          285,
+          1835
+        ]
+      ],
+      "score": 0.9288407564163208,
+      "y_pos": 1783,
+      "text": "Chủ trị: Đau lưng, thắt lưng đau, tiêu hoá kém, viêm ruột, ỉa chảy.",
+      "confidence": 0.9703262698823127
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0207_022_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1874
+        ],
+        [
+          541,
+          1874
+        ],
+        [
+          541,
+          1923
+        ],
+        [
+          226,
+          1923
+        ]
+      ],
+      "score": 0.8818968534469604,
+      "y_pos": 1874,
+      "text": "6. Tích trung",
+      "confidence": 0.8699824571609497
+    },
+    {
+      "type": "text",
+      "img_path": "p0207_006_text.png",
+      "bbox": [
+        [
+          289,
+          1964
+        ],
+        [
+          1334,
+          1964
+        ],
+        [
+          1334,
+          2018
+        ],
+        [
+          289,
+          2018
+        ]
+      ],
+      "score": 0.9309375286102295,
+      "y_pos": 1964,
+      "text": "Vị trí: Dưới mỏm gai đốt sống lưng 11. (H. 75)",
+      "confidence": 0.9833138150473436
+    },
+    {
+      "type": "text",
+      "img_path": "p0207_016_text.png",
+      "bbox": [
+        [
+          285,
+          2056
+        ],
+        [
+          1778,
+          2056
+        ],
+        [
+          1778,
+          2106
+        ],
+        [
+          285,
+          2106
+        ]
+      ],
+      "score": 0.9229442477226257,
+      "y_pos": 2056,
+      "text": "Cách châm: Châm mũi kim chếch lên, sâu 0. 5-1 thốn. Cứu 3 mồi.",
+      "confidence": 0.7164358235895634
+    },
+    {
+      "type": "text",
+      "img_path": "p0207_007_text.png",
+      "bbox": [
+        [
+          286,
+          2149
+        ],
+        [
+          1468,
+          2149
+        ],
+        [
+          1468,
+          2200
+        ],
+        [
+          286,
+          2200
+        ]
+      ],
+      "score": 0.9306318759918213,
+      "y_pos": 2149,
+      "text": "Chủ trị: Động kinh, vàng da, la chảy, trẻ em lòi dom.",
+      "confidence": 0.526075419512662
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0207_020_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2240
+        ],
+        [
+          541,
+          2240
+        ],
+        [
+          541,
+          2291
+        ],
+        [
+          226,
+          2291
+        ]
+      ],
+      "score": 0.8933115601539612,
+      "y_pos": 2240,
+      "text": "7. Trung khu",
+      "confidence": 0.9240314108984811
+    },
+    {
+      "type": "text",
+      "img_path": "p0207_003_text.png",
+      "bbox": [
+        [
+          289,
+          2331
+        ],
+        [
+          1219,
+          2331
+        ],
+        [
+          1219,
+          2384
+        ],
+        [
+          289,
+          2384
+        ]
+      ],
+      "score": 0.932266354560852,
+      "y_pos": 2331,
+      "text": "Vi trí: Dưới mỏm gai đốt sống 10. (H. 75)",
+      "confidence": 0.980425929607347
+    },
+    {
+      "type": "text",
+      "img_path": "p0207_008_text.png",
+      "bbox": [
+        [
+          285,
+          2422
+        ],
+        [
+          1791,
+          2422
+        ],
+        [
+          1791,
+          2473
+        ],
+        [
+          285,
+          2473
+        ]
+      ],
+      "score": 0.9305599331855774,
+      "y_pos": 2422,
+      "text": "Cách châm: Châm mũi kim chếch lên, sâu 0,5 -1 thốn. Cứu 3 mồi.",
+      "confidence": 0.5759115237742662
+    },
+    {
+      "type": "text",
+      "img_path": "p0207_005_text.png",
+      "bbox": [
+        [
+          284,
+          2515
+        ],
+        [
+          2022,
+          2515
+        ],
+        [
+          2022,
+          2569
+        ],
+        [
+          284,
+          2569
+        ]
+      ],
+      "score": 0.931838870048523,
+      "y_pos": 2515,
+      "text": "Chủ trị: Lưng đau, thắt lưng đau, đau dạ dày, ăn không ngon, sức nhìn giảm.",
+      "confidence": 0.48597288363939756
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0207_021_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2608
+        ],
+        [
+          489,
+          2608
+        ],
+        [
+          489,
+          2653
+        ],
+        [
+          225,
+          2653
+        ]
+      ],
+      "score": 0.8903656005859375,
+      "y_pos": 2608,
+      "text": "8.    Cân súc",
+      "confidence": 0.8625629113780127
+    },
+    {
+      "type": "text",
+      "img_path": "p0207_004_text.png",
+      "bbox": [
+        [
+          288,
+          2698
+        ],
+        [
+          1297,
+          2698
+        ],
+        [
+          1297,
+          2751
+        ],
+        [
+          288,
+          2751
+        ]
+      ],
+      "score": 0.9319826364517212,
+      "y_pos": 2698,
+      "text": "Vị trí: Dưới mỏm gai đốt sống lưng 9. (h. 75)",
+      "confidence": 0.9854595052435043
+    },
+    {
+      "type": "text",
+      "img_path": "p0207_013_text.png",
+      "bbox": [
+        [
+          284,
+          2789
+        ],
+        [
+          1780,
+          2789
+        ],
+        [
+          1780,
+          2839
+        ],
+        [
+          284,
+          2839
+        ]
+      ],
+      "score": 0.9262923002243042,
+      "y_pos": 2789,
+      "text": "<b>Cách châm:</b> Châm mũi kim chếch lên, sâu 0,5 –1 thốn, cứu 3 mồi,",
+      "confidence": 0.9865893175204595
+    },
+    {
+      "type": "text",
+      "img_path": "p0207_002_text.png",
+      "bbox": [
+        [
+          280,
+          2882
+        ],
+        [
+          2357,
+          2882
+        ],
+        [
+          2357,
+          3004
+        ],
+        [
+          280,
+          3004
+        ]
+      ],
+      "score": 0.9665365219116211,
+      "y_pos": 2882,
+      "text": "Chủ trị: Lưng đau, thắt lưng đau, đau dạ dày, suy nhược thần kinh, động kinh, bệnh thần\nkinh chức năng.",
+      "confidence": 0.9926819720964752
+    },
+    {
+      "type": "footer",
+      "img_path": "p0207_018_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9131537079811096,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0207_024_number.png",
+      "bbox": [
+        [
+          2301,
+          3339
+        ],
+        [
+          2350,
+          3339
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2301,
+          3377
+        ]
+      ],
+      "score": 0.8691152930259705,
+      "y_pos": 3339,
+      "text": "    \n        \n    \n    \n    \n    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0207.png"
+}

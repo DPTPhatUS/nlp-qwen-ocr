@@ -1,0 +1,448 @@
+{
+  "page_num": 44,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0044_008_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9274189472198486,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7254179112967991
+    },
+    {
+      "type": "header",
+      "img_path": "p0044_012_header.png",
+      "bbox": [
+        [
+          231,
+          154
+        ],
+        [
+          428,
+          154
+        ],
+        [
+          428,
+          199
+        ],
+        [
+          231,
+          199
+        ]
+      ],
+      "score": 0.9007872343063354,
+      "y_pos": 154,
+      "text": "п    \nV",
+      "confidence": 0.6546860883633295
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0044_016_paragraph_title.png",
+      "bbox": [
+        [
+          1138,
+          313
+        ],
+        [
+          1451,
+          313
+        ],
+        [
+          1451,
+          380
+        ],
+        [
+          1138,
+          380
+        ]
+      ],
+      "score": 0.682026207447052,
+      "y_pos": 313,
+      "text": "HÂN",
+      "confidence": 0.8469939678907394
+    },
+    {
+      "type": "text",
+      "img_path": "p0044_003_text.png",
+      "bbox": [
+        [
+          221,
+          429
+        ],
+        [
+          2358,
+          429
+        ],
+        [
+          2358,
+          629
+        ],
+        [
+          221,
+          629
+        ]
+      ],
+      "score": 0.9724626541137695,
+      "y_pos": 429,
+      "text": "Chẩn đoán của Đông y bao gồm 4 phương pháp: Vấn chẩn, Vọng chẩn, Văn chẩn và Thiết\nchẩn, gọi tắt là tứ chẩn. Thông qua tứ chẩn để biết rõ hiện trạng và lịch sử bệnh tật của người\nbệnh, từ đó mới có thể tổng hợp, phân tích, làm căn cứ biện chứng luận trị.",
+      "confidence": 0.9895387067620529
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0044_013_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          660
+        ],
+        [
+          596,
+          660
+        ],
+        [
+          596,
+          708
+        ],
+        [
+          227,
+          708
+        ]
+      ],
+      "score": 0.8848214149475098,
+      "y_pos": 660,
+      "text": "VẤN CHẨN (HỎI)",
+      "confidence": 0.6770065352320671
+    },
+    {
+      "type": "text",
+      "img_path": "p0044_007_text.png",
+      "bbox": [
+        [
+          281,
+          751
+        ],
+        [
+          2358,
+          751
+        ],
+        [
+          2358,
+          879
+        ],
+        [
+          281,
+          879
+        ]
+      ],
+      "score": 0.9573059678077698,
+      "y_pos": 751,
+      "text": "Vấn chẩn là phần trọng yếu trong tứ chẩn, thông qua vấn chẩn kỹ lưỡng thường có thể đến\nchẩn đoán chính xác.",
+      "confidence": 0.9936147680899948
+    },
+    {
+      "type": "text",
+      "img_path": "p0044_001_text.png",
+      "bbox": [
+        [
+          277,
+          923
+        ],
+        [
+          2359,
+          923
+        ],
+        [
+          2359,
+          1206
+        ],
+        [
+          277,
+          1206
+        ]
+      ],
+      "score": 0.9785221219062805,
+      "y_pos": 923,
+      "text": "Nội dung của vấn chẩn, nói chung giống như Tây y, cần hiểu rõ nơi đau của người bệnh,\nthời gian phát bệnh, nguyên nhân, diễn biến, tóm tắt tình hình chạy chữa (bao gồm cả uống\nthuốc và phản ứng, khái quát bệnh sử và tập quán sinh hoạt của người bệnh, nghiện ngập,\nthói quen ăn uống, tình hình suy nghĩ, tiền sử gia đình).",
+      "confidence": 0.9984822494929184
+    },
+    {
+      "type": "text",
+      "img_path": "p0044_000_text.png",
+      "bbox": [
+        [
+          276,
+          1243
+        ],
+        [
+          2360,
+          1243
+        ],
+        [
+          2360,
+          1900
+        ],
+        [
+          276,
+          1900
+        ]
+      ],
+      "score": 0.9856243133544922,
+      "y_pos": 1243,
+      "text": "Vấn chẩn của Đông y có những chỗ khác, trước đây những điểm chính của vấn chẩn khái\nquát thành câu ca Thập vấn: Nhất vấn hàn nhiệt; nhị vấn hãn; tam vấn ẩm thực; tứ vấn tiện;\nngũ vấn đầu thân; lục vấn hung phúc; thất lung; bát kiệt; cụ đương biện, cửu vấn cựu bệnh;\nthập vấn nhân; tái kiêm phục dược tham cơ biến; phụ nữ ứng vấn kinh; đới ; sản; tiểu nhi\nđương vấn ma; chẩn ban. Tạm dịch là: 1 hỏi nóng rét, 2 hỏi mồ hôi, 3 hỏi ăn uống, 4 hỏi đái,\nla, 5 hỏi đầu mình, 6 hỏi ngực bụng, 7 hỏi điếc tai, 8 hỏi khát nước, 9 hỏi bệnh cũ, 10 hỏi\nnguyên nhân gây bệnh. Lại hỏi thêm uống thuốc đã có chuyển biến gì. Đàn bà hỏi hành kinh,\nkhí hư, chửa đẻ. Trẻ em hỏi sởi đậu. Có thể tham khảo thêm trong đó. Ngày nay đem nội\ndung chẩn đoán bằng hỏi khái quát như sau:",
+      "confidence": 0.9969282080877814
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0044_010_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1939
+        ],
+        [
+          732,
+          1939
+        ],
+        [
+          732,
+          1987
+        ],
+        [
+          225,
+          1987
+        ]
+      ],
+      "score": 0.9051557779312134,
+      "y_pos": 1939,
+      "text": "A. Hàn nhiệt và mồ hội",
+      "confidence": 0.9698213537534078
+    },
+    {
+      "type": "text",
+      "img_path": "p0044_004_text.png",
+      "bbox": [
+        [
+          278,
+          2030
+        ],
+        [
+          2358,
+          2030
+        ],
+        [
+          2358,
+          2233
+        ],
+        [
+          278,
+          2233
+        ]
+      ],
+      "score": 0.9720280766487122,
+      "y_pos": 2030,
+      "text": "Cần hỏi rõ có hay không phát sốt, bị rét hay nóng, bị nặng hay nhẹ, đặc điểm của cơn sốt, có\nhay không có mồ hôi, thời gian ra mồ hôi, tính chất và nhiều ít của mồ hôi. Quy tụ những\nchấn đoán như sau:",
+      "confidence": 0.9936277568669091
+    },
+    {
+      "type": "text",
+      "img_path": "p0044_006_text.png",
+      "bbox": [
+        [
+          343,
+          2272
+        ],
+        [
+          2359,
+          2272
+        ],
+        [
+          2359,
+          2470
+        ],
+        [
+          343,
+          2470
+        ]
+      ],
+      "score": 0.9708097577095032,
+      "y_pos": 2272,
+      "text": "- Lúc mới phát bệnh: Phát sốt, ớn lạnh là ngoại cảm biểu chứng. Phát sốt nhẹ, ớn lạnh\nnhiều không có mồ hôi là ngoại cảm phong hàn biểu chứng, Phát sốt nặng, ớn lạnh\nnhẹ, có mồ hôi là ngoại cảm phong nhiệt biểu chứng.",
+      "confidence": 0.9920679642325428
+    },
+    {
+      "type": "text",
+      "img_path": "p0044_002_text.png",
+      "bbox": [
+        [
+          342,
+          2509
+        ],
+        [
+          2360,
+          2509
+        ],
+        [
+          2360,
+          2703
+        ],
+        [
+          342,
+          2703
+        ]
+      ],
+      "score": 0.9731247425079346,
+      "y_pos": 2509,
+      "text": "- Lạnh một cơn, nóng một cơn gọi là hàn, nhiệt vãng lai. Nếu như thời gian phát bệnh rất\nnhanh có kèm theo đắng miệng, khô họng, váng đầu, hoa mắt, tức ngực, sườn đầy\ntrướng, là bán biểu, bán lý.",
+      "confidence": 0.9983797692771926
+    },
+    {
+      "type": "text",
+      "img_path": "p0044_009_text.png",
+      "bbox": [
+        [
+          343,
+          2742
+        ],
+        [
+          2174,
+          2742
+        ],
+        [
+          2174,
+          2796
+        ],
+        [
+          343,
+          2796
+        ]
+      ],
+      "score": 0.9105468988418579,
+      "y_pos": 2742,
+      "text": "- Phát sốt, không ớn lạnh, có mồ hôi, miệng khát, táo bón là lý thực nhiệt chứng.",
+      "confidence": 0.8894462549542806
+    },
+    {
+      "type": "text",
+      "img_path": "p0044_005_text.png",
+      "bbox": [
+        [
+          343,
+          2831
+        ],
+        [
+          2359,
+          2831
+        ],
+        [
+          2359,
+          3028
+        ],
+        [
+          343,
+          3028
+        ]
+      ],
+      "score": 0.9713394641876221,
+      "y_pos": 2831,
+      "text": "- Bệnh mạn tính: về chiều sốt nhẹ, ngực và lòng bàn tay, bàn chân nóng (ngũ tâm phiền\nnhiệt), gò má hồng, môi khô, ra mồ hôi trộm là âm hư phát nhiệt. Bình thường mà sợ\nlạnh, ngắn hơi, mệt mỏi, tự ra mồ hôi là dương hư.",
+      "confidence": 0.9973925075454816
+    },
+    {
+      "type": "text",
+      "img_path": "p0044_014_text.png",
+      "bbox": [
+        [
+          225,
+          3071
+        ],
+        [
+          2029,
+          3071
+        ],
+        [
+          2029,
+          3125
+        ],
+        [
+          225,
+          3125
+        ]
+      ],
+      "score": 0.8588514924049377,
+      "y_pos": 3071,
+      "text": "B. Đầu, thân, ngực, bụng (chủ yếu hỏi rõ nơi đau, tính chất đau và thời gian đau)",
+      "confidence": 0.9962701495871487
+    },
+    {
+      "type": "footer",
+      "img_path": "p0044_011_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1433,
+          3333
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.905150294303894,
+      "y_pos": 3333,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0044_015_number.png",
+      "bbox": [
+        [
+          2333,
+          3339
+        ],
+        [
+          2351,
+          3339
+        ],
+        [
+          2351,
+          3373
+        ],
+        [
+          2333,
+          3373
+        ]
+      ],
+      "score": 0.7898064255714417,
+      "y_pos": 3339,
+      "text": "\n\n    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0044.png"
+}

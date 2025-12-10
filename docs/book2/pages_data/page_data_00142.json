@@ -1,0 +1,498 @@
+{
+  "page_num": 142,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0142_006_header.png",
+      "bbox": [
+        [
+          1606,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          202
+        ],
+        [
+          1606,
+          202
+        ]
+      ],
+      "score": 0.926401674747467,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7400914178717704
+    },
+    {
+      "type": "header",
+      "img_path": "p0142_013_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          905,
+          156
+        ],
+        [
+          905,
+          203
+        ],
+        [
+          228,
+          203
+        ]
+      ],
+      "score": 0.9158071875572205,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9866287461642561
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0142_007_paragraph_title.png",
+      "bbox": [
+        [
+          223,
+          362
+        ],
+        [
+          1040,
+          362
+        ],
+        [
+          1040,
+          418
+        ],
+        [
+          223,
+          418
+        ]
+      ],
+      "score": 0.9245319962501526,
+      "y_pos": 362,
+      "text": "TÚC THÁI ÂM TỲ KINH: 21 HUYẾT",
+      "confidence": 0.9829803724442759
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0142_012_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          460
+        ],
+        [
+          497,
+          460
+        ],
+        [
+          497,
+          511
+        ],
+        [
+          227,
+          511
+        ]
+      ],
+      "score": 0.9200342297554016,
+      "y_pos": 460,
+      "text": "1. An bach",
+      "confidence": 0.9210475534200668
+    },
+    {
+      "type": "text",
+      "img_path": "p0142_010_text.png",
+      "bbox": [
+        [
+          288,
+          551
+        ],
+        [
+          1305,
+          551
+        ],
+        [
+          1305,
+          605
+        ],
+        [
+          288,
+          605
+        ]
+      ],
+      "score": 0.9206298589706421,
+      "y_pos": 551,
+      "text": "Vị trí: Ở cạnh trong góc móng ngón chân cái.",
+      "confidence": 0.990114802899568
+    },
+    {
+      "type": "text",
+      "img_path": "p0142_002_text.png",
+      "bbox": [
+        [
+          281,
+          642
+        ],
+        [
+          2357,
+          642
+        ],
+        [
+          2357,
+          767
+        ],
+        [
+          281,
+          767
+        ]
+      ],
+      "score": 0.9625840187072754,
+      "y_pos": 642,
+      "text": "Cách lấy huyệt: Ngồi ngay, bàn chân, đặt ngang bằng, ở cạnh trong, các góc gốc móng\nchân cái hơn 0,1 thốn. (H. 60)",
+      "confidence": 0.991933836251059
+    },
+    {
+      "type": "text",
+      "img_path": "p0142_009_text.png",
+      "bbox": [
+        [
+          283,
+          807
+        ],
+        [
+          2237,
+          807
+        ],
+        [
+          2237,
+          859
+        ],
+        [
+          283,
+          859
+        ]
+      ],
+      "score": 0.9212716817855835,
+      "y_pos": 807,
+      "text": "<b>Cách châm:</b> Châm sâu hơn 0,1 thốn, hoặc chích nặn máu. Cứu 3 mồi, hoặc hợ 5 phút.",
+      "confidence": 0.9893064218617621
+    },
+    {
+      "type": "text",
+      "img_path": "p0142_003_text.png",
+      "bbox": [
+        [
+          280,
+          895
+        ],
+        [
+          2358,
+          895
+        ],
+        [
+          2358,
+          1023
+        ],
+        [
+          280,
+          1023
+        ]
+      ],
+      "score": 0.9623817205429077,
+      "y_pos": 895,
+      "text": "Chủ trị: trướng bụng, nôn mửa, kinh nguyệt không đều (quá nhiều) băng huyết, hôn mê, mất\nngủ, bệnh tinh thần, trẻ em kinh phong.",
+      "confidence": 0.9904935705790998
+    },
+    {
+      "type": "text",
+      "img_path": "p0142_004_text.png",
+      "bbox": [
+        [
+          279,
+          1060
+        ],
+        [
+          2359,
+          1060
+        ],
+        [
+          2359,
+          1184
+        ],
+        [
+          279,
+          1184
+        ]
+      ],
+      "score": 0.9615060687065125,
+      "y_pos": 1060,
+      "text": "<b>Tác dụng phối hợp:</b> Với <i>Huyết hải, Thần môn</i> trị <i>Tử cung</i> xuất huyết; với <i>Đại đôn</i> (cứu) làm\ntăng tiểu cầu, chống các loại xuất huyết.",
+      "confidence": 0.9949481618216267
+    },
+    {
+      "type": "image",
+      "img_path": "p0142_001_image.png",
+      "bbox": [
+        [
+          496,
+          1226
+        ],
+        [
+          2076,
+          1226
+        ],
+        [
+          2076,
+          2199
+        ],
+        [
+          496,
+          2199
+        ]
+      ],
+      "score": 0.9626584649085999,
+      "y_pos": 1226
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0142_018_figure_title.png",
+      "bbox": [
+        [
+          1207,
+          2305
+        ],
+        [
+          1381,
+          2305
+        ],
+        [
+          1381,
+          2349
+        ],
+        [
+          1207,
+          2349
+        ]
+      ],
+      "score": 0.8359503746032715,
+      "y_pos": 2305,
+      "text": "Hình    60",
+      "confidence": 0.7149143556753794
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0142_014_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2392
+        ],
+        [
+          447,
+          2392
+        ],
+        [
+          447,
+          2441
+        ],
+        [
+          225,
+          2441
+        ]
+      ],
+      "score": 0.9139682650566101,
+      "y_pos": 2392,
+      "text": "Đai đồ",
+      "confidence": 0.9099499136209488
+    },
+    {
+      "type": "text",
+      "img_path": "p0142_000_text.png",
+      "bbox": [
+        [
+          283,
+          2482
+        ],
+        [
+          2354,
+          2482
+        ],
+        [
+          2354,
+          2606
+        ],
+        [
+          283,
+          2606
+        ]
+      ],
+      "score": 0.9633237719535828,
+      "y_pos": 2482,
+      "text": "Vị trí: Cạnh ngón chân cái, phía trước và dưới khớp bàn và ngón, chỗ thấy da trắng đỏ. (H\n60).",
+      "confidence": 0.878619338129903
+    },
+    {
+      "type": "text",
+      "img_path": "p0142_008_text.png",
+      "bbox": [
+        [
+          285,
+          2644
+        ],
+        [
+          1652,
+          2644
+        ],
+        [
+          1652,
+          2696
+        ],
+        [
+          285,
+          2696
+        ]
+      ],
+      "score": 0.9224284887313843,
+      "y_pos": 2644,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3 - 0,5 thốn. Cứu 3 mồi.",
+      "confidence": 0.9863027899429716
+    },
+    {
+      "type": "text",
+      "img_path": "p0142_011_text.png",
+      "bbox": [
+        [
+          286,
+          2737
+        ],
+        [
+          1599,
+          2737
+        ],
+        [
+          1599,
+          2792
+        ],
+        [
+          286,
+          2792
+        ]
+      ],
+      "score": 0.920170783996582,
+      "y_pos": 2737,
+      "text": "Chủ trị: Bụng trướng, bụng đau, sốt cao, không ra mồ hôi.",
+      "confidence": 0.9758248844389188
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0142_016_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2829
+        ],
+        [
+          529,
+          2829
+        ],
+        [
+          529,
+          2879
+        ],
+        [
+          227,
+          2879
+        ]
+      ],
+      "score": 0.9084629416465759,
+      "y_pos": 2829,
+      "text": "3. Thái bach",
+      "confidence": 0.9604609310626984
+    },
+    {
+      "type": "text",
+      "img_path": "p0142_005_text.png",
+      "bbox": [
+        [
+          281,
+          2919
+        ],
+        [
+          2357,
+          2919
+        ],
+        [
+          2357,
+          3040
+        ],
+        [
+          281,
+          3040
+        ]
+      ],
+      "score": 0.9606910347938538,
+      "y_pos": 2919,
+      "text": "Vị trí: Ở cạnh trong bàn chân (phía ngón cái) trong chỗ lõm dưới gầm đầu ngoài xương bàn\nchân số 1.",
+      "confidence": 0.9884408687551817
+    },
+    {
+      "type": "footer",
+      "img_path": "p0142_015_footer.png",
+      "bbox": [
+        [
+          227,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.9122892022132874,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9983427963166867
+    },
+    {
+      "type": "number",
+      "img_path": "p0142_017_number.png",
+      "bbox": [
+        [
+          2300,
+          3339
+        ],
+        [
+          2350,
+          3339
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2300,
+          3377
+        ]
+      ],
+      "score": 0.8649999499320984,
+      "y_pos": 3339,
+      "text": "    \n    \n        \n\n\n\n\n\n    \n۰    \n٠.\n",
+      "confidence": 0.9413093013895882
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0142.png"
+}

@@ -1,0 +1,474 @@
+{
+  "page_num": 248,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0248_000_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2371,
+          142
+        ],
+        [
+          2371,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9382730722427368,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7447965074153173
+    },
+    {
+      "type": "header",
+      "img_path": "p0248_001_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9236055016517639,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0248_005_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          367
+        ],
+        [
+          587,
+          367
+        ],
+        [
+          587,
+          417
+        ],
+        [
+          229,
+          417
+        ]
+      ],
+      "score": 0.7476019263267517,
+      "y_pos": 367,
+      "text": "193. An miên 4",
+      "confidence": 0.9145729765295982
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0248_010_paragraph_title.png",
+      "bbox": [
+        [
+          231,
+          722
+        ],
+        [
+          849,
+          722
+        ],
+        [
+          849,
+          781
+        ],
+        [
+          231,
+          781
+        ]
+      ],
+      "score": 0.6193963885307312,
+      "y_pos": 722,
+      "text": "194. Ly tật mẫn cảm điểm",
+      "confidence": 0.9886143299249502
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0248_012_paragraph_title.png",
+      "bbox": [
+        [
+          231,
+          1083
+        ],
+        [
+          543,
+          1083
+        ],
+        [
+          543,
+          1140
+        ],
+        [
+          231,
+          1140
+        ]
+      ],
+      "score": 0.5624385476112366,
+      "y_pos": 1083,
+      "text": "195. Địa kiện",
+      "confidence": 0.9468492229779562
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0248_009_paragraph_title.png",
+      "bbox": [
+        [
+          231,
+          1441
+        ],
+        [
+          496,
+          1441
+        ],
+        [
+          496,
+          1498
+        ],
+        [
+          231,
+          1498
+        ]
+      ],
+      "score": 0.6275907754898071,
+      "y_pos": 1441,
+      "text": "196. Cơ ha",
+      "confidence": 0.9460750420888265
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0248_007_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1797
+        ],
+        [
+          833,
+          1797
+        ],
+        [
+          833,
+          1856
+        ],
+        [
+          229,
+          1856
+        ]
+      ],
+      "score": 0.7032395601272583,
+      "y_pos": 1797,
+      "text": "197. Thượng Khúc tuyền",
+      "confidence": 0.998745396733284
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0248_008_paragraph_title.png",
+      "bbox": [
+        [
+          230,
+          2158
+        ],
+        [
+          559,
+          2158
+        ],
+        [
+          559,
+          2211
+        ],
+        [
+          230,
+          2211
+        ]
+      ],
+      "score": 0.667055606842041,
+      "y_pos": 2158,
+      "text": "198. Tân sinh",
+      "confidence": 0.9200082262357075
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0248_004_paragraph_title.png",
+      "bbox": [
+        [
+          230,
+          2514
+        ],
+        [
+          684,
+          2514
+        ],
+        [
+          684,
+          2572
+        ],
+        [
+          230,
+          2572
+        ]
+      ],
+      "score": 0.7506997585296631,
+      "y_pos": 2514,
+      "text": "199. Hậu Huyết hải",
+      "confidence": 0.9977670252323151
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_016_text.png",
+      "bbox": [
+        [
+          290,
+          2605
+        ],
+        [
+          1746,
+          2605
+        ],
+        [
+          1746,
+          2666
+        ],
+        [
+          290,
+          2666
+        ]
+      ],
+      "score": 0.5042922496795654,
+      "y_pos": 2605,
+      "text": "Vị trí: Cạnh trong đùi, phía sau huyệt Huyết hải 1,5 thốn. (H.122)",
+      "confidence": 0.7848247596446205
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_013_text.png",
+      "bbox": [
+        [
+          290,
+          2696
+        ],
+        [
+          1310,
+          2696
+        ],
+        [
+          1310,
+          2751
+        ],
+        [
+          290,
+          2751
+        ]
+      ],
+      "score": 0.5609776377677917,
+      "y_pos": 2696,
+      "text": "Cách châm: Châm đứng kim, sâu 1 – 3 thốn.",
+      "confidence": 0.9802599694839743
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_014_text.png",
+      "bbox": [
+        [
+          286,
+          2785
+        ],
+        [
+          1934,
+          2785
+        ],
+        [
+          1934,
+          2845
+        ],
+        [
+          286,
+          2845
+        ]
+      ],
+      "score": 0.5436248779296875,
+      "y_pos": 2785,
+      "text": "Chủ trị: Bệnh não gây ra 2 đùi bắt chéo như cái lưỡi kéo (tiễn đao thoái).",
+      "confidence": 0.9159863999015406
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0248_006_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          2870
+        ],
+        [
+          1021,
+          2870
+        ],
+        [
+          1021,
+          2933
+        ],
+        [
+          229,
+          2933
+        ]
+      ],
+      "score": 0.7087807059288025,
+      "y_pos": 2870,
+      "text": "200. Giải tiễn (Cổ nội, Cổ câu hạ)",
+      "confidence": 0.9986077100038528
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_017_text.png",
+      "bbox": [
+        [
+          292,
+          2964
+        ],
+        [
+          1334,
+          2964
+        ],
+        [
+          1334,
+          3022
+        ],
+        [
+          292,
+          3022
+        ]
+      ],
+      "score": 0.5024267435073853,
+      "y_pos": 2964,
+      "text": "Vị trí: Huyệt Hậu Huyết hải lên 4 thốn. (H.122)",
+      "confidence": 0.9893209192217612
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_015_text.png",
+      "bbox": [
+        [
+          290,
+          3055
+        ],
+        [
+          1310,
+          3055
+        ],
+        [
+          1310,
+          3110
+        ],
+        [
+          290,
+          3110
+        ]
+      ],
+      "score": 0.5237044095993042,
+      "y_pos": 3055,
+      "text": "Cách châm: Châm đứng kim, sâu 1 – 3 thốn.",
+      "confidence": 0.9802599694839743
+    },
+    {
+      "type": "text",
+      "img_path": "p0248_011_text.png",
+      "bbox": [
+        [
+          287,
+          3143
+        ],
+        [
+          1972,
+          3143
+        ],
+        [
+          1972,
+          3202
+        ],
+        [
+          287,
+          3202
+        ]
+      ],
+      "score": 0.5875408053398132,
+      "y_pos": 3143,
+      "text": "Chủ trị: Bệnh não gây ra hai đùi bắt chéo như cái lưỡi kéo (tiễn đao thoái).",
+      "confidence": 0.9182541744831281
+    },
+    {
+      "type": "footer",
+      "img_path": "p0248_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9189325571060181,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0248_003_number.png",
+      "bbox": [
+        [
+          2279,
+          3338
+        ],
+        [
+          2350,
+          3338
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2279,
+          3377
+        ]
+      ],
+      "score": 0.9048444032669067,
+      "y_pos": 3338,
+      "text": "        \n    \n\n\n\n\n\n    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0248.png"
+}

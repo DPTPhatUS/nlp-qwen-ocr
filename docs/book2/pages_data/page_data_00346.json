@@ -1,0 +1,474 @@
+{
+  "page_num": 346,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0346_004_header.png",
+      "bbox": [
+        [
+          1679,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          196
+        ],
+        [
+          1679,
+          196
+        ]
+      ],
+      "score": 0.9238321185112,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7655686352934157
+    },
+    {
+      "type": "header",
+      "img_path": "p0346_006_header.png",
+      "bbox": [
+        [
+          229,
+          153
+        ],
+        [
+          1056,
+          153
+        ],
+        [
+          1056,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9199180006980896,
+      "y_pos": 153,
+      "text": "ÔN NHIỆT KINH BIÊN CHỨNG LUÂN TRI",
+      "confidence": 0.9482064604759216
+    },
+    {
+      "type": "table",
+      "img_path": "p0346_000_table.png",
+      "bbox": [
+        [
+          230,
+          293
+        ],
+        [
+          2357,
+          293
+        ],
+        [
+          2357,
+          796
+        ],
+        [
+          230,
+          796
+        ]
+      ],
+      "score": 0.9820377826690674,
+      "y_pos": 293,
+      "text": "Phương tế    Ngân kiều tán,    Bạch hố thang,    Thanh doanh    Tê giác địa hoàng\nthường dùng    Tang cúc ấm, Tân    Ma hạnh thạch    thang, An cung    thang. Thanh ôn\ngia hương nhu    cam thang, Đại    ngưu hoàng hoàn,    bại độc tán, Gia\nấm, Tam nhân    thừa khí thang,    Chí bảo đan, Tử    giảm Phục mạch\nthang gia vị, Hạnh    Đại, tiếu sài hồ    tuyết đan, Chỉ kinh    thang, Thanh cao\ntô tán, Tang hạnh    thang, Cam lộ tiêu    tán.    miết giáp thang,\nthang, Ma hoàng    độc âm.    Tam giáp phục\nthang, Quế chi    mach thang.\nthang",
+      "confidence": 0.975070463357442
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0346_010_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          830
+        ],
+        [
+          1247,
+          830
+        ],
+        [
+          1247,
+          884
+        ],
+        [
+          226,
+          884
+        ]
+      ],
+      "score": 0.8814743757247925,
+      "y_pos": 830,
+      "text": "D. Các bài thuốc dùng trong ôn nhiệt bệnh",
+      "confidence": 0.9976652735887572
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0346_008_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          921
+        ],
+        [
+          688,
+          921
+        ],
+        [
+          688,
+          975
+        ],
+        [
+          286,
+          975
+        ]
+      ],
+      "score": 0.8998599648475647,
+      "y_pos": 921,
+      "text": "1. Bệnh phần Vệ",
+      "confidence": 0.8544203814338235
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0346_016_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          1014
+        ],
+        [
+          746,
+          1014
+        ],
+        [
+          746,
+          1065
+        ],
+        [
+          345,
+          1065
+        ]
+      ],
+      "score": 0.7197047472000122,
+      "y_pos": 1014,
+      "text": "a. Ngân kiều tán",
+      "confidence": 0.9926551547315385
+    },
+    {
+      "type": "text",
+      "img_path": "p0346_017_text.png",
+      "bbox": [
+        [
+          344,
+          1096
+        ],
+        [
+          1963,
+          1096
+        ],
+        [
+          1963,
+          1495
+        ],
+        [
+          344,
+          1495
+        ]
+      ],
+      "score": 0.664816677570343,
+      "y_pos": 1096,
+      "text": "Ngân hoa    1 lạng,    Liên kiều    1 lạng,\nĐậu xị    5 đồng cân,    Ngưu bàng tử    6 đồng cân,\nKinh giới    4 đồng cân,    Bạc hà    6 đồng cân,\nCát cánh    6 đồng cân,    Sinh cam thảo    5 đồng cân,\nTrúc diệp    4 đồng cân.",
+      "confidence": 0.964657273653679
+    },
+    {
+      "type": "text",
+      "img_path": "p0346_001_text.png",
+      "bbox": [
+        [
+          339,
+          1525
+        ],
+        [
+          2359,
+          1525
+        ],
+        [
+          2359,
+          1644
+        ],
+        [
+          339,
+          1644
+        ]
+      ],
+      "score": 0.9675592184066772,
+      "y_pos": 1525,
+      "text": "Mỗi lần uống 6 đồng cân, gia vào 2 nhánh <i>Lô căn tươi</i> sắc lên thấy bay mùi thơm ra thì lấy\nuống, không đun quá vì nó dễ bay mất hơi.",
+      "confidence": 0.994275994541109
+    },
+    {
+      "type": "text",
+      "img_path": "p0346_002_text.png",
+      "bbox": [
+        [
+          344,
+          1676
+        ],
+        [
+          1344,
+          1676
+        ],
+        [
+          1344,
+          1729
+        ],
+        [
+          344,
+          1729
+        ]
+      ],
+      "score": 0.92911297082901,
+      "y_pos": 1676,
+      "text": "- Bệnh nặng, ngày uống 3 lần, và đêm 1 lần.",
+      "confidence": 0.9495145956675212
+    },
+    {
+      "type": "text",
+      "img_path": "p0346_003_text.png",
+      "bbox": [
+        [
+          346,
+          1761
+        ],
+        [
+          1247,
+          1761
+        ],
+        [
+          1247,
+          1815
+        ],
+        [
+          346,
+          1815
+        ]
+      ],
+      "score": 0.9288872480392456,
+      "y_pos": 1761,
+      "text": "- Bệnh nhẹ, ngày uống 2 lần, đêm 1 lần.",
+      "confidence": 0.9440076874523629
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0346_013_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          1848
+        ],
+        [
+          968,
+          1848
+        ],
+        [
+          968,
+          1902
+        ],
+        [
+          345,
+          1902
+        ]
+      ],
+      "score": 0.8126006126403809,
+      "y_pos": 1848,
+      "text": "b. Tân gia hương nhu ấm",
+      "confidence": 0.9953473687171936
+    },
+    {
+      "type": "text",
+      "img_path": "p0346_005_text.png",
+      "bbox": [
+        [
+          344,
+          1929
+        ],
+        [
+          1887,
+          1929
+        ],
+        [
+          1887,
+          2158
+        ],
+        [
+          344,
+          2158
+        ]
+      ],
+      "score": 0.9199362397193909,
+      "y_pos": 1929,
+      "text": "Hương nhu    2 đồng cân,    Bạch biển đậu    6 đồng cân,\nHậu phác    2 đồng cân,    Kim ngân hoa    3 đồng cân,\nLiên kiều    3 đồng cân.",
+      "confidence": 0.9553838629002893
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0346_014_paragraph_title.png",
+      "bbox": [
+        [
+          346,
+          2191
+        ],
+        [
+          693,
+          2191
+        ],
+        [
+          693,
+          2239
+        ],
+        [
+          346,
+          2239
+        ]
+      ],
+      "score": 0.7918704748153687,
+      "y_pos": 2191,
+      "text": "c. Hanh tô tán",
+      "confidence": 0.9759365916252136
+    },
+    {
+      "type": "text",
+      "img_path": "p0346_011_text.png",
+      "bbox": [
+        [
+          344,
+          2270
+        ],
+        [
+          1851,
+          2270
+        ],
+        [
+          1851,
+          2757
+        ],
+        [
+          344,
+          2757
+        ]
+      ],
+      "score": 0.8661744594573975,
+      "y_pos": 2270,
+      "text": "Tử tô    3 đồng cân,    Sinh khương    2 đồng cân,\nKhổ hạnh nhân    3 đồng cân,    Tiền hồ    3 đồng cân,\nCát cánh    3 đồng cân,    Trần bì    1 đồng cân,\nChỉ xác    2 đồng cân,    Chế bán hạ    3 đồng cân,\nPhục linh    3 đồng cân,    Đại táo    5 quả,\nCam thảo    1 đồng cân.",
+      "confidence": 0.9701267277863831
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0346_012_paragraph_title.png",
+      "bbox": [
+        [
+          346,
+          2789
+        ],
+        [
+          828,
+          2789
+        ],
+        [
+          828,
+          2842
+        ],
+        [
+          346,
+          2842
+        ]
+      ],
+      "score": 0.8458735942840576,
+      "y_pos": 2789,
+      "text": "d. Tang hạnh thang",
+      "confidence": 0.9892011791467666
+    },
+    {
+      "type": "text",
+      "img_path": "p0346_015_text.png",
+      "bbox": [
+        [
+          344,
+          2871
+        ],
+        [
+          1963,
+          2871
+        ],
+        [
+          1963,
+          3192
+        ],
+        [
+          344,
+          3192
+        ]
+      ],
+      "score": 0.7907447218894958,
+      "y_pos": 2871,
+      "text": "Tang diệp    3 đồng cân,    Hạnh nhân    3 đồng cân,\nSa sâm    3 đồng cân,    Tượng bối mẫu    3 đồng cân,\nĐâu xi    3 đồng cân,    Sơn chi    1,5 - 3 đồng cân,\nLê bì    lượng vừa phải.",
+      "confidence": 0.9577495514396157
+    },
+    {
+      "type": "footer",
+      "img_path": "p0346_007_footer.png",
+      "bbox": [
+        [
+          229,
+          3338
+        ],
+        [
+          1343,
+          3338
+        ],
+        [
+          1343,
+          3386
+        ],
+        [
+          229,
+          3386
+        ]
+      ],
+      "score": 0.9186239242553711,
+      "y_pos": 3338,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.998437467611061
+    },
+    {
+      "type": "number",
+      "img_path": "p0346_009_number.png",
+      "bbox": [
+        [
+          2297,
+          3338
+        ],
+        [
+          2346,
+          3338
+        ],
+        [
+          2346,
+          3374
+        ],
+        [
+          2297,
+          3374
+        ]
+      ],
+      "score": 0.8818112015724182,
+      "y_pos": 3338,
+      "text": "    \n    \n    \n\n\n\n\n    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0346.png"
+}

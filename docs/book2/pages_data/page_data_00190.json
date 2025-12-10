@@ -1,0 +1,654 @@
+{
+  "page_num": 190,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0190_009_header.png",
+      "bbox": [
+        [
+          1609,
+          142
+        ],
+        [
+          2376,
+          142
+        ],
+        [
+          2376,
+          202
+        ],
+        [
+          1609,
+          202
+        ]
+      ],
+      "score": 0.9236359000205994,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.813954268892606
+    },
+    {
+      "type": "header",
+      "img_path": "p0190_013_header.png",
+      "bbox": [
+        [
+          229,
+          156
+        ],
+        [
+          907,
+          156
+        ],
+        [
+          907,
+          201
+        ],
+        [
+          229,
+          201
+        ]
+      ],
+      "score": 0.9152706265449524,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9881776160207288
+    },
+    {
+      "type": "image",
+      "img_path": "p0190_000_image.png",
+      "bbox": [
+        [
+          892,
+          393
+        ],
+        [
+          1681,
+          393
+        ],
+        [
+          1681,
+          1134
+        ],
+        [
+          892,
+          1134
+        ]
+      ],
+      "score": 0.978367269039154,
+      "y_pos": 393
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0190_022_figure_title.png",
+      "bbox": [
+        [
+          1206,
+          1228
+        ],
+        [
+          1383,
+          1228
+        ],
+        [
+          1383,
+          1273
+        ],
+        [
+          1206,
+          1273
+        ]
+      ],
+      "score": 0.8289858102798462,
+      "y_pos": 1228,
+      "text": "Hınh    0    8",
+      "confidence": 0.8347701817750931
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_001_text.png",
+      "bbox": [
+        [
+          283,
+          1317
+        ],
+        [
+          2356,
+          1317
+        ],
+        [
+          2356,
+          1434
+        ],
+        [
+          283,
+          1434
+        ]
+      ],
+      "score": 0.9645376205444336,
+      "y_pos": 1317,
+      "text": "Tác dụng phối hợp: Với Khúc trì cánh tay khó đưa lên; với Trung cực (cứu) trị sót nhau sau\nkhi đẻ.",
+      "confidence": 0.9924787044309187
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0190_011_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1480
+        ],
+        [
+          566,
+          1480
+        ],
+        [
+          566,
+          1529
+        ],
+        [
+          226,
+          1529
+        ]
+      ],
+      "score": 0.9224153161048889,
+      "y_pos": 1480,
+      "text": "22. Uyên dich",
+      "confidence": 0.9290354410807292
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_021_text.png",
+      "bbox": [
+        [
+          288,
+          1568
+        ],
+        [
+          2208,
+          1568
+        ],
+        [
+          2208,
+          1626
+        ],
+        [
+          288,
+          1626
+        ]
+      ],
+      "score": 0.8577601909637451,
+      "y_pos": 1568,
+      "text": "Vị trí: Giữa hố nách thẳng xuống 3 thốn, phía sau vú 4 thốn, giơ tay lấy huyệt. (H. 89)",
+      "confidence": 0.5787554570798124
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_019_text.png",
+      "bbox": [
+        [
+          286,
+          1662
+        ],
+        [
+          2114,
+          1662
+        ],
+        [
+          2114,
+          1713
+        ],
+        [
+          286,
+          1713
+        ]
+      ],
+      "score": 0.8807457089424133,
+      "y_pos": 1662,
+      "text": "Cách châm: ở khe liên sườn 5-6, châm chếch kim, sâu 0,5 đến 1 thốn. Cấm cứu.",
+      "confidence": 0.43448005272791934
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_012_text.png",
+      "bbox": [
+        [
+          286,
+          1755
+        ],
+        [
+          1782,
+          1755
+        ],
+        [
+          1782,
+          1805
+        ],
+        [
+          286,
+          1805
+        ]
+      ],
+      "score": 0.9159570932388306,
+      "y_pos": 1755,
+      "text": "Chủ tri: Viêm hung mạc, đau thần kinh liên sườn, viêm hạch nách.",
+      "confidence": 0.38610865130568994
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0190_016_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1844
+        ],
+        [
+          577,
+          1844
+        ],
+        [
+          577,
+          1896
+        ],
+        [
+          227,
+          1896
+        ]
+      ],
+      "score": 0.9094607830047607,
+      "y_pos": 1844,
+      "text": "23. Nhiếp cân:",
+      "confidence": 0.9659167490899563
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_014_text.png",
+      "bbox": [
+        [
+          288,
+          1938
+        ],
+        [
+          2179,
+          1938
+        ],
+        [
+          2179,
+          1991
+        ],
+        [
+          288,
+          1991
+        ]
+      ],
+      "score": 0.9137831330299377,
+      "y_pos": 1938,
+      "text": "<i>Vị trí:</i> Phía trước huyệt <i>Uyên dịch</i> 1 thôn. (Giơ tay lấy huyệt, tại khe sườn 5-6. (H89)",
+      "confidence": 0.8937310181234194
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_010_text.png",
+      "bbox": [
+        [
+          286,
+          2027
+        ],
+        [
+          1700,
+          2027
+        ],
+        [
+          1700,
+          2078
+        ],
+        [
+          286,
+          2078
+        ]
+      ],
+      "score": 0.9234076142311096,
+      "y_pos": 2027,
+      "text": "Cách châm: Châm chếch kim, sâu 0, 5 đến 1 thốn, Cứu 3 mồi,",
+      "confidence": 0.7403913180033366
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_003_text.png",
+      "bbox": [
+        [
+          287,
+          2121
+        ],
+        [
+          1338,
+          2121
+        ],
+        [
+          1338,
+          2173
+        ],
+        [
+          287,
+          2173
+        ]
+      ],
+      "score": 0.932619035243988,
+      "y_pos": 2121,
+      "text": "<i>Chủ trị:</i> nôn mửa, ợ chua, chai dãi, hen suyễn",
+      "confidence": 0.9828159803030442
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0190_017_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2213
+        ],
+        [
+          627,
+          2213
+        ],
+        [
+          627,
+          2266
+        ],
+        [
+          227,
+          2266
+        ]
+      ],
+      "score": 0.9035286903381348,
+      "y_pos": 2213,
+      "text": "24. Nhật nguyệt:",
+      "confidence": 0.9228844179047478
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_006_text.png",
+      "bbox": [
+        [
+          289,
+          2303
+        ],
+        [
+          1378,
+          2303
+        ],
+        [
+          1378,
+          2357
+        ],
+        [
+          289,
+          2357
+        ]
+      ],
+      "score": 0.9292463660240173,
+      "y_pos": 2303,
+      "text": "Vị trí: Từ vú thẳng xuống gặp khe liên sườn 7-8.",
+      "confidence": 0.7194152283668518
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_002_text.png",
+      "bbox": [
+        [
+          282,
+          2394
+        ],
+        [
+          2362,
+          2394
+        ],
+        [
+          2362,
+          2518
+        ],
+        [
+          282,
+          2518
+        ]
+      ],
+      "score": 0.9631252288818359,
+      "y_pos": 2394,
+      "text": "Cách lấy huyệt: Nằm ngửa hoặc nằm nghiêng, trên khe liên sườn 7-8 và cách Nhâm mạch\n4 thốn. (H. 81)",
+      "confidence": 0.8942300561596366
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_004_text.png",
+      "bbox": [
+        [
+          285,
+          2557
+        ],
+        [
+          1928,
+          2557
+        ],
+        [
+          1928,
+          2609
+        ],
+        [
+          285,
+          2609
+        ]
+      ],
+      "score": 0.9316307306289673,
+      "y_pos": 2557,
+      "text": "<b>Cách châm:</b> Châm chếch ra, sâu 0, 5 đến 1 thốn, cứu 3 mồi hơ 3-7 phút.",
+      "confidence": 0.9870623031707659
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_005_text.png",
+      "bbox": [
+        [
+          285,
+          2650
+        ],
+        [
+          1574,
+          2650
+        ],
+        [
+          1574,
+          2702
+        ],
+        [
+          285,
+          2702
+        ]
+      ],
+      "score": 0.9301391839981079,
+      "y_pos": 2650,
+      "text": "Chủ trị: Đau liên sườn, nôn mửa, ở chua, viêm gan, nắc.",
+      "confidence": 0.48673747558342784
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_007_text.png",
+      "bbox": [
+        [
+          288,
+          2741
+        ],
+        [
+          1908,
+          2741
+        ],
+        [
+          1908,
+          2798
+        ],
+        [
+          288,
+          2798
+        ]
+      ],
+      "score": 0.9268679022789001,
+      "y_pos": 2741,
+      "text": "Tác dụng phối hợp: Với <i>Uyển c</i>ốt, <i>Trung quản</i>, trị vàng da (hoàng đản)",
+      "confidence": 0.9797278827912098
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0190_018_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2834
+        ],
+        [
+          568,
+          2834
+        ],
+        [
+          568,
+          2881
+        ],
+        [
+          227,
+          2881
+        ]
+      ],
+      "score": 0.8811768293380737,
+      "y_pos": 2834,
+      "text": "25. Kinh môn:",
+      "confidence": 0.8629443327585856
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_008_text.png",
+      "bbox": [
+        [
+          289,
+          2926
+        ],
+        [
+          1114,
+          2926
+        ],
+        [
+          1114,
+          2976
+        ],
+        [
+          289,
+          2976
+        ]
+      ],
+      "score": 0.9250631928443909,
+      "y_pos": 2926,
+      "text": "Vi trí: Dưới đầu sườn 12 (sườn cut).",
+      "confidence": 0.9932908886357358
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_024_text.png",
+      "bbox": [
+        [
+          285,
+          3016
+        ],
+        [
+          2289,
+          3016
+        ],
+        [
+          2289,
+          3073
+        ],
+        [
+          285,
+          3073
+        ]
+      ],
+      "score": 0.6236194968223572,
+      "y_pos": 3016,
+      "text": "Cách lấy huyệt: Nằm sấp hặc nằm nghiêng, chỗ dưới đầu sườn nổi cao là huyệt. (H. 89)",
+      "confidence": 0.9971721927786983
+    },
+    {
+      "type": "text",
+      "img_path": "p0190_023_text.png",
+      "bbox": [
+        [
+          286,
+          3109
+        ],
+        [
+          1913,
+          3109
+        ],
+        [
+          1913,
+          3163
+        ],
+        [
+          286,
+          3163
+        ]
+      ],
+      "score": 0.62447589635849,
+      "y_pos": 3109,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3 -0,5 thốn. cứu 3 mồi, hơ 3-7 phút.",
+      "confidence": 0.990778831924711
+    },
+    {
+      "type": "footer",
+      "img_path": "p0190_015_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9129161834716797,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0190_020_number.png",
+      "bbox": [
+        [
+          2301,
+          3339
+        ],
+        [
+          2347,
+          3339
+        ],
+        [
+          2347,
+          3377
+        ],
+        [
+          2301,
+          3377
+        ]
+      ],
+      "score": 0.8632687926292419,
+      "y_pos": 3339,
+      "text": "\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0190.png"
+}

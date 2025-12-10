@@ -1,0 +1,576 @@
+{
+  "page_num": 183,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0183_007_header.png",
+      "bbox": [
+        [
+          1608,
+          142
+        ],
+        [
+          2371,
+          142
+        ],
+        [
+          2371,
+          202
+        ],
+        [
+          1608,
+          202
+        ]
+      ],
+      "score": 0.9231293201446533,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7651692341480936
+    },
+    {
+      "type": "header",
+      "img_path": "p0183_015_header.png",
+      "bbox": [
+        [
+          229,
+          156
+        ],
+        [
+          909,
+          156
+        ],
+        [
+          909,
+          202
+        ],
+        [
+          229,
+          202
+        ]
+      ],
+      "score": 0.9152478575706482,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9883185357883059
+    },
+    {
+      "type": "image",
+      "img_path": "p0183_000_image.png",
+      "bbox": [
+        [
+          879,
+          353
+        ],
+        [
+          1716,
+          353
+        ],
+        [
+          1716,
+          1235
+        ],
+        [
+          879,
+          1235
+        ]
+      ],
+      "score": 0.9669458270072937,
+      "y_pos": 353
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0183_020_figure_title.png",
+      "bbox": [
+        [
+          1208,
+          1320
+        ],
+        [
+          1380,
+          1320
+        ],
+        [
+          1380,
+          1363
+        ],
+        [
+          1208,
+          1363
+        ]
+      ],
+      "score": 0.8685766458511353,
+      "y_pos": 1320,
+      "text": "Hınh    4",
+      "confidence": 0.8806715190410614
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0183_004_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          1407
+        ],
+        [
+          510,
+          1407
+        ],
+        [
+          510,
+          1459
+        ],
+        [
+          228,
+          1459
+        ]
+      ],
+      "score": 0.9275617599487305,
+      "y_pos": 1407,
+      "text": "12. Tiêu lac",
+      "confidence": 0.8266665424619403
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_019_text.png",
+      "bbox": [
+        [
+          289,
+          1498
+        ],
+        [
+          1900,
+          1498
+        ],
+        [
+          1900,
+          1553
+        ],
+        [
+          289,
+          1553
+        ]
+      ],
+      "score": 0.9040298461914062,
+      "y_pos": 1498,
+      "text": "Vị trí: Ở giữa đoạn nối huyệt Thanh lãnh uyên và huyệt Nhu hội. (H. 84)",
+      "confidence": 0.9935793125466125
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_016_text.png",
+      "bbox": [
+        [
+          287,
+          1590
+        ],
+        [
+          1573,
+          1590
+        ],
+        [
+          1573,
+          1642
+        ],
+        [
+          287,
+          1642
+        ]
+      ],
+      "score": 0.9144638180732727,
+      "y_pos": 1590,
+      "text": "Cách châm: Châm đứng kim, sâu 1-1,5 thốn. Cứu 3 mồi.",
+      "confidence": 0.9956185089217292
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_008_text.png",
+      "bbox": [
+        [
+          287,
+          1683
+        ],
+        [
+          1407,
+          1683
+        ],
+        [
+          1407,
+          1736
+        ],
+        [
+          287,
+          1736
+        ]
+      ],
+      "score": 0.9204050302505493,
+      "y_pos": 1683,
+      "text": "Chủ trị: Đau đầu, cổ gáy cứng đau, cánh tay đau.",
+      "confidence": 0.8068927609920502
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0183_006_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          1774
+        ],
+        [
+          517,
+          1774
+        ],
+        [
+          517,
+          1823
+        ],
+        [
+          229,
+          1823
+        ]
+      ],
+      "score": 0.9245923161506653,
+      "y_pos": 1774,
+      "text": "13. Nhu hôi",
+      "confidence": 0.9227845531243545
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_002_text.png",
+      "bbox": [
+        [
+          283,
+          1865
+        ],
+        [
+          2356,
+          1865
+        ],
+        [
+          2356,
+          1990
+        ],
+        [
+          283,
+          1990
+        ]
+      ],
+      "score": 0.9628556370735168,
+      "y_pos": 1865,
+      "text": "Vị trí: Nằm trên đường nối huyệt Kiên liêu với mỏm khuỷu, phía sau cơ tam giác vai, đầu vai\nxuống 3 thốn. (H. 84)",
+      "confidence": 0.9848324478146293
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_018_text.png",
+      "bbox": [
+        [
+          286,
+          2026
+        ],
+        [
+          1519,
+          2026
+        ],
+        [
+          1519,
+          2078
+        ],
+        [
+          286,
+          2078
+        ]
+      ],
+      "score": 0.9126362204551697,
+      "y_pos": 2026,
+      "text": "Cách châm: Châm đứng kim, sâu 1-2 thốn. Cứu 3 mồi",
+      "confidence": 0.9952168710091535
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_011_text.png",
+      "bbox": [
+        [
+          287,
+          2122
+        ],
+        [
+          944,
+          2122
+        ],
+        [
+          944,
+          2172
+        ],
+        [
+          287,
+          2172
+        ]
+      ],
+      "score": 0.9168171286582947,
+      "y_pos": 2122,
+      "text": "Chủ trị: Đau vai và cánh tay.",
+      "confidence": 0.5240037066321219
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0183_010_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          2212
+        ],
+        [
+          535,
+          2212
+        ],
+        [
+          535,
+          2257
+        ],
+        [
+          229,
+          2257
+        ]
+      ],
+      "score": 0.9172988533973694,
+      "y_pos": 2212,
+      "text": "14. Kiên liêu",
+      "confidence": 0.9411019444465637
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_001_text.png",
+      "bbox": [
+        [
+          282,
+          2302
+        ],
+        [
+          2357,
+          2302
+        ],
+        [
+          2357,
+          2428
+        ],
+        [
+          282,
+          2428
+        ]
+      ],
+      "score": 0.9628646969795227,
+      "y_pos": 2302,
+      "text": "Vị trí: Ở phía sau và dưới đầu xương vai, khi giơ ngang cánh tay ra, nó ở chỗ lõm phía sau\nhuyệt <i>Kiên ngung</i> 1 thốn. (H. 84)",
+      "confidence": 0.9926077411802494
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_017_text.png",
+      "bbox": [
+        [
+          285,
+          2465
+        ],
+        [
+          1529,
+          2465
+        ],
+        [
+          1529,
+          2516
+        ],
+        [
+          285,
+          2516
+        ]
+      ],
+      "score": 0.9134478569030762,
+      "y_pos": 2465,
+      "text": "Cách châm: Châm đứng kim, sâu 1-2 thốn. Cứu 3 mồi.",
+      "confidence": 0.9918070160425626
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_009_text.png",
+      "bbox": [
+        [
+          287,
+          2559
+        ],
+        [
+          1344,
+          2559
+        ],
+        [
+          1344,
+          2611
+        ],
+        [
+          287,
+          2611
+        ]
+      ],
+      "score": 0.9195375442504883,
+      "y_pos": 2559,
+      "text": "Chủ trị: Đau vai, cánh tay không giơ lên được.",
+      "confidence": 0.9758625614146391
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0183_013_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          2649
+        ],
+        [
+          558,
+          2649
+        ],
+        [
+          558,
+          2696
+        ],
+        [
+          229,
+          2696
+        ]
+      ],
+      "score": 0.9162846803665161,
+      "y_pos": 2649,
+      "text": "Thiên liêu",
+      "confidence": 0.8693852573633194
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_003_text.png",
+      "bbox": [
+        [
+          282,
+          2742
+        ],
+        [
+          2358,
+          2742
+        ],
+        [
+          2358,
+          2864
+        ],
+        [
+          282,
+          2864
+        ]
+      ],
+      "score": 0.9626704454421997,
+      "y_pos": 2742,
+      "text": "Vị trí: Điểm giữa của đường nối ụ xương vai và huyệt Đại chuỳ là huyệt Kiên tỉnh, từ đó lùi\nra sau 1 thốn là huyệt. (H. 84)",
+      "confidence": 0.9950612557656837
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_012_text.png",
+      "bbox": [
+        [
+          285,
+          2902
+        ],
+        [
+          1573,
+          2902
+        ],
+        [
+          1573,
+          2953
+        ],
+        [
+          285,
+          2953
+        ]
+      ],
+      "score": 0.9165847897529602,
+      "y_pos": 2902,
+      "text": "Cách châm: Châm đứng kim, sâu 0,5-1 thốn. Cứu 3 mồi.",
+      "confidence": 0.9925925003157722
+    },
+    {
+      "type": "text",
+      "img_path": "p0183_005_text.png",
+      "bbox": [
+        [
+          285,
+          2996
+        ],
+        [
+          2112,
+          2996
+        ],
+        [
+          2112,
+          3049
+        ],
+        [
+          285,
+          3049
+        ]
+      ],
+      "score": 0.9264103770256042,
+      "y_pos": 2996,
+      "text": "Chủ trị: Vai, cánh tay đau, cánh tay không giơ lên được, bả vai, cố, gáy đau đớn.",
+      "confidence": 0.9657054256243878
+    },
+    {
+      "type": "footer",
+      "img_path": "p0183_014_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9152793288230896,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0183_021_number.png",
+      "bbox": [
+        [
+          2301,
+          3340
+        ],
+        [
+          2350,
+          3340
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2301,
+          3377
+        ]
+      ],
+      "score": 0.8672956824302673,
+      "y_pos": 3340,
+      "text": "\n    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0183.png"
+}

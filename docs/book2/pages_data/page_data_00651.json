@@ -1,0 +1,578 @@
+{
+  "page_num": 651,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0651_009_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9226404428482056,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0651_013_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9105831384658813,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "text",
+      "img_path": "p0651_008_text.png",
+      "bbox": [
+        [
+          279,
+          307
+        ],
+        [
+          2356,
+          307
+        ],
+        [
+          2356,
+          430
+        ],
+        [
+          279,
+          430
+        ]
+      ],
+      "score": 0.9598841667175293,
+      "y_pos": 307,
+      "text": "a. Triệu chứng: Đau đầu, choáng váng, dễ cáu hoặc nhìn lờ mờ, đau sườn, đắng miệng,\nven lưỡi màu hồng, rêu trắng, mạch huyền.",
+      "confidence": 0.9962240513714817
+    },
+    {
+      "type": "text",
+      "img_path": "p0651_002_text.png",
+      "bbox": [
+        [
+          278,
+          468
+        ],
+        [
+          2359,
+          468
+        ],
+        [
+          2359,
+          663
+        ],
+        [
+          278,
+          663
+        ]
+      ],
+      "score": 0.9760442972183228,
+      "y_pos": 468,
+      "text": "Nếu thấy chứng đau đầu dữ dội, choáng váng, tai ù, điếc, mắt đỏ, mắt đau, dễ cáu, ngủ\nkhông yên, thổ huyết, chảy máu cam, đau móng tay, ven đầu lưỡi hồng, rêu vàng hoặc vàng\ndày mà khô, mạch huyền hữu lực là Can hoả thịnh.",
+      "confidence": 0.9995222775769544
+    },
+    {
+      "type": "text",
+      "img_path": "p0651_001_text.png",
+      "bbox": [
+        [
+          278,
+          702
+        ],
+        [
+          2358,
+          702
+        ],
+        [
+          2358,
+          898
+        ],
+        [
+          278,
+          898
+        ]
+      ],
+      "score": 0.9765157103538513,
+      "y_pos": 702,
+      "text": "Nếu Can dương cang thịnh đến mức Can phong nội động đều trúng phong (tai biến mạch\nmáu não) mà xuất hiện liệt nửa người, mất tiếng, miệng mắt méo hoặc dúm dó tay chân, hôn\nmê là do nhiệt cực, phải giải quyết như chứng ôn nhiệt.",
+      "confidence": 0.9996046592293926
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0651_018_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          936
+        ],
+        [
+          982,
+          936
+        ],
+        [
+          982,
+          987
+        ],
+        [
+          285,
+          987
+        ]
+      ],
+      "score": 0.8994367718696594,
+      "y_pos": 936,
+      "text": "Mô hình chỉ số nhiệt kinh lạc",
+      "confidence": 0.9980405492167319
+    },
+    {
+      "type": "text",
+      "img_path": "p0651_015_text.png",
+      "bbox": [
+        [
+          281,
+          1027
+        ],
+        [
+          2288,
+          1027
+        ],
+        [
+          2288,
+          1085
+        ],
+        [
+          281,
+          1085
+        ]
+      ],
+      "score": 0.9041327834129333,
+      "y_pos": 1027,
+      "text": "Can (+BL), Đảm (-), Thận (+), Tâm (+), Phế (+), Tỳ (-), Vị (-), Tiếu trường (-), Tam tiêu (+).",
+      "confidence": 0.9961552775154511
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0651_019_paragraph_title.png",
+      "bbox": [
+        [
+          287,
+          1123
+        ],
+        [
+          700,
+          1123
+        ],
+        [
+          700,
+          1172
+        ],
+        [
+          287,
+          1172
+        ]
+      ],
+      "score": 0.8896202445030212,
+      "y_pos": 1123,
+      "text": "a. Phương huyệt",
+      "confidence": 0.9970289679134593
+    },
+    {
+      "type": "text",
+      "img_path": "p0651_007_text.png",
+      "bbox": [
+        [
+          297,
+          1208
+        ],
+        [
+          2360,
+          1208
+        ],
+        [
+          2360,
+          1334
+        ],
+        [
+          297,
+          1334
+        ]
+      ],
+      "score": 0.9600384831428528,
+      "y_pos": 1208,
+      "text": "• Nếu <b>hoả bốc</b> lên đau đầu, dễ cáu, mắt mờ, đau sườn, đắng miệng thì chỉ cần tả: <i>Bách</i>\nhội, Hành gian.",
+      "confidence": 0.9626496643412348
+    },
+    {
+      "type": "text",
+      "img_path": "p0651_006_text.png",
+      "bbox": [
+        [
+          300,
+          1372
+        ],
+        [
+          2359,
+          1372
+        ],
+        [
+          2359,
+          1499
+        ],
+        [
+          300,
+          1499
+        ]
+      ],
+      "score": 0.9610269069671631,
+      "y_pos": 1372,
+      "text": "• Nếu đau đầu dữ dội và có dấu hiệu hoá hoả sinh phong dễ dẫn tới tai biến mạch máu\nnão thì sẵn sàng cấp cứu như trúng gió và nhanh chóng làm cho huyết áp giảm xuống:",
+      "confidence": 0.9964484767503097
+    },
+    {
+      "type": "text",
+      "img_path": "p0651_017_text.png",
+      "bbox": [
+        [
+          299,
+          1536
+        ],
+        [
+          2258,
+          1536
+        ],
+        [
+          2258,
+          1590
+        ],
+        [
+          299,
+          1590
+        ]
+      ],
+      "score": 0.9004715085029602,
+      "y_pos": 1536,
+      "text": "\n    Tả: Kiên ngung, Hợp cốc, Thái xung, Can nhiệt huyệt. Bố: Túc Tam lý, Tam âm giao.\n",
+      "confidence": 0.9872556540453545
+    },
+    {
+      "type": "text",
+      "img_path": "p0651_012_text.png",
+      "bbox": [
+        [
+          297,
+          1628
+        ],
+        [
+          2104,
+          1628
+        ],
+        [
+          2104,
+          1681
+        ],
+        [
+          297,
+          1681
+        ]
+      ],
+      "score": 0.9110511541366577,
+      "y_pos": 1628,
+      "text": "Nếu <b>liệt nửa người</b> thì lấy: <i>Phong trì, Khúc trì, Dương lăng tuyên, Hành gian</i>",
+      "confidence": 0.9928428770565405
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0651_014_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          1723
+        ],
+        [
+          1002,
+          1723
+        ],
+        [
+          1002,
+          1773
+        ],
+        [
+          286,
+          1773
+        ]
+      ],
+      "score": 0.9062578082084656,
+      "y_pos": 1723,
+      "text": "b. Giảng nghĩa phương huyệt",
+      "confidence": 0.9958487646333103
+    },
+    {
+      "type": "text",
+      "img_path": "p0651_000_text.png",
+      "bbox": [
+        [
+          279,
+          1813
+        ],
+        [
+          2361,
+          1813
+        ],
+        [
+          2361,
+          2220
+        ],
+        [
+          279,
+          2220
+        ]
+      ],
+      "score": 0.9861271381378174,
+      "y_pos": 1813,
+      "text": "Bách hội, Hành gian là nhóm huyệt kinh nghiệm hiệu quả chữa đau đầu do Can hoả. Kiên\nngung làm giảm huyết áp xuống. Hợp cốc, Thái xung cả hai bên là tứ quan huyệt, lấy để trấn\nkinh, chống co quắp, co giật. <i>Can nhiệt huyệt</i> để tả Can nhiệt. <i>Túc Tam lý</i> dẫn hoả đi xuống,\nTam tâm giao để tư thận âm làm cho Can âm cũng được tăng cường thêm đủ sức chế Can\nhoả, vì Can Thận đồng nguyên. Đồng thời do có cả <i>Túc Tam lý</i> và <i>Thái xung</i> trong phương,\nlại có thể chống được viêm gan do nhiều hoả khí gây ra.",
+      "confidence": 0.9735650623344482
+    },
+    {
+      "type": "text",
+      "img_path": "p0651_004_text.png",
+      "bbox": [
+        [
+          280,
+          2256
+        ],
+        [
+          2361,
+          2256
+        ],
+        [
+          2361,
+          2451
+        ],
+        [
+          280,
+          2451
+        ]
+      ],
+      "score": 0.9743836522102356,
+      "y_pos": 2256,
+      "text": "Phong trì, Khúc trì, Dương lăng tuyền, Hành gian bổ bên lành, tả bên liệt là phương huyệt\nchữa chứng liệt nửa người nghiệm nhất làm cho người bệnh nhanh phục hồi chức năng vận\nđộng ở nửa bị liệt.",
+      "confidence": 0.9989625615906171
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0651_010_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2492
+        ],
+        [
+          651,
+          2492
+        ],
+        [
+          651,
+          2539
+        ],
+        [
+          227,
+          2539
+        ]
+      ],
+      "score": 0.9172788858413696,
+      "y_pos": 2492,
+      "text": "3. Can âm bất túc",
+      "confidence": 0.9269678592681885
+    },
+    {
+      "type": "text",
+      "img_path": "p0651_005_text.png",
+      "bbox": [
+        [
+          221,
+          2581
+        ],
+        [
+          2357,
+          2581
+        ],
+        [
+          2357,
+          2707
+        ],
+        [
+          221,
+          2707
+        ]
+      ],
+      "score": 0.9631969928741455,
+      "y_pos": 2581,
+      "text": "Mô hình chỉ số nhiệt kinh lạc cơ bản: Can (+BL), nghĩa là kinh Can có trạng thái nhiệt bệnh lý.\nSố tương quan của kinh Can có giá trị tuyệt đối lớn hơn sai số giới hạn và mang dấu +.",
+      "confidence": 0.998887499666929
+    },
+    {
+      "type": "text",
+      "img_path": "p0651_003_text.png",
+      "bbox": [
+        [
+          278,
+          2744
+        ],
+        [
+          2359,
+          2744
+        ],
+        [
+          2359,
+          2935
+        ],
+        [
+          278,
+          2935
+        ]
+      ],
+      "score": 0.9747542142868042,
+      "y_pos": 2744,
+      "text": "a. Triệu chứng: Choáng váng, đau đầu dai dẳng, tai ù điếc, quáng gà, mất ngủ, hay mộng\nmị, tay chân tê dại, run rẩy, lưỡi hồng ít nước bọt, rêu lưỡi ít hoặc không rêu, mạch huyền tế,\nhoặc tế, sác.",
+      "confidence": 0.9975178229724083
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0651_021_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          2980
+        ],
+        [
+          982,
+          2980
+        ],
+        [
+          982,
+          3029
+        ],
+        [
+          283,
+          3029
+        ]
+      ],
+      "score": 0.7502274513244629,
+      "y_pos": 2980,
+      "text": "Mô hình chỉ số nhiệt kinh lạc",
+      "confidence": 0.9981476664543152
+    },
+    {
+      "type": "text",
+      "img_path": "p0651_011_text.png",
+      "bbox": [
+        [
+          282,
+          3068
+        ],
+        [
+          2259,
+          3068
+        ],
+        [
+          2259,
+          3126
+        ],
+        [
+          282,
+          3126
+        ]
+      ],
+      "score": 0.9166890978813171,
+      "y_pos": 3068,
+      "text": "Can (+BL), Đảm (+), Vị (+), Tam tiêu (+), Phế (+), Thận (+), Tâm (+), Tỳ (-), Tâm bào (+).",
+      "confidence": 0.9973023501427277
+    },
+    {
+      "type": "number",
+      "img_path": "p0651_020_number.png",
+      "bbox": [
+        [
+          2305,
+          3337
+        ],
+        [
+          2353,
+          3337
+        ],
+        [
+          2353,
+          3373
+        ],
+        [
+          2305,
+          3373
+        ]
+      ],
+      "score": 0.8604859113693237,
+      "y_pos": 3337,
+      "text": "    \n\n\n\n\n\n\n\n٠.        \n\n    \n",
+      "confidence": 0.9707834599539638
+    },
+    {
+      "type": "footer",
+      "img_path": "p0651_016_footer.png",
+      "bbox": [
+        [
+          227,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3388
+        ],
+        [
+          227,
+          3388
+        ]
+      ],
+      "score": 0.9027650356292725,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985032610173495
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0651.png"
+}

@@ -1,0 +1,682 @@
+{
+  "page_num": 203,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0203_001_text.png",
+      "bbox": [
+        [
+          344,
+          451
+        ],
+        [
+          2123,
+          451
+        ],
+        [
+          2123,
+          560
+        ],
+        [
+          344,
+          560
+        ]
+      ],
+      "score": 0.914649486541748,
+      "y_pos": 451,
+      "text": "8. Trong phương huyệt chữa chứng Can âm hư gồm Can du, Thái xung,\nQuang minh, Thận du, Tam âm giao, Thái khê, Phi dương, Thần môn",
+      "confidence": 0.9969455394966593
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_017_text.png",
+      "bbox": [
+        [
+          461,
+          590
+        ],
+        [
+          1758,
+          590
+        ],
+        [
+          1758,
+          642
+        ],
+        [
+          461,
+          642
+        ]
+      ],
+      "score": 0.8829131126403809,
+      "y_pos": 590,
+      "text": "a- Dùng cặp Thái xung, Quang minh để bổ Can âm bởi vì",
+      "confidence": 0.8795944528146223
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_010_text.png",
+      "bbox": [
+        [
+          462,
+          674
+        ],
+        [
+          1717,
+          674
+        ],
+        [
+          1717,
+          725
+        ],
+        [
+          462,
+          725
+        ]
+      ],
+      "score": 0.8994584679603577,
+      "y_pos": 674,
+      "text": "b- Thái xung, Quang minh là nguyên lạc của Can, Đởm",
+      "confidence": 0.991249902068444
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_007_text.png",
+      "bbox": [
+        [
+          510,
+          758
+        ],
+        [
+          1718,
+          758
+        ],
+        [
+          1718,
+          808
+        ],
+        [
+          510,
+          808
+        ]
+      ],
+      "score": 0.9037538766860962,
+      "y_pos": 758,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.9931119972804807
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_012_text.png",
+      "bbox": [
+        [
+          510,
+          839
+        ],
+        [
+          1808,
+          839
+        ],
+        [
+          1808,
+          892
+        ],
+        [
+          510,
+          892
+        ]
+      ],
+      "score": 0.8982337117195129,
+      "y_pos": 839,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.9959420295698302
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_005_text.png",
+      "bbox": [
+        [
+          512,
+          921
+        ],
+        [
+          994,
+          921
+        ],
+        [
+          994,
+          971
+        ],
+        [
+          512,
+          971
+        ]
+      ],
+      "score": 0.9061411619186401,
+      "y_pos": 921,
+      "text": "C. Nếu a đúng, b sai",
+      "confidence": 0.9734536544843153
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_003_text.png",
+      "bbox": [
+        [
+          513,
+          1004
+        ],
+        [
+          994,
+          1004
+        ],
+        [
+          994,
+          1055
+        ],
+        [
+          513,
+          1055
+        ]
+      ],
+      "score": 0.9121748208999634,
+      "y_pos": 1004,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9853905601934954
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_011_text.png",
+      "bbox": [
+        [
+          515,
+          1087
+        ],
+        [
+          945,
+          1087
+        ],
+        [
+          945,
+          1134
+        ],
+        [
+          515,
+          1134
+        ]
+      ],
+      "score": 0.8985751867294312,
+      "y_pos": 1087,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.973795405455998
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_020_text.png",
+      "bbox": [
+        [
+          343,
+          1170
+        ],
+        [
+          2125,
+          1170
+        ],
+        [
+          2125,
+          1334
+        ],
+        [
+          343,
+          1334
+        ]
+      ],
+      "score": 0.8732048273086548,
+      "y_pos": 1170,
+      "text": "9. Trong phương huyệt chữa chứng Can huyết hư gồm Can du, Thái\nxung, Quang minh, Cách du, Huyết hải, Tam âm giao, Thái khê, Phi dương,\nNôi quan",
+      "confidence": 0.9802448006499915
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_023_text.png",
+      "bbox": [
+        [
+          462,
+          1366
+        ],
+        [
+          1498,
+          1366
+        ],
+        [
+          1498,
+          1416
+        ],
+        [
+          462,
+          1416
+        ]
+      ],
+      "score": 0.8498241305351257,
+      "y_pos": 1366,
+      "text": "a- Châm bổ huyệt Cách du để bổ huyết, bởi vì",
+      "confidence": 0.9905467823795651
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_018_text.png",
+      "bbox": [
+        [
+          462,
+          1450
+        ],
+        [
+          1816,
+          1450
+        ],
+        [
+          1816,
+          1500
+        ],
+        [
+          462,
+          1500
+        ]
+      ],
+      "score": 0.8789899349212646,
+      "y_pos": 1450,
+      "text": "b- Cách du là du huyệt thuộc vùng Tâm, mà Tâm chủ huyết",
+      "confidence": 0.979463517665863
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_016_text.png",
+      "bbox": [
+        [
+          510,
+          1534
+        ],
+        [
+          1718,
+          1534
+        ],
+        [
+          1718,
+          1584
+        ],
+        [
+          510,
+          1584
+        ]
+      ],
+      "score": 0.8886445164680481,
+      "y_pos": 1534,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.9931119972804807
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_015_text.png",
+      "bbox": [
+        [
+          511,
+          1614
+        ],
+        [
+          1808,
+          1614
+        ],
+        [
+          1808,
+          1667
+        ],
+        [
+          511,
+          1667
+        ]
+      ],
+      "score": 0.8908572196960449,
+      "y_pos": 1614,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.9948070773056575
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_000_text.png",
+      "bbox": [
+        [
+          513,
+          1697
+        ],
+        [
+          993,
+          1697
+        ],
+        [
+          993,
+          1746
+        ],
+        [
+          513,
+          1746
+        ]
+      ],
+      "score": 0.9148149490356445,
+      "y_pos": 1697,
+      "text": "C. Nếu a đúng, b sai",
+      "confidence": 0.9720272069627588
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_002_text.png",
+      "bbox": [
+        [
+          513,
+          1781
+        ],
+        [
+          994,
+          1781
+        ],
+        [
+          994,
+          1830
+        ],
+        [
+          513,
+          1830
+        ]
+      ],
+      "score": 0.913978099822998,
+      "y_pos": 1781,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9811907139691439
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_013_text.png",
+      "bbox": [
+        [
+          514,
+          1863
+        ],
+        [
+          945,
+          1863
+        ],
+        [
+          945,
+          1910
+        ],
+        [
+          514,
+          1910
+        ]
+      ],
+      "score": 0.894955039024353,
+      "y_pos": 1863,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.9735039273897806
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_021_text.png",
+      "bbox": [
+        [
+          342,
+          1946
+        ],
+        [
+          2124,
+          1946
+        ],
+        [
+          2124,
+          2123
+        ],
+        [
+          342,
+          2123
+        ]
+      ],
+      "score": 0.8712403774261475,
+      "y_pos": 1946,
+      "text": "10. Trong phương huyệt điều trị chứng Can dương xung gồm Hành gian,\nThiếu phủ, Can du, Thận du, Thái khê, Phi dương, gia giảm Nội quan, Thái\ndương, Bách hội, Ấn đường",
+      "confidence": 0.9734388719499175
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_019_text.png",
+      "bbox": [
+        [
+          462,
+          2151
+        ],
+        [
+          1567,
+          2151
+        ],
+        [
+          1567,
+          2202
+        ],
+        [
+          462,
+          2202
+        ]
+      ],
+      "score": 0.8759345412254333,
+      "y_pos": 2151,
+      "text": "a- Châm bổ huyệt Hành gian để bình Can; bởi vì",
+      "confidence": 0.9909021817147732
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_022_text.png",
+      "bbox": [
+        [
+          460,
+          2235
+        ],
+        [
+          2122,
+          2235
+        ],
+        [
+          2122,
+          2288
+        ],
+        [
+          460,
+          2288
+        ]
+      ],
+      "score": 0.865908145904541,
+      "y_pos": 2235,
+      "text": "b- Hành gian là hỏa huyệt của Can, dùng nó theo nguyên tắc mẹ thực tả con",
+      "confidence": 0.934188977877299
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_024_text.png",
+      "bbox": [
+        [
+          510,
+          2319
+        ],
+        [
+          1719,
+          2319
+        ],
+        [
+          1719,
+          2369
+        ],
+        [
+          510,
+          2369
+        ]
+      ],
+      "score": 0.8432840704917908,
+      "y_pos": 2319,
+      "text": "A. Nếu a đúng, b đúng, a và b có liên quan nhân quả",
+      "confidence": 0.9899417240664644
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_014_text.png",
+      "bbox": [
+        [
+          511,
+          2402
+        ],
+        [
+          1809,
+          2402
+        ],
+        [
+          1809,
+          2454
+        ],
+        [
+          511,
+          2454
+        ]
+      ],
+      "score": 0.8913179636001587,
+      "y_pos": 2402,
+      "text": "B. Nếu a đúng, b đúng, a và b không liên quan nhân quả",
+      "confidence": 0.9953775086573192
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_004_text.png",
+      "bbox": [
+        [
+          512,
+          2485
+        ],
+        [
+          993,
+          2485
+        ],
+        [
+          993,
+          2533
+        ],
+        [
+          512,
+          2533
+        ]
+      ],
+      "score": 0.9073100686073303,
+      "y_pos": 2485,
+      "text": "C. Nếu a đúng, b sai",
+      "confidence": 0.9726019339127974
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_008_text.png",
+      "bbox": [
+        [
+          513,
+          2566
+        ],
+        [
+          993,
+          2566
+        ],
+        [
+          993,
+          2617
+        ],
+        [
+          513,
+          2617
+        ]
+      ],
+      "score": 0.9031475782394409,
+      "y_pos": 2566,
+      "text": "D. Nếu a sai, b đúng",
+      "confidence": 0.9858696027235552
+    },
+    {
+      "type": "text",
+      "img_path": "p0203_009_text.png",
+      "bbox": [
+        [
+          516,
+          2649
+        ],
+        [
+          943,
+          2649
+        ],
+        [
+          943,
+          2697
+        ],
+        [
+          516,
+          2697
+        ]
+      ],
+      "score": 0.9000645875930786,
+      "y_pos": 2649,
+      "text": "E. Nếu a sai, b sai",
+      "confidence": 0.9782644936016628
+    },
+    {
+      "type": "number",
+      "img_path": "p0203_025_number.png",
+      "bbox": [
+        [
+          352,
+          3110
+        ],
+        [
+          434,
+          3110
+        ],
+        [
+          434,
+          3148
+        ],
+        [
+          352,
+          3148
+        ]
+      ],
+      "score": 0.8385266661643982,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0203_006_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1074,
+          3311
+        ],
+        [
+          1074,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.9060858488082886,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8810788103512355
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0203.png"
+}

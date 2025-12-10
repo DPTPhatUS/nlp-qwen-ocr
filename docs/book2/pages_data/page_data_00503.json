@@ -1,0 +1,318 @@
+{
+  "page_num": 503,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0503_002_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2369,
+          144
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9282309412956238,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7841731583078702
+    },
+    {
+      "type": "header",
+      "img_path": "p0503_004_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9166038632392883,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9857871028093191
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0503_007_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          328
+        ],
+        [
+          662,
+          328
+        ],
+        [
+          662,
+          379
+        ],
+        [
+          227,
+          379
+        ]
+      ],
+      "score": 0.9127566814422607,
+      "y_pos": 328,
+      "text": "72. Bênh liêt mềm",
+      "confidence": 0.9538810817818892
+    },
+    {
+      "type": "text",
+      "img_path": "p0503_000_text.png",
+      "bbox": [
+        [
+          221,
+          418
+        ],
+        [
+          2358,
+          418
+        ],
+        [
+          2358,
+          615
+        ],
+        [
+          221,
+          615
+        ]
+      ],
+      "score": 0.9772912859916687,
+      "y_pos": 418,
+      "text": "Bệnh liệt mềm là chi trên hoặc chi dưới, bên phải hoặc bên trái bị mềm yếu không có sức,\nkhông thể vận động được. Mới đầu châm cảm thấy buốt tức, tê. Lâu ngày bắp thịt teo dần,\nkhông thể cử động chân tay, thành người tàn phế.",
+      "confidence": 0.9997085879119892
+    },
+    {
+      "type": "text",
+      "img_path": "p0503_005_text.png",
+      "bbox": [
+        [
+          225,
+          654
+        ],
+        [
+          1498,
+          654
+        ],
+        [
+          1498,
+          705
+        ],
+        [
+          225,
+          705
+        ]
+      ],
+      "score": 0.9149162173271179,
+      "y_pos": 654,
+      "text": "Bệnh mới bị, dùng châm cứu chữa kiên trì có kết quả tốt.",
+      "confidence": 0.9995354691456104
+    },
+    {
+      "type": "text",
+      "img_path": "p0503_010_text.png",
+      "bbox": [
+        [
+          226,
+          744
+        ],
+        [
+          708,
+          744
+        ],
+        [
+          708,
+          794
+        ],
+        [
+          226,
+          794
+        ]
+      ],
+      "score": 0.8843468427658081,
+      "y_pos": 744,
+      "text": "Dùng cứu nhiêu hơn.",
+      "confidence": 0.9650590448152452
+    },
+    {
+      "type": "text",
+      "img_path": "p0503_009_text.png",
+      "bbox": [
+        [
+          285,
+          836
+        ],
+        [
+          818,
+          836
+        ],
+        [
+          818,
+          889
+        ],
+        [
+          285,
+          889
+        ]
+      ],
+      "score": 0.8986322283744812,
+      "y_pos": 836,
+      "text": "Cách chữa: Lấy huyệt:",
+      "confidence": 0.5871320418689562
+    },
+    {
+      "type": "text",
+      "img_path": "p0503_003_text.png",
+      "bbox": [
+        [
+          285,
+          929
+        ],
+        [
+          1738,
+          929
+        ],
+        [
+          1738,
+          980
+        ],
+        [
+          285,
+          980
+        ]
+      ],
+      "score": 0.9203276634216309,
+      "y_pos": 929,
+      "text": "\n    Chi trên: Kiên ngung, Khúc trì, Hợp côc, Ngoại quan, Hậu khê.\n",
+      "confidence": 0.9833917713713372
+    },
+    {
+      "type": "text",
+      "img_path": "p0503_006_text.png",
+      "bbox": [
+        [
+          284,
+          1020
+        ],
+        [
+          1937,
+          1020
+        ],
+        [
+          1937,
+          1072
+        ],
+        [
+          284,
+          1072
+        ]
+      ],
+      "score": 0.9138166904449463,
+      "y_pos": 1020,
+      "text": "\n    Chi dưới: Yêu Dương quan, Hoàn khiêu, Dương lăng tuyến, Túc tam lý.\n",
+      "confidence": 0.9861800612941864
+    },
+    {
+      "type": "text",
+      "img_path": "p0503_001_text.png",
+      "bbox": [
+        [
+          222,
+          1111
+        ],
+        [
+          2357,
+          1111
+        ],
+        [
+          2357,
+          1234
+        ],
+        [
+          222,
+          1234
+        ]
+      ],
+      "score": 0.9626505374908447,
+      "y_pos": 1111,
+      "text": "Tất cả đều dùng mồi ngải cứu trực tiếp. Mỗi huyệt từ 5 đến 7 mồi, hoặc dùng kim nhỏ châm\nnhẹ nhàng sau đó lại cứu.",
+      "confidence": 0.9979468250716175
+    },
+    {
+      "type": "number",
+      "img_path": "p0503_011_number.png",
+      "bbox": [
+        [
+          2304,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2304,
+          3335
+        ]
+      ],
+      "score": 0.866532027721405,
+      "y_pos": 3300,
+      "text": "    \n    \n\n\n\n\n.\n٠.\n\n    \n",
+      "confidence": 0.9317148593919617
+    },
+    {
+      "type": "footer",
+      "img_path": "p0503_008_footer.png",
+      "bbox": [
+        [
+          229,
+          3310
+        ],
+        [
+          1324,
+          3310
+        ],
+        [
+          1324,
+          3355
+        ],
+        [
+          229,
+          3355
+        ]
+      ],
+      "score": 0.9084904193878174,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985551654167895
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0503.png"
+}

@@ -1,0 +1,342 @@
+{
+  "page_num": 627,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0627_003_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9205124378204346,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0627_004_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1172,
+          152
+        ],
+        [
+          1172,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9155213236808777,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BÁNG NHIỆT ĐÔ KINH LẠC",
+      "confidence": 0.9933017049080286
+    },
+    {
+      "type": "text",
+      "img_path": "p0627_009_text.png",
+      "bbox": [
+        [
+          297,
+          308
+        ],
+        [
+          1406,
+          308
+        ],
+        [
+          1406,
+          359
+        ],
+        [
+          297,
+          359
+        ]
+      ],
+      "score": 0.8053398132324219,
+      "y_pos": 308,
+      "text": "Ngày tháng, lần đo: Ghi vào cột 1 của bảng B.",
+      "confidence": 0.99826051580145
+    },
+    {
+      "type": "text",
+      "img_path": "p0627_010_text.png",
+      "bbox": [
+        [
+          285,
+          400
+        ],
+        [
+          2317,
+          400
+        ],
+        [
+          2317,
+          454
+        ],
+        [
+          285,
+          454
+        ]
+      ],
+      "score": 0.7772905230522156,
+      "y_pos": 400,
+      "text": "Nhìn vào bảng và phân tích so sánh, đưa ra nhận xét và ghi vào mục nhận xét ở cuối bảng",
+      "confidence": 0.999765925862816
+    },
+    {
+      "type": "chart",
+      "img_path": "p0627_005_chart.png",
+      "bbox": [
+        [
+          228,
+          593
+        ],
+        [
+          2362,
+          593
+        ],
+        [
+          2362,
+          1300
+        ],
+        [
+          228,
+          1300
+        ]
+      ],
+      "score": 0.9135238528251648,
+      "y_pos": 593
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0627_011_paragraph_title.png",
+      "bbox": [
+        [
+          223,
+          1360
+        ],
+        [
+          2002,
+          1360
+        ],
+        [
+          2002,
+          1417
+        ],
+        [
+          223,
+          1417
+        ]
+      ],
+      "score": 0.7526842951774597,
+      "y_pos": 1360,
+      "text": "2. Các ví dụ cụ thể về Bảng diễn biến chỉ số nhiệt kinh lạc của từng người",
+      "confidence": 0.9996255055854195
+    },
+    {
+      "type": "text",
+      "img_path": "p0627_001_text.png",
+      "bbox": [
+        [
+          278,
+          1453
+        ],
+        [
+          2358,
+          1453
+        ],
+        [
+          2358,
+          1651
+        ],
+        [
+          278,
+          1651
+        ]
+      ],
+      "score": 0.9737862944602966,
+      "y_pos": 1453,
+      "text": "a. Theo dõi một bệnh nhân đau lưng. Bệnh nhân: Nguyễn Thị Ng. 26 tuổi, chưa có gia\nđình riêng. Đau cột sống cử động khó khăn, có phản ứng ấn đau ở <i>Chí dương, Dương quan,</i>\nThập thất chuỳ hạ.",
+      "confidence": 0.9942081620295843
+    },
+    {
+      "type": "text",
+      "img_path": "p0627_007_text.png",
+      "bbox": [
+        [
+          277,
+          1685
+        ],
+        [
+          2359,
+          1685
+        ],
+        [
+          2359,
+          1812
+        ],
+        [
+          277,
+          1812
+        ]
+      ],
+      "score": 0.8954659700393677,
+      "y_pos": 1685,
+      "text": "Đã qua chữa bằng thuốc và châm cứu gần hai tháng ở nơi khác. Bảng ghi này tôi lập khi\ntheo dõi hàng ngày trong quá trình châm cứu điều trị.",
+      "confidence": 0.9983745702506357
+    },
+    {
+      "type": "table",
+      "img_path": "p0627_000_table.png",
+      "bbox": [
+        [
+          227,
+          1859
+        ],
+        [
+          2364,
+          1859
+        ],
+        [
+          2364,
+          2711
+        ],
+        [
+          227,
+          2711
+        ]
+      ],
+      "score": 0.9818003177642822,
+      "y_pos": 1859,
+      "text": "Số tương quan dương (dấu+)    Số tương quan (dấu -), =0\n2    3    4    |5|    6    8    9    10    11    12    13    14    15    16    17    18    19    20    21    22    23    24    25    26    27    28\n5-7    0,2 |0,15 | 2,15 |    0,5    0    0,15    0,1 |0,15|    0,3    0,1    0,2    0,1    0,1 0,25    0,15\n6-7    0,1    0,13 2,00    0,1    0,15    3,1 |0,25 | 0,35 | 0,25 | 0,25 |    0,15 0,15\n7-7 | 0,13 | 0,12 | 2,10 |    0,15    |0,15|0,15|    0,1    0,05 0,05 0,30 0,1    0,3    0,1    0,1\n8-7 | 1,12 | 0,07 | 1,85 |    0,1    0,1    0,25    0,05    0,1 |0,05|    0,1    0,25    0,05    0,55\n9-7 |1,07 |0,18 | 1,15 |    0,05    0,15    0,05    0,05 0,05    0,2    0,4    0,2 |0,15|    0,1    0,55\n10-7 0,23 0,23    2,4    0,6    0,45 0,1    0,35    0,1    0,65    0,25    0,3    0,5    0,65    0,4    0,25\n1-8 |0,18 | 0,1    1,25    0,1    0,05    0,5    0,6    0,2 0,5 0,45    0,1    0,9    0,15    0,1\n3-8 |0,15|0,08|1,10|    0,35    0,05 0,3    0,05    0,1    0,05    0,45    0,05    0,25\n4-8 |0,13|0,07|1,00|    |0,40|0,15|0,35|0,25|    0,1    0,15    0,05    0,15    0,3    0,25",
+      "confidence": 0.943009305181391
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0627_012_figure_title.png",
+      "bbox": [
+        [
+          285,
+          2746
+        ],
+        [
+          1602,
+          2746
+        ],
+        [
+          1602,
+          2799
+        ],
+        [
+          285,
+          2799
+        ]
+      ],
+      "score": 0.631910502910614,
+      "y_pos": 2746,
+      "text": "Tới đây là đã khỏi hẳn đau và trở lại lao động bình thường.",
+      "confidence": 0.9998545568497454
+    },
+    {
+      "type": "text",
+      "img_path": "p0627_002_text.png",
+      "bbox": [
+        [
+          281,
+          2835
+        ],
+        [
+          2358,
+          2835
+        ],
+        [
+          2358,
+          2960
+        ],
+        [
+          281,
+          2960
+        ]
+      ],
+      "score": 0.9224612712860107,
+      "y_pos": 2835,
+      "text": "Nhận xét: Chứng đau lưng do công năng can gây ra. Khi bệnh thuyên giảm, số đo của Car.\ncũng biến đổi dần.",
+      "confidence": 0.9956926181912422
+    },
+    {
+      "type": "number",
+      "img_path": "p0627_008_number.png",
+      "bbox": [
+        [
+          2304,
+          3336
+        ],
+        [
+          2354,
+          3336
+        ],
+        [
+          2354,
+          3373
+        ],
+        [
+          2304,
+          3373
+        ]
+      ],
+      "score": 0.8624656200408936,
+      "y_pos": 3336,
+      "text": "    \n            \n        \n\n\n\n\n\n\n\n    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0627_006_footer.png",
+      "bbox": [
+        [
+          227,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3389
+        ],
+        [
+          227,
+          3389
+        ]
+      ],
+      "score": 0.9052647948265076,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987236002706131
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0627.png"
+}

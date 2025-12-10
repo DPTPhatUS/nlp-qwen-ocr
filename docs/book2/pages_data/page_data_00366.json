@@ -1,0 +1,708 @@
+{
+  "page_num": 366,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0366_008_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          195
+        ],
+        [
+          1678,
+          195
+        ]
+      ],
+      "score": 0.9336690306663513,
+      "y_pos": 142,
+      "text": "_______________________________________\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6681458304503134
+    },
+    {
+      "type": "header",
+      "img_path": "p0366_015_header.png",
+      "bbox": [
+        [
+          229,
+          146
+        ],
+        [
+          1095,
+          146
+        ],
+        [
+          1095,
+          196
+        ],
+        [
+          229,
+          196
+        ]
+      ],
+      "score": 0.9182257056236267,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SĂNG",
+      "confidence": 0.9852815968649727
+    },
+    {
+      "type": "text",
+      "img_path": "p0366_002_text.png",
+      "bbox": [
+        [
+          220,
+          303
+        ],
+        [
+          2359,
+          303
+        ],
+        [
+          2359,
+          428
+        ],
+        [
+          220,
+          428
+        ]
+      ],
+      "score": 0.969944179058075,
+      "y_pos": 303,
+      "text": "Lấy huyệt Đại chùy, Hợp cốc, mỗi huyệt tiêm vào từ 1 phần tư đến 1 phần 2 cm³ bằng thuốc\ntiêm <i>Đia long</i>.",
+      "confidence": 0.9692537595828374
+    },
+    {
+      "type": "text",
+      "img_path": "p0366_019_text.png",
+      "bbox": [
+        [
+          226,
+          469
+        ],
+        [
+          502,
+          469
+        ],
+        [
+          502,
+          520
+        ],
+        [
+          226,
+          520
+        ]
+      ],
+      "score": 0.8692599534988403,
+      "y_pos": 469,
+      "text": "Lây huyêt:",
+      "confidence": 0.9368567119042078
+    },
+    {
+      "type": "text",
+      "img_path": "p0366_010_text.png",
+      "bbox": [
+        [
+          228,
+          561
+        ],
+        [
+          1047,
+          561
+        ],
+        [
+          1047,
+          613
+        ],
+        [
+          228,
+          613
+        ]
+      ],
+      "score": 0.92857426404953,
+      "y_pos": 561,
+      "text": "+ Tam âm giao, Hợp cốc, Thái xung.",
+      "confidence": 0.9683240387174818
+    },
+    {
+      "type": "text",
+      "img_path": "p0366_011_text.png",
+      "bbox": [
+        [
+          229,
+          651
+        ],
+        [
+          943,
+          651
+        ],
+        [
+          943,
+          704
+        ],
+        [
+          229,
+          704
+        ]
+      ],
+      "score": 0.9249569773674011,
+      "y_pos": 651,
+      "text": "+ Phong phủ, Á môn, Phong trì.",
+      "confidence": 0.9763801433146
+    },
+    {
+      "type": "text",
+      "img_path": "p0366_005_text.png",
+      "bbox": [
+        [
+          223,
+          740
+        ],
+        [
+          2176,
+          740
+        ],
+        [
+          2176,
+          797
+        ],
+        [
+          223,
+          797
+        ]
+      ],
+      "score": 0.943943202495575,
+      "y_pos": 740,
+      "text": "Chọn ở mỗi nhóm từ 1 đến 2 huyệt phối hợp (có thể dùng thuốc loại trấn tĩnh, an thần).",
+      "confidence": 0.9973360367796638
+    },
+    {
+      "type": "text",
+      "img_path": "p0366_001_text.png",
+      "bbox": [
+        [
+          221,
+          833
+        ],
+        [
+          2360,
+          833
+        ],
+        [
+          2360,
+          1030
+        ],
+        [
+          221,
+          1030
+        ]
+      ],
+      "score": 0.9779521822929382,
+      "y_pos": 833,
+      "text": "Án day bằng tay: Véo ở hai bên đốt bàn tay ngón giữa, cho ra tới ngoài khớp đốt chừng nửa\nthốn, và véo ở <i>Côn luân, Dũng tuyền, Giải khê, Nhân trung</i>, thay nhau véo hoặc véo lại nhiều\nlần. Chú ý đừng để móng tay làm xước da trẻ em, hoặc véo mạnh làm rách da.",
+      "confidence": 0.9953333418068685
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0366_020_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1067
+        ],
+        [
+          1216,
+          1067
+        ],
+        [
+          1216,
+          1121
+        ],
+        [
+          225,
+          1121
+        ]
+      ],
+      "score": 0.8687475323677063,
+      "y_pos": 1067,
+      "text": "2. Biện chứng thí trị (điều trị theo chứng)",
+      "confidence": 0.9105473730299208
+    },
+    {
+      "type": "text",
+      "img_path": "p0366_000_text.png",
+      "bbox": [
+        [
+          220,
+          1157
+        ],
+        [
+          2360,
+          1157
+        ],
+        [
+          2360,
+          1638
+        ],
+        [
+          220,
+          1638
+        ]
+      ],
+      "score": 0.9872380495071411,
+      "y_pos": 1157,
+      "text": "Biện chứng về kinh quyết, phải căn cứ vào bệnh tà tại biểu hay tại lý, quá trình bệnh dài hay\nngắn mà chia ra làm ngoại phong hay nội phong. Ngoại phong thường thấy ở sơ kỳ của bệnh\nngoại cảm phát sốt, bệnh trình ngắn mà sức bệnh cấp, chữa thì lấy khử phong, dứt đau làm\nchủ. Nội phong thường thấy ở thời kỳ toàn phát của bệnh sốt cao do nhiệt cực sinh phong,\nhoặc ở vào thời kỳ cuối do âm thương mà đưa đến hư phong nội động, cái trước thì phải thanh\nnhiệt dẹp phong, cái sau thì phải tư âm dẹp phong (bổ dưỡng âm để lấy âm dẹp phong). Nếu\nkèm hôn mê có thể tham khảo thiên Hôn mê.",
+      "confidence": 0.9992635883823257
+    },
+    {
+      "type": "text",
+      "img_path": "p0366_013_text.png",
+      "bbox": [
+        [
+          223,
+          1675
+        ],
+        [
+          2360,
+          1675
+        ],
+        [
+          2360,
+          1800
+        ],
+        [
+          223,
+          1800
+        ]
+      ],
+      "score": 0.9229887127876282,
+      "y_pos": 1675,
+      "text": "a. Ngoại phong: Thường thấy ở thời kỳ đầu của bệnh, có phát sốt, vật vã, muốn nằm, hoặc\nnôn mửa, đột nhiên kinh quyết, rêu lưỡi mỏng mà trắng.",
+      "confidence": 0.9985696686608163
+    },
+    {
+      "type": "text",
+      "img_path": "p0366_012_text.png",
+      "bbox": [
+        [
+          224,
+          1839
+        ],
+        [
+          1612,
+          1839
+        ],
+        [
+          1612,
+          1892
+        ],
+        [
+          224,
+          1892
+        ]
+      ],
+      "score": 0.9245114326477051,
+      "y_pos": 1839,
+      "text": "Cách chữa: Khử phong đứt kinh (làm mất phong đứt co giật).",
+      "confidence": 0.9950043131907781
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0366_022_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1930
+        ],
+        [
+          619,
+          1930
+        ],
+        [
+          619,
+          1982
+        ],
+        [
+          227,
+          1982
+        ]
+      ],
+      "score": 0.671815037727356,
+      "y_pos": 1930,
+      "text": "Dùng bài thuốc:",
+      "confidence": 0.8246194159283358
+    },
+    {
+      "type": "text",
+      "img_path": "p0366_026_text.png",
+      "bbox": [
+        [
+          227,
+          2022
+        ],
+        [
+          1848,
+          2022
+        ],
+        [
+          1848,
+          2079
+        ],
+        [
+          227,
+          2079
+        ]
+      ],
+      "score": 0.5708072185516357,
+      "y_pos": 2022,
+      "text": "Phòng phong    2 đồng cân,    Cương tàm    3 đồng cân,",
+      "confidence": 0.9626706195669574
+    },
+    {
+      "type": "text",
+      "img_path": "p0366_024_text.png",
+      "bbox": [
+        [
+          231,
+          2114
+        ],
+        [
+          1847,
+          2114
+        ],
+        [
+          1847,
+          2170
+        ],
+        [
+          231,
+          2170
+        ]
+      ],
+      "score": 0.6233105063438416,
+      "y_pos": 2114,
+      "text": "Thiên ma    3 đông cân,    Câu đẳng    4 đồng cân,",
+      "confidence": 0.9761516412863365
+    },
+    {
+      "type": "text",
+      "img_path": "p0366_023_text.png",
+      "bbox": [
+        [
+          227,
+          2207
+        ],
+        [
+          1846,
+          2207
+        ],
+        [
+          1846,
+          2262
+        ],
+        [
+          227,
+          2262
+        ]
+      ],
+      "score": 0.6604426503181458,
+      "y_pos": 2207,
+      "text": "Bac hà    2 đồng cân,    Cúc hoa    2 đồng cân.",
+      "confidence": 0.9262419843680074
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0366_025_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2297
+        ],
+        [
+          467,
+          2297
+        ],
+        [
+          467,
+          2349
+        ],
+        [
+          226,
+          2349
+        ]
+      ],
+      "score": 0.5982593894004822,
+      "y_pos": 2297,
+      "text": "Gia giám:",
+      "confidence": 0.8834385059096597
+    },
+    {
+      "type": "text",
+      "img_path": "p0366_014_text.png",
+      "bbox": [
+        [
+          227,
+          2388
+        ],
+        [
+          660,
+          2388
+        ],
+        [
+          660,
+          2440
+        ],
+        [
+          227,
+          2440
+        ]
+      ],
+      "score": 0.9204521775245667,
+      "y_pos": 2388,
+      "text": "- Không có mồ hôi:",
+      "confidence": 0.9723165780305862
+    },
+    {
+      "type": "text",
+      "img_path": "p0366_007_text.png",
+      "bbox": [
+        [
+          225,
+          2481
+        ],
+        [
+          1300,
+          2481
+        ],
+        [
+          1300,
+          2534
+        ],
+        [
+          225,
+          2534
+        ]
+      ],
+      "score": 0.935581624507904,
+      "y_pos": 2481,
+      "text": "+ Ở mùa đông, xuân thì gia <i>Cát căn</i> 3 đồng cân",
+      "confidence": 0.9876898660951731
+    },
+    {
+      "type": "text",
+      "img_path": "p0366_006_text.png",
+      "bbox": [
+        [
+          226,
+          2571
+        ],
+        [
+          1337,
+          2571
+        ],
+        [
+          1337,
+          2625
+        ],
+        [
+          226,
+          2625
+        ]
+      ],
+      "score": 0.9405770897865295,
+      "y_pos": 2571,
+      "text": "+ Ở mùa hạ, thu thì gia Hương nhu 1,5 đồng cân.",
+      "confidence": 0.9908377260577922
+    },
+    {
+      "type": "text",
+      "img_path": "p0366_004_text.png",
+      "bbox": [
+        [
+          226,
+          2665
+        ],
+        [
+          1433,
+          2665
+        ],
+        [
+          1433,
+          2717
+        ],
+        [
+          226,
+          2717
+        ]
+      ],
+      "score": 0.9446538090705872,
+      "y_pos": 2665,
+      "text": "- Nôn mửa: Gia <i>Ngọc khu đan</i> từ 5 ly đến 1 phân 5 ly.",
+      "confidence": 0.9757861952696528
+    },
+    {
+      "type": "text",
+      "img_path": "p0366_009_text.png",
+      "bbox": [
+        [
+          224,
+          2753
+        ],
+        [
+          2308,
+          2753
+        ],
+        [
+          2308,
+          2812
+        ],
+        [
+          224,
+          2812
+        ]
+      ],
+      "score": 0.931538462638855,
+      "y_pos": 2753,
+      "text": "- Rêu lưỡi dầy nhầy, gia: <i>Hoắc hương</i> 2 đồng cân, <i>Bội lan</i> 3 đồng cân, <i>Xương b</i>ồ 1 đồng cân,",
+      "confidence": 0.9986999256094706
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0366_021_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          2849
+        ],
+        [
+          550,
+          2849
+        ],
+        [
+          550,
+          2902
+        ],
+        [
+          228,
+          2902
+        ]
+      ],
+      "score": 0.7241957187652588,
+      "y_pos": 2849,
+      "text": "b. Nội phong",
+      "confidence": 0.9164118937083653
+    },
+    {
+      "type": "text",
+      "img_path": "p0366_003_text.png",
+      "bbox": [
+        [
+          221,
+          2938
+        ],
+        [
+          2359,
+          2938
+        ],
+        [
+          2359,
+          3064
+        ],
+        [
+          221,
+          3064
+        ]
+      ],
+      "score": 0.9667711853981018,
+      "y_pos": 2938,
+      "text": "- Nhiệt cực sinh phong. Thường thấy ở thời kỳ giữa của bệnh. Sốt cao có hoặc không có mồ\nhôi, ý thức lợ mợ, kinh quyết, rêu lưỡi vàng, chất lưỡi đỏ hoặc khô.",
+      "confidence": 0.9987857656346426
+    },
+    {
+      "type": "text",
+      "img_path": "p0366_016_text.png",
+      "bbox": [
+        [
+          226,
+          3103
+        ],
+        [
+          1056,
+          3103
+        ],
+        [
+          1056,
+          3155
+        ],
+        [
+          226,
+          3155
+        ]
+      ],
+      "score": 0.9093199372291565,
+      "y_pos": 3103,
+      "text": "Cách chữa: Thanh nhiệt dẹp phong.",
+      "confidence": 0.7366896442004612
+    },
+    {
+      "type": "number",
+      "img_path": "p0366_018_number.png",
+      "bbox": [
+        [
+          2308,
+          3334
+        ],
+        [
+          2358,
+          3334
+        ],
+        [
+          2358,
+          3373
+        ],
+        [
+          2308,
+          3373
+        ]
+      ],
+      "score": 0.8701801300048828,
+      "y_pos": 3334,
+      "text": "    \n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0366_017_footer.png",
+      "bbox": [
+        [
+          228,
+          3335
+        ],
+        [
+          1343,
+          3335
+        ],
+        [
+          1343,
+          3383
+        ],
+        [
+          228,
+          3383
+        ]
+      ],
+      "score": 0.9077489376068115,
+      "y_pos": 3335,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9415562085385593
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0366.png"
+}

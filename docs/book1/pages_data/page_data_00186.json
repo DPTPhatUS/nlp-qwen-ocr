@@ -1,0 +1,578 @@
+{
+  "page_num": 186,
+  "content": [
+    {
+      "type": "paragraph_title",
+      "img_path": "p0186_014_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          450
+        ],
+        [
+          744,
+          450
+        ],
+        [
+          744,
+          501
+        ],
+        [
+          344,
+          501
+        ]
+      ],
+      "score": 0.9208534955978394,
+      "y_pos": 450,
+      "text": "2.2.2. Bênh sinh",
+      "confidence": 0.9486799256669151
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_001_text.png",
+      "bbox": [
+        [
+          342,
+          546
+        ],
+        [
+          2121,
+          546
+        ],
+        [
+          2121,
+          656
+        ],
+        [
+          342,
+          656
+        ]
+      ],
+      "score": 0.9653806686401367,
+      "y_pos": 546,
+      "text": "Do bệnh lý hư ở Can âm, ở chức năng của Can huyết mà bệnh cảnh lâm\nsàng có những đặc điểm",
+      "confidence": 0.9979325770309159
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_008_text.png",
+      "bbox": [
+        [
+          406,
+          688
+        ],
+        [
+          1551,
+          688
+        ],
+        [
+          1551,
+          738
+        ],
+        [
+          406,
+          738
+        ]
+      ],
+      "score": 0.9289796352386475,
+      "y_pos": 688,
+      "text": "- Huyết hư: chóng mặt, sắc nhợt, kinh ít, vô kinh.",
+      "confidence": 0.9847622599739295
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_013_text.png",
+      "bbox": [
+        [
+          406,
+          773
+        ],
+        [
+          1883,
+          773
+        ],
+        [
+          1883,
+          823
+        ],
+        [
+          406,
+          823
+        ]
+      ],
+      "score": 0.92326420545578,
+      "y_pos": 773,
+      "text": "- Rối loan ở Can phân: mắt khô, nhìn kém, rối loạn kinh nguyệt.",
+      "confidence": 0.5986558070549598
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_009_text.png",
+      "bbox": [
+        [
+          406,
+          854
+        ],
+        [
+          2091,
+          854
+        ],
+        [
+          2091,
+          909
+        ],
+        [
+          406,
+          909
+        ]
+      ],
+      "score": 0.9274103045463562,
+      "y_pos": 854,
+      "text": "- Dễ gây biến chứng Can huyết hư sinh phong (xem phần Can phong nội động).",
+      "confidence": 0.396149447874019
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0186_005_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          965
+        ],
+        [
+          1049,
+          965
+        ],
+        [
+          1049,
+          1015
+        ],
+        [
+          343,
+          1015
+        ]
+      ],
+      "score": 0.9332214593887329,
+      "y_pos": 965,
+      "text": "2.2.3. Triệu chứng lâm sàng",
+      "confidence": 0.9785485226532509
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_003_text.png",
+      "bbox": [
+        [
+          406,
+          1061
+        ],
+        [
+          2123,
+          1061
+        ],
+        [
+          2123,
+          1171
+        ],
+        [
+          406,
+          1171
+        ]
+      ],
+      "score": 0.9617651700973511,
+      "y_pos": 1061,
+      "text": "- Người mệt mỏi, hoa mắt, chóng mặt, ù tai, mắt khô, nhìn kém. Sắc mặt\nnhơt, niêm nhat, lưỡi bêu nhat.",
+      "confidence": 0.9939164757502801
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_010_text.png",
+      "bbox": [
+        [
+          407,
+          1205
+        ],
+        [
+          1269,
+          1205
+        ],
+        [
+          1269,
+          1254
+        ],
+        [
+          407,
+          1254
+        ]
+      ],
+      "score": 0.9263193607330322,
+      "y_pos": 1205,
+      "text": "- Ngủ kém, phiền nhiệt. Mạch tế sác.",
+      "confidence": 0.6594310434241044
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_007_text.png",
+      "bbox": [
+        [
+          409,
+          1290
+        ],
+        [
+          1083,
+          1290
+        ],
+        [
+          1083,
+          1335
+        ],
+        [
+          409,
+          1335
+        ]
+      ],
+      "score": 0.9295994639396667,
+      "y_pos": 1290,
+      "text": "Kinh lương ít hoặc vô kinh.",
+      "confidence": 0.9891434085780176
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0186_004_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1396
+        ],
+        [
+          1208,
+          1396
+        ],
+        [
+          1208,
+          1446
+        ],
+        [
+          344,
+          1446
+        ]
+      ],
+      "score": 0.934802770614624,
+      "y_pos": 1396,
+      "text": "2.2.4. Bệnh cảnh Tây y thường gặp",
+      "confidence": 0.9831961955342974
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_017_text.png",
+      "bbox": [
+        [
+          408,
+          1493
+        ],
+        [
+          860,
+          1493
+        ],
+        [
+          860,
+          1541
+        ],
+        [
+          408,
+          1541
+        ]
+      ],
+      "score": 0.9115637540817261,
+      "y_pos": 1493,
+      "text": "Suy nhược cơ thể",
+      "confidence": 0.9933681554264493
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_015_text.png",
+      "bbox": [
+        [
+          409,
+          1577
+        ],
+        [
+          1583,
+          1577
+        ],
+        [
+          1583,
+          1628
+        ],
+        [
+          409,
+          1628
+        ]
+      ],
+      "score": 0.9194619655609131,
+      "y_pos": 1577,
+      "text": "- Suy nhược thần kinh, rối loạn thần kinh thực vật",
+      "confidence": 0.989790562253732
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_018_text.png",
+      "bbox": [
+        [
+          408,
+          1660
+        ],
+        [
+          728,
+          1660
+        ],
+        [
+          728,
+          1706
+        ],
+        [
+          408,
+          1706
+        ]
+      ],
+      "score": 0.9103264212608337,
+      "y_pos": 1660,
+      "text": "ľhiếu máu.",
+      "confidence": 0.549021581808726
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0186_012_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          1769
+        ],
+        [
+          709,
+          1769
+        ],
+        [
+          709,
+          1816
+        ],
+        [
+          345,
+          1816
+        ]
+      ],
+      "score": 0.9242506623268127,
+      "y_pos": 1769,
+      "text": "2.2.5. Pháp tri",
+      "confidence": 0.9514260923161226
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_019_text.png",
+      "bbox": [
+        [
+          408,
+          1866
+        ],
+        [
+          828,
+          1866
+        ],
+        [
+          828,
+          1913
+        ],
+        [
+          408,
+          1913
+        ]
+      ],
+      "score": 0.9095677733421326,
+      "y_pos": 1866,
+      "text": "Tư âm bổ huyết",
+      "confidence": 0.9843318536877632
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_011_text.png",
+      "bbox": [
+        [
+          410,
+          1947
+        ],
+        [
+          906,
+          1947
+        ],
+        [
+          906,
+          1997
+        ],
+        [
+          410,
+          1997
+        ]
+      ],
+      "score": 0.9243514537811279,
+      "y_pos": 1947,
+      "text": "Bổ huyết điều kinh",
+      "confidence": 0.9683016330003739
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_002_text.png",
+      "bbox": [
+        [
+          345,
+          2031
+        ],
+        [
+          2123,
+          2031
+        ],
+        [
+          2123,
+          2142
+        ],
+        [
+          345,
+          2142
+        ]
+      ],
+      "score": 0.9652392864227295,
+      "y_pos": 2031,
+      "text": "Những bài thuốc được chỉ định gồm Lương địa thang, Đào hồng tứ vật\nthang",
+      "confidence": 0.9891337835613419
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_006_text.png",
+      "bbox": [
+        [
+          465,
+          2171
+        ],
+        [
+          1204,
+          2171
+        ],
+        [
+          1204,
+          2222
+        ],
+        [
+          465,
+          2222
+        ]
+      ],
+      "score": 0.9301880598068237,
+      "y_pos": 2171,
+      "text": "* Phân tích bài Lương địa thang",
+      "confidence": 0.953649797222831
+    },
+    {
+      "type": "text",
+      "img_path": "p0186_020_text.png",
+      "bbox": [
+        [
+          408,
+          2255
+        ],
+        [
+          1317,
+          2255
+        ],
+        [
+          1317,
+          2306
+        ],
+        [
+          408,
+          2306
+        ]
+      ],
+      "score": 0.886081337928772,
+      "y_pos": 2255,
+      "text": "_    - Phân tích bài thuốc: (pháp bổ -thanh)",
+      "confidence": 0.8516484909668202
+    },
+    {
+      "type": "table",
+      "img_path": "p0186_000_table.png",
+      "bbox": [
+        [
+          350,
+          2391
+        ],
+        [
+          2125,
+          2391
+        ],
+        [
+          2125,
+          2972
+        ],
+        [
+          350,
+          2972
+        ]
+      ],
+      "score": 0.9886343479156494,
+      "y_pos": 2391,
+      "text": "Vi thuốc    Dược lý Đông y\nA giao    Ngot, bình. Tư âm, dưỡng huyết. Bổ Phế, nhuận táo\nBach thược    Đắng, chát, chua. Nhuân gan, dưỡng Phế.\nĐia cốt bì    Ngot hàn. Lương huyết, tả hỏa\nSinh đia    Ngot, đắng, hàn. Sinh tân dịch, lương huyết.\nHuyền sâm    Đắng, măn, hơi hàn. Tư âm, giáng hỏa, trừ phiền, nhuân táo\nMạch môn    Ngọt, đẳng, mát. Nhuận Phế, sinh tân",
+      "confidence": 0.9040920912306413
+    },
+    {
+      "type": "number",
+      "img_path": "p0186_021_number.png",
+      "bbox": [
+        [
+          2043,
+          3111
+        ],
+        [
+          2120,
+          3111
+        ],
+        [
+          2120,
+          3147
+        ],
+        [
+          2043,
+          3147
+        ]
+      ],
+      "score": 0.8752073049545288,
+      "y_pos": 3111,
+      "text": "        \n    \n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0186_016_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1072,
+          3311
+        ],
+        [
+          1072,
+          3365
+        ],
+        [
+          293,
+          3365
+        ]
+      ],
+      "score": 0.9178777933120728,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.879438819204058
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0186.png"
+}

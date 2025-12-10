@@ -1,0 +1,394 @@
+{
+  "page_num": 78,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0078_004_header.png",
+      "bbox": [
+        [
+          1614,
+          142
+        ],
+        [
+          2376,
+          142
+        ],
+        [
+          2376,
+          201
+        ],
+        [
+          1614,
+          201
+        ]
+      ],
+      "score": 0.913708508014679,
+      "y_pos": 142,
+      "text": "~?\nCAM NANG CHAN TRI ĐONG Y",
+      "confidence": 0.8083260280963702
+    },
+    {
+      "type": "header",
+      "img_path": "p0078_007_header.png",
+      "bbox": [
+        [
+          236,
+          160
+        ],
+        [
+          448,
+          160
+        ],
+        [
+          448,
+          202
+        ],
+        [
+          236,
+          202
+        ]
+      ],
+      "score": 0.8820584416389465,
+      "y_pos": 160,
+      "text": "KINH LAC",
+      "confidence": 0.8937994182109833
+    },
+    {
+      "type": "text",
+      "img_path": "p0078_009_text.png",
+      "bbox": [
+        [
+          756,
+          289
+        ],
+        [
+          1840,
+          289
+        ],
+        [
+          1840,
+          341
+        ],
+        [
+          756,
+          341
+        ]
+      ],
+      "score": 0.6689130067825317,
+      "y_pos": 289,
+      "text": "Hình 8. Đường tuần hành của kinh Thủ thái âm phế",
+      "confidence": 0.9659940862655639
+    },
+    {
+      "type": "image",
+      "img_path": "p0078_002_image.png",
+      "bbox": [
+        [
+          735,
+          372
+        ],
+        [
+          1870,
+          372
+        ],
+        [
+          1870,
+          1695
+        ],
+        [
+          735,
+          1695
+        ]
+      ],
+      "score": 0.97390216588974,
+      "y_pos": 372
+    },
+    {
+      "type": "text",
+      "img_path": "p0078_010_text.png",
+      "bbox": [
+        [
+          298,
+          1796
+        ],
+        [
+          895,
+          1796
+        ],
+        [
+          895,
+          1850
+        ],
+        [
+          298,
+          1850
+        ]
+      ],
+      "score": 0.6135031580924988,
+      "y_pos": 1796,
+      "text": "Đường có huyệt thông lạc",
+      "confidence": 0.9920497926381918
+    },
+    {
+      "type": "text",
+      "img_path": "p0078_012_text.png",
+      "bbox": [
+        [
+          298,
+          1878
+        ],
+        [
+          1328,
+          1878
+        ],
+        [
+          1328,
+          1935
+        ],
+        [
+          298,
+          1935
+        ]
+      ],
+      "score": 0.5542723536491394,
+      "y_pos": 1878,
+      "text": "Đường không có huyệt thông lạc    ______",
+      "confidence": 0.8105282868657793
+    },
+    {
+      "type": "text",
+      "img_path": "p0078_013_text.png",
+      "bbox": [
+        [
+          299,
+          1965
+        ],
+        [
+          649,
+          1965
+        ],
+        [
+          649,
+          2016
+        ],
+        [
+          299,
+          2016
+        ]
+      ],
+      "score": 0.5510628819465637,
+      "y_pos": 1965,
+      "text": "Huyệt trên kinh",
+      "confidence": 0.9163603221668917
+    },
+    {
+      "type": "text",
+      "img_path": "p0078_014_text.png",
+      "bbox": [
+        [
+          299,
+          2052
+        ],
+        [
+          631,
+          2052
+        ],
+        [
+          631,
+          2105
+        ],
+        [
+          299,
+          2105
+        ]
+      ],
+      "score": 0.5144327878952026,
+      "y_pos": 2052,
+      "text": "Huyệt giao hội",
+      "confidence": 0.9499237462878227
+    },
+    {
+      "type": "text",
+      "img_path": "p0078_006_text.png",
+      "bbox": [
+        [
+          296,
+          2135
+        ],
+        [
+          1362,
+          2135
+        ],
+        [
+          1362,
+          2189
+        ],
+        [
+          296,
+          2189
+        ]
+      ],
+      "score": 0.8921536207199097,
+      "y_pos": 2135,
+      "text": "Số ghi trên đường kinh là số các đoạn mạch đi.",
+      "confidence": 0.9951766033967336
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0078_011_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          2228
+        ],
+        [
+          1269,
+          2228
+        ],
+        [
+          1269,
+          2280
+        ],
+        [
+          284,
+          2280
+        ]
+      ],
+      "score": 0.5839509963989258,
+      "y_pos": 2228,
+      "text": "2. Thủ dương minh đại trường kinh (H.9)",
+      "confidence": 0.9977212083048936
+    },
+    {
+      "type": "text",
+      "img_path": "p0078_000_text.png",
+      "bbox": [
+        [
+          286,
+          2313
+        ],
+        [
+          2360,
+          2313
+        ],
+        [
+          2360,
+          2638
+        ],
+        [
+          286,
+          2638
+        ]
+      ],
+      "score": 0.9822861552238464,
+      "y_pos": 2313,
+      "text": "a. Cấu trúc: Gồm có 20 huyệt, hai bên là 40 huyệt. Kinh mạch tuần hành bắt đầu từ (huyệt\nThương dương) ở cạnh trong đàu ngón tay trỏ, đi theo cạnh ngón vào khe xương bàn 1-2\n(Hợp cốc) rồi đi lên qua cạnh trước cẳng tay, qua cạnh ngoài khuỷu tay, cạnh ngoài cánh\ntay trên, đến mỏm quạ, đi lên phía sau vai giao hội vào huyệt Đại chùy ở đốc mạch, lại\ngặp ngược lại hướng về phía lõm ức xuống phổi, rồi xuyên qua cơ hoành, tới đại trường.",
+      "confidence": 0.9858827304880039
+    },
+    {
+      "type": "text",
+      "img_path": "p0078_001_text.png",
+      "bbox": [
+        [
+          284,
+          2670
+        ],
+        [
+          2361,
+          2670
+        ],
+        [
+          2361,
+          2990
+        ],
+        [
+          284,
+          2990
+        ]
+      ],
+      "score": 0.9782363772392273,
+      "y_pos": 2670,
+      "text": "Mạch nhánh, từ lõm ức lên đến cạnh cổ (sau kinh vị) thông qua mặt sau (sau Đại nghinh)\ntiến vào trong hàm dưới, lại chuyển ngược ra ngoài lên rãnh môi trên, thông qua huyệt Địa\nthương ở kinh vị, hai bên giao hội lại ở huyệt Nhân trung (chính giữa rãnh Nhân trung),\nkinh mạch bên trái đi về phía bên phải, kinh mạch bên phải đi về phía bên trái, riêng rẽ đi\nlên đến cạnh cánh mũi (là huyệt Nginh hương) thì dứt.",
+      "confidence": 0.9963717084075888
+    },
+    {
+      "type": "text",
+      "img_path": "p0078_003_text.png",
+      "bbox": [
+        [
+          285,
+          3022
+        ],
+        [
+          2357,
+          3022
+        ],
+        [
+          2357,
+          3144
+        ],
+        [
+          285,
+          3144
+        ]
+      ],
+      "score": 0.937534749507904,
+      "y_pos": 3022,
+      "text": "b. Quan hệ tạng phủ: Bản kinh từ tay lên đến đầu, thuộc đại trường, đường lạc sang phế,\nlại có quan hệ trực tiếp với vị.",
+      "confidence": 0.9974300634049456
+    },
+    {
+      "type": "footer",
+      "img_path": "p0078_005_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9023582935333252,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985454925950968
+    },
+    {
+      "type": "number",
+      "img_path": "p0078_008_number.png",
+      "bbox": [
+        [
+          2332,
+          3339
+        ],
+        [
+          2357,
+          3339
+        ],
+        [
+          2357,
+          3374
+        ],
+        [
+          2332,
+          3374
+        ]
+      ],
+      "score": 0.8201939463615417,
+      "y_pos": 3339,
+      "text": "\n\n    \n\n\n\n\n\n\n            \n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0078.png"
+}

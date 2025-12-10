@@ -1,0 +1,708 @@
+{
+  "page_num": 20,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0020_007_text.png",
+      "bbox": [
+        [
+          467,
+          450
+        ],
+        [
+          1605,
+          450
+        ],
+        [
+          1605,
+          504
+        ],
+        [
+          467,
+          504
+        ]
+      ],
+      "score": 0.6601056456565857,
+      "y_pos": 450,
+      "text": "7. Nguyên nhân gây bệnh của Táo khí thương Phế",
+      "confidence": 0.9996268004179001
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_018_text.png",
+      "bbox": [
+        [
+          514,
+          533
+        ],
+        [
+          862,
+          533
+        ],
+        [
+          862,
+          589
+        ],
+        [
+          514,
+          589
+        ]
+      ],
+      "score": 0.5222046375274658,
+      "y_pos": 533,
+      "text": "A. Ngoại nhiệt",
+      "confidence": 0.9752105474472046
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_025_text.png",
+      "bbox": [
+        [
+          516,
+          616
+        ],
+        [
+          813,
+          616
+        ],
+        [
+          813,
+          670
+        ],
+        [
+          516,
+          670
+        ]
+      ],
+      "score": 0.5019064545631409,
+      "y_pos": 616,
+      "text": "В.    Ngoại táo",
+      "confidence": 0.9144434847614982
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_023_text.png",
+      "bbox": [
+        [
+          516,
+          699
+        ],
+        [
+          760,
+          699
+        ],
+        [
+          760,
+          751
+        ],
+        [
+          516,
+          751
+        ]
+      ],
+      "score": 0.5105556845664978,
+      "y_pos": 699,
+      "text": "C.    Nôi táo",
+      "confidence": 0.9110829937789175
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_013_text.png",
+      "bbox": [
+        [
+          516,
+          783
+        ],
+        [
+          810,
+          783
+        ],
+        [
+          810,
+          836
+        ],
+        [
+          516,
+          836
+        ]
+      ],
+      "score": 0.5492745637893677,
+      "y_pos": 783,
+      "text": "D.    Nôi nhiệt",
+      "confidence": 0.9039743786508387
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_014_text.png",
+      "bbox": [
+        [
+          516,
+          863
+        ],
+        [
+          1151,
+          863
+        ],
+        [
+          1151,
+          918
+        ],
+        [
+          516,
+          918
+        ]
+      ],
+      "score": 0.5407145023345947,
+      "y_pos": 863,
+      "text": "E. Ngoại táo và ngoại nhiệt",
+      "confidence": 0.9644537979158861
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_010_text.png",
+      "bbox": [
+        [
+          465,
+          946
+        ],
+        [
+          1761,
+          946
+        ],
+        [
+          1761,
+          1001
+        ],
+        [
+          465,
+          1001
+        ]
+      ],
+      "score": 0.6025537252426147,
+      "y_pos": 946,
+      "text": "8. Vị trí bệnh (nơi tổn thương) của Thấp nhiệt Đại trường",
+      "confidence": 0.9996885131981413
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_017_text.png",
+      "bbox": [
+        [
+          514,
+          1029
+        ],
+        [
+          1109,
+          1029
+        ],
+        [
+          1109,
+          1084
+        ],
+        [
+          514,
+          1084
+        ]
+      ],
+      "score": 0.5308682322502136,
+      "y_pos": 1029,
+      "text": "A. Kinh chính Đại trường",
+      "confidence": 0.9913143584361443
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_019_text.png",
+      "bbox": [
+        [
+          516,
+          1112
+        ],
+        [
+          1074,
+          1112
+        ],
+        [
+          1074,
+          1167
+        ],
+        [
+          516,
+          1167
+        ]
+      ],
+      "score": 0.519956111907959,
+      "y_pos": 1112,
+      "text": "B. Kinh Cân Đại trường",
+      "confidence": 0.960339717566967
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_020_text.png",
+      "bbox": [
+        [
+          516,
+          1195
+        ],
+        [
+          1068,
+          1195
+        ],
+        [
+          1068,
+          1250
+        ],
+        [
+          516,
+          1250
+        ]
+      ],
+      "score": 0.5185273289680481,
+      "y_pos": 1195,
+      "text": "C. Kinh biệt Đại trường",
+      "confidence": 0.969139244556427
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_016_text.png",
+      "bbox": [
+        [
+          516,
+          1276
+        ],
+        [
+          950,
+          1276
+        ],
+        [
+          950,
+          1331
+        ],
+        [
+          516,
+          1331
+        ]
+      ],
+      "score": 0.5348331928253174,
+      "y_pos": 1276,
+      "text": "D. Phủ Đại trường",
+      "confidence": 0.9613577472536188
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_012_text.png",
+      "bbox": [
+        [
+          518,
+          1360
+        ],
+        [
+          1030,
+          1360
+        ],
+        [
+          1030,
+          1414
+        ],
+        [
+          518,
+          1414
+        ]
+      ],
+      "score": 0.5619998574256897,
+      "y_pos": 1360,
+      "text": "E. Biệt lạc Đại trường",
+      "confidence": 0.9476692155003548
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_011_text.png",
+      "bbox": [
+        [
+          465,
+          1442
+        ],
+        [
+          1743,
+          1442
+        ],
+        [
+          1743,
+          1497
+        ],
+        [
+          465,
+          1497
+        ]
+      ],
+      "score": 0.5947878956794739,
+      "y_pos": 1442,
+      "text": "9. Vị trí bệnh (nơi tổn thương) của Phong hàn phạm Phế",
+      "confidence": 0.9996810480952263
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_015_text.png",
+      "bbox": [
+        [
+          515,
+          1525
+        ],
+        [
+          954,
+          1525
+        ],
+        [
+          954,
+          1575
+        ],
+        [
+          515,
+          1575
+        ]
+      ],
+      "score": 0.5360604524612427,
+      "y_pos": 1525,
+      "text": "A. Kinh chính Phế",
+      "confidence": 0.9593837982729861
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_026_text.png",
+      "bbox": [
+        [
+          516,
+          1607
+        ],
+        [
+          919,
+          1607
+        ],
+        [
+          919,
+          1657
+        ],
+        [
+          516,
+          1657
+        ]
+      ],
+      "score": 0.5013173818588257,
+      "y_pos": 1607,
+      "text": "B. Kinh Cân Phế",
+      "confidence": 0.9273991479593164
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_024_text.png",
+      "bbox": [
+        [
+          516,
+          1688
+        ],
+        [
+          919,
+          1688
+        ],
+        [
+          919,
+          1742
+        ],
+        [
+          516,
+          1742
+        ]
+      ],
+      "score": 0.5081590414047241,
+      "y_pos": 1688,
+      "text": "C. Kinh Biêt Phế",
+      "confidence": 0.9624695479869843
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_022_text.png",
+      "bbox": [
+        [
+          516,
+          1772
+        ],
+        [
+          816,
+          1772
+        ],
+        [
+          816,
+          1827
+        ],
+        [
+          516,
+          1827
+        ]
+      ],
+      "score": 0.5113194584846497,
+      "y_pos": 1772,
+      "text": "Tang Phế",
+      "confidence": 0.9858767747879028
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_021_text.png",
+      "bbox": [
+        [
+          518,
+          1856
+        ],
+        [
+          835,
+          1856
+        ],
+        [
+          835,
+          1910
+        ],
+        [
+          518,
+          1910
+        ]
+      ],
+      "score": 0.5132519006729126,
+      "y_pos": 1856,
+      "text": "Dinh phân",
+      "confidence": 0.9707144553011114
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_009_text.png",
+      "bbox": [
+        [
+          470,
+          1946
+        ],
+        [
+          1746,
+          1946
+        ],
+        [
+          1746,
+          2001
+        ],
+        [
+          470,
+          2001
+        ]
+      ],
+      "score": 0.609230637550354,
+      "y_pos": 1946,
+      "text": "10. Bệnh danh nào KHÔNG thuộc nhóm bệnh ngoại cảm",
+      "confidence": 0.9992633613885618
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_008_text.png",
+      "bbox": [
+        [
+          512,
+          2028
+        ],
+        [
+          1124,
+          2028
+        ],
+        [
+          1124,
+          2418
+        ],
+        [
+          512,
+          2418
+        ]
+      ],
+      "score": 0.6502912640571594,
+      "y_pos": 2028,
+      "text": "A. Bàng quang hư hàn\nB. Can Đởm thấp nhiệt\nC. Vi nhiệt ủng thinh\nD. Nhiệt nhập huyết phận\nE. Quyết âm chứng",
+      "confidence": 0.9694051919212031
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0020_001_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          2471
+        ],
+        [
+          1034,
+          2471
+        ],
+        [
+          1034,
+          2527
+        ],
+        [
+          345,
+          2527
+        ]
+      ],
+      "score": 0.8870816826820374,
+      "y_pos": 2471,
+      "text": "B. CAU HOI TRA LOI NGAN",
+      "confidence": 0.8203584790229798
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_006_text.png",
+      "bbox": [
+        [
+          464,
+          2577
+        ],
+        [
+          1731,
+          2577
+        ],
+        [
+          1731,
+          2630
+        ],
+        [
+          464,
+          2630
+        ]
+      ],
+      "score": 0.7530257701873779,
+      "y_pos": 2577,
+      "text": "1.    Có bao nhiêu cách phân loại bệnh chứng ngoại cảm?",
+      "confidence": 0.968811714181713
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_004_text.png",
+      "bbox": [
+        [
+          462,
+          2658
+        ],
+        [
+          2123,
+          2658
+        ],
+        [
+          2123,
+          2771
+        ],
+        [
+          462,
+          2771
+        ]
+      ],
+      "score": 0.817481279373169,
+      "y_pos": 2658,
+      "text": "2. Đặc điểm chính để phân biệt nhóm bệnh chứng ngoại cảm lục dâm\nvới ngoại cảm thương hàn và ngoại cảm ôn bệnh?",
+      "confidence": 0.9994656961185462
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_003_text.png",
+      "bbox": [
+        [
+          463,
+          2800
+        ],
+        [
+          2125,
+          2800
+        ],
+        [
+          2125,
+          2910
+        ],
+        [
+          463,
+          2910
+        ]
+      ],
+      "score": 0.8206408619880676,
+      "y_pos": 2800,
+      "text": "3. Đặc điểm chính để phân biệt nhóm ngoại cảm thương hàn và ngoại\ncảm ôn bênh?",
+      "confidence": 0.9951995526359025
+    },
+    {
+      "type": "text",
+      "img_path": "p0020_005_text.png",
+      "bbox": [
+        [
+          462,
+          2939
+        ],
+        [
+          2096,
+          2939
+        ],
+        [
+          2096,
+          2993
+        ],
+        [
+          462,
+          2993
+        ]
+      ],
+      "score": 0.7721503973007202,
+      "y_pos": 2939,
+      "text": "4. Đặc điểm chính để phân biệt nhóm bệnh dịch lệ và ngoại cảm ôn bệnh?",
+      "confidence": 0.9923445930083593
+    },
+    {
+      "type": "number",
+      "img_path": "p0020_002_number.png",
+      "bbox": [
+        [
+          2072,
+          3111
+        ],
+        [
+          2122,
+          3111
+        ],
+        [
+          2122,
+          3147
+        ],
+        [
+          2072,
+          3147
+        ]
+      ],
+      "score": 0.8466904759407043,
+      "y_pos": 3111,
+      "text": "\n    \n        \n    \n\n\n\n\n\n\n    \n    ",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0020_000_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3367
+        ],
+        [
+          294,
+          3367
+        ]
+      ],
+      "score": 0.9138965606689453,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8857164978981018
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0020.png"
+}

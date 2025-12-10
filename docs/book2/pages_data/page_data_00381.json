@@ -1,0 +1,630 @@
+{
+  "page_num": 381,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0381_008_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1678,
+          196
+        ]
+      ],
+      "score": 0.9313879609107971,
+      "y_pos": 142,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7456070706248283
+    },
+    {
+      "type": "header",
+      "img_path": "p0381_012_header.png",
+      "bbox": [
+        [
+          229,
+          146
+        ],
+        [
+          1095,
+          146
+        ],
+        [
+          1095,
+          197
+        ],
+        [
+          229,
+          197
+        ]
+      ],
+      "score": 0.9132855534553528,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SÀNG",
+      "confidence": 0.9886094519070217
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0381_017_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          307
+        ],
+        [
+          532,
+          307
+        ],
+        [
+          532,
+          359
+        ],
+        [
+          226,
+          359
+        ]
+      ],
+      "score": 0.8983268141746521,
+      "y_pos": 307,
+      "text": "Huyệt dự bị:",
+      "confidence": 0.8572942316532135
+    },
+    {
+      "type": "text",
+      "img_path": "p0381_019_text.png",
+      "bbox": [
+        [
+          222,
+          396
+        ],
+        [
+          2246,
+          396
+        ],
+        [
+          2246,
+          453
+        ],
+        [
+          222,
+          453
+        ]
+      ],
+      "score": 0.8901873230934143,
+      "y_pos": 396,
+      "text": "Nhóm huyệt dự bị I: Âm lăng tuyền thấu Dương lăng tuyền, Túc tam lý,Giải khê, Côn luân.",
+      "confidence": 0.9996124773882749
+    },
+    {
+      "type": "text",
+      "img_path": "p0381_018_text.png",
+      "bbox": [
+        [
+          223,
+          489
+        ],
+        [
+          1669,
+          489
+        ],
+        [
+          1669,
+          543
+        ],
+        [
+          223,
+          543
+        ]
+      ],
+      "score": 0.8975027203559875,
+      "y_pos": 489,
+      "text": "Nhóm huyệt dự bị II: Trung quản, Thiên khu, Khí hải, Túc tạm lý.",
+      "confidence": 0.999351520429958
+    },
+    {
+      "type": "text",
+      "img_path": "p0381_006_text.png",
+      "bbox": [
+        [
+          223,
+          580
+        ],
+        [
+          2364,
+          580
+        ],
+        [
+          2364,
+          705
+        ],
+        [
+          223,
+          705
+        ]
+      ],
+      "score": 0.9644445180892944,
+      "y_pos": 580,
+      "text": "Nhóm huyệt dự bị III: Thái xung, Âm lăng tuyền thấu Dương lăng tuyền, Thuỷ phân, Trung cực\nthấu Khúc cốt, Thuỷ tuyền, Phi dương.",
+      "confidence": 0.9996553114226032
+    },
+    {
+      "type": "text",
+      "img_path": "p0381_015_text.png",
+      "bbox": [
+        [
+          224,
+          742
+        ],
+        [
+          1361,
+          742
+        ],
+        [
+          1361,
+          797
+        ],
+        [
+          224,
+          797
+        ]
+      ],
+      "score": 0.9053289890289307,
+      "y_pos": 742,
+      "text": "Nhóm huyệt dự bị IV: Phế du, Thiếu phủ, Hợp cốc.",
+      "confidence": 0.9974431192874909
+    },
+    {
+      "type": "text",
+      "img_path": "p0381_007_text.png",
+      "bbox": [
+        [
+          222,
+          835
+        ],
+        [
+          2359,
+          835
+        ],
+        [
+          2359,
+          958
+        ],
+        [
+          222,
+          958
+        ]
+      ],
+      "score": 0.9623385667800903,
+      "y_pos": 835,
+      "text": "Huyệt phối hợp: Lấy các nhóm huyệt trên làm huyệt thường dùng, rồi linh hoạt ứng dụng chọn\nnhững nhóm huyệt dưới như sau:",
+      "confidence": 0.9895568362882603
+    },
+    {
+      "type": "text",
+      "img_path": "p0381_010_text.png",
+      "bbox": [
+        [
+          226,
+          998
+        ],
+        [
+          1276,
+          998
+        ],
+        [
+          1276,
+          1051
+        ],
+        [
+          226,
+          1051
+        ]
+      ],
+      "score": 0.9196032285690308,
+      "y_pos": 998,
+      "text": "- Chữa tim đập quá chậm: Nội quan, Thông lý.",
+      "confidence": 0.9007229299648948
+    },
+    {
+      "type": "text",
+      "img_path": "p0381_011_text.png",
+      "bbox": [
+        [
+          228,
+          1090
+        ],
+        [
+          1649,
+          1090
+        ],
+        [
+          1649,
+          1143
+        ],
+        [
+          228,
+          1143
+        ]
+      ],
+      "score": 0.9138567447662354,
+      "y_pos": 1090,
+      "text": "- Tim đập quá nhanh: Nội quan, Gian sử và Nhĩ châm vùng tim.",
+      "confidence": 0.9988259327027106
+    },
+    {
+      "type": "text",
+      "img_path": "p0381_009_text.png",
+      "bbox": [
+        [
+          228,
+          1183
+        ],
+        [
+          1197,
+          1183
+        ],
+        [
+          1197,
+          1234
+        ],
+        [
+          228,
+          1234
+        ]
+      ],
+      "score": 0.9245726466178894,
+      "y_pos": 1183,
+      "text": "- Bung trướng: Trung cực, Quy lai, Khí hải.",
+      "confidence": 0.9962529963917203
+    },
+    {
+      "type": "text",
+      "img_path": "p0381_013_text.png",
+      "bbox": [
+        [
+          227,
+          1274
+        ],
+        [
+          1008,
+          1274
+        ],
+        [
+          1008,
+          1325
+        ],
+        [
+          227,
+          1325
+        ]
+      ],
+      "score": 0.9108244776725769,
+      "y_pos": 1274,
+      "text": "- Gan to: Thái xung, Chương môn.",
+      "confidence": 0.9407432307215298
+    },
+    {
+      "type": "text",
+      "img_path": "p0381_002_text.png",
+      "bbox": [
+        [
+          221,
+          1363
+        ],
+        [
+          2359,
+          1363
+        ],
+        [
+          2359,
+          1554
+        ],
+        [
+          221,
+          1554
+        ]
+      ],
+      "score": 0.9763369560241699,
+      "y_pos": 1363,
+      "text": "Khi tiến hành chữa, có thể lấy nhóm (a) hoặc (b). Huyệt phối hợp thì có thể căn cứ vào bệnh\ntình mà tuyển chọn, mỗi lần châm từ trên dưới 4 hoặc 5 huyệt, châm huyệt ở cả hai bên phải\ntrái.",
+      "confidence": 0.9970264575413289
+    },
+    {
+      "type": "text",
+      "img_path": "p0381_005_text.png",
+      "bbox": [
+        [
+          222,
+          1596
+        ],
+        [
+          2359,
+          1596
+        ],
+        [
+          2359,
+          1721
+        ],
+        [
+          222,
+          1721
+        ]
+      ],
+      "score": 0.965837836265564,
+      "y_pos": 1596,
+      "text": "Thủ pháp: Châm sâu, mạnh, dùng phép Kê đảo mễ (gà chãi thóc) nâng ấn, đếm vê, sau khi có\nchâm cảm đắc khí buốt, tê, trướng hoặc lan truyền thì lưu kim.",
+      "confidence": 0.9963981359886627
+    },
+    {
+      "type": "text",
+      "img_path": "p0381_001_text.png",
+      "bbox": [
+        [
+          222,
+          1758
+        ],
+        [
+          2360,
+          1758
+        ],
+        [
+          2360,
+          1955
+        ],
+        [
+          222,
+          1955
+        ]
+      ],
+      "score": 0.9764083027839661,
+      "y_pos": 1758,
+      "text": "Liệu trình: Từ 7 đến 10 ngày, rồi tuỳ thể chất người bệnh khoẻ hay yếu, để nghỉ mấy ngày, lại\ntiến hành liệu trình sau. Thông thường mỗi ngày châm 1 lần, nhưng căn cứ bệnh tình, nếu\nkhông chịu nổi thì có thể cách ngày hoặc cách hai ngày châm 1 lần.",
+      "confidence": 0.998919222857341
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0381_014_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1993
+        ],
+        [
+          709,
+          1993
+        ],
+        [
+          709,
+          2045
+        ],
+        [
+          226,
+          2045
+        ]
+      ],
+      "score": 0.9094589948654175,
+      "y_pos": 1993,
+      "text": "2. Biện chứng thí trị",
+      "confidence": 0.9646838462871054
+    },
+    {
+      "type": "text",
+      "img_path": "p0381_000_text.png",
+      "bbox": [
+        [
+          221,
+          2085
+        ],
+        [
+          2360,
+          2085
+        ],
+        [
+          2360,
+          2350
+        ],
+        [
+          221,
+          2350
+        ]
+      ],
+      "score": 0.9807681441307068,
+      "y_pos": 2085,
+      "text": "Bệnh này trên lâm sàng có 2 mặt hư và thực, có thể lẫn với nhau, nhưng nhất thiết là thực ít hư\nnhiều. Khí huyết hư hoặc tâm âm hư là gốc, đàm hoả ứ trở là ngọn, do đó cách chữa phải lấy\nnguyên tắc bổ hư làm chủ, khử tà làm phụ, đồng thời căn cứ vào đặc điểm tâm thần bất an,\nphối hợp thuốc an thần.",
+      "confidence": 0.9991079292202624
+    },
+    {
+      "type": "text",
+      "img_path": "p0381_004_text.png",
+      "bbox": [
+        [
+          223,
+          2389
+        ],
+        [
+          2360,
+          2389
+        ],
+        [
+          2360,
+          2585
+        ],
+        [
+          223,
+          2585
+        ]
+      ],
+      "score": 0.9738633036613464,
+      "y_pos": 2389,
+      "text": "a. Khí huyết bất túc: Hoảng hốt, tim đập mạnh không yên, sau khi lao động có thể tăng, ngắn\nhơi, ra mồ hôi, mệt mỏi, ngủ không yên hoặc mất ngủ, hay quên, đầu nặng, mắt hoa, sắc mặt\nkhông tươi, môi miệng trắng nhạt, chất lưỡi đỏ nhạt, mạch nhỏ yếu hoặc loạn nhịp.",
+      "confidence": 0.9987055168890798
+    },
+    {
+      "type": "text",
+      "img_path": "p0381_021_text.png",
+      "bbox": [
+        [
+          226,
+          2621
+        ],
+        [
+          911,
+          2621
+        ],
+        [
+          911,
+          2672
+        ],
+        [
+          226,
+          2672
+        ]
+      ],
+      "score": 0.827202558517456,
+      "y_pos": 2621,
+      "text": "Cách chữa: Bổ khí, ích huyết.",
+      "confidence": 0.8741587842664411
+    },
+    {
+      "type": "text",
+      "img_path": "p0381_023_text.png",
+      "bbox": [
+        [
+          225,
+          2714
+        ],
+        [
+          995,
+          2714
+        ],
+        [
+          995,
+          2766
+        ],
+        [
+          225,
+          2766
+        ]
+      ],
+      "score": 0.6996159553527832,
+      "y_pos": 2714,
+      "text": "Bài thuốc: Quy tỳ thang gia giảm.",
+      "confidence": 0.9318750500679016
+    },
+    {
+      "type": "text",
+      "img_path": "p0381_003_text.png",
+      "bbox": [
+        [
+          223,
+          2807
+        ],
+        [
+          2364,
+          2807
+        ],
+        [
+          2364,
+          3003
+        ],
+        [
+          223,
+          3003
+        ]
+      ],
+      "score": 0.9761236906051636,
+      "y_pos": 2807,
+      "text": "Hoàng kỳ, Đảng sâm hoặc Hài nhi sâm, Đương quy, Thục địa mỗi thứ đều 3 đồng cân, Ngũ vị\ntử từ 2 đến 3 đồng cân<i>, Thục táo nhân</i> từ 3 đến 5 đồng cân, hoặc <i>Bá tử nhân</i> 3 đồng cân<i>, Chu</i>\nphục thần 4 đồng cân, Long cốt 4 đồng cân, Mẫu lệ 1 lạng.",
+      "confidence": 0.8800143660477588
+    },
+    {
+      "type": "text",
+      "img_path": "p0381_022_text.png",
+      "bbox": [
+        [
+          230,
+          3043
+        ],
+        [
+          461,
+          3043
+        ],
+        [
+          461,
+          3094
+        ],
+        [
+          230,
+          3094
+        ]
+      ],
+      "score": 0.7637397646903992,
+      "y_pos": 3043,
+      "text": "Gia giám:",
+      "confidence": 0.892436298457059
+    },
+    {
+      "type": "number",
+      "img_path": "p0381_020_number.png",
+      "bbox": [
+        [
+          2306,
+          3334
+        ],
+        [
+          2356,
+          3334
+        ],
+        [
+          2356,
+          3371
+        ],
+        [
+          2306,
+          3371
+        ]
+      ],
+      "score": 0.872791051864624,
+      "y_pos": 3334,
+      "text": "\n    \n    \n\n\n\n    \n    \n\n\n\n۰.\n۰    \n۰    \n•\n    \n\n",
+      "confidence": 0.919980611205101
+    },
+    {
+      "type": "footer",
+      "img_path": "p0381_016_footer.png",
+      "bbox": [
+        [
+          228,
+          3336
+        ],
+        [
+          1343,
+          3336
+        ],
+        [
+          1343,
+          3383
+        ],
+        [
+          228,
+          3383
+        ]
+      ],
+      "score": 0.9046468138694763,
+      "y_pos": 3336,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9415562085385593
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0381.png"
+}

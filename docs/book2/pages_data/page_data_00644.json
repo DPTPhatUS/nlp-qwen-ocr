@@ -1,0 +1,344 @@
+{
+  "page_num": 644,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0644_004_header.png",
+      "bbox": [
+        [
+          1674,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1674,
+          197
+        ]
+      ],
+      "score": 0.908929169178009,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.710203885677315
+    },
+    {
+      "type": "header",
+      "img_path": "p0644_005_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9023531675338745,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0644_010_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          333
+        ],
+        [
+          1320,
+          333
+        ],
+        [
+          1320,
+          384
+        ],
+        [
+          284,
+          384
+        ]
+      ],
+      "score": 0.6630535125732422,
+      "y_pos": 333,
+      "text": "Bảng lượng giá hoạt động công năng tạng phủ",
+      "confidence": 0.9987577226426866
+    },
+    {
+      "type": "text",
+      "img_path": "p0644_008_text.png",
+      "bbox": [
+        [
+          284,
+          419
+        ],
+        [
+          1213,
+          419
+        ],
+        [
+          1213,
+          473
+        ],
+        [
+          284,
+          473
+        ]
+      ],
+      "score": 0.8363814353942871,
+      "y_pos": 419,
+      "text": "Tên người được lượng giá: Cụ Bùi Thị Đ.",
+      "confidence": 0.9991929720087749
+    },
+    {
+      "type": "text",
+      "img_path": "p0644_003_text.png",
+      "bbox": [
+        [
+          282,
+          509
+        ],
+        [
+          2358,
+          509
+        ],
+        [
+          2358,
+          635
+        ],
+        [
+          282,
+          635
+        ]
+      ],
+      "score": 0.9553559422492981,
+      "y_pos": 509,
+      "text": "Tác nhân làm thay đổi hoạt động của công năng tạng phủ: Châm kim, bổ: <i>Nội quan, Dương</i>\ntrì, Túc tam lý.",
+      "confidence": 0.9857085449493184
+    },
+    {
+      "type": "text",
+      "img_path": "p0644_011_text.png",
+      "bbox": [
+        [
+          285,
+          671
+        ],
+        [
+          1176,
+          671
+        ],
+        [
+          1176,
+          728
+        ],
+        [
+          285,
+          728
+        ]
+      ],
+      "score": 0.6225889325141907,
+      "y_pos": 671,
+      "text": "Hệ số quy đổi chi trên = 1,0 : 0,7 = 1,43",
+      "confidence": 0.9928305953047997
+    },
+    {
+      "type": "text",
+      "img_path": "p0644_012_text.png",
+      "bbox": [
+        [
+          287,
+          761
+        ],
+        [
+          1190,
+          761
+        ],
+        [
+          1190,
+          820
+        ],
+        [
+          287,
+          820
+        ]
+      ],
+      "score": 0.5277557969093323,
+      "y_pos": 761,
+      "text": "Hệ số quy đổi chi dưới = 1,2 : 0,8 = 1,50",
+      "confidence": 0.9939848198447117
+    },
+    {
+      "type": "table",
+      "img_path": "p0644_000_table.png",
+      "bbox": [
+        [
+          296,
+          868
+        ],
+        [
+          2297,
+          868
+        ],
+        [
+          2297,
+          2100
+        ],
+        [
+          296,
+          2100
+        ]
+      ],
+      "score": 0.9891407489776611,
+      "y_pos": 868,
+      "text": "Số tương    Mức tăng\nSố tương    Số tương    Hệ số quy\nđối    quan lần đo    giảm hoạt\nTên Kinh    quan lần đo    quan lần đo\nsau đã quy    động công\ntrước    sau\nđối    năng\nTiếu trường    -0,45    -0,15    1,43    -0,2145    +0,2355\nTâm    0,20    +0,05    1,43    +0,0715    +0,2715\nTam tiêu    -0,35    +0,10    1,43    +0,1430    +0,4930\nTâm bào    +0,05    +0,25    1,43    +0,3575    +0,3075\nĐại trường    +0,20    -0,20    1,43    -0,2860    -0,4860\nPhế    +0,05    +0,10    1,43    +0,1430    +0,0930\nBàng quang    -0,20    -0,15    1,50    -0,225    -0,025\nThận    -0,15    0    1,50    0    +0,150\nĐảm    -0,20    -0,05    1,50    -0,075    +0,125\nVį    -0,4    -0,10    1,50    -0,15    +0,250\nCan    +0,30    +0,10    1,50    +0,15    -0,150\nΤỳ    +0,20    +0,20    1,50    +0,30    +0,100",
+      "confidence": 0.9195981433005987
+    },
+    {
+      "type": "text",
+      "img_path": "p0644_009_text.png",
+      "bbox": [
+        [
+          280,
+          2137
+        ],
+        [
+          2358,
+          2137
+        ],
+        [
+          2358,
+          2262
+        ],
+        [
+          280,
+          2262
+        ]
+      ],
+      "score": 0.7671502232551575,
+      "y_pos": 2137,
+      "text": "Nhận xét: Có 9 trong 12 tạng phủ tăng hoạt động công năng. Có 3 tạng phủ giảm hoạt động\ncông năng là: Đại trường, Bàng quang, Can.",
+      "confidence": 0.9867917903307997
+    },
+    {
+      "type": "text",
+      "img_path": "p0644_002_text.png",
+      "bbox": [
+        [
+          279,
+          2297
+        ],
+        [
+          2360,
+          2297
+        ],
+        [
+          2360,
+          2637
+        ],
+        [
+          279,
+          2637
+        ]
+      ],
+      "score": 0.9801559448242188,
+      "y_pos": 2297,
+      "text": "Trong ví dụ này chúng ta thấy rõ rằng nếu không qua phép tính hệ số quy đổi, khó có thể\nnhận ra ngay ở Tỳ tăng hay giảm hoạt động công năng sau khi châm, bởi vì cả hai lần đo số\ntương quan đều là +0,20, hoặc khó định được con số thật của sự giảm hoạt động ở Bàng\nquang trong khi cả hai số tương quan đều là âm và cũng khó định ra tăng hoạt động bao\nnhiêu ở Đảm trong khi hai số tương quan cũng đều là số âm.",
+      "confidence": 0.9987370987619053
+    },
+    {
+      "type": "text",
+      "img_path": "p0644_001_text.png",
+      "bbox": [
+        [
+          278,
+          2673
+        ],
+        [
+          2360,
+          2673
+        ],
+        [
+          2360,
+          3085
+        ],
+        [
+          278,
+          3085
+        ]
+      ],
+      "score": 0.9840407371520996,
+      "y_pos": 2673,
+      "text": "Kếtquả của châm ba huyệt trên là cảm giác của bệnh sau khi châm xong thấy tỉnh táo và\nthoải mái ấy do công năng của các tạng phủ được kính động tăng hoạt động lên. Đặc biệt là\nkhi ở Tiểu trường, Tâm, Tam tiêu và Tâm bào tăng hoạt động công năng, ở người bệnh đã\nmất đi các biểu hiện của hội chứng rối loạn thần kinh chức năng, kết quả ấn day ba huyệt\nnêu trên, rồi kiểm chứng bằng ghế đu-lắc của nghiệm pháp Nờ-Cúc cũng đã cho những kết\nquả đánh giá tương ứng.",
+      "confidence": 0.9994997014088401
+    },
+    {
+      "type": "number",
+      "img_path": "p0644_007_number.png",
+      "bbox": [
+        [
+          2305,
+          3337
+        ],
+        [
+          2354,
+          3337
+        ],
+        [
+          2354,
+          3375
+        ],
+        [
+          2305,
+          3375
+        ]
+      ],
+      "score": 0.8442527651786804,
+      "y_pos": 3337,
+      "text": "    \n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0644_006_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.8902299404144287,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987586095647992
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0644.png"
+}

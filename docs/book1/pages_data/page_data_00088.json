@@ -1,0 +1,422 @@
+{
+  "page_num": 88,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0088_010_text.png",
+      "bbox": [
+        [
+          462,
+          452
+        ],
+        [
+          1229,
+          452
+        ],
+        [
+          1229,
+          501
+        ],
+        [
+          462,
+          501
+        ]
+      ],
+      "score": 0.8463777303695679,
+      "y_pos": 452,
+      "text": "e/ Pháp tri: thanh Phế nhuân táo.",
+      "confidence": 0.9871223415647234
+    },
+    {
+      "type": "text",
+      "img_path": "p0088_012_text.png",
+      "bbox": [
+        [
+          462,
+          529
+        ],
+        [
+          1822,
+          529
+        ],
+        [
+          1822,
+          582
+        ],
+        [
+          462,
+          582
+        ]
+      ],
+      "score": 0.7694193124771118,
+      "y_pos": 529,
+      "text": "f/ Phương dược: Thanh táo cứu phế thang (Y môn pháp luật)",
+      "confidence": 0.9933868555699364
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0088_014_figure_title.png",
+      "bbox": [
+        [
+          463,
+          637
+        ],
+        [
+          1300,
+          637
+        ],
+        [
+          1300,
+          688
+        ],
+        [
+          463,
+          688
+        ]
+      ],
+      "score": 0.5434092283248901,
+      "y_pos": 637,
+      "text": "+ Phân tích bài thuốc: (Pháp thanh)",
+      "confidence": 0.9683519859571714
+    },
+    {
+      "type": "table",
+      "img_path": "p0088_000_table.png",
+      "bbox": [
+        [
+          352,
+          737
+        ],
+        [
+          2124,
+          737
+        ],
+        [
+          2124,
+          1788
+        ],
+        [
+          352,
+          1788
+        ]
+      ],
+      "score": 0.9911283254623413,
+      "y_pos": 737,
+      "text": "Vị thuốc    Dược lý Đông y\nNhân sâm    Ngọt, hơi đẳng, ấm, vào Phế, Tỳ. Đại bổ nguyên khí, ích huyết, sinh tân\nTang diệp    Ngot, đắng, hàn, vào Can, Phế. Phát tán phong nhiệt, thanh Can, minh\nmuc, thanh Phế, chỉ khái\nTỳ bà diệp    Đắng, bình, vào Phế, Vị. Thanh Phế chỉ khái, thanh Vị chỉ nôn\nThạch cao    Ngọt, cay, hàn, vào Phế, Vị, Tam tiêu. Thanh nhiệt, giáng hỏa, trừ phiền,\nchỉ khát\nMè đen    Ngọt, bình, vào Tỳ, Phế, Can, Thận. Nhuận hạ, lợi niệu, chỉ nôn\nMach môn    Ngọt, hơi đẳng, hơi lạnh vào Phế, Vị, Tâm. Hạ sốt, nhuận Phế sinh tân\nA giao    Ngot, bình, vào Phế, Can, Thân. Tư âm, dưỡng huyết, bổ Phế nhuân táo,\nchỉ huyết an thai\nHanh nhân    Đắng, bình, vào Phế, Đai trường. Thông Phế, bình suyễn, nhuân tràng,\nthông tiện, ôn Phế\nCam thảo    Ngọt, bình, vào 12 kinh. Bổ trung khí, hòa hoãn, giải độc",
+      "confidence": 0.9250698168308187
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0088_004_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          1869
+        ],
+        [
+          1015,
+          1869
+        ],
+        [
+          1015,
+          1919
+        ],
+        [
+          345,
+          1919
+        ]
+      ],
+      "score": 0.9248314499855042,
+      "y_pos": 1869,
+      "text": "2.4.6. Nhiệt kết Đai trường",
+      "confidence": 0.984635118780465
+    },
+    {
+      "type": "text",
+      "img_path": "p0088_002_text.png",
+      "bbox": [
+        [
+          343,
+          1966
+        ],
+        [
+          2123,
+          1966
+        ],
+        [
+          2123,
+          2075
+        ],
+        [
+          343,
+          2075
+        ]
+      ],
+      "score": 0.9614987969398499,
+      "y_pos": 1966,
+      "text": "a/ Nguyên nhân: cảm nhiễm hàn tà truyền biến theo lục kinh tới Dương\nminh Đại trường và hóa nhiệt, táo.",
+      "confidence": 0.9830991765099859
+    },
+    {
+      "type": "text",
+      "img_path": "p0088_001_text.png",
+      "bbox": [
+        [
+          342,
+          2107
+        ],
+        [
+          2124,
+          2107
+        ],
+        [
+          2124,
+          2388
+        ],
+        [
+          342,
+          2388
+        ]
+      ],
+      "score": 0.9827912449836731,
+      "y_pos": 2107,
+      "text": "b/ Bênh sinh: nhiệt tà có tính chất tổn khí và hao tân dịch do đó sẽ ảnh\nhưởng đến chức năng truyền tống của phủ Đại trường cũng như hao tổn âm\ndich của phủ Đại trường. Nhiệt uất kết thì tiết ra ngoài làm tấu lý mở ra, vã\nmồ hôi (Cử thống luận). Ngoài ra, Đại trường là kinh đa khí đa huyết nên xuất\nhiện sốt cao và nhập huyết phận: hôn mê, nói sảng.",
+      "confidence": 0.9902053624092086
+    },
+    {
+      "type": "text",
+      "img_path": "p0088_011_text.png",
+      "bbox": [
+        [
+          460,
+          2421
+        ],
+        [
+          1020,
+          2421
+        ],
+        [
+          1020,
+          2471
+        ],
+        [
+          460,
+          2471
+        ]
+      ],
+      "score": 0.7970778942108154,
+      "y_pos": 2421,
+      "text": "c/ Triệu chứng lâm sàng",
+      "confidence": 0.689082338809967
+    },
+    {
+      "type": "text",
+      "img_path": "p0088_008_text.png",
+      "bbox": [
+        [
+          407,
+          2502
+        ],
+        [
+          1980,
+          2502
+        ],
+        [
+          1980,
+          2556
+        ],
+        [
+          407,
+          2556
+        ]
+      ],
+      "score": 0.9050877094268799,
+      "y_pos": 2502,
+      "text": "- Nói sảng, mặt đỏ, sốt cơn, đau bụng, bụng trướng, không ưa sờ nắn",
+      "confidence": 0.9905017765535824
+    },
+    {
+      "type": "text",
+      "img_path": "p0088_003_text.png",
+      "bbox": [
+        [
+          407,
+          2586
+        ],
+        [
+          2123,
+          2586
+        ],
+        [
+          2123,
+          2695
+        ],
+        [
+          407,
+          2695
+        ]
+      ],
+      "score": 0.9573262929916382,
+      "y_pos": 2586,
+      "text": "- Táo bón hoặc nhiệt kết bàng lưu. Đổ mồ hôi, tiểu ít, đỏ, mặt đỏ, đau đầu,\ntay chân nóng.",
+      "confidence": 0.9956036255053886
+    },
+    {
+      "type": "text",
+      "img_path": "p0088_006_text.png",
+      "bbox": [
+        [
+          408,
+          2727
+        ],
+        [
+          1663,
+          2727
+        ],
+        [
+          1663,
+          2777
+        ],
+        [
+          408,
+          2777
+        ]
+      ],
+      "score": 0.9122921228408813,
+      "y_pos": 2727,
+      "text": "\n    Lưỡi đỏ, khô, môi khô khát. Mach trầm thực hữu lực.\n",
+      "confidence": 0.9760810740582355
+    },
+    {
+      "type": "text",
+      "img_path": "p0088_015_text.png",
+      "bbox": [
+        [
+          461,
+          2810
+        ],
+        [
+          2117,
+          2810
+        ],
+        [
+          2117,
+          2864
+        ],
+        [
+          461,
+          2864
+        ]
+      ],
+      "score": 0.5072811245918274,
+      "y_pos": 2810,
+      "text": "d/ Bệnh cảnh Tây y thường gặp: táo bón cấp tính của những bệnh có sốt cao.",
+      "confidence": 0.996450023431527
+    },
+    {
+      "type": "text",
+      "img_path": "p0088_013_text.png",
+      "bbox": [
+        [
+          460,
+          2893
+        ],
+        [
+          1295,
+          2893
+        ],
+        [
+          1295,
+          2945
+        ],
+        [
+          460,
+          2945
+        ]
+      ],
+      "score": 0.6560675501823425,
+      "y_pos": 2893,
+      "text": "e/ Pháp: thông tiện, thanh trường vị.",
+      "confidence": 0.986262457493024
+    },
+    {
+      "type": "text",
+      "img_path": "p0088_007_text.png",
+      "bbox": [
+        [
+          461,
+          2976
+        ],
+        [
+          1707,
+          2976
+        ],
+        [
+          1707,
+          3028
+        ],
+        [
+          461,
+          3028
+        ]
+      ],
+      "score": 0.911222517490387,
+      "y_pos": 2976,
+      "text": "f/ Phương được: Đại thừa khí thang (Thương hàn luận)",
+      "confidence": 0.9936898593549375
+    },
+    {
+      "type": "number",
+      "img_path": "p0088_009_number.png",
+      "bbox": [
+        [
+          2068,
+          3112
+        ],
+        [
+          2121,
+          3112
+        ],
+        [
+          2121,
+          3147
+        ],
+        [
+          2068,
+          3147
+        ]
+      ],
+      "score": 0.853412926197052,
+      "y_pos": 3112,
+      "text": "\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0088_005_footer.png",
+      "bbox": [
+        [
+          293,
+          3310
+        ],
+        [
+          1072,
+          3310
+        ],
+        [
+          1072,
+          3366
+        ],
+        [
+          293,
+          3366
+        ]
+      ],
+      "score": 0.9124621748924255,
+      "y_pos": 3310,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8713696428707668
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0088.png"
+}

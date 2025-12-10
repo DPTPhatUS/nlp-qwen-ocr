@@ -1,0 +1,628 @@
+{
+  "page_num": 285,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0285_004_header.png",
+      "bbox": [
+        [
+          1609,
+          142
+        ],
+        [
+          2372,
+          142
+        ],
+        [
+          2372,
+          201
+        ],
+        [
+          1609,
+          201
+        ]
+      ],
+      "score": 0.9261853694915771,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7266163375406038
+    },
+    {
+      "type": "header",
+      "img_path": "p0285_015_header.png",
+      "bbox": [
+        [
+          229,
+          156
+        ],
+        [
+          908,
+          156
+        ],
+        [
+          908,
+          202
+        ],
+        [
+          229,
+          202
+        ]
+      ],
+      "score": 0.9173936247825623,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9878454228927349
+    },
+    {
+      "type": "image",
+      "img_path": "p0285_001_image.png",
+      "bbox": [
+        [
+          554,
+          365
+        ],
+        [
+          2020,
+          365
+        ],
+        [
+          2020,
+          1284
+        ],
+        [
+          554,
+          1284
+        ]
+      ],
+      "score": 0.9565520882606506,
+      "y_pos": 365
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0285_023_figure_title.png",
+      "bbox": [
+        [
+          1076,
+          1441
+        ],
+        [
+          1506,
+          1441
+        ],
+        [
+          1506,
+          1485
+        ],
+        [
+          1076,
+          1485
+        ]
+      ],
+      "score": 0.8527605533599854,
+      "y_pos": 1441,
+      "text": "Hình 140 - Hình 141",
+      "confidence": 0.7453999235516503
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0285_017_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1525
+        ],
+        [
+          731,
+          1525
+        ],
+        [
+          731,
+          1576
+        ],
+        [
+          225,
+          1576
+        ]
+      ],
+      "score": 0.8993204832077026,
+      "y_pos": 1525,
+      "text": "388. Bách trùng sào:",
+      "confidence": 0.961312475529584
+    },
+    {
+      "type": "text",
+      "img_path": "p0285_016_text.png",
+      "bbox": [
+        [
+          289,
+          1612
+        ],
+        [
+          1229,
+          1612
+        ],
+        [
+          1229,
+          1665
+        ],
+        [
+          289,
+          1665
+        ]
+      ],
+      "score": 0.9135613441467285,
+      "y_pos": 1612,
+      "text": "Vị trí: Huyệt Huyết hải lên 1 thốn. (H.140)",
+      "confidence": 0.5680639968978034
+    },
+    {
+      "type": "text",
+      "img_path": "p0285_006_text.png",
+      "bbox": [
+        [
+          287,
+          1700
+        ],
+        [
+          1297,
+          1700
+        ],
+        [
+          1297,
+          1750
+        ],
+        [
+          287,
+          1750
+        ]
+      ],
+      "score": 0.9224238991737366,
+      "y_pos": 1700,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 2 - 3 thôn.",
+      "confidence": 0.9777062290244632
+    },
+    {
+      "type": "text",
+      "img_path": "p0285_010_text.png",
+      "bbox": [
+        [
+          287,
+          1787
+        ],
+        [
+          1161,
+          1787
+        ],
+        [
+          1161,
+          1842
+        ],
+        [
+          287,
+          1842
+        ]
+      ],
+      "score": 0.92011958360672,
+      "y_pos": 1787,
+      "text": "Chủ trị: Dị ứng mấm ngứa, thấp khớp.",
+      "confidence": 0.38075560958761917
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0285_022_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1873
+        ],
+        [
+          771,
+          1873
+        ],
+        [
+          771,
+          1928
+        ],
+        [
+          226,
+          1928
+        ]
+      ],
+      "score": 0.8614253997802734,
+      "y_pos": 1873,
+      "text": "389. Tất nhỡn (Độc tỵ)",
+      "confidence": 0.9853341355919838
+    },
+    {
+      "type": "text",
+      "img_path": "p0285_000_text.png",
+      "bbox": [
+        [
+          282,
+          1961
+        ],
+        [
+          2358,
+          1961
+        ],
+        [
+          2358,
+          2080
+        ],
+        [
+          282,
+          2080
+        ]
+      ],
+      "score": 0.9582329392433167,
+      "y_pos": 1961,
+      "text": "Vị trí: Co đầu gối, lấy ở dưới xương bánh chè chỗ lõm cạnh ngoài gân nối và cạnh trong gân\nnối. (H.139)",
+      "confidence": 0.983322994077798
+    },
+    {
+      "type": "text",
+      "img_path": "p0285_009_text.png",
+      "bbox": [
+        [
+          286,
+          2116
+        ],
+        [
+          1918,
+          2116
+        ],
+        [
+          1918,
+          2169
+        ],
+        [
+          286,
+          2169
+        ]
+      ],
+      "score": 0.9211342930793762,
+      "y_pos": 2116,
+      "text": "Cách châm: Châm đứng kim, sâu 1,5 - 2 thốn hoặc châm thấu hai huyệt",
+      "confidence": 0.9904204948224883
+    },
+    {
+      "type": "text",
+      "img_path": "p0285_019_text.png",
+      "bbox": [
+        [
+          283,
+          2203
+        ],
+        [
+          1700,
+          2203
+        ],
+        [
+          1700,
+          2261
+        ],
+        [
+          283,
+          2261
+        ]
+      ],
+      "score": 0.8840136528015137,
+      "y_pos": 2203,
+      "text": "Chủ trị: Đau khớp gối và các bệnh phần mềm quanh khớp gối.",
+      "confidence": 0.990702110528946
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0285_021_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2293
+        ],
+        [
+          591,
+          2293
+        ],
+        [
+          591,
+          2344
+        ],
+        [
+          227,
+          2344
+        ]
+      ],
+      "score": 0.8712469935417175,
+      "y_pos": 2293,
+      "text": "390. Đảm nang",
+      "confidence": 0.981500236193339
+    },
+    {
+      "type": "text",
+      "img_path": "p0285_008_text.png",
+      "bbox": [
+        [
+          288,
+          2378
+        ],
+        [
+          1657,
+          2378
+        ],
+        [
+          1657,
+          2433
+        ],
+        [
+          288,
+          2433
+        ]
+      ],
+      "score": 0.9219411611557007,
+      "y_pos": 2378,
+      "text": "Vị trí: Chỗ dưới huyệt <i>Dương lăng tuyền</i> từ 1-2 thốn. (H.139)",
+      "confidence": 0.9889324903488159
+    },
+    {
+      "type": "text",
+      "img_path": "p0285_007_text.png",
+      "bbox": [
+        [
+          287,
+          2466
+        ],
+        [
+          1289,
+          2466
+        ],
+        [
+          1289,
+          2517
+        ],
+        [
+          287,
+          2517
+        ]
+      ],
+      "score": 0.9223107099533081,
+      "y_pos": 2466,
+      "text": "Cách châm: Châm đứng kim, sâu 1 - 2 thốn",
+      "confidence": 0.9895197550455729
+    },
+    {
+      "type": "text",
+      "img_path": "p0285_002_text.png",
+      "bbox": [
+        [
+          287,
+          2555
+        ],
+        [
+          1253,
+          2555
+        ],
+        [
+          1253,
+          2605
+        ],
+        [
+          287,
+          2605
+        ]
+      ],
+      "score": 0.9330917596817017,
+      "y_pos": 2555,
+      "text": "Chủ tri: Bênh tât ở túi mật, chi dưới tê bai.",
+      "confidence": 0.9688091442940083
+    },
+    {
+      "type": "text",
+      "img_path": "p0285_014_text.png",
+      "bbox": [
+        [
+          286,
+          2641
+        ],
+        [
+          1664,
+          2641
+        ],
+        [
+          1664,
+          2695
+        ],
+        [
+          286,
+          2695
+        ]
+      ],
+      "score": 0.9182984828948975,
+      "y_pos": 2641,
+      "text": "Tác dụng phối hợp: Với nội quan, Khâu khư trị viêm túi mật.",
+      "confidence": 0.9873370371881078
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0285_020_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2730
+        ],
+        [
+          574,
+          2730
+        ],
+        [
+          574,
+          2783
+        ],
+        [
+          227,
+          2783
+        ]
+      ],
+      "score": 0.8758590221405029,
+      "y_pos": 2730,
+      "text": "391. Lăng hậu",
+      "confidence": 0.9435440897941589
+    },
+    {
+      "type": "text",
+      "img_path": "p0285_011_text.png",
+      "bbox": [
+        [
+          288,
+          2814
+        ],
+        [
+          1622,
+          2814
+        ],
+        [
+          1622,
+          2869
+        ],
+        [
+          288,
+          2869
+        ]
+      ],
+      "score": 0.9197297096252441,
+      "y_pos": 2814,
+      "text": "Vị trí: Phía sau đầu trên xương mác, ấn có tê buốt. (H.139)",
+      "confidence": 0.6310270428657532
+    },
+    {
+      "type": "text",
+      "img_path": "p0285_005_text.png",
+      "bbox": [
+        [
+          285,
+          2904
+        ],
+        [
+          2009,
+          2904
+        ],
+        [
+          2009,
+          2957
+        ],
+        [
+          285,
+          2957
+        ]
+      ],
+      "score": 0.9226417541503906,
+      "y_pos": 2904,
+      "text": "Cách châm: Châm đứng kim, sâu 0,5 - 1 thốn. Cứu 3 - 5 mồi, hơ 5 - 15 phút",
+      "confidence": 0.6742714134852091
+    },
+    {
+      "type": "text",
+      "img_path": "p0285_012_text.png",
+      "bbox": [
+        [
+          286,
+          2992
+        ],
+        [
+          1692,
+          2992
+        ],
+        [
+          1692,
+          3044
+        ],
+        [
+          286,
+          3044
+        ]
+      ],
+      "score": 0.9191286563873291,
+      "y_pos": 2992,
+      "text": "Chủ trị: Đau thần kinh toạ, viêm khớp gối, chi dưới than hoán.",
+      "confidence": 0.6704583717510104
+    },
+    {
+      "type": "text",
+      "img_path": "p0285_003_text.png",
+      "bbox": [
+        [
+          288,
+          3079
+        ],
+        [
+          2218,
+          3079
+        ],
+        [
+          2218,
+          3133
+        ],
+        [
+          288,
+          3133
+        ]
+      ],
+      "score": 0.9301090836524963,
+      "y_pos": 3079,
+      "text": "<b>Tác dung phối hợp:</b> Với <i>Hoàn khiêu</i>, <i>Kiên tất</i> tri đau thần kinh toa và chi dưới bai liệt.",
+      "confidence": 0.985182020225023
+    },
+    {
+      "type": "footer",
+      "img_path": "p0285_013_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9186346530914307,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0285_018_number.png",
+      "bbox": [
+        [
+          2279,
+          3338
+        ],
+        [
+          2350,
+          3338
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2279,
+          3377
+        ]
+      ],
+      "score": 0.897514283657074,
+      "y_pos": 3338,
+      "text": "        \n    \n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0285.png"
+}

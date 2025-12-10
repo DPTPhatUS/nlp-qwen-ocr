@@ -1,0 +1,214 @@
+{
+  "page_num": 140,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0140_002_text.png",
+      "bbox": [
+        [
+          340,
+          450
+        ],
+        [
+          2126,
+          450
+        ],
+        [
+          2126,
+          734
+        ],
+        [
+          340,
+          734
+        ]
+      ],
+      "score": 0.9816249012947083,
+      "y_pos": 450,
+      "text": "Cảnh Nhac toàn thư trị Tỳ, Thận hư hàn, ỉa chảy lúc gần sáng gồm Mộc\nhương, Phá cố chỉ, Nhục đậu khấu, Đại táo. Bài thứ 3 có xuất xứ từ <i>Thẩm Thi</i>\ntôn sinh dùng trị sán khí do hàn, thiên truy (thoát vị ben). Bài thứ 4 có xuất\nxứ từ <i>Huyết chứng nhân</i> dùng ôn bổ Tỳ Thân tri chứng Thân tả. Bài thứ 5 có\nxuất xứ từ <i>Cổ kim y thông</i> trị tiểu vặt, tiểu không tự chủ do hư yếu.",
+      "confidence": 0.9149198423495204
+    },
+    {
+      "type": "text",
+      "img_path": "p0140_003_text.png",
+      "bbox": [
+        [
+          341,
+          765
+        ],
+        [
+          2124,
+          765
+        ],
+        [
+          2124,
+          930
+        ],
+        [
+          341,
+          930
+        ]
+      ],
+      "score": 0.9725250005722046,
+      "y_pos": 765,
+      "text": "Bài thuốc dưới đây có xuất xứ từ \"Nôi khoa trích yếu\" (theo Chứng tri\nchuẩn thằng). Tác dụng điều trị: Ôn Thận ấm Tỳ. Chủ trị: cố trường chỉ tả\n(ngũ canh tả).",
+      "confidence": 0.9827445977928586
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0140_007_figure_title.png",
+      "bbox": [
+        [
+          406,
+          964
+        ],
+        [
+          1159,
+          964
+        ],
+        [
+          1159,
+          1014
+        ],
+        [
+          406,
+          1014
+        ]
+      ],
+      "score": 0.5862263441085815,
+      "y_pos": 964,
+      "text": "Phân tích bài thuốc: (Pháp ôn)",
+      "confidence": 0.9894487671554089
+    },
+    {
+      "type": "table",
+      "img_path": "p0140_001_table.png",
+      "bbox": [
+        [
+          351,
+          1066
+        ],
+        [
+          2125,
+          1066
+        ],
+        [
+          2125,
+          1705
+        ],
+        [
+          351,
+          1705
+        ]
+      ],
+      "score": 0.988869309425354,
+      "y_pos": 1066,
+      "text": "Vi thuốc    Dược lý Đông y\nPhá cố chỉ    Cay, đắng, đại ôn. Bổ mệnh môn tướng hỏa. Nạp Thận khí, chữa chứng\nngũ lao thất thương, cốt tủy thương bại, Tỳ, Thận hư hàn\nNgũ vị tử    Chua, mặn, ôn. Cố Thận, liễm Phế. Cố tinh, chỉ mồ hôi. Cường gân ích\nkhí, bổ ngũ tạng\nNgô thù du    Cay, đẳng, ôn hơi độc. Chữa ăn không tiêu, nôn mửa, đau bụng, tiêu chảy\nNhục đậu khấu    Cay, ôn, hơi độc. Ôn Tỳ sáp tràng, chỉ nôn, chỉ tả lỵ, tiêu thực\nCan khương    Cay, ôn. Ôn dương tán hàn. Hồi dương thông mạch\nĐại táo    Ngọt, ôn. Bổ Tỳ ích khí. Dưỡng Vị sinh tân dịch, điều hòa các vị thuốc",
+      "confidence": 0.9517466176806583
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0140_006_figure_title.png",
+      "bbox": [
+        [
+          407,
+          1794
+        ],
+        [
+          1185,
+          1794
+        ],
+        [
+          1185,
+          1848
+        ],
+        [
+          407,
+          1848
+        ]
+      ],
+      "score": 0.7016487717628479,
+      "y_pos": 1794,
+      "text": "- Công thức huyệt có thể sử dụng",
+      "confidence": 0.9838126810158
+    },
+    {
+      "type": "table",
+      "img_path": "p0140_000_table.png",
+      "bbox": [
+        [
+          351,
+          1894
+        ],
+        [
+          2126,
+          1894
+        ],
+        [
+          2126,
+          3010
+        ],
+        [
+          351,
+          3010
+        ]
+      ],
+      "score": 0.9896260499954224,
+      "y_pos": 1894,
+      "text": "Tên huyệt    Cơ sở lý luận    Tác dụng điều trị\nDu huyệt của Thân ở lưng    Ích thủy tráng hỏa, kèm chữa\nThận du\nchứng đau lưng\nTam âm giao    Giao hội huyệt của 3 kinh âm/chân    Tư âm\nĐặc hiệu dùng chữa chứng chân hóa    Bồi nguyên -Bổ Thân\nMệnh môn\như. Bổ mênh môn tướng hỏa\nCửa của nguyên khí, nguyên dương.    Chữa chứng Thận dương suy.\nQuan nguyên    Bồi Thân cố bản, bổ khí hồi dương    Cấp cứu chứng thoát của trúng\nphong\nLà \"Bể sinh ra khí\". Bổ huyệt này giúp    Điều khí ích nguyên. Bồi Thận\ních được cho chân tạng vãn hồi được    bổ hư (Chữa chứng mêt mỏi,\nKhí hải\nsinh khí, ôn hạ nguyên, chấn được    suy nhược, ăn uống khó tiêu)\nThân dương\nThái bạch    Kinh nghiệm phối hợp các huyệt bên    Chữa chứng đầy bung, ăn uống\n(Châm cứu tư sinh kinh) trị đau bụng,    kém tiêu\nChương môn\năn uống kém\nTúc tam lý\nTrung quản    Mộ huyệt của Vị    Chữa chứng đầy trướng bụng",
+      "confidence": 0.9518100077837042
+    },
+    {
+      "type": "number",
+      "img_path": "p0140_005_number.png",
+      "bbox": [
+        [
+          2043,
+          3110
+        ],
+        [
+          2121,
+          3110
+        ],
+        [
+          2121,
+          3147
+        ],
+        [
+          2043,
+          3147
+        ]
+      ],
+      "score": 0.8635269403457642,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0140_004_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3366
+        ],
+        [
+          293,
+          3366
+        ]
+      ],
+      "score": 0.9001809358596802,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8738532049315316
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0140.png"
+}

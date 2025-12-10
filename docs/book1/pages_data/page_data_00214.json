@@ -1,0 +1,552 @@
+{
+  "page_num": 214,
+  "content": [
+    {
+      "type": "paragraph_title",
+      "img_path": "p0214_018_paragraph_title.png",
+      "bbox": [
+        [
+          461,
+          451
+        ],
+        [
+          1328,
+          451
+        ],
+        [
+          1328,
+          501
+        ],
+        [
+          461,
+          501
+        ]
+      ],
+      "score": 0.853167712688446,
+      "y_pos": 451,
+      "text": "b. Quan hệ giữa Tam tiêu và Tâm bào",
+      "confidence": 0.9963000030130953
+    },
+    {
+      "type": "text",
+      "img_path": "p0214_002_text.png",
+      "bbox": [
+        [
+          343,
+          537
+        ],
+        [
+          2121,
+          537
+        ],
+        [
+          2121,
+          651
+        ],
+        [
+          343,
+          651
+        ]
+      ],
+      "score": 0.9555113315582275,
+      "y_pos": 537,
+      "text": "Tâm bào là ngoại vệ bao bọc Tâm nhưng được coi là một tạng. Tam tiêu\nlà phủ. Quan hệ giữa Tâm bào và Tam tiêu là quan hệ giữa tạng và phủ.",
+      "confidence": 0.9975818493776398
+    },
+    {
+      "type": "text",
+      "img_path": "p0214_001_text.png",
+      "bbox": [
+        [
+          342,
+          687
+        ],
+        [
+          2124,
+          687
+        ],
+        [
+          2124,
+          864
+        ],
+        [
+          342,
+          864
+        ]
+      ],
+      "score": 0.9726999402046204,
+      "y_pos": 687,
+      "text": "Hơn thế nữa, Tam tiêu là bộ phận bảo vệ ở ngoài tạng phủ, Tâm bào lạc\nlà bảo vệ ở ngoài cho Tâm, cũng như 2 lần thành của cửa nhà vua. Cho nên\nđều thuộc dương và đều gọi là tướng hỏa.",
+      "confidence": 0.9987028537862619
+    },
+    {
+      "type": "text",
+      "img_path": "p0214_004_text.png",
+      "bbox": [
+        [
+          343,
+          897
+        ],
+        [
+          2124,
+          897
+        ],
+        [
+          2124,
+          1012
+        ],
+        [
+          343,
+          1012
+        ]
+      ],
+      "score": 0.9531523585319519,
+      "y_pos": 897,
+      "text": "Vì thế Tâm bào và Tam tiêu về công dụng là biểu lý thông nhau, phối hợp\nchặt chẽ với nhau.",
+      "confidence": 0.9848612361983078
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0214_011_paragraph_title.png",
+      "bbox": [
+        [
+          349,
+          1070
+        ],
+        [
+          1236,
+          1070
+        ],
+        [
+          1236,
+          1119
+        ],
+        [
+          349,
+          1119
+        ]
+      ],
+      "score": 0.9029514789581299,
+      "y_pos": 1070,
+      "text": "1.5.3.4. Triệu chứng bệnh của Tam tiêu",
+      "confidence": 0.9978928610682487
+    },
+    {
+      "type": "text",
+      "img_path": "p0214_003_text.png",
+      "bbox": [
+        [
+          343,
+          1165
+        ],
+        [
+          2122,
+          1165
+        ],
+        [
+          2122,
+          1274
+        ],
+        [
+          343,
+          1274
+        ]
+      ],
+      "score": 0.9544690251350403,
+      "y_pos": 1165,
+      "text": "Bệnh của Tam tiêu chủ yếu là về mặt thủy khí vận chuyển phát sinh\nchướng ngai.",
+      "confidence": 0.9980334029205318
+    },
+    {
+      "type": "text",
+      "img_path": "p0214_009_text.png",
+      "bbox": [
+        [
+          406,
+          1306
+        ],
+        [
+          1652,
+          1306
+        ],
+        [
+          1652,
+          1357
+        ],
+        [
+          406,
+          1357
+        ]
+      ],
+      "score": 0.9037744998931885,
+      "y_pos": 1306,
+      "text": "- Nếu thượng tiêu không thông lợi thì sinh suyễn đầy.",
+      "confidence": 0.990541486306624
+    },
+    {
+      "type": "text",
+      "img_path": "p0214_010_text.png",
+      "bbox": [
+        [
+          406,
+          1390
+        ],
+        [
+          1909,
+          1390
+        ],
+        [
+          1909,
+          1443
+        ],
+        [
+          406,
+          1443
+        ]
+      ],
+      "score": 0.903472363948822,
+      "y_pos": 1390,
+      "text": "- Trung tiêu không thông lợi thì thủy ẩm ngưng trệ mà bụng đầy.",
+      "confidence": 0.5071783074965843
+    },
+    {
+      "type": "text",
+      "img_path": "p0214_008_text.png",
+      "bbox": [
+        [
+          406,
+          1474
+        ],
+        [
+          1383,
+          1474
+        ],
+        [
+          1383,
+          1525
+        ],
+        [
+          406,
+          1525
+        ]
+      ],
+      "score": 0.906894862651825,
+      "y_pos": 1474,
+      "text": "- Hạ tiêu không thông lợi thì thấy phù nề.",
+      "confidence": 0.5033336633985693
+    },
+    {
+      "type": "text",
+      "img_path": "p0214_000_text.png",
+      "bbox": [
+        [
+          342,
+          1559
+        ],
+        [
+          2125,
+          1559
+        ],
+        [
+          2125,
+          1799
+        ],
+        [
+          342,
+          1799
+        ]
+      ],
+      "score": 0.97354656457901,
+      "y_pos": 1559,
+      "text": "Mặt khác do mỗi bộ phân của Tam tiêu đều bao bọc một số Tang khí nên\nchứng trạng thượng tiêu luôn bao gồm chứng trạng của Tâm, Phế; chứng\ntrạng trung tiêu bao gồm chứng trạng của Tỳ, Vị và chứng trạng của hạ tiêu\nbao gồm cả Can, Thận, Đại, Tiểu trường.",
+      "confidence": 0.9948795570234477
+    },
+    {
+      "type": "text",
+      "img_path": "p0214_013_text.png",
+      "bbox": [
+        [
+          406,
+          1833
+        ],
+        [
+          2075,
+          1833
+        ],
+        [
+          2075,
+          1883
+        ],
+        [
+          406,
+          1883
+        ]
+      ],
+      "score": 0.8836308121681213,
+      "y_pos": 1833,
+      "text": "- Chứng trạng thượng tiêu quan hệ chặt chẽ với bênh biến của Tâm và Phế.",
+      "confidence": 0.9896976359792657
+    },
+    {
+      "type": "text",
+      "img_path": "p0214_014_text.png",
+      "bbox": [
+        [
+          462,
+          1916
+        ],
+        [
+          1874,
+          1916
+        ],
+        [
+          1874,
+          1966
+        ],
+        [
+          462,
+          1966
+        ]
+      ],
+      "score": 0.8753082752227783,
+      "y_pos": 1916,
+      "text": "+ Hư hàn: tinh thần không yên, đoản hơi. Nói không ra tiếng.",
+      "confidence": 0.9707921849143121
+    },
+    {
+      "type": "text",
+      "img_path": "p0214_015_text.png",
+      "bbox": [
+        [
+          462,
+          1998
+        ],
+        [
+          2103,
+          1998
+        ],
+        [
+          2103,
+          2051
+        ],
+        [
+          462,
+          2051
+        ]
+      ],
+      "score": 0.8687113523483276,
+      "y_pos": 1998,
+      "text": "+ Thực nhiệt: ngực bế tắc, đổ mồ hôi trán. Lưỡi khô, họng sưng, suyễn đầy.",
+      "confidence": 0.9838667127646898
+    },
+    {
+      "type": "text",
+      "img_path": "p0214_016_text.png",
+      "bbox": [
+        [
+          408,
+          2082
+        ],
+        [
+          1656,
+          2082
+        ],
+        [
+          1656,
+          2134
+        ],
+        [
+          408,
+          2134
+        ]
+      ],
+      "score": 0.8631041049957275,
+      "y_pos": 2082,
+      "text": "- Chứng trạng Trung tiêu quan hệ chặt chẽ với Tỳ, Vị.",
+      "confidence": 0.5512623093344948
+    },
+    {
+      "type": "text",
+      "img_path": "p0214_005_text.png",
+      "bbox": [
+        [
+          461,
+          2166
+        ],
+        [
+          2126,
+          2166
+        ],
+        [
+          2126,
+          2272
+        ],
+        [
+          461,
+          2272
+        ]
+      ],
+      "score": 0.9350098371505737,
+      "y_pos": 2166,
+      "text": "+ Hư hàn: bụng đau, ruột sôi. Tiêu lỏng mà không thông. Bụng đầy, ưa\nnắn bóp.",
+      "confidence": 0.8057230847222465
+    },
+    {
+      "type": "text",
+      "img_path": "p0214_020_text.png",
+      "bbox": [
+        [
+          462,
+          2305
+        ],
+        [
+          2059,
+          2305
+        ],
+        [
+          2059,
+          2358
+        ],
+        [
+          462,
+          2358
+        ]
+      ],
+      "score": 0.8277042508125305,
+      "y_pos": 2305,
+      "text": "+ Thực nhiệt: bụng đầy trướng. Không mửa. Không đi cầu. Suyễn cấp.",
+      "confidence": 0.7545931944075752
+    },
+    {
+      "type": "text",
+      "img_path": "p0214_019_text.png",
+      "bbox": [
+        [
+          407,
+          2388
+        ],
+        [
+          2074,
+          2388
+        ],
+        [
+          2074,
+          2442
+        ],
+        [
+          407,
+          2442
+        ]
+      ],
+      "score": 0.8279436826705933,
+      "y_pos": 2388,
+      "text": "- Chứng trạng hạ tiêu quan hệ chặt chẽ với Can, Thận, Đại, Tiểu trường.",
+      "confidence": 0.9912422895431519
+    },
+    {
+      "type": "text",
+      "img_path": "p0214_006_text.png",
+      "bbox": [
+        [
+          466,
+          2472
+        ],
+        [
+          2122,
+          2472
+        ],
+        [
+          2122,
+          2581
+        ],
+        [
+          466,
+          2581
+        ]
+      ],
+      "score": 0.9124148488044739,
+      "y_pos": 2472,
+      "text": "+ Hư hàn: đại tiện lỏng không dứt. Tiểu tiện trong dài, hoặc són đái.\nBung đầy. Phù nề.",
+      "confidence": 0.973443798505438
+    },
+    {
+      "type": "text",
+      "img_path": "p0214_012_text.png",
+      "bbox": [
+        [
+          464,
+          2613
+        ],
+        [
+          1778,
+          2613
+        ],
+        [
+          1778,
+          2666
+        ],
+        [
+          464,
+          2666
+        ]
+      ],
+      "score": 0.8998509645462036,
+      "y_pos": 2613,
+      "text": "+ Thực nhiệt: đại tiểu tiện không thông. Đi ngoài ra máu.",
+      "confidence": 0.979927855022883
+    },
+    {
+      "type": "number",
+      "img_path": "p0214_017_number.png",
+      "bbox": [
+        [
+          2041,
+          3110
+        ],
+        [
+          2122,
+          3110
+        ],
+        [
+          2122,
+          3147
+        ],
+        [
+          2041,
+          3147
+        ]
+      ],
+      "score": 0.8605751991271973,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0214_007_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.9092897176742554,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8789173466818673
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0214.png"
+}

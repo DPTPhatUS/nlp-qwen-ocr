@@ -1,0 +1,422 @@
+{
+  "page_num": 21,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0021_006_text.png",
+      "bbox": [
+        [
+          463,
+          450
+        ],
+        [
+          1783,
+          450
+        ],
+        [
+          1783,
+          504
+        ],
+        [
+          463,
+          504
+        ]
+      ],
+      "score": 0.7569209933280945,
+      "y_pos": 450,
+      "text": "5. Tên gọi của những bệnh chứng ngoại cảm thương hàn?",
+      "confidence": 0.999494055184451
+    },
+    {
+      "type": "text",
+      "img_path": "p0021_005_text.png",
+      "bbox": [
+        [
+          463,
+          533
+        ],
+        [
+          1705,
+          533
+        ],
+        [
+          1705,
+          588
+        ],
+        [
+          463,
+          588
+        ]
+      ],
+      "score": 0.7881636619567871,
+      "y_pos": 533,
+      "text": "6. Tên gọi của những bệnh chứng ngoại cảm ôn bệnh?",
+      "confidence": 0.9996093144783607
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0021_002_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          643
+        ],
+        [
+          551,
+          643
+        ],
+        [
+          551,
+          696
+        ],
+        [
+          343,
+          696
+        ]
+      ],
+      "score": 0.8628523945808411,
+      "y_pos": 643,
+      "text": "ĐAI    О    ΑN",
+      "confidence": 0.4621598372856776
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0021_015_figure_title.png",
+      "bbox": [
+        [
+          342,
+          752
+        ],
+        [
+          1372,
+          752
+        ],
+        [
+          1372,
+          811
+        ],
+        [
+          342,
+          811
+        ]
+      ],
+      "score": 0.5183569192886353,
+      "y_pos": 752,
+      "text": "A. CAU HOI 5 CHON 1 - CHON CAU ĐUNG",
+      "confidence": 0.8850905299186707
+    },
+    {
+      "type": "table",
+      "img_path": "p0021_013_table.png",
+      "bbox": [
+        [
+          1324,
+          882
+        ],
+        [
+          1947,
+          882
+        ],
+        [
+          1947,
+          1402
+        ],
+        [
+          1324,
+          1402
+        ]
+      ],
+      "score": 0.6750336289405823,
+      "y_pos": 882,
+      "text": "STT    Đáp án\n6    Ε\n7    В\n8    D\n9    D\n10    Δ",
+      "confidence": 0.9049936135609945
+    },
+    {
+      "type": "table",
+      "img_path": "p0021_014_table.png",
+      "bbox": [
+        [
+          438,
+          882
+        ],
+        [
+          1003,
+          882
+        ],
+        [
+          1003,
+          1401
+        ],
+        [
+          438,
+          1401
+        ]
+      ],
+      "score": 0.6660346388816833,
+      "y_pos": 882,
+      "text": "STT    Đáp án\n1    D\n2    В\n3    Α\n4    Α\n5    C",
+      "confidence": 0.8635603319853544
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0021_001_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1505
+        ],
+        [
+          1033,
+          1505
+        ],
+        [
+          1033,
+          1562
+        ],
+        [
+          344,
+          1562
+        ]
+      ],
+      "score": 0.902489960193634,
+      "y_pos": 1505,
+      "text": "B. CAU HOI TRA LOI NGAN",
+      "confidence": 0.811942138671875
+    },
+    {
+      "type": "text",
+      "img_path": "p0021_011_text.png",
+      "bbox": [
+        [
+          466,
+          1613
+        ],
+        [
+          1000,
+          1613
+        ],
+        [
+          1000,
+          1664
+        ],
+        [
+          466,
+          1664
+        ]
+      ],
+      "score": 0.7206741571426392,
+      "y_pos": 1613,
+      "text": "1. Có 4 cách phân loại",
+      "confidence": 0.973766639828682
+    },
+    {
+      "type": "text",
+      "img_path": "p0021_009_text.png",
+      "bbox": [
+        [
+          462,
+          1693
+        ],
+        [
+          1979,
+          1693
+        ],
+        [
+          1979,
+          1748
+        ],
+        [
+          462,
+          1748
+        ]
+      ],
+      "score": 0.727582573890686,
+      "y_pos": 1693,
+      "text": "2. Diễn biến có qui luật ở nhóm ngoại cảm thương hàn và ôn bệnh",
+      "confidence": 0.9969092020621666
+    },
+    {
+      "type": "text",
+      "img_path": "p0021_010_text.png",
+      "bbox": [
+        [
+          464,
+          1777
+        ],
+        [
+          2082,
+          1777
+        ],
+        [
+          2082,
+          1831
+        ],
+        [
+          464,
+          1831
+        ]
+      ],
+      "score": 0.7244172692298889,
+      "y_pos": 1777,
+      "text": "3. Luôn luôn khởi phát bằng bệnh cảnh nhiệt ở nhóm ngoại cảm ôn bệnh",
+      "confidence": 0.9996416355882373
+    },
+    {
+      "type": "text",
+      "img_path": "p0021_008_text.png",
+      "bbox": [
+        [
+          464,
+          1858
+        ],
+        [
+          2114,
+          1858
+        ],
+        [
+          2114,
+          1913
+        ],
+        [
+          464,
+          1913
+        ]
+      ],
+      "score": 0.7350429892539978,
+      "y_pos": 1858,
+      "text": "4. Lây lan thành dịch và xảy ra lúc có thiên tai, địch họa ở nhóm dịch lệ",
+      "confidence": 0.9877952599525451
+    },
+    {
+      "type": "text",
+      "img_path": "p0021_004_text.png",
+      "bbox": [
+        [
+          464,
+          1942
+        ],
+        [
+          2122,
+          1942
+        ],
+        [
+          2122,
+          2055
+        ],
+        [
+          464,
+          2055
+        ]
+      ],
+      "score": 0.8380565047264099,
+      "y_pos": 1942,
+      "text": "5. Thái dương chứng, Thiếu dương chứng, Dương minh chứng, Thái âm\nchứng, Thiếu âm chứng, Quyết âm chứng",
+      "confidence": 0.999537954739214
+    },
+    {
+      "type": "text",
+      "img_path": "p0021_012_text.png",
+      "bbox": [
+        [
+          463,
+          2081
+        ],
+        [
+          1828,
+          2081
+        ],
+        [
+          1828,
+          2135
+        ],
+        [
+          463,
+          2135
+        ]
+      ],
+      "score": 0.6915223002433777,
+      "y_pos": 2081,
+      "text": "6. Nhiệt ở Thượng tiêu, nhiệt ở Trung tiêu, nhiệt ở Hạ tiêu.",
+      "confidence": 0.9996049596417335
+    },
+    {
+      "type": "text",
+      "img_path": "p0021_007_text.png",
+      "bbox": [
+        [
+          549,
+          2164
+        ],
+        [
+          2118,
+          2164
+        ],
+        [
+          2118,
+          2220
+        ],
+        [
+          549,
+          2220
+        ]
+      ],
+      "score": 0.7438594102859497,
+      "y_pos": 2164,
+      "text": "Nhiệt ở Vệ phận, nhiệt ở Khí phận, nhiệt ở Dinh phận, nhiệt ở Huyết phận",
+      "confidence": 0.9996209643982552
+    },
+    {
+      "type": "number",
+      "img_path": "p0021_003_number.png",
+      "bbox": [
+        [
+          352,
+          3111
+        ],
+        [
+          405,
+          3111
+        ],
+        [
+          405,
+          3148
+        ],
+        [
+          352,
+          3148
+        ]
+      ],
+      "score": 0.8511663675308228,
+      "y_pos": 3111,
+      "text": "    \n        \n\n\n    ۰\n\n",
+      "confidence": 0.9662383496761322
+    },
+    {
+      "type": "footer",
+      "img_path": "p0021_000_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1075,
+          3311
+        ],
+        [
+          1075,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.91253662109375,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8916404400553022
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0021.png"
+}

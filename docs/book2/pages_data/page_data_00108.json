@@ -1,0 +1,474 @@
+{
+  "page_num": 108,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0108_010_header.png",
+      "bbox": [
+        [
+          1608,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1608,
+          201
+        ]
+      ],
+      "score": 0.9256315231323242,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7769746666862851
+    },
+    {
+      "type": "header",
+      "img_path": "p0108_015_header.png",
+      "bbox": [
+        [
+          230,
+          154
+        ],
+        [
+          601,
+          154
+        ],
+        [
+          601,
+          199
+        ],
+        [
+          230,
+          199
+        ]
+      ],
+      "score": 0.907899796962738,
+      "y_pos": 154,
+      "text": "CÁCH CHÂM CỬU",
+      "confidence": 0.9794526934623718
+    },
+    {
+      "type": "text",
+      "img_path": "p0108_006_text.png",
+      "bbox": [
+        [
+          279,
+          346
+        ],
+        [
+          2358,
+          346
+        ],
+        [
+          2358,
+          472
+        ],
+        [
+          279,
+          472
+        ]
+      ],
+      "score": 0.9658158421516418,
+      "y_pos": 346,
+      "text": "Chọn xem cần châm mấy huyệt, mỗi huyệt sâu bao nhiêu, căn cứ vào người bệnh gầy béo\nmà lấy kim dài, ngắn cho vừa.",
+      "confidence": 0.9970370762488421
+    },
+    {
+      "type": "text",
+      "img_path": "p0108_000_text.png",
+      "bbox": [
+        [
+          279,
+          509
+        ],
+        [
+          2360,
+          509
+        ],
+        [
+          2360,
+          778
+        ],
+        [
+          279,
+          778
+        ]
+      ],
+      "score": 0.9825801253318787,
+      "y_pos": 509,
+      "text": "Tùy theo nơi phải châm mà đặt tư thế người bệnh cho phù hợp, tư thế phải tự nhiên mới\ngiữ được lâu; dặn dò người bệnh không được động đậy khi châm. Ví như châm huyệt ở đầu,\nmặt, bung và tứ chi, thường phải nằm ngửa; châm các huyệt ở cạnh đùi thường là nằm\nnghiêng, châm ở đầu mặt và tứ chi cũng có thể ngồi ngay ngắn hoặc ngồi tựa ngửa cổ.",
+      "confidence": 0.9261362049916658
+    },
+    {
+      "type": "text",
+      "img_path": "p0108_011_text.png",
+      "bbox": [
+        [
+          280,
+          813
+        ],
+        [
+          2156,
+          813
+        ],
+        [
+          2156,
+          869
+        ],
+        [
+          280,
+          869
+        ]
+      ],
+      "score": 0.9237406253814697,
+      "y_pos": 813,
+      "text": "Chọn huyệt vị tốt rồi, dùng móng tay ấn huyệt vị thành dấu chữ thập (+) để ghi nhớ.",
+      "confidence": 0.9643786395297331
+    },
+    {
+      "type": "text",
+      "img_path": "p0108_002_text.png",
+      "bbox": [
+        [
+          279,
+          905
+        ],
+        [
+          2359,
+          905
+        ],
+        [
+          2359,
+          1101
+        ],
+        [
+          279,
+          1101
+        ]
+      ],
+      "score": 0.9763832092285156,
+      "y_pos": 905,
+      "text": "Hai tay thầy thuốc phải được sạch khô, trước khi châm dùng cồn 75độ xoa lên tay từ 2 đến 3\nphút.Dùng bông cồn xoa lên huyệt vị người bệnh, từ giữa xoay dần ra ngoài sát trùng để đề\nphòng nhiễm trùng.",
+      "confidence": 0.9960630290778623
+    },
+    {
+      "type": "text",
+      "img_path": "p0108_007_text.png",
+      "bbox": [
+        [
+          280,
+          1136
+        ],
+        [
+          2360,
+          1136
+        ],
+        [
+          2360,
+          1264
+        ],
+        [
+          280,
+          1264
+        ]
+      ],
+      "score": 0.9642569422721863,
+      "y_pos": 1136,
+      "text": "Đối với người bệnh mới châm lần đầu, phải giảng giải để người bệnh thấy rằng châm\nkhông đau, không nên sợ sệt, để đề phòng bệnhnhân vì sợ hãi mà say kim.",
+      "confidence": 0.9994491568924393
+    },
+    {
+      "type": "text",
+      "img_path": "p0108_003_text.png",
+      "bbox": [
+        [
+          278,
+          1297
+        ],
+        [
+          2358,
+          1297
+        ],
+        [
+          2358,
+          1498
+        ],
+        [
+          278,
+          1498
+        ]
+      ],
+      "score": 0.9763799905776978,
+      "y_pos": 1297,
+      "text": "Đối với người bệnh suy nhược, hoặc người đã từng say kim thì tốt nhất là để ở tư thế\nnằm ngửa. Trong khi châm mà người bệnh thấy có váng đầu hoa mắt, ra mồ hôi, buồn nôn,\nthì lập tức ngừng vê kim rồi xử lý những biện pháp chống say kim.",
+      "confidence": 0.9991286117786314
+    },
+    {
+      "type": "text",
+      "img_path": "p0108_001_text.png",
+      "bbox": [
+        [
+          279,
+          1535
+        ],
+        [
+          2358,
+          1535
+        ],
+        [
+          2358,
+          1731
+        ],
+        [
+          279,
+          1731
+        ]
+      ],
+      "score": 0.9765619039535522,
+      "y_pos": 1535,
+      "text": "Trong phần huyệt vị có ghi độ châm sâu của từng huyệt, đó là nói ở người lớn. Khi châm trẻ\nem cần phải châm nông, các huyệt chỉ nên châm đến 2 hay 3 phân thốn là được, đồng thời\nphải chú ý không cho giẫy giụa để đề phòng tiến, rút kim khó hoặc gãy kim.",
+      "confidence": 0.9974162625013919
+    },
+    {
+      "type": "text",
+      "img_path": "p0108_004_text.png",
+      "bbox": [
+        [
+          278,
+          1768
+        ],
+        [
+          2361,
+          1768
+        ],
+        [
+          2361,
+          1963
+        ],
+        [
+          278,
+          1963
+        ]
+      ],
+      "score": 0.9762731790542603,
+      "y_pos": 1768,
+      "text": "Đối với người chửa, ngoài những huyệt cấm châm đã quy định ra, các huyệt khác ở đầu\nngón tay, ngón chân là những huyệt rất nhạy cảm như <i>Thiếu thương, Thương dương, Trung</i>\nxung, Ẩn bạch, Lệ đoài thì tốt nhất là không châm.",
+      "confidence": 0.9122055847060709
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0108_012_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2006
+        ],
+        [
+          589,
+          2006
+        ],
+        [
+          589,
+          2052
+        ],
+        [
+          227,
+          2052
+        ]
+      ],
+      "score": 0.9199886918067932,
+      "y_pos": 2006,
+      "text": "D. Góc đô châm",
+      "confidence": 0.8953915610909462
+    },
+    {
+      "type": "text",
+      "img_path": "p0108_009_text.png",
+      "bbox": [
+        [
+          281,
+          2093
+        ],
+        [
+          2353,
+          2093
+        ],
+        [
+          2353,
+          2218
+        ],
+        [
+          281,
+          2218
+        ]
+      ],
+      "score": 0.9610456228256226,
+      "y_pos": 2093,
+      "text": "Do sự khác nhau về huyệt vị và yêu cầu của bệnh, vì thế góc độ châm kim cũng có khác nhau\nNói chung, chia ra làm ba loại là: châm đứng kim, châm nghiêng kim và châm ngang kim.",
+      "confidence": 0.99973960565816
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0108_014_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          2257
+        ],
+        [
+          732,
+          2257
+        ],
+        [
+          732,
+          2306
+        ],
+        [
+          286,
+          2306
+        ]
+      ],
+      "score": 0.9118539094924927,
+      "y_pos": 2257,
+      "text": "1. Châm đứng kim",
+      "confidence": 0.8769960999488831
+    },
+    {
+      "type": "text",
+      "img_path": "p0108_008_text.png",
+      "bbox": [
+        [
+          336,
+          2348
+        ],
+        [
+          2359,
+          2348
+        ],
+        [
+          2359,
+          2472
+        ],
+        [
+          336,
+          2472
+        ]
+      ],
+      "score": 0.9638371467590332,
+      "y_pos": 2348,
+      "text": "Là thân kim vuông góc với mặt da mà đâm. Cách châm này ứng dụng rất rộng rãi. Phàm\nhuyệt vị ở những nơi tầng cơ đầy đặn đều sử dụng.",
+      "confidence": 0.999609711060838
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0108_013_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          2511
+        ],
+        [
+          698,
+          2511
+        ],
+        [
+          698,
+          2563
+        ],
+        [
+          285,
+          2563
+        ]
+      ],
+      "score": 0.916268527507782,
+      "y_pos": 2511,
+      "text": "2. Châm nghiêng",
+      "confidence": 0.9032578363138086
+    },
+    {
+      "type": "text",
+      "img_path": "p0108_005_text.png",
+      "bbox": [
+        [
+          337,
+          2602
+        ],
+        [
+          2358,
+          2602
+        ],
+        [
+          2358,
+          2797
+        ],
+        [
+          337,
+          2797
+        ]
+      ],
+      "score": 0.9749245047569275,
+      "y_pos": 2602,
+      "text": "Là thân kim để nghiêng nửa góc vuông mà đâm vào. Cách châm này phù hợp với những\nnơi tầng cơ nông, mỏng, hoặc các tạng phủ, cơ quan trọng yếu như vùng đầu, quanh ổ\nmắt, ngực.",
+      "confidence": 0.9963281027658292
+    },
+    {
+      "type": "footer",
+      "img_path": "p0108_016_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9053075909614563,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0108_017_number.png",
+      "bbox": [
+        [
+          2295,
+          3340
+        ],
+        [
+          2320,
+          3340
+        ],
+        [
+          2320,
+          3376
+        ],
+        [
+          2295,
+          3376
+        ]
+      ],
+      "score": 0.819496750831604,
+      "y_pos": 3340,
+      "text": "\n\n    \n\n\n    \n\n\n\n\n        ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0108.png"
+}

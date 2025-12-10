@@ -1,0 +1,370 @@
+{
+  "page_num": 114,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0114_006_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.919324517250061,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7576541084618795
+    },
+    {
+      "type": "header",
+      "img_path": "p0114_010_header.png",
+      "bbox": [
+        [
+          230,
+          154
+        ],
+        [
+          602,
+          154
+        ],
+        [
+          602,
+          199
+        ],
+        [
+          230,
+          199
+        ]
+      ],
+      "score": 0.9046750068664551,
+      "y_pos": 154,
+      "text": "CÁCH CHÂM CỨU",
+      "confidence": 0.9794647852579753
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0114_008_figure_title.png",
+      "bbox": [
+        [
+          872,
+          372
+        ],
+        [
+          1715,
+          372
+        ],
+        [
+          1715,
+          423
+        ],
+        [
+          872,
+          423
+        ]
+      ],
+      "score": 0.909850537776947,
+      "y_pos": 372,
+      "text": "Bảng 14 - Bảng ngũ hành theo phủ tạng",
+      "confidence": 0.9928037661772507
+    },
+    {
+      "type": "table",
+      "img_path": "p0114_002_table.png",
+      "bbox": [
+        [
+          279,
+          448
+        ],
+        [
+          2312,
+          448
+        ],
+        [
+          2312,
+          804
+        ],
+        [
+          279,
+          804
+        ]
+      ],
+      "score": 0.9833775758743286,
+      "y_pos": 448,
+      "text": "Tạng phủ    Ngũ hành\nMôc    Hỏa    Thố    Kim    Thủy\nTang    Can    Tâm, tâm bào    Τù    Phé    Thân\nPhủ    Đảm    Tiểu trường, Tam tiêu    Vi    Đại trường    Bàng quang",
+      "confidence": 0.9006661412758649
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0114_007_figure_title.png",
+      "bbox": [
+        [
+          891,
+          844
+        ],
+        [
+          1698,
+          844
+        ],
+        [
+          1698,
+          894
+        ],
+        [
+          891,
+          894
+        ]
+      ],
+      "score": 0.9129423499107361,
+      "y_pos": 844,
+      "text": "Bảng 15 - Bảng ngũ hành theo ngũ du",
+      "confidence": 0.9920443570291674
+    },
+    {
+      "type": "table",
+      "img_path": "p0114_000_table.png",
+      "bbox": [
+        [
+          279,
+          922
+        ],
+        [
+          2313,
+          922
+        ],
+        [
+          2313,
+          1482
+        ],
+        [
+          279,
+          1482
+        ]
+      ],
+      "score": 0.9884428381919861,
+      "y_pos": 922,
+      "text": "Âm kinh\nNgũ hành    Mộc    Hỏa    Thổ    Kim    Thủy\nNgũ du    Tình    Huỳnh    Du    Kinh    Нор\nDương kinh\nNgũ du    Tỉnh    Huỳnh    Du    Kinh    Hợp\nNgũ hành    Mộc    Hỏa    Thổ    Kim    Thủy",
+      "confidence": 0.8508152035311756
+    },
+    {
+      "type": "text",
+      "img_path": "p0114_005_text.png",
+      "bbox": [
+        [
+          337,
+          1515
+        ],
+        [
+          2358,
+          1515
+        ],
+        [
+          2358,
+          1776
+        ],
+        [
+          337,
+          1776
+        ]
+      ],
+      "score": 0.9506939649581909,
+      "y_pos": 1515,
+      "text": "Ứng dụng của phép bổ tả mẫu tử là để chữa những bệnh chứng từ một tạng phủ chuyền\nsang một tạng phủ khác. Người ta theo quy luật tương ứng giữa thiên can của ngày, giờ\nvới hoạt động của tạng phủ mà lập ra cách chữa theo thời gian, gọi là phép \"Tý Ngọ lưu\ntrú”",
+      "confidence": 0.9972101610960213
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0114_009_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1824
+        ],
+        [
+          573,
+          1824
+        ],
+        [
+          573,
+          1867
+        ],
+        [
+          226,
+          1867
+        ]
+      ],
+      "score": 0.9048418402671814,
+      "y_pos": 1824,
+      "text": "H. Cách rút kim",
+      "confidence": 0.913793732138241
+    },
+    {
+      "type": "text",
+      "img_path": "p0114_001_text.png",
+      "bbox": [
+        [
+          274,
+          1912
+        ],
+        [
+          2360,
+          1912
+        ],
+        [
+          2360,
+          2463
+        ],
+        [
+          274,
+          2463
+        ]
+      ],
+      "score": 0.9861698150634766,
+      "y_pos": 1912,
+      "text": "Cách rút kim còn gọi là cách khởi kim.Khi làm xong các bước theo thứ tự thao tác châm kim\nnhư: Tiến kim, làm thủ pháp bổ tả, lưu kim, là đên việc phải rút kim. Khi rút kim, tay trái cầm\nviên bông cồn áp sẵn lên mặt da cạnh kim, tay phải từ tuìư vê cán kim và lùi kim (tuỳ theo\nphép bổ hay tả mà có cáhc rút kim khác nhau như đã nêu ở thủ pháp từ tật và khai bế ở\ntrên). Khi kim đã ra khỏi mặt da thì dùng ngay miếng bông cồn trên mặt da cạnh kim để sát\ntrùng lỗ kim và ấn day nhè nhẹ nhằm bịt kín lỗ kim. Trường hợp khi rút kim ra khỏi mặt da\nthấy lỗ kim có chảy máu thì bất luận là thủ pháp thao tác vùă dùng là bổ hay tả đều phải kịp\nthời dùng miếng bông cồn đó ấn day tại lỗ huyệt nhiều lần để cầm máu và bịt kín lỗ kim.",
+      "confidence": 0.9994468858423907
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0114_011_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          2501
+        ],
+        [
+          729,
+          2501
+        ],
+        [
+          729,
+          2549
+        ],
+        [
+          224,
+          2549
+        ]
+      ],
+      "score": 0.9029756784439087,
+      "y_pos": 2501,
+      "text": "I. Xử lý khi rút kim khó",
+      "confidence": 0.8059734106063843
+    },
+    {
+      "type": "text",
+      "img_path": "p0114_003_text.png",
+      "bbox": [
+        [
+          275,
+          2590
+        ],
+        [
+          2358,
+          2590
+        ],
+        [
+          2358,
+          3002
+        ],
+        [
+          275,
+          3002
+        ]
+      ],
+      "score": 0.9822485446929932,
+      "y_pos": 2590,
+      "text": "Nói chung khi rút kim chẳng khó khăn gì. Nhưng nếu người bệnh thay đổi tư thế trong khi lưu\nkim, sẽ làm cho thân kim cong, khó rút ra, tức là không thể vê kim khi kim còn ở sâu, cũng\nkhông thể lôi kim lên được. Lúc này cần nói để người bệnh khôi phục lại tư thế như lúc\nchâm, bây giờ quan sát hướng kim cong, dùng ngón trỏ, ngón cái tay trái ấn mặt da xuống,\nngón tay phải cầm cán kim làm cho phương hướng thuận theo khú cong, rồi nhịp nhàng\nnâng ấn, từ từ rút kim lùi ra, không được dùng sức mạnh mà giật kim ra.",
+      "confidence": 0.9966814929993602
+    },
+    {
+      "type": "text",
+      "img_path": "p0114_004_text.png",
+      "bbox": [
+        [
+          280,
+          3034
+        ],
+        [
+          2359,
+          3034
+        ],
+        [
+          2359,
+          3161
+        ],
+        [
+          280,
+          3161
+        ]
+      ],
+      "score": 0.9534372687339783,
+      "y_pos": 3034,
+      "text": "Nếu như bắp thịt cương tụ làm cho thân kim khó lui, tới khi rút kim thì ấn sâu kim thêm từ 0,1\nđến 0,2 thốn, rồi làm thủ pháp nâng ấn, tức thì có thể rút kim ra. Nếu như vẫn không rút kim",
+      "confidence": 0.9994385815654874
+    },
+    {
+      "type": "footer",
+      "img_path": "p0114_012_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1433,
+          3333
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.895458996295929,
+      "y_pos": 3333,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0114_013_number.png",
+      "bbox": [
+        [
+          2295,
+          3340
+        ],
+        [
+          2320,
+          3340
+        ],
+        [
+          2320,
+          3376
+        ],
+        [
+          2295,
+          3376
+        ]
+      ],
+      "score": 0.8125612735748291,
+      "y_pos": 3340,
+      "text": "\n\n    \n\n\n    \n\n\n    \n\n\n    \n        \n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0114.png"
+}

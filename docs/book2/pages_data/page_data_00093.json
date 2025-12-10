@@ -1,0 +1,474 @@
+{
+  "page_num": 93,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0093_010_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9256439208984375,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7254179112967991
+    },
+    {
+      "type": "header",
+      "img_path": "p0093_015_header.png",
+      "bbox": [
+        [
+          230,
+          160
+        ],
+        [
+          442,
+          160
+        ],
+        [
+          442,
+          201
+        ],
+        [
+          230,
+          201
+        ]
+      ],
+      "score": 0.8990606665611267,
+      "y_pos": 160,
+      "text": "KINH LAC",
+      "confidence": 0.7848368227481842
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0093_011_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          287
+        ],
+        [
+          724,
+          287
+        ],
+        [
+          724,
+          341
+        ],
+        [
+          224,
+          341
+        ]
+      ],
+      "score": 0.9129074811935425,
+      "y_pos": 287,
+      "text": "TAM MACH KY KINH",
+      "confidence": 0.6630387405554453
+    },
+    {
+      "type": "text",
+      "img_path": "p0093_006_text.png",
+      "bbox": [
+        [
+          222,
+          379
+        ],
+        [
+          2358,
+          379
+        ],
+        [
+          2358,
+          561
+        ],
+        [
+          222,
+          561
+        ]
+      ],
+      "score": 0.9752188324928284,
+      "y_pos": 379,
+      "text": "12 kinh mạch có quan hệ trực tiếp với nội tạng nên gọi là chính kinh. Kỳ kinh là khoảng giao\nnhau của tất cả 12 kinh mạch, thông qua 12 kinh mạch và phát sinh quan hệ gián tiếp với nội\ntạng, là kinh mạch ngoài chính kinh. Vì nó khác với 12 kinh mạch nên gọi là kỳ kinh.",
+      "confidence": 0.999742355916188
+    },
+    {
+      "type": "text",
+      "img_path": "p0093_001_text.png",
+      "bbox": [
+        [
+          221,
+          592
+        ],
+        [
+          2359,
+          592
+        ],
+        [
+          2359,
+          905
+        ],
+        [
+          221,
+          905
+        ]
+      ],
+      "score": 0.9832924008369446,
+      "y_pos": 592,
+      "text": "Mạch kỳ kinh là: Đốc, nhâm, xung, đới, âm duy, dương duy, âm kiểu, dương kiểu. Trong 8\nmạch kỳ kinh, chỉ có 2 mạch nhâm, đốc là đi thẳng giữa 2 mặt trước, sau của cơ thể, chúng có\nnhững huyệt chuyên thuộc của nó. Sáu kinh còn lại đều phụ theo ở 12 kinh mạch kia, không có\nchuyên huyệt của từng kinh. Do tính chất trọng yếu của hai mạch nhâm, đốc trong châm cứu,\ncho nên người ta gộp vào với 12 kinh mạch gọi cả là 14 kinh.",
+      "confidence": 0.9983906513546692
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0093_012_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          944
+        ],
+        [
+          1091,
+          944
+        ],
+        [
+          1091,
+          993
+        ],
+        [
+          226,
+          993
+        ]
+      ],
+      "score": 0.910455584526062,
+      "y_pos": 944,
+      "text": "A. Đặc điểm sinh lý của 8 mạch kỳ kinh",
+      "confidence": 0.9854000717401504
+    },
+    {
+      "type": "text",
+      "img_path": "p0093_003_text.png",
+      "bbox": [
+        [
+          274,
+          1026
+        ],
+        [
+          2358,
+          1026
+        ],
+        [
+          2358,
+          1273
+        ],
+        [
+          274,
+          1273
+        ]
+      ],
+      "score": 0.9787325263023376,
+      "y_pos": 1026,
+      "text": "Tám mạch kỳ kinh là một thông số lạc đặc thù của việc điều tiết vận hành khí huyết. Công\nnăng chung của nó là điều tiết khí huyết của 12 kinh mạch. Như khi khí huyết ở 12 kinh\nmach đầy đủ cũng đưa nhiều khí huyết cho tám mạch kỳ kinh chứa giữ. Những lúc 12 kinh\nmạch khí thiếu khí huyết thì tám mạch kỳ kinh cấp bổ sung lại.",
+      "confidence": 0.9986470681378694
+    },
+    {
+      "type": "text",
+      "img_path": "p0093_005_text.png",
+      "bbox": [
+        [
+          284,
+          1310
+        ],
+        [
+          2359,
+          1310
+        ],
+        [
+          2359,
+          1507
+        ],
+        [
+          284,
+          1507
+        ]
+      ],
+      "score": 0.9762343764305115,
+      "y_pos": 1310,
+      "text": "1. Đốc mạch tuần hành ở chính giữa cột sống, các dương kinh ở tay chân trong 12 kinh\nmạch đều giao hội với đốc mạch. Vì thế đốc mạch. Vì thế đốc mạch có tác dụng thống\nsoái các dương kinh, do đó cũng gọi là “dương kinh chi hải” (bể chứa các dương kinh).",
+      "confidence": 0.9969309544454722
+    },
+    {
+      "type": "text",
+      "img_path": "p0093_007_text.png",
+      "bbox": [
+        [
+          283,
+          1544
+        ],
+        [
+          2359,
+          1544
+        ],
+        [
+          2359,
+          1738
+        ],
+        [
+          283,
+          1738
+        ]
+      ],
+      "score": 0.9751324653625488,
+      "y_pos": 1544,
+      "text": "2. Nhâm mạch tuần hành ở chính giữa bụng, ba kinh âm ở chân đến giao hội với nhâm\nmạch ở vùng dưới rốn. Vì nhâm mạch có tác dụng tổng nhiệm âm kinh cho nên cũng gọi\nlà \"âm kinh chi hải\" (bể chứa các âm kinh).",
+      "confidence": 0.996949695774069
+    },
+    {
+      "type": "text",
+      "img_path": "p0093_004_text.png",
+      "bbox": [
+        [
+          283,
+          1777
+        ],
+        [
+          2358,
+          1777
+        ],
+        [
+          2358,
+          1973
+        ],
+        [
+          283,
+          1973
+        ]
+      ],
+      "score": 0.977157711982727,
+      "y_pos": 1777,
+      "text": "3. Xung mạch bắt đầu từ trong ngực, đi ở hai bên cạnh bụng, trên kinh túc thiếu âm thận,\nquan hệ mật thiết với hai mạch nhâm, đốc, chiếm địa vị trọng yếu trong con người vì vậy\ncũng gọi là “kinh lạc chi hải” (bể chứa các kinh lac).",
+      "confidence": 0.9908007633198131
+    },
+    {
+      "type": "text",
+      "img_path": "p0093_008_text.png",
+      "bbox": [
+        [
+          282,
+          2011
+        ],
+        [
+          2357,
+          2011
+        ],
+        [
+          2357,
+          2131
+        ],
+        [
+          282,
+          2131
+        ]
+      ],
+      "score": 0.9637287259101868,
+      "y_pos": 2011,
+      "text": "4. Đới mạch ở phía dưới sườn, đi vòng quanh người như một cái vòng gai, có tác dụng\nthúc các kinh đi đều.",
+      "confidence": 0.9976030962698905
+    },
+    {
+      "type": "text",
+      "img_path": "p0093_002_text.png",
+      "bbox": [
+        [
+          283,
+          2171
+        ],
+        [
+          2358,
+          2171
+        ],
+        [
+          2358,
+          2436
+        ],
+        [
+          283,
+          2436
+        ]
+      ],
+      "score": 0.9809967279434204,
+      "y_pos": 2171,
+      "text": "5. \"Duy\" có nghĩa là duy hệ (giữ mối liên lạc về một hệ). Dương duy mạch bắt đầu từ gót\nchân ra mắt cá ngoaig gộp với túc thiếu dương đảm kinh đi lên liên hệ với các dương\nkinh; âm duy mạch bắt đầu từ cạnh trong bắp chân, theo túc thái âm tỳ kinh đi lên quan\nhệ với các âm kinh.",
+      "confidence": 0.9805089086074943
+    },
+    {
+      "type": "text",
+      "img_path": "p0093_000_text.png",
+      "bbox": [
+        [
+          284,
+          2478
+        ],
+        [
+          2358,
+          2478
+        ],
+        [
+          2358,
+          2815
+        ],
+        [
+          284,
+          2815
+        ]
+      ],
+      "score": 0.9840286374092102,
+      "y_pos": 2478,
+      "text": "6. \"Kiểu\" mạch có nghĩa là mạch nhẹ nhõm và mạnh mẽ như cái cà kheo. Dương kiểu\nmạch bắt đầu từ cạnh ngoài gót chân song hành với túc thái dương kinh đi lên; âm kiểu\nmạch bắt đầu từ cạnh trong gót chân theo túc thiếu âm đi lên, cả 2 có tác dụng làm cho\nchi vận động được khoẻ (là sức giữ cho hai chân thẳng vững như hai cái cà kheo kẹp\ntrong ngoài chân).",
+      "confidence": 0.9966313734607409
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0093_013_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2852
+        ],
+        [
+          1371,
+          2852
+        ],
+        [
+          1371,
+          2900
+        ],
+        [
+          225,
+          2900
+        ]
+      ],
+      "score": 0.9077000617980957,
+      "y_pos": 2852,
+      "text": "B. Đầu, cuối của tám mạch kỳ kinh và chủ tri của nó",
+      "confidence": 0.9702092769011011
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0093_016_paragraph_title.png",
+      "bbox": [
+        [
+          287,
+          2931
+        ],
+        [
+          594,
+          2931
+        ],
+        [
+          594,
+          2983
+        ],
+        [
+          287,
+          2983
+        ]
+      ],
+      "score": 0.8735076785087585,
+      "y_pos": 2931,
+      "text": "1. Đốc mach",
+      "confidence": 0.8851994184347299
+    },
+    {
+      "type": "text",
+      "img_path": "p0093_009_text.png",
+      "bbox": [
+        [
+          336,
+          3015
+        ],
+        [
+          2358,
+          3015
+        ],
+        [
+          2358,
+          3135
+        ],
+        [
+          336,
+          3135
+        ]
+      ],
+      "score": 0.9599012732505798,
+      "y_pos": 3015,
+      "text": "Gồm 28 huyệt. Bắt đầu từ trong bụng dưới, đi ra từ Hội âm, phía sau đi lên theo phía\ntrong cột sống, lên thẳng phía sau gáy, đến phong phủ thì vào não, lên đến đỉnh đầu, theo",
+      "confidence": 0.9997472575664095
+    },
+    {
+      "type": "footer",
+      "img_path": "p0093_014_footer.png",
+      "bbox": [
+        [
+          227,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3386
+        ],
+        [
+          227,
+          3386
+        ]
+      ],
+      "score": 0.9043970108032227,
+      "y_pos": 3333,
+      "text": "Bản quyên: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9311752769182313
+    },
+    {
+      "type": "number",
+      "img_path": "p0093_017_number.png",
+      "bbox": [
+        [
+          2332,
+          3337
+        ],
+        [
+          2377,
+          3337
+        ],
+        [
+          2377,
+          3374
+        ],
+        [
+          2332,
+          3374
+        ]
+      ],
+      "score": 0.864069938659668,
+      "y_pos": 3337,
+      "text": "\n    \n    \n\n\n\n\n\n\n    \n\n\n\n\n    ۰\n۰\n٠.\n\n",
+      "confidence": 0.9340578984955082
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0093.png"
+}

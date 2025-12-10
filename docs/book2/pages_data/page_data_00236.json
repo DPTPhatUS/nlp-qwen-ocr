@@ -1,0 +1,342 @@
+{
+  "page_num": 236,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0236_002_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2371,
+          142
+        ],
+        [
+          2371,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9162704348564148,
+      "y_pos": 142,
+      "text": "~7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7259912952071145
+    },
+    {
+      "type": "header",
+      "img_path": "p0236_003_header.png",
+      "bbox": [
+        [
+          228,
+          155
+        ],
+        [
+          905,
+          155
+        ],
+        [
+          905,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9037623405456543,
+      "y_pos": 155,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9866287461642561
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_001_text.png",
+      "bbox": [
+        [
+          282,
+          346
+        ],
+        [
+          2355,
+          346
+        ],
+        [
+          2355,
+          476
+        ],
+        [
+          282,
+          476
+        ]
+      ],
+      "score": 0.9589990377426147,
+      "y_pos": 346,
+      "text": "Vị trí: Ở mu bàn tay khe xương bàn 3 – 4, ngang khớp bàn ngón, chỗ da thịt phân màu trắng\nđỏ, (ngang huyệt <i>Trung đô</i>). (H.117).",
+      "confidence": 0.9853424154713258
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_005_text.png",
+      "bbox": [
+        [
+          286,
+          509
+        ],
+        [
+          1165,
+          509
+        ],
+        [
+          1165,
+          561
+        ],
+        [
+          286,
+          561
+        ]
+      ],
+      "score": 0.8833371996879578,
+      "y_pos": 509,
+      "text": "Cách châm: Châm chếch 1 – 1,5 thốn.",
+      "confidence": 0.45064073398306564
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_006_text.png",
+      "bbox": [
+        [
+          286,
+          600
+        ],
+        [
+          1054,
+          600
+        ],
+        [
+          1054,
+          655
+        ],
+        [
+          286,
+          655
+        ]
+      ],
+      "score": 0.8717271685600281,
+      "y_pos": 600,
+      "text": "Chủ trị: Sốt rét, bệnh mắt, ghẻ lở.",
+      "confidence": 0.9765263570321573
+    },
+    {
+      "type": "image",
+      "img_path": "p0236_000_image.png",
+      "bbox": [
+        [
+          842,
+          695
+        ],
+        [
+          1778,
+          695
+        ],
+        [
+          1778,
+          2604
+        ],
+        [
+          842,
+          2604
+        ]
+      ],
+      "score": 0.9715570211410522,
+      "y_pos": 695
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0236_007_figure_title.png",
+      "bbox": [
+        [
+          1196,
+          2719
+        ],
+        [
+          1393,
+          2719
+        ],
+        [
+          1393,
+          2763
+        ],
+        [
+          1196,
+          2763
+        ]
+      ],
+      "score": 0.8714608550071716,
+      "y_pos": 2719,
+      "text": "<b>Hình 116</b>",
+      "confidence": 0.9507035861412684
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0236_009_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          2807
+        ],
+        [
+          645,
+          2807
+        ],
+        [
+          645,
+          2858
+        ],
+        [
+          228,
+          2858
+        ]
+      ],
+      "score": 0.8507589101791382,
+      "y_pos": 2807,
+      "text": "134. Lạc linh ngũ",
+      "confidence": 0.9010826098291498
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_010_text.png",
+      "bbox": [
+        [
+          289,
+          2895
+        ],
+        [
+          1349,
+          2895
+        ],
+        [
+          1349,
+          2951
+        ],
+        [
+          289,
+          2951
+        ]
+      ],
+      "score": 0.8364832401275635,
+      "y_pos": 2895,
+      "text": "Vị trí: Ở huyệt Lạc chẩm lên 0,5 thốn. (H. 117).",
+      "confidence": 0.9866024792194367
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_011_text.png",
+      "bbox": [
+        [
+          287,
+          2989
+        ],
+        [
+          1363,
+          2989
+        ],
+        [
+          1363,
+          3040
+        ],
+        [
+          287,
+          3040
+        ]
+      ],
+      "score": 0.836415708065033,
+      "y_pos": 2989,
+      "text": "<b>Cách châm:</b> Châm chếch kim, sâu 0,5 – 1 thốn.",
+      "confidence": 0.9784965304036936
+    },
+    {
+      "type": "text",
+      "img_path": "p0236_012_text.png",
+      "bbox": [
+        [
+          288,
+          3080
+        ],
+        [
+          1296,
+          3080
+        ],
+        [
+          1296,
+          3135
+        ],
+        [
+          288,
+          3135
+        ]
+      ],
+      "score": 0.8286789655685425,
+      "y_pos": 3080,
+      "text": "Chủ trị: Dạ dày co thắt, cao huyết áp, sái cổ.",
+      "confidence": 0.9845194444060326
+    },
+    {
+      "type": "footer",
+      "img_path": "p0236_004_footer.png",
+      "bbox": [
+        [
+          227,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3386
+        ],
+        [
+          227,
+          3386
+        ]
+      ],
+      "score": 0.9037365913391113,
+      "y_pos": 3333,
+      "text": "Bản quyên: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9311752769182313
+    },
+    {
+      "type": "number",
+      "img_path": "p0236_008_number.png",
+      "bbox": [
+        [
+          2277,
+          3337
+        ],
+        [
+          2351,
+          3337
+        ],
+        [
+          2351,
+          3377
+        ],
+        [
+          2277,
+          3377
+        ]
+      ],
+      "score": 0.8714392185211182,
+      "y_pos": 3337,
+      "text": "    \n    \n    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0236.png"
+}

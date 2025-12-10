@@ -1,0 +1,214 @@
+{
+  "page_num": 52,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0052_002_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9178061485290527,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7576541084618795
+    },
+    {
+      "type": "header",
+      "img_path": "p0052_005_header.png",
+      "bbox": [
+        [
+          231,
+          154
+        ],
+        [
+          427,
+          154
+        ],
+        [
+          427,
+          199
+        ],
+        [
+          231,
+          199
+        ]
+      ],
+      "score": 0.892622172832489,
+      "y_pos": 154,
+      "text": "Δ    V",
+      "confidence": 0.648697592318058
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0052_003_figure_title.png",
+      "bbox": [
+        [
+          848,
+          316
+        ],
+        [
+          1736,
+          316
+        ],
+        [
+          1736,
+          366
+        ],
+        [
+          848,
+          366
+        ]
+      ],
+      "score": 0.9076493382453918,
+      "y_pos": 316,
+      "text": "Bảng 2 - Thiệt chẩn và biện chứng luận trị.",
+      "confidence": 0.8484551191329956
+    },
+    {
+      "type": "table",
+      "img_path": "p0052_000_table.png",
+      "bbox": [
+        [
+          439,
+          397
+        ],
+        [
+          2153,
+          397
+        ],
+        [
+          2153,
+          2789
+        ],
+        [
+          439,
+          2789
+        ]
+      ],
+      "score": 0.991929292678833,
+      "y_pos": 397,
+      "text": "Chất lưỡi    Rêu lưỡi    Biện chứng\nHồng nhạt    Trắng rất mỏng    Khí huyết hư\nHồng nhạt, béo non,\nTrắng mỏng    Dương hư\nngấn răng\nXám đen, ấm trơn, sáng    Dương suy tạng hàn, đàm\nTrắng nhạt, béo non\nnhẳn    thấp đình ở trong\nHồng nhạt nõn nà, có\nKhông rêu    Khí hư âm hao\nvết nứt\nHồng nhạt    Trắng mỏng, ẩm    Ngoại cảm phong hàn\nĐàm ẩm thấp trọc nội đình\nHồng nhạt    Trắng, dầy, trơn\nhoặc ăn không tiêu\nOn dịch hoặc có ung bên\nHồng nhạt    Trắng dày như rắc phấn\ntrong\nBiểu tà bắt đầu chuyển\nHồng nhạt    Trong cái trắng có ít vàng\nvào lý\nGiữa và gốc lưỡi vàng\ndầy, ven lưỡi trắng mỏng    Biểu tà nhập lý, vị trường\nHồng nhạt\ncó nhiệt\nmà ẩm\nHồng tươi    Trắng cực mỏng    Âm hư hỏa vượng\nThủy bất tế hỏa hoặc chân\nHồng, nhiều vết nứt sâu |Gần như không rêu\nâm hao tổn\nKhí phần nhiệt thịnh hoắc\nHồng    Vàng mỏng\ntrường có vị nhiệt\nHồng    Vàng trơn    Thấp nhiệt nhập khí phần\nTà nhiệt thâm nhập, lý kết\nHồng    Vàng dày khô\nđã thành\nHồng    Đen khô    Hỏa nhiệt thương âm\nNhiệt đã theo khí vào\nĐỏ sẫm    Vàng úa\ndoanh\nVàng sâu hoặc vàng, vàng\nĐỏ tím    trắng mà khô ít rêu hoặc    Nhiệt vào phần huyết\nkhông rêu\nNội hàn cực nặng, xuất\nXanh tím    Trắng ẩm\nhuyết ứ trệ",
+      "confidence": 0.9639945777932342
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0052_006_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          2818
+        ],
+        [
+          1493,
+          2818
+        ],
+        [
+          1493,
+          2876
+        ],
+        [
+          283,
+          2876
+        ]
+      ],
+      "score": 0.8887736201286316,
+      "y_pos": 2818,
+      "text": "4. Một số lài liệu hiện đại nghiên cứu về thiệt chẩn",
+      "confidence": 0.9996425421149643
+    },
+    {
+      "type": "text",
+      "img_path": "p0052_001_text.png",
+      "bbox": [
+        [
+          281,
+          2908
+        ],
+        [
+          2356,
+          2908
+        ],
+        [
+          2356,
+          3098
+        ],
+        [
+          281,
+          3098
+        ]
+      ],
+      "score": 0.963581383228302,
+      "y_pos": 2908,
+      "text": "Gần đây tài liệu vận dụng tri thức và phương pháp hiện đại vào nghiên cứu thiệt chẩn Đông\ny ngày càng nhiều, từ tổ chức học, sinh hóa học, vi sinh vật học và ở các góc độ khác nhau\ncủa các bộ môn lâm sàng, người ta đã quan sát về sự biến hóa của thể và chất lưỡi cho thấy",
+      "confidence": 0.9996005115016932
+    },
+    {
+      "type": "footer",
+      "img_path": "p0052_004_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1431,
+          3333
+        ],
+        [
+          1431,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9011715650558472,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9984734069626287
+    },
+    {
+      "type": "number",
+      "img_path": "p0052_007_number.png",
+      "bbox": [
+        [
+          2329,
+          3339
+        ],
+        [
+          2354,
+          3339
+        ],
+        [
+          2354,
+          3373
+        ],
+        [
+          2329,
+          3373
+        ]
+      ],
+      "score": 0.8207352757453918,
+      "y_pos": 3339,
+      "text": "\n    \n    \n\n\n    \n\n\n\n.    \n\n\n        \n\n",
+      "confidence": 0.9637252642285257
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0052.png"
+}

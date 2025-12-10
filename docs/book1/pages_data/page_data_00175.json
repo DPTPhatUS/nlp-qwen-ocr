@@ -1,0 +1,188 @@
+{
+  "page_num": 175,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0175_005_text.png",
+      "bbox": [
+        [
+          512,
+          445
+        ],
+        [
+          1095,
+          445
+        ],
+        [
+          1095,
+          670
+        ],
+        [
+          512,
+          670
+        ]
+      ],
+      "score": 0.5834762454032898,
+      "y_pos": 445,
+      "text": "C. Ôn bổ Tâm, Thận\nD. On dương thông mạch\nE. An thần định chí",
+      "confidence": 0.9738288181168692
+    },
+    {
+      "type": "text",
+      "img_path": "p0175_006_text.png",
+      "bbox": [
+        [
+          468,
+          1195
+        ],
+        [
+          1712,
+          1195
+        ],
+        [
+          1712,
+          1251
+        ],
+        [
+          468,
+          1251
+        ]
+      ],
+      "score": 0.5158199667930603,
+      "y_pos": 1195,
+      "text": "10. Pháp trị phù hợp với hội chứng Bàng quang hư hàn",
+      "confidence": 0.9996117011264518
+    },
+    {
+      "type": "text",
+      "img_path": "p0175_003_text.png",
+      "bbox": [
+        [
+          512,
+          1272
+        ],
+        [
+          1100,
+          1272
+        ],
+        [
+          1100,
+          1662
+        ],
+        [
+          512,
+          1662
+        ]
+      ],
+      "score": 0.7524930834770203,
+      "y_pos": 1272,
+      "text": "A. Ôn Thận cố sáp\nB. Ôn bổ Bàng quang\nC. Ôn Bàng quang bất cố\nD. Ôn hàn hóa thấp\nE. Ôn bổ Thận dương",
+      "confidence": 0.9629101638988147
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0175_002_paragraph_title.png",
+      "bbox": [
+        [
+          348,
+          1717
+        ],
+        [
+          897,
+          1717
+        ],
+        [
+          897,
+          1782
+        ],
+        [
+          348,
+          1782
+        ]
+      ],
+      "score": 0.8385850787162781,
+      "y_pos": 1717,
+      "text": "CAU HOI NHAN QUA",
+      "confidence": 0.6251010861661699
+    },
+    {
+      "type": "text",
+      "img_path": "p0175_004_text.png",
+      "bbox": [
+        [
+          462,
+          2405
+        ],
+        [
+          1994,
+          2405
+        ],
+        [
+          1994,
+          2952
+        ],
+        [
+          462,
+          2952
+        ]
+      ],
+      "score": 0.6025274991989136,
+      "y_pos": 2405,
+      "text": "2. a- Trong HC Thận khí bất túc, có triệu chứng luôn mệt mỏi bởi vì\nb- Thận chủ kỹ xảo, Thận khí bất túc nên sinh triệu chứng này\nA. Nếu a đúng, b đúng, a và b có liên quan nhân quả\nB. Nếu a đúng, b đúng, a và b không liên quan nhân quả\nC. Nếu a đúng, b sai\nD. Nếu a sai, b đúng\nE. Nếu a sai, b sai",
+      "confidence": 0.9690432436606223
+    },
+    {
+      "type": "number",
+      "img_path": "p0175_001_number.png",
+      "bbox": [
+        [
+          353,
+          3110
+        ],
+        [
+          430,
+          3110
+        ],
+        [
+          430,
+          3149
+        ],
+        [
+          353,
+          3149
+        ]
+      ],
+      "score": 0.8519354462623596,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0175_000_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1074,
+          3311
+        ],
+        [
+          1074,
+          3367
+        ],
+        [
+          294,
+          3367
+        ]
+      ],
+      "score": 0.9177398085594177,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8891090188707624
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0175.png"
+}

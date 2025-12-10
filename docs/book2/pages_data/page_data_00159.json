@@ -1,0 +1,760 @@
+{
+  "page_num": 159,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0159_007_header.png",
+      "bbox": [
+        [
+          1606,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          202
+        ],
+        [
+          1606,
+          202
+        ]
+      ],
+      "score": 0.9335708022117615,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7400914178717704
+    },
+    {
+      "type": "header",
+      "img_path": "p0159_019_header.png",
+      "bbox": [
+        [
+          228,
+          155
+        ],
+        [
+          906,
+          155
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.913357138633728,
+      "y_pos": 155,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0159_011_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          349
+        ],
+        [
+          535,
+          349
+        ],
+        [
+          535,
+          396
+        ],
+        [
+          227,
+          396
+        ]
+      ],
+      "score": 0.9208893179893494,
+      "y_pos": 349,
+      "text": "10. Thiên tru",
+      "confidence": 0.8976537783940634
+    },
+    {
+      "type": "text",
+      "img_path": "p0159_013_text.png",
+      "bbox": [
+        [
+          287,
+          438
+        ],
+        [
+          1410,
+          438
+        ],
+        [
+          1410,
+          494
+        ],
+        [
+          287,
+          494
+        ]
+      ],
+      "score": 0.916836678981781,
+      "y_pos": 438,
+      "text": "Vị trí: Ở chân tóc sau gáy, chỗ lõm ngoài gân lớn.",
+      "confidence": 0.9924038556905893
+    },
+    {
+      "type": "text",
+      "img_path": "p0159_002_text.png",
+      "bbox": [
+        [
+          281,
+          528
+        ],
+        [
+          2358,
+          528
+        ],
+        [
+          2358,
+          657
+        ],
+        [
+          281,
+          657
+        ]
+      ],
+      "score": 0.960426926612854,
+      "y_pos": 528,
+      "text": "Cách lấy huyệt: Ngồi ngay hoặc nằm sấp, từ huyệt Á môn ra mỗi bên 1,3 thốn, khoảng bề\nngang hai ngón tay, chỗ lõm ngoài gân lớn sau gáy (cơ thang) (H. 72).",
+      "confidence": 0.9964579564671658
+    },
+    {
+      "type": "text",
+      "img_path": "p0159_010_text.png",
+      "bbox": [
+        [
+          284,
+          693
+        ],
+        [
+          2110,
+          693
+        ],
+        [
+          2110,
+          745
+        ],
+        [
+          284,
+          745
+        ]
+      ],
+      "score": 0.9217071533203125,
+      "y_pos": 693,
+      "text": "<b>Cách châm:</b> Châm đứng kim, hoặc từ ngoài vào, sâu 0,5 đến 1 thôn. Không cứu.",
+      "confidence": 0.990669311979149
+    },
+    {
+      "type": "text",
+      "img_path": "p0159_015_text.png",
+      "bbox": [
+        [
+          284,
+          784
+        ],
+        [
+          2260,
+          784
+        ],
+        [
+          2260,
+          840
+        ],
+        [
+          284,
+          840
+        ]
+      ],
+      "score": 0.9165893197059631,
+      "y_pos": 784,
+      "text": "Chủ trị: Đau phía sau đầu, cổ gáy bong gân, vai và bả vai đau, sái cổ, tắc mũi, mất ngủ.",
+      "confidence": 0.9819948712984721
+    },
+    {
+      "type": "text",
+      "img_path": "p0159_006_text.png",
+      "bbox": [
+        [
+          283,
+          875
+        ],
+        [
+          2357,
+          875
+        ],
+        [
+          2357,
+          1000
+        ],
+        [
+          283,
+          1000
+        ]
+      ],
+      "score": 0.9434803128242493,
+      "y_pos": 875,
+      "text": "Tác dụng phối hợp: Với Phong trì trị sốt cao không ra mồ hôi; với Hậu khê trị sái cổ; với\nDưỡng lão trị đau vai.",
+      "confidence": 0.975777210633615
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0159_018_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          1041
+        ],
+        [
+          489,
+          1041
+        ],
+        [
+          489,
+          1089
+        ],
+        [
+          228,
+          1089
+        ]
+      ],
+      "score": 0.9142818450927734,
+      "y_pos": 1041,
+      "text": "11. Đai trữ",
+      "confidence": 0.9054245811242324
+    },
+    {
+      "type": "text",
+      "img_path": "p0159_027_text.png",
+      "bbox": [
+        [
+          289,
+          1130
+        ],
+        [
+          1225,
+          1130
+        ],
+        [
+          1225,
+          1184
+        ],
+        [
+          289,
+          1184
+        ]
+      ],
+      "score": 0.8943454623222351,
+      "y_pos": 1130,
+      "text": "Vị trí: Dưới đốt sống lưng số 1 ra hai bên",
+      "confidence": 0.9839177565141157
+    },
+    {
+      "type": "text",
+      "img_path": "p0159_000_text.png",
+      "bbox": [
+        [
+          281,
+          1221
+        ],
+        [
+          2359,
+          1221
+        ],
+        [
+          2359,
+          1419
+        ],
+        [
+          281,
+          1419
+        ]
+      ],
+      "score": 0.9716496467590332,
+      "y_pos": 1221,
+      "text": "Cách lấy huyệt: Ngồi ngay, từ giữa gáy thẳng xuống, trước hết gặp ngay lồi cao xương\nsống, đó mà mỏm gai đốt cổ số 7, xuống thêm 1 đốt nữa, đó là đốt sống lưng số 1, ngay\ndưới đốt sống lưng số 1 này sang ngang mỗi bên 1,5 thốn là huyệt (H. 68).",
+      "confidence": 0.9961317617709673
+    },
+    {
+      "type": "text",
+      "img_path": "p0159_020_text.png",
+      "bbox": [
+        [
+          284,
+          1456
+        ],
+        [
+          2064,
+          1456
+        ],
+        [
+          2064,
+          1508
+        ],
+        [
+          284,
+          1508
+        ]
+      ],
+      "score": 0.9132953882217407,
+      "y_pos": 1456,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3-0,5 thốn. Cứu 3-7 mồi, hơ từ 10-20 phút.",
+      "confidence": 0.9899474774536333
+    },
+    {
+      "type": "text",
+      "img_path": "p0159_022_text.png",
+      "bbox": [
+        [
+          284,
+          1547
+        ],
+        [
+          2130,
+          1547
+        ],
+        [
+          2130,
+          1600
+        ],
+        [
+          284,
+          1600
+        ]
+      ],
+      "score": 0.9098600745201111,
+      "y_pos": 1547,
+      "text": "Chủ trị: Ho hắng, đau răng, đau sau đầu, phát sốt, xương bả vai đau buốt, sốt rét.",
+      "confidence": 0.9829259273551759
+    },
+    {
+      "type": "text",
+      "img_path": "p0159_024_text.png",
+      "bbox": [
+        [
+          287,
+          1640
+        ],
+        [
+          2030,
+          1640
+        ],
+        [
+          2030,
+          1695
+        ],
+        [
+          287,
+          1695
+        ]
+      ],
+      "score": 0.9058771133422852,
+      "y_pos": 1640,
+      "text": "Tác dụng phối hợp: Với Trường cường trị đau tức ở tiểu trường (sán thống).",
+      "confidence": 0.9918451191563356
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0159_021_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          1733
+        ],
+        [
+          604,
+          1733
+        ],
+        [
+          604,
+          1782
+        ],
+        [
+          228,
+          1782
+        ]
+      ],
+      "score": 0.9101012349128723,
+      "y_pos": 1733,
+      "text": "12. Phong môn",
+      "confidence": 0.84548921585083
+    },
+    {
+      "type": "text",
+      "img_path": "p0159_004_text.png",
+      "bbox": [
+        [
+          281,
+          1820
+        ],
+        [
+          2358,
+          1820
+        ],
+        [
+          2358,
+          1946
+        ],
+        [
+          281,
+          1946
+        ]
+      ],
+      "score": 0.9578271508216858,
+      "y_pos": 1820,
+      "text": "Vị trí: Từ giữa chỗ lõm dưới đốt sống lưng số 2 sang mỗi bên 1,5 thốn (H. 68). Ngồi ngay lấy\nhuyệt.",
+      "confidence": 0.9932694432741784
+    },
+    {
+      "type": "text",
+      "img_path": "p0159_001_text.png",
+      "bbox": [
+        [
+          282,
+          1986
+        ],
+        [
+          2358,
+          1986
+        ],
+        [
+          2358,
+          2105
+        ],
+        [
+          282,
+          2105
+        ]
+      ],
+      "score": 0.9615112543106079,
+      "y_pos": 1986,
+      "text": "Cách châm: Châm chếch kim (từ trong ra ngoài, từ trên xuống dưới, từ sau ra trước), sâu\n0.5 thốn. Cứu 5 mồi, hơ 5 phút.",
+      "confidence": 0.986794308391119
+    },
+    {
+      "type": "text",
+      "img_path": "p0159_012_text.png",
+      "bbox": [
+        [
+          285,
+          2146
+        ],
+        [
+          1996,
+          2146
+        ],
+        [
+          1996,
+          2201
+        ],
+        [
+          285,
+          2201
+        ]
+      ],
+      "score": 0.9207728505134583,
+      "y_pos": 2146,
+      "text": "Chủ trị: Cảm mạo, phát sốt, ho hắng, đau đầu, đau lưng trên, đau thắt lưng.",
+      "confidence": 0.44527425200908216
+    },
+    {
+      "type": "text",
+      "img_path": "p0159_005_text.png",
+      "bbox": [
+        [
+          284,
+          2239
+        ],
+        [
+          2358,
+          2239
+        ],
+        [
+          2358,
+          2364
+        ],
+        [
+          284,
+          2364
+        ]
+      ],
+      "score": 0.9564997553825378,
+      "y_pos": 2239,
+      "text": "<i>Tác dụng phối hợp:</i> Với <i>Đại chùy</i> hoặc <i>Đào đạo</i> trị cảm mạo, châm xong giác (bầu hút); với\nKhúc trì, Hợp cốc trị cảm mạo, sốt cao; với Phế du trị cảm mạo, ho, việm phổi.",
+      "confidence": 0.993974990456512
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0159_017_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          2400
+        ],
+        [
+          496,
+          2400
+        ],
+        [
+          496,
+          2449
+        ],
+        [
+          229,
+          2449
+        ]
+      ],
+      "score": 0.914839506149292,
+      "y_pos": 2400,
+      "text": "4 7    Phê du",
+      "confidence": 0.7549111619591713
+    },
+    {
+      "type": "text",
+      "img_path": "p0159_026_text.png",
+      "bbox": [
+        [
+          288,
+          2492
+        ],
+        [
+          1957,
+          2492
+        ],
+        [
+          1957,
+          2548
+        ],
+        [
+          288,
+          2548
+        ]
+      ],
+      "score": 0.9024366736412048,
+      "y_pos": 2492,
+      "text": "Vị trí: Từ giữa chỗ lõm dưới đốt sống lưng 3 sang ngang mỗi bên 1,5 thốn",
+      "confidence": 0.9962461220251547
+    },
+    {
+      "type": "text",
+      "img_path": "p0159_016_text.png",
+      "bbox": [
+        [
+          286,
+          2583
+        ],
+        [
+          1382,
+          2583
+        ],
+        [
+          1382,
+          2640
+        ],
+        [
+          286,
+          2640
+        ]
+      ],
+      "score": 0.9154670834541321,
+      "y_pos": 2583,
+      "text": "Cách lấy huyệt: Ngồi ngay hay nằm sấp (H. 68)",
+      "confidence": 0.6263548452803429
+    },
+    {
+      "type": "text",
+      "img_path": "p0159_008_text.png",
+      "bbox": [
+        [
+          284,
+          2676
+        ],
+        [
+          1901,
+          2676
+        ],
+        [
+          1901,
+          2727
+        ],
+        [
+          284,
+          2727
+        ]
+      ],
+      "score": 0.9257174134254456,
+      "y_pos": 2676,
+      "text": "Cách châm: Châm chếch kim, sâu 0,5 thốn. Cứu 5-7 mồi, hơ 5-20 phút",
+      "confidence": 0.38064471763723035
+    },
+    {
+      "type": "text",
+      "img_path": "p0159_009_text.png",
+      "bbox": [
+        [
+          284,
+          2767
+        ],
+        [
+          2139,
+          2767
+        ],
+        [
+          2139,
+          2824
+        ],
+        [
+          284,
+          2824
+        ]
+      ],
+      "score": 0.9240297079086304,
+      "y_pos": 2767,
+      "text": "Chủ trị: Lao phổi, ho, hen, ho gà, viêm phổi trẻ em và các bệnh về phổi nói chung.",
+      "confidence": 0.8078213050251916
+    },
+    {
+      "type": "text",
+      "img_path": "p0159_003_text.png",
+      "bbox": [
+        [
+          282,
+          2860
+        ],
+        [
+          2357,
+          2860
+        ],
+        [
+          2357,
+          2984
+        ],
+        [
+          282,
+          2984
+        ]
+      ],
+      "score": 0.958249032497406,
+      "y_pos": 2860,
+      "text": "Tác dụng phối hợp: Với Thiên đột chữa ho hắng; với Nghinh hương trị chảy nước mũi\nkhông dứt; với <i>Phong long</i> trị đờm nhiều.",
+      "confidence": 0.9941092313543729
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0159_025_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          3022
+        ],
+        [
+          626,
+          3022
+        ],
+        [
+          626,
+          3074
+        ],
+        [
+          228,
+          3074
+        ]
+      ],
+      "score": 0.9028782844543457,
+      "y_pos": 3022,
+      "text": "14. Quyết âm du",
+      "confidence": 0.9117736921590918
+    },
+    {
+      "type": "text",
+      "img_path": "p0159_014_text.png",
+      "bbox": [
+        [
+          288,
+          3112
+        ],
+        [
+          1963,
+          3112
+        ],
+        [
+          1963,
+          3170
+        ],
+        [
+          288,
+          3170
+        ]
+      ],
+      "score": 0.9167941808700562,
+      "y_pos": 3112,
+      "text": "Vị trí: Từ giữa chỗ lõm dưới đốt sống lưng 4 sang ngang mỗi bên 1,5 thốn.",
+      "confidence": 0.9936231366793314
+    },
+    {
+      "type": "footer",
+      "img_path": "p0159_023_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9065498113632202,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0159_028_number.png",
+      "bbox": [
+        [
+          2301,
+          3340
+        ],
+        [
+          2351,
+          3340
+        ],
+        [
+          2351,
+          3377
+        ],
+        [
+          2301,
+          3377
+        ]
+      ],
+      "score": 0.8624203205108643,
+      "y_pos": 3340,
+      "text": "    \n\n    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0159.png"
+}

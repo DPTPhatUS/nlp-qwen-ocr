@@ -1,0 +1,162 @@
+{
+  "page_num": 542,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0542_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2371,
+          144
+        ],
+        [
+          2371,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9172055721282959,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7566693045553707
+    },
+    {
+      "type": "header",
+      "img_path": "p0542_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1470,
+          152
+        ],
+        [
+          1470,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.9211258292198181,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9963005375862122
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0542_005_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          324
+        ],
+        [
+          1083,
+          324
+        ],
+        [
+          1083,
+          381
+        ],
+        [
+          225,
+          381
+        ]
+      ],
+      "score": 0.8182126879692078,
+      "y_pos": 324,
+      "text": "Phần 25. CẤP CỨU CHOÁNG NGẤT",
+      "confidence": 0.9926870445410411
+    },
+    {
+      "type": "text",
+      "img_path": "p0542_004_text.png",
+      "bbox": [
+        [
+          227,
+          415
+        ],
+        [
+          1948,
+          415
+        ],
+        [
+          1948,
+          1672
+        ],
+        [
+          227,
+          1672
+        ]
+      ],
+      "score": 0.8545526266098022,
+      "y_pos": 415,
+      "text": "615. Choáng tiền đình: Thái khê, An miên, Thái xung.\n616. Choáng váng: An miên, Khúc trì, Phong long.\n617. Choáng ngất xỉu: Bách hội, Nội quan, Nhân trung.\n618. Ngất xỉu: Tố liêu, Nội quan, Bách hội, Nhân trung.\n619. Ngất xỉu do trúng độc: Nội quan, Dũng tuyền, Túc tam lý.\n620. Ngất lịm do trúng độc: Tổ liêu, Nội quan, Túc tam lý.\n621. Ngất xỉu do trúng độc: Nhân trung, Nội quan, Dũng tuyền, Túc tam lý.\n622. Hôn mê: Lệ đoài, Nhân trung, Nội quan.\n623. Trúng gió bất tỉnh: Thiếu xung, Dũng tuyền, Nhân trung, Phong long.\n624. Trúng gió hư thoát: Thần khuyết, Khí hải, Quan nguyên, Tam âm giao.\n625. Hư thoát: Cứu Bách hội, Thần khuyết, Quan nguyên.\n626. Đề phòng trúng gió và tụt huyết áp: Cứu Túc tam lý, Huyền chung.\n627. Chết đuối nước: Nhân trung, Trung xung, Hội âm.\n628. Cấp cứu sau khi bị điện giật: Tố liêu, Nội quan, Dũng tuyền.",
+      "confidence": 0.9955807057766439
+    },
+    {
+      "type": "number",
+      "img_path": "p0542_003_number.png",
+      "bbox": [
+        [
+          2318,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2318,
+          3374
+        ]
+      ],
+      "score": 0.8610426187515259,
+      "y_pos": 3337,
+      "text": "    \n            \n        \n            \n            \n    .\n    \n    \n",
+      "confidence": 0.9755434940258662
+    },
+    {
+      "type": "footer",
+      "img_path": "p0542_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1325,
+          3341
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9136866331100464,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987242975324955
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0542.png"
+}

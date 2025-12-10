@@ -1,0 +1,266 @@
+{
+  "page_num": 574,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0574_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9160411357879639,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7569236588620004
+    },
+    {
+      "type": "header",
+      "img_path": "p0574_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1468,
+          152
+        ],
+        [
+          1468,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9200457334518433,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TÂN. KỲ HUYỆT",
+      "confidence": 0.9977769827842713
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0574_004_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          325
+        ],
+        [
+          965,
+          325
+        ],
+        [
+          965,
+          384
+        ],
+        [
+          227,
+          384
+        ]
+      ],
+      "score": 0.7342614531517029,
+      "y_pos": 325,
+      "text": "Phần 21. BÊNH ĐƯỜNG RUỘT",
+      "confidence": 0.8455872650329883
+    },
+    {
+      "type": "text",
+      "img_path": "p0574_009_text.png",
+      "bbox": [
+        [
+          231,
+          694
+        ],
+        [
+          2365,
+          694
+        ],
+        [
+          2365,
+          823
+        ],
+        [
+          231,
+          823
+        ]
+      ],
+      "score": 0.5161480903625488,
+      "y_pos": 694,
+      "text": "283. Viêm ruột: Chỉ tả, Tiếp cốt, Bĩ căn, Quan thỏ, Kinh trung, Trúc trượng, Thực quản, Khí\ntrung.",
+      "confidence": 0.9365834679094054
+    },
+    {
+      "type": "text",
+      "img_path": "p0574_007_text.png",
+      "bbox": [
+        [
+          232,
+          1042
+        ],
+        [
+          1402,
+          1042
+        ],
+        [
+          1402,
+          1098
+        ],
+        [
+          232,
+          1098
+        ]
+      ],
+      "score": 0.5410475730895996,
+      "y_pos": 1042,
+      "text": "286. Viêm ruột mạn tính: Tê tứ biên, Cứu tam giác.",
+      "confidence": 0.9996833480321444
+    },
+    {
+      "type": "text",
+      "img_path": "p0574_008_text.png",
+      "bbox": [
+        [
+          232,
+          1134
+        ],
+        [
+          1054,
+          1134
+        ],
+        [
+          1054,
+          1189
+        ],
+        [
+          232,
+          1189
+        ]
+      ],
+      "score": 0.5253239870071411,
+      "y_pos": 1134,
+      "text": "287. Tăng nhu động ruột: Duy bào.",
+      "confidence": 0.9908635769571577
+    },
+    {
+      "type": "text",
+      "img_path": "p0574_006_text.png",
+      "bbox": [
+        [
+          232,
+          1226
+        ],
+        [
+          893,
+          1226
+        ],
+        [
+          893,
+          1279
+        ],
+        [
+          232,
+          1279
+        ]
+      ],
+      "score": 0.5590542554855347,
+      "y_pos": 1226,
+      "text": "288. Ruột co thắt: Khí trung.",
+      "confidence": 0.9942872851125656
+    },
+    {
+      "type": "text",
+      "img_path": "p0574_005_text.png",
+      "bbox": [
+        [
+          230,
+          1319
+        ],
+        [
+          858,
+          1319
+        ],
+        [
+          858,
+          1371
+        ],
+        [
+          230,
+          1371
+        ]
+      ],
+      "score": 0.573483407497406,
+      "y_pos": 1319,
+      "text": "289. Lao ruột: Trúc trượng.",
+      "confidence": 0.9854146509334959
+    },
+    {
+      "type": "number",
+      "img_path": "p0574_003_number.png",
+      "bbox": [
+        [
+          2316,
+          3337
+        ],
+        [
+          2368,
+          3337
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2316,
+          3374
+        ]
+      ],
+      "score": 0.8672593832015991,
+      "y_pos": 3337,
+      "text": "    \n            \n        \n\n\n    \n\n\n\n\n\n        \n    \n\n۰\n",
+      "confidence": 0.9815760025611291
+    },
+    {
+      "type": "footer",
+      "img_path": "p0574_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9136039018630981,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9522406695024023
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0574.png"
+}

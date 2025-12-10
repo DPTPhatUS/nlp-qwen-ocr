@@ -1,0 +1,656 @@
+{
+  "page_num": 648,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0648_009_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9285736680030823,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0648_016_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1171,
+          152
+        ],
+        [
+          1171,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.9137006402015686,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐỔ KINH LẠC",
+      "confidence": 0.9932387089117979
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0648_011_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          328
+        ],
+        [
+          740,
+          328
+        ],
+        [
+          740,
+          378
+        ],
+        [
+          224,
+          378
+        ]
+      ],
+      "score": 0.9212517738342285,
+      "y_pos": 328,
+      "text": "4. Đàm hoả nôi nhiễu",
+      "confidence": 0.9864175942811099
+    },
+    {
+      "type": "text",
+      "img_path": "p0648_004_text.png",
+      "bbox": [
+        [
+          221,
+          419
+        ],
+        [
+          2360,
+          419
+        ],
+        [
+          2360,
+          544
+        ],
+        [
+          221,
+          544
+        ]
+      ],
+      "score": 0.9684252738952637,
+      "y_pos": 419,
+      "text": "Mô hình chỉ số nhiệt kinh lạc cơ bản: Tâm bào (+BL), nghĩa là kinh Tâm có trạng thái nhiệt\nbệnh lý. Số tương quan của kinh Tâm có giá trị tuyệt đối lớn hơn sai số giới hạn và mang dấu +.",
+      "confidence": 0.999129681343297
+    },
+    {
+      "type": "text",
+      "img_path": "p0648_006_text.png",
+      "bbox": [
+        [
+          281,
+          583
+        ],
+        [
+          2359,
+          583
+        ],
+        [
+          2359,
+          706
+        ],
+        [
+          281,
+          706
+        ]
+      ],
+      "score": 0.9678250551223755,
+      "y_pos": 583,
+      "text": "a. Triệu chứng: Thần chí tán loạn, cuồng thao vọng động, nói năng lung tung, khi cười khi\nkhóc, đánh người, chửi người, lưỡi hồng, rêu lưỡi vàng trơn, mạch hoạt, sác.",
+      "confidence": 0.9981894601723214
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0648_024_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          747
+        ],
+        [
+          982,
+          747
+        ],
+        [
+          982,
+          796
+        ],
+        [
+          285,
+          796
+        ]
+      ],
+      "score": 0.7850841283798218,
+      "y_pos": 747,
+      "text": "Mô hình chỉ số nhiệt kinh lạc",
+      "confidence": 0.9980724338562258
+    },
+    {
+      "type": "text",
+      "img_path": "p0648_019_text.png",
+      "bbox": [
+        [
+          282,
+          835
+        ],
+        [
+          2331,
+          835
+        ],
+        [
+          2331,
+          893
+        ],
+        [
+          282,
+          893
+        ]
+      ],
+      "score": 0.8979277610778809,
+      "y_pos": 835,
+      "text": "Tâm bào (+BL), Tâm (-), Tiếu trường (-), Tam tiêu (+), Can (+), Tỳ (+), Vị (+), Bàng quang (-),...",
+      "confidence": 0.996087229847908
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0648_021_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          930
+        ],
+        [
+          703,
+          930
+        ],
+        [
+          703,
+          980
+        ],
+        [
+          285,
+          980
+        ]
+      ],
+      "score": 0.8796361684799194,
+      "y_pos": 930,
+      "text": "b. Phương huyệt",
+      "confidence": 0.9911474094671362
+    },
+    {
+      "type": "text",
+      "img_path": "p0648_008_text.png",
+      "bbox": [
+        [
+          283,
+          1019
+        ],
+        [
+          1250,
+          1019
+        ],
+        [
+          1250,
+          1068
+        ],
+        [
+          283,
+          1068
+        ]
+      ],
+      "score": 0.9287936687469482,
+      "y_pos": 1019,
+      "text": "Tả: Tâm du, Thần đạo, Thiên tỉnh, Khúc trì.",
+      "confidence": 0.9955319060219658
+    },
+    {
+      "type": "text",
+      "img_path": "p0648_013_text.png",
+      "bbox": [
+        [
+          285,
+          1110
+        ],
+        [
+          645,
+          1110
+        ],
+        [
+          645,
+          1162
+        ],
+        [
+          285,
+          1162
+        ]
+      ],
+      "score": 0.9198232889175415,
+      "y_pos": 1110,
+      "text": "Bổ: Túc Tam lý.",
+      "confidence": 0.8126342857585234
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0648_020_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          1207
+        ],
+        [
+          1000,
+          1207
+        ],
+        [
+          1000,
+          1256
+        ],
+        [
+          286,
+          1256
+        ]
+      ],
+      "score": 0.8964755535125732,
+      "y_pos": 1207,
+      "text": "c. Giảng nghĩa phương huyệt",
+      "confidence": 0.9980613548180153
+    },
+    {
+      "type": "text",
+      "img_path": "p0648_002_text.png",
+      "bbox": [
+        [
+          281,
+          1294
+        ],
+        [
+          2358,
+          1294
+        ],
+        [
+          2358,
+          1489
+        ],
+        [
+          281,
+          1489
+        ]
+      ],
+      "score": 0.977599561214447,
+      "y_pos": 1294,
+      "text": "Tả <i>Tâm du, Thần đạo, Thiên tỉnh</i> để tả nhiệt ở Tâm bào đã làm cho thần chí tán loạn, hoang\ntưởng, ảo giác, nói năng loạn ý. <i>Tả Khúc trì,</i> bổ <i>Túc Tam lý</i> là phương huyệt giải phong tà\nnhiệt ở gân bắp gây ra thao cuồng, vật vã có hiệu quả nhanh.",
+      "confidence": 0.998976215269853
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0648_012_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1528
+        ],
+        [
+          748,
+          1528
+        ],
+        [
+          748,
+          1574
+        ],
+        [
+          226,
+          1574
+        ]
+      ],
+      "score": 0.9208125472068787,
+      "y_pos": 1528,
+      "text": "5. Đàm mê Tâm khiếu",
+      "confidence": 0.9569545303072248
+    },
+    {
+      "type": "text",
+      "img_path": "p0648_005_text.png",
+      "bbox": [
+        [
+          222,
+          1620
+        ],
+        [
+          2357,
+          1620
+        ],
+        [
+          2357,
+          1743
+        ],
+        [
+          222,
+          1743
+        ]
+      ],
+      "score": 0.9680110812187195,
+      "y_pos": 1620,
+      "text": "Mô hình chỉ số nhiệt kinh lạc cơ bản: Tâm (-BL), nghĩa là kinhTâm có trạng thái hàn bệnh lý.\nSố tương quan của kinh Tâm có giá trị tuyệt đối lớn hơn sai số giới hạn và mang dấu -.",
+      "confidence": 0.9987373458333242
+    },
+    {
+      "type": "text",
+      "img_path": "p0648_001_text.png",
+      "bbox": [
+        [
+          279,
+          1782
+        ],
+        [
+          2359,
+          1782
+        ],
+        [
+          2359,
+          1976
+        ],
+        [
+          279,
+          1976
+        ]
+      ],
+      "score": 0.9790107011795044,
+      "y_pos": 1782,
+      "text": "a. Triệu chứng: Thần chí suy, ý thức mơ hồ, nôn ra đờm dãi hoặc hôn mê bất tỉnh, có tiếng\nđờm rít trong họng, lưỡi cứng khô không nói được, rêu lưỡi trắng trơn, mạch hoạt. Nếu kiêm\nchứng đàm nhiệt thì lưỡi hồng, rêu vàng, mạch hoạt mà sác.",
+      "confidence": 0.9970756382223159
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0648_017_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          2015
+        ],
+        [
+          981,
+          2015
+        ],
+        [
+          981,
+          2068
+        ],
+        [
+          285,
+          2068
+        ]
+      ],
+      "score": 0.913433313369751,
+      "y_pos": 2015,
+      "text": "Mô hình chỉ số nhiệt kinh lạc",
+      "confidence": 0.9980724338562258
+    },
+    {
+      "type": "text",
+      "img_path": "p0648_003_text.png",
+      "bbox": [
+        [
+          280,
+          2106
+        ],
+        [
+          2360,
+          2106
+        ],
+        [
+          2360,
+          2304
+        ],
+        [
+          280,
+          2304
+        ]
+      ],
+      "score": 0.9765585660934448,
+      "y_pos": 2106,
+      "text": "Tâm (-BL) Tiểu trường (-), Tam tiêu (-), Đại trường (-), Phế (+), Tâm bào (-); giá trị tuyệt đối\nsố tương quan kinh Tâm bào lớn hơn các giá trị tuyệt đối số tương quan mang dấu - của các\nkinh ở vùng chi trên; Bàng quang (-), Thận (-), Đảm (-), Can (+).",
+      "confidence": 0.9994545751206146
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0648_014_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          2343
+        ],
+        [
+          702,
+          2343
+        ],
+        [
+          702,
+          2393
+        ],
+        [
+          285,
+          2393
+        ]
+      ],
+      "score": 0.919432520866394,
+      "y_pos": 2343,
+      "text": "b. Phương huyệt",
+      "confidence": 0.9914109777001774
+    },
+    {
+      "type": "text",
+      "img_path": "p0648_022_text.png",
+      "bbox": [
+        [
+          284,
+          2434
+        ],
+        [
+          843,
+          2434
+        ],
+        [
+          843,
+          2479
+        ],
+        [
+          284,
+          2479
+        ]
+      ],
+      "score": 0.8768956065177917,
+      "y_pos": 2434,
+      "text": "Chích <i>Nhĩ tiêm</i> năn máu.",
+      "confidence": 0.9945678578482734
+    },
+    {
+      "type": "text",
+      "img_path": "p0648_010_text.png",
+      "bbox": [
+        [
+          282,
+          2525
+        ],
+        [
+          1641,
+          2525
+        ],
+        [
+          1641,
+          2578
+        ],
+        [
+          282,
+          2578
+        ]
+      ],
+      "score": 0.9275836944580078,
+      "y_pos": 2525,
+      "text": "Châm mạnh, Nhân trung, Bách hội, Dũng tuyển, Trung xung.",
+      "confidence": 0.9914476707063872
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0648_015_paragraph_title.png",
+      "bbox": [
+        [
+          285,
+          2619
+        ],
+        [
+          1000,
+          2619
+        ],
+        [
+          1000,
+          2670
+        ],
+        [
+          285,
+          2670
+        ]
+      ],
+      "score": 0.9165632724761963,
+      "y_pos": 2619,
+      "text": "c. Giảng nghĩa phương huyệt",
+      "confidence": 0.9981069667585964
+    },
+    {
+      "type": "text",
+      "img_path": "p0648_000_text.png",
+      "bbox": [
+        [
+          280,
+          2707
+        ],
+        [
+          2361,
+          2707
+        ],
+        [
+          2361,
+          2969
+        ],
+        [
+          280,
+          2969
+        ]
+      ],
+      "score": 0.9821401238441467,
+      "y_pos": 2707,
+      "text": "Chích Nhĩ tiêm nặn máu làm giảm khí amôniắc trong máu, làm giảm thấp u-rê máu, có thể\nchống hôn mê sâu. <i>Nhân trung, Bách hội, Dũng tuyền</i> có tác dụng khai khiếu tỉnh thần,\nthường dùng cấp cứu choáng ngất. Trung xung là tỉnh huyệt của kinh Tâm bào, giải tà khí ở\nTâm.",
+      "confidence": 0.9888291451717052
+    },
+    {
+      "type": "text",
+      "img_path": "p0648_007_text.png",
+      "bbox": [
+        [
+          281,
+          3010
+        ],
+        [
+          2359,
+          3010
+        ],
+        [
+          2359,
+          3132
+        ],
+        [
+          281,
+          3132
+        ]
+      ],
+      "score": 0.9642223119735718,
+      "y_pos": 3010,
+      "text": "Sau đó tìm đến nguyên nhân ở bệnh gốc nào là chính đã gây ra hôn mê để chữa vào bệnh\ngốc đó.",
+      "confidence": 0.9467240114544713
+    },
+    {
+      "type": "number",
+      "img_path": "p0648_023_number.png",
+      "bbox": [
+        [
+          2305,
+          3337
+        ],
+        [
+          2354,
+          3337
+        ],
+        [
+          2354,
+          3374
+        ],
+        [
+          2305,
+          3374
+        ]
+      ],
+      "score": 0.8577643036842346,
+      "y_pos": 3337,
+      "text": "    \n    \n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0648_018_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3388
+        ],
+        [
+          228,
+          3388
+        ]
+      ],
+      "score": 0.9076603651046753,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985950510456877
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0648.png"
+}

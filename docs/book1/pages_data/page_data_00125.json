@@ -1,0 +1,630 @@
+{
+  "page_num": 125,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0125_021_header.png",
+      "bbox": [
+        [
+          1172,
+          503
+        ],
+        [
+          1305,
+          503
+        ],
+        [
+          1305,
+          548
+        ],
+        [
+          1172,
+          548
+        ]
+      ],
+      "score": 0.6209100484848022,
+      "y_pos": 503,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "doc_title",
+      "img_path": "p0125_023_doc_title.png",
+      "bbox": [
+        [
+          942,
+          643
+        ],
+        [
+          1531,
+          643
+        ],
+        [
+          1531,
+          728
+        ],
+        [
+          942,
+          728
+        ]
+      ],
+      "score": 0.5930864810943604,
+      "y_pos": 643,
+      "text": "BÊNH HOC TÝ - VI",
+      "confidence": 0.5614949001206292
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0125_004_paragraph_title.png",
+      "bbox": [
+        [
+          355,
+          917
+        ],
+        [
+          606,
+          917
+        ],
+        [
+          606,
+          980
+        ],
+        [
+          355,
+          980
+        ]
+      ],
+      "score": 0.8445537686347961,
+      "y_pos": 917,
+      "text": "<b>MUC TIÊU</b>",
+      "confidence": 0.9577242881059647
+    },
+    {
+      "type": "text",
+      "img_path": "p0125_022_text.png",
+      "bbox": [
+        [
+          352,
+          1029
+        ],
+        [
+          1304,
+          1029
+        ],
+        [
+          1304,
+          1092
+        ],
+        [
+          352,
+          1092
+        ]
+      ],
+      "score": 0.6030029058456421,
+      "y_pos": 1029,
+      "text": "Sau khi học xong bài này, sinh viên PHAI",
+      "confidence": 0.9964131272974468
+    },
+    {
+      "type": "text",
+      "img_path": "p0125_005_text.png",
+      "bbox": [
+        [
+          359,
+          1117
+        ],
+        [
+          2131,
+          1117
+        ],
+        [
+          2131,
+          1230
+        ],
+        [
+          359,
+          1230
+        ]
+      ],
+      "score": 0.8301529884338379,
+      "y_pos": 1117,
+      "text": "1. Giải thích được cơ sở lý luận của các hội chứng (từ nguyên nhân đến cơ chế\nsinh bênh và triều chứng)",
+      "confidence": 0.9869105733452523
+    },
+    {
+      "type": "text",
+      "img_path": "p0125_016_text.png",
+      "bbox": [
+        [
+          419,
+          1283
+        ],
+        [
+          1006,
+          1283
+        ],
+        [
+          1006,
+          1338
+        ],
+        [
+          419,
+          1338
+        ]
+      ],
+      "score": 0.6649267673492432,
+      "y_pos": 1283,
+      "text": "- Tỳ khí hư bất kiện vận.",
+      "confidence": 0.7962521314620972
+    },
+    {
+      "type": "text",
+      "img_path": "p0125_020_text.png",
+      "bbox": [
+        [
+          419,
+          1366
+        ],
+        [
+          897,
+          1366
+        ],
+        [
+          897,
+          1421
+        ],
+        [
+          419,
+          1421
+        ]
+      ],
+      "score": 0.6530748605728149,
+      "y_pos": 1366,
+      "text": "Tỳ khí hư hạ hãm.",
+      "confidence": 0.9974065611236974
+    },
+    {
+      "type": "text",
+      "img_path": "p0125_014_text.png",
+      "bbox": [
+        [
+          418,
+          1449
+        ],
+        [
+          1224,
+          1449
+        ],
+        [
+          1224,
+          1506
+        ],
+        [
+          418,
+          1506
+        ]
+      ],
+      "score": 0.6940755248069763,
+      "y_pos": 1449,
+      "text": "- Tỳ khí hư bất thống nhiếp huyết.",
+      "confidence": 0.995764434337616
+    },
+    {
+      "type": "text",
+      "img_path": "p0125_018_text.png",
+      "bbox": [
+        [
+          419,
+          1535
+        ],
+        [
+          768,
+          1535
+        ],
+        [
+          768,
+          1589
+        ],
+        [
+          419,
+          1589
+        ]
+      ],
+      "score": 0.6603001952171326,
+      "y_pos": 1535,
+      "text": "Tỳ dương hư",
+      "confidence": 0.9870500885523282
+    },
+    {
+      "type": "text",
+      "img_path": "p0125_017_text.png",
+      "bbox": [
+        [
+          420,
+          1618
+        ],
+        [
+          837,
+          1618
+        ],
+        [
+          837,
+          1672
+        ],
+        [
+          420,
+          1672
+        ]
+      ],
+      "score": 0.6642096638679504,
+      "y_pos": 1618,
+      "text": "Can Tỳ bất hoà.",
+      "confidence": 0.9979315470246708
+    },
+    {
+      "type": "text",
+      "img_path": "p0125_019_text.png",
+      "bbox": [
+        [
+          420,
+          1702
+        ],
+        [
+          902,
+          1702
+        ],
+        [
+          902,
+          1758
+        ],
+        [
+          420,
+          1758
+        ]
+      ],
+      "score": 0.6537811756134033,
+      "y_pos": 1702,
+      "text": "Tỳ Thận dương hư",
+      "confidence": 0.9949603941705492
+    },
+    {
+      "type": "text",
+      "img_path": "p0125_013_text.png",
+      "bbox": [
+        [
+          353,
+          1783
+        ],
+        [
+          1391,
+          1783
+        ],
+        [
+          1391,
+          1839
+        ],
+        [
+          353,
+          1839
+        ]
+      ],
+      "score": 0.7038137316703796,
+      "y_pos": 1783,
+      "text": "2. Nêu được pháp trị của 6 hội chứng nói trên.",
+      "confidence": 0.9993452901641527
+    },
+    {
+      "type": "text",
+      "img_path": "p0125_012_text.png",
+      "bbox": [
+        [
+          355,
+          1865
+        ],
+        [
+          1536,
+          1865
+        ],
+        [
+          1536,
+          1920
+        ],
+        [
+          355,
+          1920
+        ]
+      ],
+      "score": 0.7053118348121643,
+      "y_pos": 1865,
+      "text": "3. Nêu được thành phần dược liêu của các bài thuốc:",
+      "confidence": 0.9990891263170062
+    },
+    {
+      "type": "text",
+      "img_path": "p0125_009_text.png",
+      "bbox": [
+        [
+          418,
+          1950
+        ],
+        [
+          1187,
+          1950
+        ],
+        [
+          1187,
+          2004
+        ],
+        [
+          418,
+          2004
+        ]
+      ],
+      "score": 0.7322521209716797,
+      "y_pos": 1950,
+      "text": "- Tứ quân gia Trư linh, Trạch tả.",
+      "confidence": 0.830695298739842
+    },
+    {
+      "type": "text",
+      "img_path": "p0125_015_text.png",
+      "bbox": [
+        [
+          420,
+          2032
+        ],
+        [
+          860,
+          2032
+        ],
+        [
+          860,
+          2086
+        ],
+        [
+          420,
+          2086
+        ]
+      ],
+      "score": 0.6709392666816711,
+      "y_pos": 2032,
+      "text": "Bổ trung ích khí.",
+      "confidence": 0.9702564101470145
+    },
+    {
+      "type": "text",
+      "img_path": "p0125_008_text.png",
+      "bbox": [
+        [
+          418,
+          2115
+        ],
+        [
+          1486,
+          2115
+        ],
+        [
+          1486,
+          2172
+        ],
+        [
+          418,
+          2172
+        ]
+      ],
+      "score": 0.7439347505569458,
+      "y_pos": 2115,
+      "text": "- Tứ quân gia Cỏ mực, Trắc bách diệp sao đen.",
+      "confidence": 0.8733304840453128
+    },
+    {
+      "type": "text",
+      "img_path": "p0125_010_text.png",
+      "bbox": [
+        [
+          419,
+          2201
+        ],
+        [
+          971,
+          2201
+        ],
+        [
+          971,
+          2252
+        ],
+        [
+          419,
+          2252
+        ]
+      ],
+      "score": 0.7275998592376709,
+      "y_pos": 2201,
+      "text": "Tiêu dao gia Uất kim.",
+      "confidence": 0.9959368524344071
+    },
+    {
+      "type": "text",
+      "img_path": "p0125_007_text.png",
+      "bbox": [
+        [
+          419,
+          2285
+        ],
+        [
+          843,
+          2285
+        ],
+        [
+          843,
+          2337
+        ],
+        [
+          419,
+          2337
+        ]
+      ],
+      "score": 0.7780349850654602,
+      "y_pos": 2285,
+      "text": "Phụ tử lý trung.",
+      "confidence": 0.9972295032607185
+    },
+    {
+      "type": "text",
+      "img_path": "p0125_011_text.png",
+      "bbox": [
+        [
+          420,
+          2367
+        ],
+        [
+          762,
+          2367
+        ],
+        [
+          762,
+          2421
+        ],
+        [
+          420,
+          2421
+        ]
+      ],
+      "score": 0.7243990302085876,
+      "y_pos": 2367,
+      "text": "Hữu quy âm",
+      "confidence": 0.9970293740431467
+    },
+    {
+      "type": "text",
+      "img_path": "p0125_003_text.png",
+      "bbox": [
+        [
+          350,
+          2448
+        ],
+        [
+          2124,
+          2448
+        ],
+        [
+          2124,
+          2558
+        ],
+        [
+          350,
+          2558
+        ]
+      ],
+      "score": 0.8663536906242371,
+      "y_pos": 2448,
+      "text": "4. Giải thích được cấu tạo (tác dụng, vai trò của từng vị) của những bài thuốc\nnói trên.",
+      "confidence": 0.9457598797638308
+    },
+    {
+      "type": "text",
+      "img_path": "p0125_006_text.png",
+      "bbox": [
+        [
+          352,
+          2590
+        ],
+        [
+          1747,
+          2590
+        ],
+        [
+          1747,
+          2646
+        ],
+        [
+          352,
+          2646
+        ]
+      ],
+      "score": 0.7857204079627991,
+      "y_pos": 2590,
+      "text": "5. Nêu được công thức huyệt điều trị cho 6 hội chứng nói trên.",
+      "confidence": 0.9997327402234077
+    },
+    {
+      "type": "text",
+      "img_path": "p0125_001_text.png",
+      "bbox": [
+        [
+          350,
+          2673
+        ],
+        [
+          2124,
+          2673
+        ],
+        [
+          2124,
+          2786
+        ],
+        [
+          350,
+          2786
+        ]
+      ],
+      "score": 0.8789262771606445,
+      "y_pos": 2673,
+      "text": "6. Giải thích được cách cấu tạo (tác dụng của huyệt) của công thức huyệt trên\ndựa theo cách vận dụng du, mộ, nguyên, lạc và ngũ du huyệt.",
+      "confidence": 0.9946190992883934
+    },
+    {
+      "type": "number",
+      "img_path": "p0125_002_number.png",
+      "bbox": [
+        [
+          353,
+          3110
+        ],
+        [
+          429,
+          3110
+        ],
+        [
+          429,
+          3148
+        ],
+        [
+          353,
+          3148
+        ]
+      ],
+      "score": 0.8788266777992249,
+      "y_pos": 3110,
+      "text": "",
+      "confidence": 0.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0125_000_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3365
+        ],
+        [
+          294,
+          3365
+        ]
+      ],
+      "score": 0.9275152087211609,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8839524439402989
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0125.png"
+}

@@ -1,0 +1,110 @@
+{
+  "page_num": 5,
+  "content": [
+    {
+      "type": "doc_title",
+      "img_path": "p0005_002_doc_title.png",
+      "bbox": [
+        [
+          871,
+          627
+        ],
+        [
+          1601,
+          627
+        ],
+        [
+          1601,
+          708
+        ],
+        [
+          871,
+          708
+        ]
+      ],
+      "score": 0.59877610206604,
+      "y_pos": 627,
+      "text": "MỘT SỐ TỪ ĐỒNG NGHĨA",
+      "confidence": 0.9845716628161344
+    },
+    {
+      "type": "text",
+      "img_path": "p0005_003_text.png",
+      "bbox": [
+        [
+          546,
+          899
+        ],
+        [
+          1788,
+          899
+        ],
+        [
+          1788,
+          1540
+        ],
+        [
+          546,
+          1540
+        ]
+      ],
+      "score": 0.5056792497634888,
+      "y_pos": 899,
+      "text": "1. Đởm    Đảm\n2. Chối nắn    Không ưa sờ nắn\n3. Tiêu phân vàng nát    Đại tiện phân vàng nát\n4. Nướu răng    Lơi\n5. Tiểu sẻn đỏ    Tiểu tiện sản đỏ\n6. Cầu táo    Đại tiện phân táo\n7. Tiểu sẻn    Tiểu tiện ít\n8. Ói mửa    Nôn mửa",
+      "confidence": 0.9709439218393372
+    },
+    {
+      "type": "number",
+      "img_path": "p0005_001_number.png",
+      "bbox": [
+        [
+          352,
+          3113
+        ],
+        [
+          377,
+          3113
+        ],
+        [
+          377,
+          3147
+        ],
+        [
+          352,
+          3147
+        ]
+      ],
+      "score": 0.7811371088027954,
+      "y_pos": 3113,
+      "text": "\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n    \n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0005_000_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1074,
+          3311
+        ],
+        [
+          1074,
+          3365
+        ],
+        [
+          294,
+          3365
+        ]
+      ],
+      "score": 0.9170955419540405,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8837000574384417
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0005.png"
+}

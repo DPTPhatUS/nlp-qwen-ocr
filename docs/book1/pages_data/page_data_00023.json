@@ -1,0 +1,604 @@
+{
+  "page_num": 23,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0023_001_text.png",
+      "bbox": [
+        [
+          341,
+          449
+        ],
+        [
+          2121,
+          449
+        ],
+        [
+          2121,
+          618
+        ],
+        [
+          341,
+          618
+        ]
+      ],
+      "score": 0.9738735556602478,
+      "y_pos": 449,
+      "text": "Thương hàn luận nguyên bản đã thất lạc. Hiện nay chỉ còn lại bản của\nVương Thúc Hòa (đời Tây Tần) biên tập gồm 10 quyển, 22 thiên, 397 pháp và\n113 phương; vận dụng khoảng 80 vị thuốc vào điều trị (*)",
+      "confidence": 0.999081239136569
+    },
+    {
+      "type": "text",
+      "img_path": "p0023_015_text.png",
+      "bbox": [
+        [
+          462,
+          648
+        ],
+        [
+          1031,
+          648
+        ],
+        [
+          1031,
+          698
+        ],
+        [
+          462,
+          698
+        ]
+      ],
+      "score": 0.895218551158905,
+      "y_pos": 648,
+      "text": "Bô sách gồm có hai phần",
+      "confidence": 0.9883447813987732
+    },
+    {
+      "type": "text",
+      "img_path": "p0023_005_text.png",
+      "bbox": [
+        [
+          344,
+          730
+        ],
+        [
+          1505,
+          730
+        ],
+        [
+          1505,
+          779
+        ],
+        [
+          344,
+          779
+        ]
+      ],
+      "score": 0.9206067323684692,
+      "y_pos": 730,
+      "text": "• Phần bênh sốt ngoại cảm với sáu loại bênh cảnh.",
+      "confidence": 0.9885343067786273
+    },
+    {
+      "type": "text",
+      "img_path": "p0023_006_text.png",
+      "bbox": [
+        [
+          344,
+          814
+        ],
+        [
+          1985,
+          814
+        ],
+        [
+          1985,
+          867
+        ],
+        [
+          344,
+          867
+        ]
+      ],
+      "score": 0.9201439023017883,
+      "y_pos": 814,
+      "text": "• Phần tạp bệnh: đề cập đến hơn 40 loại bệnh nội, ngoại, phụ, sản khoa.",
+      "confidence": 0.9949800584414233
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0023_007_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          922
+        ],
+        [
+          860,
+          922
+        ],
+        [
+          860,
+          973
+        ],
+        [
+          345,
+          973
+        ]
+      ],
+      "score": 0.9194943904876709,
+      "y_pos": 922,
+      "text": "1.3. Đặc điểm chung",
+      "confidence": 0.974774147783007
+    },
+    {
+      "type": "text",
+      "img_path": "p0023_021_text.png",
+      "bbox": [
+        [
+          406,
+          1020
+        ],
+        [
+          1073,
+          1020
+        ],
+        [
+          1073,
+          1070
+        ],
+        [
+          406,
+          1070
+        ]
+      ],
+      "score": 0.8356297612190247,
+      "y_pos": 1020,
+      "text": "\"Thương hàn\" có hai nghĩa",
+      "confidence": 0.9972756637467278
+    },
+    {
+      "type": "text",
+      "img_path": "p0023_016_text.png",
+      "bbox": [
+        [
+          461,
+          1103
+        ],
+        [
+          2119,
+          1103
+        ],
+        [
+          2119,
+          1156
+        ],
+        [
+          461,
+          1156
+        ]
+      ],
+      "score": 0.8729512691497803,
+      "y_pos": 1103,
+      "text": "+ Rộng: là tên gọi chung tất cả bệnh ngoại cảm có sốt, do lục dâm gây bệnh",
+      "confidence": 0.6825041018034282
+    },
+    {
+      "type": "text",
+      "img_path": "p0023_020_text.png",
+      "bbox": [
+        [
+          466,
+          1187
+        ],
+        [
+          2001,
+          1187
+        ],
+        [
+          2001,
+          1239
+        ],
+        [
+          466,
+          1239
+        ]
+      ],
+      "score": 0.8486307263374329,
+      "y_pos": 1187,
+      "text": "+ <i>Hẹp</i>: là tên gọi những bệnh ngoại cảm chỉ do phong hàn tà gây ra",
+      "confidence": 0.9838063950123994
+    },
+    {
+      "type": "text",
+      "img_path": "p0023_004_text.png",
+      "bbox": [
+        [
+          462,
+          1269
+        ],
+        [
+          2123,
+          1269
+        ],
+        [
+          2123,
+          1378
+        ],
+        [
+          462,
+          1378
+        ]
+      ],
+      "score": 0.9397495985031128,
+      "y_pos": 1269,
+      "text": "\"Thương hàn luận\" là cách khảo sát diễn tiến bệnh ngoại cảm theo sáu\ngiai đoan chính yếu.",
+      "confidence": 0.9952901673394364
+    },
+    {
+      "type": "text",
+      "img_path": "p0023_017_text.png",
+      "bbox": [
+        [
+          462,
+          1411
+        ],
+        [
+          1105,
+          1411
+        ],
+        [
+          1105,
+          1461
+        ],
+        [
+          462,
+          1461
+        ]
+      ],
+      "score": 0.8700314164161682,
+      "y_pos": 1411,
+      "text": "Sáu giai đoạn bệnh bao gồm",
+      "confidence": 0.9977939831359046
+    },
+    {
+      "type": "text",
+      "img_path": "p0023_014_text.png",
+      "bbox": [
+        [
+          467,
+          1495
+        ],
+        [
+          793,
+          1495
+        ],
+        [
+          793,
+          1541
+        ],
+        [
+          467,
+          1541
+        ]
+      ],
+      "score": 0.9017887115478516,
+      "y_pos": 1495,
+      "text": "Thái dương",
+      "confidence": 0.9619353512922922
+    },
+    {
+      "type": "text",
+      "img_path": "p0023_010_text.png",
+      "bbox": [
+        [
+          468,
+          1579
+        ],
+        [
+          813,
+          1579
+        ],
+        [
+          813,
+          1624
+        ],
+        [
+          468,
+          1624
+        ]
+      ],
+      "score": 0.9115996956825256,
+      "y_pos": 1579,
+      "text": "Dương minh",
+      "confidence": 0.9623091270526251
+    },
+    {
+      "type": "text",
+      "img_path": "p0023_008_text.png",
+      "bbox": [
+        [
+          464,
+          1658
+        ],
+        [
+          818,
+          1658
+        ],
+        [
+          818,
+          1706
+        ],
+        [
+          464,
+          1706
+        ]
+      ],
+      "score": 0.9171537160873413,
+      "y_pos": 1658,
+      "text": "Thiếu dương",
+      "confidence": 0.9748970453555768
+    },
+    {
+      "type": "text",
+      "img_path": "p0023_012_text.png",
+      "bbox": [
+        [
+          465,
+          1742
+        ],
+        [
+          722,
+          1742
+        ],
+        [
+          722,
+          1785
+        ],
+        [
+          465,
+          1785
+        ]
+      ],
+      "score": 0.90726238489151,
+      "y_pos": 1742,
+      "text": "naı    ar",
+      "confidence": 0.7671625167131424
+    },
+    {
+      "type": "text",
+      "img_path": "p0023_013_text.png",
+      "bbox": [
+        [
+          464,
+          1825
+        ],
+        [
+          748,
+          1825
+        ],
+        [
+          748,
+          1869
+        ],
+        [
+          464,
+          1869
+        ]
+      ],
+      "score": 0.9034409523010254,
+      "y_pos": 1825,
+      "text": "e    ar.",
+      "confidence": 0.4396052906910578
+    },
+    {
+      "type": "text",
+      "img_path": "p0023_011_text.png",
+      "bbox": [
+        [
+          465,
+          1907
+        ],
+        [
+          765,
+          1907
+        ],
+        [
+          765,
+          1954
+        ],
+        [
+          465,
+          1954
+        ]
+      ],
+      "score": 0.9095189571380615,
+      "y_pos": 1907,
+      "text": "Quyết âm.",
+      "confidence": 0.9625731652433221
+    },
+    {
+      "type": "text",
+      "img_path": "p0023_022_text.png",
+      "bbox": [
+        [
+          408,
+          1989
+        ],
+        [
+          1174,
+          1989
+        ],
+        [
+          1174,
+          2039
+        ],
+        [
+          408,
+          2039
+        ]
+      ],
+      "score": 0.7861683964729309,
+      "y_pos": 1989,
+      "text": "Những giai đoan này phản ảnh",
+      "confidence": 0.9908090074857075
+    },
+    {
+      "type": "text",
+      "img_path": "p0023_002_text.png",
+      "bbox": [
+        [
+          466,
+          2071
+        ],
+        [
+          2122,
+          2071
+        ],
+        [
+          2122,
+          2180
+        ],
+        [
+          466,
+          2180
+        ]
+      ],
+      "score": 0.9578521847724915,
+      "y_pos": 2071,
+      "text": "+ Mối tương quan giữa sức đề kháng của cơ thể (chính khí) và tác nhân\ngây bênh (<i>tà khí</i> ).",
+      "confidence": 0.9643682860663823
+    },
+    {
+      "type": "text",
+      "img_path": "p0023_003_text.png",
+      "bbox": [
+        [
+          462,
+          2212
+        ],
+        [
+          2123,
+          2212
+        ],
+        [
+          2123,
+          2321
+        ],
+        [
+          462,
+          2321
+        ]
+      ],
+      "score": 0.9404527544975281,
+      "y_pos": 2212,
+      "text": "+ Vị trí của bệnh: ở biểu, lý hoặc bán biểu bán lý. Nói chung, vị trí bệnh\nở sâu bên trong nặng hơn, khó chữa hơn bệnh ở ngoài nông.",
+      "confidence": 0.9954971434094882
+    },
+    {
+      "type": "table",
+      "img_path": "p0023_000_table.png",
+      "bbox": [
+        [
+          351,
+          2403
+        ],
+        [
+          2122,
+          2403
+        ],
+        [
+          2122,
+          2791
+        ],
+        [
+          351,
+          2791
+        ]
+      ],
+      "score": 0.9856628775596619,
+      "y_pos": 2403,
+      "text": "Giai đoạn bệnh\n3 kinh dương    3 kinh âm\nMối quan hệ chính - tà    Tà khí thịnh, chính khí chưa suy    Chính khí suy yếu\nVi trí bênh    Biểu hiện bệnh ở biểu, ở ngoài, ở phủ    Biểu hiện ở lý, ở tạng\nTính chất    Chủ yếu nhiệt chứng, thực chứng    Chủ yếu hàn chứng, hư chứng",
+      "confidence": 0.969133813554572
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0023_019_footnote.png",
+      "bbox": [
+        [
+          345,
+          2928
+        ],
+        [
+          2123,
+          2928
+        ],
+        [
+          2123,
+          3032
+        ],
+        [
+          345,
+          3032
+        ]
+      ],
+      "score": 0.8521185517311096,
+      "y_pos": 2928,
+      "text": "(*)Nguyễn Trung Hòa - Giáo trình Thương hàn và Ôn bệnh học - Hội YHDT Tây\nNinh tái xuất bản năm 1985 - Lưu hành nôi bô, trang 8 - 11",
+      "confidence": 0.99601253926754
+    },
+    {
+      "type": "number",
+      "img_path": "p0023_018_number.png",
+      "bbox": [
+        [
+          352,
+          3111
+        ],
+        [
+          404,
+          3111
+        ],
+        [
+          404,
+          3146
+        ],
+        [
+          352,
+          3146
+        ]
+      ],
+      "score": 0.8539758920669556,
+      "y_pos": 3111,
+      "text": "    \n\n    ۰        \n    \n",
+      "confidence": 0.9635370999574662
+    },
+    {
+      "type": "footer",
+      "img_path": "p0023_009_footer.png",
+      "bbox": [
+        [
+          293,
+          3310
+        ],
+        [
+          1072,
+          3310
+        ],
+        [
+          1072,
+          3365
+        ],
+        [
+          293,
+          3365
+        ]
+      ],
+      "score": 0.9155678153038025,
+      "y_pos": 3310,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.879438819204058
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0023.png"
+}

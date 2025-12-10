@@ -1,0 +1,552 @@
+{
+  "page_num": 86,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0086_001_text.png",
+      "bbox": [
+        [
+          460,
+          450
+        ],
+        [
+          2123,
+          450
+        ],
+        [
+          2123,
+          557
+        ],
+        [
+          460,
+          557
+        ]
+      ],
+      "score": 0.9670488238334656,
+      "y_pos": 450,
+      "text": "bệnh còn có những đặc điểm: sợ gió thuộc Phong; sốt, đàm vàng, lưỡi đỏ\nthuôc Nhiệt.",
+      "confidence": 0.9950532955782754
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_003_text.png",
+      "bbox": [
+        [
+          408,
+          581
+        ],
+        [
+          2124,
+          581
+        ],
+        [
+          2124,
+          688
+        ],
+        [
+          408,
+          688
+        ]
+      ],
+      "score": 0.9374426603317261,
+      "y_pos": 581,
+      "text": "- Phong luận/Tố Vấn: Phong hay chạy, mà nhiều biến chứng, nếu tấu lý\nkết lại thì nóng mà bứt rứt.",
+      "confidence": 0.7710246860980987
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_017_text.png",
+      "bbox": [
+        [
+          462,
+          712
+        ],
+        [
+          915,
+          712
+        ],
+        [
+          915,
+          761
+        ],
+        [
+          462,
+          761
+        ]
+      ],
+      "score": 0.8999987244606018,
+      "y_pos": 712,
+      "text": "Phế chủ hô hấp: ho.",
+      "confidence": 0.9955362961405799
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_014_text.png",
+      "bbox": [
+        [
+          406,
+          786
+        ],
+        [
+          2098,
+          786
+        ],
+        [
+          2098,
+          837
+        ],
+        [
+          406,
+          837
+        ]
+      ],
+      "score": 0.9187754392623901,
+      "y_pos": 786,
+      "text": "- Phế dịch và tân dịch khô ráo do nhiệt (hong khô, khát nước, táo bón, tiểu sẻn).",
+      "confidence": 0.5299658818417284
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_012_text.png",
+      "bbox": [
+        [
+          408,
+          862
+        ],
+        [
+          1755,
+          862
+        ],
+        [
+          1755,
+          912
+        ],
+        [
+          408,
+          912
+        ]
+      ],
+      "score": 0.9222927689552307,
+      "y_pos": 862,
+      "text": "- Đờm là sản vật bệnh lý của Phế: do nhiệt sinh đờm vàng.",
+      "confidence": 0.5797348790249582
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_005_text.png",
+      "bbox": [
+        [
+          409,
+          939
+        ],
+        [
+          1161,
+          939
+        ],
+        [
+          1161,
+          986
+        ],
+        [
+          409,
+          986
+        ]
+      ],
+      "score": 0.9322197437286377,
+      "y_pos": 939,
+      "text": "Nhiệt bức Phế lac (ho ra máu).",
+      "confidence": 0.9996312614530325
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_016_text.png",
+      "bbox": [
+        [
+          462,
+          1014
+        ],
+        [
+          1020,
+          1014
+        ],
+        [
+          1020,
+          1062
+        ],
+        [
+          462,
+          1062
+        ]
+      ],
+      "score": 0.9037262797355652,
+      "y_pos": 1014,
+      "text": "c/ Triệu chứng lâm sàng",
+      "confidence": 0.9469902348518372
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_004_text.png",
+      "bbox": [
+        [
+          406,
+          1087
+        ],
+        [
+          1507,
+          1087
+        ],
+        [
+          1507,
+          1139
+        ],
+        [
+          406,
+          1139
+        ]
+      ],
+      "score": 0.9330847263336182,
+      "y_pos": 1087,
+      "text": "- Người bứt rứt. Sốt hoặc cảm giác nóng. Sợ gió.",
+      "confidence": 0.986437851190567
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_013_text.png",
+      "bbox": [
+        [
+          409,
+          1162
+        ],
+        [
+          870,
+          1162
+        ],
+        [
+          870,
+          1209
+        ],
+        [
+          409,
+          1209
+        ]
+      ],
+      "score": 0.918791651725769,
+      "y_pos": 1162,
+      "text": "Táo bón, tiểu sẻn.",
+      "confidence": 0.9864691317081451
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_002_text.png",
+      "bbox": [
+        [
+          407,
+          1236
+        ],
+        [
+          2121,
+          1236
+        ],
+        [
+          2121,
+          1343
+        ],
+        [
+          407,
+          1343
+        ]
+      ],
+      "score": 0.9666342735290527,
+      "y_pos": 1236,
+      "text": "- Đau họng, đau ngực. Ho khạc đàm vàng dầy. Ho ra máu. Hô hấp ngắn.\nNgực nóng, tức ngực.",
+      "confidence": 0.7120802710728527
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_015_text.png",
+      "bbox": [
+        [
+          406,
+          1367
+        ],
+        [
+          1963,
+          1367
+        ],
+        [
+          1963,
+          1419
+        ],
+        [
+          406,
+          1419
+        ]
+      ],
+      "score": 0.9061312675476074,
+      "y_pos": 1367,
+      "text": "- Lưỡi đỏ, đầu lưỡi đỏ. Rêu vàng, nhầy. Mạch phù sác hoặc hoạt sác.",
+      "confidence": 0.9058229836864747
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_019_text.png",
+      "bbox": [
+        [
+          460,
+          1443
+        ],
+        [
+          1180,
+          1443
+        ],
+        [
+          1180,
+          1494
+        ],
+        [
+          460,
+          1494
+        ]
+      ],
+      "score": 0.7432941198348999,
+      "y_pos": 1443,
+      "text": "d/ Bệnh cảnh Tây y thường gặp",
+      "confidence": 0.9844264599584764
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_006_text.png",
+      "bbox": [
+        [
+          408,
+          1516
+        ],
+        [
+          2006,
+          1516
+        ],
+        [
+          2006,
+          1568
+        ],
+        [
+          408,
+          1568
+        ]
+      ],
+      "score": 0.9321891665458679,
+      "y_pos": 1516,
+      "text": "- Giai đoạn toàn phát một nhiễm trùng đường hô hấp. Viêm họng cấp.",
+      "confidence": 0.6837855296976426
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_011_text.png",
+      "bbox": [
+        [
+          408,
+          1590
+        ],
+        [
+          1313,
+          1590
+        ],
+        [
+          1313,
+          1639
+        ],
+        [
+          408,
+          1639
+        ]
+      ],
+      "score": 0.9255152344703674,
+      "y_pos": 1590,
+      "text": "_    Viêm phổi thùy. Phế quản, Phế viêm.",
+      "confidence": 0.8199473639597764
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_007_text.png",
+      "bbox": [
+        [
+          408,
+          1665
+        ],
+        [
+          1428,
+          1665
+        ],
+        [
+          1428,
+          1715
+        ],
+        [
+          408,
+          1715
+        ]
+      ],
+      "score": 0.9319425821304321,
+      "y_pos": 1665,
+      "text": "\n    Lao phổi. Viêm màng phổi. Hen Phế quản.\n",
+      "confidence": 0.5912582736748916
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_008_text.png",
+      "bbox": [
+        [
+          461,
+          1741
+        ],
+        [
+          1705,
+          1741
+        ],
+        [
+          1705,
+          1791
+        ],
+        [
+          461,
+          1791
+        ]
+      ],
+      "score": 0.9311312437057495,
+      "y_pos": 1741,
+      "text": "e/ Pháp tri: sơ phong thanh nhiệt, tuyên Phế, hóa đờm.",
+      "confidence": 0.9926352830869811
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_009_text.png",
+      "bbox": [
+        [
+          460,
+          1816
+        ],
+        [
+          1573,
+          1816
+        ],
+        [
+          1573,
+          1867
+        ],
+        [
+          460,
+          1867
+        ]
+      ],
+      "score": 0.9269770979881287,
+      "y_pos": 1816,
+      "text": "f/ Phương dược: Tang cúc ẩm (ôn bênh điều biên).",
+      "confidence": 0.9814673125743866
+    },
+    {
+      "type": "text",
+      "img_path": "p0086_020_text.png",
+      "bbox": [
+        [
+          467,
+          1893
+        ],
+        [
+          1250,
+          1893
+        ],
+        [
+          1250,
+          1941
+        ],
+        [
+          467,
+          1941
+        ]
+      ],
+      "score": 0.6105965971946716,
+      "y_pos": 1893,
+      "text": "+ Phân tích bài thuốc: (Pháp hãn)",
+      "confidence": 0.993821176460811
+    },
+    {
+      "type": "table",
+      "img_path": "p0086_000_table.png",
+      "bbox": [
+        [
+          350,
+          1969
+        ],
+        [
+          2125,
+          1969
+        ],
+        [
+          2125,
+          2959
+        ],
+        [
+          350,
+          2959
+        ]
+      ],
+      "score": 0.9907884001731873,
+      "y_pos": 1969,
+      "text": "Vị thuốc    Dược lý Đông y\nTang diệp    Ngot, đẳng, hàn vào Can, Phế, Thân. Phát tán phong nhiệt, thanh Can,\nminh muc, thanh Phế chỉ khái\nBạc hà    Cay, mát, vào Phế, Can. Phát tán phong nhiệt\nCúc hoa    Ngot, đẳng, tính hơi hàn, vào Phế, Can, Thân. Phát tán phong nhiệt, thanh\nCan minh muc, giáng hỏa, giải đôc\nLiên kiều    Đẳng, lanh, vào Đởm, Đai trường, Tam tiêu. Thanh nhiệt, giải độc, tán kết,\ngiải cảm trừ phong nhiệt\nHanh nhân    Đắng, ấm vào Phế, Đai trường. Thông Phế, bình suyễn, nhuân tràng, thông\ntiên, ôn Phế\nCát cánh    Đắng, cay, hơi ấm vào Phế, khử đờm chỉ khái, tuyên Phế lơi hầu hong, bài\nnung giải độc\nLô căn    Ngot, hàn, vào Phế Vị. Thanh nhiệt, sinh tân, lợi niệu, thanh Phế nhiệt, chỉ\nkhái, thanh nhiệt, chỉ nôn\nCam thảo    Ngot, bình, vào 12 kinh. Bổ trung khí, hóa giải độc",
+      "confidence": 0.9329379602651017
+    },
+    {
+      "type": "number",
+      "img_path": "p0086_018_number.png",
+      "bbox": [
+        [
+          2069,
+          3111
+        ],
+        [
+          2120,
+          3111
+        ],
+        [
+          2120,
+          3147
+        ],
+        [
+          2069,
+          3147
+        ]
+      ],
+      "score": 0.8646000027656555,
+      "y_pos": 3111,
+      "text": "\n    \n    \n\n    \n\n\n\n•\n\n\n",
+      "confidence": 0.9630568226178488
+    },
+    {
+      "type": "footer",
+      "img_path": "p0086_010_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1072,
+          3311
+        ],
+        [
+          1072,
+          3365
+        ],
+        [
+          294,
+          3365
+        ]
+      ],
+      "score": 0.9258564114570618,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8793089696339198
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0086.png"
+}

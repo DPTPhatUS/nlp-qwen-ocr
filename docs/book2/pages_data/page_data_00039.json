@@ -1,0 +1,162 @@
+{
+  "page_num": 39,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0039_002_header.png",
+      "bbox": [
+        [
+          1607,
+          143
+        ],
+        [
+          2368,
+          143
+        ],
+        [
+          2368,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9153314232826233,
+      "y_pos": 143,
+      "text": "~ ~ ~\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6999826583833921
+    },
+    {
+      "type": "header",
+      "img_path": "p0039_003_header.png",
+      "bbox": [
+        [
+          228,
+          155
+        ],
+        [
+          765,
+          155
+        ],
+        [
+          765,
+          201
+        ],
+        [
+          228,
+          201
+        ]
+      ],
+      "score": 0.9063630104064941,
+      "y_pos": 155,
+      "text": "BÁT CƯƠNG BIÊN CHỨNG",
+      "confidence": 0.9842286353761499
+    },
+    {
+      "type": "text",
+      "img_path": "p0039_000_text.png",
+      "bbox": [
+        [
+          220,
+          302
+        ],
+        [
+          2359,
+          302
+        ],
+        [
+          2359,
+          690
+        ],
+        [
+          220,
+          690
+        ]
+      ],
+      "score": 0.9831279516220093,
+      "y_pos": 302,
+      "text": "có đau bụng nhưng không giống kiểu đau bụng của thực chứng là sợ sờ nắn, mà ở đây ta sờ\nnắn thì giảm đau; tuy có tượng nhiệt, nhưng mà lưỡi non, mạch hư. Bản chất của bệnh là thực\nchứng mà biểu hiện lâm sàng có hình ảnh của hư chứng, gọi là giả hư. Giả hư nhất loạt biểu\nhiện là: Tuy có chán ngán không nói, nhưng đã nói thì nhiều lời, tiếng cao, khí thô; tuy không\nmuốn ăn nhưng có lúc lại ăn được; tuuy có tiết tả (đại tiện), nhưng sau khi tiết tả lại thấy khoái;\ntuy có ngực bụng trướng đầy, nhưng sờ nắn nó có đau hoặc cố định không dời chỗ đau.",
+      "confidence": 0.9976877058856589
+    },
+    {
+      "type": "text",
+      "img_path": "p0039_001_text.png",
+      "bbox": [
+        [
+          220,
+          719
+        ],
+        [
+          2357,
+          719
+        ],
+        [
+          2357,
+          1111
+        ],
+        [
+          220,
+          1111
+        ]
+      ],
+      "score": 0.9828230738639832,
+      "y_pos": 719,
+      "text": "Yếu điểm để phân biệt hư chứng và thực chứng chủ yếu là xem ở mấy mặt: Quá trình bệnh\ndài hay ngắn, thanh âm và hơi thở mạnh hay yếu, nơi đau sợ sờ nắn hay ưa sờ nắn, chất lưỡi\nthô già hay béo non, mạch tượng có sức hay không có sức. Nhất loạt bệnh trình ngắn, tiếng\ncao, khí thô, nơi đau sợ sờ nắn, chất lưỡi thô già, mạch có sức, thuộc thực chứng. Bệnh trình\ndài, tiếng thấp, khí ngắn, nơi đau ưa sờ nắn, chất lưỡi béo non, mạch không có sức, thuộc hu\nchứng.",
+      "confidence": 0.9938673948541381
+    },
+    {
+      "type": "footer",
+      "img_path": "p0039_004_footer.png",
+      "bbox": [
+        [
+          230,
+          3334
+        ],
+        [
+          1437,
+          3334
+        ],
+        [
+          1437,
+          3387
+        ],
+        [
+          230,
+          3387
+        ]
+      ],
+      "score": 0.8993708491325378,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9983688143064391
+    },
+    {
+      "type": "number",
+      "img_path": "p0039_005_number.png",
+      "bbox": [
+        [
+          2333,
+          3340
+        ],
+        [
+          2358,
+          3340
+        ],
+        [
+          2358,
+          3373
+        ],
+        [
+          2333,
+          3373
+        ]
+      ],
+      "score": 0.8153560161590576,
+      "y_pos": 3340,
+      "text": "        \n    \n    \n\n\n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0039.png"
+}

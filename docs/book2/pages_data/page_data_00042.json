@@ -1,0 +1,266 @@
+{
+  "page_num": 42,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0042_005_header.png",
+      "bbox": [
+        [
+          1608,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1608,
+          202
+        ]
+      ],
+      "score": 0.916590690612793,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7639200864803224
+    },
+    {
+      "type": "header",
+      "img_path": "p0042_006_header.png",
+      "bbox": [
+        [
+          229,
+          155
+        ],
+        [
+          765,
+          155
+        ],
+        [
+          765,
+          201
+        ],
+        [
+          229,
+          201
+        ]
+      ],
+      "score": 0.9079354405403137,
+      "y_pos": 155,
+      "text": "BÁT CƯƠNG BIÊN CHỨNG",
+      "confidence": 0.9848529317162253
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0042_007_paragraph_title.png",
+      "bbox": [
+        [
+          223,
+          287
+        ],
+        [
+          1119,
+          287
+        ],
+        [
+          1119,
+          341
+        ],
+        [
+          223,
+          341
+        ]
+      ],
+      "score": 0.9004026055335999,
+      "y_pos": 287,
+      "text": "TÓM TẮT BÁT CƯƠNG BIÊN CHỨNG",
+      "confidence": 0.9897669653097788
+    },
+    {
+      "type": "text",
+      "img_path": "p0042_002_text.png",
+      "bbox": [
+        [
+          221,
+          383
+        ],
+        [
+          2357,
+          383
+        ],
+        [
+          2357,
+          657
+        ],
+        [
+          221,
+          657
+        ]
+      ],
+      "score": 0.9700502157211304,
+      "y_pos": 383,
+      "text": "Bát cương biện chứng là từ từng mặt khác nhau của bệnh tật mà tiến hành một loại phương\npháp chẩn đoán phân biệt. Tuy nhiên, nó lại cần đến sự kết hợp với tạng phủ biện chứng mới\ncó thể hướng tới hoàn thiện, nhưng nó lại là cơ sở của các loại biện chứng, đưa đến tác dụng\ngiữ cái giản bỏ các rườm, nâng lên mức tóm gọn chung làm đầu mối.",
+      "confidence": 0.9739145655136228
+    },
+    {
+      "type": "text",
+      "img_path": "p0042_003_text.png",
+      "bbox": [
+        [
+          222,
+          691
+        ],
+        [
+          2358,
+          691
+        ],
+        [
+          2358,
+          969
+        ],
+        [
+          222,
+          969
+        ]
+      ],
+      "score": 0.9699034690856934,
+      "y_pos": 691,
+      "text": "Mỗi một chứng trong bát cương đều là khả biến, dựa theo những điều kiện nhất định mà biến\nhóa. Nhất loạt biểu chứng chuyển vào lý là bệnh nặng thêm; lý chứng ra biểu là bệnh thế\nhướng về khỏi. Nhiệt chứng biến thành hàn, thực chứng biến thành hư là chính khí đã suy; hàn\nchứng biến nhiệt, hư chứng biến thực là dương khí dần dần khôi phục.",
+      "confidence": 0.998474938069195
+    },
+    {
+      "type": "text",
+      "img_path": "p0042_001_text.png",
+      "bbox": [
+        [
+          221,
+          1004
+        ],
+        [
+          2358,
+          1004
+        ],
+        [
+          2358,
+          1351
+        ],
+        [
+          221,
+          1351
+        ]
+      ],
+      "score": 0.9785237312316895,
+      "y_pos": 1004,
+      "text": "Chứng thường thấy ở lâm sàng, rất ít khi là đơn thuần, thường là biểu lý, hàn nhiệt, hư thực,\nkết hợp lại làm một mà lại còn có lúc gặp xuất hiện lẫn lộn và giả tượng, do đó yêu cầu chúng\nta trong quá trình biện chứng phải nhìn đúng chỗ điều tra nghiên cứu, nối suốt lại tiến hành suy\nxét, tập trung sức tìm ra mâu thuẫn chủ yếu, chỉ có như thế mới có thể có được kết luận chính\nxác, không thì sẽ không thể có được chỗ bám trong phân tích.",
+      "confidence": 0.9994286842839948
+    },
+    {
+      "type": "text",
+      "img_path": "p0042_000_text.png",
+      "bbox": [
+        [
+          221,
+          1386
+        ],
+        [
+          2359,
+          1386
+        ],
+        [
+          2359,
+          2978
+        ],
+        [
+          221,
+          2978
+        ]
+      ],
+      "score": 0.9840492010116577,
+      "y_pos": 1386,
+      "text": "Cơ sở sinh lý, bệnh lý có liên quan với bát cương là cần phải nghiên cứu từng bước. Nhất loạt\ncho răng biểu chứng thường thấy ở thời kỳ đầu của bệnh viêm nhiễm, là một loại phản ứng\nphòng ngự của cơ thể với nhân tố bệnh; lý chứng thường thấy ở thời kỳ giữa và thời kỳ cực\nđiểm của bệnh tật viêm nhiễm, cũng có thấy ở trong bệnh khí chất hoặc công năng tổn hại\nkhông có tính viêm nhiễm, là kết quả của nhân tố bệnh xâm lấn vào công năng tổ chức khí\nquan nội tạng, thường lấy công năng của hệ thống thần kinh trung khu và khí quan hữu quan\ncùng với năng lượng thay cũ đổi mới bị trở ngại nghiêm trọng làm đặc trưng. Nếu như trong\nquá trình bệnh, khi biểu chứng chưa mất đi hết, mà đã xuất hiện chứng trạng tạng phủ tổn hại,\nsẽ gọi là biểu lý đồng bệnh. Nhiệt chứng thường cho là vì công năng sinh lý của cơ thể con\nngười vượng thịnh, năng lượng thay thế tăng cao, có quan hệ phản ứng với cang tiến (cường)\nvới nhân tố bệnh, bởi thế biểu hiện là sản ra nhiệt quá thịnh, thân nhiệt tăng cao, hô hấp nhanh,\nsức đẩy của tim tăng nhanh, huyết quản ở da trương giãn ra, máy chạy thêm tăng, tăng cao\nhưng phần vỏ não, cùng với sốt cao ra mồ hôi nhiều mà hiện ra rõ chứng mất dịch. Hàn chứng\nthường cho là vì công năng sinh lý của cơ thể người ta giảm lùi, năng lương thay thế xuống\nthấp, có quan hệ với tính phản ứng với nhân tố bệnh giảm thấp, bởi thế biểu hiện là sản nhiệt\nkhông đủ, thân nhiệt rất thấp, hô hấp và tim đập rất chậm, sức đẩy ra của tâm giảm, huyết quản\nở bề mặt thân thể co lại, chứng vỏ não hưng phấn giảm xuống thấp. Hư chứng, nhất loạt chỉ về\nsức đề kháng của cơ thể giảm xuống thấp, công năng sinh lý giảm hoặc suy kiệt mà xuất hiện\nchứng trạng giảm. Thực chứng, nhất loạt chỉ về tính phản ứng của cơ thể mạnh, công năng\ncủa tổ chức khí quan cang tiến đến trạng thái bệnh lý, như các loại viêm nhiễm, u bướu, tích\ndịch ở ổ ngực, bụng, thũng huyết, thũng mủ, và các loại bệnh lý hữu hình thay đổi, có một số\nvấn đề phải để lại chúng ta từ nay về sau thảo luận sâu hơn một bước nữa.",
+      "confidence": 0.9978361940163541
+    },
+    {
+      "type": "text",
+      "img_path": "p0042_004_text.png",
+      "bbox": [
+        [
+          222,
+          3012
+        ],
+        [
+          2357,
+          3012
+        ],
+        [
+          2357,
+          3141
+        ],
+        [
+          222,
+          3141
+        ]
+      ],
+      "score": 0.948515772819519,
+      "y_pos": 3012,
+      "text": "Nội dung chủ yếu của bát cương biện chứng được tổng hợp trong bảng 1: Bảng bát cương\nbiện chứng yếu điểm.",
+      "confidence": 0.9983832901363393
+    },
+    {
+      "type": "footer",
+      "img_path": "p0042_008_footer.png",
+      "bbox": [
+        [
+          227,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.8923686742782593,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.952197735039693
+    },
+    {
+      "type": "number",
+      "img_path": "p0042_009_number.png",
+      "bbox": [
+        [
+          2335,
+          3337
+        ],
+        [
+          2378,
+          3337
+        ],
+        [
+          2378,
+          3374
+        ],
+        [
+          2335,
+          3374
+        ]
+      ],
+      "score": 0.8411158323287964,
+      "y_pos": 3337,
+      "text": "    \n    \n    \n\n    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0042.png"
+}

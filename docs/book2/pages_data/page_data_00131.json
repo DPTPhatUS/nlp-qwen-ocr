@@ -1,0 +1,656 @@
+{
+  "page_num": 131,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0131_009_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9334132075309753,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7643314777385621
+    },
+    {
+      "type": "header",
+      "img_path": "p0131_015_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          905,
+          156
+        ],
+        [
+          905,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9149857759475708,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9866287461642561
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0131_012_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          371
+        ],
+        [
+          564,
+          371
+        ],
+        [
+          564,
+          420
+        ],
+        [
+          225,
+          420
+        ]
+      ],
+      "score": 0.9164457321166992,
+      "y_pos": 371,
+      "text": "4. Dia thương",
+      "confidence": 0.9717753171920777
+    },
+    {
+      "type": "text",
+      "img_path": "p0131_004_text.png",
+      "bbox": [
+        [
+          281,
+          463
+        ],
+        [
+          2358,
+          463
+        ],
+        [
+          2358,
+          585
+        ],
+        [
+          281,
+          585
+        ]
+      ],
+      "score": 0.9579129815101624,
+      "y_pos": 463,
+      "text": "Vị trí: Ngang mép ra, gặp đường rãnh cánh mũi chạy xuống là huyệt (cách bờ cao góc mép\nkhoảng 0,4 thốn). (H. 49, H. 50)",
+      "confidence": 0.9915200527458586
+    },
+    {
+      "type": "text",
+      "img_path": "p0131_002_text.png",
+      "bbox": [
+        [
+          280,
+          622
+        ],
+        [
+          2358,
+          622
+        ],
+        [
+          2358,
+          745
+        ],
+        [
+          280,
+          745
+        ]
+      ],
+      "score": 0.9618732333183289,
+      "y_pos": 622,
+      "text": "Cách châm: Châm mũi kim hướng về phía dái tai, sâu 0,3 đến 0,5 thốn, châm ngang thấy\ntới <i>Giáp xa</i>, tiến kim đến 2 thốn. Cứu 5 mồi hoặc hợ 5 phút.",
+      "confidence": 0.9952734396021143
+    },
+    {
+      "type": "text",
+      "img_path": "p0131_014_text.png",
+      "bbox": [
+        [
+          285,
+          787
+        ],
+        [
+          1578,
+          787
+        ],
+        [
+          1578,
+          839
+        ],
+        [
+          285,
+          839
+        ]
+      ],
+      "score": 0.9152453541755676,
+      "y_pos": 787,
+      "text": "Chủ trị: Liệt mặt, miệng mắt méo lệch, góc mép chảy dãi.",
+      "confidence": 0.39887468568209944
+    },
+    {
+      "type": "text",
+      "img_path": "p0131_005_text.png",
+      "bbox": [
+        [
+          284,
+          877
+        ],
+        [
+          2357,
+          877
+        ],
+        [
+          2357,
+          1002
+        ],
+        [
+          284,
+          1002
+        ]
+      ],
+      "score": 0.9576345086097717,
+      "y_pos": 877,
+      "text": "Tác dụng phối hợp: Với Giáp xa, Hợp cốc trị đau thần kinh sinh ba, góc mép chảy dãi; với\nHậu khê trị góc mép đờ cứng.",
+      "confidence": 0.7895611468288634
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0131_010_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1042
+        ],
+        [
+          552,
+          1042
+        ],
+        [
+          552,
+          1091
+        ],
+        [
+          226,
+          1091
+        ]
+      ],
+      "score": 0.9180046319961548,
+      "y_pos": 1042,
+      "text": "5. Đại nghinh",
+      "confidence": 0.8899763822555542
+    },
+    {
+      "type": "text",
+      "img_path": "p0131_022_text.png",
+      "bbox": [
+        [
+          288,
+          1131
+        ],
+        [
+          2257,
+          1131
+        ],
+        [
+          2257,
+          1186
+        ],
+        [
+          288,
+          1186
+        ]
+      ],
+      "score": 0.8850760459899902,
+      "y_pos": 1131,
+      "text": "Vị trí: Chỗ lõm trước góc hàm dưới, ngang huyệt Giáp xa ra phía trước 0,5 thốn. (H. 50)",
+      "confidence": 0.9884997797146272
+    },
+    {
+      "type": "text",
+      "img_path": "p0131_008_text.png",
+      "bbox": [
+        [
+          280,
+          1223
+        ],
+        [
+          2354,
+          1223
+        ],
+        [
+          2354,
+          1343
+        ],
+        [
+          280,
+          1343
+        ]
+      ],
+      "score": 0.9524487853050232,
+      "y_pos": 1223,
+      "text": "Cách châm: Châm chếch kim về phía trước hoặc phía sau, tránh động mạch, sâu 0,5 đến 1\nthốn. Cứu 3 mồi.",
+      "confidence": 0.9975637691345252
+    },
+    {
+      "type": "text",
+      "img_path": "p0131_011_text.png",
+      "bbox": [
+        [
+          285,
+          1386
+        ],
+        [
+          1840,
+          1386
+        ],
+        [
+          1840,
+          1440
+        ],
+        [
+          285,
+          1440
+        ]
+      ],
+      "score": 0.9168052077293396,
+      "y_pos": 1386,
+      "text": "Chủ trị: Hàm răng cắn chặt, má sưng, đau răng, thần kinh mặt tê dại.",
+      "confidence": 0.5694972395896911
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0131_019_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1478
+        ],
+        [
+          479,
+          1478
+        ],
+        [
+          479,
+          1527
+        ],
+        [
+          226,
+          1527
+        ]
+      ],
+      "score": 0.9100316166877747,
+      "y_pos": 1478,
+      "text": "6. Giáp xa",
+      "confidence": 0.9561488131682078
+    },
+    {
+      "type": "text",
+      "img_path": "p0131_016_text.png",
+      "bbox": [
+        [
+          290,
+          1568
+        ],
+        [
+          1302,
+          1568
+        ],
+        [
+          1302,
+          1620
+        ],
+        [
+          290,
+          1620
+        ]
+      ],
+      "score": 0.9138888716697693,
+      "y_pos": 1568,
+      "text": "Vi trí: Ở chỗ lõm trước và trên góc quai hàm.",
+      "confidence": 0.9927108376584155
+    },
+    {
+      "type": "text",
+      "img_path": "p0131_006_text.png",
+      "bbox": [
+        [
+          281,
+          1659
+        ],
+        [
+          2358,
+          1659
+        ],
+        [
+          2358,
+          1785
+        ],
+        [
+          281,
+          1785
+        ]
+      ],
+      "score": 0.9572926163673401,
+      "y_pos": 1659,
+      "text": "Cách lấy huyệt: Ở trên và trước góc hàm khoảng 0,8 thốn. Khi cắn chặt, có một cục cơ nhai\nnổi cao, huyệt ở đỉnh cao đó, dùng tay ấn vào có cảm giác buốt đau là đúng. (H. 50)",
+      "confidence": 0.9980609375542799
+    },
+    {
+      "type": "text",
+      "img_path": "p0131_003_text.png",
+      "bbox": [
+        [
+          280,
+          1822
+        ],
+        [
+          2360,
+          1822
+        ],
+        [
+          2360,
+          1945
+        ],
+        [
+          280,
+          1945
+        ]
+      ],
+      "score": 0.9607887268066406,
+      "y_pos": 1822,
+      "text": "Cách châm: Châm đứng kim, sâu 0,4 thốn hoặc chếch về Địa thương sâu tới 2 thốn. Cứu 3\n\n – 5 mồi, hơ 5 – 7 phút.\n",
+      "confidence": 0.9688949112532319
+    },
+    {
+      "type": "text",
+      "img_path": "p0131_023_text.png",
+      "bbox": [
+        [
+          283,
+          1986
+        ],
+        [
+          2292,
+          1986
+        ],
+        [
+          2292,
+          2040
+        ],
+        [
+          283,
+          2040
+        ]
+      ],
+      "score": 0.8775222301483154,
+      "y_pos": 1986,
+      "text": "Chủ trị: Miêng mắt méo lệch, răng đau, quai bị, động kinh, viêm amiđan cấp tính, liệt mặt.",
+      "confidence": 0.37453191047129425
+    },
+    {
+      "type": "text",
+      "img_path": "p0131_013_text.png",
+      "bbox": [
+        [
+          281,
+          2074
+        ],
+        [
+          2362,
+          2074
+        ],
+        [
+          2362,
+          2201
+        ],
+        [
+          281,
+          2201
+        ]
+      ],
+      "score": 0.9154369235038757,
+      "y_pos": 2074,
+      "text": "Tác dụng phối hợp: Với Nhân trung, Hợp cốc trị hàm răng cắn chặt; với Hợp cốc, Ê phong\ntrị quai bị, viêm amiđan.",
+      "confidence": 0.9930086945268242
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0131_017_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2242
+        ],
+        [
+          496,
+          2242
+        ],
+        [
+          496,
+          2292
+        ],
+        [
+          226,
+          2292
+        ]
+      ],
+      "score": 0.9127629399299622,
+      "y_pos": 2242,
+      "text": "7. Ha quan",
+      "confidence": 0.968766654531161
+    },
+    {
+      "type": "text",
+      "img_path": "p0131_021_text.png",
+      "bbox": [
+        [
+          289,
+          2331
+        ],
+        [
+          1093,
+          2331
+        ],
+        [
+          1093,
+          2384
+        ],
+        [
+          289,
+          2384
+        ]
+      ],
+      "score": 0.8999964594841003,
+      "y_pos": 2331,
+      "text": "Vi trí: Ở phía trước bình tai. (H. 50)",
+      "confidence": 0.9725257620215416
+    },
+    {
+      "type": "text",
+      "img_path": "p0131_000_text.png",
+      "bbox": [
+        [
+          280,
+          2422
+        ],
+        [
+          2359,
+          2422
+        ],
+        [
+          2359,
+          2617
+        ],
+        [
+          280,
+          2617
+        ]
+      ],
+      "score": 0.9754061698913574,
+      "y_pos": 2422,
+      "text": "Cách lấy huyệt: Cắn hàm răng, dùng ngón tay áp vào phía trước bình tai, cách tai khoảng\n0,7 – 0,8 thốn, cắn hàm răng thì có một hố lõm, khi há miệng, chỗ lõm đó lồi thành chỗ cao là\nhuyêt.",
+      "confidence": 0.9891177705129458
+    },
+    {
+      "type": "text",
+      "img_path": "p0131_001_text.png",
+      "bbox": [
+        [
+          280,
+          2656
+        ],
+        [
+          2359,
+          2656
+        ],
+        [
+          2359,
+          2850
+        ],
+        [
+          280,
+          2850
+        ]
+      ],
+      "score": 0.9746335744857788,
+      "y_pos": 2656,
+      "text": "Cách châm: Châm đứng kim, hơi chếch về phía trước, sau tiến kim sâu 0,3 - 0,5 thốn,\nchâm chếch về <i>Giáp xa</i> hoặc hướng về khoé mép, sâu từ 1 đến 1,5 thốn. Cứu 3 – 5 mồi, hơ\n5 – 7 phút.",
+      "confidence": 0.9832677883819777
+    },
+    {
+      "type": "text",
+      "img_path": "p0131_018_text.png",
+      "bbox": [
+        [
+          285,
+          2891
+        ],
+        [
+          1971,
+          2891
+        ],
+        [
+          1971,
+          2944
+        ],
+        [
+          285,
+          2944
+        ]
+      ],
+      "score": 0.9105176329612732,
+      "y_pos": 2891,
+      "text": "Chủ trị: Miệng mắt méo lệch, đau răng ù tai, tai điếc, liệt mặt, viêm tai giữa",
+      "confidence": 0.5120264276862144
+    },
+    {
+      "type": "text",
+      "img_path": "p0131_007_text.png",
+      "bbox": [
+        [
+          283,
+          2981
+        ],
+        [
+          2358,
+          2981
+        ],
+        [
+          2358,
+          3099
+        ],
+        [
+          283,
+          3099
+        ]
+      ],
+      "score": 0.9558014869689941,
+      "y_pos": 2981,
+      "text": "Tác dụng phối hợp: Với Ngoại quan trị viêm tai giữa; với Thái dương trị đau thần kinh sinh\nba",
+      "confidence": 0.9755891768828682
+    },
+    {
+      "type": "footer",
+      "img_path": "p0131_020_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9082803130149841,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0131_024_number.png",
+      "bbox": [
+        [
+          2305,
+          3340
+        ],
+        [
+          2352,
+          3340
+        ],
+        [
+          2352,
+          3378
+        ],
+        [
+          2305,
+          3378
+        ]
+      ],
+      "score": 0.8573600649833679,
+      "y_pos": 3340,
+      "text": "    \n\n\n\n\n\n\n\n    \n\n\n۰\n٠.\n\n",
+      "confidence": 0.9375728430116878
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0131.png"
+}

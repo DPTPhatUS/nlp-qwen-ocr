@@ -1,0 +1,162 @@
+{
+  "page_num": 290,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0290_001_header.png",
+      "bbox": [
+        [
+          1609,
+          143
+        ],
+        [
+          2371,
+          143
+        ],
+        [
+          2371,
+          203
+        ],
+        [
+          1609,
+          203
+        ]
+      ],
+      "score": 0.9172163009643555,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.8138902928857576
+    },
+    {
+      "type": "header",
+      "img_path": "p0290_002_header.png",
+      "bbox": [
+        [
+          231,
+          160
+        ],
+        [
+          1346,
+          160
+        ],
+        [
+          1346,
+          201
+        ],
+        [
+          231,
+          201
+        ]
+      ],
+      "score": 0.9090208411216736,
+      "y_pos": 160,
+      "text": "CÁC BẢNG TRA CỦU HUYỆT LIÊN QUAN TRONG CHÂM CỦU",
+      "confidence": 0.6490904555028799
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0290_004_figure_title.png",
+      "bbox": [
+        [
+          824,
+          293
+        ],
+        [
+          1766,
+          293
+        ],
+        [
+          1766,
+          342
+        ],
+        [
+          824,
+          342
+        ]
+      ],
+      "score": 0.8968111276626587,
+      "y_pos": 293,
+      "text": "Bảng 19 - Bảng các huyệt giao hội ở âm kinh",
+      "confidence": 0.995339998934004
+    },
+    {
+      "type": "table",
+      "img_path": "p0290_000_table.png",
+      "bbox": [
+        [
+          244,
+          386
+        ],
+        [
+          2348,
+          386
+        ],
+        [
+          2348,
+          3145
+        ],
+        [
+          244,
+          3145
+        ]
+      ],
+      "score": 0.9916472434997559,
+      "y_pos": 386,
+      "text": "âm    âm    âт    âm\nNhâm mạch    âm    Túc thái    Thủ thái    âm    Túc quyết    Thủ quyết    Túc thiếu    Thủ thiếu    Âm duy    Âm kiểu    mạch    Xung    Ghi chú\nThừa tướng    0    Hội với Túc dương minh\nLiêm tuyền    0    Χ\nThiên đột    0    Χ\nHội với Túc dương minh,\nThượng quản    0    Thủ thái dương\nSinh của Thủ thái dương,\nTrung quản    0    Thủ thiếu dương và Túc\ndương minh\nHạ quản    0    Χ\nÂm giao    0    Χ\nQuan nguyên    0    Χ    Χ    Χ\nTrung cực    0    Χ    Χ    Χ\nKhúc cốt    0    Χ\nHội âm    0    Χ    Hội của Nhâm Đốc\nTam âm giao    0    Χ    Χ\nXung môn    0    Χ\nPhủ xá    0    Χ    Χ\nPhúc ai    0    Χ\nĐại hoành    0    Χ\nTrung phủ    Χ    0\nChương môn    0    Hội với Túc thiếu dương\nKỳ môn    Χ    0    Χ\nThiên trì    0    Hội với Túc thiếu dương\nHoành cốt    0    Χ\nĐại hách    0    Χ\nKhí huyệt    0    Χ\nTứ mãn    0    Χ\nTrung chú    0    Χ\nHoang du    0    Χ\nThương khúc    0    Χ\nThạch quan    0\nÂm đô    0\nThông cốc    0\nU môn    0\nChiếu hải    0    Χ    chỗ sinh Âm kiểu mạch\nGiao tín    0    Χ    Khích của âm kiểu\nTrúc tâm    0    Χ    Khích của Âm duy",
+      "confidence": 0.8850641917759107
+    },
+    {
+      "type": "footer",
+      "img_path": "p0290_003_footer.png",
+      "bbox": [
+        [
+          229,
+          3334
+        ],
+        [
+          1438,
+          3334
+        ],
+        [
+          1438,
+          3388
+        ],
+        [
+          229,
+          3388
+        ]
+      ],
+      "score": 0.9016478657722473,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9497183280171089
+    },
+    {
+      "type": "number",
+      "img_path": "p0290_005_number.png",
+      "bbox": [
+        [
+          2331,
+          3340
+        ],
+        [
+          2356,
+          3340
+        ],
+        [
+          2356,
+          3373
+        ],
+        [
+          2331,
+          3373
+        ]
+      ],
+      "score": 0.8060320019721985,
+      "y_pos": 3340,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0290.png"
+}

@@ -1,0 +1,708 @@
+{
+  "page_num": 172,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0172_008_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9325560927391052,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7643314777385621
+    },
+    {
+      "type": "header",
+      "img_path": "p0172_019_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          905,
+          156
+        ],
+        [
+          905,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9172202944755554,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9866287461642561
+    },
+    {
+      "type": "text",
+      "img_path": "p0172_004_text.png",
+      "bbox": [
+        [
+          286,
+          348
+        ],
+        [
+          2357,
+          348
+        ],
+        [
+          2357,
+          471
+        ],
+        [
+          286,
+          471
+        ]
+      ],
+      "score": 0.9610440135002136,
+      "y_pos": 348,
+      "text": "Tác dụng phối hợp: Với <i>Côn luân</i> trị sưng bàn chân; với <i>Trung chử</i> trị đau hầu họng; với\n<i>Thiếu trạch</i> trị khô họng.",
+      "confidence": 0.986896685440501
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0172_017_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          512
+        ],
+        [
+          535,
+          512
+        ],
+        [
+          535,
+          563
+        ],
+        [
+          225,
+          563
+        ]
+      ],
+      "score": 0.9188327789306641,
+      "y_pos": 512,
+      "text": "4. Đại chung",
+      "confidence": 0.9533047463212695
+    },
+    {
+      "type": "text",
+      "img_path": "p0172_016_text.png",
+      "bbox": [
+        [
+          288,
+          601
+        ],
+        [
+          1552,
+          601
+        ],
+        [
+          1552,
+          655
+        ],
+        [
+          288,
+          655
+        ]
+      ],
+      "score": 0.9189141392707825,
+      "y_pos": 601,
+      "text": "Vị trí: Chỗ lõm phía dưới, sau mắt cá trong chân (H. 77)",
+      "confidence": 0.9849704771206297
+    },
+    {
+      "type": "text",
+      "img_path": "p0172_001_text.png",
+      "bbox": [
+        [
+          281,
+          691
+        ],
+        [
+          2355,
+          691
+        ],
+        [
+          2355,
+          819
+        ],
+        [
+          281,
+          819
+        ]
+      ],
+      "score": 0.9644486904144287,
+      "y_pos": 691,
+      "text": "Cách lấy huyệt: Bàn chân để bằng phẳng, từ Thái khê xuống 0,5 thốn hơi lùi về phía sau.\nchỗ lõm gần gót bám vào xương gót.",
+      "confidence": 0.995736537950018
+    },
+    {
+      "type": "text",
+      "img_path": "p0172_011_text.png",
+      "bbox": [
+        [
+          285,
+          856
+        ],
+        [
+          1857,
+          856
+        ],
+        [
+          1857,
+          908
+        ],
+        [
+          285,
+          908
+        ]
+      ],
+      "score": 0.922650158405304,
+      "y_pos": 856,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3-0,5 thốn. Cứu 3 mồi, hơ 5 phút.",
+      "confidence": 0.9930703052833899
+    },
+    {
+      "type": "text",
+      "img_path": "p0172_002_text.png",
+      "bbox": [
+        [
+          281,
+          949
+        ],
+        [
+          2359,
+          949
+        ],
+        [
+          2359,
+          1069
+        ],
+        [
+          281,
+          1069
+        ]
+      ],
+      "score": 0.9636971950531006,
+      "y_pos": 949,
+      "text": "Chủ trị: Ho hen, ho ra máu, suy nhược thần kinh, lưng dưới lưng trên cứng đau, đau gót\nchân, táo bón.",
+      "confidence": 0.903487840667367
+    },
+    {
+      "type": "text",
+      "img_path": "p0172_000_text.png",
+      "bbox": [
+        [
+          282,
+          1111
+        ],
+        [
+          2358,
+          1111
+        ],
+        [
+          2358,
+          1229
+        ],
+        [
+          282,
+          1229
+        ]
+      ],
+      "score": 0.9645379781723022,
+      "y_pos": 1111,
+      "text": "Tác dụng phối hợp: Với Thông lý trị mệt mỏi, ngại nói, ham nằm; với Đại trường du trị táo\nbón kéo dài.",
+      "confidence": 0.9852734006695695
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0172_022_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1272
+        ],
+        [
+          561,
+          1272
+        ],
+        [
+          561,
+          1324
+        ],
+        [
+          225,
+          1324
+        ]
+      ],
+      "score": 0.9117589592933655,
+      "y_pos": 1272,
+      "text": "5. Thủy tuyên",
+      "confidence": 0.8830323775609334
+    },
+    {
+      "type": "text",
+      "img_path": "p0172_021_text.png",
+      "bbox": [
+        [
+          288,
+          1363
+        ],
+        [
+          1323,
+          1363
+        ],
+        [
+          1323,
+          1418
+        ],
+        [
+          288,
+          1418
+        ]
+      ],
+      "score": 0.9122079610824585,
+      "y_pos": 1363,
+      "text": "Vị trí: Từ Thái khê thẳng xuống 1 thốn (H. 77)",
+      "confidence": 0.4751245627800624
+    },
+    {
+      "type": "text",
+      "img_path": "p0172_006_text.png",
+      "bbox": [
+        [
+          282,
+          1454
+        ],
+        [
+          2359,
+          1454
+        ],
+        [
+          2359,
+          1578
+        ],
+        [
+          282,
+          1578
+        ]
+      ],
+      "score": 0.9597581624984741,
+      "y_pos": 1454,
+      "text": "Cách lấy huyệt: Bàn chân để bằng phẳng, từ Thái khê xuống 1 thốn, chỗ lõm trước khớp\ngót chân.",
+      "confidence": 0.9861961954743867
+    },
+    {
+      "type": "text",
+      "img_path": "p0172_015_text.png",
+      "bbox": [
+        [
+          284,
+          1618
+        ],
+        [
+          1858,
+          1618
+        ],
+        [
+          1858,
+          1671
+        ],
+        [
+          284,
+          1671
+        ]
+      ],
+      "score": 0.9196625351905823,
+      "y_pos": 1618,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3-0,5 thốn. Cứu 3 mồi, hơ 5 phút.",
+      "confidence": 0.9939939717748272
+    },
+    {
+      "type": "text",
+      "img_path": "p0172_013_text.png",
+      "bbox": [
+        [
+          285,
+          1710
+        ],
+        [
+          1996,
+          1710
+        ],
+        [
+          1996,
+          1765
+        ],
+        [
+          285,
+          1765
+        ]
+      ],
+      "score": 0.9201498031616211,
+      "y_pos": 1710,
+      "text": "Chủ trị: Kinh nguyệt không đều, sa dạ con, tiểu tiện khó, đau mắt, đau răng.",
+      "confidence": 0.47752237778443557
+    },
+    {
+      "type": "text",
+      "img_path": "p0172_020_text.png",
+      "bbox": [
+        [
+          288,
+          1802
+        ],
+        [
+          1685,
+          1802
+        ],
+        [
+          1685,
+          1856
+        ],
+        [
+          288,
+          1856
+        ]
+      ],
+      "score": 0.9129793047904968,
+      "y_pos": 1802,
+      "text": "Tác dụng phối hợp: Với Thiên khu trị kinh nguyệt không đều.",
+      "confidence": 0.9874749706416833
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0172_025_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1892
+        ],
+        [
+          520,
+          1892
+        ],
+        [
+          520,
+          1942
+        ],
+        [
+          226,
+          1942
+        ]
+      ],
+      "score": 0.9071232676506042,
+      "y_pos": 1892,
+      "text": "6. Chiếu hải",
+      "confidence": 0.9108343890735081
+    },
+    {
+      "type": "text",
+      "img_path": "p0172_014_text.png",
+      "bbox": [
+        [
+          289,
+          1985
+        ],
+        [
+          1142,
+          1985
+        ],
+        [
+          1142,
+          2038
+        ],
+        [
+          289,
+          2038
+        ]
+      ],
+      "score": 0.9199652075767517,
+      "y_pos": 1985,
+      "text": "Vị trí: Ở phía dưới mắt cá trong chân.",
+      "confidence": 0.9807738542556763
+    },
+    {
+      "type": "text",
+      "img_path": "p0172_007_text.png",
+      "bbox": [
+        [
+          281,
+          2075
+        ],
+        [
+          2358,
+          2075
+        ],
+        [
+          2358,
+          2201
+        ],
+        [
+          281,
+          2201
+        ]
+      ],
+      "score": 0.9583184719085693,
+      "y_pos": 2075,
+      "text": "Cách lấy huyệt: Người bệnh ngồi xếp vòng tròn, hai lòng bàn chân úp vào nhau, giữa lồi\nmắt cá trong chân thẳng xuống bờ dưới của mắt cá chỗ giáp xương cổ chân. (H. 78)",
+      "confidence": 0.998662890763148
+    },
+    {
+      "type": "text",
+      "img_path": "p0172_018_text.png",
+      "bbox": [
+        [
+          284,
+          2240
+        ],
+        [
+          1977,
+          2240
+        ],
+        [
+          1977,
+          2291
+        ],
+        [
+          284,
+          2291
+        ]
+      ],
+      "score": 0.9179090261459351,
+      "y_pos": 2240,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3-0,5 thốn. Cứu 3-7 mồi, hơ 5-10 phút.",
+      "confidence": 0.9893648268447982
+    },
+    {
+      "type": "text",
+      "img_path": "p0172_003_text.png",
+      "bbox": [
+        [
+          280,
+          2331
+        ],
+        [
+          2358,
+          2331
+        ],
+        [
+          2358,
+          2454
+        ],
+        [
+          280,
+          2454
+        ]
+      ],
+      "score": 0.9633064270019531,
+      "y_pos": 2331,
+      "text": "Chủ trị: Mất ngủ, điên dại, táo bón, ỉa lỏng vào lúc sáng sớm, kinh nguyệt không đều, ngứa\nhạ bộ.",
+      "confidence": 0.9897856168124987
+    },
+    {
+      "type": "text",
+      "img_path": "p0172_005_text.png",
+      "bbox": [
+        [
+          286,
+          2492
+        ],
+        [
+          2356,
+          2492
+        ],
+        [
+          2356,
+          2618
+        ],
+        [
+          286,
+          2618
+        ]
+      ],
+      "score": 0.9598583579063416,
+      "y_pos": 2492,
+      "text": "<i>Tác dụng phối hợp:</i> Với <i>Liệt khuyết</i> trị ho, hen suyễn; với <i>Chi câu</i> trị táo bón; với <i>Bách hội</i>,\nThái xung trị đau hầu họng.",
+      "confidence": 0.8265651398621112
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0172_024_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2657
+        ],
+        [
+          511,
+          2657
+        ],
+        [
+          511,
+          2707
+        ],
+        [
+          227,
+          2707
+        ]
+      ],
+      "score": 0.9110363721847534,
+      "y_pos": 2657,
+      "text": "7. Phuc Iwu",
+      "confidence": 0.9479379057884216
+    },
+    {
+      "type": "text",
+      "img_path": "p0172_012_text.png",
+      "bbox": [
+        [
+          288,
+          2745
+        ],
+        [
+          1257,
+          2745
+        ],
+        [
+          1257,
+          2801
+        ],
+        [
+          288,
+          2801
+        ]
+      ],
+      "score": 0.9220103621482849,
+      "y_pos": 2745,
+      "text": "Vị trí: Từ Thái khê thẳng lên 2 thốn (H. 77)",
+      "confidence": 0.5617886600287064
+    },
+    {
+      "type": "text",
+      "img_path": "p0172_009_text.png",
+      "bbox": [
+        [
+          286,
+          2838
+        ],
+        [
+          1573,
+          2838
+        ],
+        [
+          1573,
+          2891
+        ],
+        [
+          286,
+          2891
+        ]
+      ],
+      "score": 0.9262908101081848,
+      "y_pos": 2838,
+      "text": "Cách châm: Châm đứng kim, sâu 1-1,5 thốn. Cứu 3 mồi.",
+      "confidence": 0.9953121929257004
+    },
+    {
+      "type": "text",
+      "img_path": "p0172_010_text.png",
+      "bbox": [
+        [
+          285,
+          2932
+        ],
+        [
+          1785,
+          2932
+        ],
+        [
+          1785,
+          2986
+        ],
+        [
+          285,
+          2986
+        ]
+      ],
+      "score": 0.9249339699745178,
+      "y_pos": 2932,
+      "text": "Chủ trị: Viêm thận, viêm tinh hoàn, mồ hôi trộm, la chảy, đau lưng.",
+      "confidence": 0.6259450972944066
+    },
+    {
+      "type": "footer",
+      "img_path": "p0172_023_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9115779995918274,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0172_026_number.png",
+      "bbox": [
+        [
+          2301,
+          3339
+        ],
+        [
+          2350,
+          3339
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2301,
+          3377
+        ]
+      ],
+      "score": 0.8696231245994568,
+      "y_pos": 3339,
+      "text": "\n    \n    \n\n\n\n    \n\n\n\n\n    \n    \n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0172.png"
+}

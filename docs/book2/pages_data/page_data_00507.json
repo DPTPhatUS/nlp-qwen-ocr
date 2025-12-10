@@ -1,0 +1,188 @@
+{
+  "page_num": 507,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0507_000_header.png",
+      "bbox": [
+        [
+          1674,
+          144
+        ],
+        [
+          2369,
+          144
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1674,
+          197
+        ]
+      ],
+      "score": 0.9178261756896973,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.750767955822604
+    },
+    {
+      "type": "header",
+      "img_path": "p0507_001_header.png",
+      "bbox": [
+        [
+          229,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9170967936515808,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9855625457488574
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0507_005_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          331
+        ],
+        [
+          634,
+          331
+        ],
+        [
+          634,
+          381
+        ],
+        [
+          227,
+          381
+        ]
+      ],
+      "score": 0.7694670557975769,
+      "y_pos": 331,
+      "text": "76. Viêm tai giữa",
+      "confidence": 0.8978972121288902
+    },
+    {
+      "type": "text",
+      "img_path": "p0507_004_text.png",
+      "bbox": [
+        [
+          226,
+          419
+        ],
+        [
+          1182,
+          419
+        ],
+        [
+          1182,
+          475
+        ],
+        [
+          226,
+          475
+        ]
+      ],
+      "score": 0.7708784937858582,
+      "y_pos": 419,
+      "text": "a. Cấp tính: Nhĩ môn, É phong, Thái xung.",
+      "confidence": 0.8673535086387811
+    },
+    {
+      "type": "text",
+      "img_path": "p0507_006_text.png",
+      "bbox": [
+        [
+          225,
+          511
+        ],
+        [
+          1868,
+          511
+        ],
+        [
+          1868,
+          566
+        ],
+        [
+          225,
+          566
+        ]
+      ],
+      "score": 0.7675718665122986,
+      "y_pos": 511,
+      "text": "<b>b. Mạn tính:</b> Nhĩ môn, Thính cung, Thính hội, Ê phong, Cách du, Đảm du,",
+      "confidence": 0.9941281507144103
+    },
+    {
+      "type": "number",
+      "img_path": "p0507_003_number.png",
+      "bbox": [
+        [
+          2303,
+          3300
+        ],
+        [
+          2352,
+          3300
+        ],
+        [
+          2352,
+          3335
+        ],
+        [
+          2303,
+          3335
+        ]
+      ],
+      "score": 0.8655534386634827,
+      "y_pos": 3300,
+      "text": "    \n        \n    \n\n\n    \n    \n    \n\n    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0507_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3310
+        ],
+        [
+          1324,
+          3310
+        ],
+        [
+          1324,
+          3355
+        ],
+        [
+          229,
+          3355
+        ]
+      ],
+      "score": 0.904111921787262,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985551654167895
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0507.png"
+}

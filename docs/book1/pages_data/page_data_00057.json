@@ -1,0 +1,214 @@
+{
+  "page_num": 57,
+  "content": [
+    {
+      "type": "table",
+      "img_path": "p0057_000_table.png",
+      "bbox": [
+        [
+          353,
+          445
+        ],
+        [
+          2124,
+          445
+        ],
+        [
+          2124,
+          1512
+        ],
+        [
+          353,
+          1512
+        ]
+      ],
+      "score": 0.9807227253913879,
+      "y_pos": 445,
+      "text": "Vị thuốc    Dược lý Đông y\nCát căn    Ngọt, cay, bình. Vào Tỳ, Vị. Sinh tân chỉ khát, trừ phiền, thanh nhiệt.\nHoàng liên    Đắng, hàn. Vào Can, Đởm. Thanh nhiệt, trừ thấp, thanh Tâm, trừ phiền, giải\nđộc, thanh Can hỏa, chỉ huyết do nhiệt.\nHoàng    Đắng, hàn. Vào Tâm, Phế, Can, Đởm, Đại trường. Thanh nhiệt, tả hỏa, làm\ncầm    lơi thấp ở Phế, trừ thấp Vi trường.\nNhân trần    Đẳng cay, tính hơi hàn. Vào Tỳ, Vị, Can, Đởm. Lợi thấp nhiệt, thoái hoàng.\nKim ngân    Ngọt, đẳng. Vào Phế, Vị, Tâm, Tỳ, Đại trường. Thanh nhiệt giải độc, thanh\nnhiệt Vi trường, thanh biểu nhiệt.\nMộc thông    Đắng, lạnh. Vào Tâm, Tiểu trường, Phế, Bàng quang. Giáng Tâm hỏa, thanh\nlợi Tiểu trường, thanh thấp nhiệt Bàng quang.\nHoắc    Cay, ấm vào Phế, Tỳ, Vị. Tán thử thấp, điều hòa Tỳ Vị, phương hương hóa\nhương    troc thấp.\nCam thảo    Ngot bình. Vào 12 kinh. Bổ trung khí, hòa hoãn, giải độc.",
+      "confidence": 0.9145987291114119
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0057_003_paragraph_title.png",
+      "bbox": [
+        [
+          1011,
+          1677
+        ],
+        [
+          1461,
+          1677
+        ],
+        [
+          1461,
+          1739
+        ],
+        [
+          1011,
+          1739
+        ]
+      ],
+      "score": 0.7581381797790527,
+      "y_pos": 1677,
+      "text": "KHÍ PHÂN CHỨNG",
+      "confidence": 0.9751196317374706
+    },
+    {
+      "type": "text",
+      "img_path": "p0057_006_text.png",
+      "bbox": [
+        [
+          369,
+          1930
+        ],
+        [
+          2106,
+          1930
+        ],
+        [
+          2106,
+          2082
+        ],
+        [
+          369,
+          2082
+        ]
+      ],
+      "score": 0.5634467601776123,
+      "y_pos": 1930,
+      "text": "- Bênh chứng ở Khí phân bao gồm 4 bênh cảnh: nhiệt ở Phế kinh, Nhiệt uất hung cách,\nNhiệt nhập Vi và Nhiệt kết trường phủ. Bệnh cảnh Nhiệt kết trường phủ có 2 thể Trường\ntáo tiên bế và Trường nhiệt hạ ly.",
+      "confidence": 0.9952370189329011
+    },
+    {
+      "type": "text",
+      "img_path": "p0057_007_text.png",
+      "bbox": [
+        [
+          370,
+          2397
+        ],
+        [
+          2107,
+          2397
+        ],
+        [
+          2107,
+          2498
+        ],
+        [
+          370,
+          2498
+        ]
+      ],
+      "score": 0.5293214917182922,
+      "y_pos": 2397,
+      "text": "- Táo bón hay tiêu chảy, lỵ là triệu chứng quan trọng để phận biệt bệnh cảnh Trường táo\ntiện bế với Trường nhiệt hạ lỵ của nhiệt kết trường phủ",
+      "confidence": 0.9993521736003275
+    },
+    {
+      "type": "text",
+      "img_path": "p0057_005_text.png",
+      "bbox": [
+        [
+          369,
+          2741
+        ],
+        [
+          2105,
+          2741
+        ],
+        [
+          2105,
+          2845
+        ],
+        [
+          369,
+          2845
+        ]
+      ],
+      "score": 0.564521849155426,
+      "y_pos": 2741,
+      "text": "- Thuốc tiêu biểu trong điều tri bênh chứng Trường táo tiên bế của Nhiêt kết trường phủ:\nĐiều vi thừa khí thang",
+      "confidence": 0.9636095486581326
+    },
+    {
+      "type": "text",
+      "img_path": "p0057_004_text.png",
+      "bbox": [
+        [
+          369,
+          2862
+        ],
+        [
+          2107,
+          2862
+        ],
+        [
+          2107,
+          2964
+        ],
+        [
+          369,
+          2964
+        ]
+      ],
+      "score": 0.5743435621261597,
+      "y_pos": 2862,
+      "text": "- Thuốc tiêu biểu trong điều trị bệnh chứng Trường nhiệt hạ lỵ của Nhiệt kết trường phủ: Cát\ncăn cầm liên thang",
+      "confidence": 0.9947999465021682
+    },
+    {
+      "type": "number",
+      "img_path": "p0057_002_number.png",
+      "bbox": [
+        [
+          353,
+          3111
+        ],
+        [
+          405,
+          3111
+        ],
+        [
+          405,
+          3148
+        ],
+        [
+          353,
+          3148
+        ]
+      ],
+      "score": 0.8765124678611755,
+      "y_pos": 3111,
+      "text": "\n        \n    \n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0057_001_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1073,
+          3311
+        ],
+        [
+          1073,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.9157053232192993,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8789173466818673
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0057.png"
+}

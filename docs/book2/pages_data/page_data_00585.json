@@ -1,0 +1,136 @@
+{
+  "page_num": 585,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0585_001_header.png",
+      "bbox": [
+        [
+          1674,
+          144
+        ],
+        [
+          2370,
+          144
+        ],
+        [
+          2370,
+          198
+        ],
+        [
+          1674,
+          198
+        ]
+      ],
+      "score": 0.9113456606864929,
+      "y_pos": 144,
+      "text": "~?    ~ 7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6846830403757475
+    },
+    {
+      "type": "header",
+      "img_path": "p0585_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1466,
+          152
+        ],
+        [
+          1466,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9187526702880859,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BỆNH CỦA TÂN, KỲ HUYỆT",
+      "confidence": 0.996946144104004
+    },
+    {
+      "type": "text",
+      "img_path": "p0585_004_text.png",
+      "bbox": [
+        [
+          224,
+          326
+        ],
+        [
+          1483,
+          326
+        ],
+        [
+          1483,
+          566
+        ],
+        [
+          224,
+          566
+        ]
+      ],
+      "score": 0.8515584468841553,
+      "y_pos": 326,
+      "text": "Phần 32. BÊNH CƠ HOÀNH\n342. Cơ hoành co thắt: Hải tuyền, Ách nghịch, Hô hấp.\n343. Nấc: Trung khôi.",
+      "confidence": 0.9129729620749143
+    },
+    {
+      "type": "number",
+      "img_path": "p0585_003_number.png",
+      "bbox": [
+        [
+          2316,
+          3336
+        ],
+        [
+          2367,
+          3336
+        ],
+        [
+          2367,
+          3374
+        ],
+        [
+          2316,
+          3374
+        ]
+      ],
+      "score": 0.860078752040863,
+      "y_pos": 3336,
+      "text": "    \n    \n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0585_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3340
+        ],
+        [
+          1325,
+          3340
+        ],
+        [
+          1325,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9024409055709839,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9989979435812752
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0585.png"
+}

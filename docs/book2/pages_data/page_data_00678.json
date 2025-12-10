@@ -1,0 +1,890 @@
+{
+  "page_num": 678,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0678_000_header.png",
+      "bbox": [
+        [
+          1736,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          193
+        ],
+        [
+          1736,
+          193
+        ]
+      ],
+      "score": 0.9312728643417358,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.8175917324565706
+    },
+    {
+      "type": "header",
+      "img_path": "p0678_001_header.png",
+      "bbox": [
+        [
+          230,
+          148
+        ],
+        [
+          772,
+          148
+        ],
+        [
+          772,
+          195
+        ],
+        [
+          230,
+          195
+        ]
+      ],
+      "score": 0.9203779101371765,
+      "y_pos": 148,
+      "text": "PHU LUC: LIËT KË HUYËT",
+      "confidence": 0.8261118605732918
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0678_002_paragraph_title.png",
+      "bbox": [
+        [
+          248,
+          324
+        ],
+        [
+          1083,
+          324
+        ],
+        [
+          1083,
+          380
+        ],
+        [
+          248,
+          380
+        ]
+      ],
+      "score": 0.9158073663711548,
+      "y_pos": 324,
+      "text": "III. MỘT SỐ HUYỆT CÓ NHIỀU TÊN",
+      "confidence": 0.863001000136137
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_033_text.png",
+      "bbox": [
+        [
+          227,
+          418
+        ],
+        [
+          742,
+          418
+        ],
+        [
+          742,
+          473
+        ],
+        [
+          227,
+          473
+        ]
+      ],
+      "score": 0.697316586971283,
+      "y_pos": 418,
+      "text": "Tổng hợp từ các sách:",
+      "confidence": 0.9995412878368212
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_014_text.png",
+      "bbox": [
+        [
+          283,
+          510
+        ],
+        [
+          2259,
+          510
+        ],
+        [
+          2259,
+          565
+        ],
+        [
+          283,
+          565
+        ]
+      ],
+      "score": 0.8575388789176941,
+      "y_pos": 510,
+      "text": "- \"Kim huyệt tiện lãm\" của Vương Dã Phong, Thượng Hải khoa học kỹ thuật xuất bản xã.",
+      "confidence": 0.9984351930230163
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_008_text.png",
+      "bbox": [
+        [
+          284,
+          602
+        ],
+        [
+          2220,
+          602
+        ],
+        [
+          2220,
+          655
+        ],
+        [
+          284,
+          655
+        ]
+      ],
+      "score": 0.8730741143226624,
+      "y_pos": 602,
+      "text": "- \"Châm cứu đại thành\" của Dương Kế Châu, Nhân dân vê sinh xuất bản xã, Bắc Kinh.",
+      "confidence": 0.9985500545386808
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_010_text.png",
+      "bbox": [
+        [
+          285,
+          694
+        ],
+        [
+          2328,
+          694
+        ],
+        [
+          2328,
+          749
+        ],
+        [
+          285,
+          749
+        ]
+      ],
+      "score": 0.8654240369796753,
+      "y_pos": 694,
+      "text": "- \"Châm cứu học\" của Tổ nghiên cứu khoa giáo châm cứu học Trung y học hiệu tỉnh Giang Tô.",
+      "confidence": 0.9964015804804288
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0678_015_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          786
+        ],
+        [
+          520,
+          786
+        ],
+        [
+          520,
+          834
+        ],
+        [
+          225,
+          834
+        ]
+      ],
+      "score": 0.8543512225151062,
+      "y_pos": 786,
+      "text": "A. Kinh Phế",
+      "confidence": 0.8981277300761297
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_026_text.png",
+      "bbox": [
+        [
+          288,
+          878
+        ],
+        [
+          1690,
+          878
+        ],
+        [
+          1690,
+          934
+        ],
+        [
+          288,
+          934
+        ]
+      ],
+      "score": 0.8185214996337891,
+      "y_pos": 878,
+      "text": "<b>Trung phủ:</b> Ưng trung du,Phế mộ, Phủ trung du, Ưng du.",
+      "confidence": 0.9949510662179244
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_006_text.png",
+      "bbox": [
+        [
+          286,
+          972
+        ],
+        [
+          925,
+          972
+        ],
+        [
+          925,
+          1022
+        ],
+        [
+          286,
+          1022
+        ]
+      ],
+      "score": 0.8930874466896057,
+      "y_pos": 972,
+      "text": "2.    Hiệp bạch: Giáp bạch.",
+      "confidence": 0.8269052341364431
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_005_text.png",
+      "bbox": [
+        [
+          285,
+          1063
+        ],
+        [
+          1156,
+          1063
+        ],
+        [
+          1156,
+          1115
+        ],
+        [
+          285,
+          1115
+        ]
+      ],
+      "score": 0.8944133520126343,
+      "y_pos": 1063,
+      "text": "3.    Xích trạch: Quỷ thụ, Quỷ đường.",
+      "confidence": 0.8454390773267457
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_012_text.png",
+      "bbox": [
+        [
+          284,
+          1152
+        ],
+        [
+          1512,
+          1152
+        ],
+        [
+          1512,
+          1208
+        ],
+        [
+          284,
+          1208
+        ]
+      ],
+      "score": 0.8630119562149048,
+      "y_pos": 1152,
+      "text": "Liệt khuyết: Huyền đồng, Uyến lao, Đồng huyền.",
+      "confidence": 0.5251977294683456
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_007_text.png",
+      "bbox": [
+        [
+          286,
+          1247
+        ],
+        [
+          1141,
+          1247
+        ],
+        [
+          1141,
+          1297
+        ],
+        [
+          286,
+          1297
+        ]
+      ],
+      "score": 0.887766420841217,
+      "y_pos": 1247,
+      "text": "5.    <b>Thái uyên:</b> Thái tuyển, Quỷ tâm.",
+      "confidence": 0.9292088511444273
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_009_text.png",
+      "bbox": [
+        [
+          287,
+          1335
+        ],
+        [
+          1069,
+          1335
+        ],
+        [
+          1069,
+          1390
+        ],
+        [
+          287,
+          1390
+        ]
+      ],
+      "score": 0.8701779842376709,
+      "y_pos": 1335,
+      "text": "6.    Ngư tế: Thái tuyền, Quỷ tâm.",
+      "confidence": 0.9499575287103652
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_016_text.png",
+      "bbox": [
+        [
+          288,
+          1429
+        ],
+        [
+          944,
+          1429
+        ],
+        [
+          944,
+          1481
+        ],
+        [
+          288,
+          1481
+        ]
+      ],
+      "score": 0.8511946797370911,
+      "y_pos": 1429,
+      "text": "7.    Thiếu thương: Quỷ tín.",
+      "confidence": 0.7621415195365747
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0678_022_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1521
+        ],
+        [
+          690,
+          1521
+        ],
+        [
+          690,
+          1574
+        ],
+        [
+          227,
+          1574
+        ]
+      ],
+      "score": 0.8223960995674133,
+      "y_pos": 1521,
+      "text": "B. Kinh Đại trường",
+      "confidence": 0.7615213632583618
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_027_text.png",
+      "bbox": [
+        [
+          291,
+          1614
+        ],
+        [
+          1109,
+          1614
+        ],
+        [
+          1109,
+          1666
+        ],
+        [
+          291,
+          1666
+        ]
+      ],
+      "score": 0.8168501257896423,
+      "y_pos": 1614,
+      "text": "1.    <b>Thương dương:</b> Tuyệt dương.",
+      "confidence": 0.910632641116778
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_013_text.png",
+      "bbox": [
+        [
+          289,
+          1703
+        ],
+        [
+          1064,
+          1703
+        ],
+        [
+          1064,
+          1755
+        ],
+        [
+          289,
+          1755
+        ]
+      ],
+      "score": 0.8629350662231445,
+      "y_pos": 1703,
+      "text": "7    Z.    Nhị gian: Gian côc, Chu côc.",
+      "confidence": 0.5558381908469731
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_011_text.png",
+      "bbox": [
+        [
+          288,
+          1795
+        ],
+        [
+          1111,
+          1795
+        ],
+        [
+          1111,
+          1846
+        ],
+        [
+          288,
+          1846
+        ]
+      ],
+      "score": 0.865104079246521,
+      "y_pos": 1795,
+      "text": "J.    Tam gian: Thiêu côc, Tiêu côc.",
+      "confidence": 0.713975939899683
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_017_text.png",
+      "bbox": [
+        [
+          287,
+          1885
+        ],
+        [
+          1299,
+          1885
+        ],
+        [
+          1299,
+          1939
+        ],
+        [
+          287,
+          1939
+        ]
+      ],
+      "score": 0.8511273264884949,
+      "y_pos": 1885,
+      "text": "<b>Hợp cốc:</b> Hồ khẩu, Hàm khẩu, Hợp cốt.",
+      "confidence": 0.9890206411480904
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_018_text.png",
+      "bbox": [
+        [
+          287,
+          1981
+        ],
+        [
+          960,
+          1981
+        ],
+        [
+          960,
+          2030
+        ],
+        [
+          287,
+          2030
+        ]
+      ],
+      "score": 0.8494553565979004,
+      "y_pos": 1981,
+      "text": "5.    Dương khế: Trung khối.",
+      "confidence": 0.6945686476926008
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_024_text.png",
+      "bbox": [
+        [
+          287,
+          2070
+        ],
+        [
+          1244,
+          2070
+        ],
+        [
+          1244,
+          2122
+        ],
+        [
+          287,
+          2122
+        ]
+      ],
+      "score": 0.8200741410255432,
+      "y_pos": 2070,
+      "text": "6.    <b>On lưu:</b> Xà đâu, Nghịch chú, Trì đâu.",
+      "confidence": 0.9270589359104633
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_019_text.png",
+      "bbox": [
+        [
+          288,
+          2163
+        ],
+        [
+          975,
+          2163
+        ],
+        [
+          975,
+          2213
+        ],
+        [
+          288,
+          2213
+        ]
+      ],
+      "score": 0.8437501788139343,
+      "y_pos": 2163,
+      "text": "7.    Ha liêm: Thủ chi ha liêm.",
+      "confidence": 0.603087580314389
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_021_text.png",
+      "bbox": [
+        [
+          289,
+          2254
+        ],
+        [
+          1206,
+          2254
+        ],
+        [
+          1206,
+          2308
+        ],
+        [
+          289,
+          2308
+        ]
+      ],
+      "score": 0.8253426551818848,
+      "y_pos": 2254,
+      "text": "8.    Thượng liêm: Thủ chi thượng liêm.",
+      "confidence": 0.9529379663013277
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_025_text.png",
+      "bbox": [
+        [
+          289,
+          2345
+        ],
+        [
+          1384,
+          2345
+        ],
+        [
+          1384,
+          2401
+        ],
+        [
+          289,
+          2401
+        ]
+      ],
+      "score": 0.8197643756866455,
+      "y_pos": 2345,
+      "text": "9.    Thủ tam lý: Tam lý, Thượng tam lý, Quỷ tà.",
+      "confidence": 0.7097540084611286
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_023_text.png",
+      "bbox": [
+        [
+          291,
+          2436
+        ],
+        [
+          1539,
+          2436
+        ],
+        [
+          1539,
+          2491
+        ],
+        [
+          291,
+          2491
+        ]
+      ],
+      "score": 0.8216249942779541,
+      "y_pos": 2436,
+      "text": "10. Khúc trì: Quỷ thần (bầy tôi của quỷ), Dương trạch.",
+      "confidence": 0.9017281457781792
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_031_text.png",
+      "bbox": [
+        [
+          292,
+          2529
+        ],
+        [
+          889,
+          2529
+        ],
+        [
+          889,
+          2577
+        ],
+        [
+          292,
+          2577
+        ]
+      ],
+      "score": 0.7977980375289917,
+      "y_pos": 2529,
+      "text": "<i>11.</i>    <b>Trửu liệu:</b> Trửu tiêm.",
+      "confidence": 0.9355920530217035
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_028_text.png",
+      "bbox": [
+        [
+          291,
+          2621
+        ],
+        [
+          1684,
+          2621
+        ],
+        [
+          1684,
+          2678
+        ],
+        [
+          291,
+          2678
+        ]
+      ],
+      "score": 0.8159791231155396,
+      "y_pos": 2621,
+      "text": "12. Ngũ lý: Thủ chi ngũ lý, Xích chi ngũ lý, Xích chi ngũ gian.",
+      "confidence": 0.803231118275569
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_030_text.png",
+      "bbox": [
+        [
+          293,
+          2712
+        ],
+        [
+          1106,
+          2712
+        ],
+        [
+          1106,
+          2766
+        ],
+        [
+          293,
+          2766
+        ]
+      ],
+      "score": 0.8068974018096924,
+      "y_pos": 2712,
+      "text": "13. Tý nhu: Đầu xung, Cảnh xung.",
+      "confidence": 0.6871979885241565
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_004_text.png",
+      "bbox": [
+        [
+          291,
+          2804
+        ],
+        [
+          2358,
+          2804
+        ],
+        [
+          2358,
+          2928
+        ],
+        [
+          291,
+          2928
+        ]
+      ],
+      "score": 0.9044431447982788,
+      "y_pos": 2804,
+      "text": "14. Kiên ngương: Kiên tiêm, Kiên cốt, Trung kiên, Thiên kiên, Trung kiên tỉnh, Thiên cốt,\nNgung cốt, Biển kiên.",
+      "confidence": 0.9935765088430388
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_020_text.png",
+      "bbox": [
+        [
+          293,
+          2967
+        ],
+        [
+          1387,
+          2967
+        ],
+        [
+          1387,
+          3021
+        ],
+        [
+          293,
+          3021
+        ]
+      ],
+      "score": 0.8337759971618652,
+      "y_pos": 2967,
+      "text": "15. Thiên vực: Thiên đỉnh (nghi là Thiên hạng).",
+      "confidence": 0.9899574372233176
+    },
+    {
+      "type": "text",
+      "img_path": "p0678_032_text.png",
+      "bbox": [
+        [
+          294,
+          3060
+        ],
+        [
+          889,
+          3060
+        ],
+        [
+          889,
+          3111
+        ],
+        [
+          294,
+          3111
+        ]
+      ],
+      "score": 0.7898432612419128,
+      "y_pos": 3060,
+      "text": "16. Phù đột: Thuỷ huyệt.",
+      "confidence": 0.5744820122535412
+    },
+    {
+      "type": "footer",
+      "img_path": "p0678_003_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1324,
+          3341
+        ],
+        [
+          1324,
+          3389
+        ],
+        [
+          229,
+          3389
+        ]
+      ],
+      "score": 0.9157460927963257,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987660522730846
+    },
+    {
+      "type": "number",
+      "img_path": "p0678_029_number.png",
+      "bbox": [
+        [
+          2330,
+          3365
+        ],
+        [
+          2354,
+          3365
+        ],
+        [
+          2354,
+          3400
+        ],
+        [
+          2330,
+          3400
+        ]
+      ],
+      "score": 0.811042070388794,
+      "y_pos": 3365,
+      "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0678.png"
+}

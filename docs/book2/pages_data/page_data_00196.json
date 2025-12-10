@@ -1,0 +1,524 @@
+{
+  "page_num": 196,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0196_010_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9278298616409302,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7576541084618795
+    },
+    {
+      "type": "header",
+      "img_path": "p0196_015_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.916022777557373,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0196_012_paragraph_title.png",
+      "bbox": [
+        [
+          223,
+          363
+        ],
+        [
+          1155,
+          363
+        ],
+        [
+          1155,
+          418
+        ],
+        [
+          223,
+          418
+        ]
+      ],
+      "score": 0.9240028858184814,
+      "y_pos": 363,
+      "text": "<b>TÚC QUYẾT ÂM CAN KINH: 14 HUYẾT</b>",
+      "confidence": 0.9867348279271807
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0196_016_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          462
+        ],
+        [
+          483,
+          462
+        ],
+        [
+          483,
+          510
+        ],
+        [
+          227,
+          510
+        ]
+      ],
+      "score": 0.9139919281005859,
+      "y_pos": 462,
+      "text": "1. Đai đôn",
+      "confidence": 0.9801974793275198
+    },
+    {
+      "type": "text",
+      "img_path": "p0196_004_text.png",
+      "bbox": [
+        [
+          282,
+          549
+        ],
+        [
+          2359,
+          549
+        ],
+        [
+          2359,
+          677
+        ],
+        [
+          282,
+          677
+        ]
+      ],
+      "score": 0.9638985991477966,
+      "y_pos": 549,
+      "text": "Vị trí: Ở sau gốc móng ngón cái, bàn chân để bằng phẳng, từ giữa gốc móng ngón cái, lùi về\nphía sâu 0,1 thốn, rồi sang phía ngón thứ 2 chân 0,1 thốn là huyệt. (H. 93)",
+      "confidence": 0.9956229325953949
+    },
+    {
+      "type": "text",
+      "img_path": "p0196_009_text.png",
+      "bbox": [
+        [
+          284,
+          715
+        ],
+        [
+          2089,
+          715
+        ],
+        [
+          2089,
+          766
+        ],
+        [
+          284,
+          766
+        ]
+      ],
+      "score": 0.928735077381134,
+      "y_pos": 715,
+      "text": "<b>Cách châm:</b> Châm sâu 0,1-0,3 thốn, hoặc chích nặn máu, cứu 3 mồi, hợ 5 phút.",
+      "confidence": 0.9885600175284133
+    },
+    {
+      "type": "text",
+      "img_path": "p0196_008_text.png",
+      "bbox": [
+        [
+          284,
+          806
+        ],
+        [
+          2246,
+          806
+        ],
+        [
+          2246,
+          860
+        ],
+        [
+          284,
+          860
+        ]
+      ],
+      "score": 0.9289722442626953,
+      "y_pos": 806,
+      "text": "Chủ trị: Kinh nguyệt quá nhiều (cứu), đái dầm, trúng gió, sán khí (đau co thắt cổ bụng).",
+      "confidence": 0.9646335307094785
+    },
+    {
+      "type": "text",
+      "img_path": "p0196_002_text.png",
+      "bbox": [
+        [
+          282,
+          896
+        ],
+        [
+          2359,
+          896
+        ],
+        [
+          2359,
+          1022
+        ],
+        [
+          282,
+          1022
+        ]
+      ],
+      "score": 0.964154064655304,
+      "y_pos": 896,
+      "text": "<b>Tác dụng phối hợp:</b> Với <i>Trường cường</i>, trị tiểu trường sán khí; với <i>Ấn bạch</i> (cứu bằng bấc\nđèn), trị kinh nguyệt quá nhiều.",
+      "confidence": 0.9857535554528605
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0196_014_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1061
+        ],
+        [
+          543,
+          1061
+        ],
+        [
+          543,
+          1112
+        ],
+        [
+          225,
+          1112
+        ]
+      ],
+      "score": 0.9210917353630066,
+      "y_pos": 1061,
+      "text": "2. Hành gian",
+      "confidence": 0.9252684542110988
+    },
+    {
+      "type": "text",
+      "img_path": "p0196_005_text.png",
+      "bbox": [
+        [
+          281,
+          1148
+        ],
+        [
+          2357,
+          1148
+        ],
+        [
+          2357,
+          1277
+        ],
+        [
+          281,
+          1277
+        ]
+      ],
+      "score": 0.9637472033500671,
+      "y_pos": 1148,
+      "text": "Vị trí: Ở khe nối ngón cái và ngón 2 chân. Bàn chân để bằng phẳng, khe nối 2 ngón đó lùi lại\nphía sau chừng 0,5 thốn, trước khớp ngón bàn(H. 93)",
+      "confidence": 0.9958542367568317
+    },
+    {
+      "type": "text",
+      "img_path": "p0196_001_text.png",
+      "bbox": [
+        [
+          281,
+          1314
+        ],
+        [
+          2358,
+          1314
+        ],
+        [
+          2358,
+          1440
+        ],
+        [
+          281,
+          1440
+        ]
+      ],
+      "score": 0.9650712609291077,
+      "y_pos": 1314,
+      "text": "Chủ trị: Kinh nguyệt không đều, tắc kinh, đau đầu, mất ngủ, bệnh tinh thần, động kinh, trẻ\nem kinh phong.",
+      "confidence": 0.9408816817500021
+    },
+    {
+      "type": "text",
+      "img_path": "p0196_006_text.png",
+      "bbox": [
+        [
+          282,
+          1476
+        ],
+        [
+          2357,
+          1476
+        ],
+        [
+          2357,
+          1602
+        ],
+        [
+          282,
+          1602
+        ]
+      ],
+      "score": 0.9615801572799683,
+      "y_pos": 1476,
+      "text": "<b>Tác dụng phối hợp:</b> Với <i>Hoàn khiêu</i>, <i>Phong thị</i> trị lưng, bụng đau; với <i>Dũng tuyền</i> trị bệnh\nđái đường; với <i>Túc tam lý</i>, <i>Nội quan</i> trị cao huyết áp.",
+      "confidence": 0.9919874634283177
+    },
+    {
+      "type": "image",
+      "img_path": "p0196_007_image.png",
+      "bbox": [
+        [
+          893,
+          1674
+        ],
+        [
+          1751,
+          1674
+        ],
+        [
+          1751,
+          2459
+        ],
+        [
+          893,
+          2459
+        ]
+      ],
+      "score": 0.9500458836555481,
+      "y_pos": 1674
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0196_019_figure_title.png",
+      "bbox": [
+        [
+          1237,
+          2543
+        ],
+        [
+          1409,
+          2543
+        ],
+        [
+          1409,
+          2587
+        ],
+        [
+          1237,
+          2587
+        ]
+      ],
+      "score": 0.8170778155326843,
+      "y_pos": 2543,
+      "text": "Hınh    2",
+      "confidence": 0.8429104685783386
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0196_011_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2630
+        ],
+        [
+          538,
+          2630
+        ],
+        [
+          538,
+          2682
+        ],
+        [
+          226,
+          2682
+        ]
+      ],
+      "score": 0.9262218475341797,
+      "y_pos": 2630,
+      "text": "3. Thái xung",
+      "confidence": 0.9258092003209251
+    },
+    {
+      "type": "text",
+      "img_path": "p0196_003_text.png",
+      "bbox": [
+        [
+          281,
+          2719
+        ],
+        [
+          2360,
+          2719
+        ],
+        [
+          2360,
+          2847
+        ],
+        [
+          281,
+          2847
+        ]
+      ],
+      "score": 0.9641135334968567,
+      "y_pos": 2719,
+      "text": "Vị trí: Ở khe xương bàn ngón 1-2 chân. Bàn chân để bằng phẳng, từ huyệt <i>Hành gian</i> lên 2\nthốn (có sách nói 1,5 thốn) trước gốc 2 xương bàn chân giáp nhau. (H. 93)",
+      "confidence": 0.9918995628666964
+    },
+    {
+      "type": "text",
+      "img_path": "p0196_013_text.png",
+      "bbox": [
+        [
+          284,
+          2885
+        ],
+        [
+          1759,
+          2885
+        ],
+        [
+          1759,
+          2936
+        ],
+        [
+          284,
+          2936
+        ]
+      ],
+      "score": 0.9225724339485168,
+      "y_pos": 2885,
+      "text": "Cách châm: Châm đứng kim, sâu 0,3 thốn. cứu 3 mồi, hơ 5 phút.",
+      "confidence": 0.9908153887778993
+    },
+    {
+      "type": "text",
+      "img_path": "p0196_000_text.png",
+      "bbox": [
+        [
+          281,
+          2975
+        ],
+        [
+          2358,
+          2975
+        ],
+        [
+          2358,
+          3101
+        ],
+        [
+          281,
+          3101
+        ]
+      ],
+      "score": 0.9655622839927673,
+      "y_pos": 2975,
+      "text": "Chủ trị: Đau đầu, đau sườn ngực, choáng váng, mắt đau nóng, động kinh, trẻ em kinh\nphong, đau mắt, sán khí, kinh nguyệt không đều, ly.",
+      "confidence": 0.9930888784435132
+    },
+    {
+      "type": "footer",
+      "img_path": "p0196_017_footer.png",
+      "bbox": [
+        [
+          227,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.9081913232803345,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9983427963166867
+    },
+    {
+      "type": "number",
+      "img_path": "p0196_018_number.png",
+      "bbox": [
+        [
+          2301,
+          3339
+        ],
+        [
+          2351,
+          3339
+        ],
+        [
+          2351,
+          3377
+        ],
+        [
+          2301,
+          3377
+        ]
+      ],
+      "score": 0.8546597957611084,
+      "y_pos": 3339,
+      "text": "        \n    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0196.png"
+}

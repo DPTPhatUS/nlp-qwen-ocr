@@ -1,0 +1,498 @@
+{
+  "page_num": 61,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0061_006_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9233140349388123,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7254179112967991
+    },
+    {
+      "type": "header",
+      "img_path": "p0061_011_header.png",
+      "bbox": [
+        [
+          231,
+          155
+        ],
+        [
+          427,
+          155
+        ],
+        [
+          427,
+          199
+        ],
+        [
+          231,
+          199
+        ]
+      ],
+      "score": 0.8938693404197693,
+      "y_pos": 155,
+      "text": "    - 4\nА    N",
+      "confidence": 0.5859711915254593
+    },
+    {
+      "type": "text",
+      "img_path": "p0061_001_text.png",
+      "bbox": [
+        [
+          406,
+          300
+        ],
+        [
+          2358,
+          300
+        ],
+        [
+          2358,
+          488
+        ],
+        [
+          406,
+          488
+        ]
+      ],
+      "score": 0.9785469174385071,
+      "y_pos": 300,
+      "text": "mạch tế là huyết hư. Đại tiện phân như mủ, tinh thần mệt mỏi, ăn ít, bụng chướng,\nchân tay không ấm, mạch thường huyền, tế mà hoãn là hàn thấp, ly tật, thuộc hư\nchứng.",
+      "confidence": 0.9953722686712522
+    },
+    {
+      "type": "text",
+      "img_path": "p0061_003_text.png",
+      "bbox": [
+        [
+          279,
+          521
+        ],
+        [
+          2357,
+          521
+        ],
+        [
+          2357,
+          909
+        ],
+        [
+          279,
+          909
+        ]
+      ],
+      "score": 0.9720611572265625,
+      "y_pos": 521,
+      "text": "e. Mạch huyền và mạch khẩn: Đặc điểm của hai mạch tượng này là giống nhau ở chỗ sóng\nmạch của cả 3 bộ Thốn, Quan, Xích liền làm một hơi. Cảm giác dưới 3 ngón tay như một sợi\ndây thừng căng chắc. Chỗ khác nhau là mạch huyền giống như là sờ trên sợi dây đàn, mạch\nkhẩn như sờ trên sợi dây thừng kéo căng, mạch nỗ khẩn cấp, ứng vào ngón tay có sức.\nmạch huyền sức không cấp như loại này. Về hình mạch khẩn thì lớn hơn so với mạch\nhuyền. (H.7)",
+      "confidence": 0.9934910491924295
+    },
+    {
+      "type": "text",
+      "img_path": "p0061_016_text.png",
+      "bbox": [
+        [
+          843,
+          950
+        ],
+        [
+          1802,
+          950
+        ],
+        [
+          1802,
+          1000
+        ],
+        [
+          843,
+          1000
+        ]
+      ],
+      "score": 0.5548346042633057,
+      "y_pos": 950,
+      "text": "Hình 7. Hình sóng mạch huyền và mạch khẩn",
+      "confidence": 0.8255399728930274
+    },
+    {
+      "type": "image",
+      "img_path": "p0061_018_image.png",
+      "bbox": [
+        [
+          997,
+          1177
+        ],
+        [
+          2034,
+          1177
+        ],
+        [
+          2034,
+          1348
+        ],
+        [
+          997,
+          1348
+        ]
+      ],
+      "score": 0.5356202125549316,
+      "y_pos": 1177
+    },
+    {
+      "type": "text",
+      "img_path": "p0061_017_text.png",
+      "bbox": [
+        [
+          588,
+          1252
+        ],
+        [
+          861,
+          1252
+        ],
+        [
+          861,
+          1307
+        ],
+        [
+          588,
+          1307
+        ]
+      ],
+      "score": 0.5487713813781738,
+      "y_pos": 1252,
+      "text": "Mach khẩn",
+      "confidence": 0.9326532645659014
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0061_015_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1435
+        ],
+        [
+          1832,
+          1435
+        ],
+        [
+          1832,
+          1488
+        ],
+        [
+          344,
+          1488
+        ]
+      ],
+      "score": 0.5588408708572388,
+      "y_pos": 1435,
+      "text": "Mạch huyền chủ bệnh: Chứng đau, phong, sốt rét, đàm, ẩm",
+      "confidence": 0.9984139737329984
+    },
+    {
+      "type": "text",
+      "img_path": "p0061_005_text.png",
+      "bbox": [
+        [
+          370,
+          1513
+        ],
+        [
+          2356,
+          1513
+        ],
+        [
+          2356,
+          1636
+        ],
+        [
+          370,
+          1636
+        ]
+      ],
+      "score": 0.9328685998916626,
+      "y_pos": 1513,
+      "text": "Âm hư, dương cang thường thấy mạch huyền như cao huyết áp (can đương nhiên\ncang hình) mạch thường huyền mà có lực.",
+      "confidence": 0.999147877403187
+    },
+    {
+      "type": "text",
+      "img_path": "p0061_013_text.png",
+      "bbox": [
+        [
+          409,
+          1659
+        ],
+        [
+          1133,
+          1659
+        ],
+        [
+          1133,
+          1712
+        ],
+        [
+          409,
+          1712
+        ]
+      ],
+      "score": 0.8658989071846008,
+      "y_pos": 1659,
+      "text": "Can âm bất túc, mạch huyển tế.",
+      "confidence": 0.9866468403488398
+    },
+    {
+      "type": "text",
+      "img_path": "p0061_010_text.png",
+      "bbox": [
+        [
+          403,
+          1746
+        ],
+        [
+          2356,
+          1746
+        ],
+        [
+          2356,
+          1963
+        ],
+        [
+          403,
+          1963
+        ]
+      ],
+      "score": 0.9015924334526062,
+      "y_pos": 1746,
+      "text": "Can vị bất hòa (thấy đau dạ dày, lan sang liên sờn, ợ hơi, dễ cáu) mạch thờng huyền.\nBệnh gan, viêm túi mật, loét tá tràng, kinh nguyệt không đều, ung thư cổ dạ con, bệnh\nở thận tạng đều thấy mạch huyền.",
+      "confidence": 0.9985631650599384
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0061_014_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          2007
+        ],
+        [
+          1490,
+          2007
+        ],
+        [
+          1490,
+          2057
+        ],
+        [
+          345,
+          2057
+        ]
+      ],
+      "score": 0.7058458924293518,
+      "y_pos": 2007,
+      "text": "Mạch khẩn chủ bệnh: Chứng hàn, chứng đau",
+      "confidence": 0.9355516036351522
+    },
+    {
+      "type": "text",
+      "img_path": "p0061_002_text.png",
+      "bbox": [
+        [
+          396,
+          2093
+        ],
+        [
+          2359,
+          2093
+        ],
+        [
+          2359,
+          2370
+        ],
+        [
+          396,
+          2370
+        ]
+      ],
+      "score": 0.9768621325492859,
+      "y_pos": 2093,
+      "text": "Ngoại cảm phong hàn thì mạch phù khẩn, lý hàn thì mạch trầm khẩn như: Hàn bại\ntrong chứng bại, các khớp tay đau đớn dữ dội, nơi đau cố định không chuyển, được\nchườm ấm thì giảm đau, mạch thường huyền, khẩn. Khi xơ hóa động mạch cũng có\nthể thấy mạch khẩn.",
+      "confidence": 0.9984928540062145
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0061_007_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          2415
+        ],
+        [
+          834,
+          2415
+        ],
+        [
+          834,
+          2466
+        ],
+        [
+          284,
+          2466
+        ]
+      ],
+      "score": 0.9194872379302979,
+      "y_pos": 2415,
+      "text": "3. Mạch tượng dặc thù",
+      "confidence": 0.9984826730645221
+    },
+    {
+      "type": "text",
+      "img_path": "p0061_000_text.png",
+      "bbox": [
+        [
+          280,
+          2510
+        ],
+        [
+          2360,
+          2510
+        ],
+        [
+          2360,
+          2716
+        ],
+        [
+          280,
+          2716
+        ]
+      ],
+      "score": 0.9806137084960938,
+      "y_pos": 2510,
+      "text": "Sau đây giới thiệu 8 mạch tượng có đặc thù cũng thường thấy trên lâm sàng: Súc, kết, đại,\nnhu, nhược, vi, đại, khâu. Súc kết, đại là 3 loại mạch tượng biểu hiện tiết luật của mạch (nhịp\ncủa mạch) không ngay ngắn mà có gian kiệt (lửng nhịp).",
+      "confidence": 0.999475429246392
+    },
+    {
+      "type": "text",
+      "img_path": "p0061_009_text.png",
+      "bbox": [
+        [
+          281,
+          2746
+        ],
+        [
+          2250,
+          2746
+        ],
+        [
+          2250,
+          2800
+        ],
+        [
+          281,
+          2800
+        ]
+      ],
+      "score": 0.9057719707489014,
+      "y_pos": 2746,
+      "text": "a. Mạch súc: Mạch sác mà có nhịp lửng không qui luật, chủ thực nhiệt, khí trệ, huyết ứ.",
+      "confidence": 0.9967788638693563
+    },
+    {
+      "type": "text",
+      "img_path": "p0061_004_text.png",
+      "bbox": [
+        [
+          282,
+          2833
+        ],
+        [
+          2356,
+          2833
+        ],
+        [
+          2356,
+          2961
+        ],
+        [
+          282,
+          2961
+        ]
+      ],
+      "score": 0.9659567475318909,
+      "y_pos": 2833,
+      "text": "b. Mạch kết: Mạch hoãn mà có nhịp lửng không quy luật, chủ âm thịnh, khí kết, hàn đàm,\nhuyết ứ.",
+      "confidence": 0.9937546086582271
+    },
+    {
+      "type": "footer",
+      "img_path": "p0061_008_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9104112982749939,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0061_012_number.png",
+      "bbox": [
+        [
+          2307,
+          3338
+        ],
+        [
+          2355,
+          3338
+        ],
+        [
+          2355,
+          3373
+        ],
+        [
+          2307,
+          3373
+        ]
+      ],
+      "score": 0.8664159178733826,
+      "y_pos": 3338,
+      "text": "    \n\n\n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0061.png"
+}

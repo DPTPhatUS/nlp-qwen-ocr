@@ -1,0 +1,654 @@
+{
+  "page_num": 206,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0206_006_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9311023950576782,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7254179112967991
+    },
+    {
+      "type": "header",
+      "img_path": "p0206_016_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9180824160575867,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0206_014_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          367
+        ],
+        [
+          778,
+          367
+        ],
+        [
+          778,
+          419
+        ],
+        [
+          224,
+          419
+        ]
+      ],
+      "score": 0.9205536842346191,
+      "y_pos": 367,
+      "text": "ĐỐC MACH: 28 HUYẾT",
+      "confidence": 0.8739622563123703
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0206_022_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          462
+        ],
+        [
+          668,
+          462
+        ],
+        [
+          668,
+          511
+        ],
+        [
+          227,
+          511
+        ]
+      ],
+      "score": 0.8942065238952637,
+      "y_pos": 462,
+      "text": "1. Trường cường:",
+      "confidence": 0.8848488397068448
+    },
+    {
+      "type": "text",
+      "img_path": "p0206_008_text.png",
+      "bbox": [
+        [
+          290,
+          554
+        ],
+        [
+          1231,
+          554
+        ],
+        [
+          1231,
+          603
+        ],
+        [
+          290,
+          603
+        ]
+      ],
+      "score": 0.927933931350708,
+      "y_pos": 554,
+      "text": "Vi trí: Phía dưới xương cut, sau hâu môn.",
+      "confidence": 0.9848815161128377
+    },
+    {
+      "type": "text",
+      "img_path": "p0206_019_text.png",
+      "bbox": [
+        [
+          295,
+          644
+        ],
+        [
+          2314,
+          644
+        ],
+        [
+          2314,
+          699
+        ],
+        [
+          295,
+          699
+        ]
+      ],
+      "score": 0.9067975282669067,
+      "y_pos": 644,
+      "text": "Cách lấy huyệt: Quỳ cúi gập xuống, huyệt ở chỗ lõm giữa hậu môn và xương cụt. (H. 96)",
+      "confidence": 0.9972641036428255
+    },
+    {
+      "type": "text",
+      "img_path": "p0206_021_text.png",
+      "bbox": [
+        [
+          285,
+          736
+        ],
+        [
+          1828,
+          736
+        ],
+        [
+          1828,
+          787
+        ],
+        [
+          285,
+          787
+        ]
+      ],
+      "score": 0.8964222073554993,
+      "y_pos": 736,
+      "text": "Cách châm: Châm đứng kim, sâu 0,5-1 thốn. Cứu 3 mồi, hơ 5 phút.",
+      "confidence": 0.9903614617311037
+    },
+    {
+      "type": "text",
+      "img_path": "p0206_000_text.png",
+      "bbox": [
+        [
+          281,
+          826
+        ],
+        [
+          2365,
+          826
+        ],
+        [
+          2365,
+          950
+        ],
+        [
+          281,
+          950
+        ]
+      ],
+      "score": 0.9668036103248596,
+      "y_pos": 826,
+      "text": "<b>Chủ trị:</b> Với <i>Thừa sơn</i> trị đại tiện ra máu, với Đại đôn trị sán khí; với <i>Bách hội, Thừa sơn, Khí</i>\n<i>hải</i>, trị thoát giang (lòi dom).",
+      "confidence": 0.9889205116008752
+    },
+    {
+      "type": "image",
+      "img_path": "p0206_004_image.png",
+      "bbox": [
+        [
+          960,
+          992
+        ],
+        [
+          1681,
+          992
+        ],
+        [
+          1681,
+          1594
+        ],
+        [
+          960,
+          1594
+        ]
+      ],
+      "score": 0.9651976227760315,
+      "y_pos": 992
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0206_024_figure_title.png",
+      "bbox": [
+        [
+          1237,
+          1692
+        ],
+        [
+          1409,
+          1692
+        ],
+        [
+          1409,
+          1734
+        ],
+        [
+          1237,
+          1734
+        ]
+      ],
+      "score": 0.6853007078170776,
+      "y_pos": 1692,
+      "text": "ın",
+      "confidence": 0.7026070753733317
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0206_012_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1778
+        ],
+        [
+          467,
+          1778
+        ],
+        [
+          467,
+          1823
+        ],
+        [
+          225,
+          1823
+        ]
+      ],
+      "score": 0.9247770309448242,
+      "y_pos": 1778,
+      "text": "Yêu du",
+      "confidence": 0.9746773168444633
+    },
+    {
+      "type": "text",
+      "img_path": "p0206_015_text.png",
+      "bbox": [
+        [
+          289,
+          1868
+        ],
+        [
+          1692,
+          1868
+        ],
+        [
+          1692,
+          1924
+        ],
+        [
+          289,
+          1924
+        ]
+      ],
+      "score": 0.9204462170600891,
+      "y_pos": 1868,
+      "text": "Vị trí: Dưới mỏm gai đốt sống lưng thứ 21 (đốt 4 xương cùng).",
+      "confidence": 0.9941720782764374
+    },
+    {
+      "type": "text",
+      "img_path": "p0206_009_text.png",
+      "bbox": [
+        [
+          287,
+          1959
+        ],
+        [
+          1281,
+          1959
+        ],
+        [
+          1281,
+          2015
+        ],
+        [
+          287,
+          2015
+        ]
+      ],
+      "score": 0.9277904629707336,
+      "y_pos": 1959,
+      "text": "Cách lấy huyệt: Nằm sấp lấy huyệt (H. 75).",
+      "confidence": 0.7981163886460391
+    },
+    {
+      "type": "text",
+      "img_path": "p0206_011_text.png",
+      "bbox": [
+        [
+          284,
+          2052
+        ],
+        [
+          2189,
+          2052
+        ],
+        [
+          2189,
+          2103
+        ],
+        [
+          284,
+          2103
+        ]
+      ],
+      "score": 0.925391674041748,
+      "y_pos": 2052,
+      "text": "<b>Cách châm:</b> Châm chếch kim lên phía trên, sâu 0,3 –0,5 thốn. Cứu 7 mối, hơ 5 phút.",
+      "confidence": 0.9893457672175239
+    },
+    {
+      "type": "text",
+      "img_path": "p0206_010_text.png",
+      "bbox": [
+        [
+          286,
+          2145
+        ],
+        [
+          1243,
+          2145
+        ],
+        [
+          1243,
+          2196
+        ],
+        [
+          286,
+          2196
+        ]
+      ],
+      "score": 0.926106333732605,
+      "y_pos": 2145,
+      "text": "Chủ trị: Đau lưng, kinh nguyệt không đều.",
+      "confidence": 0.3637977769208509
+    },
+    {
+      "type": "text",
+      "img_path": "p0206_007_text.png",
+      "bbox": [
+        [
+          288,
+          2237
+        ],
+        [
+          1410,
+          2237
+        ],
+        [
+          1410,
+          2289
+        ],
+        [
+          288,
+          2289
+        ]
+      ],
+      "score": 0.929580807685852,
+      "y_pos": 2237,
+      "text": "<b>Tác dụng phối hợp:</b> Với Hoàn khiệu trị đau lưng.",
+      "confidence": 0.9867654729123209
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0206_017_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2328
+        ],
+        [
+          707,
+          2328
+        ],
+        [
+          707,
+          2378
+        ],
+        [
+          226,
+          2378
+        ]
+      ],
+      "score": 0.9104689955711365,
+      "y_pos": 2328,
+      "text": "3. Yêu <i>Dương quan</i>",
+      "confidence": 0.9633174538612366
+    },
+    {
+      "type": "text",
+      "img_path": "p0206_001_text.png",
+      "bbox": [
+        [
+          283,
+          2416
+        ],
+        [
+          2357,
+          2416
+        ],
+        [
+          2357,
+          2544
+        ],
+        [
+          283,
+          2544
+        ]
+      ],
+      "score": 0.9662005305290222,
+      "y_pos": 2416,
+      "text": "Vị trí: Dưới mỏm gai đốt sống lưng số 16 (dưới đốt thắt lưng 4) nằm sấp, nối 2 mào sau\nxương chậu giao điểm với đường dọc sống lưng, xuống thêm một mỏm gai. (H. 75).",
+      "confidence": 0.9965835350480947
+    },
+    {
+      "type": "text",
+      "img_path": "p0206_005_text.png",
+      "bbox": [
+        [
+          284,
+          2582
+        ],
+        [
+          2079,
+          2582
+        ],
+        [
+          2079,
+          2632
+        ],
+        [
+          284,
+          2632
+        ]
+      ],
+      "score": 0.9311174154281616,
+      "y_pos": 2582,
+      "text": "<b>Cách châm:</b> Châm mũi kim chếch lên, sâu 1-1,5 thốn. cứu 3 mồi. Hơ 5-15 phút.",
+      "confidence": 0.9898847443393514
+    },
+    {
+      "type": "text",
+      "img_path": "p0206_003_text.png",
+      "bbox": [
+        [
+          280,
+          2673
+        ],
+        [
+          2357,
+          2673
+        ],
+        [
+          2357,
+          2794
+        ],
+        [
+          280,
+          2794
+        ]
+      ],
+      "score": 0.9656967520713806,
+      "y_pos": 2673,
+      "text": "Chủ trị: Đau thắt lưng và xương cùng, kinh nguyệt không đều, khí hư, di tinh, liệt dương, ly,\nđai tiên ra máu.",
+      "confidence": 0.9893593591207649
+    },
+    {
+      "type": "text",
+      "img_path": "p0206_013_text.png",
+      "bbox": [
+        [
+          287,
+          2836
+        ],
+        [
+          1346,
+          2836
+        ],
+        [
+          1346,
+          2890
+        ],
+        [
+          287,
+          2890
+        ]
+      ],
+      "score": 0.9227507710456848,
+      "y_pos": 2836,
+      "text": "Tác dụng phối hợp: Với Ủy trung trị đau lưng.",
+      "confidence": 0.9858441359185158
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0206_020_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2928
+        ],
+        [
+          550,
+          2928
+        ],
+        [
+          550,
+          2974
+        ],
+        [
+          225,
+          2974
+        ]
+      ],
+      "score": 0.9006289839744568,
+      "y_pos": 2928,
+      "text": "4. Mênh môn",
+      "confidence": 0.9547829994788537
+    },
+    {
+      "type": "text",
+      "img_path": "p0206_002_text.png",
+      "bbox": [
+        [
+          280,
+          3016
+        ],
+        [
+          2357,
+          3016
+        ],
+        [
+          2357,
+          3142
+        ],
+        [
+          280,
+          3142
+        ]
+      ],
+      "score": 0.9659897685050964,
+      "y_pos": 3016,
+      "text": "Vị trí: Chỗ lõm đốt sống 14 (dưới đốt thắt lưng 2) tương đương với rốn ở phia trước. (H. 75,\nH. 99)",
+      "confidence": 0.9784283028479586
+    },
+    {
+      "type": "footer",
+      "img_path": "p0206_018_footer.png",
+      "bbox": [
+        [
+          227,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.9086338877677917,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982534973126538
+    },
+    {
+      "type": "number",
+      "img_path": "p0206_023_number.png",
+      "bbox": [
+        [
+          2300,
+          3339
+        ],
+        [
+          2350,
+          3339
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2300,
+          3377
+        ]
+      ],
+      "score": 0.8651606440544128,
+      "y_pos": 3339,
+      "text": "\n    \n    \n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0206.png"
+}

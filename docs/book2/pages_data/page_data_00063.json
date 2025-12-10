@@ -1,0 +1,578 @@
+{
+  "page_num": 63,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0063_009_header.png",
+      "bbox": [
+        [
+          1606,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1606,
+          201
+        ]
+      ],
+      "score": 0.9291501045227051,
+      "y_pos": 142,
+      "text": "_______________________________________\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6523312898618834
+    },
+    {
+      "type": "header",
+      "img_path": "p0063_020_header.png",
+      "bbox": [
+        [
+          231,
+          155
+        ],
+        [
+          427,
+          155
+        ],
+        [
+          427,
+          199
+        ],
+        [
+          231,
+          199
+        ]
+      ],
+      "score": 0.8974863886833191,
+      "y_pos": 155,
+      "text": "    - 4\nА    N",
+      "confidence": 0.5859711915254593
+    },
+    {
+      "type": "text",
+      "img_path": "p0063_014_text.png",
+      "bbox": [
+        [
+          343,
+          307
+        ],
+        [
+          1816,
+          307
+        ],
+        [
+          1816,
+          358
+        ],
+        [
+          343,
+          358
+        ]
+      ],
+      "score": 0.9206215739250183,
+      "y_pos": 307,
+      "text": "- Dương khí hư ở trên mà đau đầu, thì Thốn mạch thường đoản.",
+      "confidence": 0.9945008716275615
+    },
+    {
+      "type": "text",
+      "img_path": "p0063_016_text.png",
+      "bbox": [
+        [
+          344,
+          399
+        ],
+        [
+          1850,
+          399
+        ],
+        [
+          1850,
+          450
+        ],
+        [
+          344,
+          450
+        ]
+      ],
+      "score": 0.9172426462173462,
+      "y_pos": 399,
+      "text": "- Dương khí hư ở dưới mà đau bụng, thì Xích mạch thường đoản.",
+      "confidence": 0.9829968176190815
+    },
+    {
+      "type": "text",
+      "img_path": "p0063_008_text.png",
+      "bbox": [
+        [
+          285,
+          488
+        ],
+        [
+          2358,
+          488
+        ],
+        [
+          2358,
+          684
+        ],
+        [
+          285,
+          684
+        ]
+      ],
+      "score": 0.9512534737586975,
+      "y_pos": 488,
+      "text": "c. Mạch cách: Mạch tượng giống như ấn trên mặt trống, sờ nhẹ thấy rắn, ấn mạnh càng\nthấy mạch rỗng không, thực chất là mạch huyền và mạch khâu cùng xuất hiện. Đó là do\ntinh huyết hư ở trong, lại bị cảm hàn tà mà tạo thành.",
+      "confidence": 0.9992862303634317
+    },
+    {
+      "type": "text",
+      "img_path": "p0063_007_text.png",
+      "bbox": [
+        [
+          328,
+          722
+        ],
+        [
+          2360,
+          722
+        ],
+        [
+          2360,
+          846
+        ],
+        [
+          328,
+          846
+        ]
+      ],
+      "score": 0.9587820768356323,
+      "y_pos": 722,
+      "text": "Đàn bà đẻ non, băng huyết, lậu kinh, nam giới doanh khí tư tổn, di tinh... quá nửa số là\nthấy loại mạch cách của hư hàn tính.",
+      "confidence": 0.9981647276041801
+    },
+    {
+      "type": "text",
+      "img_path": "p0063_002_text.png",
+      "bbox": [
+        [
+          285,
+          884
+        ],
+        [
+          2359,
+          884
+        ],
+        [
+          2359,
+          1078
+        ],
+        [
+          285,
+          1078
+        ]
+      ],
+      "score": 0.9696107506752014,
+      "y_pos": 884,
+      "text": "d. Mạch lao: Mạch tượng có ý nghĩa là huyền, trường, thực, đại và rất sâu. Vì bộ vị xuất\nhiện của nó so với mạch trầm thì sâu hơn mà gần rất giống mạch lao rất cần phân biệt\ncho rõ ràng với mạch cách.",
+      "confidence": 0.9993824273813573
+    },
+    {
+      "type": "text",
+      "img_path": "p0063_015_text.png",
+      "bbox": [
+        [
+          344,
+          1119
+        ],
+        [
+          1795,
+          1119
+        ],
+        [
+          1795,
+          1172
+        ],
+        [
+          344,
+          1172
+        ]
+      ],
+      "score": 0.9199088215827942,
+      "y_pos": 1119,
+      "text": "Mạch cách xuất hiện phù ở các bộ, hình trạng huyền mà khâu",
+      "confidence": 0.9992330461740494
+    },
+    {
+      "type": "text",
+      "img_path": "p0063_017_text.png",
+      "bbox": [
+        [
+          344,
+          1210
+        ],
+        [
+          2256,
+          1210
+        ],
+        [
+          2256,
+          1264
+        ],
+        [
+          344,
+          1264
+        ]
+      ],
+      "score": 0.9171169996261597,
+      "y_pos": 1210,
+      "text": "Mạch lao xuất hiện rất trầm ở các bộ vị, hình trạng thực, đại mà trường, hơi huyền.",
+      "confidence": 0.9988834240857293
+    },
+    {
+      "type": "text",
+      "img_path": "p0063_011_text.png",
+      "bbox": [
+        [
+          345,
+          1304
+        ],
+        [
+          1317,
+          1304
+        ],
+        [
+          1317,
+          1354
+        ],
+        [
+          345,
+          1354
+        ]
+      ],
+      "score": 0.9262977242469788,
+      "y_pos": 1304,
+      "text": "Mạch cách thường thấy ở chứng đại hư.",
+      "confidence": 0.9986646496332608
+    },
+    {
+      "type": "text",
+      "img_path": "p0063_010_text.png",
+      "bbox": [
+        [
+          345,
+          1396
+        ],
+        [
+          1317,
+          1396
+        ],
+        [
+          1317,
+          1446
+        ],
+        [
+          345,
+          1446
+        ]
+      ],
+      "score": 0.9282903671264648,
+      "y_pos": 1396,
+      "text": "Mạch lao thường thấy ở chứng đại thực.",
+      "confidence": 0.998695456981659
+    },
+    {
+      "type": "text",
+      "img_path": "p0063_013_text.png",
+      "bbox": [
+        [
+          346,
+          1486
+        ],
+        [
+          1495,
+          1486
+        ],
+        [
+          1495,
+          1537
+        ],
+        [
+          346,
+          1537
+        ]
+      ],
+      "score": 0.9236986637115479,
+      "y_pos": 1486,
+      "text": "Giữa trầm, phù, hư, thực có sự cách biệt rất lớn.",
+      "confidence": 0.9859605279623294
+    },
+    {
+      "type": "text",
+      "img_path": "p0063_000_text.png",
+      "bbox": [
+        [
+          343,
+          1579
+        ],
+        [
+          2359,
+          1579
+        ],
+        [
+          2359,
+          1935
+        ],
+        [
+          343,
+          1935
+        ]
+      ],
+      "score": 0.9851961135864258,
+      "y_pos": 1579,
+      "text": "- Chủ bệnh: Trầm, hàn, lý, thực, thuộc về bệnh biến tà khí có thừa; khí ngực bụng lạnh\nđau, can khí uất tích, tỳ bĩ bất vận, đều xuất hiện mạch lao. Nói chung lại là bệnh tích\ntu: Sán, Trưng, Hà, Giả đều xuất hiện mạch lao, vì thực chứng, thực mạch, là mạch\nchứng tương hợp. Nếu như âm hư thất huyết, một loại đại hư chứng mà thấy xuất hiện\nmạch lao, là hư chứng, thực mạch.",
+      "confidence": 0.9959392762764552
+    },
+    {
+      "type": "text",
+      "img_path": "p0063_004_text.png",
+      "bbox": [
+        [
+          337,
+          1976
+        ],
+        [
+          2357,
+          1976
+        ],
+        [
+          2357,
+          2106
+        ],
+        [
+          337,
+          2106
+        ]
+      ],
+      "score": 0.9648358225822449,
+      "y_pos": 1976,
+      "text": "Mạch của chứng tương phản nhau đó là chính khí đại thương, tà khí nhiễm thịnh, cần chú\ný dự phòng tai biến.",
+      "confidence": 0.9954242533580824
+    },
+    {
+      "type": "text",
+      "img_path": "p0063_012_text.png",
+      "bbox": [
+        [
+          285,
+          2147
+        ],
+        [
+          2357,
+          2147
+        ],
+        [
+          2357,
+          2274
+        ],
+        [
+          285,
+          2274
+        ]
+      ],
+      "score": 0.9239326119422913,
+      "y_pos": 2147,
+      "text": "đ. Mạch tán. Sờ mạch thấy phù tán không có căn, số lần trong các nhịp thở không đều, đây\nlà điểm chính để nhân biết mach tán.",
+      "confidence": 0.9951502411163341
+    },
+    {
+      "type": "text",
+      "img_path": "p0063_018_text.png",
+      "bbox": [
+        [
+          337,
+          2314
+        ],
+        [
+          1400,
+          2314
+        ],
+        [
+          1400,
+          2366
+        ],
+        [
+          337,
+          2366
+        ]
+      ],
+      "score": 0.913245439529419,
+      "y_pos": 2314,
+      "text": "Cần tránh nhầm lẫn giữa mạch tán và mạch tử.",
+      "confidence": 0.9964282007321067
+    },
+    {
+      "type": "text",
+      "img_path": "p0063_003_text.png",
+      "bbox": [
+        [
+          337,
+          2406
+        ],
+        [
+          2359,
+          2406
+        ],
+        [
+          2359,
+          2530
+        ],
+        [
+          337,
+          2530
+        ]
+      ],
+      "score": 0.9649046659469604,
+      "y_pos": 2406,
+      "text": "Phù thủ thấy đại hư, ấn hơi nặng tay thì thấy mạch thay đổi tán loạn, không rõ ràng, ấn\nnặng hơn thì không thấy nữa. Mạch tán có 2 đặc điểm:",
+      "confidence": 0.9963809957590591
+    },
+    {
+      "type": "text",
+      "img_path": "p0063_005_text.png",
+      "bbox": [
+        [
+          343,
+          2567
+        ],
+        [
+          2360,
+          2567
+        ],
+        [
+          2360,
+          2692
+        ],
+        [
+          343,
+          2692
+        ]
+      ],
+      "score": 0.9626505374908447,
+      "y_pos": 2567,
+      "text": "- Chuyển động của mạch rất không ngay ngắn, không phải là đến nhiều đi ít, mà là đến ít\nđi nhiều, đến một, đi một không rõ ràng.",
+      "confidence": 0.9984372669024669
+    },
+    {
+      "type": "text",
+      "img_path": "p0063_001_text.png",
+      "bbox": [
+        [
+          343,
+          2732
+        ],
+        [
+          2359,
+          2732
+        ],
+        [
+          2359,
+          2998
+        ],
+        [
+          343,
+          2998
+        ]
+      ],
+      "score": 0.9805753231048584,
+      "y_pos": 2732,
+      "text": "- Mạch phù mà hư dữ, sờ nhẹ thì thấy, sờ nặng dần thì mất dần là do nguồn gốc nguyên\nkhí hư tổn. Đàn bà chửa thấy mạch tán là đã đến lúc đẻ, nếu như chưa đến kỳ đẻ là có\nthể sảy thai. Bệnh lâu ngày mà mạch tán là dương khí của tỳ, thận bị tổn thương\nnghiêm trọng, cần kịp thời cứu chữa.",
+      "confidence": 0.9985757493987819
+    },
+    {
+      "type": "text",
+      "img_path": "p0063_006_text.png",
+      "bbox": [
+        [
+          337,
+          3036
+        ],
+        [
+          2356,
+          3036
+        ],
+        [
+          2356,
+          3159
+        ],
+        [
+          337,
+          3159
+        ]
+      ],
+      "score": 0.9614599347114563,
+      "y_pos": 3036,
+      "text": "Cần phân biệt loại mạch của chứng hư là: Tán, Nhu, Hư, Khâu. Tuy cùng là chứng hư,\nnhưng mức độ khác nhau.",
+      "confidence": 0.9956926131674222
+    },
+    {
+      "type": "footer",
+      "img_path": "p0063_019_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9062898755073547,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985454925950968
+    },
+    {
+      "type": "number",
+      "img_path": "p0063_021_number.png",
+      "bbox": [
+        [
+          2304,
+          3337
+        ],
+        [
+          2354,
+          3337
+        ],
+        [
+          2354,
+          3374
+        ],
+        [
+          2304,
+          3374
+        ]
+      ],
+      "score": 0.864688515663147,
+      "y_pos": 3337,
+      "text": "    \n    \n        \n\n    \n\n\n\n٠.\n\n",
+      "confidence": 0.9675667081028223
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0063.png"
+}

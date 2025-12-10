@@ -1,0 +1,734 @@
+{
+  "page_num": 137,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0137_005_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9354641437530518,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7643314777385621
+    },
+    {
+      "type": "header",
+      "img_path": "p0137_006_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9170337319374084,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0137_007_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          366
+        ],
+        [
+          519,
+          366
+        ],
+        [
+          519,
+          419
+        ],
+        [
+          226,
+          419
+        ]
+      ],
+      "score": 0.9165406227111816,
+      "y_pos": 366,
+      "text": "31. Bễ quan",
+      "confidence": 0.9048849711051354
+    },
+    {
+      "type": "text",
+      "img_path": "p0137_002_text.png",
+      "bbox": [
+        [
+          284,
+          460
+        ],
+        [
+          2362,
+          460
+        ],
+        [
+          2362,
+          579
+        ],
+        [
+          284,
+          579
+        ]
+      ],
+      "score": 0.9587186574935913,
+      "y_pos": 460,
+      "text": "Vị trí: Thẳng phía trên mào chậu trước xuống, ngang bằng huyệt Hội âm. (H. 54), cách Phục\nthỏ 6 thốn.",
+      "confidence": 0.7843263889407064
+    },
+    {
+      "type": "text",
+      "img_path": "p0137_014_text.png",
+      "bbox": [
+        [
+          287,
+          622
+        ],
+        [
+          1487,
+          622
+        ],
+        [
+          1487,
+          673
+        ],
+        [
+          287,
+          673
+        ]
+      ],
+      "score": 0.9107087254524231,
+      "y_pos": 622,
+      "text": "Cách châm: Châm đứng kim, sâu 3 thốn. Cứu 5 mồi.",
+      "confidence": 0.9919924414157868
+    },
+    {
+      "type": "text",
+      "img_path": "p0137_012_text.png",
+      "bbox": [
+        [
+          287,
+          717
+        ],
+        [
+          1784,
+          717
+        ],
+        [
+          1784,
+          767
+        ],
+        [
+          287,
+          767
+        ]
+      ],
+      "score": 0.9111640453338623,
+      "y_pos": 717,
+      "text": "Chủ trị: Chi dưới tê, bạ, viêm hạch ben, đau lưng, teo cơ chi dưới.",
+      "confidence": 0.9521658239157303
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0137_021_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          807
+        ],
+        [
+          535,
+          807
+        ],
+        [
+          535,
+          857
+        ],
+        [
+          228,
+          857
+        ]
+      ],
+      "score": 0.9041450619697571,
+      "y_pos": 807,
+      "text": "32. Phuc thỏ",
+      "confidence": 0.9305506646633148
+    },
+    {
+      "type": "text",
+      "img_path": "p0137_011_text.png",
+      "bbox": [
+        [
+          290,
+          897
+        ],
+        [
+          1722,
+          897
+        ],
+        [
+          1722,
+          951
+        ],
+        [
+          290,
+          951
+        ]
+      ],
+      "score": 0.9117788672447205,
+      "y_pos": 897,
+      "text": "Vị trí: Cạnh ngoài, phía trên xương bánh chè lên 6 thốn. (H. 55)",
+      "confidence": 0.7292514307932421
+    },
+    {
+      "type": "text",
+      "img_path": "p0137_009_text.png",
+      "bbox": [
+        [
+          287,
+          989
+        ],
+        [
+          1598,
+          989
+        ],
+        [
+          1598,
+          1041
+        ],
+        [
+          287,
+          1041
+        ]
+      ],
+      "score": 0.9139630794525146,
+      "y_pos": 989,
+      "text": "Cách châm: Châm đứng kim, sâu 1 đến 3 thốn. Cấm cứu.",
+      "confidence": 0.9930557332657002
+    },
+    {
+      "type": "text",
+      "img_path": "p0137_020_text.png",
+      "bbox": [
+        [
+          287,
+          1081
+        ],
+        [
+          1683,
+          1081
+        ],
+        [
+          1683,
+          1137
+        ],
+        [
+          287,
+          1137
+        ]
+      ],
+      "score": 0.9047988057136536,
+      "y_pos": 1081,
+      "text": "Chủ trị: Chi dưới tê bại, liệt, viêm khớp gối, dị ứng mẩn ngứa.",
+      "confidence": 0.9788075272853558
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0137_025_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          1169
+        ],
+        [
+          478,
+          1169
+        ],
+        [
+          478,
+          1222
+        ],
+        [
+          228,
+          1222
+        ]
+      ],
+      "score": 0.900256872177124,
+      "y_pos": 1169,
+      "text": "33. Am thi",
+      "confidence": 0.9352889408667883
+    },
+    {
+      "type": "text",
+      "img_path": "p0137_018_text.png",
+      "bbox": [
+        [
+          290,
+          1264
+        ],
+        [
+          1722,
+          1264
+        ],
+        [
+          1722,
+          1319
+        ],
+        [
+          290,
+          1319
+        ]
+      ],
+      "score": 0.9079504609107971,
+      "y_pos": 1264,
+      "text": "Vị trí: Cạnh ngoài, phía trên xương bánh chè lên 3 thốn. (H. 55)",
+      "confidence": 0.7758829096953074
+    },
+    {
+      "type": "text",
+      "img_path": "p0137_016_text.png",
+      "bbox": [
+        [
+          287,
+          1355
+        ],
+        [
+          1594,
+          1355
+        ],
+        [
+          1594,
+          1407
+        ],
+        [
+          287,
+          1407
+        ]
+      ],
+      "score": 0.90895015001297,
+      "y_pos": 1355,
+      "text": "Cách châm: Châm đứng kim, sâu 1 đến 3 thốn. Cấm cứu.",
+      "confidence": 0.9911541729061691
+    },
+    {
+      "type": "text",
+      "img_path": "p0137_008_text.png",
+      "bbox": [
+        [
+          288,
+          1447
+        ],
+        [
+          1038,
+          1447
+        ],
+        [
+          1038,
+          1499
+        ],
+        [
+          288,
+          1499
+        ]
+      ],
+      "score": 0.9140067100524902,
+      "y_pos": 1447,
+      "text": "Chủ tri: Gối, đùi tê bai, đau buốt.",
+      "confidence": 0.7511364253791603
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0137_019_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1541
+        ],
+        [
+          617,
+          1541
+        ],
+        [
+          617,
+          1590
+        ],
+        [
+          227,
+          1590
+        ]
+      ],
+      "score": 0.9076020121574402,
+      "y_pos": 1541,
+      "text": "34. Lương khâu",
+      "confidence": 0.9875389114022255
+    },
+    {
+      "type": "text",
+      "img_path": "p0137_024_text.png",
+      "bbox": [
+        [
+          289,
+          1632
+        ],
+        [
+          1559,
+          1632
+        ],
+        [
+          1559,
+          1685
+        ],
+        [
+          289,
+          1685
+        ]
+      ],
+      "score": 0.9009321331977844,
+      "y_pos": 1632,
+      "text": "Vị trí: Ở mé ngoài và phía trên xương bánh chè lên thốn",
+      "confidence": 0.9967059106157538
+    },
+    {
+      "type": "text",
+      "img_path": "p0137_004_text.png",
+      "bbox": [
+        [
+          283,
+          1722
+        ],
+        [
+          2358,
+          1722
+        ],
+        [
+          2358,
+          1847
+        ],
+        [
+          283,
+          1847
+        ]
+      ],
+      "score": 0.9456998109817505,
+      "y_pos": 1722,
+      "text": "Cách lầy huyệt: Ngồi ngay, co đầu gối vuông góc, tính từ giữa bờ trên xương bánh chè lên\n2 thốn, rồi từ đó ra ngoài 1 thốn, khi duỗi thẳng chân ra thì ở đó có một chỗ lõm. (H. 55).",
+      "confidence": 0.9988025172423292
+    },
+    {
+      "type": "text",
+      "img_path": "p0137_015_text.png",
+      "bbox": [
+        [
+          285,
+          1886
+        ],
+        [
+          1923,
+          1886
+        ],
+        [
+          1923,
+          1938
+        ],
+        [
+          285,
+          1938
+        ]
+      ],
+      "score": 0.9101017713546753,
+      "y_pos": 1886,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 0,5 – 1 thốn. Cứu 3 –7 mồi, hơ 5 phút.",
+      "confidence": 0.9845170171724426
+    },
+    {
+      "type": "text",
+      "img_path": "p0137_017_text.png",
+      "bbox": [
+        [
+          286,
+          1978
+        ],
+        [
+          1899,
+          1978
+        ],
+        [
+          1899,
+          2031
+        ],
+        [
+          286,
+          2031
+        ]
+      ],
+      "score": 0.9079710245132446,
+      "y_pos": 1978,
+      "text": "Chủ trị: Đau khớp gối, liệt chi dưới, đau dạ dày, vú sưng đau, sôi bụng.",
+      "confidence": 0.971473837220991
+    },
+    {
+      "type": "text",
+      "img_path": "p0137_022_text.png",
+      "bbox": [
+        [
+          288,
+          2069
+        ],
+        [
+          1817,
+          2069
+        ],
+        [
+          1817,
+          2124
+        ],
+        [
+          288,
+          2124
+        ]
+      ],
+      "score": 0.9021894335746765,
+      "y_pos": 2069,
+      "text": "<b>Tác dụng phối hợp:</b> Với <i>Trung quản, Nội quan</i> trị bệnh đau dạ dày.",
+      "confidence": 0.9908027887344361
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0137_023_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2161
+        ],
+        [
+          478,
+          2161
+        ],
+        [
+          478,
+          2214
+        ],
+        [
+          227,
+          2214
+        ]
+      ],
+      "score": 0.9012388586997986,
+      "y_pos": 2161,
+      "text": "35. Độc ty",
+      "confidence": 0.9344132045904795
+    },
+    {
+      "type": "text",
+      "img_path": "p0137_003_text.png",
+      "bbox": [
+        [
+          283,
+          2249
+        ],
+        [
+          2362,
+          2249
+        ],
+        [
+          2362,
+          2376
+        ],
+        [
+          283,
+          2376
+        ]
+      ],
+      "score": 0.9557003378868103,
+      "y_pos": 2249,
+      "text": "Vị trí: Ở chỗ nối tiếp xương bánh chè và đầu trên xương chày. Huyệt này còn có tên là Tất\n<i>nh</i>ỡn. (H56)",
+      "confidence": 0.8391799130937556
+    },
+    {
+      "type": "text",
+      "img_path": "p0137_001_text.png",
+      "bbox": [
+        [
+          281,
+          2413
+        ],
+        [
+          2359,
+          2413
+        ],
+        [
+          2359,
+          2540
+        ],
+        [
+          281,
+          2540
+        ]
+      ],
+      "score": 0.9607847929000854,
+      "y_pos": 2413,
+      "text": "Cách lấy huyệt: Ngồi ngay, co đầu gối vuông góc, phía ngoài, dưới xương bánh chè có một\nhố lõm cạnh ngoài gân, đó là huyệt.",
+      "confidence": 0.996692142342131
+    },
+    {
+      "type": "text",
+      "img_path": "p0137_000_text.png",
+      "bbox": [
+        [
+          280,
+          2575
+        ],
+        [
+          2360,
+          2575
+        ],
+        [
+          2360,
+          2770
+        ],
+        [
+          280,
+          2770
+        ]
+      ],
+      "score": 0.9703951478004456,
+      "y_pos": 2575,
+      "text": "Cách châm: Châm mũi kim chếch vào phía trong, sâu 0,3 – 0,4 thốn, cũng có thể châm luồn\ndưới gân giữa bánh chè thấu sang huyệt <i>Tất nhân</i> ở phía trong. Cứu 3 mồi, hoặc hơ 5 – 10\nphút.",
+      "confidence": 0.8198499438725574
+    },
+    {
+      "type": "text",
+      "img_path": "p0137_026_text.png",
+      "bbox": [
+        [
+          287,
+          2810
+        ],
+        [
+          802,
+          2810
+        ],
+        [
+          802,
+          2865
+        ],
+        [
+          287,
+          2865
+        ]
+      ],
+      "score": 0.8848187327384949,
+      "y_pos": 2810,
+      "text": "Chủ trị: Đau khớp gối.",
+      "confidence": 0.8195214718580246
+    },
+    {
+      "type": "text",
+      "img_path": "p0137_013_text.png",
+      "bbox": [
+        [
+          288,
+          2899
+        ],
+        [
+          2279,
+          2899
+        ],
+        [
+          2279,
+          2958
+        ],
+        [
+          288,
+          2958
+        ]
+      ],
+      "score": 0.9110618233680725,
+      "y_pos": 2899,
+      "text": "Tác dụng phối hợp: Với âm lăng tuyển và <i>Dương lăng tuyền</i> trị phong thấp đau đầu gối.",
+      "confidence": 0.9915314641865817
+    },
+    {
+      "type": "footer",
+      "img_path": "p0137_010_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.911898672580719,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0137_027_number.png",
+      "bbox": [
+        [
+          2305,
+          3339
+        ],
+        [
+          2351,
+          3339
+        ],
+        [
+          2351,
+          3377
+        ],
+        [
+          2305,
+          3377
+        ]
+      ],
+      "score": 0.8589267134666443,
+      "y_pos": 3339,
+      "text": "    \n    \n    \n\n\n\n\n\n    \n\n    ",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0137.png"
+}

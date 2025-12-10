@@ -1,0 +1,266 @@
+{
+  "page_num": 90,
+  "content": [
+    {
+      "type": "figure_title",
+      "img_path": "p0090_009_figure_title.png",
+      "bbox": [
+        [
+          464,
+          451
+        ],
+        [
+          1281,
+          451
+        ],
+        [
+          1281,
+          501
+        ],
+        [
+          464,
+          501
+        ]
+      ],
+      "score": 0.7219629883766174,
+      "y_pos": 451,
+      "text": "+ Phân tích bài thuốc (Pháp thanh)",
+      "confidence": 0.9685061573982239
+    },
+    {
+      "type": "table",
+      "img_path": "p0090_000_table.png",
+      "bbox": [
+        [
+          351,
+          553
+        ],
+        [
+          2125,
+          553
+        ],
+        [
+          2125,
+          1631
+        ],
+        [
+          351,
+          1631
+        ]
+      ],
+      "score": 0.9903867244720459,
+      "y_pos": 553,
+      "text": "Vị thuốc    Dược lý Đông y\nCát căn    Ngọt, cay, bình vào Tỳ, Vị. Sinh tân chỉ khát, trừ phiền, thanh nhiệt\nHoàng cầm    Đắng, hàn vào Tâm, Phế, Can, Đởm, Đai trường. Thanh nhiệt, tả hỏa, làm\nlơi thấp ở Phế, trừ thấp vi trường\nHoàng liên    Đắng, hàn vào Can, Đởm. Thanh nhiệt, trừ thấp, thanh Tâm, trừ phiền, giải\nđôc, thanh Can hỏa, chỉ huyết do nhiệt\nKim ngân    Ngọt, đẳng vào Phế, Vị, Tâm, Tỳ, Đại trường. Thanh nhiệt giải độc, thanh\nnhiệt vi trường, thanh biểu nhiệt\nNhân trần    Đắng cay, tính hơi hàn, vào Tỳ, Vị, Can, Đởm. Lợi thấp nhiệt, thoái hoàng\nMộc thông    Đắng, lanh vào Tâm, Tiểu trường, Phế, Bàng quang. Giáng Tâm hỏa, thanh\nlợi Tiểu trường, thanh thấp nhiệt Bàng quang\nHoắc hương    Cay, ấm vào Phế, Tỳ, Vị. Tán thử thấp, điều hòa Tỳ, Vị, phương lương hóa\ntroc thấp\nCam thảo    Ngot, bình vào 12 kinh. Bổ trung khí, hòa hoãn, giải độc",
+      "confidence": 0.9259452395222405
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0090_008_figure_title.png",
+      "bbox": [
+        [
+          464,
+          1715
+        ],
+        [
+          1096,
+          1715
+        ],
+        [
+          1096,
+          1766
+        ],
+        [
+          464,
+          1766
+        ]
+      ],
+      "score": 0.7422155737876892,
+      "y_pos": 1715,
+      "text": "+ Công thức huyệt sử dụng",
+      "confidence": 0.9976878077895553
+    },
+    {
+      "type": "table",
+      "img_path": "p0090_001_table.png",
+      "bbox": [
+        [
+          351,
+          1812
+        ],
+        [
+          2124,
+          1812
+        ],
+        [
+          2124,
+          2248
+        ],
+        [
+          351,
+          2248
+        ]
+      ],
+      "score": 0.9867672324180603,
+      "y_pos": 1812,
+      "text": "Tên huyệt    Cơ sở lý luận    Tác dụng điều trị\nKhúc trì    Phối hợp Khúc trì, Đại chùy, Hợp cốc là Thanh nhiệt, hạ sốt kinh nghiệm để trị cảm sốt\nHợp cốc\nThiên khu    Mô huyết của Đai trường    Chữa chứng\nĐại trường du    Du huyệt của Đại trường    Đau bụng, tiêu chảy",
+      "confidence": 0.9395297622535995
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0090_004_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          2314
+        ],
+        [
+          1065,
+          2314
+        ],
+        [
+          1065,
+          2366
+        ],
+        [
+          343,
+          2366
+        ]
+      ],
+      "score": 0.9132726192474365,
+      "y_pos": 2314,
+      "text": "2.4.8. Thấp nhiệt Đại trường",
+      "confidence": 0.9887418647607168
+    },
+    {
+      "type": "text",
+      "img_path": "p0090_006_text.png",
+      "bbox": [
+        [
+          460,
+          2399
+        ],
+        [
+          2040,
+          2399
+        ],
+        [
+          2040,
+          2448
+        ],
+        [
+          460,
+          2448
+        ]
+      ],
+      "score": 0.8942726850509644,
+      "y_pos": 2399,
+      "text": "a/ Nguyên nhân: cảm nhiễm thấp nhiệt tà (của thu, hè) qua đường ăn uống.",
+      "confidence": 0.9907675014959799
+    },
+    {
+      "type": "text",
+      "img_path": "p0090_002_text.png",
+      "bbox": [
+        [
+          341,
+          2481
+        ],
+        [
+          2124,
+          2481
+        ],
+        [
+          2124,
+          2762
+        ],
+        [
+          341,
+          2762
+        ]
+      ],
+      "score": 0.9789931774139404,
+      "y_pos": 2481,
+      "text": "b/ Bênh sinh: tính chất nhiệt tà làm tổn khí và hao tân dịch. Tích chất của\nnhiệt tà làm trở trệ khí. Khi 2 yếu tố này liên kết nhau thì một yếu tố gây bạo chú\n(ói ia), một yếu tố gây trở trệ như mót rặn. Ngoài ra trên lâm sàng còn có những\ntriệu chứng mang những đặc điểm của nhiệt như sốt cao, tiểu đỏ, lưỡi đỏ, rêu\nvàng, mạch sác, đổ mồ hôi; những đặc điểm của thấp như đục đỏ, nhầy, nhớt.",
+      "confidence": 0.9925522434814207
+    },
+    {
+      "type": "text",
+      "img_path": "p0090_003_text.png",
+      "bbox": [
+        [
+          341,
+          2797
+        ],
+        [
+          2126,
+          2797
+        ],
+        [
+          2126,
+          2959
+        ],
+        [
+          341,
+          2959
+        ]
+      ],
+      "score": 0.9684094786643982,
+      "y_pos": 2797,
+      "text": "Nhiệt, thấp tà làm chức năng truyền tống phân bi rối loan gây tiêu chảy,\nmót răn. Đại trường nhiều khí, nhiều huyết nên xuất hiện sốt cao, phát ban, tiêu\nra máu.",
+      "confidence": 0.9942295565932356
+    },
+    {
+      "type": "number",
+      "img_path": "p0090_007_number.png",
+      "bbox": [
+        [
+          2069,
+          3112
+        ],
+        [
+          2121,
+          3112
+        ],
+        [
+          2121,
+          3147
+        ],
+        [
+          2069,
+          3147
+        ]
+      ],
+      "score": 0.853508710861206,
+      "y_pos": 3112,
+      "text": "    \n    \n\n    \n    \n    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0090_005_footer.png",
+      "bbox": [
+        [
+          293,
+          3311
+        ],
+        [
+          1072,
+          3311
+        ],
+        [
+          1072,
+          3367
+        ],
+        [
+          293,
+          3367
+        ]
+      ],
+      "score": 0.9039806723594666,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8808256592069353
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0090.png"
+}

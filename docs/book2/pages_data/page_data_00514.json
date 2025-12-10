@@ -1,0 +1,630 @@
+{
+  "page_num": 514,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0514_000_header.png",
+      "bbox": [
+        [
+          1674,
+          144
+        ],
+        [
+          2371,
+          144
+        ],
+        [
+          2371,
+          198
+        ],
+        [
+          1674,
+          198
+        ]
+      ],
+      "score": 0.9162061214447021,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7940837368369102
+    },
+    {
+      "type": "header",
+      "img_path": "p0514_001_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          200
+        ],
+        [
+          229,
+          200
+        ]
+      ],
+      "score": 0.91265469789505,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9087956917285919
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0514_008_reference_content.png",
+      "bbox": [
+        [
+          229,
+          305
+        ],
+        [
+          2352,
+          305
+        ],
+        [
+          2352,
+          370
+        ],
+        [
+          229,
+          370
+        ]
+      ],
+      "score": 0.8245023488998413,
+      "y_pos": 305,
+      "text": "83. Teo thần kinh thị giác: Tình minh, Cầu hậu, Phong trì, Hợp cốc, Túc tam lý, Quang minh.",
+      "confidence": 0.9946156137733049
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0514_003_reference_content.png",
+      "bbox": [
+        [
+          231,
+          398
+        ],
+        [
+          2359,
+          398
+        ],
+        [
+          2359,
+          528
+        ],
+        [
+          231,
+          528
+        ]
+      ],
+      "score": 0.8775383830070496,
+      "y_pos": 398,
+      "text": "84. Teo thần kinh thị giác: Thừa khấp, Tình minh, Phong trì, Hợp cốc, Túc tam lý, Can du,\nThân du.",
+      "confidence": 0.9791433538709369
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0514_004_reference_content.png",
+      "bbox": [
+        [
+          231,
+          560
+        ],
+        [
+          2364,
+          560
+        ],
+        [
+          2364,
+          693
+        ],
+        [
+          231,
+          693
+        ]
+      ],
+      "score": 0.8718385100364685,
+      "y_pos": 560,
+      "text": "85. Thanh quang nhãn (tăng nhãn áp, giãn đồng tử): Cầu hậu, Kiện minh 1, Phong trì, Hợp\ncốc, Thái xung.",
+      "confidence": 0.9917846595657951
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0514_014_reference_content.png",
+      "bbox": [
+        [
+          232,
+          722
+        ],
+        [
+          1521,
+          722
+        ],
+        [
+          1521,
+          788
+        ],
+        [
+          232,
+          788
+        ]
+      ],
+      "score": 0.795499861240387,
+      "y_pos": 722,
+      "text": "86. Thanh quang nhãn: Hành gian, Phong trì, Hợp cốc.",
+      "confidence": 0.9827202746161708
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0514_010_reference_content.png",
+      "bbox": [
+        [
+          231,
+          814
+        ],
+        [
+          1886,
+          814
+        ],
+        [
+          1886,
+          880
+        ],
+        [
+          231,
+          880
+        ]
+      ],
+      "score": 0.8033475279808044,
+      "y_pos": 814,
+      "text": "87. Giãn đồng tử: Thừa khấp, Tình minh, Phong trì, Khúc trì, Thái xung.",
+      "confidence": 0.9996932524524323
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0514_012_reference_content.png",
+      "bbox": [
+        [
+          231,
+          903
+        ],
+        [
+          2181,
+          903
+        ],
+        [
+          2181,
+          973
+        ],
+        [
+          231,
+          973
+        ]
+      ],
+      "score": 0.7972885966300964,
+      "y_pos": 903,
+      "text": "88. Khuất quang bất chỉnh (nhìn vật bị cong): Đồng tử liêu, Thượng minh, Hợp cốc.",
+      "confidence": 0.9995741025511041
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0514_019_reference_content.png",
+      "bbox": [
+        [
+          231,
+          997
+        ],
+        [
+          1982,
+          997
+        ],
+        [
+          1982,
+          1065
+        ],
+        [
+          231,
+          1065
+        ]
+      ],
+      "score": 0.7820889353752136,
+      "y_pos": 997,
+      "text": "89. Phức thị (nhìn thấy hình trùng nhau): Dương bạch, Tán trúc, Phục lưu.",
+      "confidence": 0.9976756127675375
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0514_006_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1089
+        ],
+        [
+          2359,
+          1089
+        ],
+        [
+          2359,
+          1219
+        ],
+        [
+          232,
+          1219
+        ]
+      ],
+      "score": 0.8651667237281799,
+      "y_pos": 1089,
+      "text": "90. Võng mạc biến hình: Thừa khấp, Kiện minh, Kiện minh 5, Phong thị, Tỳ du, Thận du,\nCan du.",
+      "confidence": 0.9747886034263962
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0514_023_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1250
+        ],
+        [
+          975,
+          1250
+        ],
+        [
+          975,
+          1318
+        ],
+        [
+          231,
+          1318
+        ]
+      ],
+      "score": 0.7602194547653198,
+      "y_pos": 1250,
+      "text": "91. Cận thị: Ngư yêu, Hợp cốc.",
+      "confidence": 0.9828356560319662
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0514_011_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1342
+        ],
+        [
+          1572,
+          1342
+        ],
+        [
+          1572,
+          1410
+        ],
+        [
+          232,
+          1410
+        ]
+      ],
+      "score": 0.8006945848464966,
+      "y_pos": 1342,
+      "text": "92. Cận thị: Tình minh, Thừa khấp, Hợp cốc, Quang minh.",
+      "confidence": 0.9967300201717176
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0514_021_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1433
+        ],
+        [
+          1158,
+          1433
+        ],
+        [
+          1158,
+          1500
+        ],
+        [
+          232,
+          1500
+        ]
+      ],
+      "score": 0.769881010055542,
+      "y_pos": 1433,
+      "text": "93. Cận thị: Thừa khấp thấu Tình minh.",
+      "confidence": 0.9965805098414421
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0514_020_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1524
+        ],
+        [
+          1479,
+          1524
+        ],
+        [
+          1479,
+          1595
+        ],
+        [
+          232,
+          1595
+        ]
+      ],
+      "score": 0.7798288464546204,
+      "y_pos": 1524,
+      "text": "94. Trong mắt có màng che: Đồng tử liêu, Khâu khư.",
+      "confidence": 0.9962329406004685
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0514_005_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1616
+        ],
+        [
+          2366,
+          1616
+        ],
+        [
+          2366,
+          1752
+        ],
+        [
+          232,
+          1752
+        ]
+      ],
+      "score": 0.8679024577140808,
+      "y_pos": 1616,
+      "text": "95. Viêm củng mạc bờ mi, giác mạc có màng che: Tình minh, Cầu hậu, É minh, Thái\ndương, Hợp cốc, Can du.",
+      "confidence": 0.9916819889309966
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0514_015_reference_content.png",
+      "bbox": [
+        [
+          231,
+          1777
+        ],
+        [
+          2109,
+          1777
+        ],
+        [
+          2109,
+          1846
+        ],
+        [
+          231,
+          1846
+        ]
+      ],
+      "score": 0.790605902671814,
+      "y_pos": 1777,
+      "text": "96. Giác mạc có màng che: Thượng minh, Thượng Tình minh, Cầu hậu, Hợp cốc.",
+      "confidence": 0.8914699797567568
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0514_016_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1870
+        ],
+        [
+          1799,
+          1870
+        ],
+        [
+          1799,
+          1938
+        ],
+        [
+          232,
+          1938
+        ]
+      ],
+      "score": 0.7878379821777344,
+      "y_pos": 1870,
+      "text": "97. Mắt có mộng thịt: Tình minh, Thiếu trạch, Thái dương, Hợp cốc.",
+      "confidence": 0.9996542711468304
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0514_018_reference_content.png",
+      "bbox": [
+        [
+          232,
+          1963
+        ],
+        [
+          1589,
+          1963
+        ],
+        [
+          1589,
+          2031
+        ],
+        [
+          232,
+          2031
+        ]
+      ],
+      "score": 0.7842637300491333,
+      "y_pos": 1963,
+      "text": "98. Mộng thịt trong mắt: Tình minh, Thái dương, Hợp cốc.",
+      "confidence": 0.9943058449646522
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0514_013_reference_content.png",
+      "bbox": [
+        [
+          232,
+          2056
+        ],
+        [
+          1685,
+          2056
+        ],
+        [
+          1685,
+          2121
+        ],
+        [
+          232,
+          2121
+        ]
+      ],
+      "score": 0.7957139015197754,
+      "y_pos": 2056,
+      "text": "99. Đục thủy tinh thể: Tán trúc, É minh, Tình minh, Túc tam lý.",
+      "confidence": 0.9966400733360877
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0514_017_reference_content.png",
+      "bbox": [
+        [
+          235,
+          2147
+        ],
+        [
+          1681,
+          2147
+        ],
+        [
+          1681,
+          2211
+        ],
+        [
+          235,
+          2211
+        ]
+      ],
+      "score": 0.7849539518356323,
+      "y_pos": 2147,
+      "text": "100. Đục nhân mắt: Đồng tử liêu, Ngư yêu, Tán trúc, Tình minh.",
+      "confidence": 0.999785971827805
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0514_022_reference_content.png",
+      "bbox": [
+        [
+          235,
+          2240
+        ],
+        [
+          1792,
+          2240
+        ],
+        [
+          1792,
+          2304
+        ],
+        [
+          235,
+          2304
+        ]
+      ],
+      "score": 0.7659791111946106,
+      "y_pos": 2240,
+      "text": "101. Đục nhân mắt bước đầu, độ nhẹ: É minh, Tình minh, Cầu hậu.",
+      "confidence": 0.9992524467981778
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0514_007_reference_content.png",
+      "bbox": [
+        [
+          234,
+          2329
+        ],
+        [
+          2363,
+          2329
+        ],
+        [
+          2363,
+          2461
+        ],
+        [
+          234,
+          2461
+        ]
+      ],
+      "score": 0.860785186290741,
+      "y_pos": 2329,
+      "text": "102. Đục nhân mắt, giác mạc có ban trắng: Tình minh, Thượng Tình minh, Cầu hậu, Thái\ndương, É minh, Thiếu trạch, Hợp cốc.",
+      "confidence": 0.9854587145797188
+    },
+    {
+      "type": "number",
+      "img_path": "p0514_009_number.png",
+      "bbox": [
+        [
+          2344,
+          3339
+        ],
+        [
+          2368,
+          3339
+        ],
+        [
+          2368,
+          3374
+        ],
+        [
+          2344,
+          3374
+        ]
+      ],
+      "score": 0.8186526894569397,
+      "y_pos": 3339,
+      "text": "\n\n\n\n    \n\n    .    ٦\n٠.\n٠.\n    \n\n        ",
+      "confidence": 0.8974986283315552
+    },
+    {
+      "type": "footer",
+      "img_path": "p0514_002_footer.png",
+      "bbox": [
+        [
+          229,
+          3341
+        ],
+        [
+          1326,
+          3341
+        ],
+        [
+          1326,
+          3390
+        ],
+        [
+          229,
+          3390
+        ]
+      ],
+      "score": 0.9076045751571655,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987150700587146
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0514.png"
+}

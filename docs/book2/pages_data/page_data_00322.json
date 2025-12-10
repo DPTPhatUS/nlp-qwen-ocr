@@ -1,0 +1,240 @@
+{
+  "page_num": 322,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0322_001_header.png",
+      "bbox": [
+        [
+          1607,
+          143
+        ],
+        [
+          2368,
+          143
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9258176684379578,
+      "y_pos": 143,
+      "text": "~>\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6955659183717909
+    },
+    {
+      "type": "header",
+      "img_path": "p0322_002_header.png",
+      "bbox": [
+        [
+          230,
+          155
+        ],
+        [
+          945,
+          155
+        ],
+        [
+          945,
+          204
+        ],
+        [
+          230,
+          204
+        ]
+      ],
+      "score": 0.9144765734672546,
+      "y_pos": 155,
+      "text": "TANG PHỦ BIÊN CHÚNG LUÂN TRI",
+      "confidence": 0.9021184047063192
+    },
+    {
+      "type": "text",
+      "img_path": "p0322_000_text.png",
+      "bbox": [
+        [
+          280,
+          306
+        ],
+        [
+          2354,
+          306
+        ],
+        [
+          2354,
+          430
+        ],
+        [
+          280,
+          430
+        ]
+      ],
+      "score": 0.9687240719795227,
+      "y_pos": 306,
+      "text": "Thêm <i>Bột mạch</i> từ 7 đến 20%, dùng 8 lạng <i>Sinh khương</i> sắc lấy nước khuấy hồ làm viên\nngày uống 2 – 3 lần, mỗl lần từ 2 – 3 đồng cân, uống với nước ấm.",
+      "confidence": 0.9838637503538801
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0322_004_paragraph_title.png",
+      "bbox": [
+        [
+          229,
+          469
+        ],
+        [
+          615,
+          469
+        ],
+        [
+          615,
+          520
+        ],
+        [
+          229,
+          520
+        ]
+      ],
+      "score": 0.8760373592376709,
+      "y_pos": 469,
+      "text": "13. Thanh vi tán",
+      "confidence": 0.9287105335129632
+    },
+    {
+      "type": "text",
+      "img_path": "p0322_007_text.png",
+      "bbox": [
+        [
+          287,
+          561
+        ],
+        [
+          1623,
+          561
+        ],
+        [
+          1623,
+          614
+        ],
+        [
+          287,
+          614
+        ]
+      ],
+      "score": 0.6993112564086914,
+      "y_pos": 561,
+      "text": "Sinh đia    5 đông cân,    Đan bì    3 đồng cân,",
+      "confidence": 0.9505822544774184
+    },
+    {
+      "type": "text",
+      "img_path": "p0322_006_text.png",
+      "bbox": [
+        [
+          286,
+          651
+        ],
+        [
+          1621,
+          651
+        ],
+        [
+          1621,
+          707
+        ],
+        [
+          286,
+          707
+        ]
+      ],
+      "score": 0.7594678401947021,
+      "y_pos": 651,
+      "text": "Hoàng liên    <sup>1</sup> đông cân,    Đương quy    2 đông cân.",
+      "confidence": 0.8723476769068301
+    },
+    {
+      "type": "text",
+      "img_path": "p0322_008_text.png",
+      "bbox": [
+        [
+          290,
+          745
+        ],
+        [
+          910,
+          745
+        ],
+        [
+          910,
+          798
+        ],
+        [
+          290,
+          798
+        ]
+      ],
+      "score": 0.6982688307762146,
+      "y_pos": 745,
+      "text": "Thăng ma    2 đồng cân.",
+      "confidence": 0.9622519371601251
+    },
+    {
+      "type": "footer",
+      "img_path": "p0322_003_footer.png",
+      "bbox": [
+        [
+          231,
+          3334
+        ],
+        [
+          1437,
+          3334
+        ],
+        [
+          1437,
+          3387
+        ],
+        [
+          231,
+          3387
+        ]
+      ],
+      "score": 0.9136502146720886,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9464619991914281
+    },
+    {
+      "type": "number",
+      "img_path": "p0322_005_number.png",
+      "bbox": [
+        [
+          2307,
+          3338
+        ],
+        [
+          2355,
+          3338
+        ],
+        [
+          2355,
+          3374
+        ],
+        [
+          2307,
+          3374
+        ]
+      ],
+      "score": 0.8656279444694519,
+      "y_pos": 3338,
+      "text": "    \n\n\n\n\n\n.\n\n\n\n\n    ۰\n\n",
+      "confidence": 0.9322158042341471
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0322.png"
+}

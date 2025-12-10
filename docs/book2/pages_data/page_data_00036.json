@@ -1,0 +1,422 @@
+{
+  "page_num": 36,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0036_007_header.png",
+      "bbox": [
+        [
+          1608,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1608,
+          201
+        ]
+      ],
+      "score": 0.92320317029953,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7565815800002643
+    },
+    {
+      "type": "header",
+      "img_path": "p0036_013_header.png",
+      "bbox": [
+        [
+          228,
+          155
+        ],
+        [
+          765,
+          155
+        ],
+        [
+          765,
+          200
+        ],
+        [
+          228,
+          200
+        ]
+      ],
+      "score": 0.9121543169021606,
+      "y_pos": 155,
+      "text": "BÁT CƯƠNG BIÊN CHÚNG",
+      "confidence": 0.9834744334220886
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0036_012_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          287
+        ],
+        [
+          588,
+          287
+        ],
+        [
+          588,
+          342
+        ],
+        [
+          224,
+          342
+        ]
+      ],
+      "score": 0.9130461812019348,
+      "y_pos": 287,
+      "text": "HÀN VÀ NHIỆT",
+      "confidence": 0.750711270741054
+    },
+    {
+      "type": "text",
+      "img_path": "p0036_004_text.png",
+      "bbox": [
+        [
+          221,
+          371
+        ],
+        [
+          2358,
+          371
+        ],
+        [
+          2358,
+          560
+        ],
+        [
+          221,
+          560
+        ]
+      ],
+      "score": 0.9741355180740356,
+      "y_pos": 371,
+      "text": "Hàn và nhiệt là chỉ về tính chất của bệnh tật. \"Dương thắng thì nhiệt, âm thắng thì hàn\". Hàn\nnhiệt trên thực chất là biểu hiện cụ thể của âm dương thiên thịnh, thiên suy. Bởi thế, phân biệt\nhàn nhiệt của bệnh tật có thể đem lại chỗ dựa cho việc dùng thuốc ôn nhiệt hay hàn lương.",
+      "confidence": 0.9997672816923627
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0036_011_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          598
+        ],
+        [
+          562,
+          598
+        ],
+        [
+          562,
+          647
+        ],
+        [
+          226,
+          647
+        ]
+      ],
+      "score": 0.9141621589660645,
+      "y_pos": 598,
+      "text": "A. Hàn chứng",
+      "confidence": 0.9572854595524924
+    },
+    {
+      "type": "text",
+      "img_path": "p0036_002_text.png",
+      "bbox": [
+        [
+          274,
+          675
+        ],
+        [
+          2358,
+          675
+        ],
+        [
+          2358,
+          1056
+        ],
+        [
+          274,
+          1056
+        ]
+      ],
+      "score": 0.9834939241409302,
+      "y_pos": 675,
+      "text": "Có chia riêng ra biểu hàn và lý hàn, ở đây chủ yếu là giới thiệu lý hàn chứng. Biểu hiện chủ\nyếucủa nó là sợ lạnh, chân tay lạnh như băng, miệng nhạt không khát, thích uống nóng, tiểu\ntiện trong mà dài, đại tiện lỏng nhão, sắc mặt trắng xanh (trắng bủng), chất lưỡi trắng nhạt,\nrêu lưỡi trắng nhuận hoặc đen nhuận, mạch tượng trầm trì. Như có một số ít người bệnh có\nbệnh mạn tính tiêu hao, thường xuất hiện chứng trạng loại này. Khi chữa cần dùng phép khủ\nhàn.",
+      "confidence": 0.9985219423914152
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0036_009_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1103
+        ],
+        [
+          593,
+          1103
+        ],
+        [
+          593,
+          1151
+        ],
+        [
+          226,
+          1151
+        ]
+      ],
+      "score": 0.920320987701416,
+      "y_pos": 1103,
+      "text": "B. Nhiệt chứng",
+      "confidence": 0.7467521615326405
+    },
+    {
+      "type": "text",
+      "img_path": "p0036_003_text.png",
+      "bbox": [
+        [
+          272,
+          1178
+        ],
+        [
+          2359,
+          1178
+        ],
+        [
+          2359,
+          1496
+        ],
+        [
+          272,
+          1496
+        ]
+      ],
+      "score": 0.9804165959358215,
+      "y_pos": 1178,
+      "text": "Có chia riêng biểu nhiệt và lý nhiệt, ở đây chủ yếu là giới thiệu chứng lý nhiệt. Biểu hiện chủ\nyếu của nó là phát sốt, sợ nóng, vật vã, miệng khát, ưa uống lạnh, nước tiểu ngắn đỏ, đại\ntiện bí tác, sắc mặt hồng, chất lưỡi hồng, rêu lưỡi vàng khô đen hoặc khô, mạch sác. Các\nloai bênh nhiệt tính thường có xuất hiện chứng trạng loại này, chữa thì dùng phép thanh\nnhiêt.",
+      "confidence": 0.9945060549968547
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0036_008_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          1537
+        ],
+        [
+          704,
+          1537
+        ],
+        [
+          704,
+          1589
+        ],
+        [
+          225,
+          1589
+        ]
+      ],
+      "score": 0.9209557175636292,
+      "y_pos": 1537,
+      "text": "C. Hàn nhiệt lẫn lôn",
+      "confidence": 0.9342754022641615
+    },
+    {
+      "type": "text",
+      "img_path": "p0036_000_text.png",
+      "bbox": [
+        [
+          273,
+          1619
+        ],
+        [
+          2358,
+          1619
+        ],
+        [
+          2358,
+          2138
+        ],
+        [
+          273,
+          2138
+        ]
+      ],
+      "score": 0.9860633015632629,
+      "y_pos": 1619,
+      "text": "Là chỉ hàn chứng và nhiệt chứng cùng xuất hiện một lúc, ví dụ như sợ lạnh phát nóng, không\ncó mồ hôi, đau đầu đau mình, khí suyễn vật vã, miệng khát, lưỡi hồng rêu lưỡi vàng trắng,\nmạch phù khẩn, gọi là biểu lý hàn nhiệt. Ngoài ra còn có biểu nhiệt lý hàn, thượng nhiệt hạ\nhàn, hạ nhiệt thượng hàn. Ví dụ như phát sốt, đau đầu, ho hắng có đờm vàng, họng khô mà\nbụng trướng, đại tiện phân nát, là biểu nhiệt lý hàn, (có thể thấy ở người bệnh trường vị hư\nhàn mà gặp nạn ngoại cảm phong nhiệt). Như đau đầu, mắt đỏ, hoặc đau răng, miệng có\nmụn mà bụng dưới lạnh đau là thượng nhiệt hạ hàn (có thể thấy ở người bệnh hạ tiêu hư\nhàn mà tâm vị có nhiệt).",
+      "confidence": 0.9944151018439477
+    },
+    {
+      "type": "text",
+      "img_path": "p0036_006_text.png",
+      "bbox": [
+        [
+          280,
+          2162
+        ],
+        [
+          2359,
+          2162
+        ],
+        [
+          2359,
+          2285
+        ],
+        [
+          280,
+          2285
+        ]
+      ],
+      "score": 0.9552468061447144,
+      "y_pos": 2162,
+      "text": "Như dạ dày, ợ hơi, ợ chua, miệng nhạt, ăn uống không biết ngon mà tiểu tiện nhiều lần rất\nđau, là thượng hàn hạ nhiệt (có thể thấy ở người bệnh vị hàn mà hạ tiêu có thấp nhiệt).",
+      "confidence": 0.9997047266337236
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0036_010_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2323
+        ],
+        [
+          746,
+          2323
+        ],
+        [
+          746,
+          2372
+        ],
+        [
+          226,
+          2372
+        ]
+      ],
+      "score": 0.9146516919136047,
+      "y_pos": 2323,
+      "text": "D. Hàn nhiệt chân giả",
+      "confidence": 0.8725967588632003
+    },
+    {
+      "type": "text",
+      "img_path": "p0036_005_text.png",
+      "bbox": [
+        [
+          257,
+          2399
+        ],
+        [
+          2360,
+          2399
+        ],
+        [
+          2360,
+          2655
+        ],
+        [
+          257,
+          2655
+        ]
+      ],
+      "score": 0.9728295207023621,
+      "y_pos": 2399,
+      "text": "Trên lâm sàng rất thường gặp đến một số bản chất là nhiệt chứng mà biểu hiện là tượng\nhàn, hoặc bản chất là hàn chứng mà biểu hiện là tình trạng là tượng nhiệt, đó gọi là chân\nnhiệt giả hàn hoặc chân hàn giả nhiệt. Nếu như không tìm ra được bản chất, sẽ bị hiện\ntượng giả mê hoặc mà đến chẩn lẫn trị lầm.",
+      "confidence": 0.9970755518678879
+    },
+    {
+      "type": "text",
+      "img_path": "p0036_001_text.png",
+      "bbox": [
+        [
+          274,
+          2679
+        ],
+        [
+          2360,
+          2679
+        ],
+        [
+          2360,
+          3136
+        ],
+        [
+          274,
+          3136
+        ]
+      ],
+      "score": 0.9835612773895264,
+      "y_pos": 2679,
+      "text": "Ví dụ như bệnh sởi của trẻ nhỏ, về nốt chẩn ở da, khi sởi mọc không ra hoặc chẩn ra da\nkhông thú, biểu hiện tình trạng mười phần khốn quẫn, lười nói, lười động, chân tay phát mát\nlạnh, sắc mặt phát xanh, mạch trầm tế mà sác, xem thoáng qua dễ cho là tượng của chứng\nhàn. Đến khi thấy miệng mũi đứa trẻ có bệnh ấy thở hơi ra nóng, ngực bụng nóng như thiêu\nđốt, miệng hôi, miệng khát hay uống, ưa mát, chất lưỡi hồng, rêu lưỡi vàng mà khô, mạch\ntrầm tế sác mà có sức mới có thể thấy bản chất là nhiệt chứng. Đông y cho rằng tà nhiệt uất\nở trong càng sâu, ở đầu chót chi thể càng mát, tức là câu nói: \"Nhiệt sâu quyết cũng sâu\"",
+      "confidence": 0.9966347033876796
+    },
+    {
+      "type": "footer",
+      "img_path": "p0036_014_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3386
+        ],
+        [
+          228,
+          3386
+        ]
+      ],
+      "score": 0.9010317921638489,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9360493050431306
+    },
+    {
+      "type": "number",
+      "img_path": "p0036_015_number.png",
+      "bbox": [
+        [
+          2332,
+          3339
+        ],
+        [
+          2357,
+          3339
+        ],
+        [
+          2357,
+          3373
+        ],
+        [
+          2332,
+          3373
+        ]
+      ],
+      "score": 0.820614755153656,
+      "y_pos": 3339,
+      "text": "\n\n\n\n    \n    \n    \n    \n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0036.png"
+}

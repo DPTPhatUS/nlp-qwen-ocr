@@ -1,0 +1,576 @@
+{
+  "page_num": 158,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0158_006_header.png",
+      "bbox": [
+        [
+          1606,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          201
+        ],
+        [
+          1606,
+          201
+        ]
+      ],
+      "score": 0.9273223280906677,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7424319858352344
+    },
+    {
+      "type": "header",
+      "img_path": "p0158_016_header.png",
+      "bbox": [
+        [
+          228,
+          155
+        ],
+        [
+          906,
+          155
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9145602583885193,
+      "y_pos": 155,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0158_014_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          349
+        ],
+        [
+          590,
+          349
+        ],
+        [
+          590,
+          400
+        ],
+        [
+          225,
+          400
+        ]
+      ],
+      "score": 0.9185070991516113,
+      "y_pos": 349,
+      "text": "6. Thừa quang",
+      "confidence": 0.930871291955312
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_005_text.png",
+      "bbox": [
+        [
+          288,
+          439
+        ],
+        [
+          1341,
+          439
+        ],
+        [
+          1341,
+          493
+        ],
+        [
+          288,
+          493
+        ]
+      ],
+      "score": 0.9281430840492249,
+      "y_pos": 439,
+      "text": "Vị trí: Phía sau huyệt Ngũ xứ 1. 5 thốn (H. 71).",
+      "confidence": 0.5578395295143127
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_003_text.png",
+      "bbox": [
+        [
+          286,
+          531
+        ],
+        [
+          1603,
+          531
+        ],
+        [
+          1603,
+          581
+        ],
+        [
+          286,
+          581
+        ]
+      ],
+      "score": 0.9288337826728821,
+      "y_pos": 531,
+      "text": "Cách châm: Châm chếch kim, sâu 0.3-0.5 thốn. Cấm cứu.",
+      "confidence": 0.37409660816192625
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_001_text.png",
+      "bbox": [
+        [
+          285,
+          623
+        ],
+        [
+          1841,
+          623
+        ],
+        [
+          1841,
+          677
+        ],
+        [
+          285,
+          677
+        ]
+      ],
+      "score": 0.935789942741394,
+      "y_pos": 623,
+      "text": "Chủ trị: Đau đầu, choáng váng, đục giác mạc dạng vảy cá, cảm mạo.",
+      "confidence": 0.7381603228512095
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0158_020_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          715
+        ],
+        [
+          580,
+          715
+        ],
+        [
+          580,
+          765
+        ],
+        [
+          227,
+          765
+        ]
+      ],
+      "score": 0.8777554631233215,
+      "y_pos": 715,
+      "text": "7. Thiên thông",
+      "confidence": 0.9343363493680954
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_002_text.png",
+      "bbox": [
+        [
+          288,
+          806
+        ],
+        [
+          1318,
+          806
+        ],
+        [
+          1318,
+          859
+        ],
+        [
+          288,
+          859
+        ]
+      ],
+      "score": 0.9289283752441406,
+      "y_pos": 806,
+      "text": "Vị trí: Sau huyệt <i>Thừa quang</i> 1,5 thốn (H. 71)",
+      "confidence": 0.8020162813517512
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_004_text.png",
+      "bbox": [
+        [
+          286,
+          896
+        ],
+        [
+          1629,
+          896
+        ],
+        [
+          1629,
+          947
+        ],
+        [
+          286,
+          947
+        ]
+      ],
+      "score": 0.9288331270217896,
+      "y_pos": 896,
+      "text": "Cách châm: Châm chếch kim, sâu 0.3-0.5 thốn. Cứu 3 mồi.",
+      "confidence": 0.7550750939469588
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_010_text.png",
+      "bbox": [
+        [
+          286,
+          990
+        ],
+        [
+          1297,
+          990
+        ],
+        [
+          1297,
+          1042
+        ],
+        [
+          286,
+          1042
+        ]
+      ],
+      "score": 0.9226697683334351,
+      "y_pos": 990,
+      "text": "Chủ trị: Đau đỉnh đầu, viêm xoang, viêm mũi",
+      "confidence": 0.9845871746540069
+    },
+    {
+      "type": "image",
+      "img_path": "p0158_000_image.png",
+      "bbox": [
+        [
+          678,
+          1105
+        ],
+        [
+          1908,
+          1105
+        ],
+        [
+          1908,
+          2333
+        ],
+        [
+          678,
+          2333
+        ]
+      ],
+      "score": 0.9717442989349365,
+      "y_pos": 1105
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0158_017_figure_title.png",
+      "bbox": [
+        [
+          1103,
+          2417
+        ],
+        [
+          1484,
+          2417
+        ],
+        [
+          1484,
+          2459
+        ],
+        [
+          1103,
+          2459
+        ]
+      ],
+      "score": 0.9141150712966919,
+      "y_pos": 2417,
+      "text": "Hình 71 - Hình 72",
+      "confidence": 0.600086576060245
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0158_013_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          2504
+        ],
+        [
+          557,
+          2504
+        ],
+        [
+          557,
+          2553
+        ],
+        [
+          224,
+          2553
+        ]
+      ],
+      "score": 0.9191479086875916,
+      "y_pos": 2504,
+      "text": "8. Lac khước",
+      "confidence": 0.9191285286630902
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_007_text.png",
+      "bbox": [
+        [
+          289,
+          2595
+        ],
+        [
+          1337,
+          2595
+        ],
+        [
+          1337,
+          2648
+        ],
+        [
+          289,
+          2648
+        ]
+      ],
+      "score": 0.9270731806755066,
+      "y_pos": 2595,
+      "text": "Vị trí: Sau huyệt Thông thiên 1. 5 thốn (H. 71).",
+      "confidence": 0.5519401228427887
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_009_text.png",
+      "bbox": [
+        [
+          286,
+          2687
+        ],
+        [
+          1632,
+          2687
+        ],
+        [
+          1632,
+          2737
+        ],
+        [
+          286,
+          2737
+        ]
+      ],
+      "score": 0.9237919449806213,
+      "y_pos": 2687,
+      "text": "Cách châm: Châm chếch kim, sâu 0.3-0.5 thốn. Cứu 3 mồi.",
+      "confidence": 0.7625953387795833
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_011_text.png",
+      "bbox": [
+        [
+          285,
+          2777
+        ],
+        [
+          2115,
+          2777
+        ],
+        [
+          2115,
+          2833
+        ],
+        [
+          285,
+          2833
+        ]
+      ],
+      "score": 0.9207701086997986,
+      "y_pos": 2777,
+      "text": "Chủ tri: Viêm mũi, tắc mũi, chảy máu mũi, đau đỉnh đầu, viêm phế quản man tính.",
+      "confidence": 0.9532835711667567
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0158_019_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2868
+        ],
+        [
+          565,
+          2868
+        ],
+        [
+          565,
+          2923
+        ],
+        [
+          226,
+          2923
+        ]
+      ],
+      "score": 0.8841297626495361,
+      "y_pos": 2868,
+      "text": "9. Ngọc chẩm",
+      "confidence": 0.9575350497450147
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_015_text.png",
+      "bbox": [
+        [
+          287,
+          2961
+        ],
+        [
+          2080,
+          2961
+        ],
+        [
+          2080,
+          3016
+        ],
+        [
+          287,
+          3016
+        ]
+      ],
+      "score": 0.9184365272521973,
+      "y_pos": 2961,
+      "text": "Vị trí: Sau huyệt <i>Lạc khước</i> 4 thốn, từ huyệt <i>Não h</i>ộ ra mỗi bên 1,3 thốn (H. 71).",
+      "confidence": 0.8577938377857208
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_012_text.png",
+      "bbox": [
+        [
+          285,
+          3052
+        ],
+        [
+          1768,
+          3052
+        ],
+        [
+          1768,
+          3103
+        ],
+        [
+          285,
+          3103
+        ]
+      ],
+      "score": 0.9204193353652954,
+      "y_pos": 3052,
+      "text": "Cách châm: Châm chếch kim, châm sâu 0,3-0,5 thốn. Cứu 3 mồi.",
+      "confidence": 0.6546006817971507
+    },
+    {
+      "type": "text",
+      "img_path": "p0158_008_text.png",
+      "bbox": [
+        [
+          286,
+          3146
+        ],
+        [
+          1395,
+          3146
+        ],
+        [
+          1395,
+          3200
+        ],
+        [
+          286,
+          3200
+        ]
+      ],
+      "score": 0.9268370866775513,
+      "y_pos": 3146,
+      "text": "Chủ trị: Choáng váng, đau phía sau đầu, cận thị.",
+      "confidence": 0.4747730553150177
+    },
+    {
+      "type": "footer",
+      "img_path": "p0158_018_footer.png",
+      "bbox": [
+        [
+          227,
+          3333
+        ],
+        [
+          1433,
+          3333
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.9114962816238403,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9493657609201828
+    },
+    {
+      "type": "number",
+      "img_path": "p0158_021_number.png",
+      "bbox": [
+        [
+          2301,
+          3339
+        ],
+        [
+          2350,
+          3339
+        ],
+        [
+          2350,
+          3376
+        ],
+        [
+          2301,
+          3376
+        ]
+      ],
+      "score": 0.8744848370552063,
+      "y_pos": 3339,
+      "text": "    \n    \n            \n        \n    .\n\n\n\n\n\n    \n        \n\n\n",
+      "confidence": 0.9784391476557806
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0158.png"
+}

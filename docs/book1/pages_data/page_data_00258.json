@@ -1,0 +1,552 @@
+{
+  "page_num": 258,
+  "content": [
+    {
+      "type": "paragraph_title",
+      "img_path": "p0258_020_paragraph_title.png",
+      "bbox": [
+        [
+          920,
+          499
+        ],
+        [
+          1550,
+          499
+        ],
+        [
+          1550,
+          575
+        ],
+        [
+          920,
+          575
+        ]
+      ],
+      "score": 0.6236228942871094,
+      "y_pos": 499,
+      "text": "TÀI LIỀU THAM KHẢO",
+      "confidence": 0.754771938920021
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0258_013_reference_content.png",
+      "bbox": [
+        [
+          353,
+          720
+        ],
+        [
+          2123,
+          720
+        ],
+        [
+          2123,
+          841
+        ],
+        [
+          353,
+          841
+        ]
+      ],
+      "score": 0.8785519599914551,
+      "y_pos": 720,
+      "text": "Bộ Môn YHDT, Trường Đại học Y Hà Nội. Bài giảng Đông y tập I,\ntập II. Nhà xuất bản Y học Hà Nội.",
+      "confidence": 0.9896957400062728
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0258_007_reference_content.png",
+      "bbox": [
+        [
+          348,
+          861
+        ],
+        [
+          2126,
+          861
+        ],
+        [
+          2126,
+          980
+        ],
+        [
+          348,
+          980
+        ]
+      ],
+      "score": 0.8853436708450317,
+      "y_pos": 861,
+      "text": "2. Bộ Môn Đông Y. Trường Đại Học Y khoa Hà Nội. Bài giảng Đông y tập\nII. Nhà xuất bản Y học. 1979.",
+      "confidence": 0.9816451017071025
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0258_017_reference_content.png",
+      "bbox": [
+        [
+          349,
+          1002
+        ],
+        [
+          1877,
+          1002
+        ],
+        [
+          1877,
+          1066
+        ],
+        [
+          349,
+          1066
+        ]
+      ],
+      "score": 0.8275727033615112,
+      "y_pos": 1002,
+      "text": "3. <b>Bùi Chí Hiếu</b>. <i>Dược lý trị liệu</i>. Nhà xuất bản Cửu Long. 1985",
+      "confidence": 0.985666779034278
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0258_011_reference_content.png",
+      "bbox": [
+        [
+          349,
+          1088
+        ],
+        [
+          2125,
+          1088
+        ],
+        [
+          2125,
+          1207
+        ],
+        [
+          349,
+          1207
+        ]
+      ],
+      "score": 0.8807329535484314,
+      "y_pos": 1088,
+      "text": "<b>Bùi Chí Hiếu</b>. <i>Cách kê đơn thuốc. Dược lý trị liệu</i>. 37-38. Nhà xuất bản\nCửu Long. 1985.",
+      "confidence": 0.9830400925994658
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0258_010_reference_content.png",
+      "bbox": [
+        [
+          349,
+          1227
+        ],
+        [
+          2128,
+          1227
+        ],
+        [
+          2128,
+          1347
+        ],
+        [
+          349,
+          1347
+        ]
+      ],
+      "score": 0.8822500109672546,
+      "y_pos": 1227,
+      "text": "5. <b>Bùi Chí Hiếu</b>, <i>Trần Khiết</i>. <i>Danh từ Y học cổ truyền</i>. Nhà xuất bản Y\nhoc. 1989.",
+      "confidence": 0.982103669983253
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0258_000_reference_content.png",
+      "bbox": [
+        [
+          349,
+          1371
+        ],
+        [
+          2126,
+          1371
+        ],
+        [
+          2126,
+          1546
+        ],
+        [
+          349,
+          1546
+        ]
+      ],
+      "score": 0.9078614711761475,
+      "y_pos": 1371,
+      "text": "6.    <b>Diệp Hiển Thuần</b>. Số tay những bài thuốc thường dùng. Dịch giả\nNguyễn Cảnh Phước, Nguyễn Trung Hòa. Hội Y học dân tộc TP.Hồ Chí\nMinh - 1992.",
+      "confidence": 0.9675214776204223
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0258_009_reference_content.png",
+      "bbox": [
+        [
+          351,
+          1568
+        ],
+        [
+          2125,
+          1568
+        ],
+        [
+          2125,
+          1691
+        ],
+        [
+          351,
+          1691
+        ]
+      ],
+      "score": 0.8831798434257507,
+      "y_pos": 1568,
+      "text": "Đỗ Tất Lợi. Những cây thuốc và vị thuốc Việt Nam. Nhà xuất bản Khoa\nhọc & Kỹ thuật. 1977",
+      "confidence": 0.9810584439197862
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0258_005_reference_content.png",
+      "bbox": [
+        [
+          349,
+          1711
+        ],
+        [
+          2126,
+          1711
+        ],
+        [
+          2126,
+          1832
+        ],
+        [
+          349,
+          1832
+        ]
+      ],
+      "score": 0.8865591883659363,
+      "y_pos": 1711,
+      "text": "Hoàng đế Nội kinh Linh khu I,II, III. Dịch giả Huỳnh Minh Đức. Hội\ny học dân tộc cổ truyền Đồng Nai. 1990.",
+      "confidence": 0.921222010699543
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0258_006_reference_content.png",
+      "bbox": [
+        [
+          348,
+          1853
+        ],
+        [
+          2125,
+          1853
+        ],
+        [
+          2125,
+          1972
+        ],
+        [
+          348,
+          1972
+        ]
+      ],
+      "score": 0.8860076665878296,
+      "y_pos": 1853,
+      "text": "9.    Hoàng Quý (người dịch). Khải yếu châm cứu học Trung Quốc. Trang 210.\nNhà xuất bản Y học Hà Nôi. 2000",
+      "confidence": 0.8381877425429108
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0258_003_reference_content.png",
+      "bbox": [
+        [
+          354,
+          1995
+        ],
+        [
+          2125,
+          1995
+        ],
+        [
+          2125,
+          2114
+        ],
+        [
+          354,
+          2114
+        ]
+      ],
+      "score": 0.8905830383300781,
+      "y_pos": 1995,
+      "text": "10. <b>Hoàng Duy Tân, Trần Văn Nhũ</b>. <i>Tuyển tập phương thang Đông y</i>. Nhà\nxuất bản Đồng Nai. 1995",
+      "confidence": 0.9923584541229352
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0258_015_reference_content.png",
+      "bbox": [
+        [
+          352,
+          2135
+        ],
+        [
+          2100,
+          2135
+        ],
+        [
+          2100,
+          2202
+        ],
+        [
+          352,
+          2202
+        ]
+      ],
+      "score": 0.8338561654090881,
+      "y_pos": 2135,
+      "text": "11. <b>Hoàng Bảo Châu</b>. <i>Phương thuốc cổ truyền</i>. Nhà xuất bản Y học Hà Nội. 1995.",
+      "confidence": 0.9920010057891288
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0258_018_reference_content.png",
+      "bbox": [
+        [
+          350,
+          2222
+        ],
+        [
+          2076,
+          2222
+        ],
+        [
+          2076,
+          2285
+        ],
+        [
+          350,
+          2285
+        ]
+      ],
+      "score": 0.8275185227394104,
+      "y_pos": 2222,
+      "text": "12. <b>Huỳnh Minh Đức</b>. <i>Nội kinh Linh Khu</i>. Nhà xuất bản Đồng Nai. 1989.",
+      "confidence": 0.9886252341205126
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0258_002_reference_content.png",
+      "bbox": [
+        [
+          352,
+          2306
+        ],
+        [
+          2132,
+          2306
+        ],
+        [
+          2132,
+          2424
+        ],
+        [
+          352,
+          2424
+        ]
+      ],
+      "score": 0.8907893896102905,
+      "y_pos": 2306,
+      "text": "13. Nguyễn Thiện Quyến, Nguyễn Mộng Hưng. Từ điển Đông y học cổ\ntruyền. Nhà xuất bản Khoa học kỹ thuật. 1990.",
+      "confidence": 0.9850274516595756
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0258_004_reference_content.png",
+      "bbox": [
+        [
+          353,
+          2445
+        ],
+        [
+          2126,
+          2445
+        ],
+        [
+          2126,
+          2566
+        ],
+        [
+          353,
+          2566
+        ]
+      ],
+      "score": 0.8881887793540955,
+      "y_pos": 2445,
+      "text": "14. <b>Nguyễn Trung Hòa</b>. <i>Tóm tắt Linh Khu</i> - Tố Vấn. Hội Y học cổ truyền\nVN. - chi nhánh phía nam. 1988.",
+      "confidence": 0.9882357488222341
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0258_019_reference_content.png",
+      "bbox": [
+        [
+          351,
+          2588
+        ],
+        [
+          1970,
+          2588
+        ],
+        [
+          1970,
+          2651
+        ],
+        [
+          351,
+          2651
+        ]
+      ],
+      "score": 0.8246896862983704,
+      "y_pos": 2588,
+      "text": "15. <b>Nguyễn Tử Siêu</b>. Nội kinh Tố Vấn. Nhà xuất bản Khai Trí. 1974.",
+      "confidence": 0.9907187024752299
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0258_008_reference_content.png",
+      "bbox": [
+        [
+          350,
+          2675
+        ],
+        [
+          2127,
+          2675
+        ],
+        [
+          2127,
+          2791
+        ],
+        [
+          350,
+          2791
+        ]
+      ],
+      "score": 0.8850650191307068,
+      "y_pos": 2675,
+      "text": "16. <b>Nguyên Trung Hòa</b>. Giáo trình Thương hàn và ôn bệnh học. Hội YHDT\nTây Ninh tái xuất bản năm 1985. Lưu hành nội bộ, trang 8 – 11",
+      "confidence": 0.8141432528103154
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0258_012_reference_content.png",
+      "bbox": [
+        [
+          351,
+          2815
+        ],
+        [
+          2123,
+          2815
+        ],
+        [
+          2123,
+          2931
+        ],
+        [
+          351,
+          2931
+        ]
+      ],
+      "score": 0.8805541396141052,
+      "y_pos": 2815,
+      "text": "17. <b>Nguyễn Trung Hòa</b>. <i>Giáo trình Thương hàn</i>. Viện YHDT TP. HCM.\n1980 - Lưu hành nôi bô.",
+      "confidence": 0.9913187807884769
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0258_016_reference_content.png",
+      "bbox": [
+        [
+          353,
+          2956
+        ],
+        [
+          1780,
+          2956
+        ],
+        [
+          1780,
+          3017
+        ],
+        [
+          353,
+          3017
+        ]
+      ],
+      "score": 0.8304898142814636,
+      "y_pos": 2956,
+      "text": "18. <b>Sở Y tế Thanh Hóa</b>. <i>Trung y khái luận</i> tập thượng. 1989",
+      "confidence": 0.9789724245903983
+    },
+    {
+      "type": "number",
+      "img_path": "p0258_014_number.png",
+      "bbox": [
+        [
+          2042,
+          3110
+        ],
+        [
+          2121,
+          3110
+        ],
+        [
+          2121,
+          3147
+        ],
+        [
+          2042,
+          3147
+        ]
+      ],
+      "score": 0.8589268922805786,
+      "y_pos": 3110,
+      "text": "        \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0258_001_footer.png",
+      "bbox": [
+        [
+          294,
+          3310
+        ],
+        [
+          1073,
+          3310
+        ],
+        [
+          1073,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.9072006940841675,
+      "y_pos": 3310,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8789173466818673
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0258.png"
+}

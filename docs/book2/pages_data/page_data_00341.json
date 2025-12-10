@@ -1,0 +1,500 @@
+{
+  "page_num": 341,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0341_011_header.png",
+      "bbox": [
+        [
+          1679,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1679,
+          196
+        ]
+      ],
+      "score": 0.9196348190307617,
+      "y_pos": 142,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7503989594323295
+    },
+    {
+      "type": "header",
+      "img_path": "p0341_012_header.png",
+      "bbox": [
+        [
+          230,
+          152
+        ],
+        [
+          1055,
+          152
+        ],
+        [
+          1055,
+          198
+        ],
+        [
+          230,
+          198
+        ]
+      ],
+      "score": 0.9122453927993774,
+      "y_pos": 152,
+      "text": "ÔN NHIỆT KINH BIÊN CHỨNG LUÂN TRI",
+      "confidence": 0.9350922175816128
+    },
+    {
+      "type": "text",
+      "img_path": "p0341_010_text.png",
+      "bbox": [
+        [
+          338,
+          305
+        ],
+        [
+          2356,
+          305
+        ],
+        [
+          2356,
+          429
+        ],
+        [
+          338,
+          429
+        ]
+      ],
+      "score": 0.9553015232086182,
+      "y_pos": 305,
+      "text": "Chủ trứng: Phát sốt về chiều, về đêm rất cao, miệng không khát lắm, vật vã không yên,\nhoặc nói nhảm mê, hoặc xuất hiện ban chẩn chìm ẩn, lưỡi đỏ tía không rêu, mạch tế, sác.",
+      "confidence": 0.9671211301872439
+    },
+    {
+      "type": "text",
+      "img_path": "p0341_002_text.png",
+      "bbox": [
+        [
+          338,
+          466
+        ],
+        [
+          2360,
+          466
+        ],
+        [
+          2360,
+          733
+        ],
+        [
+          338,
+          733
+        ]
+      ],
+      "score": 0.9789639711380005,
+      "y_pos": 466,
+      "text": "Bệnh lý: Chứng này là tà nhiệt nhập doanh, doanh âm bị tổn, cho nên phát sốt về đêm rất\ncao, lưỡi đỏ tía không rêu, mạch tế, sác. Nhiệt chưng (nung nấu) doanh âm thăng lên\ntrên, cho nên không khát lắm. Nhiệt nhiễu tâm thần, thì vật vã không yên hoặc nói mê\nnhảm. Nhiệt nhập mạch lạc thì ban chẩn ẩn náu.",
+      "confidence": 0.9970329853338332
+    },
+    {
+      "type": "text",
+      "img_path": "p0341_018_text.png",
+      "bbox": [
+        [
+          341,
+          774
+        ],
+        [
+          1929,
+          774
+        ],
+        [
+          1929,
+          825
+        ],
+        [
+          341,
+          825
+        ]
+      ],
+      "score": 0.6883083581924438,
+      "y_pos": 774,
+      "text": "Phép chữa: Thanh doanh tiết nhiệt, thường dùng Thanh doanh thang.",
+      "confidence": 0.5860767996133264
+    },
+    {
+      "type": "text",
+      "img_path": "p0341_008_text.png",
+      "bbox": [
+        [
+          341,
+          866
+        ],
+        [
+          2357,
+          866
+        ],
+        [
+          2357,
+          988
+        ],
+        [
+          341,
+          988
+        ]
+      ],
+      "score": 0.9615877866744995,
+      "y_pos": 866,
+      "text": "Bệnh viêm não Nhật Bản B, viêm não tủy lây lan, và các loại viêm nhiễm nghiêm trọng\nkhác có biểu hiện chứng là doanh phần, đều có thể theo phép này mà chữa.",
+      "confidence": 0.9996685248016364
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0341_016_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          1028
+        ],
+        [
+          1690,
+          1028
+        ],
+        [
+          1690,
+          1079
+        ],
+        [
+          343,
+          1079
+        ]
+      ],
+      "score": 0.8841404914855957,
+      "y_pos": 1028,
+      "text": "b. Vệ doanh đồng bệnh: (doanh nhiệt kiêm biểu chứng)",
+      "confidence": 0.8995895065643169
+    },
+    {
+      "type": "text",
+      "img_path": "p0341_006_text.png",
+      "bbox": [
+        [
+          341,
+          1119
+        ],
+        [
+          2358,
+          1119
+        ],
+        [
+          2358,
+          1243
+        ],
+        [
+          341,
+          1243
+        ]
+      ],
+      "score": 0.9622567296028137,
+      "y_pos": 1119,
+      "text": "Chủ trứng: Bệnh doanh phần kiêm có đau đầu, đau mình, sợ lạnh, là những chứng của\nphần vệ, gọi là doanh vệ đồng bệnh.",
+      "confidence": 0.9628718632977857
+    },
+    {
+      "type": "text",
+      "img_path": "p0341_004_text.png",
+      "bbox": [
+        [
+          343,
+          1281
+        ],
+        [
+          2357,
+          1281
+        ],
+        [
+          2357,
+          1403
+        ],
+        [
+          343,
+          1403
+        ]
+      ],
+      "score": 0.9633041024208069,
+      "y_pos": 1281,
+      "text": "Phép chữa: Dùng phép thanh doanh tiết nhiệt kiêm tân lương giải biểu. Thường dùng\nThanh doanh thang hợp với Ngân kiều tán.",
+      "confidence": 0.9984061011742122
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0341_013_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          1445
+        ],
+        [
+          935,
+          1445
+        ],
+        [
+          935,
+          1495
+        ],
+        [
+          345,
+          1495
+        ]
+      ],
+      "score": 0.9048457741737366,
+      "y_pos": 1445,
+      "text": "c. Khí doanh đồng bênh",
+      "confidence": 0.9754865343372027
+    },
+    {
+      "type": "text",
+      "img_path": "p0341_005_text.png",
+      "bbox": [
+        [
+          341,
+          1535
+        ],
+        [
+          2358,
+          1535
+        ],
+        [
+          2358,
+          1659
+        ],
+        [
+          341,
+          1659
+        ]
+      ],
+      "score": 0.9625283479690552,
+      "y_pos": 1535,
+      "text": "Chủ trứng: Bệnh doanh phần, nếu xuất hiện chứng khí phần và lưỡi đỏ tía, mà có rêu\nlưỡi vàng trắng, sẽ là khí doanh đồng bệnh.",
+      "confidence": 0.984632648669538
+    },
+    {
+      "type": "text",
+      "img_path": "p0341_003_text.png",
+      "bbox": [
+        [
+          341,
+          1698
+        ],
+        [
+          2362,
+          1698
+        ],
+        [
+          2362,
+          1821
+        ],
+        [
+          341,
+          1821
+        ]
+      ],
+      "score": 0.963533341884613,
+      "y_pos": 1698,
+      "text": "Phép chữa: Nên thanh khí lương doanh, thường dùng Bạch hổ thang hợp với Thanh\ndoanh thang gia giảm.",
+      "confidence": 0.8738718480773857
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0341_014_paragraph_title.png",
+      "bbox": [
+        [
+          345,
+          1863
+        ],
+        [
+          886,
+          1863
+        ],
+        [
+          886,
+          1913
+        ],
+        [
+          345,
+          1913
+        ]
+      ],
+      "score": 0.9041026830673218,
+      "y_pos": 1863,
+      "text": "d. Nhiệt nhập tâm bào",
+      "confidence": 0.9920690215152242
+    },
+    {
+      "type": "text",
+      "img_path": "p0341_001_text.png",
+      "bbox": [
+        [
+          338,
+          1951
+        ],
+        [
+          2360,
+          1951
+        ],
+        [
+          2360,
+          2290
+        ],
+        [
+          338,
+          2290
+        ]
+      ],
+      "score": 0.9835482239723206,
+      "y_pos": 1951,
+      "text": "Chủ trứng: Ngoài việc có đủ đặc trưng của bệnh phần doanh, kèm thêm có các mức độ\nkhác nhau của ý thức bị trở ngại, như biểu hiện tình cảm lạnh nhạt, tiếng nói rít rít (nói\nkhó), phản ứng chậm chạp, nghe không thật, nhìn thấy không thật, sờ mó chỗ không có\ngì, và mân mê giường chiếu, thần mờ tối nói nhảm, thậm chí hôn mê sâu, đại tiểu tiện\nkhông cầm, lưỡi đỏ tía, mạch hoạt, tế, sác, có người bệnh có thể thấy co quắp.",
+      "confidence": 0.9635656500404464
+    },
+    {
+      "type": "text",
+      "img_path": "p0341_007_text.png",
+      "bbox": [
+        [
+          341,
+          2326
+        ],
+        [
+          2357,
+          2326
+        ],
+        [
+          2357,
+          2451
+        ],
+        [
+          341,
+          2451
+        ]
+      ],
+      "score": 0.9616303443908691,
+      "y_pos": 2326,
+      "text": "Bệnh lý: Chứng này do nhiệt tà xâm lấn vào tâm bào, vướng bí tâm khiếu gây nên, cũng\ncó thể gọi là \"Bế chứng\".",
+      "confidence": 0.9944801614599738
+    },
+    {
+      "type": "text",
+      "img_path": "p0341_009_text.png",
+      "bbox": [
+        [
+          341,
+          2488
+        ],
+        [
+          2361,
+          2488
+        ],
+        [
+          2361,
+          2615
+        ],
+        [
+          341,
+          2615
+        ]
+      ],
+      "score": 0.956167995929718,
+      "y_pos": 2488,
+      "text": "Phép chữa: Thanh doanh tiết nhiệt; thanh tâm khai khiếu. Thường dùng Thanh doanh\nthang gia Tử tuyết đan, hoặc gia An cung ngưu hoàng hoàn, hoặc Chí bảo đan.",
+      "confidence": 0.9073344197385025
+    },
+    {
+      "type": "text",
+      "img_path": "p0341_000_text.png",
+      "bbox": [
+        [
+          339,
+          2650
+        ],
+        [
+          2360,
+          2650
+        ],
+        [
+          2360,
+          3202
+        ],
+        [
+          339,
+          3202
+        ]
+      ],
+      "score": 0.9868935346603394,
+      "y_pos": 2650,
+      "text": "Gia giảm: Có co quắp, có thể gia Địa long, Câu đằng, An cung ngưu hoàng hoàn, Tử\ntuyết đan, Chí bảo đan, đều có tác dụng thanh tâm, khai khiếu. Tác dụng thanh tâm của\nNgưu hoàng hoàn là rất mạnh, sau đó đến <i>Tử tuyết đan, Chí bảo đan</i> rất yếu. Tác dụng\nkhai khiếu thì <i>Chí bảo đan</i> rất mạnh, sau đó đến <i>Ngưu hoàng hoàn, Tử quyết đan</i>. Ngoài\nra, cái lớn nhất của <i>An cung Ngưu hoàng hoàn</i> là hóa đau giải độc. <i>Tử quyết đan</i> lại có\nthể chặn có giật dẹp phong. Nhưng những thuốc đó rất quý, tình trạng chung là không thể\ndùng được (quá đắt), mà thường thay bằng cách trong thang thuốc thanh nhiệt liệu chừng\nthêm <i>Thạch xương b</i>ồ, kèm phối hợp châm chích (biện pháp đỡ tốn kém nhất).",
+      "confidence": 0.9812206589621426
+    },
+    {
+      "type": "footer",
+      "img_path": "p0341_015_footer.png",
+      "bbox": [
+        [
+          229,
+          3338
+        ],
+        [
+          1344,
+          3338
+        ],
+        [
+          1344,
+          3386
+        ],
+        [
+          229,
+          3386
+        ]
+      ],
+      "score": 0.9011130332946777,
+      "y_pos": 3338,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.998437467611061
+    },
+    {
+      "type": "number",
+      "img_path": "p0341_017_number.png",
+      "bbox": [
+        [
+          2321,
+          3340
+        ],
+        [
+          2346,
+          3340
+        ],
+        [
+          2346,
+          3373
+        ],
+        [
+          2321,
+          3373
+        ]
+      ],
+      "score": 0.8203629851341248,
+      "y_pos": 3340,
+      "text": "        \n    \n    \n\n\n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0341.png"
+}

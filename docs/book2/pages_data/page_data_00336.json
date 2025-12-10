@@ -1,0 +1,552 @@
+{
+  "page_num": 336,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0336_012_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          196
+        ],
+        [
+          1678,
+          196
+        ]
+      ],
+      "score": 0.9217078685760498,
+      "y_pos": 142,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7456070706248283
+    },
+    {
+      "type": "header",
+      "img_path": "p0336_013_header.png",
+      "bbox": [
+        [
+          229,
+          152
+        ],
+        [
+          1055,
+          152
+        ],
+        [
+          1055,
+          198
+        ],
+        [
+          229,
+          198
+        ]
+      ],
+      "score": 0.9167593121528625,
+      "y_pos": 152,
+      "text": "ÔN NHIỆT KINH BIÊN CHỨNG LUÂN TRI",
+      "confidence": 0.9413397720881871
+    },
+    {
+      "type": "text",
+      "img_path": "p0336_004_text.png",
+      "bbox": [
+        [
+          400,
+          307
+        ],
+        [
+          2356,
+          307
+        ],
+        [
+          2356,
+          425
+        ],
+        [
+          400,
+          425
+        ]
+      ],
+      "score": 0.9647050499916077,
+      "y_pos": 307,
+      "text": "- Đau họng sưng cổ, trước và sau tai sưng là kiêm ôn độc, dùng Mã bột, Huyền sâm,\nBản lam căn.",
+      "confidence": 0.977819965392505
+    },
+    {
+      "type": "text",
+      "img_path": "p0336_011_text.png",
+      "bbox": [
+        [
+          401,
+          468
+        ],
+        [
+          1950,
+          468
+        ],
+        [
+          1950,
+          522
+        ],
+        [
+          401,
+          522
+        ]
+      ],
+      "score": 0.9256567358970642,
+      "y_pos": 468,
+      "text": "- Ngực cách tức, buồn bằn là có nội thấp, gia Hoắc hương, Uất kim.",
+      "confidence": 0.9668514614596087
+    },
+    {
+      "type": "text",
+      "img_path": "p0336_005_text.png",
+      "bbox": [
+        [
+          402,
+          561
+        ],
+        [
+          2355,
+          561
+        ],
+        [
+          2355,
+          683
+        ],
+        [
+          402,
+          683
+        ]
+      ],
+      "score": 0.9643993377685547,
+      "y_pos": 561,
+      "text": "- Nếu thấy có nốt ban đỏ ở da, phát sốt cao, thì bỏ Kinh giới, Đạm đậu xị, Bạc hà\nthêm Sinh địa, Đại thanh diệp.",
+      "confidence": 0.9985761386061828
+    },
+    {
+      "type": "text",
+      "img_path": "p0336_002_text.png",
+      "bbox": [
+        [
+          339,
+          722
+        ],
+        [
+          2358,
+          722
+        ],
+        [
+          2358,
+          919
+        ],
+        [
+          339,
+          919
+        ]
+      ],
+      "score": 0.9773187041282654,
+      "y_pos": 722,
+      "text": "Thời kỳ đầu các bệnh cảm cúm, cảm mạo, viêm kết mạc cấp, viêm a-mi-đan cấp tính,\nviêm phế quản cấp tính, viêm quai bị do dịch, viêm màng não cấp, biểu hiện có phong ôn\nbiểu chứng, có thể theo phép này mà chữa.",
+      "confidence": 0.9916471576512769
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0336_014_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          958
+        ],
+        [
+          881,
+          958
+        ],
+        [
+          881,
+          1007
+        ],
+        [
+          344,
+          1007
+        ]
+      ],
+      "score": 0.9143553972244263,
+      "y_pos": 958,
+      "text": "b. Thử ôn biểu chứng",
+      "confidence": 0.9409771913831885
+    },
+    {
+      "type": "text",
+      "img_path": "p0336_006_text.png",
+      "bbox": [
+        [
+          339,
+          1047
+        ],
+        [
+          2357,
+          1047
+        ],
+        [
+          2357,
+          1172
+        ],
+        [
+          339,
+          1172
+        ]
+      ],
+      "score": 0.9636054039001465,
+      "y_pos": 1047,
+      "text": "Chủ chứng: Có đặc trưng của bệnh ở phần vệ, nặng mình khó chịu ở bụng trên, không\ncó hoặc có ít mồ hôi, rêu lưỡi trắng trơn, chất lưỡi hồng, mạch nhu, sác.",
+      "confidence": 0.9935208162437961
+    },
+    {
+      "type": "text",
+      "img_path": "p0336_000_text.png",
+      "bbox": [
+        [
+          338,
+          1210
+        ],
+        [
+          2358,
+          1210
+        ],
+        [
+          2358,
+          1546
+        ],
+        [
+          338,
+          1546
+        ]
+      ],
+      "score": 0.9851373434066772,
+      "y_pos": 1210,
+      "text": "Bệnh lý: Chứng này thường phát sinh vào mùa hạ, ngày hạ nóng nực, bị say nắng, khi\nuống nước mát lạnh, ngồi đón gió mát, làm cho cái nóng bị hàn thấp lấn át mà thành\nbệnh. Hàn uất ở cơ biểu thì sợ lạnh, không có mồ hôi; thử là hoả tả, làm phát sốt mà\nmạch nhanh (sác); thử thương tân dịch, chất lưỡi hơi hồng, thử hay kiêm thấp, làm nặng\nmình, đau bung trên, mạch nhu.",
+      "confidence": 0.9978830365772939
+    },
+    {
+      "type": "text",
+      "img_path": "p0336_018_text.png",
+      "bbox": [
+        [
+          340,
+          1584
+        ],
+        [
+          1941,
+          1584
+        ],
+        [
+          1941,
+          1638
+        ],
+        [
+          340,
+          1638
+        ]
+      ],
+      "score": 0.8628038763999939,
+      "y_pos": 1584,
+      "text": "Phép chữa: Giải biểu, thanh thử, thường dùng <i>Tân gia hương nhu ẩm</i>.",
+      "confidence": 0.6806609962667738
+    },
+    {
+      "type": "text",
+      "img_path": "p0336_009_text.png",
+      "bbox": [
+        [
+          340,
+          1677
+        ],
+        [
+          2357,
+          1677
+        ],
+        [
+          2357,
+          1800
+        ],
+        [
+          340,
+          1800
+        ]
+      ],
+      "score": 0.9619123935699463,
+      "y_pos": 1677,
+      "text": "Thời kỳ đầu các bệnh cảm cúm, cảm mạo, viêm não Nhật bản có biểu hiện của chứng\nnày, theo phép này mà chữa.",
+      "confidence": 0.9954827209643579
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0336_016_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1839
+        ],
+        [
+          903,
+          1839
+        ],
+        [
+          903,
+          1892
+        ],
+        [
+          344,
+          1892
+        ]
+      ],
+      "score": 0.9052742719650269,
+      "y_pos": 1839,
+      "text": "c. Thấp ôn biểu chứng",
+      "confidence": 0.9863385532213294
+    },
+    {
+      "type": "text",
+      "img_path": "p0336_007_text.png",
+      "bbox": [
+        [
+          339,
+          1930
+        ],
+        [
+          2358,
+          1930
+        ],
+        [
+          2358,
+          2055
+        ],
+        [
+          339,
+          2055
+        ]
+      ],
+      "score": 0.962816059589386,
+      "y_pos": 1930,
+      "text": "Chủ chứng: Có đặc trưng của bệnh phần vệ, kiêm có thấy đầu trướng nặng, chân tay\nnặng nề, khớp xương đau buốt, rêu lưỡi trắng trơn, mạch hoãn.",
+      "confidence": 0.9773297215726455
+    },
+    {
+      "type": "text",
+      "img_path": "p0336_003_text.png",
+      "bbox": [
+        [
+          339,
+          2093
+        ],
+        [
+          2359,
+          2093
+        ],
+        [
+          2359,
+          2287
+        ],
+        [
+          339,
+          2287
+        ]
+      ],
+      "score": 0.977167546749115,
+      "y_pos": 2093,
+      "text": "Bệnh lý: Chứng này thường phát về mùa mưa, do thấp nhiệt tà xâm phạm phần vệ mà\nthành bệnh, tính của thấp là nặng, dính trệ, cho nên thấy đầu trướng, mình mẩy nặng nề,\nrêu lưỡi trắng trơn.",
+      "confidence": 0.9976861851073012
+    },
+    {
+      "type": "text",
+      "img_path": "p0336_020_text.png",
+      "bbox": [
+        [
+          339,
+          2325
+        ],
+        [
+          2317,
+          2325
+        ],
+        [
+          2317,
+          2380
+        ],
+        [
+          339,
+          2380
+        ]
+      ],
+      "score": 0.7915179133415222,
+      "y_pos": 2325,
+      "text": "Phép chữa: Giải biểu hoá thấp, thường dùng Tam nhân thang gia Hoắc hương, Bội lan.",
+      "confidence": 0.9933528431824276
+    },
+    {
+      "type": "text",
+      "img_path": "p0336_010_text.png",
+      "bbox": [
+        [
+          340,
+          2417
+        ],
+        [
+          2359,
+          2417
+        ],
+        [
+          2359,
+          2614
+        ],
+        [
+          340,
+          2614
+        ]
+      ],
+      "score": 0.9537588953971863,
+      "y_pos": 2417,
+      "text": "Thời kỳ đầu của các bệnh thương hàn ruột, viêm gan lây lan, bệnh xoắn trùng vùng da,\nviêm nhiễm hệ tiết niệu, cảm cúm, cảm mạo, có biểu hiện thấp ôn biểu chứng, có thể theo\nphép này biện chứng trị liệu.",
+      "confidence": 0.9983369523679387
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0336_015_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          2651
+        ],
+        [
+          891,
+          2651
+        ],
+        [
+          891,
+          2703
+        ],
+        [
+          344,
+          2703
+        ]
+      ],
+      "score": 0.9073553085327148,
+      "y_pos": 2651,
+      "text": "d. Thu táo biểu chứng",
+      "confidence": 0.9917862778124602
+    },
+    {
+      "type": "text",
+      "img_path": "p0336_008_text.png",
+      "bbox": [
+        [
+          339,
+          2742
+        ],
+        [
+          2357,
+          2742
+        ],
+        [
+          2357,
+          2867
+        ],
+        [
+          339,
+          2867
+        ]
+      ],
+      "score": 0.9623876810073853,
+      "y_pos": 2742,
+      "text": "Chủ chứng: Có đặc trưng của bệnh ở phần vệ, kiêm có ho khan, miệng khô, họng khô,\nmũi khô, rêu lưỡi trắng mỏng mà khô, mạch phù mà tế.",
+      "confidence": 0.9986518245424771
+    },
+    {
+      "type": "text",
+      "img_path": "p0336_001_text.png",
+      "bbox": [
+        [
+          338,
+          2905
+        ],
+        [
+          2359,
+          2905
+        ],
+        [
+          2359,
+          3174
+        ],
+        [
+          338,
+          3174
+        ]
+      ],
+      "score": 0.9801059365272522,
+      "y_pos": 2905,
+      "text": "Bệnh lý: Chứng này thường phát ở mùa thu, do táo tà xâm nhập vào phế vệ mà phát\nbệnh. Táo tà rất dễ thương phế, thương tân, cho nên thấy ho khan, miệng khô, họng khô,\nmũi khô. Thu táo trong đó thấy sợ lạnh rất nặng, mạch phù mà khẩn, thì gọi là “lương táo”;\nphát sốt rất nặng, miệng khát, mạch phù mà sác, gọi là “ôn táo”.",
+      "confidence": 0.9993282757458263
+    },
+    {
+      "type": "footer",
+      "img_path": "p0336_017_footer.png",
+      "bbox": [
+        [
+          228,
+          3337
+        ],
+        [
+          1343,
+          3337
+        ],
+        [
+          1343,
+          3385
+        ],
+        [
+          228,
+          3385
+        ]
+      ],
+      "score": 0.9021889567375183,
+      "y_pos": 3337,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9422505610394027
+    },
+    {
+      "type": "number",
+      "img_path": "p0336_019_number.png",
+      "bbox": [
+        [
+          2320,
+          3340
+        ],
+        [
+          2346,
+          3340
+        ],
+        [
+          2346,
+          3373
+        ],
+        [
+          2320,
+          3373
+        ]
+      ],
+      "score": 0.8184741735458374,
+      "y_pos": 3340,
+      "text": "        \n    \n    \n\n\n\n\n\n\n\n    \n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0336.png"
+}

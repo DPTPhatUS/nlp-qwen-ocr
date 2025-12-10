@@ -1,0 +1,864 @@
+{
+  "page_num": 272,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0272_001_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9442972540855408,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7643314777385621
+    },
+    {
+      "type": "header",
+      "img_path": "p0272_008_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.923716127872467,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0272_024_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          353
+        ],
+        [
+          646,
+          353
+        ],
+        [
+          646,
+          399
+        ],
+        [
+          226,
+          399
+        ]
+      ],
+      "score": 0.9021892547607422,
+      "y_pos": 353,
+      "text": "D. Huyệt ở chi trên",
+      "confidence": 0.927118840671721
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0272_025_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          441
+        ],
+        [
+          664,
+          441
+        ],
+        [
+          664,
+          490
+        ],
+        [
+          226,
+          490
+        ]
+      ],
+      "score": 0.9020665287971497,
+      "y_pos": 441,
+      "text": "320. Thập nhi tỉnh",
+      "confidence": 0.9900953054428101
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_000_text.png",
+      "bbox": [
+        [
+          284,
+          531
+        ],
+        [
+          2357,
+          531
+        ],
+        [
+          2357,
+          654
+        ],
+        [
+          284,
+          654
+        ]
+      ],
+      "score": 0.9642781019210815,
+      "y_pos": 531,
+      "text": "Vị trí: Là các huyệt: Thiếu thương, Thương dương, Trung xung, Quan xung, Thiếu xung,\nThiếu trạch cả hai bên cộng là 12 huyệt.",
+      "confidence": 0.9954261752144575
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_007_text.png",
+      "bbox": [
+        [
+          287,
+          696
+        ],
+        [
+          947,
+          696
+        ],
+        [
+          947,
+          742
+        ],
+        [
+          287,
+          742
+        ]
+      ],
+      "score": 0.9237444996833801,
+      "y_pos": 696,
+      "text": "<b>Cách châm:</b> Chích năn máu.",
+      "confidence": 0.968138475870264
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_013_text.png",
+      "bbox": [
+        [
+          285,
+          786
+        ],
+        [
+          1907,
+          786
+        ],
+        [
+          1907,
+          840
+        ],
+        [
+          285,
+          840
+        ]
+      ],
+      "score": 0.9212570190429688,
+      "y_pos": 786,
+      "text": "Chủ trị: Cấp cứu hôn mê, sốt cao co giật (trẻ em, nên xử trí theo Tây y).",
+      "confidence": 0.7145450727144878
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0272_020_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          878
+        ],
+        [
+          644,
+          878
+        ],
+        [
+          644,
+          930
+        ],
+        [
+          227,
+          930
+        ]
+      ],
+      "score": 0.9097835421562195,
+      "y_pos": 878,
+      "text": "321. Thập vương",
+      "confidence": 0.9136531388058382
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_003_text.png",
+      "bbox": [
+        [
+          288,
+          969
+        ],
+        [
+          2107,
+          969
+        ],
+        [
+          2107,
+          1023
+        ],
+        [
+          288,
+          1023
+        ]
+      ],
+      "score": 0.9295800924301147,
+      "y_pos": 969,
+      "text": "Vị trí: Chính giữa phía sau gốc móng 10 ngón tay, cách khoảng 0,1 thốn. (H.135)",
+      "confidence": 0.4100042353441686
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_014_text.png",
+      "bbox": [
+        [
+          288,
+          1063
+        ],
+        [
+          948,
+          1063
+        ],
+        [
+          948,
+          1111
+        ],
+        [
+          288,
+          1111
+        ]
+      ],
+      "score": 0.9206629991531372,
+      "y_pos": 1063,
+      "text": "<b>Cách châm:</b> Chích năn máu.",
+      "confidence": 0.9657559189303168
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_011_text.png",
+      "bbox": [
+        [
+          285,
+          1152
+        ],
+        [
+          1983,
+          1152
+        ],
+        [
+          1983,
+          1206
+        ],
+        [
+          285,
+          1206
+        ]
+      ],
+      "score": 0.9231591820716858,
+      "y_pos": 1152,
+      "text": "Chủ trị: Say nắng, viêm ruột cấp tính, trẻ em co giật (nên xử trí theo Tây y).",
+      "confidence": 0.44061976075172427
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0272_023_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1245
+        ],
+        [
+          677,
+          1245
+        ],
+        [
+          677,
+          1296
+        ],
+        [
+          227,
+          1296
+        ]
+      ],
+      "score": 0.9074451327323914,
+      "y_pos": 1245,
+      "text": "322. Thương bạch",
+      "confidence": 0.9935508105489943
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_015_text.png",
+      "bbox": [
+        [
+          289,
+          1335
+        ],
+        [
+          1623,
+          1335
+        ],
+        [
+          1623,
+          1390
+        ],
+        [
+          289,
+          1390
+        ]
+      ],
+      "score": 0.9195155501365662,
+      "y_pos": 1335,
+      "text": "Vị trí: Là hai huyệt <i>Thiếu thương</i> và <i>Ấn bạch</i>. (H.135, H.60)",
+      "confidence": 0.9327070369170263
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_030_text.png",
+      "bbox": [
+        [
+          283,
+          1427
+        ],
+        [
+          2360,
+          1427
+        ],
+        [
+          2360,
+          1552
+        ],
+        [
+          283,
+          1552
+        ]
+      ],
+      "score": 0.7962549328804016,
+      "y_pos": 1427,
+      "text": "Cách châm: Dùng dây buộc 2 ngón tay cái và 2 ngón chân cái lại, đặt mồi ngải lớn, trùm cả\nlên thịt của chỗ hai bên ngón sát nhau, đốt lửa đồng thời cả trên và dưới, mỗi nơi cứu 3 mồi.",
+      "confidence": 0.9982901005196116
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_032_text.png",
+      "bbox": [
+        [
+          283,
+          1587
+        ],
+        [
+          1515,
+          1587
+        ],
+        [
+          1515,
+          1643
+        ],
+        [
+          283,
+          1643
+        ]
+      ],
+      "score": 0.7726519703865051,
+      "y_pos": 1587,
+      "text": "Huyệt trên tay gọi là <i>Quỉ khốc</i>, ở chân gọi là <i>Thần sầu</i>.",
+      "confidence": 0.9907353178399508
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_021_text.png",
+      "bbox": [
+        [
+          286,
+          1682
+        ],
+        [
+          1074,
+          1682
+        ],
+        [
+          1074,
+          1735
+        ],
+        [
+          286,
+          1735
+        ]
+      ],
+      "score": 0.9091820120811462,
+      "y_pos": 1682,
+      "text": "Chủ trị: Bệnh tinh thần, động kinh.",
+      "confidence": 0.6375169093544418
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0272_026_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1775
+        ],
+        [
+          648,
+          1775
+        ],
+        [
+          648,
+          1826
+        ],
+        [
+          227,
+          1826
+        ]
+      ],
+      "score": 0.9005337357521057,
+      "y_pos": 1775,
+      "text": "323. Tam thương",
+      "confidence": 0.8988683258785921
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_031_text.png",
+      "bbox": [
+        [
+          291,
+          1865
+        ],
+        [
+          766,
+          1865
+        ],
+        [
+          766,
+          1918
+        ],
+        [
+          291,
+          1918
+        ]
+      ],
+      "score": 0.7961024045944214,
+      "y_pos": 1865,
+      "text": "Vị trí: Gồm 3 thương",
+      "confidence": 0.8113282918930054
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_019_text.png",
+      "bbox": [
+        [
+          283,
+          1956
+        ],
+        [
+          1987,
+          1956
+        ],
+        [
+          1987,
+          2013
+        ],
+        [
+          283,
+          2013
+        ]
+      ],
+      "score": 0.9101915955543518,
+      "y_pos": 1956,
+      "text": "Lão thương: Ở cạnh ngoài gốc móng ngón cái 0,1 thốn (phía giáp ngón trỏ).",
+      "confidence": 0.9991362531979878
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_017_text.png",
+      "bbox": [
+        [
+          283,
+          2049
+        ],
+        [
+          1643,
+          2049
+        ],
+        [
+          1643,
+          2103
+        ],
+        [
+          283,
+          2103
+        ]
+      ],
+      "score": 0.9155385494232178,
+      "y_pos": 2049,
+      "text": "Trung thương: Ở chính giữa sau gốc móng ngón cái 1 phân.",
+      "confidence": 0.9995206923320376
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_006_text.png",
+      "bbox": [
+        [
+          284,
+          2140
+        ],
+        [
+          1140,
+          2140
+        ],
+        [
+          1140,
+          2190
+        ],
+        [
+          284,
+          2190
+        ]
+      ],
+      "score": 0.9249202609062195,
+      "y_pos": 2140,
+      "text": "Thiếu thương: Là tỉnh huyệt <i>Phế kinh</i>.",
+      "confidence": 0.994181496341054
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_002_text.png",
+      "bbox": [
+        [
+          287,
+          2234
+        ],
+        [
+          947,
+          2234
+        ],
+        [
+          947,
+          2281
+        ],
+        [
+          287,
+          2281
+        ]
+      ],
+      "score": 0.9313183426856995,
+      "y_pos": 2234,
+      "text": "<b>Cách châm:</b> Chích năn máu.",
+      "confidence": 0.9673301813931301
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_010_text.png",
+      "bbox": [
+        [
+          287,
+          2324
+        ],
+        [
+          1514,
+          2324
+        ],
+        [
+          1514,
+          2376
+        ],
+        [
+          287,
+          2376
+        ]
+      ],
+      "score": 0.9233872890472412,
+      "y_pos": 2324,
+      "text": "Chủ trị: Cảm mạo, cúm, viêm amidan, sốt cao, quai bị.",
+      "confidence": 0.4052609692920338
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0272_022_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          2415
+        ],
+        [
+          606,
+          2415
+        ],
+        [
+          606,
+          2462
+        ],
+        [
+          228,
+          2462
+        ]
+      ],
+      "score": 0.9090721607208252,
+      "y_pos": 2415,
+      "text": "324. Minh nhỡn",
+      "confidence": 0.868350449949503
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_012_text.png",
+      "bbox": [
+        [
+          288,
+          2506
+        ],
+        [
+          1860,
+          2506
+        ],
+        [
+          1860,
+          2562
+        ],
+        [
+          288,
+          2562
+        ]
+      ],
+      "score": 0.9214208722114563,
+      "y_pos": 2506,
+      "text": "Vị trí: Ở cạnh trụ khớp đốt giữa ngón cái (phía giáp ngón trỏ). (H.135)",
+      "confidence": 0.9932484855390575
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_004_text.png",
+      "bbox": [
+        [
+          287,
+          2599
+        ],
+        [
+          1150,
+          2599
+        ],
+        [
+          1150,
+          2648
+        ],
+        [
+          287,
+          2648
+        ]
+      ],
+      "score": 0.9271952509880066,
+      "y_pos": 2599,
+      "text": "<b>Cách châm:</b> Châm nông 0,1-0,2 thôn.",
+      "confidence": 0.9671092903927753
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_027_text.png",
+      "bbox": [
+        [
+          284,
+          2691
+        ],
+        [
+          1958,
+          2691
+        ],
+        [
+          1958,
+          2744
+        ],
+        [
+          284,
+          2744
+        ]
+      ],
+      "score": 0.9005164504051208,
+      "y_pos": 2691,
+      "text": "Chủ trị: Quáng gà, viêm kết mạc, viêm amiđan, bệnh đường ruột ở trẻ em.",
+      "confidence": 0.610279088967467
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0272_029_paragraph_title.png",
+      "bbox": [
+        [
+          228,
+          2782
+        ],
+        [
+          682,
+          2782
+        ],
+        [
+          682,
+          2835
+        ],
+        [
+          228,
+          2835
+        ]
+      ],
+      "score": 0.8885775208473206,
+      "y_pos": 2782,
+      "text": "325. Đại cốt không",
+      "confidence": 0.9429619610309601
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_018_text.png",
+      "bbox": [
+        [
+          289,
+          2872
+        ],
+        [
+          1708,
+          2872
+        ],
+        [
+          1708,
+          2929
+        ],
+        [
+          289,
+          2929
+        ]
+      ],
+      "score": 0.9145878553390503,
+      "y_pos": 2872,
+      "text": "Vị trí: Ở mu bàn tay chỗ giữa đỉnh khớp giữa ngón cái. (H.135)",
+      "confidence": 0.991379045881331
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_009_text.png",
+      "bbox": [
+        [
+          287,
+          2965
+        ],
+        [
+          884,
+          2965
+        ],
+        [
+          884,
+          3012
+        ],
+        [
+          287,
+          3012
+        ]
+      ],
+      "score": 0.9236779808998108,
+      "y_pos": 2965,
+      "text": "Cách châm: Cứu 1-3 mồi.",
+      "confidence": 0.7095176529884338
+    },
+    {
+      "type": "text",
+      "img_path": "p0272_005_text.png",
+      "bbox": [
+        [
+          288,
+          3057
+        ],
+        [
+          866,
+          3057
+        ],
+        [
+          866,
+          3108
+        ],
+        [
+          288,
+          3108
+        ]
+      ],
+      "score": 0.9258196353912354,
+      "y_pos": 3057,
+      "text": "Chủ tri: Bênh mắt, thổ tả.",
+      "confidence": 0.8374687603541783
+    },
+    {
+      "type": "footer",
+      "img_path": "p0272_016_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1433,
+          3334
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.917910099029541,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0272_028_number.png",
+      "bbox": [
+        [
+          2279,
+          3338
+        ],
+        [
+          2350,
+          3338
+        ],
+        [
+          2350,
+          3377
+        ],
+        [
+          2279,
+          3377
+        ]
+      ],
+      "score": 0.897422730922699,
+      "y_pos": 3338,
+      "text": "    \n    \n\n\n\n\n\n\n    \n\n    \n    \n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0272.png"
+}

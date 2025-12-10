@@ -1,0 +1,162 @@
+{
+  "page_num": 43,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0043_001_header.png",
+      "bbox": [
+        [
+          1608,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1608,
+          202
+        ]
+      ],
+      "score": 0.9169619083404541,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7639200864803224
+    },
+    {
+      "type": "header",
+      "img_path": "p0043_003_header.png",
+      "bbox": [
+        [
+          230,
+          156
+        ],
+        [
+          765,
+          156
+        ],
+        [
+          765,
+          201
+        ],
+        [
+          230,
+          201
+        ]
+      ],
+      "score": 0.9071919322013855,
+      "y_pos": 156,
+      "text": "BÁT CƯƠNG BIÊN CHỨNG",
+      "confidence": 0.984228483655236
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0043_002_figure_title.png",
+      "bbox": [
+        [
+          826,
+          307
+        ],
+        [
+          1763,
+          307
+        ],
+        [
+          1763,
+          366
+        ],
+        [
+          826,
+          366
+        ]
+      ],
+      "score": 0.9072549343109131,
+      "y_pos": 307,
+      "text": "Bảng 1 - Bát cương biện chứng yếu điểm",
+      "confidence": 0.9912838652729988
+    },
+    {
+      "type": "table",
+      "img_path": "p0043_000_table.png",
+      "bbox": [
+        [
+          231,
+          487
+        ],
+        [
+          2373,
+          487
+        ],
+        [
+          2373,
+          2894
+        ],
+        [
+          231,
+          2894
+        ]
+      ],
+      "score": 0.9923220276832581,
+      "y_pos": 487,
+      "text": "Bát\nBiểu hiện chủ yếu    Tượng lưỡi    Tượng mạch    Trị pháp    Bị chú\ncương\nBiểu\nPhát sốt; sợ gió    Rêu trắng mỏng |Phù    Giải biếu\nchứng\nKhông có biểu chứng,\ncó chứng trạng bệnh    Tuỳ tạng, phủ\nchứng    Lý    biến tạng phủ, biểu hiện Có biến hóa    đó tuỳ hàn, nhiệt, hư    Không phù    thực khác nhau    hàn, nhiệt, hư\nthực khác nhau mà    mà dẫn\ndẫn.\nSợ lạnh, chân tay lạnh,\nmiệng nhạt không khát,\nHàn    Chất nhạt, rêu\nưa uống nước nóng,\ntrắng nhuận,    Trì hoặc khẩn    Khử hàn\nchứng    nước tiểu trong mà dài,\nhoặc đen ẩm\nđại tiện lỏng nhão, sắc\nmặt trắng bủng.\nSợ nóng, phát sốt cao,\nNhiệt    miệng khát ưa uống    Chất hồng, rêu\nlạnh, vật vã, tiểu tiện    vàng, khô hoặc    Sác    Thanh nhiệt\nchứng\nngắn, đỏ, đại tiện bí kết, vàng đen khô\nsắc mặt hồng.\nThân thể hư yếu, có    Tiến lên\ncác loại biểu hiện: Sắc    chia rõ khí\nHư    mặt trắng nhợt, tinh    Chất nhạt non, ít    hư, huyết\nthần ủy mị, hoặc mệt    rêu hoặc không    |Vô lực (hư)    Bổ ích    hư, âm hư,\nchứng\nkhông có sức, tim thổn    rêu    dương hư,\nthức, ngắn hơi, tụe ra    tạng phủ\nmồ hôi, mồ hôi trộm    hư.\nCơ thể phản ứng mạnh,\ntinh thần cang tiến,\ntiếng cao, khí thô, hoặc\nThực    Chất thô, rêu    Công trục, tiêu\nchứng    sốt cao mặt đỏ, hoặc    Hữu lực (thực)\ndầy    tán, tả hạ\nkhông sốt, mặt xanh,\nhoặc bụng rất đau sợ\nsờ nắn\nSắc mặt ảm đạm, thân\nAm    mệt, chi lạnh, ngắn hơi, Chất nhạt, rêu    Trầm, trì, tế,    Ôn bổ\nchứng lười nói, nước tiểu    trăng, nhuận    nhược\ntrong, phân nát\nMặt đỏ mình nóng, thần\n<b>Dương</b> phiền khí thô, miệng    Chất hồng rêu    Hồng, đại, hoạt,    Thanh nhiệt, tả\n<b>chứng</b> khát ưa uống mát,    vàng, dây    sác    hạ\nnước tiếu đỏ, bí đại tiện",
+      "confidence": 0.952510656456493
+    },
+    {
+      "type": "footer",
+      "img_path": "p0043_004_footer.png",
+      "bbox": [
+        [
+          229,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          229,
+          3387
+        ]
+      ],
+      "score": 0.9006242752075195,
+      "y_pos": 3333,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982995638307536
+    },
+    {
+      "type": "number",
+      "img_path": "p0043_005_number.png",
+      "bbox": [
+        [
+          2335,
+          3337
+        ],
+        [
+          2383,
+          3337
+        ],
+        [
+          2383,
+          3374
+        ],
+        [
+          2335,
+          3374
+        ]
+      ],
+      "score": 0.8538274765014648,
+      "y_pos": 3337,
+      "text": "    \n\n    \n\n\n\n\n\n    \n\n\n\n\n\n٠.\n",
+      "confidence": 0.972583784084571
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0043.png"
+}

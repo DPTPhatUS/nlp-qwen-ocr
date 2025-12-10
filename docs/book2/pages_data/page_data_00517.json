@@ -1,0 +1,812 @@
+{
+  "page_num": 517,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0517_001_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2371,
+          144
+        ],
+        [
+          2371,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9191246628761292,
+      "y_pos": 144,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7566693045553707
+    },
+    {
+      "type": "header",
+      "img_path": "p0517_000_header.png",
+      "bbox": [
+        [
+          228,
+          152
+        ],
+        [
+          1471,
+          152
+        ],
+        [
+          1471,
+          199
+        ],
+        [
+          228,
+          199
+        ]
+      ],
+      "score": 0.923128604888916,
+      "y_pos": 152,
+      "text": "CÁC PHƯƠNG HUYỆT CHỮA TRI BÊNH CỦA 14 ĐƯỜNG KINH",
+      "confidence": 0.9977136671543121
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0517_019_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          327
+        ],
+        [
+          671,
+          327
+        ],
+        [
+          671,
+          383
+        ],
+        [
+          226,
+          383
+        ]
+      ],
+      "score": 0.6552839875221252,
+      "y_pos": 327,
+      "text": "Phần 7: BÊNH TAI",
+      "confidence": 0.7786569131745232
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_029_reference_content.png",
+      "bbox": [
+        [
+          231,
+          418
+        ],
+        [
+          986,
+          418
+        ],
+        [
+          986,
+          480
+        ],
+        [
+          231,
+          480
+        ]
+      ],
+      "score": 0.5208638310432434,
+      "y_pos": 418,
+      "text": "146. Tai điếc: Hội tông, É phong.",
+      "confidence": 0.9723455105509077
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_027_reference_content.png",
+      "bbox": [
+        [
+          234,
+          509
+        ],
+        [
+          1296,
+          509
+        ],
+        [
+          1296,
+          569
+        ],
+        [
+          234,
+          569
+        ]
+      ],
+      "score": 0.5729862451553345,
+      "y_pos": 509,
+      "text": "147. Tai điếc: Thính cung, Thiên dũ, Dịch môn.",
+      "confidence": 0.9883315376937389
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_026_reference_content.png",
+      "bbox": [
+        [
+          235,
+          601
+        ],
+        [
+          1052,
+          601
+        ],
+        [
+          1052,
+          663
+        ],
+        [
+          235,
+          663
+        ]
+      ],
+      "score": 0.5989810228347778,
+      "y_pos": 601,
+      "text": "148. Tai điếc: É phong, Thính cung.",
+      "confidence": 0.9818442367218636
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_024_reference_content.png",
+      "bbox": [
+        [
+          234,
+          692
+        ],
+        [
+          1851,
+          692
+        ],
+        [
+          1851,
+          754
+        ],
+        [
+          234,
+          754
+        ]
+      ],
+      "score": 0.6167051196098328,
+      "y_pos": 692,
+      "text": "149. Tai điếc: Nhĩ môn thấu Thính cung, Thính hội, É phong, Trung chử.",
+      "confidence": 0.9815439283847809
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_016_reference_content.png",
+      "bbox": [
+        [
+          236,
+          785
+        ],
+        [
+          1007,
+          785
+        ],
+        [
+          1007,
+          844
+        ],
+        [
+          236,
+          844
+        ]
+      ],
+      "score": 0.6753049492835999,
+      "y_pos": 785,
+      "text": "150. Tai điếc: Nhĩ môn, Thính hội.",
+      "confidence": 0.9927917818228403
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_007_reference_content.png",
+      "bbox": [
+        [
+          236,
+          877
+        ],
+        [
+          1009,
+          877
+        ],
+        [
+          1009,
+          937
+        ],
+        [
+          236,
+          937
+        ]
+      ],
+      "score": 0.6973940134048462,
+      "y_pos": 877,
+      "text": "151. Tai điếc: Thính hội, É phong.",
+      "confidence": 0.9827991988923814
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_004_reference_content.png",
+      "bbox": [
+        [
+          236,
+          969
+        ],
+        [
+          1243,
+          969
+        ],
+        [
+          1243,
+          1027
+        ],
+        [
+          236,
+          1027
+        ]
+      ],
+      "score": 0.7075568437576294,
+      "y_pos": 969,
+      "text": "152. Tai điếc: Thính hội, Thính mẫn, Trì tiền.",
+      "confidence": 0.9873699682454268
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_014_reference_content.png",
+      "bbox": [
+        [
+          235,
+          1061
+        ],
+        [
+          1025,
+          1061
+        ],
+        [
+          1025,
+          1120
+        ],
+        [
+          235,
+          1120
+        ]
+      ],
+      "score": 0.6805495619773865,
+      "y_pos": 1061,
+      "text": "153. Tai điếc: Thính hội, Phong trì.",
+      "confidence": 0.9872437166540247
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_006_reference_content.png",
+      "bbox": [
+        [
+          234,
+          1153
+        ],
+        [
+          1500,
+          1153
+        ],
+        [
+          1500,
+          1214
+        ],
+        [
+          234,
+          1214
+        ]
+      ],
+      "score": 0.7033133506774902,
+      "y_pos": 1153,
+      "text": "154. Tai điếc: Thính cung, Thính hội, É phong, Hội tông.",
+      "confidence": 0.9883331738669296
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_005_reference_content.png",
+      "bbox": [
+        [
+          235,
+          1245
+        ],
+        [
+          1078,
+          1245
+        ],
+        [
+          1078,
+          1305
+        ],
+        [
+          235,
+          1305
+        ]
+      ],
+      "score": 0.705303966999054,
+      "y_pos": 1245,
+      "text": "155. Tai điếc: Ngoại quan, Thính hội.",
+      "confidence": 0.9891757002243629
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_009_reference_content.png",
+      "bbox": [
+        [
+          236,
+          1335
+        ],
+        [
+          1395,
+          1335
+        ],
+        [
+          1395,
+          1396
+        ],
+        [
+          236,
+          1396
+        ]
+      ],
+      "score": 0.6900054216384888,
+      "y_pos": 1335,
+      "text": "156. Tai điếc, tai ù: Trung chử, Nhĩ môn, Thính hội.",
+      "confidence": 0.9972018169032203
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_017_reference_content.png",
+      "bbox": [
+        [
+          236,
+          1426
+        ],
+        [
+          1374,
+          1426
+        ],
+        [
+          1374,
+          1489
+        ],
+        [
+          236,
+          1489
+        ]
+      ],
+      "score": 0.6632748246192932,
+      "y_pos": 1426,
+      "text": "157. Tai điếc, tai ù: Trung chử, Nhĩ môn, É phong.",
+      "confidence": 0.9994894162966654
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_020_reference_content.png",
+      "bbox": [
+        [
+          236,
+          1518
+        ],
+        [
+          1752,
+          1518
+        ],
+        [
+          1752,
+          1581
+        ],
+        [
+          236,
+          1581
+        ]
+      ],
+      "score": 0.6550276875495911,
+      "y_pos": 1518,
+      "text": "158. Tai điếc, tai kêu: Y lung, Thính huyệt, Thính thông, É minh hạ.",
+      "confidence": 0.9902955438409533
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_018_reference_content.png",
+      "bbox": [
+        [
+          236,
+          1610
+        ],
+        [
+          1187,
+          1610
+        ],
+        [
+          1187,
+          1669
+        ],
+        [
+          236,
+          1669
+        ]
+      ],
+      "score": 0.6602727174758911,
+      "y_pos": 1610,
+      "text": "159. Tai điếc bạo phát: Tứ độc, Thiên dũ.",
+      "confidence": 0.9714216631512309
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_010_reference_content.png",
+      "bbox": [
+        [
+          236,
+          1702
+        ],
+        [
+          1307,
+          1702
+        ],
+        [
+          1307,
+          1763
+        ],
+        [
+          236,
+          1763
+        ]
+      ],
+      "score": 0.6894304752349854,
+      "y_pos": 1702,
+      "text": "160. Tai điếc, bí hơi: Nghinh hương, Thính hội.",
+      "confidence": 0.9995973535946437
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_015_reference_content.png",
+      "bbox": [
+        [
+          236,
+          1795
+        ],
+        [
+          1623,
+          1795
+        ],
+        [
+          1623,
+          1855
+        ],
+        [
+          236,
+          1855
+        ]
+      ],
+      "score": 0.6794825196266174,
+      "y_pos": 1795,
+      "text": "161. Tai kêu: É phong, Thính cung, Thính huyệt, Thính thông.",
+      "confidence": 0.9881620705127716
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_011_reference_content.png",
+      "bbox": [
+        [
+          235,
+          1887
+        ],
+        [
+          1588,
+          1887
+        ],
+        [
+          1588,
+          1945
+        ],
+        [
+          235,
+          1945
+        ]
+      ],
+      "score": 0.6879081130027771,
+      "y_pos": 1887,
+      "text": "162. Câm điếc: Y lung, Nhĩ môn thấu Thính cung, Thính hội.",
+      "confidence": 0.9666376729806264
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_013_reference_content.png",
+      "bbox": [
+        [
+          235,
+          1979
+        ],
+        [
+          1795,
+          1979
+        ],
+        [
+          1795,
+          2037
+        ],
+        [
+          235,
+          2037
+        ]
+      ],
+      "score": 0.6861528158187866,
+      "y_pos": 1979,
+      "text": "163. Câm điếc: Á môn, Nhĩ môn, Thính cung, Ngoại quan, Trung chử.",
+      "confidence": 0.9974009750494316
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_012_reference_content.png",
+      "bbox": [
+        [
+          234,
+          2071
+        ],
+        [
+          1308,
+          2071
+        ],
+        [
+          1308,
+          2129
+        ],
+        [
+          234,
+          2129
+        ]
+      ],
+      "score": 0.6862549781799316,
+      "y_pos": 2071,
+      "text": "164. Câm điếc: Nhĩ môn, Y lung, Túc ích thông.",
+      "confidence": 0.994094061354796
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_008_reference_content.png",
+      "bbox": [
+        [
+          235,
+          2160
+        ],
+        [
+          1647,
+          2160
+        ],
+        [
+          1647,
+          2222
+        ],
+        [
+          235,
+          2222
+        ]
+      ],
+      "score": 0.6970523595809937,
+      "y_pos": 2160,
+      "text": "165. Câm điếc: Thính cung, Thính hội, Trung chử, Ngoại quan.",
+      "confidence": 0.9978997303593543
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_022_reference_content.png",
+      "bbox": [
+        [
+          236,
+          2252
+        ],
+        [
+          1327,
+          2252
+        ],
+        [
+          1327,
+          2312
+        ],
+        [
+          236,
+          2312
+        ]
+      ],
+      "score": 0.6505514979362488,
+      "y_pos": 2252,
+      "text": "166. Viêm tai giữa: Nhĩ môn, Ê phong, Hợp cốc.",
+      "confidence": 0.99909940858682
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_023_reference_content.png",
+      "bbox": [
+        [
+          236,
+          2345
+        ],
+        [
+          1186,
+          2345
+        ],
+        [
+          1186,
+          2404
+        ],
+        [
+          236,
+          2404
+        ]
+      ],
+      "score": 0.6355390548706055,
+      "y_pos": 2345,
+      "text": "167. Viêm tai giữa: Hạ quan, Ngoại quan.",
+      "confidence": 0.9993129471937815
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_021_reference_content.png",
+      "bbox": [
+        [
+          236,
+          2435
+        ],
+        [
+          1392,
+          2435
+        ],
+        [
+          1392,
+          2495
+        ],
+        [
+          236,
+          2495
+        ]
+      ],
+      "score": 0.6507452130317688,
+      "y_pos": 2435,
+      "text": "168. Viêm tai giữa: Thính cung, Ê phong, Hợp cốc.",
+      "confidence": 0.9990076364255419
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_030_reference_content.png",
+      "bbox": [
+        [
+          235,
+          2527
+        ],
+        [
+          2218,
+          2527
+        ],
+        [
+          2218,
+          2589
+        ],
+        [
+          235,
+          2589
+        ]
+      ],
+      "score": 0.5149418711662292,
+      "y_pos": 2527,
+      "text": "169. Choáng váng do tai trong: É minh, Tứ độc, Phong trì, Á môn, Nội quan, Thái xung.",
+      "confidence": 0.9995456844910808
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_028_reference_content.png",
+      "bbox": [
+        [
+          236,
+          2620
+        ],
+        [
+          1524,
+          2620
+        ],
+        [
+          1524,
+          2679
+        ],
+        [
+          236,
+          2679
+        ]
+      ],
+      "score": 0.563750684261322,
+      "y_pos": 2620,
+      "text": "170. Câm bạo phát: Tam dương lạc, Chi câu, Thông cốc.",
+      "confidence": 0.9991887623613531
+    },
+    {
+      "type": "reference_content",
+      "img_path": "p0517_025_reference_content.png",
+      "bbox": [
+        [
+          234,
+          2712
+        ],
+        [
+          1529,
+          2712
+        ],
+        [
+          1529,
+          2769
+        ],
+        [
+          234,
+          2769
+        ]
+      ],
+      "score": 0.6007758975028992,
+      "y_pos": 2712,
+      "text": "171. Câm bạo phát không nói được: Ê phong, Thông lý.",
+      "confidence": 0.996895440198757
+    },
+    {
+      "type": "number",
+      "img_path": "p0517_003_number.png",
+      "bbox": [
+        [
+          2343,
+          3339
+        ],
+        [
+          2368,
+          3339
+        ],
+        [
+          2368,
+          3373
+        ],
+        [
+          2343,
+          3373
+        ]
+      ],
+      "score": 0.8288384079933167,
+      "y_pos": 3339,
+      "text": "\n    \n    \n    \n\n    \n\n\n\n\n\n\n\n    \n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0517_002_footer.png",
+      "bbox": [
+        [
+          228,
+          3341
+        ],
+        [
+          1324,
+          3341
+        ],
+        [
+          1324,
+          3389
+        ],
+        [
+          228,
+          3389
+        ]
+      ],
+      "score": 0.9167528748512268,
+      "y_pos": 3341,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9987223969315583
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0517.png"
+}

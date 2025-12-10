@@ -1,0 +1,526 @@
+{
+  "page_num": 316,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0316_006_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9340455532073975,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7254179112967991
+    },
+    {
+      "type": "header",
+      "img_path": "p0316_010_header.png",
+      "bbox": [
+        [
+          229,
+          155
+        ],
+        [
+          944,
+          155
+        ],
+        [
+          944,
+          204
+        ],
+        [
+          229,
+          204
+        ]
+      ],
+      "score": 0.9190136790275574,
+      "y_pos": 155,
+      "text": "TANG PHỦ BIÊN CHỨNG LUÂN TRI",
+      "confidence": 0.896377581357956
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0316_017_paragraph_title.png",
+      "bbox": [
+        [
+          223,
+          322
+        ],
+        [
+          446,
+          322
+        ],
+        [
+          446,
+          376
+        ],
+        [
+          223,
+          376
+        ]
+      ],
+      "score": 0.8694750070571899,
+      "y_pos": 322,
+      "text": "TY VA VI",
+      "confidence": 0.9523999273777009
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0316_016_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          422
+        ],
+        [
+          718,
+          422
+        ],
+        [
+          718,
+          473
+        ],
+        [
+          226,
+          473
+        ]
+      ],
+      "score": 0.8878231644630432,
+      "y_pos": 422,
+      "text": "A. Biện chứng luận trị",
+      "confidence": 0.9129007731874784
+    },
+    {
+      "type": "text",
+      "img_path": "p0316_009_text.png",
+      "bbox": [
+        [
+          280,
+          508
+        ],
+        [
+          2144,
+          508
+        ],
+        [
+          2144,
+          565
+        ],
+        [
+          280,
+          565
+        ]
+      ],
+      "score": 0.9240315556526184,
+      "y_pos": 508,
+      "text": "Công năng sinh lý của tỳ chủ yếu là vận hóa, thống huyết. Khi có biến hóa bệnh lý:",
+      "confidence": 0.9993797881262643
+    },
+    {
+      "type": "text",
+      "img_path": "p0316_008_text.png",
+      "bbox": [
+        [
+          342,
+          601
+        ],
+        [
+          1652,
+          601
+        ],
+        [
+          1652,
+          655
+        ],
+        [
+          342,
+          655
+        ]
+      ],
+      "score": 0.9284864068031311,
+      "y_pos": 601,
+      "text": "- Bệnh của tỳ phần lớn là thấp, là hư (dương hư là nhiều).",
+      "confidence": 0.9984550793965657
+    },
+    {
+      "type": "text",
+      "img_path": "p0316_007_text.png",
+      "bbox": [
+        [
+          342,
+          694
+        ],
+        [
+          2253,
+          694
+        ],
+        [
+          2253,
+          748
+        ],
+        [
+          342,
+          748
+        ]
+      ],
+      "score": 0.9335607290267944,
+      "y_pos": 694,
+      "text": "- Bệnh của vị phần lớn là nhiệt, thường là thực nhiệt (chứng hư hay gặp là vị âm hư).",
+      "confidence": 0.9958919930732113
+    },
+    {
+      "type": "text",
+      "img_path": "p0316_004_text.png",
+      "bbox": [
+        [
+          277,
+          785
+        ],
+        [
+          2359,
+          785
+        ],
+        [
+          2359,
+          971
+        ],
+        [
+          277,
+          971
+        ]
+      ],
+      "score": 0.9756237268447876,
+      "y_pos": 785,
+      "text": "Tỳ và vị là gốc của hậu thiên, tỳ, vị hư làm ảnh hưởng đến ngũ tạng, đặc biệt là tâm, thận,\nphế (phế tỳ lưỡng hư chứng sẽ giới thiệu ở phần luận trị về phế), chúng có quan hệ rất mật\nthiết.",
+      "confidence": 0.9889593592811378
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0316_011_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1017
+        ],
+        [
+          1410,
+          1017
+        ],
+        [
+          1410,
+          1071
+        ],
+        [
+          226,
+          1071
+        ]
+      ],
+      "score": 0.915123462677002,
+      "y_pos": 1017,
+      "text": "1. Tỳ dương hư (tỳ dương bất chấn, tỳ vị hư hàn)",
+      "confidence": 0.9754280424118043
+    },
+    {
+      "type": "text",
+      "img_path": "p0316_002_text.png",
+      "bbox": [
+        [
+          283,
+          1110
+        ],
+        [
+          2358,
+          1110
+        ],
+        [
+          2358,
+          1377
+        ],
+        [
+          283,
+          1377
+        ]
+      ],
+      "score": 0.9818431735038757,
+      "y_pos": 1110,
+      "text": "a. Triệu chứng: Mặt vàng bệch, vùng dạ dày hoặc bụng trướng đau, ưa chườm, nắn, miệng\nứa nước trong, ăn không ngọn, phân nát hoặc là lỏng kéo dài, biếng nhác, yếu đuối, tứ chi\nlạnh, nước tiểu nhiều mà trong, hoặc đái ít mà phù thũng, bắp thịt gầy mòn, lưỡi nhạt, rêu\ntrắng, nhuận, mạch hơi chậm hoặc yếu.",
+      "confidence": 0.977547570671202
+    },
+    {
+      "type": "text",
+      "img_path": "p0316_000_text.png",
+      "bbox": [
+        [
+          283,
+          1413
+        ],
+        [
+          2360,
+          1413
+        ],
+        [
+          2360,
+          1822
+        ],
+        [
+          283,
+          1822
+        ]
+      ],
+      "score": 0.985892117023468,
+      "y_pos": 1413,
+      "text": "b. Bệnh lý: Tỳ dương hư, hàn làm cho công năng vận hóa của tỳ vị giảm yếu, do đó mặt\nvàng bệch, ăn uống không biết ngon, phân nát, bụng trên trướng đau, thích chườm (thuộc\nhàn), ưa nắn bóp (thuộc hư). Tỳ chủ tứ chi, cơ bắp, tỳ dương bất túc làm cho chân tay\nlạnh, mệt mỏi uể oải, cơ bắp gầy mòn. Tỳ dương hư, thì công năng vận hóa thủy thấp\nkhông đủ sức làm việc cho nên nước tiểu trong mà nhiều hoặc ít mà phù thũng, lưỡi nhạt,\nchậm, rêu lưỡi trắng trơn, mạch hoặn hoặc nhược là chứng của dương hư.",
+      "confidence": 0.9950520518964954
+    },
+    {
+      "type": "text",
+      "img_path": "p0316_019_text.png",
+      "bbox": [
+        [
+          284,
+          1861
+        ],
+        [
+          2155,
+          1861
+        ],
+        [
+          2155,
+          1915
+        ],
+        [
+          284,
+          1915
+        ]
+      ],
+      "score": 0.8352599740028381,
+      "y_pos": 1861,
+      "text": "c. Phép chữa: Nên ôn trung kiện tỳ, thường dùng Quế phụ lý trung thang gia giảm.",
+      "confidence": 0.6415098832874764
+    },
+    {
+      "type": "text",
+      "img_path": "p0316_003_text.png",
+      "bbox": [
+        [
+          310,
+          1951
+        ],
+        [
+          2358,
+          1951
+        ],
+        [
+          2358,
+          2289
+        ],
+        [
+          310,
+          2289
+        ]
+      ],
+      "score": 0.9782278537750244,
+      "y_pos": 1951,
+      "text": "Bệnh chứng thần kinh dạ dày, viêm dạ dày mạn, loét tá tràng, công năng tiêu hóa rối loạn,\nviêm ruột mạn tính, ly mạn tính, phù do suy dinh dưỡng đều là tỳ dương hư, có thể dùng\nQuế phụ lý trung thang gia giảm mà chữa. Như loét tá tràng thêm Phật thủ, Ngõa lăng\nluyện. Mạn tính viêm ruột thêm Xích thạch chi, Thạch lựu bì. Mịan tính ly thêm Mộc\nhương, Bạch thược, Đương quy.",
+      "confidence": 0.9860588867093358
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0316_013_paragraph_title.png",
+      "bbox": [
+        [
+          223,
+          2325
+        ],
+        [
+          1464,
+          2325
+        ],
+        [
+          1464,
+          2380
+        ],
+        [
+          223,
+          2380
+        ]
+      ],
+      "score": 0.9088608026504517,
+      "y_pos": 2325,
+      "text": "2. Tỳ, vị khí hư(*) (tỳ vị hư nhược, trung khí bất túc)",
+      "confidence": 0.9513472987894427
+    },
+    {
+      "type": "text",
+      "img_path": "p0316_001_text.png",
+      "bbox": [
+        [
+          283,
+          2416
+        ],
+        [
+          2359,
+          2416
+        ],
+        [
+          2359,
+          2753
+        ],
+        [
+          283,
+          2753
+        ]
+      ],
+      "score": 0.9848453998565674,
+      "y_pos": 2416,
+      "text": "a. Triệu chứng: Mặt vàng, uể oải, ăn uống mất ngon, bụng trên đau hoặc buồn bằn, thích\nbóp nắn, bụng trướng, thở có rên, nôn chua, phân nát, lưỡi nhạt, chậm hoặc có ngấn\nrăng, rêu lưỡi trắng, mạch hư. Nếu tiếng nói trầm, đoản hơi, cử động có cảm giác khí trụt\nxuống, hoặc sa dạ dày, sa thận, sa dạ con là phần khí càng hư gọi là trung khí hạ hãm (tỳ\nkhí bi hãm ở dưới).",
+      "confidence": 0.9972511134423933
+    },
+    {
+      "type": "text",
+      "img_path": "p0316_014_text.png",
+      "bbox": [
+        [
+          281,
+          2792
+        ],
+        [
+          2315,
+          2792
+        ],
+        [
+          2315,
+          2849
+        ],
+        [
+          281,
+          2849
+        ]
+      ],
+      "score": 0.8997609615325928,
+      "y_pos": 2792,
+      "text": "Nếu như khí tỳ, vị đều hư, có thể xuất hiện các chứng xuất huyết hoặc phát nhiệt (sốt cao).",
+      "confidence": 0.9923190794965272
+    },
+    {
+      "type": "text",
+      "img_path": "p0316_005_text.png",
+      "bbox": [
+        [
+          333,
+          2886
+        ],
+        [
+          2361,
+          2886
+        ],
+        [
+          2361,
+          3072
+        ],
+        [
+          333,
+          3072
+        ]
+      ],
+      "score": 0.9672967195510864,
+      "y_pos": 2886,
+      "text": "Nếu như tỳ, vị khí hư, can khí phạm vị sẽ đau vùng dạ dày, sườn bụng trướng đau, ợ\nchua hoặc sôi bụng, ỉa chảy, rêu lưỡi trắng trơn, mạch huyền, đây là chứng can vị bất\nhòa.",
+      "confidence": 0.9832990699833576
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0316_015_footnote.png",
+      "bbox": [
+        [
+          227,
+          3153
+        ],
+        [
+          768,
+          3153
+        ],
+        [
+          768,
+          3206
+        ],
+        [
+          227,
+          3206
+        ]
+      ],
+      "score": 0.8952515125274658,
+      "y_pos": 3153,
+      "text": "(*) Là sức co bóp dạ dày kém.",
+      "confidence": 0.9814565989278978
+    },
+    {
+      "type": "footer",
+      "img_path": "p0316_012_footer.png",
+      "bbox": [
+        [
+          227,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3386
+        ],
+        [
+          227,
+          3386
+        ]
+      ],
+      "score": 0.909147322177887,
+      "y_pos": 3333,
+      "text": "Bản quyên: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9311752769182313
+    },
+    {
+      "type": "number",
+      "img_path": "p0316_018_number.png",
+      "bbox": [
+        [
+          2307,
+          3337
+        ],
+        [
+          2355,
+          3337
+        ],
+        [
+          2355,
+          3373
+        ],
+        [
+          2307,
+          3373
+        ]
+      ],
+      "score": 0.8636595010757446,
+      "y_pos": 3337,
+      "text": "    \n\n    \n\n\n\n\n    \n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0316.png"
+}

@@ -1,0 +1,370 @@
+{
+  "page_num": 421,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0421_005_header.png",
+      "bbox": [
+        [
+          1675,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1675,
+          197
+        ]
+      ],
+      "score": 0.9210982918739319,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.716594788644995
+    },
+    {
+      "type": "header",
+      "img_path": "p0421_007_header.png",
+      "bbox": [
+        [
+          230,
+          150
+        ],
+        [
+          1448,
+          150
+        ],
+        [
+          1448,
+          199
+        ],
+        [
+          230,
+          199
+        ]
+      ],
+      "score": 0.917140781879425,
+      "y_pos": 150,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.995639579800459
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0421_010_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          329
+        ],
+        [
+          849,
+          329
+        ],
+        [
+          849,
+          380
+        ],
+        [
+          283,
+          380
+        ]
+      ],
+      "score": 0.9139188528060913,
+      "y_pos": 329,
+      "text": "4. Phối hợp trước - sau",
+      "confidence": 0.9972263765335083
+    },
+    {
+      "type": "text",
+      "img_path": "p0421_004_text.png",
+      "bbox": [
+        [
+          280,
+          418
+        ],
+        [
+          2356,
+          418
+        ],
+        [
+          2356,
+          543
+        ],
+        [
+          280,
+          543
+        ]
+      ],
+      "score": 0.9625218510627747,
+      "y_pos": 418,
+      "text": "Còn gọi là trong ngoài hô ứng, lấy một huyệt ở trước, một huyệt ở sau phối hợp hỗ tương\nNhư <i>Nghinh hương</i> với <i>Phong trì</i> trị mũi tắc khó thở.",
+      "confidence": 0.9943132761042663
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0421_009_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          580
+        ],
+        [
+          798,
+          580
+        ],
+        [
+          798,
+          634
+        ],
+        [
+          284,
+          634
+        ]
+      ],
+      "score": 0.9163997769355774,
+      "y_pos": 580,
+      "text": "5. Phối hợp Biểu - Lý",
+      "confidence": 0.9431797991628232
+    },
+    {
+      "type": "text",
+      "img_path": "p0421_003_text.png",
+      "bbox": [
+        [
+          279,
+          673
+        ],
+        [
+          2360,
+          673
+        ],
+        [
+          2360,
+          868
+        ],
+        [
+          279,
+          868
+        ]
+      ],
+      "score": 0.9729005098342896,
+      "y_pos": 673,
+      "text": "Cũng gọi là phối hợp âm dương. Căn cứ vào ba kinh dương với ba kinh âm phối hợp hỗ trợ\ntương biểu lý, như lấy <i>Hợp cốc</i> ở kinh đại trường và <i>Liệt khuyết</i> ở kinh phế để trị cảm mạo,\nlấy <i>Túc tam lý</i> ở kinh vị và <i>Tam âm giao</i> ở kinh tỳ để trị tiêu hóa kém.",
+      "confidence": 0.9991819173531336
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0421_008_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          907
+        ],
+        [
+          869,
+          907
+        ],
+        [
+          869,
+          958
+        ],
+        [
+          284,
+          958
+        ]
+      ],
+      "score": 0.9168546199798584,
+      "y_pos": 907,
+      "text": "6. Phối hợp Khoá - Chốt",
+      "confidence": 0.9942143583297729
+    },
+    {
+      "type": "text",
+      "img_path": "p0421_002_text.png",
+      "bbox": [
+        [
+          280,
+          998
+        ],
+        [
+          2359,
+          998
+        ],
+        [
+          2359,
+          1194
+        ],
+        [
+          280,
+          1194
+        ]
+      ],
+      "score": 0.9738248586654663,
+      "y_pos": 998,
+      "text": "Lấy huyệt phối hợp tương ứng, tương hỗ, tương liên, trên dưới vài ba huyệt đồng thời ở\ncùng một chi. Như chi trên đau đớn thì lấy <i>Kiên ngung, Khúc trì, Hợp cốc</i>, bán thân bất toại\nthì lấy Hoàn khiêu, Dương lăng tuyền, Huyền chung...",
+      "confidence": 0.9985097749075229
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0421_006_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          1233
+        ],
+        [
+          769,
+          1233
+        ],
+        [
+          769,
+          1283
+        ],
+        [
+          286,
+          1283
+        ]
+      ],
+      "score": 0.9182953834533691,
+      "y_pos": 1233,
+      "text": "7. Phối hợp Du - Mô",
+      "confidence": 0.9652996943110511
+    },
+    {
+      "type": "text",
+      "img_path": "p0421_001_text.png",
+      "bbox": [
+        [
+          280,
+          1324
+        ],
+        [
+          2361,
+          1324
+        ],
+        [
+          2361,
+          1518
+        ],
+        [
+          280,
+          1518
+        ]
+      ],
+      "score": 0.9740055203437805,
+      "y_pos": 1324,
+      "text": "Mỗi một tạng phủ có bệnh, có thể lấy Bối du và Mộ huyệt tương ứng. Như bệnh ở vùng dạ\ndày có thể lấy <i>Trung quản</i> phối hợp với <i>Vị du</i>; bệnh ở bàng quang có thể lấy <i>Bàng quang du</i>\nphối hợp <i>Trung cực.</i>",
+      "confidence": 0.998162827143446
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0421_011_paragraph_title.png",
+      "bbox": [
+        [
+          284,
+          1559
+        ],
+        [
+          899,
+          1559
+        ],
+        [
+          899,
+          1609
+        ],
+        [
+          284,
+          1609
+        ]
+      ],
+      "score": 0.9132745265960693,
+      "y_pos": 1559,
+      "text": "8. Phối hợp Nguyên - Lạc",
+      "confidence": 0.9959337757183955
+    },
+    {
+      "type": "text",
+      "img_path": "p0421_000_text.png",
+      "bbox": [
+        [
+          281,
+          1649
+        ],
+        [
+          2361,
+          1649
+        ],
+        [
+          2361,
+          2059
+        ],
+        [
+          281,
+          2059
+        ]
+      ],
+      "score": 0.9857172966003418,
+      "y_pos": 1649,
+      "text": "Nguyên huyệt có thể chữa bệnh hư, thực ở kinh ấy. Lạc huyệt có thể chữa bệnh chứng ở\nkinh biểu lý. Nguyên huyệt và Lạc huyệt phối hợp ứng dụng làm tăng tác dụng chữa bệnh.\nNhư ho, hen suyễn là bệnh chứng của thủ thái âm phế kinh, lấy Nguyên huyệt của kinh ấy là\nThái uyên, lấy Lạc huyệt Thiên lịch của kinh biểu lý thủ dương minh đại trường kinh; đau\nbụng, sôi ruột, ỉa chảy là bệnh chứng của kinh thủ dương minh đại trường, lấy Nguyên huyệt\nHợp cốc của kinh ấy, lấy Lạc huyệt <i>Liệt khuyết</i> của kinh biểu lý thủ thái âm phế kinh.",
+      "confidence": 0.9981014159318485
+    },
+    {
+      "type": "number",
+      "img_path": "p0421_013_number.png",
+      "bbox": [
+        [
+          2328,
+          3301
+        ],
+        [
+          2353,
+          3301
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2328,
+          3335
+        ]
+      ],
+      "score": 0.8122910857200623,
+      "y_pos": 3301,
+      "text": "\n    \n    \n\n\n\n        \n    \n    \n\n.\n    \n        \n",
+      "confidence": 0.9748386695333149
+    },
+    {
+      "type": "footer",
+      "img_path": "p0421_012_footer.png",
+      "bbox": [
+        [
+          229,
+          3310
+        ],
+        [
+          1324,
+          3310
+        ],
+        [
+          1324,
+          3355
+        ],
+        [
+          229,
+          3355
+        ]
+      ],
+      "score": 0.9010708332061768,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985551654167895
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0421.png"
+}

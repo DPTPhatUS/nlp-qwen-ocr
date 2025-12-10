@@ -1,0 +1,576 @@
+{
+  "page_num": 200,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0200_011_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9291053414344788,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7643314777385621
+    },
+    {
+      "type": "header",
+      "img_path": "p0200_015_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          905,
+          156
+        ],
+        [
+          905,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9170705080032349,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.9866287461642561
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0200_010_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          364
+        ],
+        [
+          813,
+          364
+        ],
+        [
+          813,
+          419
+        ],
+        [
+          225,
+          419
+        ]
+      ],
+      "score": 0.9302990436553955,
+      "y_pos": 364,
+      "text": "NHÂM MACH: 24 HUYÊT",
+      "confidence": 0.5763269662857056
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0200_019_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          461
+        ],
+        [
+          477,
+          461
+        ],
+        [
+          477,
+          510
+        ],
+        [
+          227,
+          510
+        ]
+      ],
+      "score": 0.9035484790802002,
+      "y_pos": 461,
+      "text": "1. Hôi âm:",
+      "confidence": 0.9192618379990259
+    },
+    {
+      "type": "text",
+      "img_path": "p0200_003_text.png",
+      "bbox": [
+        [
+          283,
+          550
+        ],
+        [
+          2358,
+          550
+        ],
+        [
+          2358,
+          677
+        ],
+        [
+          283,
+          677
+        ]
+      ],
+      "score": 0.962749183177948,
+      "y_pos": 550,
+      "text": "Vị trí: Ở giữa tiền âm và hậu âm (đàn ông thì lấy điểm giữa đường nối bìu và hậu môn, đàn\nbà lấy điểm giữa đường nối giữa bờ sau môi lớn và hậu môn). (H. 96)",
+      "confidence": 0.9900372522445712
+    },
+    {
+      "type": "text",
+      "img_path": "p0200_002_text.png",
+      "bbox": [
+        [
+          282,
+          714
+        ],
+        [
+          2359,
+          714
+        ],
+        [
+          2359,
+          838
+        ],
+        [
+          282,
+          838
+        ]
+      ],
+      "score": 0.9636101722717285,
+      "y_pos": 714,
+      "text": "Cách châm: Châm đứng kim, sâu 1-2 thốn, phụ nữ có thai cấm châm. Cứu 5 mồi. (Trước\nkhi châm nhắc người bệnh đi tiểu tiện)",
+      "confidence": 0.997706907739242
+    },
+    {
+      "type": "text",
+      "img_path": "p0200_012_text.png",
+      "bbox": [
+        [
+          284,
+          876
+        ],
+        [
+          2210,
+          876
+        ],
+        [
+          2210,
+          930
+        ],
+        [
+          284,
+          930
+        ]
+      ],
+      "score": 0.9198276400566101,
+      "y_pos": 876,
+      "text": "Chủ trị: Đái dầm, khó tiểu tiện, liệt dương, di tinh, nhiều khí hư, co dạ con không đều.",
+      "confidence": 0.9915092984835306
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0200_016_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          967
+        ],
+        [
+          516,
+          967
+        ],
+        [
+          516,
+          1016
+        ],
+        [
+          225,
+          1016
+        ]
+      ],
+      "score": 0.9170380234718323,
+      "y_pos": 967,
+      "text": "2. Khúc cốt",
+      "confidence": 0.9428045061918405
+    },
+    {
+      "type": "text",
+      "img_path": "p0200_007_text.png",
+      "bbox": [
+        [
+          282,
+          1060
+        ],
+        [
+          2357,
+          1060
+        ],
+        [
+          2357,
+          1184
+        ],
+        [
+          282,
+          1184
+        ]
+      ],
+      "score": 0.9609315991401672,
+      "y_pos": 1060,
+      "text": "Vị trí: Ở bờ trên xương mu, nằm ngửa lấy huyệt từ giữa rốn xuống 5 thốn, ở đường chính\ngiữa bụng. (H. 97)",
+      "confidence": 0.9950537875972011
+    },
+    {
+      "type": "text",
+      "img_path": "p0200_001_text.png",
+      "bbox": [
+        [
+          281,
+          1222
+        ],
+        [
+          2357,
+          1222
+        ],
+        [
+          2357,
+          1346
+        ],
+        [
+          281,
+          1346
+        ]
+      ],
+      "score": 0.9659716486930847,
+      "y_pos": 1222,
+      "text": "Cách châm: Châm đứng kim, sâu 1-2 thốn, phụ nữ có thai cấm châm. cứu 5 mồi (trước khi\nchâm nhắc người bệnh đi tiểu tiện).",
+      "confidence": 0.9948594190941793
+    },
+    {
+      "type": "image",
+      "img_path": "p0200_009_image.png",
+      "bbox": [
+        [
+          826,
+          1419
+        ],
+        [
+          1838,
+          1419
+        ],
+        [
+          1838,
+          1778
+        ],
+        [
+          826,
+          1778
+        ]
+      ],
+      "score": 0.949906587600708,
+      "y_pos": 1419
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0200_020_figure_title.png",
+      "bbox": [
+        [
+          1234,
+          1854
+        ],
+        [
+          1411,
+          1854
+        ],
+        [
+          1411,
+          1898
+        ],
+        [
+          1234,
+          1898
+        ]
+      ],
+      "score": 0.8940285444259644,
+      "y_pos": 1854,
+      "text": "Hình    96",
+      "confidence": 0.9203350325425466
+    },
+    {
+      "type": "text",
+      "img_path": "p0200_018_text.png",
+      "bbox": [
+        [
+          284,
+          1941
+        ],
+        [
+          2209,
+          1941
+        ],
+        [
+          2209,
+          1996
+        ],
+        [
+          284,
+          1996
+        ]
+      ],
+      "score": 0.9050160050392151,
+      "y_pos": 1941,
+      "text": "Chủ trị: Đái dầm, khó tiểu tiện, liệt dương, di tinh, nhiều khí hư, co dạ con không đều.",
+      "confidence": 0.9930188953876495
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0200_013_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2035
+        ],
+        [
+          549,
+          2035
+        ],
+        [
+          549,
+          2086
+        ],
+        [
+          225,
+          2086
+        ]
+      ],
+      "score": 0.9189196825027466,
+      "y_pos": 2035,
+      "text": "3. Trung cực",
+      "confidence": 0.9354494980403355
+    },
+    {
+      "type": "text",
+      "img_path": "p0200_008_text.png",
+      "bbox": [
+        [
+          282,
+          2121
+        ],
+        [
+          2356,
+          2121
+        ],
+        [
+          2356,
+          2248
+        ],
+        [
+          282,
+          2248
+        ]
+      ],
+      "score": 0.9564262628555298,
+      "y_pos": 2121,
+      "text": "Vị trí: Phía trên huyệt Khúc cốt 1 thốn. Nắm ngửa lấy huyệt, từ giữa rốn thẳng xuống 4 thốn.\n(H. 97)",
+      "confidence": 0.9728856713249047
+    },
+    {
+      "type": "text",
+      "img_path": "p0200_004_text.png",
+      "bbox": [
+        [
+          282,
+          2287
+        ],
+        [
+          2358,
+          2287
+        ],
+        [
+          2358,
+          2411
+        ],
+        [
+          282,
+          2411
+        ]
+      ],
+      "score": 0.9623503684997559,
+      "y_pos": 2287,
+      "text": "Cách châm: Châm đứng kim, sâu 0,8 đến 1 thốn, tê tức cục bộ, có khi lan xuống bộ phận\nsinh dục, phụ nữ có thai không châm. Cứu 5 mồi, hơ 5-10 phút.",
+      "confidence": 0.9983965876360832
+    },
+    {
+      "type": "text",
+      "img_path": "p0200_006_text.png",
+      "bbox": [
+        [
+          282,
+          2448
+        ],
+        [
+          2356,
+          2448
+        ],
+        [
+          2356,
+          2574
+        ],
+        [
+          282,
+          2574
+        ]
+      ],
+      "score": 0.9620676040649414,
+      "y_pos": 2448,
+      "text": "Chủ trị: Di tinh, đái dầm, liệt dương, đau cắn dưới rốn, la ra máu, ly, kinh nguyệt không đều,\nkhí hư, đau bụng hành kinh, tắc kinh, băng huyết, lậu huyết.",
+      "confidence": 0.9956455946429281
+    },
+    {
+      "type": "text",
+      "img_path": "p0200_000_text.png",
+      "bbox": [
+        [
+          278,
+          2613
+        ],
+        [
+          2358,
+          2613
+        ],
+        [
+          2358,
+          2808
+        ],
+        [
+          278,
+          2808
+        ]
+      ],
+      "score": 0.9742563366889954,
+      "y_pos": 2613,
+      "text": "Tác dụng phối hợp: Với Tam âm giao, trị trẻ em đái dầm; Với Quan nguyên, Tam âm giao,\ntrị di tinh; Với <i>Tử cung</i> trị băng, xuất huyết dạ con (huyệt <i>Tử cung</i> ở huyệt <i>Trung cực</i>, sang\nngang mỗi bên 3 thốn).",
+      "confidence": 0.9964526744089475
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0200_014_paragraph_title.png",
+      "bbox": [
+        [
+          225,
+          2847
+        ],
+        [
+          619,
+          2847
+        ],
+        [
+          619,
+          2897
+        ],
+        [
+          225,
+          2897
+        ]
+      ],
+      "score": 0.9176838994026184,
+      "y_pos": 2847,
+      "text": "4. Quan nguyên",
+      "confidence": 0.926955122500658
+    },
+    {
+      "type": "text",
+      "img_path": "p0200_005_text.png",
+      "bbox": [
+        [
+          281,
+          2935
+        ],
+        [
+          2355,
+          2935
+        ],
+        [
+          2355,
+          3059
+        ],
+        [
+          281,
+          3059
+        ]
+      ],
+      "score": 0.9622697830200195,
+      "y_pos": 2935,
+      "text": "Vị trí: Ở dưới rốn, nằm ngửa lấy huyệt, từ giữa rốn xuống 3 thốn, từ Khúc cốt lên 3 thốn. (H\n97).",
+      "confidence": 0.966577232010821
+    },
+    {
+      "type": "footer",
+      "img_path": "p0200_017_footer.png",
+      "bbox": [
+        [
+          227,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          227,
+          3387
+        ]
+      ],
+      "score": 0.9084225296974182,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9983427963166867
+    },
+    {
+      "type": "number",
+      "img_path": "p0200_021_number.png",
+      "bbox": [
+        [
+          2300,
+          3340
+        ],
+        [
+          2347,
+          3340
+        ],
+        [
+          2347,
+          3377
+        ],
+        [
+          2300,
+          3377
+        ]
+      ],
+      "score": 0.8557519912719727,
+      "y_pos": 3340,
+      "text": "\n\n    \n\n\n\n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0200.png"
+}

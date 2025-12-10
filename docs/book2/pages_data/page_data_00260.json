@@ -1,0 +1,656 @@
+{
+  "page_num": 260,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0260_010_header.png",
+      "bbox": [
+        [
+          1607,
+          142
+        ],
+        [
+          2369,
+          142
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1607,
+          202
+        ]
+      ],
+      "score": 0.9326328635215759,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7643314777385621
+    },
+    {
+      "type": "header",
+      "img_path": "p0260_011_header.png",
+      "bbox": [
+        [
+          228,
+          156
+        ],
+        [
+          906,
+          156
+        ],
+        [
+          906,
+          202
+        ],
+        [
+          228,
+          202
+        ]
+      ],
+      "score": 0.9168230295181274,
+      "y_pos": 156,
+      "text": "HUYÊT VI TRÊN 14 ĐƯỜNG KINH",
+      "confidence": 0.6824016488831619
+    },
+    {
+      "type": "text",
+      "img_path": "p0260_023_text.png",
+      "bbox": [
+        [
+          287,
+          349
+        ],
+        [
+          1150,
+          349
+        ],
+        [
+          1150,
+          401
+        ],
+        [
+          287,
+          401
+        ]
+      ],
+      "score": 0.9016085863113403,
+      "y_pos": 349,
+      "text": "Chủ trị: Viêm amiđan, viêm hầu họng.",
+      "confidence": 0.4039452750431864
+    },
+    {
+      "type": "text",
+      "img_path": "p0260_008_text.png",
+      "bbox": [
+        [
+          223,
+          438
+        ],
+        [
+          2355,
+          438
+        ],
+        [
+          2355,
+          586
+        ],
+        [
+          223,
+          586
+        ]
+      ],
+      "score": 0.9542078375816345,
+      "y_pos": 438,
+      "text": "Tác dụng phối hợp: Với Hợp cốc trị amiđan; với Thiên trụ, Thiếu thương, trị viêm hầu họng.\n256. Giáp Thừa tương (Hạ Địa thương, Hài liêu)",
+      "confidence": 0.9906377145831569
+    },
+    {
+      "type": "text",
+      "img_path": "p0260_003_text.png",
+      "bbox": [
+        [
+          283,
+          622
+        ],
+        [
+          2360,
+          622
+        ],
+        [
+          2360,
+          748
+        ],
+        [
+          283,
+          748
+        ]
+      ],
+      "score": 0.9588078260421753,
+      "y_pos": 622,
+      "text": "Vị trí: Huyệt Thừa tương sang ngang mỗi bên 1 thốn, thẳng huyệt Địa thương xuống, chỗ\nlõm xương hàm dưới. (H.125)",
+      "confidence": 0.9542373326318017
+    },
+    {
+      "type": "text",
+      "img_path": "p0260_015_text.png",
+      "bbox": [
+        [
+          285,
+          786
+        ],
+        [
+          2251,
+          786
+        ],
+        [
+          2251,
+          838
+        ],
+        [
+          285,
+          838
+        ]
+      ],
+      "score": 0.9094371199607849,
+      "y_pos": 786,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 0,2-0,5 thốn, châm chếch xuống và vào sâu 0,5 thốn.",
+      "confidence": 0.9907043828683741
+    },
+    {
+      "type": "text",
+      "img_path": "p0260_013_text.png",
+      "bbox": [
+        [
+          286,
+          878
+        ],
+        [
+          1695,
+          878
+        ],
+        [
+          1695,
+          927
+        ],
+        [
+          286,
+          927
+        ]
+      ],
+      "score": 0.9106644988059998,
+      "y_pos": 878,
+      "text": "<b>Chủ tri:</b> Đau thần kinh tam thoa, thần kinh mặt tê bai và co rút.",
+      "confidence": 0.98380678585347
+    },
+    {
+      "type": "text",
+      "img_path": "p0260_002_text.png",
+      "bbox": [
+        [
+          281,
+          969
+        ],
+        [
+          2358,
+          969
+        ],
+        [
+          2358,
+          1089
+        ],
+        [
+          281,
+          1089
+        ]
+      ],
+      "score": 0.9589537382125854,
+      "y_pos": 969,
+      "text": "<b>Tác dụng phối hợp:</b> Với <i>Tán trúc, Tứ bạch</i> trị co thắt nửa mặt; với <i>Hạ quan, Hợp cốc</i> trị đau\nthần kinh tam thoa.",
+      "confidence": 0.9934531624118487
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0260_020_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          1132
+        ],
+        [
+          806,
+          1132
+        ],
+        [
+          806,
+          1182
+        ],
+        [
+          226,
+          1182
+        ]
+      ],
+      "score": 0.9049543142318726,
+      "y_pos": 1132,
+      "text": "257. Thương liêm tuyền",
+      "confidence": 0.996978464225928
+    },
+    {
+      "type": "text",
+      "img_path": "p0260_009_text.png",
+      "bbox": [
+        [
+          283,
+          1223
+        ],
+        [
+          2355,
+          1223
+        ],
+        [
+          2355,
+          1347
+        ],
+        [
+          283,
+          1347
+        ]
+      ],
+      "score": 0.9536269307136536,
+      "y_pos": 1223,
+      "text": "Vị trí: Chính giữa hàm dưới xuống cách 1 thốn, chỗ lõm giữa xương móng và bờ hàm dưới.\n(H.131)",
+      "confidence": 0.9658812847778653
+    },
+    {
+      "type": "text",
+      "img_path": "p0260_007_text.png",
+      "bbox": [
+        [
+          282,
+          1385
+        ],
+        [
+          2358,
+          1385
+        ],
+        [
+          2358,
+          1508
+        ],
+        [
+          282,
+          1508
+        ]
+      ],
+      "score": 0.9554093480110168,
+      "y_pos": 1385,
+      "text": "Cách châm: Châm chếch kim hướng về phía góc lưỡi, châm chéo, sâu 1-1,5 thốn hoặc lui\nvề phía dưới da lại hướng sang hai bên trái phải châm chếch kim, sâu 1-1,5 thốn.",
+      "confidence": 0.99792653999238
+    },
+    {
+      "type": "text",
+      "img_path": "p0260_022_text.png",
+      "bbox": [
+        [
+          285,
+          1548
+        ],
+        [
+          2207,
+          1548
+        ],
+        [
+          2207,
+          1602
+        ],
+        [
+          285,
+          1602
+        ]
+      ],
+      "score": 0.9033591747283936,
+      "y_pos": 1548,
+      "text": "Chủ trị: Tiếng nói không rõ, câm, chảy dãi, việm vòm miệng, việm họng cấp mạn tính.",
+      "confidence": 0.9690533245311064
+    },
+    {
+      "type": "text",
+      "img_path": "p0260_001_text.png",
+      "bbox": [
+        [
+          281,
+          1639
+        ],
+        [
+          2361,
+          1639
+        ],
+        [
+          2361,
+          1837
+        ],
+        [
+          281,
+          1837
+        ]
+      ],
+      "score": 0.9693256616592407,
+      "y_pos": 1639,
+      "text": "Tác dụng phối hợp: Với Thừa tương, Địa thương, trị chảy dãi; với Á môn, Hợp cốc, trị tiếng\nnói không rõ; với <i>Tăng âm, Á môn</i>, trị di chứng sau viêm não, mất tiếng; với <i>Bàng Liêm</i>\ntuyền, Hợp cốc, trị thần kinh chức năng gây ra mất tiếng.",
+      "confidence": 0.9952752111295201
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0260_021_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          1873
+        ],
+        [
+          515,
+          1873
+        ],
+        [
+          515,
+          1920
+        ],
+        [
+          227,
+          1920
+        ]
+      ],
+      "score": 0.9044832587242126,
+      "y_pos": 1873,
+      "text": "mınh",
+      "confidence": 0.9934937357902527
+    },
+    {
+      "type": "text",
+      "img_path": "p0260_016_text.png",
+      "bbox": [
+        [
+          290,
+          1964
+        ],
+        [
+          1218,
+          1964
+        ],
+        [
+          1218,
+          2018
+        ],
+        [
+          290,
+          2018
+        ]
+      ],
+      "score": 0.9094333648681641,
+      "y_pos": 1964,
+      "text": "Vị trí: Sau huyệt É phong 1 thốn. (H.129)",
+      "confidence": 0.5624047628668851
+    },
+    {
+      "type": "text",
+      "img_path": "p0260_017_text.png",
+      "bbox": [
+        [
+          287,
+          2058
+        ],
+        [
+          1312,
+          2058
+        ],
+        [
+          1312,
+          2107
+        ],
+        [
+          287,
+          2107
+        ]
+      ],
+      "score": 0.9081011414527893,
+      "y_pos": 2058,
+      "text": "<b>Cách châm:</b> Châm đứng kim, sâu 1-1,5 thôn.",
+      "confidence": 0.9790636055999332
+    },
+    {
+      "type": "text",
+      "img_path": "p0260_004_text.png",
+      "bbox": [
+        [
+          283,
+          2147
+        ],
+        [
+          2358,
+          2147
+        ],
+        [
+          2358,
+          2272
+        ],
+        [
+          283,
+          2272
+        ]
+      ],
+      "score": 0.9581303000450134,
+      "y_pos": 2147,
+      "text": "Chủ trị: Cận thị, viễn thị, mù về đem, teo thần kinh thị giác, đục nhân mắt, tai ù, choáng tiền\nđình, quai bị, đau đầu, mất ngủ, bệnh tinh thần.",
+      "confidence": 0.9952592186829479
+    },
+    {
+      "type": "text",
+      "img_path": "p0260_000_text.png",
+      "bbox": [
+        [
+          279,
+          2311
+        ],
+        [
+          2358,
+          2311
+        ],
+        [
+          2358,
+          2577
+        ],
+        [
+          279,
+          2577
+        ]
+      ],
+      "score": 0.9778801798820496,
+      "y_pos": 2311,
+      "text": "<b>Tác dụng phối hợp</b>: Với <i>Ấn đường, Nội quan, Tam âm giao</i>, trị mất ngủ; với <i>Tình minh</i>, Cầu\nhậu trị đục nhân mắt thể nhẹ thời kỳ đầu; với Phong trì, Thượng Tình minh, Cầu hậu, trị teo\nthần kinh thị giác; với <i>Tứ độc</i>, <i>Phong trì</i>, <i>Á môn</i>, <i>Nội quan</i>, <i>Thái xung</i>, trị choáng váng do tai\ntrong.",
+      "confidence": 0.9849021285301881
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0260_012_paragraph_title.png",
+      "bbox": [
+        [
+          227,
+          2615
+        ],
+        [
+          531,
+          2615
+        ],
+        [
+          531,
+          2666
+        ],
+        [
+          227,
+          2666
+        ]
+      ],
+      "score": 0.9132841229438782,
+      "y_pos": 2615,
+      "text": "259. Cảnh lý",
+      "confidence": 0.9400238181863513
+    },
+    {
+      "type": "text",
+      "img_path": "p0260_006_text.png",
+      "bbox": [
+        [
+          283,
+          2705
+        ],
+        [
+          2357,
+          2705
+        ],
+        [
+          2357,
+          2829
+        ],
+        [
+          283,
+          2829
+        ]
+      ],
+      "score": 0.9556698203086853,
+      "y_pos": 2705,
+      "text": "Vị trí: Ở bên trên xương đòn, điểm nối 1/3 trong, và 2/3 ngoài từ đó lên 1 thốn, chỗ bờ sau\nnhánh đòn của cơ ức đòn chũm. (H.133)",
+      "confidence": 0.9888485375764057
+    },
+    {
+      "type": "text",
+      "img_path": "p0260_014_text.png",
+      "bbox": [
+        [
+          285,
+          2869
+        ],
+        [
+          2117,
+          2869
+        ],
+        [
+          2117,
+          2921
+        ],
+        [
+          285,
+          2921
+        ]
+      ],
+      "score": 0.9095665216445923,
+      "y_pos": 2869,
+      "text": "Cách châm: Châm đứng kim, sâu 0,5-0,8 thốn. Dưới là đỉnh phổi, cấm châm sâu.",
+      "confidence": 0.9915977158607581
+    },
+    {
+      "type": "text",
+      "img_path": "p0260_018_text.png",
+      "bbox": [
+        [
+          287,
+          2963
+        ],
+        [
+          1197,
+          2963
+        ],
+        [
+          1197,
+          3014
+        ],
+        [
+          287,
+          3014
+        ]
+      ],
+      "score": 0.9074316024780273,
+      "y_pos": 2963,
+      "text": "Chủ trị: Cánh tay tê dại, chi trên bại liệt.",
+      "confidence": 0.5640457207741945
+    },
+    {
+      "type": "text",
+      "img_path": "p0260_005_text.png",
+      "bbox": [
+        [
+          285,
+          3052
+        ],
+        [
+          2365,
+          3052
+        ],
+        [
+          2365,
+          3177
+        ],
+        [
+          285,
+          3177
+        ]
+      ],
+      "score": 0.9561059474945068,
+      "y_pos": 3052,
+      "text": "<b>Tác dụng phối hợp:</b> Với <i>Khúc trì, Dương khê</i>, trị thần kinh quay tê bại; với <i>Tý trung, Nội</i>\n<i>quan</i>, trị thần kinh giữa tê bại; với <i>Tiểu hải</i>, <i>Chi chính</i>, trị thần kinh trụ tê bại.",
+      "confidence": 0.9924124994318618
+    },
+    {
+      "type": "footer",
+      "img_path": "p0260_019_footer.png",
+      "bbox": [
+        [
+          228,
+          3335
+        ],
+        [
+          1433,
+          3335
+        ],
+        [
+          1433,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9073640704154968,
+      "y_pos": 3335,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982709018689282
+    },
+    {
+      "type": "number",
+      "img_path": "p0260_024_number.png",
+      "bbox": [
+        [
+          2279,
+          3339
+        ],
+        [
+          2347,
+          3339
+        ],
+        [
+          2347,
+          3378
+        ],
+        [
+          2279,
+          3378
+        ]
+      ],
+      "score": 0.8741602897644043,
+      "y_pos": 3339,
+      "text": "    \n    \n    \n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0260.png"
+}

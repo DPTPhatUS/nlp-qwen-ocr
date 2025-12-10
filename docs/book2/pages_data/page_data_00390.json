@@ -1,0 +1,292 @@
+{
+  "page_num": 390,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0390_004_header.png",
+      "bbox": [
+        [
+          1678,
+          142
+        ],
+        [
+          2367,
+          142
+        ],
+        [
+          2367,
+          196
+        ],
+        [
+          1678,
+          196
+        ]
+      ],
+      "score": 0.9200138449668884,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7123734436574436
+    },
+    {
+      "type": "header",
+      "img_path": "p0390_005_header.png",
+      "bbox": [
+        [
+          228,
+          146
+        ],
+        [
+          1095,
+          146
+        ],
+        [
+          1095,
+          196
+        ],
+        [
+          228,
+          196
+        ]
+      ],
+      "score": 0.9137391448020935,
+      "y_pos": 146,
+      "text": "CHẨN TRI CÁC CHỨNG TRANG LÂM SÁNG",
+      "confidence": 0.7286194511822291
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0390_008_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          305
+        ],
+        [
+          707,
+          305
+        ],
+        [
+          707,
+          358
+        ],
+        [
+          224,
+          358
+        ]
+      ],
+      "score": 0.8943449854850769,
+      "y_pos": 305,
+      "text": "3. Đơn thuốc một vị",
+      "confidence": 0.9965095974150158
+    },
+    {
+      "type": "text",
+      "img_path": "p0390_001_text.png",
+      "bbox": [
+        [
+          221,
+          394
+        ],
+        [
+          2358,
+          394
+        ],
+        [
+          2358,
+          522
+        ],
+        [
+          221,
+          522
+        ]
+      ],
+      "score": 0.9582763910293579,
+      "y_pos": 394,
+      "text": "- Gừng sống nhiều ít cũng được, giã lấy nước trấp<sup>(*)</sup> đắp ở đầu lưỡi hoặc uống vào trong, có\ntác dụng <b>hoà vị chỉ nôn</b>.",
+      "confidence": 0.9883139795490674
+    },
+    {
+      "type": "text",
+      "img_path": "p0390_007_text.png",
+      "bbox": [
+        [
+          224,
+          559
+        ],
+        [
+          1917,
+          559
+        ],
+        [
+          1917,
+          614
+        ],
+        [
+          224,
+          614
+        ]
+      ],
+      "score": 0.9005833864212036,
+      "y_pos": 559,
+      "text": "- Lô căn từ 2 đến 4 lạng, sắc với nước uống, có tác dụng sinh tân chỉ nôn.",
+      "confidence": 0.9931861515107908
+    },
+    {
+      "type": "text",
+      "img_path": "p0390_002_text.png",
+      "bbox": [
+        [
+          222,
+          650
+        ],
+        [
+          2358,
+          650
+        ],
+        [
+          2358,
+          775
+        ],
+        [
+          222,
+          775
+        ]
+      ],
+      "score": 0.958162784576416,
+      "y_pos": 650,
+      "text": "- Trúc nhự, Bạch mao căn, Tỳ bà diệp, mỗi thứ 3 đồng cân, sắc nước đổ cho uống, có tác dụng\nthanh nhiệt, hoà vị, chỉ nôn.",
+      "confidence": 0.993624621821988
+    },
+    {
+      "type": "text",
+      "img_path": "p0390_003_text.png",
+      "bbox": [
+        [
+          222,
+          811
+        ],
+        [
+          2360,
+          811
+        ],
+        [
+          2360,
+          938
+        ],
+        [
+          222,
+          938
+        ]
+      ],
+      "score": 0.9578065872192383,
+      "y_pos": 811,
+      "text": "- Hoắc hương, Bội lan, mỗi thứ 3 đồng cân, sắc với nước đổ cho uống, có tác dụng thanh thủ\nhoá thấp, hoà vị, chỉ nôn.",
+      "confidence": 0.9963326109399706
+    },
+    {
+      "type": "text",
+      "img_path": "p0390_000_text.png",
+      "bbox": [
+        [
+          222,
+          975
+        ],
+        [
+          2359,
+          975
+        ],
+        [
+          2359,
+          1103
+        ],
+        [
+          222,
+          1103
+        ]
+      ],
+      "score": 0.9588613510131836,
+      "y_pos": 975,
+      "text": "- Đỗ tâm thổ (đất trong lòng bếp) từ 2 đến 4 lạng, đun nhừ ra, lọc lấy nước trong cho thêm\nnước gừng nấu và đường đỏ ngoáy lên uống, có tác dụng <b>dứt nôn, dứt ỉa chảy</b>.",
+      "confidence": 0.9578065265402664
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0390_009_footnote.png",
+      "bbox": [
+        [
+          228,
+          3166
+        ],
+        [
+          986,
+          3166
+        ],
+        [
+          986,
+          3209
+        ],
+        [
+          228,
+          3209
+        ]
+      ],
+      "score": 0.8921838402748108,
+      "y_pos": 3166,
+      "text": "(*) Nước trấp: Nước tự nhiên, không pha, không đun.",
+      "confidence": 0.990456538380317
+    },
+    {
+      "type": "number",
+      "img_path": "p0390_010_number.png",
+      "bbox": [
+        [
+          2306,
+          3335
+        ],
+        [
+          2356,
+          3335
+        ],
+        [
+          2356,
+          3371
+        ],
+        [
+          2306,
+          3371
+        ]
+      ],
+      "score": 0.8625763058662415,
+      "y_pos": 3335,
+      "text": "\n\n    \n\n\n\n\n\n\n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0390_006_footer.png",
+      "bbox": [
+        [
+          228,
+          3337
+        ],
+        [
+          1342,
+          3337
+        ],
+        [
+          1342,
+          3383
+        ],
+        [
+          228,
+          3383
+        ]
+      ],
+      "score": 0.9101881384849548,
+      "y_pos": 3337,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9331715736749038
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0390.png"
+}

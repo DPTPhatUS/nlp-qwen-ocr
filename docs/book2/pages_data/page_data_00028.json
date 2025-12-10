@@ -1,0 +1,396 @@
+{
+  "page_num": 28,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0028_008_header.png",
+      "bbox": [
+        [
+          1608,
+          142
+        ],
+        [
+          2368,
+          142
+        ],
+        [
+          2368,
+          202
+        ],
+        [
+          1608,
+          202
+        ]
+      ],
+      "score": 0.9173937439918518,
+      "y_pos": 142,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7642816684785343
+    },
+    {
+      "type": "header",
+      "img_path": "p0028_009_header.png",
+      "bbox": [
+        [
+          229,
+          155
+        ],
+        [
+          743,
+          155
+        ],
+        [
+          743,
+          204
+        ],
+        [
+          229,
+          204
+        ]
+      ],
+      "score": 0.9061793088912964,
+      "y_pos": 155,
+      "text": "HOC THUYẾT TANG PHỦ",
+      "confidence": 0.6469116296086993
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0028_007_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          330
+        ],
+        [
+          731,
+          330
+        ],
+        [
+          731,
+          381
+        ],
+        [
+          226,
+          381
+        ]
+      ],
+      "score": 0.9200652241706848,
+      "y_pos": 330,
+      "text": "D. Phế và đai trường",
+      "confidence": 0.9960438880053434
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0028_013_paragraph_title.png",
+      "bbox": [
+        [
+          286,
+          413
+        ],
+        [
+          976,
+          413
+        ],
+        [
+          976,
+          467
+        ],
+        [
+          286,
+          467
+        ]
+      ],
+      "score": 0.835790753364563,
+      "y_pos": 413,
+      "text": "1. Sinh lý và bệnh lý của phế",
+      "confidence": 0.9643132186705067
+    },
+    {
+      "type": "text",
+      "img_path": "p0028_003_text.png",
+      "bbox": [
+        [
+          284,
+          496
+        ],
+        [
+          2359,
+          496
+        ],
+        [
+          2359,
+          836
+        ],
+        [
+          284,
+          836
+        ]
+      ],
+      "score": 0.9809761047363281,
+      "y_pos": 496,
+      "text": "a. Phế chủ khí: Phế giữ hô hấp, tiến hành thay đổi khí trong cơ thể, duy trì công năng hoạt\nđộng sống của con người. Mặt khác, Phế hướng về trăm mạch đa thủy cốc tinh vi phân bố\ntoàn thân. Ngoài ra, Đông y cho rằng Phế chủ khí cả người, khí của lục phủ, ngũ tạng\nthịnh, suy đều có quan hệ mật thiết với Phế. Công năng của Phế diễn biến xấu sẽ gây nên\nbệnh tật chủ yếu ở đường hô hấp: Ho hen, mệt nhọc, tiếng nói nhỏ yếu, hụt hơi.",
+      "confidence": 0.9992316938774275
+    },
+    {
+      "type": "text",
+      "img_path": "p0028_000_text.png",
+      "bbox": [
+        [
+          284,
+          862
+        ],
+        [
+          2359,
+          862
+        ],
+        [
+          2359,
+          1481
+        ],
+        [
+          284,
+          1481
+        ]
+      ],
+      "score": 0.9868453741073608,
+      "y_pos": 862,
+      "text": "b. Phế chủ túc giáng*, thông điều thủy đạo: Phế khí lấy thanh túc hạ giáng làm thuận, nếu\nPhế khí ngược lên sẽ phát sinh chứng ho hen. Sự vận hành chất lỏng trong người và bài\ntiết chẳng những cần sự vận hóa, chuyển đưa của Tỳ, còn cần sự túc giáng của Phế khí\nmới có thể thông điều thủy đạo mà chuyển đến Bàng quang. Nếu như Phế mất túc giáng\ncùng ảnh hưởng đến việc đại tạ** của thủy dịch, dẫn đến thủy thấp đình lưu, sinh ra khó\nđái và phù thũng. Do đó có câu: \"Phế là thượng nguồn của thủy\". Phế khí không túc giáng\nđược có khi quan hệ với Phế khí bế trở (Phế khí vướng tắc). Vì thế một số chứng suyễn\nvà phù thũng thường phối hợp dùng thuốc khai phế khí như <i>Ma hoàng, Tế tân, Khổ Hạnh</i>\nnhân để chữa.",
+      "confidence": 0.9980984617399741
+    },
+    {
+      "type": "text",
+      "img_path": "p0028_001_text.png",
+      "bbox": [
+        [
+          287,
+          1512
+        ],
+        [
+          2360,
+          1512
+        ],
+        [
+          2360,
+          1850
+        ],
+        [
+          287,
+          1850
+        ]
+      ],
+      "score": 0.9830144643783569,
+      "y_pos": 1512,
+      "text": "c. Phế chủ bì mao: Phế và da dẻ cơ biểu có quan hệ mật thiết. Phế, Vệ khí đầy đủ thì cơ\nbiểu kín chắc, da dẻ tươi sáng, sức chống đỡ của cơ thể mạnh mẽ, ngoại tà không dễ\nxâm phạm được. Khí của Phế, Vệ không vững, lỗ chân lông trống trải, dễ bị ngoại tà xâm\nphạm, thậm chí phạm thẳng vào Phế. Ngoài ra, nếu như cơ biểu không chắc, tinh dịch tiết\nra ngoài, lại sinh ra mồ hôi và mồ hôi trộm.",
+      "confidence": 0.9988210809296112
+    },
+    {
+      "type": "text",
+      "img_path": "p0028_005_text.png",
+      "bbox": [
+        [
+          286,
+          1880
+        ],
+        [
+          2359,
+          1880
+        ],
+        [
+          2359,
+          2006
+        ],
+        [
+          286,
+          2006
+        ]
+      ],
+      "score": 0.9593193531036377,
+      "y_pos": 1880,
+      "text": "d. Phế khai khiếu ở mũi: Mũi và Phế thông nhau, mũi là cửa của hệ hô hấp. Khi Phế có\nbệnh thường sinh tắc mũi, chảy nước mũi, khó thở, có khi cánh mũi phập phồng.",
+      "confidence": 0.9852991530500091
+    },
+    {
+      "type": "text",
+      "img_path": "p0028_004_text.png",
+      "bbox": [
+        [
+          284,
+          2034
+        ],
+        [
+          2359,
+          2034
+        ],
+        [
+          2359,
+          2300
+        ],
+        [
+          284,
+          2300
+        ]
+      ],
+      "score": 0.9787588119506836,
+      "y_pos": 2034,
+      "text": "đ. Phế có quan hệ với tiếng nói: Tiếng nói phát sinh do tác dụng của Phế khí. Phế khí đủ\nthì tiếng nói vang, trong. Phế khí hư thì tiếng nói thấp, đục, nhỏ. Phong hàn phạm phế,\nPhế khí vướng tắc thì tiếng nói như câm. Bệnh lao do Phế tà làm tổn hại, hoặc do Phế khí\ntiêu hao quá mức cũng dẫn đến mất tiếng.",
+      "confidence": 0.9963128691606605
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0028_011_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          2332
+        ],
+        [
+          1143,
+          2332
+        ],
+        [
+          1143,
+          2384
+        ],
+        [
+          283,
+          2384
+        ]
+      ],
+      "score": 0.8907619118690491,
+      "y_pos": 2332,
+      "text": "2. Sinh lý và bệnh lý của đại trường",
+      "confidence": 0.9981230560101961
+    },
+    {
+      "type": "text",
+      "img_path": "p0028_006_text.png",
+      "bbox": [
+        [
+          280,
+          2414
+        ],
+        [
+          2358,
+          2414
+        ],
+        [
+          2358,
+          2538
+        ],
+        [
+          280,
+          2538
+        ]
+      ],
+      "score": 0.9587713479995728,
+      "y_pos": 2414,
+      "text": "Công năng chủ yếu của Đại trường là chuyển tống cặn bã, bài tiết phân. Đại trường có bệnh\ngây ra: Táo bón, bí ỉa, đau bụng, ỉa chảy, hoặc lị máu mủ.",
+      "confidence": 0.997844966165312
+    },
+    {
+      "type": "text",
+      "img_path": "p0028_002_text.png",
+      "bbox": [
+        [
+          279,
+          2566
+        ],
+        [
+          2358,
+          2566
+        ],
+        [
+          2358,
+          2907
+        ],
+        [
+          279,
+          2907
+        ]
+      ],
+      "score": 0.9810282588005066,
+      "y_pos": 2566,
+      "text": "3. Phế và Đại trường thông qua kinh lạc cấu thành quan hệ biểu lý. Phế khí túc giáng thì\ncông năng của Đại trường bình thường, đại tiện dễ dàng. Nếu đại tiện tích trệ thì cũng ảnh\nhưởng ngược lại sự túc giáng của Phế khí. Khi trị liệu trên lâm sàng, có khi chữa bệnh của\nPhế lại chữa từ Đại trường. Có khi chữa bệnh Đại trường lại kèm chữa bệnh của Phế. Như\nchữa bệnh bí ỉa, ngoài việc dùng thuốc thông tiện ra, còn dùng cả thuốc nhuận Phế hoặc",
+      "confidence": 0.9989205004018966
+    },
+    {
+      "type": "footnote",
+      "img_path": "p0028_012_footnote.png",
+      "bbox": [
+        [
+          227,
+          3104
+        ],
+        [
+          920,
+          3104
+        ],
+        [
+          920,
+          3206
+        ],
+        [
+          227,
+          3206
+        ]
+      ],
+      "score": 0.8583965301513672,
+      "y_pos": 3104,
+      "text": "* Túc giáng: đưa xuông nghiêm chỉnh\n** Đại tạ: thay cũ đôi mới",
+      "confidence": 0.9494196343663577
+    },
+    {
+      "type": "footer",
+      "img_path": "p0028_010_footer.png",
+      "bbox": [
+        [
+          228,
+          3334
+        ],
+        [
+          1432,
+          3334
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.9045420289039612,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9982551729904031
+    },
+    {
+      "type": "number",
+      "img_path": "p0028_014_number.png",
+      "bbox": [
+        [
+          2332,
+          3339
+        ],
+        [
+          2357,
+          3339
+        ],
+        [
+          2357,
+          3373
+        ],
+        [
+          2332,
+          3373
+        ]
+      ],
+      "score": 0.8126441836357117,
+      "y_pos": 3339,
+      "text": "\n\n\n\n    \n    \n    \n    \n\n\n\n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0028.png"
+}

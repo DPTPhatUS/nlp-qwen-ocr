@@ -1,0 +1,240 @@
+{
+  "page_num": 493,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0493_003_header.png",
+      "bbox": [
+        [
+          1675,
+          144
+        ],
+        [
+          2369,
+          144
+        ],
+        [
+          2369,
+          198
+        ],
+        [
+          1675,
+          198
+        ]
+      ],
+      "score": 0.9190301895141602,
+      "y_pos": 144,
+      "text": "~ 2    ~ 7\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6485285695110049
+    },
+    {
+      "type": "header",
+      "img_path": "p0493_004_header.png",
+      "bbox": [
+        [
+          229,
+          151
+        ],
+        [
+          1448,
+          151
+        ],
+        [
+          1448,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9148451089859009,
+      "y_pos": 151,
+      "text": "CHẨN TRI NHỮNG BỆNH CHỨNG THƯỜNG GẶP BẰNG CHÂM CỨU",
+      "confidence": 0.9855625457488574
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0493_005_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          330
+        ],
+        [
+          901,
+          330
+        ],
+        [
+          901,
+          379
+        ],
+        [
+          226,
+          379
+        ]
+      ],
+      "score": 0.9110575318336487,
+      "y_pos": 330,
+      "text": "62. Việm tinh hoàn (sán khí)",
+      "confidence": 0.8961847424507141
+    },
+    {
+      "type": "text",
+      "img_path": "p0493_001_text.png",
+      "bbox": [
+        [
+          222,
+          419
+        ],
+        [
+          2359,
+          419
+        ],
+        [
+          2359,
+          612
+        ],
+        [
+          222,
+          612
+        ]
+      ],
+      "score": 0.97466641664505,
+      "y_pos": 419,
+      "text": "Chứng trạng chủ yếu của sán khí là: Tinh hoàn sưng to, đau đớn, đau dần lên bụng. Có khi khí\ntừ bụng dưới xông lên, đau tới bụng trên và tới ngực. Châm cứu chữa bệnh này rất có hiêu\nquả.",
+      "confidence": 0.9657156135408403
+    },
+    {
+      "type": "text",
+      "img_path": "p0493_007_text.png",
+      "bbox": [
+        [
+          282,
+          654
+        ],
+        [
+          2207,
+          654
+        ],
+        [
+          2207,
+          706
+        ],
+        [
+          282,
+          706
+        ]
+      ],
+      "score": 0.8902761936187744,
+      "y_pos": 654,
+      "text": "Cách chữa: Lấy huyệt Khí hải, Quan nguyên, Đại đôn, Khúc tuyển, Thái xung, Qui lai.",
+      "confidence": 0.994615869662341
+    },
+    {
+      "type": "text",
+      "img_path": "p0493_002_text.png",
+      "bbox": [
+        [
+          280,
+          746
+        ],
+        [
+          2359,
+          746
+        ],
+        [
+          2359,
+          866
+        ],
+        [
+          280,
+          866
+        ]
+      ],
+      "score": 0.954559862613678,
+      "y_pos": 746,
+      "text": "Châm xong lại cứu, hoặc chỉ cứu theo hình tam giác, sưng bên trái, cứu bên phải, hoặc sưng\nbên phải cứu bên trái.",
+      "confidence": 0.9985720447764017
+    },
+    {
+      "type": "text",
+      "img_path": "p0493_000_text.png",
+      "bbox": [
+        [
+          280,
+          907
+        ],
+        [
+          2359,
+          907
+        ],
+        [
+          2359,
+          1172
+        ],
+        [
+          280,
+          1172
+        ]
+      ],
+      "score": 0.9784085750579834,
+      "y_pos": 907,
+      "text": "Cách định huyệt: Lấy một sợi dây sạch đặt lên miệng, uốn theo chiều cong của môi, cho tới\nđầu khóe mép, lấy độ cong đó làm độ dài. Đem độ dài đó làm thành cạnh hình tam giác đều.\nĐặt một đỉnh nhọn tam giác vào giữa rốn, hai đỉnh còn lại xuống dưới rốn và cân hai bên,\nđánh dấu hai đỉnh nhọn dưới làm hai huyệt để cứu.",
+      "confidence": 0.9978534201722091
+    },
+    {
+      "type": "number",
+      "img_path": "p0493_008_number.png",
+      "bbox": [
+        [
+          2304,
+          3300
+        ],
+        [
+          2353,
+          3300
+        ],
+        [
+          2353,
+          3335
+        ],
+        [
+          2304,
+          3335
+        ]
+      ],
+      "score": 0.8543055057525635,
+      "y_pos": 3300,
+      "text": "    \n\n\n\n٠.\n\n",
+      "confidence": 0.941345265135169
+    },
+    {
+      "type": "footer",
+      "img_path": "p0493_006_footer.png",
+      "bbox": [
+        [
+          228,
+          3310
+        ],
+        [
+          1324,
+          3310
+        ],
+        [
+          1324,
+          3355
+        ],
+        [
+          228,
+          3355
+        ]
+      ],
+      "score": 0.8995919823646545,
+      "y_pos": 3310,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9984300597658697
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0493.png"
+}

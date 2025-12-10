@@ -1,0 +1,396 @@
+{
+  "page_num": 77,
+  "content": [
+    {
+      "type": "figure_title",
+      "img_path": "p0077_014_figure_title.png",
+      "bbox": [
+        [
+          464,
+          451
+        ],
+        [
+          1097,
+          451
+        ],
+        [
+          1097,
+          504
+        ],
+        [
+          464,
+          504
+        ]
+      ],
+      "score": 0.6931778192520142,
+      "y_pos": 451,
+      "text": "+ Công thức huyệt sử dụng",
+      "confidence": 0.997673284124445
+    },
+    {
+      "type": "table",
+      "img_path": "p0077_000_table.png",
+      "bbox": [
+        [
+          352,
+          551
+        ],
+        [
+          2125,
+          551
+        ],
+        [
+          2125,
+          1384
+        ],
+        [
+          352,
+          1384
+        ]
+      ],
+      "score": 0.9883167147636414,
+      "y_pos": 551,
+      "text": "Tên huyệt    Cơ sở lý luận    Tác dụng điều trị\nHội của mạch Đốc và 6 dương kinh. Vì là\nthuần dương nên chủ biểu.    Giải biểu\nBách hôi\nMình nóng, mồ hôi tư ra: tả sau bố\nĐại chùy\nSợ lạnh, không có mồ hôi bổ sau tả\nKhúc trì    Phối hợp Khúc trì, Đại chùy, Hợp cốc là    Ha sốt\nkinh nghiệm để trị cảm sốt\nHợp cốc\nNgoại quan    Hôi của Thủ Thiếu dương và Dương duy    Đặc hiệu khu phong, giải biểu\nmach\nPhong trì    Hôi của Thủ túc Thiếu dương và Dương    Đặc hiệu khu phong, giải biểu\nduy mach\nPhong môn    Khu phong phần trên cơ thể    Tri cảm, đau đầu",
+      "confidence": 0.9290541136796633
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0077_008_paragraph_title.png",
+      "bbox": [
+        [
+          708,
+          1515
+        ],
+        [
+          1761,
+          1515
+        ],
+        [
+          1761,
+          1582
+        ],
+        [
+          708,
+          1582
+        ]
+      ],
+      "score": 0.9058546423912048,
+      "y_pos": 1515,
+      "text": "BÊNH NGOAI CẨM LUC DÂM Ở PHẦN BIỂU",
+      "confidence": 0.995127495792177
+    },
+    {
+      "type": "text",
+      "img_path": "p0077_010_text.png",
+      "bbox": [
+        [
+          366,
+          1703
+        ],
+        [
+          1707,
+          1703
+        ],
+        [
+          1707,
+          1751
+        ],
+        [
+          366,
+          1751
+        ]
+      ],
+      "score": 0.8611857295036316,
+      "y_pos": 1703,
+      "text": "- Thường gặp trong bệnh cảnh cảm cúm hoặc viêm đường hô hấp trên.",
+      "confidence": 0.9996587038040161
+    },
+    {
+      "type": "text",
+      "img_path": "p0077_009_text.png",
+      "bbox": [
+        [
+          365,
+          1776
+        ],
+        [
+          2104,
+          1776
+        ],
+        [
+          2104,
+          1874
+        ],
+        [
+          365,
+          1874
+        ]
+      ],
+      "score": 0.901879072189331,
+      "y_pos": 1776,
+      "text": "- Triệu chứng quan trọng của ngoại tà phạm biểu (gồm Vệ phận và Phế): dấu hiệu có tính\nchất toàn thân: sốt, đau nhức mình mẩy, triệu chứng ở bộ máy hộ hấp.",
+      "confidence": 0.9993137089753306
+    },
+    {
+      "type": "text",
+      "img_path": "p0077_012_text.png",
+      "bbox": [
+        [
+          367,
+          1897
+        ],
+        [
+          1994,
+          1897
+        ],
+        [
+          1994,
+          1948
+        ],
+        [
+          367,
+          1948
+        ]
+      ],
+      "score": 0.8090966939926147,
+      "y_pos": 1897,
+      "text": "- Thuốc tiêu biểu trong điều trị ngoại cảm phong hàn: Quế chi thang, Ma hoàng thang.",
+      "confidence": 0.9996841653834941
+    },
+    {
+      "type": "text",
+      "img_path": "p0077_013_text.png",
+      "bbox": [
+        [
+          366,
+          1971
+        ],
+        [
+          1661,
+          1971
+        ],
+        [
+          1661,
+          2021
+        ],
+        [
+          366,
+          2021
+        ]
+      ],
+      "score": 0.7535097002983093,
+      "y_pos": 1971,
+      "text": "- Thuốc tiêu biểu trong điều trị ngoại cảm phong hàn: Ngân kiều tán.",
+      "confidence": 0.9995552922998155
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0077_005_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          2103
+        ],
+        [
+          1264,
+          2103
+        ],
+        [
+          1264,
+          2153
+        ],
+        [
+          344,
+          2153
+        ]
+      ],
+      "score": 0.9268887042999268,
+      "y_pos": 2103,
+      "text": "2.3. Ngoại tà phạm vào các quan tiết",
+      "confidence": 0.9728953477583433
+    },
+    {
+      "type": "text",
+      "img_path": "p0077_002_text.png",
+      "bbox": [
+        [
+          342,
+          2188
+        ],
+        [
+          2125,
+          2188
+        ],
+        [
+          2125,
+          2353
+        ],
+        [
+          342,
+          2353
+        ]
+      ],
+      "score": 0.9745146036148071,
+      "y_pos": 2188,
+      "text": "Đây là những bệnh lý đau nhức ở các khớp xương. Triệu chứng chính\nthay đối tùy theo loại ngoại nhân gây bệnh và vị trí của khớp bị thương tổn.\nBệnh thường được trình bày trong chương Tý chứng.",
+      "confidence": 0.9993757017230592
+    },
+    {
+      "type": "text",
+      "img_path": "p0077_001_text.png",
+      "bbox": [
+        [
+          340,
+          2383
+        ],
+        [
+          2123,
+          2383
+        ],
+        [
+          2123,
+          2608
+        ],
+        [
+          340,
+          2608
+        ]
+      ],
+      "score": 0.9795593023300171,
+      "y_pos": 2383,
+      "text": "Theo Tý luận thiên (Tố Vấn) thì 3 khí phong hàn thấp lẫn lộn đồn đến,\nhợp lại mà thành chứng tý. Nếu phong khí thắng thì sinh Hành tý. Nếu hàn\nkhí thắng thì sinh Thống tý. Nếu thấp khí thắng thì sinh Chước tý. Người mà\ndương thịnh, nhiệt náu bên trong hoặc 3 tà lưu trệ lâu ngày thì sinh Nhiệt tý.",
+      "confidence": 0.9844656291006936
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0077_006_paragraph_title.png",
+      "bbox": [
+        [
+          342,
+          2664
+        ],
+        [
+          1148,
+          2664
+        ],
+        [
+          1148,
+          2715
+        ],
+        [
+          342,
+          2715
+        ]
+      ],
+      "score": 0.9253892302513123,
+      "y_pos": 2664,
+      "text": "2.3.1. Phong khí thắng (Hành tý)",
+      "confidence": 0.852060631794088
+    },
+    {
+      "type": "text",
+      "img_path": "p0077_004_text.png",
+      "bbox": [
+        [
+          341,
+          2746
+        ],
+        [
+          2128,
+          2746
+        ],
+        [
+          2128,
+          2859
+        ],
+        [
+          341,
+          2859
+        ]
+      ],
+      "score": 0.9582423567771912,
+      "y_pos": 2746,
+      "text": "Triệu chứng: mình mẩy đau nhức, đau nhiều khớp, di chuyển, không cố\nđịnh ở chỗ nào cả. Sợ gió, rêu lưỡi trắng, mạch phù.",
+      "confidence": 0.9995544820112114
+    },
+    {
+      "type": "text",
+      "img_path": "p0077_003_text.png",
+      "bbox": [
+        [
+          406,
+          2890
+        ],
+        [
+          2124,
+          2890
+        ],
+        [
+          2124,
+          3000
+        ],
+        [
+          406,
+          3000
+        ]
+      ],
+      "score": 0.9602794051170349,
+      "y_pos": 2890,
+      "text": "- Pháp trị: khu phong là chính, tán hàn trừ thấp là phụ kèm hành khí\nhoạt huyết (Phòng phong thang gia giảm).",
+      "confidence": 0.7019289069232486
+    },
+    {
+      "type": "number",
+      "img_path": "p0077_011_number.png",
+      "bbox": [
+        [
+          354,
+          3111
+        ],
+        [
+          405,
+          3111
+        ],
+        [
+          405,
+          3148
+        ],
+        [
+          354,
+          3148
+        ]
+      ],
+      "score": 0.8605183362960815,
+      "y_pos": 3111,
+      "text": "    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0077_007_footer.png",
+      "bbox": [
+        [
+          292,
+          3311
+        ],
+        [
+          1072,
+          3311
+        ],
+        [
+          1072,
+          3365
+        ],
+        [
+          292,
+          3365
+        ]
+      ],
+      "score": 0.9165436625480652,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.885491463116237
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0077.png"
+}

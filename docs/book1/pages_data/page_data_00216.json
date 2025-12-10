@@ -1,0 +1,682 @@
+{
+  "page_num": 216,
+  "content": [
+    {
+      "type": "paragraph_title",
+      "img_path": "p0216_024_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          453
+        ],
+        [
+          1556,
+          453
+        ],
+        [
+          1556,
+          514
+        ],
+        [
+          343,
+          514
+        ]
+      ],
+      "score": 0.8768790364265442,
+      "y_pos": 453,
+      "text": "2. NHỮNG BÊNH CHỨNG TÂM - TIẾU TRƯỜNG",
+      "confidence": 0.9950958475088462
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0216_005_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          564
+        ],
+        [
+          1009,
+          564
+        ],
+        [
+          1009,
+          614
+        ],
+        [
+          343,
+          614
+        ]
+      ],
+      "score": 0.9241264462471008,
+      "y_pos": 564,
+      "text": "2.1. Bệnh chứng tạng Tâm",
+      "confidence": 0.9967264235019684
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_001_text.png",
+      "bbox": [
+        [
+          341,
+          658
+        ],
+        [
+          2123,
+          658
+        ],
+        [
+          2123,
+          826
+        ],
+        [
+          341,
+          826
+        ]
+      ],
+      "score": 0.9758694767951965,
+      "y_pos": 658,
+      "text": "Tâm bao gồm Tâm âm và Tâm dương, Tâm huyết và Tâm khí. Tâm là vị\nđại chủ, đứng đầu hoạt động tạng phủ của cơ thể. Do vậy, bệnh lý tổn thương\ntang Tâm bao gồm 2 nhóm.",
+      "confidence": 0.994946512593481
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_023_text.png",
+      "bbox": [
+        [
+          463,
+          859
+        ],
+        [
+          833,
+          859
+        ],
+        [
+          833,
+          903
+        ],
+        [
+          463,
+          903
+        ]
+      ],
+      "score": 0.8900267481803894,
+      "y_pos": 859,
+      "text": "Nhóm đơn bênh",
+      "confidence": 0.9916067123413086
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_020_text.png",
+      "bbox": [
+        [
+          462,
+          941
+        ],
+        [
+          960,
+          941
+        ],
+        [
+          960,
+          989
+        ],
+        [
+          462,
+          989
+        ]
+      ],
+      "score": 0.9131172299385071,
+      "y_pos": 941,
+      "text": "+ Tâm huyết uất trê.",
+      "confidence": 0.9706685813990507
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_017_text.png",
+      "bbox": [
+        [
+          461,
+          1022
+        ],
+        [
+          1479,
+          1022
+        ],
+        [
+          1479,
+          1070
+        ],
+        [
+          461,
+          1070
+        ]
+      ],
+      "score": 0.9152861833572388,
+      "y_pos": 1022,
+      "text": "+ Đàm hỏa nhiễu Tâm. Đàm mê Tâm khiếu.",
+      "confidence": 0.965056462585926
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_012_text.png",
+      "bbox": [
+        [
+          463,
+          1106
+        ],
+        [
+          865,
+          1106
+        ],
+        [
+          865,
+          1153
+        ],
+        [
+          463,
+          1153
+        ]
+      ],
+      "score": 0.9192022085189819,
+      "y_pos": 1106,
+      "text": "Tâm huyết hư.",
+      "confidence": 0.9987358172734578
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_009_text.png",
+      "bbox": [
+        [
+          461,
+          1191
+        ],
+        [
+          1319,
+          1191
+        ],
+        [
+          1319,
+          1238
+        ],
+        [
+          461,
+          1238
+        ]
+      ],
+      "score": 0.9205411672592163,
+      "y_pos": 1191,
+      "text": "+ Tâm âm hư. Tâm hỏa thương cang.",
+      "confidence": 0.9898715513093131
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_021_text.png",
+      "bbox": [
+        [
+          463,
+          1272
+        ],
+        [
+          809,
+          1272
+        ],
+        [
+          809,
+          1316
+        ],
+        [
+          463,
+          1316
+        ]
+      ],
+      "score": 0.9130725860595703,
+      "y_pos": 1272,
+      "text": "am.    ĸnı",
+      "confidence": 0.697579038888216
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_008_text.png",
+      "bbox": [
+        [
+          463,
+          1356
+        ],
+        [
+          871,
+          1356
+        ],
+        [
+          871,
+          1402
+        ],
+        [
+          463,
+          1402
+        ]
+      ],
+      "score": 0.9205514788627625,
+      "y_pos": 1356,
+      "text": "+    Tâm dương hư.",
+      "confidence": 0.7691528374950092
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_014_text.png",
+      "bbox": [
+        [
+          463,
+          1438
+        ],
+        [
+          833,
+          1438
+        ],
+        [
+          833,
+          1486
+        ],
+        [
+          463,
+          1486
+        ]
+      ],
+      "score": 0.9160842299461365,
+      "y_pos": 1438,
+      "text": "Nhóm hợp bệnh",
+      "confidence": 0.9872962355613708
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_010_text.png",
+      "bbox": [
+        [
+          463,
+          1522
+        ],
+        [
+          794,
+          1522
+        ],
+        [
+          794,
+          1568
+        ],
+        [
+          463,
+          1568
+        ]
+      ],
+      "score": 0.9199414849281311,
+      "y_pos": 1522,
+      "text": "11    •",
+      "confidence": 0.4976011589169502
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_006_text.png",
+      "bbox": [
+        [
+          465,
+          1605
+        ],
+        [
+          973,
+          1605
+        ],
+        [
+          973,
+          1653
+        ],
+        [
+          465,
+          1653
+        ]
+      ],
+      "score": 0.9232094883918762,
+      "y_pos": 1605,
+      "text": "+ Tâm Thận bất giao.",
+      "confidence": 0.9821967590938915
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_016_text.png",
+      "bbox": [
+        [
+          464,
+          1685
+        ],
+        [
+          908,
+          1685
+        ],
+        [
+          908,
+          1730
+        ],
+        [
+          464,
+          1730
+        ]
+      ],
+      "score": 0.9157751798629761,
+      "y_pos": 1685,
+      "text": "Tâm Phế khí hư.",
+      "confidence": 0.9845066666603088
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0216_004_paragraph_title.png",
+      "bbox": [
+        [
+          342,
+          1793
+        ],
+        [
+          1257,
+          1793
+        ],
+        [
+          1257,
+          1844
+        ],
+        [
+          342,
+          1844
+        ]
+      ],
+      "score": 0.9371156692504883,
+      "y_pos": 1793,
+      "text": "2.2.1. Bệnh chứng Tâm huyết uất trệ",
+      "confidence": 0.9838985172477929
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0216_022_paragraph_title.png",
+      "bbox": [
+        [
+          344,
+          1891
+        ],
+        [
+          822,
+          1891
+        ],
+        [
+          822,
+          1938
+        ],
+        [
+          344,
+          1938
+        ]
+      ],
+      "score": 0.9075930118560791,
+      "y_pos": 1891,
+      "text": "2.2.1.1. Bênh nguyên",
+      "confidence": 0.9388717006553303
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_011_text.png",
+      "bbox": [
+        [
+          405,
+          1986
+        ],
+        [
+          1887,
+          1986
+        ],
+        [
+          1887,
+          2036
+        ],
+        [
+          405,
+          2036
+        ]
+      ],
+      "score": 0.9194085001945496,
+      "y_pos": 1986,
+      "text": "\n    Do đòm troc (sản vật bệnh lý do khí hư hoặc dương hư sinh ra).\n",
+      "confidence": 0.9798521257259629
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_007_text.png",
+      "bbox": [
+        [
+          404,
+          2070
+        ],
+        [
+          1294,
+          2070
+        ],
+        [
+          1294,
+          2119
+        ],
+        [
+          404,
+          2119
+        ]
+      ],
+      "score": 0.9212685227394104,
+      "y_pos": 2070,
+      "text": "\n    Do tình chí bi kích đông gây khí uất.\n",
+      "confidence": 0.6092099140560816
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0216_019_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          2152
+        ],
+        [
+          760,
+          2152
+        ],
+        [
+          760,
+          2199
+        ],
+        [
+          343,
+          2199
+        ]
+      ],
+      "score": 0.9144606590270996,
+      "y_pos": 2152,
+      "text": "2.2.1.2. Bênh sinh",
+      "confidence": 0.8909119695425034
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_000_text.png",
+      "bbox": [
+        [
+          342,
+          2246
+        ],
+        [
+          2124,
+          2246
+        ],
+        [
+          2124,
+          2469
+        ],
+        [
+          342,
+          2469
+        ]
+      ],
+      "score": 0.9804023504257202,
+      "y_pos": 2246,
+      "text": "Tâm huyết uất trệ là bệnh cảnh đặc biệt của một biểu hiện thực chứng\ntrên nền tảng hư chứng. Đó là cơ thể có sẵn khí hư hoặc dương hư sinh ra đờm\ntroc, đờm trọc ngưng tụ làm ảnh hưởng đến sự vận hành chu lưu toàn thân\ncủa Huyết.",
+      "confidence": 0.9802284605822416
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_002_text.png",
+      "bbox": [
+        [
+          341,
+          2503
+        ],
+        [
+          2125,
+          2503
+        ],
+        [
+          2125,
+          2669
+        ],
+        [
+          341,
+          2669
+        ]
+      ],
+      "score": 0.9749559760093689,
+      "y_pos": 2503,
+      "text": "Hoặc tình chí bị kích động làm cho khí uất, cũng ảnh hưởng đến sự vận\nhành của Huyết. Mà huyết dịch là cơ sở cho hoạt động của thần chí. Khi huyết\ndịch vận hành bị uất trệ, ngưng tụ sẽ sinh ra chứng đau, tức, dấu ứ huyết.",
+      "confidence": 0.9983439487427278
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0216_015_paragraph_title.png",
+      "bbox": [
+        [
+          343,
+          2726
+        ],
+        [
+          1026,
+          2726
+        ],
+        [
+          1026,
+          2776
+        ],
+        [
+          343,
+          2776
+        ]
+      ],
+      "score": 0.9159497022628784,
+      "y_pos": 2726,
+      "text": "2.2.1.3. Triệu chứng lâm sàng",
+      "confidence": 0.9972772944358087
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_013_text.png",
+      "bbox": [
+        [
+          405,
+          2820
+        ],
+        [
+          1779,
+          2820
+        ],
+        [
+          1779,
+          2872
+        ],
+        [
+          405,
+          2872
+        ]
+      ],
+      "score": 0.9176197052001953,
+      "y_pos": 2820,
+      "text": "- Nặng đầu, đau đầu, chóng mặt. Hồi hộp, đánh trống ngực.",
+      "confidence": 0.9859967878309347
+    },
+    {
+      "type": "text",
+      "img_path": "p0216_003_text.png",
+      "bbox": [
+        [
+          407,
+          2905
+        ],
+        [
+          2121,
+          2905
+        ],
+        [
+          2121,
+          3014
+        ],
+        [
+          407,
+          3014
+        ]
+      ],
+      "score": 0.9569531083106995,
+      "y_pos": 2905,
+      "text": "- Đau vùng trước ngực, đau cấp ở tim. Bứt rứt, nặng mỏi, tê buốt ở chi.\nTiểu đâm màu. Lưỡi đỏ, có vết tím bầm. Mạch tế hoặc sáp.",
+      "confidence": 0.9954917158827671
+    },
+    {
+      "type": "number",
+      "img_path": "p0216_025_number.png",
+      "bbox": [
+        [
+          2041,
+          3110
+        ],
+        [
+          2120,
+          3110
+        ],
+        [
+          2120,
+          3147
+        ],
+        [
+          2041,
+          3147
+        ]
+      ],
+      "score": 0.8706408739089966,
+      "y_pos": 3110,
+      "text": "    \n",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0216_018_footer.png",
+      "bbox": [
+        [
+          293,
+          3310
+        ],
+        [
+          1072,
+          3310
+        ],
+        [
+          1072,
+          3365
+        ],
+        [
+          293,
+          3365
+        ]
+      ],
+      "score": 0.9145803451538086,
+      "y_pos": 3310,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.879438819204058
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0216.png"
+}

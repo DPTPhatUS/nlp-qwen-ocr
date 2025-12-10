@@ -1,0 +1,188 @@
+{
+  "page_num": 288,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0288_001_header.png",
+      "bbox": [
+        [
+          1609,
+          143
+        ],
+        [
+          2370,
+          143
+        ],
+        [
+          2370,
+          203
+        ],
+        [
+          1609,
+          203
+        ]
+      ],
+      "score": 0.9168428778648376,
+      "y_pos": 143,
+      "text": "~2\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.8009170967908132
+    },
+    {
+      "type": "header",
+      "img_path": "p0288_002_header.png",
+      "bbox": [
+        [
+          229,
+          160
+        ],
+        [
+          1346,
+          160
+        ],
+        [
+          1346,
+          202
+        ],
+        [
+          229,
+          202
+        ]
+      ],
+      "score": 0.9096992611885071,
+      "y_pos": 160,
+      "text": "CÁC BẢNG TRA CỨU HUYỆT LIÊN QUAN TRONG CHÂM CỨU",
+      "confidence": 0.998783539752571
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0288_006_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          312
+        ],
+        [
+          1091,
+          312
+        ],
+        [
+          1091,
+          368
+        ],
+        [
+          226,
+          368
+        ]
+      ],
+      "score": 0.5353808403015137,
+      "y_pos": 312,
+      "text": "CÁC HUYỆT GIAO HỘI: Bảng 18 - 19",
+      "confidence": 0.9807291837299571
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0288_004_figure_title.png",
+      "bbox": [
+        [
+          784,
+          398
+        ],
+        [
+          1803,
+          398
+        ],
+        [
+          1803,
+          447
+        ],
+        [
+          784,
+          447
+        ]
+      ],
+      "score": 0.8880312442779541,
+      "y_pos": 398,
+      "text": "Bảng 18 - Bảng các huyệt giao hội ở dương kinh",
+      "confidence": 0.994707927107811
+    },
+    {
+      "type": "table",
+      "img_path": "p0288_000_table.png",
+      "bbox": [
+        [
+          245,
+          466
+        ],
+        [
+          2347,
+          466
+        ],
+        [
+          2347,
+          3182
+        ],
+        [
+          245,
+          3182
+        ]
+      ],
+      "score": 0.9914484620094299,
+      "y_pos": 466,
+      "text": "Túc thái dương    Thủ thái dương    Túc thiếu dương    Thủ thiếu dương    minh    Thủ dương minh\nĐốc mạch    Túc dương    <b>D</b>rong duy    Dương kiểu    Đới mạch    Ghi chú\nThần đình    0    Χ    Χ    0:Kinh sở thuộc\nThuỷ câu    0    Χ    Χ    x: Kinh giao hội\nBách hội    0    Χ\nNão hộ    0    Χ\nPhong phủ    0    Χ\nÁ môn    0    Χ\nĐại chuỳ    0    Χ    Χ\nĐào đạo    0    Χ\nTrường cường    0    chỗ kết của thiếu âm\nTình minh    0    Χ\nĐại trữ    0    Χ\nPhong môn    Χ    0\nPhụ phân    0    Χ\nPhụ dương    0    Χ    Khích:dương kiều\nThân mạch    0    Χ    Sinh: dương kiều\nBộc tham    0    Χ    Gốc: dương kiều\nKim môn    0    Χ    Biệt thược dương duy\nNhu hội    0    Χ    Χ\nBinh phong    0    Χ    Χ    Χ\nQuyền liêu    Χ\nThính cung    0    Χ    Χ\nĐồng tử liêu    Χ    0    Χ\nKhách chủ nhân    0    Χ    Χ\nHàm yếm    0    Χ    Χ\nHuyền ly    0    Χ    Χ\nKhúc phát    Χ    0\nSuất cốc    Χ    0\nPhù bạch    Χ    0\nKhiếu âm    Χ    0\nHoàn cốt    Χ    0\nBản thần    0    Χ",
+      "confidence": 0.8616136320139427
+    },
+    {
+      "type": "footer",
+      "img_path": "p0288_003_footer.png",
+      "bbox": [
+        [
+          229,
+          3335
+        ],
+        [
+          1439,
+          3335
+        ],
+        [
+          1439,
+          3388
+        ],
+        [
+          229,
+          3388
+        ]
+      ],
+      "score": 0.8990558981895447,
+      "y_pos": 3335,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9466784450243104
+    },
+    {
+      "type": "number",
+      "img_path": "p0288_005_number.png",
+      "bbox": [
+        [
+          2330,
+          3340
+        ],
+        [
+          2355,
+          3340
+        ],
+        [
+          2355,
+          3373
+        ],
+        [
+          2330,
+          3373
+        ]
+      ],
+      "score": 0.8140534162521362,
+      "y_pos": 3340,
+      "text": "        \n    \n\n\n\n\n\n    \n\n\n    \n\n\n\n\n\n    \n    ۰\n    ٠.\n    \n\nе    ۰.",
+      "confidence": 0.9294360396452248
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0288.png"
+}

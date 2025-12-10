@@ -1,0 +1,318 @@
+{
+  "page_num": 610,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0610_006_header.png",
+      "bbox": [
+        [
+          1674,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          197
+        ],
+        [
+          1674,
+          197
+        ]
+      ],
+      "score": 0.925096333026886,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.710203885677315
+    },
+    {
+      "type": "header",
+      "img_path": "p0610_009_header.png",
+      "bbox": [
+        [
+          230,
+          152
+        ],
+        [
+          1173,
+          152
+        ],
+        [
+          1173,
+          200
+        ],
+        [
+          230,
+          200
+        ]
+      ],
+      "score": 0.9165706038475037,
+      "y_pos": 152,
+      "text": "PHÉP CHẨN BẾNH BẮNG NHIỆT ĐÔ KINH LẠC",
+      "confidence": 0.9942242655998621
+    },
+    {
+      "type": "table",
+      "img_path": "p0610_000_table.png",
+      "bbox": [
+        [
+          410,
+          297
+        ],
+        [
+          2181,
+          297
+        ],
+        [
+          2181,
+          795
+        ],
+        [
+          410,
+          795
+        ]
+      ],
+      "score": 0.9795036315917969,
+      "y_pos": 297,
+      "text": "8    9    10    11'    12'\nBàng quang\nThận\nĐảm\nVi\nCan",
+      "confidence": 0.881715918878714
+    },
+    {
+      "type": "text",
+      "img_path": "p0610_004_text.png",
+      "bbox": [
+        [
+          279,
+          1434
+        ],
+        [
+          2361,
+          1434
+        ],
+        [
+          2361,
+          1912
+        ],
+        [
+          279,
+          1912
+        ]
+      ],
+      "score": 0.9605474472045898,
+      "y_pos": 1434,
+      "text": "Chú thích: Trong Bảng chỉ số nhiệt kinh lạc của người bệnh (gọi tắt là bảng A) các con\nsố đánh dấu trong các ô trống hay ở đầu các cột dùng để định vị các ô và cột, để tiện diễn\ngiải ý nghĩa của các ô và cột đó. Các ô và cột được đánh số không có dấu phẩy ở trên đầu\nghi các thông số của chi trên (tay). Các ô và cột được đánh số có dấu phẩy trên đầu ghi các\nthông số của chi dưới (chân). Các ô và cột được đánh số như nhau chỉ khác ở dấu phẩy\ncũng giống nhau về ý nghĩa. Việc sắp xếp các ô và cột như trên nhằm tiện lợi cho việc trực\nquan để nhận định kết quả.",
+      "confidence": 0.9986418052016203
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0610_008_paragraph_title.png",
+      "bbox": [
+        [
+          224,
+          1952
+        ],
+        [
+          1158,
+          1952
+        ],
+        [
+          1158,
+          2003
+        ],
+        [
+          224,
+          2003
+        ]
+      ],
+      "score": 0.9189318418502808,
+      "y_pos": 1952,
+      "text": "2. Cách ghi các số đo nhiệt độ kinh lạc",
+      "confidence": 0.9156894727451045
+    },
+    {
+      "type": "text",
+      "img_path": "p0610_005_text.png",
+      "bbox": [
+        [
+          280,
+          2041
+        ],
+        [
+          2361,
+          2041
+        ],
+        [
+          2361,
+          2167
+        ],
+        [
+          280,
+          2167
+        ]
+      ],
+      "score": 0.9579238295555115,
+      "y_pos": 2041,
+      "text": "Thực hiện theo trình tự đo nhiệt độ kinh lạc như đã trình bày ở trên, ghi các kết quả thu được\nvào các cột có đánh số: 8 (tay trái), 11 (tay phải), 8' (chân trái), 11' (chân phải).",
+      "confidence": 0.9996012400878571
+    },
+    {
+      "type": "text",
+      "img_path": "p0610_003_text.png",
+      "bbox": [
+        [
+          280,
+          2205
+        ],
+        [
+          2358,
+          2205
+        ],
+        [
+          2358,
+          2325
+        ],
+        [
+          280,
+          2325
+        ]
+      ],
+      "score": 0.9658381938934326,
+      "y_pos": 2205,
+      "text": "Như vậy, cột 8 và 8' ghi nhiệt độ bên trái của các kinh, cột 11 và 11' ghi nhiệt độ bên phải\ncủa các kinh.",
+      "confidence": 0.9948905534989445
+    },
+    {
+      "type": "text",
+      "img_path": "p0610_007_text.png",
+      "bbox": [
+        [
+          281,
+          2364
+        ],
+        [
+          2043,
+          2364
+        ],
+        [
+          2043,
+          2420
+        ],
+        [
+          281,
+          2420
+        ]
+      ],
+      "score": 0.9215328693389893,
+      "y_pos": 2364,
+      "text": "- Ví dụ: Ông Lê Quang T, 55 tuổi, cán bộ hưu trí, phường Ô Chợ Dừa, Hà Nội.",
+      "confidence": 0.9904106429644993
+    },
+    {
+      "type": "text",
+      "img_path": "p0610_001_text.png",
+      "bbox": [
+        [
+          279,
+          2459
+        ],
+        [
+          2359,
+          2459
+        ],
+        [
+          2359,
+          2583
+        ],
+        [
+          279,
+          2583
+        ]
+      ],
+      "score": 0.9682808518409729,
+      "y_pos": 2459,
+      "text": "Bị chứng choáng váng, hoa mắt, đi lại không vững đã 6 tháng nay, có tiền sử bị điện giật ngã\nsai 2 đốt sống L1 và L2, hiện nay khớp đã vào ổn định.",
+      "confidence": 0.9997323750430509
+    },
+    {
+      "type": "text",
+      "img_path": "p0610_002_text.png",
+      "bbox": [
+        [
+          279,
+          2622
+        ],
+        [
+          2359,
+          2622
+        ],
+        [
+          2359,
+          2745
+        ],
+        [
+          279,
+          2745
+        ]
+      ],
+      "score": 0.9677498936653137,
+      "y_pos": 2622,
+      "text": "Đo lúc 10 giờ 20 phút ngày 30/6/1984, nhiệt độ môi trường: 29,3°C khô, (không có máy ghi\nđộ ẩm nên gọi là nhiệt độ khô).",
+      "confidence": 0.9973055336812531
+    },
+    {
+      "type": "number",
+      "img_path": "p0610_011_number.png",
+      "bbox": [
+        [
+          2306,
+          3336
+        ],
+        [
+          2351,
+          3336
+        ],
+        [
+          2351,
+          3374
+        ],
+        [
+          2306,
+          3374
+        ]
+      ],
+      "score": 0.8515324592590332,
+      "y_pos": 3336,
+      "text": "    \n    \n\n    \n    \n    \n    \n\n۰    \n٠.    \n    ",
+      "confidence": 0.9499991051852703
+    },
+    {
+      "type": "footer",
+      "img_path": "p0610_010_footer.png",
+      "bbox": [
+        [
+          228,
+          3340
+        ],
+        [
+          1323,
+          3340
+        ],
+        [
+          1323,
+          3388
+        ],
+        [
+          228,
+          3388
+        ]
+      ],
+      "score": 0.9107176065444946,
+      "y_pos": 3340,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985950510456877
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0610.png"
+}

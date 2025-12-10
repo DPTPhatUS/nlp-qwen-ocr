@@ -1,0 +1,604 @@
+{
+  "page_num": 17,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0017_007_header.png",
+      "bbox": [
+        [
+          1608,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          202
+        ],
+        [
+          1608,
+          202
+        ]
+      ],
+      "score": 0.9324042797088623,
+      "y_pos": 143,
+      "text": "~ ~ ~\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7141398120494116
+    },
+    {
+      "type": "header",
+      "img_path": "p0017_008_header.png",
+      "bbox": [
+        [
+          227,
+          154
+        ],
+        [
+          1328,
+          154
+        ],
+        [
+          1328,
+          202
+        ],
+        [
+          227,
+          202
+        ]
+      ],
+      "score": 0.9240885376930237,
+      "y_pos": 154,
+      "text": "VŨ TRU QUAN VÀ CÁC THUYẾT CƠ BÁN CỦA ĐÔNG Y",
+      "confidence": 0.9963735540707906
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_003_text.png",
+      "bbox": [
+        [
+          278,
+          298
+        ],
+        [
+          2356,
+          298
+        ],
+        [
+          2356,
+          412
+        ],
+        [
+          278,
+          412
+        ]
+      ],
+      "score": 0.9658776521682739,
+      "y_pos": 298,
+      "text": "và đòi hỏi chuyên sâu, ít dùng trực tiếp trong điều trị triệu chứng, nên chỉ tóm tắt, mà không\ngiới thiệu kỹ hơn.",
+      "confidence": 0.9983104241391023
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0017_015_paragraph_title.png",
+      "bbox": [
+        [
+          283,
+          452
+        ],
+        [
+          835,
+          452
+        ],
+        [
+          835,
+          501
+        ],
+        [
+          283,
+          501
+        ]
+      ],
+      "score": 0.8809301257133484,
+      "y_pos": 452,
+      "text": "2. Thiên can ngũ hành.",
+      "confidence": 0.9203226317962011
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_005_text.png",
+      "bbox": [
+        [
+          279,
+          530
+        ],
+        [
+          2359,
+          530
+        ],
+        [
+          2359,
+          648
+        ],
+        [
+          279,
+          648
+        ]
+      ],
+      "score": 0.9600524306297302,
+      "y_pos": 530,
+      "text": "Loại này lấy hai can chẵn lẻ liền nhau thành một cặp, mỗi cặp ứng với một hành, năm cặp\nliền nhau làm một chu kỳ:",
+      "confidence": 0.9929685206821051
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_021_text.png",
+      "bbox": [
+        [
+          283,
+          668
+        ],
+        [
+          1089,
+          668
+        ],
+        [
+          1089,
+          720
+        ],
+        [
+          283,
+          720
+        ]
+      ],
+      "score": 0.769406259059906,
+      "y_pos": 668,
+      "text": "Giáp, Át = Môc; Bính, Đinh = Hỏa;",
+      "confidence": 0.9300834451402936
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_022_text.png",
+      "bbox": [
+        [
+          282,
+          739
+        ],
+        [
+          1562,
+          739
+        ],
+        [
+          1562,
+          793
+        ],
+        [
+          282,
+          793
+        ]
+      ],
+      "score": 0.7439785599708557,
+      "y_pos": 739,
+      "text": "Mậu, Kỷ = Thổ; Canh, Tân = Kim; Nhâm, Quý = Thủy",
+      "confidence": 0.9920242094993591
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_006_text.png",
+      "bbox": [
+        [
+          279,
+          821
+        ],
+        [
+          2359,
+          821
+        ],
+        [
+          2359,
+          940
+        ],
+        [
+          279,
+          940
+        ]
+      ],
+      "score": 0.9573236703872681,
+      "y_pos": 821,
+      "text": "Thiên can Ngũ Hành ứng với tạng phủ không theo khí hậu môi trường ứng với hành như\nthiên can ngũ vận, mà là ứng với tình trạng hưu, vượng của bản thân khí công năng tạng",
+      "confidence": 0.9996904804818816
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_000_text.png",
+      "bbox": [
+        [
+          278,
+          964
+        ],
+        [
+          2359,
+          964
+        ],
+        [
+          2359,
+          1284
+        ],
+        [
+          278,
+          1284
+        ]
+      ],
+      "score": 0.9802650213241577,
+      "y_pos": 964,
+      "text": "phủ bên trong theo một trật tự định sẵn. Ví dụ: Bất kể là năm Giáp, Ất; ngày Giáp, Ất; tháng\nGiáp, Ất; giờ Giáp, Ất ấy, khí hậu môi trường là mùa hè hay mùa đông, nóng hay lạnh, ban\nngày hay ban đêm, thì công năng của tạng phủ có hành tương ứng với nó là Can, Đảm đều\nđược vượng, và công năng của phủ tạng có hành bị khắc sẽ hưu (giảm), tức là mộc khắc\nthổ, lúc này Tỳ, Vị bị hưu.",
+      "confidence": 0.9983163549342697
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_002_text.png",
+      "bbox": [
+        [
+          278,
+          1312
+        ],
+        [
+          2358,
+          1312
+        ],
+        [
+          2358,
+          1497
+        ],
+        [
+          278,
+          1497
+        ]
+      ],
+      "score": 0.9722948670387268,
+      "y_pos": 1312,
+      "text": "Thiên can Ngũ Hành được ứng dụng rộng rãi trong các phép tính khí chất, tính giờ huyệt mở\ntrong phép \"Tý Ngọ lưu trú\", và tính về bệnh chuyền kinh, chúng ta nắm vững tinh thần này\nđể khi học tập và ứng dụng được nhanh chóng và chính xác.",
+      "confidence": 0.9988240431997669
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_017_text.png",
+      "bbox": [
+        [
+          283,
+          1522
+        ],
+        [
+          1282,
+          1522
+        ],
+        [
+          1282,
+          1574
+        ],
+        [
+          283,
+          1574
+        ]
+      ],
+      "score": 0.8731708526611328,
+      "y_pos": 1522,
+      "text": "Cổ nhân đã làm bài thơ để dễ nhớ như sau:",
+      "confidence": 0.9992426287296207
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_012_text.png",
+      "bbox": [
+        [
+          521,
+          1595
+        ],
+        [
+          1302,
+          1595
+        ],
+        [
+          1302,
+          1644
+        ],
+        [
+          521,
+          1644
+        ]
+      ],
+      "score": 0.8971953392028809,
+      "y_pos": 1595,
+      "text": "Giáp Đảm ất Can, bính Tiểu trờng.",
+      "confidence": 0.993042528629303
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_013_text.png",
+      "bbox": [
+        [
+          518,
+          1666
+        ],
+        [
+          1257,
+          1666
+        ],
+        [
+          1257,
+          1715
+        ],
+        [
+          518,
+          1715
+        ]
+      ],
+      "score": 0.8911995887756348,
+      "y_pos": 1666,
+      "text": "Đinh Tâm, mậu Vị, kỷ Tỳ hương.",
+      "confidence": 0.9924805071204901
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_014_text.png",
+      "bbox": [
+        [
+          520,
+          1734
+        ],
+        [
+          1383,
+          1734
+        ],
+        [
+          1383,
+          1782
+        ],
+        [
+          520,
+          1782
+        ]
+      ],
+      "score": 0.8867486119270325,
+      "y_pos": 1734,
+      "text": "Canh thuộc Đai trường, tân thuộc Phế",
+      "confidence": 0.99913542364773
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_016_text.png",
+      "bbox": [
+        [
+          521,
+          1806
+        ],
+        [
+          1439,
+          1806
+        ],
+        [
+          1439,
+          1856
+        ],
+        [
+          521,
+          1856
+        ]
+      ],
+      "score": 0.8781238198280334,
+      "y_pos": 1806,
+      "text": "Nhâm thuộc Bàng quang, quý Thận tàng",
+      "confidence": 0.9951804860642082
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_018_text.png",
+      "bbox": [
+        [
+          526,
+          1876
+        ],
+        [
+          1327,
+          1876
+        ],
+        [
+          1327,
+          1925
+        ],
+        [
+          526,
+          1925
+        ]
+      ],
+      "score": 0.8602474331855774,
+      "y_pos": 1876,
+      "text": "Tam tiệu diệc hướng nhâm trungký,",
+      "confidence": 0.9995439444269453
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_019_text.png",
+      "bbox": [
+        [
+          523,
+          1947
+        ],
+        [
+          1339,
+          1947
+        ],
+        [
+          1339,
+          1997
+        ],
+        [
+          523,
+          1997
+        ]
+      ],
+      "score": 0.8331460952758789,
+      "y_pos": 1947,
+      "text": "Bào lạc đông quy nhập quý phương.",
+      "confidence": 0.9991034116063799
+    },
+    {
+      "type": "paragraph_title",
+      "img_path": "p0017_009_paragraph_title.png",
+      "bbox": [
+        [
+          226,
+          2039
+        ],
+        [
+          467,
+          2039
+        ],
+        [
+          467,
+          2087
+        ],
+        [
+          226,
+          2087
+        ]
+      ],
+      "score": 0.9206189513206482,
+      "y_pos": 2039,
+      "text": "D. Đia chi",
+      "confidence": 0.9476868410905203
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_004_text.png",
+      "bbox": [
+        [
+          278,
+          2118
+        ],
+        [
+          2357,
+          2118
+        ],
+        [
+          2357,
+          2238
+        ],
+        [
+          278,
+          2238
+        ]
+      ],
+      "score": 0.9615486264228821,
+      "y_pos": 2118,
+      "text": "Địa chi, nghĩa chữ là chia theo đất, nguồn gốc của nó từ phép chia giờ bằng bóng ngả của\nánh sáng mặt trời đổ trên mặt đất, nên gọi là giờ địa chi.",
+      "confidence": 0.9968014675709936
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_001_text.png",
+      "bbox": [
+        [
+          277,
+          2265
+        ],
+        [
+          2359,
+          2265
+        ],
+        [
+          2359,
+          2518
+        ],
+        [
+          277,
+          2518
+        ]
+      ],
+      "score": 0.9774678945541382,
+      "y_pos": 2265,
+      "text": "Địa chi là một quy luật tương ứng giữa mười hai giờ địa chi và tình trạng lưu thông của khí\nhuyết, tạng phủ trong con người. Người xưa nhận ra rằng cứ mỗi giờ địa chi, khí huyết đi\nqua một đường kinh nhất định và tạng phủ thuộc đường kinh hoạt động công năng mạnh mẽ\nhơn, bệnh biến cũng bộc lộ rõ hơn, căn cứ vào đó để chữa chạy cũng cho kết quả tốt hơn.",
+      "confidence": 0.9924802493846523
+    },
+    {
+      "type": "text",
+      "img_path": "p0017_011_text.png",
+      "bbox": [
+        [
+          284,
+          2546
+        ],
+        [
+          1546,
+          2546
+        ],
+        [
+          1546,
+          2599
+        ],
+        [
+          284,
+          2599
+        ]
+      ],
+      "score": 0.9056899547576904,
+      "y_pos": 2546,
+      "text": "Tương ứng giữa 12 giờ địa chi và 12 phủ tạng như sau:",
+      "confidence": 0.9981197844852101
+    },
+    {
+      "type": "footer",
+      "img_path": "p0017_010_footer.png",
+      "bbox": [
+        [
+          228,
+          3333
+        ],
+        [
+          1432,
+          3333
+        ],
+        [
+          1432,
+          3387
+        ],
+        [
+          228,
+          3387
+        ]
+      ],
+      "score": 0.910574734210968,
+      "y_pos": 3333,
+      "text": "Bản quyền: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9985454925950968
+    },
+    {
+      "type": "number",
+      "img_path": "p0017_020_number.png",
+      "bbox": [
+        [
+          2332,
+          3340
+        ],
+        [
+          2357,
+          3340
+        ],
+        [
+          2357,
+          3373
+        ],
+        [
+          2332,
+          3373
+        ]
+      ],
+      "score": 0.8212549686431885,
+      "y_pos": 3340,
+      "text": "        \n    \n    \n.\n    \n\n\n\n\n\n\n        \n",
+      "confidence": 0.9723748102784157
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0017.png"
+}

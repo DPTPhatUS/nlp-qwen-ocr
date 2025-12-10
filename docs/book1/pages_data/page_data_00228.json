@@ -1,0 +1,266 @@
+{
+  "page_num": 228,
+  "content": [
+    {
+      "type": "text",
+      "img_path": "p0228_006_text.png",
+      "bbox": [
+        [
+          464,
+          476
+        ],
+        [
+          1883,
+          476
+        ],
+        [
+          1883,
+          530
+        ],
+        [
+          464,
+          530
+        ]
+      ],
+      "score": 0.5718925595283508,
+      "y_pos": 476,
+      "text": "* Phân tích bài thuốc <i>Tứ quân tử thang gia giảm (Cục phương)</i>",
+      "confidence": 0.9754785289987922
+    },
+    {
+      "type": "text",
+      "img_path": "p0228_009_text.png",
+      "bbox": [
+        [
+          410,
+          560
+        ],
+        [
+          913,
+          560
+        ],
+        [
+          913,
+          608
+        ],
+        [
+          410,
+          608
+        ]
+      ],
+      "score": 0.5089101791381836,
+      "y_pos": 560,
+      "text": "Phân tích bài thuốc",
+      "confidence": 0.9906330931754339
+    },
+    {
+      "type": "table",
+      "img_path": "p0228_000_table.png",
+      "bbox": [
+        [
+          350,
+          662
+        ],
+        [
+          2125,
+          662
+        ],
+        [
+          2125,
+          1374
+        ],
+        [
+          350,
+          1374
+        ]
+      ],
+      "score": 0.9900556802749634,
+      "y_pos": 662,
+      "text": "Vị thuốc    Dược lý Đông y\nNhân sâm    Ngọt, hơi đắng. Bổ Tâm khí, đại bổ nguyên khí, ích huyết sinh tân\nPhục linh    Ngọt, bình. Lợi tiểu thẩm thấp, kiện Tỳ, an thần\nBạch truật    Ngọt, đẳng, hơi ấm. Kiện tỳ, táo thấp, liễm hãn\nBá tử nhân    Ngọt, bình. Bổ huyết, kiện Tỳ, an thần\nPhụ tử chế    Cay, ngọt, rất nóng. Bổ mệnh môn hỏa, kiện Tỳ\nViễn chí    Đắng, ấm. Bổ Tâm, Thận, an thần\nĐại táo    Ngọt, bình. Bổ Tỳ, Vị, điều hòa tính năng của thuốc\nCam thảo    Ngọt, ấm. Bổ Tỳ thổ, bổ trung khí",
+      "confidence": 0.9189847145735973
+    },
+    {
+      "type": "text",
+      "img_path": "p0228_005_text.png",
+      "bbox": [
+        [
+          464,
+          1428
+        ],
+        [
+          1316,
+          1428
+        ],
+        [
+          1316,
+          1481
+        ],
+        [
+          464,
+          1481
+        ]
+      ],
+      "score": 0.5750606060028076,
+      "y_pos": 1428,
+      "text": "* Phân tích bài Sâm phụ thang gia vị",
+      "confidence": 0.9502912900949779
+    },
+    {
+      "type": "text",
+      "img_path": "p0228_008_text.png",
+      "bbox": [
+        [
+          410,
+          1511
+        ],
+        [
+          914,
+          1511
+        ],
+        [
+          914,
+          1559
+        ],
+        [
+          410,
+          1559
+        ]
+      ],
+      "score": 0.5569201707839966,
+      "y_pos": 1511,
+      "text": "Phân tích bài thuốc",
+      "confidence": 0.9917110516911462
+    },
+    {
+      "type": "table",
+      "img_path": "p0228_001_table.png",
+      "bbox": [
+        [
+          350,
+          1615
+        ],
+        [
+          2126,
+          1615
+        ],
+        [
+          2126,
+          2314
+        ],
+        [
+          350,
+          2314
+        ]
+      ],
+      "score": 0.9890861511230469,
+      "y_pos": 1615,
+      "text": "Vị thuốc    Dược lý Đông y\nĐảng sâm    Ngot, bình. Bổ dưỡng Tỳ Vi\nHoàng kỳ    Ngot, ấm. Bổ Tâm khí, thăng dương khí của Tỳ\nPhụ tử chế    Cay, ngọt, rất nóng. Bổ Mệnh môn hỏa, kiện Tỳ\nNhục quế    Cay, ngot, rất nóng. Bổ Mênh môn hỏa, kiên Tỳ, dẫn thuốc\nĐan sâm    Đẳng, lanh. Hoat huyết, khử ứ\nHồng hoa    Hoat huyết, hóa ứ\nCam thảo    Ngot, ấm. Bổ Tỳ thổ, bổ trung khí",
+      "confidence": 0.9205876946922004
+    },
+    {
+      "type": "figure_title",
+      "img_path": "p0228_007_figure_title.png",
+      "bbox": [
+        [
+          408,
+          2369
+        ],
+        [
+          1039,
+          2369
+        ],
+        [
+          1039,
+          2420
+        ],
+        [
+          408,
+          2420
+        ]
+      ],
+      "score": 0.5678406953811646,
+      "y_pos": 2369,
+      "text": "Công thức huyệt sử dụng",
+      "confidence": 0.9989033222198487
+    },
+    {
+      "type": "table",
+      "img_path": "p0228_002_table.png",
+      "bbox": [
+        [
+          351,
+          2470
+        ],
+        [
+          2115,
+          2470
+        ],
+        [
+          2115,
+          2994
+        ],
+        [
+          351,
+          2994
+        ]
+      ],
+      "score": 0.9866268038749695,
+      "y_pos": 2470,
+      "text": "Tên huyệt    Cơ sở lý luận    Tác dụng điều trị\nĐản trung    Mô huyệt của Tâm bào. Hôi của khí    Bổ khí\nCư khuyết    Mô huyệt của Tâm    Bổ Tâm\nKhí hải    Bể của khí    Bổ khí\nQuan nguyên    Bổ nguyên khí    Bổ khí\nTam âm giao    Hôi của 3 kinh âm    Huyệt đặc hiệu an thần",
+      "confidence": 0.9089295004860508
+    },
+    {
+      "type": "number",
+      "img_path": "p0228_004_number.png",
+      "bbox": [
+        [
+          2042,
+          3111
+        ],
+        [
+          2121,
+          3111
+        ],
+        [
+          2121,
+          3147
+        ],
+        [
+          2042,
+          3147
+        ]
+      ],
+      "score": 0.8768442869186401,
+      "y_pos": 3111,
+      "text": "",
+      "confidence": 1.0
+    },
+    {
+      "type": "footer",
+      "img_path": "p0228_003_footer.png",
+      "bbox": [
+        [
+          294,
+          3311
+        ],
+        [
+          1074,
+          3311
+        ],
+        [
+          1074,
+          3366
+        ],
+        [
+          294,
+          3366
+        ]
+      ],
+      "score": 0.9027110934257507,
+      "y_pos": 3311,
+      "text": "Copyright@Ministry Of Health - VN",
+      "confidence": 0.8810788103512355
+    }
+  ],
+  "source_image": "benh-hoc-va-dieu-tri-dong-y_page_0228.png"
+}

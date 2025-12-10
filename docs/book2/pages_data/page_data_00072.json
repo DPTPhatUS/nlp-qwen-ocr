@@ -1,0 +1,214 @@
+{
+  "page_num": 72,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0072_003_header.png",
+      "bbox": [
+        [
+          1608,
+          143
+        ],
+        [
+          2369,
+          143
+        ],
+        [
+          2369,
+          203
+        ],
+        [
+          1608,
+          203
+        ]
+      ],
+      "score": 0.9186577796936035,
+      "y_pos": 143,
+      "text": "~?\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.7766020088678315
+    },
+    {
+      "type": "header",
+      "img_path": "p0072_004_header.png",
+      "bbox": [
+        [
+          229,
+          154
+        ],
+        [
+          1223,
+          154
+        ],
+        [
+          1223,
+          202
+        ],
+        [
+          229,
+          202
+        ]
+      ],
+      "score": 0.913898229598999,
+      "y_pos": 154,
+      "text": "CÁC PHƯƠNG PHÁP CHỮA BÊNH VÀ CHÂM CỨU",
+      "confidence": 0.9968286951382955
+    },
+    {
+      "type": "text",
+      "img_path": "p0072_001_text.png",
+      "bbox": [
+        [
+          280,
+          312
+        ],
+        [
+          2357,
+          312
+        ],
+        [
+          2357,
+          518
+        ],
+        [
+          280,
+          518
+        ]
+      ],
+      "score": 0.9689514636993408,
+      "y_pos": 312,
+      "text": "Đời nhà Thanh và Trung Hoa Dân Quốc, phép chữa bệnh bằng châm cứu không còn được\nnhư trước đời Thanh. Khi văn hóa Phương Tây xâm nhập Phương Đông, y học Phương\nĐông bị khinh miệt, học thuật châm cứu càng bị coi thường, có nguy cơ bị diệt vong.",
+      "confidence": 0.9986996884047558
+    },
+    {
+      "type": "text",
+      "img_path": "p0072_002_text.png",
+      "bbox": [
+        [
+          279,
+          554
+        ],
+        [
+          2358,
+          554
+        ],
+        [
+          2358,
+          686
+        ],
+        [
+          279,
+          686
+        ]
+      ],
+      "score": 0.9541519284248352,
+      "y_pos": 554,
+      "text": "Sau chiến tranh thế giới thứ hai, các nước Phương Đông được giải phóng, nền y học cổ\ntruyền được phục hồi và phát triển.",
+      "confidence": 0.9995243593179377
+    },
+    {
+      "type": "text",
+      "img_path": "p0072_000_text.png",
+      "bbox": [
+        [
+          280,
+          724
+        ],
+        [
+          2358,
+          724
+        ],
+        [
+          2358,
+          932
+        ],
+        [
+          280,
+          932
+        ]
+      ],
+      "score": 0.96915203332901,
+      "y_pos": 724,
+      "text": "Ở Việt Nam, với chính sách của Đảng và Nhà nước ta về kết hợp Đông Tây y, việc kế thừa\ntruyền thống y học cổ truyền được áp dụng rộng rãi trong đời sống xã hội, làm cho học thuật\nchâm cứu phát triển và có nhiều thành tựu mới.",
+      "confidence": 0.9987129661888515
+    },
+    {
+      "type": "footer",
+      "img_path": "p0072_007_footer.png",
+      "bbox": [
+        [
+          1257,
+          1071
+        ],
+        [
+          1332,
+          1071
+        ],
+        [
+          1332,
+          1096
+        ],
+        [
+          1257,
+          1096
+        ]
+      ],
+      "score": 0.5104674100875854,
+      "y_pos": 1071,
+      "text": "***",
+      "confidence": 0.9088595807552338
+    },
+    {
+      "type": "footer",
+      "img_path": "p0072_005_footer.png",
+      "bbox": [
+        [
+          230,
+          3334
+        ],
+        [
+          1437,
+          3334
+        ],
+        [
+          1437,
+          3388
+        ],
+        [
+          230,
+          3388
+        ]
+      ],
+      "score": 0.8975799679756165,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9467583186221573
+    },
+    {
+      "type": "number",
+      "img_path": "p0072_006_number.png",
+      "bbox": [
+        [
+          2333,
+          3340
+        ],
+        [
+          2357,
+          3340
+        ],
+        [
+          2357,
+          3373
+        ],
+        [
+          2333,
+          3373
+        ]
+      ],
+      "score": 0.8032959699630737,
+      "y_pos": 3340,
+      "text": "",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0072.png"
+}

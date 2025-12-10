@@ -1,0 +1,240 @@
+{
+  "page_num": 303,
+  "content": [
+    {
+      "type": "header",
+      "img_path": "p0303_001_header.png",
+      "bbox": [
+        [
+          1607,
+          143
+        ],
+        [
+          2368,
+          143
+        ],
+        [
+          2368,
+          201
+        ],
+        [
+          1607,
+          201
+        ]
+      ],
+      "score": 0.9331440925598145,
+      "y_pos": 143,
+      "text": "~>\n<b>CAM NANG CHAN TRI ĐONG Y</b>",
+      "confidence": 0.6955659183717909
+    },
+    {
+      "type": "header",
+      "img_path": "p0303_007_header.png",
+      "bbox": [
+        [
+          229,
+          155
+        ],
+        [
+          624,
+          155
+        ],
+        [
+          624,
+          199
+        ],
+        [
+          229,
+          199
+        ]
+      ],
+      "score": 0.9060021042823792,
+      "y_pos": 155,
+      "text": "PHÉP DƯỚNG SINH",
+      "confidence": 0.8680992021280176
+    },
+    {
+      "type": "text",
+      "img_path": "p0303_005_text.png",
+      "bbox": [
+        [
+          284,
+          306
+        ],
+        [
+          1465,
+          306
+        ],
+        [
+          1465,
+          358
+        ],
+        [
+          284,
+          358
+        ]
+      ],
+      "score": 0.9207949638366699,
+      "y_pos": 306,
+      "text": "Vui nhiều thì tâm thần tà đãng (tâm thần lệch lạc).",
+      "confidence": 0.9813937274914868
+    },
+    {
+      "type": "text",
+      "img_path": "p0303_003_text.png",
+      "bbox": [
+        [
+          285,
+          396
+        ],
+        [
+          1516,
+          396
+        ],
+        [
+          1516,
+          450
+        ],
+        [
+          285,
+          450
+        ]
+      ],
+      "score": 0.9250853061676025,
+      "y_pos": 396,
+      "text": "Rầu rĩ nhiều thì đầu diện tiêu khô (đầu mặt bơ phờ).",
+      "confidence": 0.9886342585086823
+    },
+    {
+      "type": "text",
+      "img_path": "p0303_002_text.png",
+      "bbox": [
+        [
+          285,
+          490
+        ],
+        [
+          1359,
+          490
+        ],
+        [
+          1359,
+          541
+        ],
+        [
+          285,
+          541
+        ]
+      ],
+      "score": 0.9275758266448975,
+      "y_pos": 490,
+      "text": "Hám nhiều thì chí khí hôi tán (chí khí tan vỡ).",
+      "confidence": 0.9635367089388321
+    },
+    {
+      "type": "text",
+      "img_path": "p0303_004_text.png",
+      "bbox": [
+        [
+          285,
+          580
+        ],
+        [
+          1521,
+          580
+        ],
+        [
+          1521,
+          636
+        ],
+        [
+          285,
+          636
+        ]
+      ],
+      "score": 0.9235624670982361,
+      "y_pos": 580,
+      "text": "- Đói nhiều thì trí lự trầm mê (mất khả năng suy nghĩ).",
+      "confidence": 0.9964348171886644
+    },
+    {
+      "type": "text",
+      "img_path": "p0303_000_text.png",
+      "bbox": [
+        [
+          280,
+          670
+        ],
+        [
+          2356,
+          670
+        ],
+        [
+          2356,
+          798
+        ],
+        [
+          280,
+          798
+        ]
+      ],
+      "score": 0.9626019597053528,
+      "y_pos": 670,
+      "text": "Ông nói: \"Đây là những thứ tìm người để sống, nó rất búa rìu, tính chất ăn người ta mạnh\nnhư lang sói. Người vệ sinh phải tránh cái đó!\".",
+      "confidence": 0.9991218058930503
+    },
+    {
+      "type": "footer",
+      "img_path": "p0303_006_footer.png",
+      "bbox": [
+        [
+          230,
+          3334
+        ],
+        [
+          1437,
+          3334
+        ],
+        [
+          1437,
+          3387
+        ],
+        [
+          230,
+          3387
+        ]
+      ],
+      "score": 0.9109540581703186,
+      "y_pos": 3334,
+      "text": "Bản quyển: Viện Thông tin Thư viện Y học Trung ương",
+      "confidence": 0.9983688143064391
+    },
+    {
+      "type": "number",
+      "img_path": "p0303_008_number.png",
+      "bbox": [
+        [
+          2330,
+          3339
+        ],
+        [
+          2355,
+          3339
+        ],
+        [
+          2355,
+          3373
+        ],
+        [
+          2330,
+          3373
+        ]
+      ],
+      "score": 0.8249824643135071,
+      "y_pos": 3339,
+      "text": "\n\n    \n\n\n\n\n\n    \n\n",
+      "confidence": 1.0
+    }
+  ],
+  "source_image": "CamNangChanTriDongY_LeVanSuu_page_0303.png"
+}
