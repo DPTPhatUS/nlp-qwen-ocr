@@ -24,24 +24,47 @@ Key runtime dependencies bundled in `pyproject.toml`:
 - `torchvision` and `wrapt` are needed because `qwen-vl-utils` taps torchvision transforms inside Kaggle/colab runners.
 - `bitsandbytes` is optional; install it if you plan to pass `--load-in-8bit` for tighter VRAM budgets.
 
-## Running OCR
+## Stage 1 – OCR to JSON
 
 ```bash
 python main.py \
-  --source docs \
-  --output outputs \
-  --books book1 \
-  --model-id Qwen/Qwen3-VL-8B-Instruct
+	--source docs \
+	--output outputs \
+	--books book1 \
+	--model-id Qwen/Qwen3-VL-8B-Instruct
 ```
 
 - Omit `--books` to process every book folder inside `docs/`.
 - Use `--min-pixels` / `--max-pixels` to trade off speed vs fidelity, mirroring the guidance from the Qwen docs.
-- Every page gets its own Markdown file as well as a stitched `book.md` and DOCX so you can keep Kaggle submissions aligned with the original pipeline layout.
+- The script now stops after saving Qwen’s raw JSON response per page to `outputs/<book>/json/page_XXXX.json` so you can rerun later stages without re-OCRing.
+
+## Stage 2 – JSON to Markdown
+
+```bash
+python json_to_markdown.py \
+	--source docs \
+	--json-root outputs \
+	--output outputs \
+	--books book1
+```
+
+- Reads `outputs/<book>/json/` artifacts, crops any referenced assets, and writes Markdown files under `outputs/<book>/markdown/` plus a stitched `book.md`.
+- Supports `--start-page` / `--max-pages` as well, so you can iterate on a subset without invoking the model.
+
+## Stage 3 – Markdown to DOCX
+
+```bash
+python markdown_to_docx.py --output outputs --books book1
+```
+
+- Converts each `outputs/<book>/markdown/<book>.md` into `outputs/<book>/docx/<book>.docx` using `python-docx`.
+- Safe to rerun whenever you tweak Markdown by hand.
 
 ### Helpful CLI flags
 
 - `--books book3 book1` lets you run a single title (or a short list) during Kaggle submissions.
 - `--max-pages 5` is handy for smoke tests without burning GPU quota.
+- `--start-page 120 --max-pages 10` jumps into the middle of a book and processes exactly 10 pages from that point onward.
 - `--device-map cuda:0 --dtype float16` pins inference to a known GPU / precision, while `--temperature` tunes creativity.
 - `--model-id Qwen/Qwen3-VL-8B-Instruct` can be swapped for another compatible checkpoint (quantized or fine-tuned) without touching the code.
 - Kaggle's dual T4s run smoothly with the defaults: `--attn-impl flash_attention_2 --gpu-mem-limit 14 --load-in-8bit` if you need extra headroom; the script auto-distributes weights across both GPUs via `device_map="auto"` and `max_memory` guards.
@@ -51,6 +74,8 @@ python main.py \
 ```
 outputs/
 	book1/
+		json/
+			page_0001.json
 		markdown/
 			page_001.md
 			book1.md
@@ -61,7 +86,7 @@ outputs/
 			book1.docx
 ```
 
-Each page-level Markdown preserves the block layout (`## Page n` + `### Block k`). When the model tags a figure/chart/formula using `{{ASSET:...}}`, the pipeline crops the bounding box from the scanned page, saves it under `assets/`, and rewrites the placeholder as a Markdown image pointing at the cropped PNG. The aggregated Markdown is then rendered to DOCX via `python-docx`, which now embeds those figures directly.
+Each stage writes to its own subfolder so you can resume anywhere in the pipeline. Page-level Markdown preserves the block layout and still rewrites any `{{ASSET:...}}` placeholder after the JSON stage.
 
 ## Figures, charts, formulas
 
