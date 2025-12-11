@@ -24,10 +24,10 @@ Key runtime dependencies bundled in `pyproject.toml`:
 - `torchvision` and `wrapt` are needed because `qwen-vl-utils` taps torchvision transforms inside Kaggle/colab runners.
 - `bitsandbytes` is optional; install it if you plan to pass `--load-in-8bit` for tighter VRAM budgets.
 
-## Stage 1 – OCR to JSON
+## Stage 1 – OCR to Markdown (raw)
 
 ```bash
-python main.py \
+python ocr_to_markdown.py \
 	--source docs \
 	--output outputs \
 	--books book1 \
@@ -36,20 +36,21 @@ python main.py \
 
 - Omit `--books` to process every book folder inside `docs/`.
 - Use `--min-pixels` / `--max-pixels` to trade off speed vs fidelity, mirroring the guidance from the Qwen docs.
-- The script now stops after saving Qwen’s raw JSON response per page to `outputs/<book>/json/page_XXXX.json` so you can rerun later stages without re-OCRing.
+- The script now emits per-page Markdown drafts under `outputs/<book>/markdown_raw/page_XXXX.md`, already containing inline `FAKE_x1_y1_x2_y2_type.png` links where the model detected figures/charts/formulas. No intermediate JSON is written anymore, so reruns are lighter.
 
-## Stage 2 – JSON to Markdown
+## Stage 2 – FAKE links to Markdown + assets
 
 ```bash
-python json_to_markdown.py \
+python materialize_fake_links.py \
 	--source docs \
-	--json-root outputs \
+	--markdown-root outputs \
 	--output outputs \
 	--books book1
 ```
 
-- Reads `outputs/<book>/json/` artifacts, crops any referenced assets, and writes Markdown files under `outputs/<book>/markdown/` plus a stitched `book.md`.
-- Supports `--start-page` / `--max-pages` as well, so you can iterate on a subset without invoking the model.
+- Scans `outputs/<book>/markdown_raw/` files, detects every `FAKE_x1_y1_x2_y2_type.png` link, crops the corresponding bounding box from the original page image, and rewrites the Markdown link to the real PNG path in `outputs/<book>/assets/page_xxxx/`.
+- Writes cleaned per-page Markdown plus a `book.md` glue file under `outputs/<book>/markdown/`, preserving the ability to hand-edit before exporting to DOCX.
+- Supports `--start-page` / `--max-pages` just like stage 1 so you can iterate on a subset without invoking the model again.
 
 ## Stage 3 – Markdown to DOCX
 
@@ -74,29 +75,28 @@ python markdown_to_docx.py --output outputs --books book1
 ```
 outputs/
 	book1/
-		json/
-			page_0001.json
+		markdown_raw/
+			page_0001.md
 		markdown/
-			page_001.md
+			page_0001.md
 			book1.md
 		assets/
 			page_001/
-				asset_fig-1.png
+				asset_0001_01.png
 		docx/
 			book1.docx
 ```
 
-Each stage writes to its own subfolder so you can resume anywhere in the pipeline. Page-level Markdown preserves the block layout and still rewrites any `{{ASSET:...}}` placeholder after the JSON stage.
+Each stage writes to its own subfolder so you can resume anywhere in the pipeline. Stage 1 leaves Markdown drafts (with FAKE links) under `markdown_raw/`, while stage 2 materializes those links into real PNGs and final Markdown that downstream tools can consume.
 
 ## Figures, charts, formulas
 
-- Qwen3-VL-8B is prompted to return JSON with a `markdown` string plus an `assets` array describing each figure/chart/formula along with absolute pixel bounding boxes.
-- Bounding boxes are clamped to the page size and cropped with Pillow; filenames are slugged per asset id to keep per-page folders clean.
-- Placeholders such as `{{ASSET:fig-1}}` are automatically replaced by `![caption](../assets/page/asset_fig-1.png)` so the Markdown for that page links the correct figure inline.
-- The DOCX converter scans those Markdown image links and inserts the underlying PNG into the Word output, so figures travel with the text end-to-end.
+- Qwen3-VL-8B is now prompted to emit Markdown directly. Every detected non-text object becomes `![caption](FAKE_x1_y1_x2_y2_type.png)` so bounding boxes stay encoded inside the filename.
+- Stage 2 replays those coordinates against the original page image, clamps them safely, saves the crops to `assets/page_xxxx/asset_XXXX_YY.png`, and rewrites the Markdown links to point to the real PNGs.
+- Because the final Markdown already references physical images, the DOCX converter keeps the figures inline without any extra metadata juggling.
 
 ## Tips
 
 - For Kaggle you can gate the runtime by asking for a single book per run (`--books book3`).
-- The prompt in `PAGE_PROMPT` is localized to Vietnamese; adjust it if you need bilingual output or to request additional metadata from Qwen (e.g., extra JSON fields per block).
+- The prompt in `PAGE_PROMPT` is localized to Vietnamese; adjust it if you need bilingual output or to request additional structured metadata from Qwen (e.g., explicit table schemas or glossary notes).
 - If you need faster inference, quantized checkpoints from the same Hugging Face repo also satisfy the API contract (update `--model-id`).

@@ -2,7 +2,6 @@
 
 from __future__ import annotations
 
-import json
 import logging
 import re
 from pathlib import Path
@@ -15,26 +14,18 @@ from transformers import AutoProcessor, Qwen3VLForConditionalGeneration
 LOGGER = logging.getLogger(__name__)
 
 PAGE_PROMPT = (
-    "Bạn là trợ lý OCR tiếng Việt. Hãy đọc toàn bộ hình trang sách và tạo bản phục dựng Markdown "
-    "bảo tồn tiêu đề, chú thích, bảng và công thức. Để giữ nguyên vị trí biểu đồ/hình ảnh, hãy trả về JSON với cấu trúc:\n"
-    "{\n"
-    '  "markdown": "...Markdown sử dụng placeholder {{ASSET:<id>}} cho từng hình...",\n'
-    '  "assets": [\n'
-    "    {\n"
-    '      "id": "fig-1",\n'
-    '      "caption": "Chú thích ngắn gọn",\n'
-    '      "type": "figure|chart|formula",\n'
-    '      "bbox": [x1, y1, x2, y2]\n'
-    "    }\n"
-    "  ]\n"
-    "}\n"
-    "- Markdown phải ở đúng trình tự đọc từ trái sang phải, trên xuống dưới.\n"
-    "- Giữ nguyên dấu tiếng Việt và định dạng (## cấp 2 cho tiêu đề cấp trang, ### cho khối con, danh sách với - hoặc 1.).\n"
-    "- Nếu không tìm thấy tài liệu, trả về markdown rỗng và assets rỗng.\n"
-    "- Không được thêm lời giải thích bên ngoài JSON."
+    "Bạn là trợ lý OCR tiếng Việt. Hãy đọc toàn bộ hình trang sách và trả về DUY NHẤT nội dung Markdown.\n"
+    "- Giữ nguyên cấu trúc tiêu đề, đoạn, danh sách, bảng và công thức (## cho tiêu đề trang, ### cho mục con).\n"
+    "- Với mỗi hình/biểu đồ/ảnh/chú thích hay công thức độc lập, chèn ngay tại vị trí đó cú pháp Markdown: "
+    "![mô tả ngắn](FAKE_x1_y1_x2_y2_loai.png).\n"
+    "  * x1,y1,x2,y2 là toạ độ pixel (trên ảnh gốc) theo hệ toạ độ góc trái trên, x1<x2, y1<y2.\n"
+    "  * 'loai' là figure | chart | formula | photo, chỉ dùng chữ thường và không dấu.\n"
+    "  * Không thêm đường dẫn hay thư mục trước FAKE_...\n"
+    "- Nếu không có hình/biểu đồ/công thức thì không chèn FAKE link nào.\n"
+    "- Không giải thích thêm, không bọc trong ```json``` hay văn bản khác."
 )
 
-INVALID_ESCAPE_RE = re.compile(r"\\(?![\"\\/bfnrtu])")
+MARKDOWN_BLOCK_RE = re.compile(r"```(?:markdown)?\s*(.*?)```", flags=re.S)
 
 
 class QwenOcrClient:
@@ -115,13 +106,13 @@ class QwenOcrClient:
             limits["cpu"] = f"{cpu_limit:.0f}GiB"
         return limits
 
-    def ocr_page(self, page_num: int, image_path: Path) -> Dict[str, object]:
+    def ocr_page(self, page_num: int, image_path: Path) -> str:
         messages = [
             {"role": "system", "content": [{"type": "text", "text": PAGE_PROMPT}]},
             {
                 "role": "user",
                 "content": [
-                    {"type": "text", "text": f"Trang số {page_num:04d}. Hãy trả về JSON theo yêu cầu."},
+                    {"type": "text", "text": f"Trang số {page_num:04d}. Trả về Markdown theo yêu cầu."},
                     {"type": "image", "image": str(image_path)},
                 ],
             },
@@ -138,47 +129,16 @@ class QwenOcrClient:
             gen_kwargs["temperature"] = self.temperature
         generated = self.model.generate(**model_inputs, **gen_kwargs)
         output = self.processor.batch_decode(generated, skip_special_tokens=True)[0]
-        payload = extract_json_block(output)
-        if payload is None:
-            LOGGER.warning("Falling back to raw markdown because JSON parse failed")
-            return {"markdown": output.strip(), "assets": []}
-        return payload
+        return extract_markdown(output)
 
 
-def extract_json_block(text_blob: str) -> Optional[Dict[str, object]]:
-    text_blob = text_blob.strip()
-    candidates = []
-    if "```" in text_blob:
-        for block in re.findall(r"```(?:json)?\s*(.*?)```", text_blob, flags=re.S):
-            candidates.append(block.strip())
-    candidates.append(text_blob)
-    for candidate in candidates:
-        candidate = candidate.strip()
-        if not candidate:
-            continue
-        parsed = try_parse_json(candidate)
-        if isinstance(parsed, dict):
-            return parsed
-        idx = candidate.find("{")
-        while idx != -1:
-            snippet = candidate[idx:]
-            parsed = try_parse_json(snippet)
-            if isinstance(parsed, dict):
-                return parsed
-            idx = candidate.find("{", idx + 1)
-    return None
-
-
-def try_parse_json(candidate: str) -> Optional[Dict[str, object]]:
-    try:
-        parsed = json.loads(candidate)
-        return parsed if isinstance(parsed, dict) else None
-    except json.JSONDecodeError:
-        sanitized = INVALID_ESCAPE_RE.sub(lambda m: "\\\\" + m.group(0)[1:], candidate)
-        if sanitized != candidate:
-            try:
-                parsed = json.loads(sanitized)
-                return parsed if isinstance(parsed, dict) else None
-            except json.JSONDecodeError:
-                return None
-        return None
+def extract_markdown(text_blob: str) -> str:
+    candidate = text_blob.strip()
+    if not candidate:
+        return ""
+    blocks = MARKDOWN_BLOCK_RE.findall(candidate)
+    for block in blocks:
+        stripped = block.strip()
+        if stripped:
+            return stripped
+    return candidate

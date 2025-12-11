@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Stage 1: Run Qwen3-VL OCR and save raw JSON responses per page."""
+"""Stage 1: Run Qwen3-VL OCR and save Markdown drafts per page."""
 
 from __future__ import annotations
 
@@ -7,7 +7,7 @@ import argparse
 import json
 import logging
 from pathlib import Path
-from typing import Dict, List, Optional, Sequence
+from typing import List, Optional, Sequence
 
 from nlp_qwen_ocr.ocr_client import QwenOcrClient
 
@@ -15,7 +15,7 @@ LOGGER = logging.getLogger("qwen_ocr")
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Run Qwen3-VL OCR and store JSON outputs per page")
+    parser = argparse.ArgumentParser(description="Run Qwen3-VL OCR and store Markdown outputs per page")
     parser.add_argument("--source", default="docs", type=Path, help="Directory containing book folders")
     parser.add_argument("--output", default="outputs", type=Path, help="Directory for OCR results")
     parser.add_argument(
@@ -56,7 +56,7 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
-class JsonOcrPipeline:
+class MarkdownOcrPipeline:
     def __init__(self, args: argparse.Namespace) -> None:
         self.source_dir = args.source.resolve()
         self.output_dir = args.output.resolve()
@@ -95,8 +95,8 @@ class JsonOcrPipeline:
         if not page_meta_dir.exists() or not page_image_dir.exists():
             LOGGER.warning("Book %s missing required folders", book)
             return
-        json_dir = (self.output_dir / book / "json").resolve()
-        json_dir.mkdir(parents=True, exist_ok=True)
+        markdown_dir = (self.output_dir / book / "markdown_raw").resolve()
+        markdown_dir.mkdir(parents=True, exist_ok=True)
 
         page_files = sorted(page_meta_dir.glob("*.json"))
         processed = 0
@@ -115,19 +115,15 @@ class JsonOcrPipeline:
             if not image_path.exists():
                 LOGGER.warning("Missing image %s", image_path)
                 continue
-            response = self.ocr.ocr_page(page_number, image_path)
-            payload: Dict[str, object] = {
-                "page_num": page_number,
-                "source_image": image_name,
-                "model_id": self.model_id,
-                "response": response,
-            }
-            output_path = json_dir / f"page_{page_number:04d}.json"
-            output_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2))
+            markdown_text = self.ocr.ocr_page(page_number, image_path).strip()
+            output_path = markdown_dir / f"page_{page_number:04d}.md"
+            if not markdown_text:
+                LOGGER.warning("Received empty markdown for page %s", page_number)
+            output_path.write_text(markdown_text)
             LOGGER.info("Saved %s", output_path)
             processed += 1
         if processed == 0:
-            LOGGER.warning("Book %s produced no JSON outputs", book)
+            LOGGER.warning("Book %s produced no Markdown outputs", book)
 
 
 def configure_logging(level: str) -> None:
@@ -140,7 +136,7 @@ def configure_logging(level: str) -> None:
 def main() -> None:
     args = parse_args()
     configure_logging(args.log_level)
-    pipeline = JsonOcrPipeline(args)
+    pipeline = MarkdownOcrPipeline(args)
     pipeline.run()
 
 
