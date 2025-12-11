@@ -99,14 +99,23 @@ class MarkdownOcrPipeline:
         markdown_dir.mkdir(parents=True, exist_ok=True)
 
         page_files = sorted(page_meta_dir.glob("*.json"))
-        processed = 0
+        page_entries = []
         for meta_path in page_files:
             page_payload = json.loads(meta_path.read_text())
             page_number = int(page_payload.get("page_num", 0))
             if page_number < self.start_page:
                 continue
-            if self.max_pages and processed >= self.max_pages:
-                break
+            page_entries.append((page_number, meta_path, page_payload))
+        page_entries.sort(key=lambda item: item[0])
+        if self.max_pages is not None:
+            page_entries = page_entries[: self.max_pages]
+        total_targets = len(page_entries)
+        if total_targets == 0:
+            LOGGER.warning("Book %s has no pages to process in the selected range", book)
+            return
+
+        processed = 0
+        for idx, (page_number, meta_path, page_payload) in enumerate(page_entries, start=1):
             image_name = page_payload.get("source_image")
             if not image_name:
                 LOGGER.warning("Skipping %s with no source_image", meta_path.name)
@@ -115,6 +124,7 @@ class MarkdownOcrPipeline:
             if not image_path.exists():
                 LOGGER.warning("Missing image %s", image_path)
                 continue
+            LOGGER.info("[%d/%d] OCR page %04d", idx, total_targets, page_number)
             markdown_text = self.ocr.ocr_page(page_number, image_path).strip()
             output_path = markdown_dir / f"page_{page_number:04d}.md"
             if not markdown_text:
