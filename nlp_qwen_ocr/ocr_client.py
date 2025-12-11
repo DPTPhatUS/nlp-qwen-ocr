@@ -14,7 +14,7 @@ LOGGER = logging.getLogger(__name__)
 
 PAGE_PROMPT = (
     "Bạn là trợ lý OCR tiếng Việt. Hãy đọc toàn bộ hình trang sách và trả về DUY NHẤT nội dung Markdown.\n"
-    "- Giữ nguyên cấu trúc tiêu đề, đoạn, danh sách, bảng và công thức (## cho tiêu đề trang, ### cho mục con).\n"
+    "- Giữ nguyên cấu trúc tiêu đề, đoạn, danh sách, bảng và công thức (# cho tiêu đề trang, ## cho mục con).\n"
     "- Với mỗi hình/biểu đồ/ảnh/chú thích hay công thức độc lập, chèn ngay tại vị trí đó cú pháp Markdown: "
     "![mô tả ngắn](FAKE_x1_y1_x2_y2_loai.png).\n"
     "  * x1,y1,x2,y2 là toạ độ pixel (trên ảnh gốc) theo hệ toạ độ góc trái trên, x1<x2, y1<y2.\n"
