@@ -513,15 +513,29 @@ def extract_json_block(text_blob: str) -> Optional[Dict[str, object]]:
     candidates = []
     if "```" in text_blob:
         for block in re.findall(r"```(?:json)?\s*(.*?)```", text_blob, flags=re.S):
-            candidates.append(block)
+            candidates.append(block.strip())
     candidates.append(text_blob)
+    decoder = json.JSONDecoder()
     for candidate in candidates:
+        candidate = candidate.strip()
+        if not candidate:
+            continue
         try:
             parsed = json.loads(candidate)
             if isinstance(parsed, dict):
                 return parsed
         except json.JSONDecodeError:
-            continue
+            pass
+        idx = candidate.find("{")
+        while idx != -1:
+            try:
+                parsed, _ = decoder.raw_decode(candidate[idx:])
+            except json.JSONDecodeError:
+                idx = candidate.find("{", idx + 1)
+                continue
+            if isinstance(parsed, dict):
+                return parsed
+            idx = candidate.find("{", idx + 1)
     return None
 
 
