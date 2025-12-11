@@ -403,8 +403,7 @@ class BookOcrPipeline:
             markdown_dir=markdown_dir,
             page_number=page_number,
         )
-        header = f"## Trang {page_number:04d}"
-        return f"{header}\n\n{markdown_with_assets}".strip(), len(rendered_assets)
+        return markdown_with_assets.strip(), len(rendered_assets)
 
     def _materialize_assets(
         self,
