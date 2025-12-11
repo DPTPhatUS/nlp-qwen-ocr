@@ -104,7 +104,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--cpu-mem-limit",
         type=float,
-        default=48.0,
+        default=29.0,
         help="CPU memory budget (GiB) for auto device_map spillover",
     )
     parser.add_argument("--log-level", default="INFO", help="Logging level")
