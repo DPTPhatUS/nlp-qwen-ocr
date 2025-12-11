@@ -3,7 +3,6 @@
 from __future__ import annotations
 
 import logging
-import re
 from pathlib import Path
 from typing import Dict, Optional, Sequence
 
@@ -24,8 +23,6 @@ PAGE_PROMPT = (
     "- Nếu không có hình/biểu đồ/công thức thì không chèn FAKE link nào.\n"
     "- Không giải thích thêm, không bọc trong ```json``` hay văn bản khác."
 )
-
-MARKDOWN_BLOCK_RE = re.compile(r"```(?:markdown)?\s*(.*?)```", flags=re.S)
 
 
 class QwenOcrClient:
@@ -129,16 +126,4 @@ class QwenOcrClient:
             gen_kwargs["temperature"] = self.temperature
         generated = self.model.generate(**model_inputs, **gen_kwargs)
         output = self.processor.batch_decode(generated, skip_special_tokens=True)[0]
-        return extract_markdown(output)
-
-
-def extract_markdown(text_blob: str) -> str:
-    candidate = text_blob.strip()
-    if not candidate:
-        return ""
-    blocks = MARKDOWN_BLOCK_RE.findall(candidate)
-    for block in blocks:
-        stripped = block.strip()
-        if stripped:
-            return stripped
-    return candidate
+        return output.strip()
