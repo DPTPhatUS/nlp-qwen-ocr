@@ -18,13 +18,15 @@ import torch
 import torch.nn.functional as F
 from PIL import Image
 
-from nlp_qwen_ocr.markdown_utils import clamp_bbox_to_size, normalize_bbox
+from nlp_qwen_ocr.markdown_utils import normalize_bbox
 
 LOGGER = logging.getLogger("qwen_ocr.fake_assets")
 
 FAKE_LINK_RE = re.compile(
     r"!\[(?P<alt>[^\]]*)\]\((?P<fake>FAKE_(?P<x1>\d+)_(?P<y1>\d+)_(?P<x2>\d+)_(?P<y2>\d+)(?:_(?P<label>[A-Za-z0-9_-]+))?\.png)\)"
 )
+
+ALLOWED_ASSET_TYPES: Set[str] = {"figure", "image", "chart", "formula"}
 
 
 @dataclass
@@ -33,6 +35,7 @@ class PageAsset:
     bbox: Tuple[int, int, int, int]
     img_path: Path
     text: str
+    asset_type: str
 
 
 class ClipMatcher:
@@ -96,7 +99,11 @@ class ClipMatcher:
                 cache[path] = feature.detach()
 
 
-def _collect_page_assets(metadata: Optional[Dict[str, object]], crop_dir: Optional[Path]) -> List[PageAsset]:
+def _collect_page_assets(
+    metadata: Optional[Dict[str, object]],
+    crop_dir: Optional[Path],
+    allowed_types: Optional[Set[str]] = None,
+) -> List[PageAsset]:
     if not metadata or not crop_dir:
         return []
     content = metadata.get("content")
@@ -105,6 +112,9 @@ def _collect_page_assets(metadata: Optional[Dict[str, object]], crop_dir: Option
     assets: List[PageAsset] = []
     for idx, item in enumerate(content):
         if not isinstance(item, dict):
+            continue
+        asset_type = str(item.get("type") or "").strip().lower()
+        if allowed_types and asset_type not in allowed_types:
             continue
         bbox = normalize_bbox(item.get("bbox"))
         img_rel = item.get("img_path")
@@ -119,6 +129,7 @@ def _collect_page_assets(metadata: Optional[Dict[str, object]], crop_dir: Option
                 bbox=bbox,
                 img_path=asset_path,
                 text=str(item.get("text", "") or ""),
+                asset_type=asset_type,
             )
         )
     return assets
@@ -192,12 +203,13 @@ class FakeLinkMaterializer:
     def _process_book(self, book: str) -> None:
         book_dir = self.source_dir / book
         page_meta_dir = book_dir / "pages_data"
-        page_image_dir = book_dir / "pdf_images"
         crop_dir = book_dir / "crops"
-        crop_dir = crop_dir if crop_dir.exists() else None
+        if not crop_dir.exists():
+            LOGGER.warning("Book %s missing crops directory at %s", book, crop_dir)
+            return
         raw_markdown_dir = self.markdown_root / book / "markdown_raw"
-        if not page_meta_dir.exists() or not page_image_dir.exists():
-            LOGGER.warning("Book %s missing metadata or source images", book)
+        if not page_meta_dir.exists():
+            LOGGER.warning("Book %s missing metadata directory at %s", book, page_meta_dir)
             return
         if not raw_markdown_dir.exists():
             LOGGER.warning("Book %s has no markdown_raw directory at %s", book, raw_markdown_dir)
@@ -221,18 +233,9 @@ class FakeLinkMaterializer:
             if not raw_markdown_path.exists():
                 LOGGER.warning("Missing raw markdown for page %s", page_number)
                 continue
-            image_name = page_payload.get("source_image")
-            if not image_name:
-                LOGGER.warning("page_data for %s has no source_image", meta_path.name)
-                continue
-            image_path = page_image_dir / image_name
-            if not image_path.exists():
-                LOGGER.warning("Missing source image %s for page %s", image_path, page_number)
-                continue
             markdown_text = raw_markdown_path.read_text()
             page_markdown, asset_count = render_page_markdown(
                 markdown_text=markdown_text,
-                page_image=image_path,
                 page_number=page_number,
                 markdown_dir=markdown_dir,
                 assets_root=assets_root,
@@ -256,7 +259,6 @@ class FakeLinkMaterializer:
 
 def render_page_markdown(
     markdown_text: str,
-    page_image: Path,
     page_number: int,
     markdown_dir: Path,
     assets_root: Path,
@@ -266,78 +268,71 @@ def render_page_markdown(
 ) -> Tuple[str, int]:
     if not FAKE_LINK_RE.search(markdown_text):
         return markdown_text.strip(), 0
+    if clip_matcher is None:
+        raise ValueError("clip_matcher must be provided to materialize FAKE links")
+    if crop_dir is None:
+        LOGGER.warning("Page %s missing crop_dir; skipping FAKE link materialization", page_number)
+        return markdown_text.strip(), 0
     page_asset_dir = assets_root / f"page_{page_number:04d}"
     page_asset_dir.mkdir(parents=True, exist_ok=True)
-    page_assets = _collect_page_assets(page_metadata, crop_dir)
+    page_assets = _collect_page_assets(page_metadata, crop_dir, ALLOWED_ASSET_TYPES)
+    if not page_assets:
+        LOGGER.warning(
+            "Page %s has no pre-cropped assets of types %s", page_number, sorted(ALLOWED_ASSET_TYPES)
+        )
     used_assets: Set[int] = set()
     asset_cache: Dict[str, Path] = {}
     clip_cache: Dict[Path, torch.Tensor] = {}
-    with Image.open(page_image) as page_img:
-        width, height = page_img.size
-        counter = 1
+    counter = 1
 
-        def replace(match: re.Match[str]) -> str:
-            nonlocal counter
-            bbox = (
-                int(match.group("x1")),
-                int(match.group("y1")),
-                int(match.group("x2")),
-                int(match.group("y2")),
-            )
-            alt_text = match.group("alt").strip()
-            clip_choice: Optional[Tuple[PageAsset, float]] = None
-            if clip_matcher and alt_text:
-                available = [asset for asset in page_assets if asset.idx not in used_assets]
-                clip_choice = clip_matcher.best_match(alt_text, available, clip_cache)
-            if clip_choice:
-                candidate, similarity = clip_choice
-                cache_key = f"meta:{candidate.idx}"
-                dest = asset_cache.get(cache_key)
-                if dest is None:
-                    dest = page_asset_dir / f"asset_{page_number:04d}_{counter:02d}.png"
-                    try:
-                        shutil.copyfile(candidate.img_path, dest)
-                    except OSError as exc:
-                        LOGGER.warning(
-                            "Failed to copy asset %s for page %s: %s",
-                            candidate.img_path,
-                            page_number,
-                            exc,
-                        )
-                        dest = None
-                    else:
-                        asset_cache[cache_key] = dest
-                        counter += 1
-                if dest is not None:
-                    used_assets.add(candidate.idx)
-                    rel_path = os.path.relpath(dest, markdown_dir)
-                    display_alt = alt_text or candidate.text.strip() or dest.stem
-                    LOGGER.debug(
-                        "CLIP matched %s to '%s' on page %s (score %.3f)",
-                        candidate.img_path.name,
-                        alt_text,
-                        page_number,
-                        similarity,
-                    )
-                    return f"![{display_alt}]({rel_path})"
-            clamped = clamp_bbox_to_size(bbox, width, height)
-            if clamped is None:
-                LOGGER.warning("Invalid bbox %s on page %s", bbox, page_number)
-                return match.group(0)
-            cache_key = f"bbox:{clamped}"
-            dest = asset_cache.get(cache_key)
-            if dest is None:
-                dest = page_asset_dir / f"asset_{page_number:04d}_{counter:02d}.png"
-                crop = page_img.crop(clamped)
-                crop.save(dest)
-                crop.close()
+    def replace(match: re.Match[str]) -> str:
+        nonlocal counter
+        alt_text = match.group("alt").strip()
+        if not alt_text:
+            LOGGER.warning("Missing description for FAKE link on page %s", page_number)
+            return match.group(0)
+        available = [asset for asset in page_assets if asset.idx not in used_assets]
+        if not available:
+            LOGGER.warning("No remaining figure-like assets for page %s", page_number)
+            return match.group(0)
+        clip_choice = clip_matcher.best_match(alt_text, available, clip_cache)
+        if not clip_choice:
+            LOGGER.warning("CLIP failed to match '%s' on page %s", alt_text, page_number)
+            return match.group(0)
+        candidate, similarity = clip_choice
+        cache_key = f"meta:{candidate.idx}"
+        dest = asset_cache.get(cache_key)
+        if dest is None:
+            dest = page_asset_dir / f"asset_{page_number:04d}_{counter:02d}.png"
+            try:
+                shutil.copyfile(candidate.img_path, dest)
+            except OSError as exc:
+                LOGGER.warning(
+                    "Failed to copy asset %s for page %s: %s",
+                    candidate.img_path,
+                    page_number,
+                    exc,
+                )
+                dest = None
+            else:
                 asset_cache[cache_key] = dest
                 counter += 1
-            rel_path = os.path.relpath(dest, markdown_dir)
-            fallback_alt = alt_text or dest.stem
-            return f"![{fallback_alt}]({rel_path})"
+        if dest is None:
+            return match.group(0)
+        used_assets.add(candidate.idx)
+        rel_path = os.path.relpath(dest, markdown_dir)
+        display_alt = alt_text or candidate.text.strip() or dest.stem
+        LOGGER.debug(
+            "CLIP matched %s (%s) to '%s' on page %s (score %.3f)",
+            candidate.img_path.name,
+            candidate.asset_type,
+            alt_text,
+            page_number,
+            similarity,
+        )
+        return f"![{display_alt}]({rel_path})"
 
-        rendered = FAKE_LINK_RE.sub(replace, markdown_text)
+    rendered = FAKE_LINK_RE.sub(replace, markdown_text)
     return rendered.strip(), len(asset_cache)
 
 
