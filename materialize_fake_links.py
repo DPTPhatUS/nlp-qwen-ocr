@@ -325,7 +325,6 @@ def render_page_markdown(
             return drop("failed to materialize asset")
         used_assets.add(candidate.idx)
         rel_path = os.path.relpath(dest, markdown_dir)
-        display_alt = alt_text or candidate.text.strip() or dest.stem
         LOGGER.debug(
             "CLIP matched %s (%s) to '%s' on page %s (score %.3f)",
             candidate.img_path.name,
@@ -334,7 +333,7 @@ def render_page_markdown(
             page_number,
             similarity,
         )
-        return f"![{display_alt}]({rel_path})"
+        return f"[{rel_path}]({rel_path})"
 
     rendered = FAKE_LINK_RE.sub(replace, markdown_text)
     if drop_sentinel in rendered:
