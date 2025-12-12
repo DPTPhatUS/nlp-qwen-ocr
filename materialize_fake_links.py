@@ -274,7 +274,6 @@ def render_page_markdown(
         LOGGER.warning("Page %s missing crop_dir; skipping FAKE link materialization", page_number)
         return markdown_text.strip(), 0
     page_asset_dir = assets_root / f"page_{page_number:04d}"
-    page_asset_dir.mkdir(parents=True, exist_ok=True)
     page_assets = _collect_page_assets(page_metadata, crop_dir, ALLOWED_ASSET_TYPES)
     if not page_assets:
         LOGGER.warning(
@@ -284,25 +283,30 @@ def render_page_markdown(
     asset_cache: Dict[str, Path] = {}
     clip_cache: Dict[Path, torch.Tensor] = {}
     counter = 1
+    drop_sentinel = "__DROP_FAKE_LINK__"
 
     def replace(match: re.Match[str]) -> str:
         nonlocal counter
         alt_text = match.group("alt").strip()
+
+        def drop(reason: str) -> str:
+            LOGGER.warning("Dropping FAKE link on page %s: %s", page_number, reason)
+            return drop_sentinel
+
         if not alt_text:
-            LOGGER.warning("Missing description for FAKE link on page %s", page_number)
-            return match.group(0)
+            return drop("missing description")
         available = [asset for asset in page_assets if asset.idx not in used_assets]
         if not available:
-            LOGGER.warning("No remaining figure-like assets for page %s", page_number)
-            return match.group(0)
+            return drop("no remaining eligible assets")
         clip_choice = clip_matcher.best_match(alt_text, available, clip_cache)
         if not clip_choice:
-            LOGGER.warning("CLIP failed to match '%s' on page %s", alt_text, page_number)
-            return match.group(0)
+            return drop(f"CLIP failed to match '{alt_text}'")
         candidate, similarity = clip_choice
         cache_key = f"meta:{candidate.idx}"
         dest = asset_cache.get(cache_key)
         if dest is None:
+            if not page_asset_dir.exists():
+                page_asset_dir.mkdir(parents=True, exist_ok=True)
             dest = page_asset_dir / f"asset_{page_number:04d}_{counter:02d}.png"
             try:
                 shutil.copyfile(candidate.img_path, dest)
@@ -318,7 +322,7 @@ def render_page_markdown(
                 asset_cache[cache_key] = dest
                 counter += 1
         if dest is None:
-            return match.group(0)
+            return drop("failed to materialize asset")
         used_assets.add(candidate.idx)
         rel_path = os.path.relpath(dest, markdown_dir)
         display_alt = alt_text or candidate.text.strip() or dest.stem
@@ -333,6 +337,9 @@ def render_page_markdown(
         return f"![{display_alt}]({rel_path})"
 
     rendered = FAKE_LINK_RE.sub(replace, markdown_text)
+    if drop_sentinel in rendered:
+        lines = [line for line in rendered.splitlines() if drop_sentinel not in line]
+        rendered = "\n".join(lines)
     return rendered.strip(), len(asset_cache)
 
 
