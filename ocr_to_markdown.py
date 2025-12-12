@@ -43,12 +43,6 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--max-pixels", type=int, default=2048 * 2048, help="Max pixels per side for processor")
     parser.add_argument("--start-page", type=int, default=1, help="Page number to start from (inclusive)")
     parser.add_argument("--max-pages", type=int, default=None, help="Number of pages to process after start page")
-    parser.add_argument(
-        "--attn-impl",
-        choices=["flash_attention_2", "sdpa", "eager", "auto"],
-        default="auto",
-        help="Attention backend for Qwen (flash_attention_2 recommended on T4 when available)",
-    )
     parser.add_argument("--load-in-8bit", action="store_true", help="Enable bitsandbytes 8-bit loading")
     parser.add_argument("--gpu-mem-limit", type=float, default=14.0, help="Per-GPU memory budget (GiB)")
     parser.add_argument("--cpu-mem-limit", type=float, default=29.0, help="CPU memory budget (GiB)")
@@ -71,7 +65,6 @@ class MarkdownOcrPipeline:
             max_pixels=args.max_pixels,
             max_new_tokens=args.max_new_tokens,
             temperature=args.temperature,
-            attn_impl=args.attn_impl,
             load_in_8bit=args.load_in_8bit,
             gpu_mem_limit=args.gpu_mem_limit,
             cpu_mem_limit=args.cpu_mem_limit,

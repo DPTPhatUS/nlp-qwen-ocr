@@ -16,4 +16,5 @@ dependencies = [
     "torchvision>=0.24.1",
     "tqdm>=4.67.1",
     "transformers>=4.57.3",
+    "wrapt>=2.0.1",
 ]

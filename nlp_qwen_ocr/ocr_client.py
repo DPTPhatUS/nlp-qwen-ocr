@@ -37,7 +37,6 @@ class QwenOcrClient:
         max_pixels: int,
         max_new_tokens: int,
         temperature: float,
-        attn_impl: str,
         load_in_8bit: bool,
         gpu_mem_limit: float,
         cpu_mem_limit: float,
@@ -54,8 +53,6 @@ class QwenOcrClient:
         )
         LOGGER.info("Loading model %s", model_id)
         model_kwargs: Dict[str, object] = {"trust_remote_code": True}
-        if attn_impl and attn_impl != "auto":
-            model_kwargs["attn_implementation"] = attn_impl
         if load_in_8bit:
             try:
                 from transformers import BitsAndBytesConfig  # type: ignore
