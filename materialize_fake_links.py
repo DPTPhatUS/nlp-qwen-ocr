@@ -18,7 +18,7 @@ from nlp_qwen_ocr.markdown_utils import clamp_bbox_to_size
 LOGGER = logging.getLogger("qwen_ocr.fake_assets")
 
 FAKE_LINK_RE = re.compile(
-    r"!\[(?P<alt>[^\]]*)\]\((?P<fake>FAKE_(?P<x1>\d+)_(?P<y1>\d+)_(?P<x2>\d+)_(?P<y2>\d+)(?:_[A-Za-z0-9-]+)?\.png)\)"
+    r"!\[(?P<alt>[^\]]*)\]\((?P<fake>FAKE_(?P<x1>\d+)_(?P<y1>\d+)_(?P<x2>\d+)_(?P<y2>\d+)(?:_[A-Za-z0-9_-]+)?\.png)\)"
 )
 
 
