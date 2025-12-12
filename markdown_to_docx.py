@@ -49,7 +49,7 @@ class MarkdownToDocxPipeline:
         if not book_md_path.exists():
             LOGGER.warning("Missing aggregated Markdown at %s", book_md_path)
             return
-        markdown_text = book_md_path.read_text()
+        markdown_text = book_md_path.read_text(encoding="utf-8")
         docx_dir.mkdir(parents=True, exist_ok=True)
         docx_path = docx_dir / f"{book}.docx"
         self.exporter.convert(markdown_text, book_md_path, docx_path)
