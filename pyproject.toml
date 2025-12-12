@@ -7,6 +7,7 @@ requires-python = ">=3.11"
 dependencies = [
     "accelerate>=1.12.0",
     "bitsandbytes>=0.48.2",
+    "open-clip-torch>=3.2.0",
     "pillow>=12.0.0",
     "python-docx>=1.2.0",
     "qwen-vl-utils>=0.0.14",
