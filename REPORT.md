@@ -26,9 +26,9 @@ We finished the OCR-to-Markdown flow for the currently scoped books (book1 and b
 ## Data Volume & Coverage
 | Book  | JSON pages in `docs/` | Raw Markdown pages | Final Markdown pages | PNG assets copied |
 |-------|-----------------------|--------------------|----------------------|-------------------|
-| book1 | 259                   | 259                | 259                  | 1 |
-| book2 | 686                   | 686  | 686                    | 0 *(not run yet)* |
-| book3 | 363                   | 363                | 363                  | 33 |
+| book1 | 259                   | 259                | 259                  | 1                 |
+| book2 | 686                   | 686                | 686                  | 0 *(not run yet)* |
+| book3 | 363                   | 363                | 363                  | 33                |
 
 Totals: 1,308 source pages inventoried, 622 pages OCR'd/trimmed/cleaned, and 33 page-level illustrations materialized into the assets tree.
 
