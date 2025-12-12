@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Insert </break> markers between heading 1 and heading 2 pairs in book markdown files."""
+"""Step 4: Insert </break> markers between heading 1 and heading 2 pairs in book markdown files."""
 from __future__ import annotations
 
 import argparse

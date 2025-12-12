@@ -4,7 +4,12 @@ Pipeline for turning scanned Vietnamese traditional medicine books into Markdown
 
 ## Why Qwen3-VL-8B?
 
-Qwen VL models ship native layout-aware OCR via the `process_vision_info` helper and chat templates described in the [official Hugging Face quickstart](https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct). The same interface applies to Qwen3-VL-8B-Instruct, so we can reuse the documented `AutoProcessor` + `generate` workflow and simply swap the checkpoint id.
+- Layout-aware: the model natively ingests page-size images and, through the `process_vision_info` helper, keeps headings, tables, figures, and formulas aligned in the emitted Markdown.
+- Multilingual: Qwen3-VL-8B-Instruct handles Vietnamese text and classical medical terminology without additional fine-tuning, which keeps this pipeline prompt-only.
+- Right-sized: 8B parameters fit on dual T4s (or a single 24 GB GPU) with FP16 or 8-bit loading, so Kaggle and on-prem runs share the same recipe.
+- Stable API: the public [Hugging Face quickstart](https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct) documents the exact `AutoProcessor` + `generate` flow we reuse here, meaning there are no hidden custom ops or private endpoints.
+
+In short, Qwen3-VL-8B provides the best mix of Markdown fidelity, throughput, and licensing flexibility for these historical Vietnamese books, while still exposing a first-party toolkit that we can script end to end.
 
 ## Setup
 

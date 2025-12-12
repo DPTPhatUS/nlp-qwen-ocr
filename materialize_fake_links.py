@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Stage 2: Turn FAKE Markdown links into real PNG crops + cleaned Markdown."""
+"""Step 3: Turn FAKE Markdown links into real PNG crops plus cleaned Markdown."""
 
 from __future__ import annotations
 

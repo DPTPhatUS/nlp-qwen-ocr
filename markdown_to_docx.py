@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Stage 3: Convert aggregated Markdown into DOCX outputs."""
+"""Step 5: Convert aggregated Markdown into DOCX outputs."""
 
 from __future__ import annotations
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Stage 1: Run Qwen3-VL OCR and save Markdown drafts per page."""
+"""Step 1: Run Qwen3-VL OCR and save Markdown drafts per page."""
 
 from __future__ import annotations
 

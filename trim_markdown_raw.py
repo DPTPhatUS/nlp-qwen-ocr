@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Strip the first N lines from every file inside each markdown_raw directory."""
+"""Step 2: Trim the first N lines from each markdown_raw page."""
 
 from __future__ import annotations
 
