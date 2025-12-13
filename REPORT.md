@@ -18,14 +18,12 @@ Processed three scanned Vietnamese traditional medicine books (book1-book3) from
 - **Environment:** Python 3.x virtualenv per `pyproject.toml`, GPU-friendly settings (`device_map="auto"`, FP16/8-bit) to keep throughput acceptable on 24 GB VRAM hardware.
 
 ## Data & Output Statistics
-| Book | Raw pages (.md) | Clean pages (.md) | Asset crops (.png) | DOCX files | Raw size (MB) | Clean size (MB) | Assets size (MB) | DOCX size (MB) |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| book1 | 259 | 259 | 1 | 1 | 0.48 | 0.97 | 0.09 | 0.16 |
-| book2 | 686 | 686 | 118 | 1 | 1.44 | 2.89 | 26.90 | 0.40 |
-| book3 | 363 | 363 | 33 | 1 | 0.44 | 0.88 | 19.25 | 0.18 |
-| **Total** | **1,308** | **1,308** | **152** | **3** | **2.36** | **4.73** | **46.24** | **0.75** |
-
-_All byte counts were pulled directly from the `outputs/` tree (see log from the ad-hoc stats script in this session)._
+| Book | Raw pages (.md) | Clean pages (.md) | Asset crops (.png) |
+| --- | ---: | ---: | ---: |
+| book1 | 259 | 259 | 1 |
+| book2 | 686 | 686 | 118 |
+| book3 | 363 | 363 | 33 |
+| **Total** | **1,308** | **1,308** | **152** |
 
 ## Sample Transformations
 **Example 1 - Header trimming (Stage 2)**
@@ -59,3 +57,7 @@ assistant
 
 [../assets/page_0001/asset_0001_01.png](../assets/page_0001/asset_0001_01.png)
 ```
+
+**Example 3 - Full Page Screenshots**
+- **Raw PDF Page:** ![PDF Screenshot](docs/images/pdf.png)
+- **Exported DOCX Page:** ![DOCX Screenshot](docs/images/docx.png)
