@@ -12,6 +12,9 @@ BREAK_TAG = "</break>"
 HEADING_LINE = re.compile(r"^(?P<marker>#+) (?P<title>.+)$")
 HeadingType = Literal["h1", "h2"]
 
+VIETNAMESE_UPPER = "A-ZÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚĂĐĨŨƠƯẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂỄỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪỬỮỰÝỲỶỸỴ"
+ROMAN_UPPER = "IVXLCDM"
+
 
 @dataclass(frozen=True)
 class BookRule:
@@ -31,8 +34,12 @@ BOOK_RULES: dict[str, BookRule] = {
     "book2": BookRule(
         slug="book2",
         markdown_filename="book2.md",
-        h1_patterns=(re.compile(r"^(?!\d)[^\.\s]+\.\s"),),
-        h2_patterns=(re.compile(r"^\d+\.\s"),),
+        h1_patterns=(re.compile(rf"^(?:[{ROMAN_UPPER}]+)\.\s"),),
+        h2_patterns=(
+            re.compile(
+                rf"^(?![{ROMAN_UPPER}\s]+\.\s)[{VIETNAMESE_UPPER}]+(?:\s+[{VIETNAMESE_UPPER}]+)*\.\s"
+            ),
+        ),
     ),
     "book3": BookRule(
         slug="book3",
