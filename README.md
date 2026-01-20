@@ -33,7 +33,7 @@ Key runtime dependencies bundled in `pyproject.toml`:
 
 ## Data note
 
-The initial book data under `docs/` was preprocessed using PaddleOCR and SuryaOCR in the companion project: https://github.com/Tran-Duc-An/NLP-MedicalProject.git
+The initial book data under `docs/` was preprocessed using PaddleOCR and [Surya](https://github.com/datalab-to/surya.git) in the companion project: https://github.com/Tran-Duc-An/NLP-MedicalProject.git
 
 1. `ocr_to_markdown.py` — run Qwen3-VL-8B over every scanned page to get raw Markdown with inline FAKE links.
 2. `trim_markdown_raw.py` — strip noisy page headers/footers from each raw Markdown file so downstream diffs stay clean.
